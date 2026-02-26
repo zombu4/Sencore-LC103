@@ -1,0 +1,23 @@
+52473:1bd1e4 unassigned sequence local(s).N is unwired, and there are no indexing inputs,array, cluster, or RefNum has undefined type
+52516:1bdd78 A wire must be connected to one and only one data source, such as a control's terminal or a function output. This wire is not connected to any source. Find the source of this data and make sure it is a control (not indicator) or an output (not input).
+52524:1be4f3 One or more required inputs to this function are not wired or are wired incorrectly. Show the Help window to see what the connections to this function should be.
+52525:1be595 A wire can be connected to only one data source, such as a control's terminal or a function output. This wire is connected to more than one source. Make sure that all connections except one are to indicators (not controls) or inputs (not outputs).
+75980:3275e3 okReturns in byte count the number of bytes in the input buffer of the serial port indicated in port number.
+102543:4d083f This error code is not listed in the internal database, or you have wired a number that is not an error code (such as a DAQ task ID) to the error code input.6Windows GetCommError: The hex value of this code is x
+246306:166087 okReturns in byte count the number of bytes in the input buffer of the serial port indicated in port number.
+246407:1669fb kReturns in byte count the number of bytes in the input buffer of the serial port indicated in port number.
+260976:249417 This error code is not listed in the internal database, or you have wired a number that is not an error code (such as a DAQ task ID) to the error code input.6Windows GetCommError: The hex value of this code is x
+308525:ef672 okReturns in byte count the number of bytes in the input buffer of the serial port indicated in port number.
+308623:effdf kReturns in byte count the number of bytes in the input buffer of the serial port indicated in port number.
+314984:166fe8 This error code is not listed in the internal database, or you have wired a number that is not an error code (such as a DAQ task ID) to the error code input.6Windows GetCommError: The hex value of this code is x
+341461:1065b8 This error code is not listed in the internal database, or you have wired a number that is not an error code (such as a DAQ task ID) to the error code input.6Windows GetCommError: The hex value of this code is x
+396594:330a77 okReturns in byte count the number of bytes in the input buffer of the serial port indicated in port number.
+404008:3a3ab3 kReturns in byte count the number of bytes in the input buffer of the serial port indicated in port number.
+440783:163dba okReturns in byte count the number of bytes in the input buffer of the serial port indicated in port number.
+442991:1854e3 kReturns in byte count the number of bytes in the input buffer of the serial port indicated in port number.
+521514:349828 okReturns in byte count the number of bytes in the input buffer of the serial port indicated in port number.
+527345:3b26ff kReturns in byte count the number of bytes in the input buffer of the serial port indicated in port number.
+556364:1a3f93 kReturns in byte count the number of bytes in the input buffer of the serial port indicated in port number.
+558118:1c3956 okReturns in byte count the number of bytes in the input buffer of the serial port indicated in port number.
+596744:f395f kReturns in byte count the number of bytes in the input buffer of the serial port indicated in port number.
+600676:13317f kReturns in byte count the number of bytes in the input buffer of the serial port indicated in port number.

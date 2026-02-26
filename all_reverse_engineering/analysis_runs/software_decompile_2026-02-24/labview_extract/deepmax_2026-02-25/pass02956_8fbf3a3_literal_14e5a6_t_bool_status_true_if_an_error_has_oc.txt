@@ -1,0 +1,1 @@
+578659:14e5a6 t(bool) status: TRUE if an error has occurred. Regardless of the value of status, this VI clears the input operation.

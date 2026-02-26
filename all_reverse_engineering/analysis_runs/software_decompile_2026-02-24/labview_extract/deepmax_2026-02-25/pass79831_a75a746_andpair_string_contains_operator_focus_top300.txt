@@ -1,0 +1,15 @@
+57231:212a20 status[15]- GPIB error detectedA=data string contains count data bytes from the GPIB device.
+100209:49d388 source messages contains the source message you want to appear in the error out cluster if the VI finds an error in error codes. Place each message on a separate line in a string constant or control.
+227622:53a78 status[15]- GPIB error detectedA=data string contains count data bytes from the GPIB device.
+258563:214768 source messages contains the source message you want to appear in the error out cluster if the VI finds an error in error codes. Place each message on a separate line in a string constant or control.
+294105:20e09 status[15]- GPIB error detectedA=data string contains count data bytes from the GPIB device.
+326272:20101 status[15]- GPIB error detectedA=data string contains count data bytes from the GPIB device.
+349067:1ed38 status[15]- GPIB error detectedA=data string contains count data bytes from the GPIB device.
+373374:1a228f source messages contains the source message you want to appear in the error out cluster if the VI finds an error in error codes. Place each message on a separate line in a string constant or control.
+419734:1ec7d status[15]- GPIB error detectedA=data string contains count data bytes from the GPIB device.
+454571:1d54d status[15]- GPIB error detectedA=data string contains count data bytes from the GPIB device.
+478283:1ed38 status[15]- GPIB error detectedA=data string contains count data bytes from the GPIB device.
+505539:200a14 source messages contains the source message you want to appear in the error out cluster if the VI finds an error in error codes. Place each message on a separate line in a string constant or control.
+532202:1ec7d status[15]- GPIB error detectedA=data string contains count data bytes from the GPIB device.
+562487:1d54d status[15]- GPIB error detectedA=data string contains count data bytes from the GPIB device.
+583006:1ecb0 status[15]- GPIB error detectedA=data string contains count data bytes from the GPIB device.

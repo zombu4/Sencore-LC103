@@ -1,0 +1,2 @@
+48290:167228 This options toggles the use of the localized decimal point.  Turning this option off will result the in the U.S. standard of using a period for the decimal point.
+52446:1bccf2 !Attempt to use bad index for wire9Segment with index out of range will be deleted from wire"Bad edge will not be added to wire%Cannot find terminal hotpoint in wire

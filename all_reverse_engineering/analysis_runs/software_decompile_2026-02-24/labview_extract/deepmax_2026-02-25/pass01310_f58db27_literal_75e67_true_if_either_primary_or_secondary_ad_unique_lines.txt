@@ -1,0 +1,1 @@
+300421:75e67 True if either primary or secondary addresses are outside ot the range 0-31. address error indicates whether a range error has occurred.

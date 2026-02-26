@@ -1,0 +1,142 @@
+52596:1c0335 Serial Port Buffer Size.vi
+55495:1f53ca This version of Set Serial Port Buffer Size.vi is to be used on the SPARC or Windows version of LabVIEW as a subVI to OpenSerialDriver and Serial Port Init.vi.$
+55497:1f54b0 Serial Port Buffer Size.vize.vi
+55506:1f55f8 Serial Port Buffer Size.vi
+55508:1f562c Serial Port Buffer Size.vi
+55513:1f568f Serial Port Buffer Size.vi
+55533:1f58a5 Serial Port Buffer Size.vi+
+55565:1f5b06 Serial Port Buffer Size.vi
+55566:1f5b21 Serial Port Buffer Size.vi
+55567:1f5b3c Serial Port Buffer Size.vi
+55568:1f5b57 Serial Port Buffer Size.vi
+55569:1f5b72 Serial Port Buffer Size.vi
+55570:1f5b8d Serial Port Buffer Size.vi
+55571:1f5ba8 Serial Port Buffer Size.vi
+55572:1f5bc3 Serial Port Buffer Size.vi
+55573:1f5bde Serial Port Buffer Size.vi
+55574:1f5bf9 Serial Port Buffer Size.vi
+55575:1f5c14 Serial Port Buffer Size.vi
+55576:1f5c2f Serial Port Buffer Size.vi
+55577:1f5c4a Serial Port Buffer Size.vi
+55578:1f5c65 Serial Port Buffer Size.vi
+55579:1f5c80 Serial Port Buffer Size.vi
+55580:1f5c9b Serial Port Buffer Size.vi
+69987:2c8cfa LV_DIG_PORT_WRITESetCINArraySize, elmtNum %ld out of range 0 <= elmtNum < %ldnon-array detected
+70386:2cf70c CINStartLoad: loaderror= %d, error=%ldLV_DIG_PORT_READSetCINArraySize, elmtNum %ld out of range 0 <= elmtNum < %ldnon-array detected
+75194:31c1dc Serial Port Buffer Size.viU
+75204:31c292 Serial Port Buffer Size.vi
+75216:31c353 Serial Port Buffer Size.vi
+75292:31c934 Serial Port Buffer Size.vi
+75298:31c9a1 Serial Port Buffer Size.vi
+120159:5ed107 Serial Port Buffer Size.vi
+225747:3364b Serial Port Buffer Size.vi
+225848:35b6e This version of Set Serial Port Buffer Size.vi is to be used on the SPARC or Windows version of LabVIEW as a subVI to OpenSerialDriver and Serial Port Init.vi.$
+225850:35c54 Serial Port Buffer Size.vize.vi
+225859:35d9c Serial Port Buffer Size.vi
+225861:35dd0 Serial Port Buffer Size.vi
+225866:35e33 Serial Port Buffer Size.vi
+225886:36049 Serial Port Buffer Size.vi+
+225918:362aa Serial Port Buffer Size.vi
+225919:362c5 Serial Port Buffer Size.vi
+225920:362e0 Serial Port Buffer Size.vi
+225921:362fb Serial Port Buffer Size.vi
+225922:36316 Serial Port Buffer Size.vi
+225923:36331 Serial Port Buffer Size.vi
+225924:3634c Serial Port Buffer Size.vi
+225925:36367 Serial Port Buffer Size.vi
+225926:36382 Serial Port Buffer Size.vi
+225927:3639d Serial Port Buffer Size.vi
+225928:363b8 Serial Port Buffer Size.vi
+225929:363d3 Serial Port Buffer Size.vi
+225930:363ee Serial Port Buffer Size.vi
+225931:36409 Serial Port Buffer Size.vi
+225932:36424 Serial Port Buffer Size.vi
+225933:3643f Serial Port Buffer Size.vi
+225934:36464 This version of Set Serial Port Buffer Size.vi is to be used on the SPARC or Windows version of LabVIEW as a subVI to OpenSerialDriver and Serial Port Init.vi.
+240587:10c32e LV_DIG_PORT_WRITESetCINArraySize, elmtNum %ld out of range 0 <= elmtNum < %ldnon-array detected
+241002:11301c CINStartLoad: loaderror= %d, error=%ldLV_DIG_PORT_READSetCINArraySize, elmtNum %ld out of range 0 <= elmtNum < %ldnon-array detected
+245504:15a890 Serial Port Buffer Size.viU
+245514:15a946 Serial Port Buffer Size.vi
+245526:15aa07 Serial Port Buffer Size.vi
+245602:15afe8 Serial Port Buffer Size.vi
+245608:15b055 Serial Port Buffer Size.vi
+291475:4426e1 Serial Port Buffer Size.vi
+291703:44631c Serial Port Buffer Size.vi
+291704:446337 Serial Port Buffer Size.vi
+291705:446352 Serial Port Buffer Size.vi
+291706:44636d Serial Port Buffer Size.vi
+291707:446388 Serial Port Buffer Size.vi
+313030:138aae LV_DIG_PORT_WRITESetCINArraySize, elmtNum %ld out of range 0 <= elmtNum < %ldnon-array detected
+313447:13f792 CINStartLoad: loaderror= %d, error=%ldLV_DIG_PORT_READSetCINArraySize, elmtNum %ld out of range 0 <= elmtNum < %ldnon-array detected
+339495:d7f8b LV_DIG_PORT_WRITESetCINArraySize, elmtNum %ld out of range 0 <= elmtNum < %ldnon-array detected
+339919:dec6b CINStartLoad: loaderror= %d, error=%ldLV_DIG_PORT_READSetCINArraySize, elmtNum %ld out of range 0 <= elmtNum < %ldnon-array detected
+347379:17a7 Serial Port Buffer Size.vi
+361836:d8832 Serial Port Buffer Size.vi
+394270:30d6f4 This version of Set Serial Port Buffer Size.vi is to be used on the SPARC or Windows version of LabVIEW as a subVI to OpenSerialDriver and Serial Port Init.vi.
+397298:33c1ee Serial Port Buffer Size.vi
+397304:33c25d Serial Port Buffer Size.vi
+397564:33edf8 Serial Port Buffer Size.vi
+397724:340841 Serial Port Buffer Size.vi
+397743:341749 Serial Port Buffer Size.vi
+402597:38f281 CINStartLoad: loaderror= %d, error=%ldLV_DIG_PORT_READSetCINArraySize, elmtNum %ld out of range 0 <= elmtNum < %ldnon-array detected
+403012:3963f3 LV_DIG_PORT_WRITESetCINArraySize, elmtNum %ld out of range 0 <= elmtNum < %ldnon-array detected
+403752:3a078d Serial Port Buffer Size.vize.vi
+403759:3a083b Serial Port Buffer Size.vi
+403908:3a204e Serial Port Buffer Size.vi
+403915:3a20f9 This version of Set Serial Port Buffer Size.vi is to be used on the SPARC or Windows version of LabVIEW as a subVI to OpenSerialDriver and Serial Port Init.vi.
+403932:3a2421 Serial Port Buffer Size.vi
+403941:3a29ae Serial Port Buffer Size.vi
+403989:3a319a Serial Port Buffer Size.vi
+416742:47e449 Serial Port Buffer Size.vi
+416955:481cc8 Serial Port Buffer Size.vi
+417167:482bfd Serial Port Buffer Size.vi
+417168:482c18 Serial Port Buffer Size.vi
+417169:482c33 Serial Port Buffer Size.vi
+417170:482c4e Serial Port Buffer Size.vi
+435371:10d85e CINStartLoad: loaderror= %d, error=%ldLV_DIG_PORT_READSetCINArraySize, elmtNum %ld out of range 0 <= elmtNum < %ldnon-array detected
+435789:1149cb LV_DIG_PORT_WRITESetCINArraySize, elmtNum %ld out of range 0 <= elmtNum < %ldnon-array detected
+468340:dc1fb LV_DIG_PORT_WRITESetCINArraySize, elmtNum %ld out of range 0 <= elmtNum < %ldnon-array detected
+468764:e367d CINStartLoad: loaderror= %d, error=%ldLV_DIG_PORT_READSetCINArraySize, elmtNum %ld out of range 0 <= elmtNum < %ldnon-array detected
+476595:17a7 Serial Port Buffer Size.vi
+490338:ce6ee Serial Port Buffer Size.vi
+520862:33cfec This version of Set Serial Port Buffer Size.vi is to be used on the SPARC or Windows version of LabVIEW as a subVI to OpenSerialDriver and Serial Port Init.vi.
+522034:352b0f Serial Port Buffer Size.vi
+522040:352b7e Serial Port Buffer Size.vi
+522130:35360e Serial Port Buffer Size.vi
+522275:354ca1 Serial Port Buffer Size.vi
+522328:3569b4 Serial Port Buffer Size.vi
+525247:38d246 CINStartLoad: loaderror= %d, error=%ldLV_DIG_PORT_READSetCINArraySize, elmtNum %ld out of range 0 <= elmtNum < %ldnon-array detected
+525529:392c14 LV_DIG_PORT_WRITESetCINArraySize, elmtNum %ld out of range 0 <= elmtNum < %ldnon-array detected
+526663:3a7007 Serial Port Buffer Size.vi
+526680:3a7394 Serial Port Buffer Size.vi
+526719:3a7979 This version of Set Serial Port Buffer Size.vi is to be used on the SPARC or Windows version of LabVIEW as a subVI to OpenSerialDriver and Serial Port Init.vi.
+526736:3a7ca9 Serial Port Buffer Size.vi
+526744:3a823c Serial Port Buffer Size.vi
+526792:3a8a05 Serial Port Buffer Size.vi.
+529169:3d8435 Serial Port Buffer Size.vi
+529417:3dde04 Serial Port Buffer Size.vi
+529628:3ded46 Serial Port Buffer Size.vi
+529629:3ded61 Serial Port Buffer Size.vi
+529630:3ded7c Serial Port Buffer Size.vi
+529631:3ded97 Serial Port Buffer Size.vi
+547746:10c76e CINStartLoad: loaderror= %d, error=%ldLV_DIG_PORT_READSetCINArraySize, elmtNum %ld out of range 0 <= elmtNum < %ldnon-array detected
+548164:1138db LV_DIG_PORT_WRITESetCINArraySize, elmtNum %ld out of range 0 <= elmtNum < %ldnon-array detected
+578291:14756b LV_DIG_PORT_WRITESetCINArraySize, elmtNum %ld out of range 0 <= elmtNum < %ldnon-array detected
+578576:14d17e CINStartLoad: loaderror= %d, error=%ldLV_DIG_PORT_READSetCINArraySize, elmtNum %ld out of range 0 <= elmtNum < %ldnon-array detected
+595001:ce0fa Serial Port Buffer Size.vi
+596728:f22f4 This version of Set Serial Port Buffer Size.vi is to be used on the SPARC or Windows version of LabVIEW as a subVI to OpenSerialDriver and Serial Port Init.vi.
+596857:f75a9 Serial Port Buffer Size.vi
+598035:105fab Serial Port Buffer Size.vi
+598040:10615b Serial Port Buffer Size.vi
+598059:106584 This version of Set Serial Port Buffer Size.vi is to be used on the SPARC or Windows version of LabVIEW as a subVI to OpenSerialDriver and Serial Port Init.vi.
+598061:1066bb Serial Port Buffer Size.vi
+598072:106b13 Serial Port Buffer Size.vi
+598118:1074a1 Serial Port Buffer Size.vi
+600189:12bfb1 Serial Port Buffer Size.vi
+600191:12bfda Serial Port Buffer Size.vi
+600208:12c359 Serial Port Buffer Size.vi
+600286:12da6d Serial Port Buffer Size.vi
+600288:12da96 Serial Port Buffer Size.vi
+612500:1f7663 Serial Port Buffer Size.vi
+612501:1f767e Serial Port Buffer Size.vi
+612502:1f7699 Serial Port Buffer Size.vi

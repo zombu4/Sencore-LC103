@@ -1,0 +1,1 @@
+504205:1e9baa displays a dialog box with buttons allowing the user to either continue or stop. If the user cancels, the VI calls the Stop function to halt execution.

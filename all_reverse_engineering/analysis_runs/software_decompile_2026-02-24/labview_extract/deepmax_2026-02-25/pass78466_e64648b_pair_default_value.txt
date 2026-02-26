@@ -1,0 +1,232 @@
+48222:165d4f vThis button sets the Abort minimum to its default value.  You can not change the Abort minimum if this box is checked.
+48225:165e7b tThis button sets the Warn minimum to its default value.  You can not change the Warn minimum if this box is checked.
+48231:166060 This button sets the currently displayed path to its default value.  You can not change the currently displayed path if this box is checked.
+48252:16663b eThis button sets colors to their default values.  Colors can not be changed when this box is checked.
+48261:166897 CThis button sets the currently displayed font to its default value.
+52991:1cae6d start path is the path name to the initially displayed directory (or folder) in a file dialog. The default value is Not A Path, which is the path to the last directory (or folder) shown in a file dialog.
+53009:1cb61a EAstatus is TRUE if an error occurred; the default value is FALSE.
+53013:1cb678 ERROR40code is the error code; the default value is 0.
+53014:1cb6af zvsource is in most cases the name of the VI or function that produced the error; the default value is an empty string.
+54000:1db968 file path is the path name of the file.  If file path is empty (default value) or is Not A Path, the VI displays a File dialog box from which you can select a file.  Error 43 occurs if the user cancels the dialog.     
+54009:1dbda3 start path is the path name to the initially displayed directory in a file dialog.  The default value is Not A Path, which is the path to the last directory shown in a file dialog.
+54231:1dfa6c End of the file plus pos offset. This is the default value.
+54233:1dfad1 pos offset specifies in characters how far from the location specified by pos mode that the operation begins. The default value is 0.
+54237:1dfc2a convert eol? converts the LabVIEW end of line marker to the platform specific marker when set to TRUE. When set to false (the default value), no conversion occurs.
+54250:1e0000 EAstatus is TRUE if an error occurred; the default value is FALSE.
+54254:1e005e ERROR40code is the error code; the default value is 0.
+54255:1e0095 zvsource is in most cases the name of the VI or function that produced the error; the default value is an empty string.
+54498:1e3f2d at the end of the file plus pos offset.  This is the default value.
+54500:1e3fa1 pos offset specifies in characters how far from the location specified by pos mode that the operation begins.  The default value is 0.
+54502:1e4062 convert eol  Set TRUE to convert the LabVIEW end of line marker to the platform-specific marker.  Set FALSE (default value) to do nothing.
+99472:491159 start path is the path name to the initially displayed directory (or folder) in a file dialog. The default value is Not A Path, which is the path to the last directory (or folder) shown in a file dialog.
+100015:49a087 file path is the path name of the file.  If file path is empty (default value) or is Not A Path, the VI displays a File dialog box from which you can select a file.  Error 43 occurs if the user cancels the dialog.     
+100019:49a277 start path is the path name to the initially displayed directory in a file dialog.  The default value is Not A Path, which is the path to the last directory shown in a file dialog.
+100604:4a38b8 EAstatus is TRUE if an error occurred; the default value is FALSE.
+100609:4a3a44 ERROR40code is the error code; the default value is 0.
+100610:4a3a7b zvsource is in most cases the name of the VI or function that produced the error; the default value is an empty string.
+100991:4a9e1c pos offset specifies in characters how far from the location specified by pos mode that the operation begins. The default value is 0.
+101001:4aa06e Current file mark plus pos offset. This is the default value.
+101006:4aa253 convert eol? converts the LabVIEW end of line marker to the platform specific marker when set to TRUE. When set to false (the default value), no conversion occurs.
+101011:4aa367 EOF reached40code is the error code; the default value is 0.
+101013:4aa4d2 zvsource is in most cases the name of the VI or function that produced the error; the default value is an empty string.
+101014:4aa54a EAstatus is TRUE if an error occurred; the default value is FALSE.
+101393:4af98a at the current file mark plus pos offset.  This is the default value.
+101394:4af9d1 pos offset specifies in characters how far from the location specified by pos mode that the operation begins.  The default value is 0.
+101397:4afbab convert eol  Set TRUE to convert each platform-specific end of line marker to the LabVIEW marker, line feed.  Set FALSE (default value) to do nothing.
+101582:4b6f75 (the default value) performs no error exception handling. 
+102675:4d29cc file path is the path name of the file. If file path is empty (default value) or is Not A Path, the VI displays a File dialog box from which you can select a file. Error 43 occurs if the user cancels the dialog.
+102678:4d2bc5 append to file. Set to TRUE if you want to append the data to a existing file; you can also set it TRUE to write to a new file. Set to FALSE (default value) if you want to write the data to a new file or to replace an existing file.
+102959:4d6272 file path is the path name of the file.  If file path is empty (default value) or is Not A Path, the VI displays a File dialog box from which you can select a file.  Error 43 occurs if the user cancels the dialog.     
+102961:4d6387 append to file?  Set to TRUE if you want to append the data to a existing file; you can also set it TRUE to write to a new file.  Set to FALSE (default value) if you want to write the data to a new file or to replace an existing file.
+111785:565409 file path is the path name of the file. If file path is empty (default value) or is Not A Path, the VI displays a File dialog box from which you can select a file. Error 43 occurs if the user cancels the dialog.
+112345:56c24f file path is the path name of the file.  If file path is empty (default value) or is Not A Path, the VI displays a File dialog box from which you can select a file.  Error 43 occurs if the user cancels the dialog.     
+223248:9a99 start path is the path name to the initially displayed directory (or folder) in a file dialog. The default value is Not A Path, which is the path to the last directory (or folder) shown in a file dialog.
+223266:a246 EAstatus is TRUE if an error occurred; the default value is FALSE.
+223270:a2a4 ERROR40code is the error code; the default value is 0.
+223271:a2db zvsource is in most cases the name of the VI or function that produced the error; the default value is an empty string.
+224257:1a594 file path is the path name of the file.  If file path is empty (default value) or is Not A Path, the VI displays a File dialog box from which you can select a file.  Error 43 occurs if the user cancels the dialog.     
+224266:1a9cf start path is the path name to the initially displayed directory in a file dialog.  The default value is Not A Path, which is the path to the last directory shown in a file dialog.
+224493:1d2a0 file path is the path name of the file.  If file path is empty (default value) or is Not A Path, the VI displays a File dialog box from which you can select a file.  Error 43 occurs if the user cancels the dialog.     
+224502:1d6db start path is the path name to the initially displayed directory in a file dialog.  The default value is Not A Path, which is the path to the last directory shown in a file dialog.
+224524:1f54c End of the file plus pos offset. This is the default value.
+224526:1f5b1 pos offset specifies in characters how far from the location specified by pos mode that the operation begins. The default value is 0.
+224530:1f70a convert eol? converts the LabVIEW end of line marker to the platform specific marker when set to TRUE. When set to false (the default value), no conversion occurs.
+224543:1fae0 EAstatus is TRUE if an error occurred; the default value is FALSE.
+224547:1fb3e ERROR40code is the error code; the default value is 0.
+224548:1fb75 zvsource is in most cases the name of the VI or function that produced the error; the default value is an empty string.
+224791:23a0d at the end of the file plus pos offset.  This is the default value.
+224793:23a81 pos offset specifies in characters how far from the location specified by pos mode that the operation begins.  The default value is 0.
+224795:23b42 convert eol  Set TRUE to convert the LabVIEW end of line marker to the platform-specific marker.  Set FALSE (default value) to do nothing.
+224956:251f6 at the end of the file plus pos offset.  This is the default value.
+224958:2526a pos offset specifies in characters how far from the location specified by pos mode that the operation begins.  The default value is 0.
+224960:2532b convert eol  Set TRUE to convert the LabVIEW end of line marker to the platform-specific marker.  Set FALSE (default value) to do nothing.
+257802:207a85 start path is the path name to the initially displayed directory (or folder) in a file dialog. The default value is Not A Path, which is the path to the last directory (or folder) shown in a file dialog.
+258345:2109b3 file path is the path name of the file.  If file path is empty (default value) or is Not A Path, the VI displays a File dialog box from which you can select a file.  Error 43 occurs if the user cancels the dialog.     
+258349:210ba3 start path is the path name to the initially displayed directory in a file dialog.  The default value is Not A Path, which is the path to the last directory shown in a file dialog.
+258528:21273d file path is the path name of the file.  If file path is empty (default value) or is Not A Path, the VI displays a File dialog box from which you can select a file.  Error 43 occurs if the user cancels the dialog.     
+258532:21292d start path is the path name to the initially displayed directory in a file dialog.  The default value is Not A Path, which is the path to the last directory shown in a file dialog.
+258975:21b10c EAstatus is TRUE if an error occurred; the default value is FALSE.
+258980:21b298 ERROR40code is the error code; the default value is 0.
+258981:21b2cf zvsource is in most cases the name of the VI or function that produced the error; the default value is an empty string.
+259388:221ecc pos offset specifies in characters how far from the location specified by pos mode that the operation begins. The default value is 0.
+259398:22211e Current file mark plus pos offset. This is the default value.
+259403:222303 convert eol? converts the LabVIEW end of line marker to the platform specific marker when set to TRUE. When set to false (the default value), no conversion occurs.
+259408:222417 EOF reached40code is the error code; the default value is 0.
+259410:222582 zvsource is in most cases the name of the VI or function that produced the error; the default value is an empty string.
+259411:2225fa EAstatus is TRUE if an error occurred; the default value is FALSE.
+259790:227a3a at the current file mark plus pos offset.  This is the default value.
+259791:227a81 pos offset specifies in characters how far from the location specified by pos mode that the operation begins.  The default value is 0.
+259794:227c5b convert eol  Set TRUE to convert each platform-specific end of line marker to the LabVIEW marker, line feed.  Set FALSE (default value) to do nothing.
+259964:229518 at the current file mark plus pos offset.  This is the default value.
+259965:22955f pos offset specifies in characters how far from the location specified by pos mode that the operation begins.  The default value is 0.
+259968:229739 convert eol  Set TRUE to convert each platform-specific end of line marker to the LabVIEW marker, line feed.  Set FALSE (default value) to do nothing.
+260015:22fb4d (the default value) performs no error exception handling. 
+261114:24b92c file path is the path name of the file. If file path is empty (default value) or is Not A Path, the VI displays a File dialog box from which you can select a file. Error 43 occurs if the user cancels the dialog.
+261117:24bb25 append to file. Set to TRUE if you want to append the data to a existing file; you can also set it TRUE to write to a new file. Set to FALSE (default value) if you want to write the data to a new file or to replace an existing file.
+261398:24f1d2 file path is the path name of the file.  If file path is empty (default value) or is Not A Path, the VI displays a File dialog box from which you can select a file.  Error 43 occurs if the user cancels the dialog.     
+261400:24f2e7 append to file?  Set to TRUE if you want to append the data to a existing file; you can also set it TRUE to write to a new file.  Set to FALSE (default value) if you want to write the data to a new file or to replace an existing file.
+261610:250883 file path is the path name of the file.  If file path is empty (default value) or is Not A Path, the VI displays a File dialog box from which you can select a file.  Error 43 occurs if the user cancels the dialog.     
+261612:250998 append to file?  Set to TRUE if you want to append the data to a existing file; you can also set it TRUE to write to a new file.  Set to FALSE (default value) if you want to write the data to a new file or to replace an existing file.
+270314:2dfb5d file path is the path name of the file. If file path is empty (default value) or is Not A Path, the VI displays a File dialog box from which you can select a file. Error 43 occurs if the user cancels the dialog.
+270874:2e69a3 file path is the path name of the file.  If file path is empty (default value) or is Not A Path, the VI displays a File dialog box from which you can select a file.  Error 43 occurs if the user cancels the dialog.     
+271321:2e91a6 file path is the path name of the file.  If file path is empty (default value) or is Not A Path, the VI displays a File dialog box from which you can select a file.  Error 43 occurs if the user cancels the dialog.     
+314003:14d76a (the default value) performs no error exception handling. 
+340486:ecd4d (the default value) performs no error exception handling. 
+366631:130615 file path is the path name of the file.  If file path is empty (default value) or is Not A Path, the VI displays a File dialog box from which you can select a file.  Error 43 occurs if the user cancels the dialog.     
+366643:130f0e file path is the path name of the file. If file path is empty (default value) or is Not A Path, the VI displays a File dialog box from which you can select a file. Error 43 occurs if the user cancels the dialog.
+370470:168b66 file path is the path name of the file.  If file path is empty (default value) or is Not A Path, the VI displays a File dialog box from which you can select a file.  Error 43 occurs if the user cancels the dialog.     
+370472:168c7b append to file?  Set to TRUE if you want to append the data to a existing file; you can also set it TRUE to write to a new file.  Set to FALSE (default value) if you want to write the data to a new file or to replace an existing file.
+370474:168e52 file path is the path name of the file. If file path is empty (default value) or is Not A Path, the VI displays a File dialog box from which you can select a file. Error 43 occurs if the user cancels the dialog.
+370477:16904b append to file. Set to TRUE if you want to append the data to a existing file; you can also set it TRUE to write to a new file. Set to FALSE (default value) if you want to write the data to a new file or to replace an existing file.
+371465:183d1f (the default value) performs no error exception handling. 
+372340:192cde at the current file mark plus pos offset.  This is the default value.
+372341:192d25 pos offset specifies in characters how far from the location specified by pos mode that the operation begins.  The default value is 0.
+372344:192eff convert eol  Set TRUE to convert each platform-specific end of line marker to the LabVIEW marker, line feed.  Set FALSE (default value) to do nothing.
+372351:193410 pos offset specifies in characters how far from the location specified by pos mode that the operation begins. The default value is 0.
+372360:19377e Current file mark plus pos offset. This is the default value.
+372361:1937be convert eol? converts the LabVIEW end of line marker to the platform specific marker when set to TRUE. When set to false (the default value), no conversion occurs.
+372362:193862 =9EOF? is true if you try to read past the end of the file.40code is the error code; the default value is 0.
+372364:1939fd zvsource is in most cases the name of the VI or function that produced the error; the default value is an empty string.
+372365:193a75 EAstatus is TRUE if an error occurred; the default value is FALSE.
+372950:19ba2a EAstatus is TRUE if an error occurred; the default value is FALSE.
+372952:19bb9b 40code is the error code; the default value is 0.
+372953:19bbcd zvsource is in most cases the name of the VI or function that produced the error; the default value is an empty string.
+374015:1ad46c file path is the path name of the file.  If file path is empty (default value) or is Not A Path, the VI displays a File dialog box from which you can select a file.  Error 43 occurs if the user cancels the dialog.     
+374019:1ad65c start path is the path name to the initially displayed directory in a file dialog.  The default value is Not A Path, which is the path to the last directory shown in a file dialog.
+374028:1add71 start path is the path name to the initially displayed directory (or folder) in a file dialog. The default value is Not A Path, which is the path to the last directory (or folder) shown in a file dialog.
+394240:30c4d4 file path is the path name of the file.  If file path is empty (default value) or is Not A Path, the VI displays a File dialog box from which you can select a file.  Error 43 occurs if the user cancels the dialog.     
+394249:30c90f start path is the path name to the initially displayed directory in a file dialog.  The default value is Not A Path, which is the path to the last directory shown in a file dialog.
+394260:30d0f2 at the end of the file plus pos offset.  This is the default value.
+394262:30d166 pos offset specifies in characters how far from the location specified by pos mode that the operation begins.  The default value is 0.
+394264:30d227 convert eol  Set TRUE to convert the LabVIEW end of line marker to the platform-specific marker.  Set FALSE (default value) to do nothing.
+404021:3a3dbd file path is the path name of the file.  If file path is empty (default value) or is Not A Path, the VI displays a File dialog box from which you can select a file.  Error 43 occurs if the user cancels the dialog.     
+404025:3a3fad start path is the path name to the initially displayed directory in a file dialog.  The default value is Not A Path, which is the path to the last directory shown in a file dialog.
+404048:3a5100 at the current file mark plus pos offset.  This is the default value.
+404049:3a5147 pos offset specifies in characters how far from the location specified by pos mode that the operation begins.  The default value is 0.
+404052:3a5321 convert eol  Set TRUE to convert each platform-specific end of line marker to the LabVIEW marker, line feed.  Set FALSE (default value) to do nothing.
+404060:3a5aeb file path is the path name of the file.  If file path is empty (default value) or is Not A Path, the VI displays a File dialog box from which you can select a file.  Error 43 occurs if the user cancels the dialog.     
+404062:3a5c00 append to file?  Set to TRUE if you want to append the data to a existing file; you can also set it TRUE to write to a new file.  Set to FALSE (default value) if you want to write the data to a new file or to replace an existing file.
+404096:3a67aa file path is the path name of the file.  If file path is empty (default value) or is Not A Path, the VI displays a File dialog box from which you can select a file.  Error 43 occurs if the user cancels the dialog.     
+405283:3b9f33 at the end of the file plus pos offset.  This is the default value.
+405285:3b9fa7 pos offset specifies in characters how far from the location specified by pos mode that the operation begins.  The default value is 0.
+405287:3ba068 convert eol  Set TRUE to convert the LabVIEW end of line marker to the platform-specific marker.  Set FALSE (default value) to do nothing.
+405293:3ba508 pos offset specifies in characters how far from the location specified by pos mode that the operation begins. The default value is 0.
+405299:3ba6d2 End of the file plus pos offset. This is the default value.
+405301:3ba737 convert eol? converts the LabVIEW end of line marker to the platform specific marker when set to TRUE. When set to false (the default value), no conversion occurs.
+405306:3baaaf EAstatus is TRUE if an error occurred; the default value is FALSE.
+405307:3baaf2 40code is the error code; the default value is 0.
+405308:3bab24 zvsource is in most cases the name of the VI or function that produced the error; the default value is an empty string.
+406176:3cb7a4 file path is the path name of the file.  If file path is empty (default value) or is Not A Path, the VI displays a File dialog box from which you can select a file.  Error 43 occurs if the user cancels the dialog.     
+406185:3cbbdf start path is the path name to the initially displayed directory in a file dialog.  The default value is Not A Path, which is the path to the last directory shown in a file dialog.
+406194:3cc309 start path is the path name to the initially displayed directory (or folder) in a file dialog. The default value is Not A Path, which is the path to the last directory (or folder) shown in a file dialog.
+406198:3cc5d6 file path is the path name of the file. If file path is empty (default value) or is Not A Path, the VI displays a File dialog box from which you can select a file. Error 43 occurs if the user cancels the dialog.
+406210:3ccc41 EAstatus is TRUE if an error occurred; the default value is FALSE.
+406211:3ccc84 40code is the error code; the default value is 0.
+406212:3cccb6 zvsource is in most cases the name of the VI or function that produced the error; the default value is an empty string.
+434166:f7942 (the default value) performs no error exception handling. 
+470145:106ec3 (the default value) performs no error exception handling. 
+496230:149ab1 file path is the path name of the file.  If file path is empty (default value) or is Not A Path, the VI displays a File dialog box from which you can select a file.  Error 43 occurs if the user cancels the dialog.     
+496400:14ba08 file path is the path name of the file. If file path is empty (default value) or is Not A Path, the VI displays a File dialog box from which you can select a file. Error 43 occurs if the user cancels the dialog.
+503360:1cf875 file path is the path name of the file.  If file path is empty (default value) or is Not A Path, the VI displays a File dialog box from which you can select a file.  Error 43 occurs if the user cancels the dialog.     
+503362:1cf98a append to file?  Set to TRUE if you want to append the data to a existing file; you can also set it TRUE to write to a new file.  Set to FALSE (default value) if you want to write the data to a new file or to replace an existing file.
+503504:1d0c4f file path is the path name of the file. If file path is empty (default value) or is Not A Path, the VI displays a File dialog box from which you can select a file. Error 43 occurs if the user cancels the dialog.
+503507:1d0f37 append to file. Set to TRUE if you want to append the data to a existing file; you can also set it TRUE to write to a new file. Set to FALSE (default value) if you want to write the data to a new file or to replace an existing file.
+504212:1e9fb4 (the default value) performs no error exception handling. 
+504749:1f339f at the current file mark plus pos offset.  This is the default value.
+504750:1f33e6 pos offset specifies in characters how far from the location specified by pos mode that the operation begins.  The default value is 0.
+504753:1f35c0 convert eol  Set TRUE to convert each platform-specific end of line marker to the LabVIEW marker, line feed.  Set FALSE (default value) to do nothing.
+504902:1f56f6 Astatus is TRUE if an error occurred; the default value is FALSE.
+504903:1f57a8 0code is the error code; the default value is 0.
+504904:1f57dd vsource is in most cases the name of the VI or function that produced the error; the default value is an empty string.
+504914:1f5b5b Current file mark plus pos offset. This is the default value.
+504915:1f5bdc pos offset specifies in characters how far from the location specified by pos mode that the operation begins. The default value is 0.
+504921:1f5f14 convert eol? converts the LabVIEW end of line marker to the platform specific marker when set to TRUE. When set to false (the default value), no conversion occurs.
+505280:1fb668 Astatus is TRUE if an error occurred; the default value is FALSE.
+505281:1fb71a 0code is the error code; the default value is 0.
+505282:1fb74f vsource is in most cases the name of the VI or function that produced the error; the default value is an empty string.
+505861:207b61 file path is the path name of the file.  If file path is empty (default value) or is Not A Path, the VI displays a File dialog box from which you can select a file.  Error 43 occurs if the user cancels the dialog.     
+505865:207d51 start path is the path name to the initially displayed directory in a file dialog.  The default value is Not A Path, which is the path to the last directory shown in a file dialog.
+506073:20a440 start path is the path name to the initially displayed directory (or folder) in a file dialog. The default value is Not A Path, which is the path to the last directory (or folder) shown in a file dialog.
+506082:20ab0d file path is the path name of the file. If file path is empty (default value) or is Not A Path, the VI displays a File dialog box from which you can select a file. Error 43 occurs if the user cancels the dialog.   <#
+520832:33bdcc file path is the path name of the file.  If file path is empty (default value) or is Not A Path, the VI displays a File dialog box from which you can select a file.  Error 43 occurs if the user cancels the dialog.     
+520841:33c207 start path is the path name to the initially displayed directory in a file dialog.  The default value is Not A Path, which is the path to the last directory shown in a file dialog.
+520852:33c9ea at the end of the file plus pos offset.  This is the default value.
+520854:33ca5e pos offset specifies in characters how far from the location specified by pos mode that the operation begins.  The default value is 0.
+520856:33cb1f convert eol  Set TRUE to convert the LabVIEW end of line marker to the platform-specific marker.  Set FALSE (default value) to do nothing.
+527358:3b2a09 file path is the path name of the file.  If file path is empty (default value) or is Not A Path, the VI displays a File dialog box from which you can select a file.  Error 43 occurs if the user cancels the dialog.     
+527362:3b2bf9 start path is the path name to the initially displayed directory in a file dialog.  The default value is Not A Path, which is the path to the last directory shown in a file dialog.
+527385:3b3d4c at the current file mark plus pos offset.  This is the default value.
+527386:3b3d93 pos offset specifies in characters how far from the location specified by pos mode that the operation begins.  The default value is 0.
+527389:3b3f6d convert eol  Set TRUE to convert each platform-specific end of line marker to the LabVIEW marker, line feed.  Set FALSE (default value) to do nothing.
+527397:3b4737 file path is the path name of the file.  If file path is empty (default value) or is Not A Path, the VI displays a File dialog box from which you can select a file.  Error 43 occurs if the user cancels the dialog.     
+527399:3b484c append to file?  Set to TRUE if you want to append the data to a existing file; you can also set it TRUE to write to a new file.  Set to FALSE (default value) if you want to write the data to a new file or to replace an existing file.
+527433:3b53f6 file path is the path name of the file.  If file path is empty (default value) or is Not A Path, the VI displays a File dialog box from which you can select a file.  Error 43 occurs if the user cancels the dialog.     
+527679:3ba8a5 at the end of the file plus pos offset.  This is the default value.
+527681:3ba919 pos offset specifies in characters how far from the location specified by pos mode that the operation begins.  The default value is 0.
+527683:3ba9da convert eol  Set TRUE to convert the LabVIEW end of line marker to the platform-specific marker.  Set FALSE (default value) to do nothing.
+527762:3bc292 Astatus is TRUE if an error occurred; the default value is FALSE.
+527763:3bc340 0code is the error code; the default value is 0.
+527764:3bc375 vsource is in most cases the name of the VI or function that produced the error; the default value is an empty string.
+527771:3bc672 pos offset specifies in characters how far from the location specified by pos mode that the operation begins. The default value is 0.
+527774:3bc7d0 convert eol? converts the LabVIEW end of line marker to the platform specific marker when set to TRUE. When set to false (the default value), no conversion occurs.
+527777:3bc8ea End of the file plus pos offset. This is the default value.
+528190:3c7f0b file path is the path name of the file.  If file path is empty (default value) or is Not A Path, the VI displays a File dialog box from which you can select a file.  Error 43 occurs if the user cancels the dialog.     
+528199:3c8346 start path is the path name to the initially displayed directory in a file dialog.  The default value is Not A Path, which is the path to the last directory shown in a file dialog.
+528590:3cc166 start path is the path name to the initially displayed directory (or folder) in a file dialog. The default value is Not A Path, which is the path to the last directory (or folder) shown in a file dialog.
+528595:3cc4f2 Astatus is TRUE if an error occurred; the default value is FALSE.
+528597:3cc6f0 vsource is in most cases the name of the VI or function that produced the error; the default value is an empty string.
+528598:3cc778 0code is the error code; the default value is 0.
+528600:3cc827 file path is the path name of the file. If file path is empty (default value) or is Not A Path, the VI displays a File dialog box from which you can select a file. Error 43 occurs if the user cancels the dialog.
+546541:f6852 (the default value) performs no error exception handling. 
+579631:16de77 (the default value) performs no error exception handling. 
+595366:d5144 file path is the path name of the file.  If file path is empty (default value) or is Not A Path, the VI displays a File dialog box from which you can select a file.  Error 43 occurs if the user cancels the dialog.     
+595375:d557f start path is the path name to the initially displayed directory in a file dialog.  The default value is Not A Path, which is the path to the last directory shown in a file dialog.
+595855:e2127 file path is the path name of the file.  If file path is empty (default value) or is Not A Path, the VI displays a File dialog box from which you can select a file.  Error 43 occurs if the user cancels the dialog.     
+595864:e2562 start path is the path name to the initially displayed directory in a file dialog.  The default value is Not A Path, which is the path to the last directory shown in a file dialog.
+596255:e6382 start path is the path name to the initially displayed directory (or folder) in a file dialog. The default value is Not A Path, which is the path to the last directory (or folder) shown in a file dialog.
+596260:e670e Astatus is TRUE if an error occurred; the default value is FALSE.
+596262:e690c vsource is in most cases the name of the VI or function that produced the error; the default value is an empty string.
+596263:e6994 0code is the error code; the default value is 0.
+596265:e6a43 file path is the path name of the file. If file path is empty (default value) or is Not A Path, the VI displays a File dialog box from which you can select a file. Error 43 occurs if the user cancels the dialog.
+596718:f1cf2 at the end of the file plus pos offset.  This is the default value.
+596720:f1d66 pos offset specifies in characters how far from the location specified by pos mode that the operation begins.  The default value is 0.
+596722:f1e27 convert eol  Set TRUE to convert the LabVIEW end of line marker to the platform-specific marker.  Set FALSE (default value) to do nothing.
+596757:f3c69 file path is the path name of the file.  If file path is empty (default value) or is Not A Path, the VI displays a File dialog box from which you can select a file.  Error 43 occurs if the user cancels the dialog.     
+596761:f3e59 start path is the path name to the initially displayed directory in a file dialog.  The default value is Not A Path, which is the path to the last directory shown in a file dialog.
+596784:f4fac at the current file mark plus pos offset.  This is the default value.
+596785:f4ff3 pos offset specifies in characters how far from the location specified by pos mode that the operation begins.  The default value is 0.
+596788:f51cd convert eol  Set TRUE to convert each platform-specific end of line marker to the LabVIEW marker, line feed.  Set FALSE (default value) to do nothing.
+596796:f5997 file path is the path name of the file.  If file path is empty (default value) or is Not A Path, the VI displays a File dialog box from which you can select a file.  Error 43 occurs if the user cancels the dialog.     
+596798:f5aac append to file?  Set to TRUE if you want to append the data to a existing file; you can also set it TRUE to write to a new file.  Set to FALSE (default value) if you want to write the data to a new file or to replace an existing file.
+596832:f6656 file path is the path name of the file.  If file path is empty (default value) or is Not A Path, the VI displays a File dialog box from which you can select a file.  Error 43 occurs if the user cancels the dialog.     
+597621:ff3ce at the end of the file plus pos offset.  This is the default value.
+597623:ff442 pos offset specifies in characters how far from the location specified by pos mode that the operation begins.  The default value is 0.
+597625:ff503 convert eol  Set TRUE to convert the LabVIEW end of line marker to the platform-specific marker.  Set FALSE (default value) to do nothing.
+607057:19f5d1 file path is the path name of the file.  If file path is empty (default value) or is Not A Path, the VI displays a File dialog box from which you can select a file.  Error 43 occurs if the user cancels the dialog.     
+607061:19f7c1 start path is the path name to the initially displayed directory in a file dialog.  The default value is Not A Path, which is the path to the last directory shown in a file dialog.
+607657:1a9af0 at the current file mark plus pos offset.  This is the default value.
+607658:1a9b37 pos offset specifies in characters how far from the location specified by pos mode that the operation begins.  The default value is 0.
+607661:1a9d11 convert eol  Set TRUE to convert each platform-specific end of line marker to the LabVIEW marker, line feed.  Set FALSE (default value) to do nothing.
+608418:1b6e57 file path is the path name of the file.  If file path is empty (default value) or is Not A Path, the VI displays a File dialog box from which you can select a file.  Error 43 occurs if the user cancels the dialog.     
+608420:1b6f6c append to file?  Set to TRUE if you want to append the data to a existing file; you can also set it TRUE to write to a new file.  Set to FALSE (default value) if you want to write the data to a new file or to replace an existing file.
+610294:1d4e6e file path is the path name of the file.  If file path is empty (default value) or is Not A Path, the VI displays a File dialog box from which you can select a file.  Error 43 occurs if the user cancels the dialog.     

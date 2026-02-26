@@ -1,0 +1,275 @@
+!Attempt to use bad index for wire9Segment with index out of range will be deleted from wire"Bad edge will not be added to wire%Cannot find terminal hotpoint in wire
+!Gain Calibration Failed
+"error code is -1 if baud rate, data bits, stop bits, parity, or port number are out of range, or if the serial port could not be initialized. Check the values of baud rate, data bits, stop bits, parity, and port number. If these values are valid, verify that the serial port has been initialized.
+# Cap Ranges
+# Cap Ranges" 
+# Cap Ranges.
+# Cap RangesH
+# Cap RangesH R
+# Cap RangesM
+# Cap Rangesla
+# Ind Ranges
+# Ind Ranges&
+# Ind Ranges4.
+# Ind Ranges80U
+# Ind RangesH
+# Ind RangesM
+# Ind Rangesla
+)))Lowest Current Range
+)Lowest Current Range
+***Highest Inductance Range
+*.calBPlease choose the file containing the inductance calibration data.d:\automated\lv51\lvsource\gencode.cGenRangeCheck
+*Highest Inductance Range
+,d:\automated\lv51\lvsource\gencode.cGenRangeCheck
+-1210  Parameter out of range
+-9.99990E9 is reported on overrange error.    
+-9.99990E9 is reported on overrange error.    p.
+0gcreading rates: S0 - slow,  S1 - medium,  S2 - fast SRQ mode: Assert SRQ on completion of a reading.73Range codes: R0 - R7 ( see front panel for details)84Trigger modes: T0 - T4 (see front panel for details)hdFunction Codes: F1 - DC Volts, F2 - AC Volts, F3 - 2 wire k
+3Range codes: R0 - R7 ( see front panel for details)
+3Range codes: R0 - R7 ( see front panel for details)HA
+6d:\automated\lv51\lvsource\gencode.cGenRangeCheck
+?_downconverter_setTestRange_TheVirtualThing@daqDevice@@UAEFFKKK@Z
+A unique reference to an instrument I/O session.  It identifies which device to communicate with and all configuration information to perform the I/O.  An instr handle is returned from the Instr Open VI or the Initialize VI of an instrument driver.1-9.99990E9 is reported on overrange error.    
+ADD-ON RANGE
+Back Upd:\automated\lv51\lvsource\gencode.cGenRangeCheck
+CALON!Gain Calibration Failed
+CALONd:\automated\lv51\lvsource\gencode.cGenRangeCheck
+CINStartLoad: loaderror= %d, error=%ldLV_DIG_PORT_READSetCINArraySize, elmtNum %ld out of range 0 <= elmtNum < %ldnon-array detected
+CPOd:\automated\lv51\lvsource\gencode.cGenRangeCheck
+Cal Points
+Cal Points.
+Cal Points4,
+Cal Points4,"
+Cal Points42
+Cal Points@
+Cal PointsH
+Cal PointsM
+Cap Cal Failed Range 
+Cap Cal Failed Range ?
+Cap Cal Failed Range X
+Capacitor Range ary
+Capacitor Range ary"@@
+Capacitor Range ary"`@
+Capacitor Range ary4
+Capacitor Range ary8%><
+Capacitor Range ary@
+Capacitor Range aryH
+Capacitor Range aryM
+ChkRange
+Close File+.vi:Close Filed:\automated\lv51\lvsource\gencode.cGenRangeCheck
+Communications Error.dd:\automated\lv51\lvsource\gencode.cGenRangeCheck
+DAQ badChanErr:  A channel is out of range for the board type or input configuration; or the combination of channels is not allowed; or the scan order must be reversed (0 last).%DAQ badLineErr:  The line is invalid.0DAQ or DSP badDeviceErr:  The device is invalid.
+DAQ badIterationsErr:  The analog output buffer iterations count is not allowed.  It must be 0 (for indefinite iterations) or 1.oDAQ badRPGErr:  The individual range, polarity, and gain settings are valid but the combination is not allowed.}DAQ badTotalCountErr:  The total count is inconsistent with the buffer size and pretrigger scan count or with the board type.3DAQ badTrigLevelErr:  The trigger level is invalid.1DAQ badTrigTypeErr:  The trigger type is invalid.6DAQ badExtRefErr:  The external reference  is invalid.PDAQ badTrigRangeErr:  The trigger range or trigger hysteresis window is invalid.3DAQ badTrigCountErr:  The trigger count is invalid.1DAQ badTrigModeErr:  The trigger mode is invalid.BDAQ badPosttrigCountErr:  The posttrigger sample count is invalid.?DAQ badPretrigCountErr: The pretrigger sample count is invalid.%DAQ badGainErr:  The gain is invalid.UDAQ badFilterCutoffErr:  The cutoff frequency specified is not valid for this device.
+DAQ badWriteCountErr:  Your data array contains an incomplete update, or you are trying to write past the end of the internal buffer, or your output operation is continuous and the length of your array is not a multiple of one half of the internal buffer size.?DAQ badLimitsErr: The limits are beyond the range of the board.-DAQ badTimebaseErr:  The timebase is invalid.2DAQ badClkFrequencyErr.  The frequency is invalid.1DAQ badReadOffsetErr:  The offset is unreachable..DAQ badReadModeErr:  The read mode is invalid.0DAQ badReadCountErr:  The read count is invalid.0DAQ badTimeLimitErr:  The time limit is invalid.ADAQ groupTooLargeErr:  The group size is too large for the board.QDAQ badErrorCodeErr:  The driver returned an unrecognized or unlisted error code.gDAQ badRangeErr:  The analog input or analog output voltage range is invalid for the specified channel.
+DAQ limitsOutOfRange:  The requested input limits exceed the board's capability or configuration.  Alternative limits were selected.tDAQ badWriteOffsetErr:  Adding the write offset to the write mark places the write mark outside the internal buffer.FDAQ badWriteModeErr:  The write mode is out of range or is disallowed.
+DAQ noTrigEnabledErr:  The number of total scans and pretrigger scans implies that a triggered start is intended, but triggering is not enabled.SDAQ bufferInvalidErr:  A configuration change has invalidated the allocated buffer.NDAQ scanListInvalidErr:  A configuration change has invalidated the scan list.\DAQ clkExceedsBrdsMaxConvRate:  The clock rate exceeds the board's recommended maximum rate.SDAQ badChanInputModeErr:  All channels of this board must have the same input mode.PDAQ badChanCouplingErr:  All channels of this board must have the same coupling.NDAQ badChanPolarityErr:  All channels of this board must be the same polarity.JDAQ badChanRangeErr:  All channels of this board must have the same range.IDAQ badChanGainErr:   All channels of this board must have the same gain.fDAQ invalidRegenModeErr:  The specified analog output regeneration mode is not allowed for this board.sDAQ someInputsIgnoredErr:  Certain inputs were ignored because they are not relevant in the current operating mode.kDAQ noInfiniteModeErr:  Continuous input or output transfers are not allowed in the current operating mode.
+DAQ syntaxErr:  An error was detected in the input string; the arrangement or ordering of the characters in the string is not consistent with the expected ordering.*Instr. Driver:  Instrument-specific error.4Instr. Driver:  Function not suported by controller.,Instr. Driver:  Error accessing VXI address.,Instr. Driver:  Error unmapping VXI address.*Instr. Driver:  Error mapping VXI address.%Instr. Driver:  Instrument timed out.-Instr. Driver:  Error in configuring timeout.7Instr. Driver:  Error interpreting instrument response.7Instr. Driver:  Error placing instrument in local mode.+Instr. Driver:  Instrument not initialized..Instr. Driver:  Error reading from instrument.,Instr. Driver:  Error writing to instrument.6Instr. Driver:  Error reading from instrument to file.6Instr. Driver:  Error writing to instrument from file.)Instr. Driver:  Error polling instrument.,Instr. Driver:  Error triggering instrument.*Instr. Driver:  Error clearing instrument.7Instr. Driver:  Instrument identification query failed.+Instr. Driver:  Unable to close instrument.*Instr. Driver:  Unable to open instrument.(Instr. Driver:  Error setting attribute.(Instr. Driver:  Error getting attribute.)Instr. Driver:  Error closing instrument.'Instr. Driver:  Parameter out of range.*Instr. Driver:  Invalid Instrument Handle.=Instr. Driver:  Unable to initialize interface or instrument.*Instr. Driver:  Error finding instruments.&Instr. Driver:  Invalid syntax string.'GPIB EDVR:  Error connecting to device.
+DAQ: digprtcf.c: allocation failedDAQ: portNumStr = %s (after truncating)DAQ: back from GET_DIGPORTDESC_DATADIGPRTCF: boardType %dDIGPRTCF: hardwarePortWidth %dDIGPRTCF: logicalPortWidth %dDIGPRTCF: numberOfPorts %dGET_DIGPORTDESC_DATALV_DIG_PORT_CONFIGSetCINArraySize, elmtNum %ld out of range 0 <= elmtNum < %ldnon-array detected
+DAQTABLS: AI_TASK ALLOCATE, device %d, group %d.DAQTABLS: freeing all LVAIGroupDesc structs.DAQTABLS: AO_TASK ALLOCATE, device %d, group %d.DAQTABLS: freeing all LVAOGroupDesc structs.DAQTABLS: DIO_PORT_TASK ALLOCATE, device %d, port %d.DAQTABLS: freeing all LVDIGPortDesc structs.DAQTABLS: allocating new memory ...DAQTABLS: using existing memory.DAQTABLS: pointer is 0x%lxSetCINArraySize, elmtNum %ld out of range 0 <= elmtNum < %ldnon-array detected
+DSP MEM_HARDWARE_ERR:  The onboard hardware diagnostic software found a memory hardware error.  Running functions on the board is unreliable.fDSP NotPowerOfTwo:  The size of the input array must be a valid power of two:  size = 2^m, 0 < m < 14.HDSP RankErr:  The rank of the filter must meet:  1 <= (2rank+1) <= size.ODSP LenGEOne:  The number of coefficients must be greater than or equal to one.XDSP FilterDesignErr:  The filter cannot be designed with the specified input parameters.lDSP LeakErr:  The leakage coefficient, Leak, must meet:  0 <= Leak <= u, where u is the step-size parameter.FDSP StepSizeErr:  The step-size parameter u must meet:  0 <= u <= 0.1.NDSP AttenGTRipple:  The attenuation must be greater than the ripple amplitude.NDSP NullVectorErr:  The input vector is null.  The unit vector does not exist.JDSP SizeGTZero:  The size of the input sequence must be greater than zero.6DSP WidthGTZero:  The width must be greater than zero.<DSP AttenGTZero:  The attenuation must be greater than zero.ADSP RippleGTZero:  The ripple ampltude must be greater than zero.UDSP Nyquist2Err:  The following conditions must be met: 0 <= f_low <= f_high <= fs/2.GDSP NyquistErr:  The cutoff frequency, fc, must meet:  0 <= fc <= fs/2.YDSP ConvSizeErr:  The number of elements of convolved arrays should be greater than zero.6DSP OrderGTZero:  The order must be greater than zero.@DSP SizeGTOrder:  The array size must be greater than the order.JDSP MixedSignErr:  The sign of y in Ax=y must be all positive or negative.HDSP Interval NumErr:  The number of intervals must be greater than zero.TDSP UpperGELower:  The upper value must be greater than or equal to the lower value.nDSP CyclesErr:  The number of cycles must be greater than zero and less than or equal to the number of samplesEDSP DutyCycleErr:  The duty cycle must meet:  0 <= duty cycle <= 100.,DSP dtGTZero:  dt must be greater than zero.ODSP WinDutyCyclesErr:  The window duty cycle value must be between 0.0 and 1.0.YDSP DelayWidthErr:  The following condition must be met:  0 <= (delay + width) < samples.BDSP WidthGEZero:  The width must be greater than or equal to zero.BDSP DelayGEZero:  The delay must be greater than or equal to zero.@DSP IndexLTSamples:  The index must meet:  0 <= index < samples.?DSP WidthLTSamples:  The width must meet:  0 < width < samples.TDSP DecFactErr:  The decimating factor must meet:  0 < decimating factor <= samples.VDSP OutOfMem:  There is not enough space left on the DSP board for onboard processing.^OutSizeGEInSize:  The output array size must be greater than or equal to the input array size.PDSP xSizeGEySize:  The size of x must be greater than or equal to the size of y.MDSP SizesGTZero:  The sizes of the input sequences must be greater than zero.ODSP Samples GETwo:  The number of samples must be greater than or equal to two.PDSP SamplesGEZero:  The number of samples must be greater than or equal to zero.DDSP SamplesGTZero:  The number of samples must be greater than zero.4Analysis InvSelectionErr:  The selection is invalid.@Analysis TableErr:  The contingency table has a negative number.TAnalysis CategoryErr:  The number of categories or samples must be greater than one.^Analysis InvProbErr:  The probability must be greater than or equal to zero and less than one.GAnalysis ProbabilityErr:  The probability must be between zero and one.AAnalysis FreedomErr:  The degrees of freedom must be one or more.LAnalysis ColumnErr:  All values in the first column of X matrix must be one.PAnalysis PoleErr:  The interpolating function has a pole at the requested value.5Analysis DistinctErr:  The x-values must be distinct.bAnalysis ModelErr:  The Random Effect model was requested when the Fixed Effect model is required.fAnalysis BalanceErr:  The data is unbalanced.  All cells must contain the same number of observations.[Analysis OverflowErr:  There is an overflow in the calculated F-value for the ANOVA Fit VI.zAnalysis DataErr:  The total number of data points must be equal to the product of levels/each factor * observations/cell.SAnalysis:  ObservationsErr:  Zero observations were made at some level of a factor.VAnalysis FactorErr:  The level of factors is outside the allowable range of some data.;Analysis LevelsErr:  The number of levels is out of range .kAnalysis SingularMatrixErr:  The system of equations cannot be solved because the input matrix is singular.DAnalysis SquareMatrixErr:  The input matrix must be a square matrix.
+Data Range
+Data Range...
+FL 884XX Initialized:\automated\lv51\lvsource\gencode.cGenRangeCheck
+FLockOrUnlockRange
+FPLockRange
+GPRFd:\automated\lv51\lvsource\gencode.cGenRangeCheck
+Gain Calibration
+Gain Calibration" Failed Calibration. Adjusted >10%
+Gain CalibrationU
+Gain CalibrationV
+Gain CalibrationW
+Gain Calibrationb
+Gain CalibrationfConnect the UUT and/or DVM leads to
+Gain Calibrationn
+GenRangeCheck
+High Range
+High RangeH
+High RangeHDxu3
+High RangeMD
+High RangeOD
+High RangeV
+Ind Cal Failed Range 
+Ind Cal Failed Range S
+Inductor Range ary
+Inductor Range ary"@@
+Inductor Range ary"`@
+Inductor Range ary4
+Inductor Range ary8&><LK
+Inductor Range ary8&><TM
+Inductor Range aryH
+Inductor Range aryM
+InvMapInRange
+LV_DIG_PORT_WRITESetCINArraySize, elmtNum %ld out of range 0 <= elmtNum < %ldnon-array detected
+LabVIEW:  Message out of range.
+LabVIEW: Old CIN version.=LabVIEW kLVE_InvalidState:  The VI is not in a runable state.:LabVIEW kLVE_FPNotOpen:  The VI's front panel is not open.`LabVIEW kLVE_CtrlErr:  The VI cannot run because it has a front panel control in an error state..LabVIEW kLVE_VIBad:  The VI is not executable.0LabVIEW kLVE_NotInMem:  The VI is not in memory.ELabVIEW kLVE_GoDisabled:  VI execution has been disabled in VI Setup.FLabVIEW kLVE_NoSaveData: FPDCO on connector pan thinks it is constant.4LabVIEW kLVE_NoIPRecInSummary: No IP Rec in Summary.;LabVIEW kLVE_CantAllocConPane:  Cannot load connector pane.<LabVIEW kLVE_VariantSizeMisMatch:  Variant tag out of range.7LabVIEW kLVE_NoDefaultOrOp: No default or operate data.1LabVIEW kLVE_CantCreateInstr: VI Creation failed.4LabVIEW kLVE_NoBDHP: Cannot load Block Diagram Heap.3LabVIEW kLVE_NoFPHP:  Cannot load Front Panel Heap."LabVIEW kLVE_Linker: Linker error.QLabVIEW kLVE_NoPrinter:  Printer is not responding.  Check printer configuration.,LabVIEW kLVE_NoHistory: Cannot load History.
+Last Range Cal'd
+Last Range Cal'd&
+Last Range Cal'd,%
+Last Range Cal'd4/
+Last Range Cal'd@
+Last Range Cal'dH
+Last Range Cal'dM
+Last Range Cal'dX
+Low Range
+Low RangeHD
+Low RangeOD
+Low RangeW
+Low RangeX
+Low Range_
+Lowest Cap Range is Cal'd FirstOD
+Lowest Cap Range is Cal'd FirstQE
+MDisableItem: %ld out of range [1..%ld]
+MEnableItem: %ld out of range [1..%ld]
+MInsertLItem: %ld out of range [1..%ld], (%p)
+MapInRange
+Measure volts, amps, or ohms.  Select one of 6 functions.  Select range or use auto range.  Select trigger mode.  Slow reading rate is used for accuracy.                                         version a.0
+Measure volts, amps, or ohms.  Select one of 6 functions.  Select range or use auto range.  Select trigger mode.  Slow reading rate is used for accuracy.                                         version a.0  
+Measure volts, amps, or ohms.  Select one of 6 functions.  Select range or use auto range.  Select trigger mode.  Slow reading rate is used for accuracy.                                         version a.0  $
+Message Out Of Range
+Message out of range
+Next Range to cal
+Next Range to cal&
+Next Range to cal&q
+Next Range to cal4`
+Next Range to cal4q
+Next Range to calH
+Next Range to calM
+Next range
+Next range0@
+Next range4
+Next range4X
+Next rangej
+Out of Range Box
+OutOfRange
+Overflow range error
+PrecisionRange Dialog
+Range !Gain Calibration Failed
+Range +Current Source Calibration Passed
+Range 0:  0 - 2000pF
+Range 0:  20 - 1.80H
+Range 1:  1.80 - 0.18H
+Range 1:  2000 - 0.02uF
+Range 2:  0.02 - 0.2uF
+Range 2:  180 - 18.0mH
+Range 3:  0.2 - 2.0uF
+Range 3:  18.0 - 1.80mH
+Range 4:  1.80 - 0.180mH
+Range 4:  2.0 - 20.0uF
+Range 5:  180 - 18.0uH
+Range 5:  20.0 - 200uF
+Range 6:  18.0 - 0.0uH
+Range 6:  200 - 2000uF
+Range selection has no effect in the mA DC and mA AC functions since all measurements in these functions are made in the 20000 mA range.             If the chosen range is not valid for selected function, the nearest valid range is selected.  
+Range selection has no effect in the mA DC and mA AC functions since all measurements in these functions are made in the 20000 mA range.             If the chosen range is not valid for selected function, the nearest valid range is selected.  L-
+Range selection has no effect in the mA DC and mA AC functions since all measurements in these functions are made in the 20000 mA range.             If the chosen range is not valid for selected function, the nearest valid range is selected.  k
+Range: 0 to 30 (31 NONE)
+Rangeio0
+Rangeio4
+Run Test?
+Run Test?"
+Run Test?4
+Run Test?>
+Run Test?@
+Run Test?L
+Run Test?P
+Run Test?U
+Run Test?gencode.cGenDispatchEntry
+Run Test?or4 
+See the Data Acquisition VI Reference Manual for your platform for tables listing the default settings and ranges for this VI for the boards with which it will work.
+See the Data Acquisition VI Reference Manual for your platform for tables listing the default settings and ranges for this VI for the boards with which it will work.$
+See the Data Acquisition VI Reference Manual for your platform for tables listing the default settings and ranges for this VI for the boards with which it will work.84(u32) task ID: identifies the group and I/O pattern.D@(u32) pattern: specifies the new state of the lines in the port.
+See the Data Acquisition VI Reference Manual for your platform for tables listing the default settings and ranges for this VI for the boards with which it will work.gc(i16) device: the device number you assigned to the data acquisition device when you configured it.
+SetCINArraySize, elmtNum %ld out of range 0 <= elmtNum < %ld
+SetCINArraySize, elmtNum %ld out of range 0 <= elmtNum < %ldnon-array detected
+Sources Calibrated
+Sources Calibrated"
+Sources Calibrated"@@
+Sources Calibrated"`@
+Sources Calibrated2
+Sources Calibrated4
+Sources Calibrated@62
+Sources CalibratedH
+Sources CalibratedM
+Test Name
+Test Name 2
+Test Name @@
+Test Name$
+Test Name&
+Test Name0
+Test Name0@
+Test Name4
+Test NameH
+Test NameL
+Test NameT
+Test Name[
+Test Name\
+Test Name]
+Test Name^
+Test Name_
+Test Name`
+Test Nameb
+Test Namec
+Test Namef
+Test Nameg
+Test Namep0
+Test Namex0
+The pop-up option Explain Error (or Explain Warning) gives more information about the error displayed.gcreading rates: S0 - slow,  S1 - medium,  S2 - fast SRQ mode: Assert SRQ on completion of a reading.73Range codes: R0 - R7 ( see front panel for details)84Trigger modes: T0 - T4 (see front panel for details)hdFunction Codes: F1 - DC Volts, F2 - AC Volts, F3 - 2 wire k
+The read subVI inside the While Loop searches for the last end-of-line, but does not return any data.  Once that location is found, the read subVI outside the loop reads the entire string.  This method is faster for a large number of lines, because it does not require the use of a string concatentation function in the loop and its associated memory suffling, but this method is slower for a few lines.d:\automated\lv51\lvsource\gencode.cGenRangeCheck
+There are 7 cal ranges.  The values listed above are grouped in two's; the first one
+This is the fudged range??-->H
+True if either primary or secondary addresses are outside ot the range 0-31.  address error indicates whether a range error has occurred.
+Underflow range error
+Unknown VI Library file type.!Palette position is out of range.
+Variant tag out of range.
+[C Range0]
+[C Range1]
+[C Range2]
+[C Range3]
+[C Range4]
+[C Range5]
+[C Range6]
+[L Range0]
+[L Range1]
+[L Range2]
+[L Range3]
+[L Range4]
+[L Range5]
+[L Range6]
+_PAGELOCKUNLOCKMEMRANGE0
+_downconverter_setTestRange
+`V`E`Rd:\automated\lv51\lvsource\gencode.cGenRangeCheck
+autorange
+cap range b/c
+d:\automated\lv51\lvsource\gencode.cGenRangeCheck
+dd:\automated\lv51\lvsource\gencode.cGenRangeCheck
+ddd:\automated\lv51\lvsource\gencode.cGenRangeCheck
+errord:\automated\lv51\lvsource\gencode.cGenRangeCheck
+function out of ranged
+gencode.cGenRangeCheck
+inputRangeWW
+last range
+last range4W
+last rangeH
+lvrt index out of range: idx=%ld
+lvrt patch out of range: ofst=0x%lx
+mA AC1-9.99990E9 is reported on overrange error.    
+no errord:\automated\lv51\lvsource\gencode.cGenRangeCheck
+on Range 
+on Range !Gain Calibration Failed
+on Range S
+on Range W
+range (auto:0)
+range (auto:0) 
+range (auto:0)&
+range (auto:0)*
+range (auto:0)*M
+range (auto:0)<@P
+range (auto:0)<P@
+range (auto:0)@@P
+range (auto:0)H
+range (auto:0)W
+rangeCodeWWW
+rangeProcIdx=%d\n
+rangebox.c
+user-defined codes is an array of the numeric error codes you define in your VIs. The VI searches this array after searching the internal list of error codes. Codes in the range of 5000 to 9999 are reserved for users.
+}d:\automated\lv51\lvsource\gencode.cGenRangeCheck

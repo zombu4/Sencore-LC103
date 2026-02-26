@@ -1,0 +1,41 @@
+67842:2ad630 INSTR{GPIB-VXI INSTR{RS-232
+68017:2b098a VXI: INSTR{VXI::logical addr}
+68018:2b09a9 GPIB-VXI: INSTR{GPIB-VXI[bd]::logical addr[prim addr]}
+134147:207d38 NationalInstrumentsVXIDAQSharedCommFileName
+134148:207d64 NationalInstrumentsVXIDAQDriverEvent
+134149:207d8c NationalInstrumentsVXIDAQServerEvent
+134151:207e14 NationalInstrumentsVXIDAQSharedBufferFileName
+238392:f03d0 INSTR{GPIB-VXI INSTR{RS-232
+238580:f3966 VXI: INSTR{VXI::logical addr}
+238581:f3985 GPIB-VXI: INSTR{GPIB-VXI[bd]::logical addr[prim addr]}
+305006:bd573 INSTR{GPIB-VXI INSTR{RS-232
+305210:c0b0b VXI: INSTR{VXI::logical addr}
+305211:c0b2a GPIB-VXI: INSTR{GPIB-VXI[bd]::logical addr[prim addr]}
+337289:bc850 INSTR{GPIB-VXI INSTR{RS-232
+337484:bfdf7 VXI: INSTR{VXI::logical addr}
+337485:bfe16 GPIB-VXI: INSTR{GPIB-VXI[bd]::logical addr[prim addr]}
+359222:b2a08 INSTR{GPIB-VXI INSTR{RS-232
+359410:b5f9e VXI: INSTR{VXI::logical addr}
+359411:b5fbd GPIB-VXI: INSTR{GPIB-VXI[bd]::logical addr[prim addr]}
+430005:b277f INSTR{GPIB-VXI INSTR{RS-232
+430209:b5d17 VXI: INSTR{VXI::logical addr}
+430210:b5d36 GPIB-VXI: INSTR{GPIB-VXI[bd]::logical addr[prim addr]}
+464955:b1040 INSTR{GPIB-VXI INSTR{RS-232
+465150:b45e7 VXI: INSTR{VXI::logical addr}
+465151:b4606 GPIB-VXI: INSTR{GPIB-VXI[bd]::logical addr[prim addr]}
+488438:b2a08 INSTR{GPIB-VXI INSTR{RS-232
+488626:b5f9e VXI: INSTR{VXI::logical addr}
+488627:b5fbd GPIB-VXI: INSTR{GPIB-VXI[bd]::logical addr[prim addr]}
+542473:b277f INSTR{GPIB-VXI INSTR{RS-232
+542677:b5d17 VXI: INSTR{VXI::logical addr}
+542678:b5d36 GPIB-VXI: INSTR{GPIB-VXI[bd]::logical addr[prim addr]}
+572871:b1040 INSTR{GPIB-VXI INSTR{RS-232
+573066:b45e7 VXI: INSTR{VXI::logical addr}
+573067:b4606 GPIB-VXI: INSTR{GPIB-VXI[bd]::logical addr[prim addr]}
+593160:b2968 INSTR{GPIB-VXI INSTR{RS-232
+593348:b5efe VXI: INSTR{VXI::logical addr}
+593349:b5f1d GPIB-VXI: INSTR{GPIB-VXI[bd]::logical addr[prim addr]}
+639636:207d38 NationalInstrumentsVXIDAQSharedCommFileName
+639637:207d64 NationalInstrumentsVXIDAQDriverEvent
+639638:207d8c NationalInstrumentsVXIDAQServerEvent
+639640:207e14 NationalInstrumentsVXIDAQSharedBufferFileName

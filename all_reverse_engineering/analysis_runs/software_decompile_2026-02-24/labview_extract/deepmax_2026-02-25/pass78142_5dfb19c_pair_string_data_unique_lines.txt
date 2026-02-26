@@ -1,0 +1,53 @@
+47043:15ee60 The vi %p calls Unflatten from String or Type Cast to a type containing an extended float. If the input data to these functions comes from a file, you must convert extended floats in the file to LV 3.0 format.
+54236:1dfbf8 2.string is the data the VI writes to the file.
+54501:1e4029 character string is the data the VI writes to the file.
+101004:4aa0e5 relative to current mark+'string is the data read from the file.
+101400:4afe9f character string is the data read from the file.
+102677:4d2b89 <8character string is the data the VI writes to the file.
+102960:4d634e character string is the data the VI writes to the file.
+111787:5655c7 0,line string is the data read from the file.
+112350:56c6e4 line string is the data read from the file.
+224529:1f6d8 2.string is the data the VI writes to the file.
+224794:23b09 character string is the data the VI writes to the file.
+224959:252f2 character string is the data the VI writes to the file.
+259401:222195 relative to current mark+'string is the data read from the file.
+259797:227f4f character string is the data read from the file.
+259971:229a2d character string is the data read from the file.
+261116:24bae9 <8character string is the data the VI writes to the file.
+261399:24f2ae character string is the data the VI writes to the file.
+261611:25095f character string is the data the VI writes to the file.
+270316:2dfd1b 0,line string is the data read from the file.
+270879:2e6e38 line string is the data read from the file.
+271326:2e963b line string is the data read from the file.
+366636:130aaa line string is the data read from the file.
+366645:1310cc 0,line string is the data read from the file.
+370471:168c42 character string is the data the VI writes to the file.
+370476:16900f <8character string is the data the VI writes to the file.
+372347:1931f3 character string is the data read from the file.
+372355:193592 +'string is the data read from the file.
+394263:30d1ee character string is the data the VI writes to the file.
+404055:3a5615 character string is the data read from the file.
+404061:3a5bc7 character string is the data the VI writes to the file.
+404101:3a6c3f line string is the data read from the file.
+405286:3ba02f character string is the data the VI writes to the file.
+405296:3ba62f 2.string is the data the VI writes to the file.
+496235:149f46 line string is the data read from the file.
+496401:14bb01 ,line string is the data read from the file.
+503361:1cf951 character string is the data the VI writes to the file.
+503505:1d0db3 8character string is the data the VI writes to the file.
+504756:1f38b4 character string is the data read from the file.
+504910:1f5a98 'string is the data read from the file.
+520855:33cae6 character string is the data the VI writes to the file.
+527392:3b4261 character string is the data read from the file.
+527398:3b4813 character string is the data the VI writes to the file.
+527438:3b588b line string is the data read from the file.
+527682:3ba9a1 character string is the data the VI writes to the file.
+527770:3bc62e .string is the data the VI writes to the file.
+596721:f1dee character string is the data the VI writes to the file.
+596791:f54c1 character string is the data read from the file.
+596797:f5a73 character string is the data the VI writes to the file.
+596837:f6aeb line string is the data read from the file.
+597624:ff4ca character string is the data the VI writes to the file.
+607664:1aa005 character string is the data read from the file.
+608419:1b6f33 character string is the data the VI writes to the file.
+610299:1d5303 line string is the data read from the file.

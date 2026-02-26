@@ -1,0 +1,7 @@
+51694:1b715b Hide Inplace Set Input-Output
+52516:1bdd78 A wire must be connected to one and only one data source, such as a control's terminal or a function output. This wire is not connected to any source. Find the source of this data and make sure it is a control (not indicator) or an output (not input).
+52525:1be595 A wire can be connected to only one data source, such as a control's terminal or a function output. This wire is connected to more than one source. Make sure that all connections except one are to indicators (not controls) or inputs (not outputs).
+100211:49d5a5 error out is a cluster that reflects the status of the first error input that tests TRUE. It has the same elements as error in.
+258565:214985 error out is a cluster that reflects the status of the first error input that tests TRUE. It has the same elements as error in.
+373376:1a24ac error out is a cluster that reflects the status of the first error input that tests TRUE. It has the same elements as error in.
+505534:200858 error out is a cluster that reflects the status of the first error input that tests TRUE. It has the same elements as error in.

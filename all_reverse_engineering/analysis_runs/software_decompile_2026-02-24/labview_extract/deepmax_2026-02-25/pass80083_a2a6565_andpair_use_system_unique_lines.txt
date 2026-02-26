@@ -1,0 +1,24 @@
+48276:166ea0 If this option is set, LabVIEW will not prompt for a user name when launched. The user name will be set to the system user name.
+50264:17dc3f -Login automatically with the system user name
+50266:17dcb4 -Login automatically with the system user name
+52037:1b8fa2 Network is down or unreachable.$Network address is currently in use.;Not enough system memory to complete the network operation.3System caused the network connection to be aborted.
+102415:4c87d4 DAQ overFlowErr: Because of system limitations, the driver could not read data from the device fast enough to keep up with the device throughput; the onboard device memory reported an overflow error.
+102508:4ce5bb qTCP ncSysConnAbortedErr: The system caused the connection to be aborted.
+260848:2413ac DAQ overFlowErr: Because of system limitations, the driver could not read data from the device fast enough to keep up with the device throughput; the onboard device memory reported an overflow error.
+260941:247193 qTCP ncSysConnAbortedErr: The system caused the connection to be aborted.
+314856:15ef7d DAQ overFlowErr: Because of system limitations, the driver could not read data from the device fast enough to keep up with the device throughput; the onboard device memory reported an overflow error.
+314949:164d64 qTCP ncSysConnAbortedErr: The system caused the connection to be aborted.
+341333:fe54d DAQ overFlowErr: Because of system limitations, the driver could not read data from the device fast enough to keep up with the device throughput; the onboard device memory reported an overflow error.
+341426:104334 qTCP ncSysConnAbortedErr: The system caused the connection to be aborted.
+371286:17adce DAQ overFlowErr: Because of system limitations, the driver could not read data from the device fast enough to keep up with the device throughput; the onboard device memory reported an overflow error.
+371379:180bb5 qTCP ncSysConnAbortedErr: The system caused the connection to be aborted.
+433987:ee9f1 DAQ overFlowErr: Because of system limitations, the driver could not read data from the device fast enough to keep up with the device throughput; the onboard device memory reported an overflow error.
+434080:f47d8 qTCP ncSysConnAbortedErr: The system caused the connection to be aborted.
+469966:fdf72 DAQ overFlowErr: Because of system limitations, the driver could not read data from the device fast enough to keep up with the device throughput; the onboard device memory reported an overflow error.
+470059:103d59 qTCP ncSysConnAbortedErr: The system caused the connection to be aborted.
+503796:1dbd6f DAQ overFlowErr: Because of system limitations, the driver could not read data from the device fast enough to keep up with the device throughput; the onboard device memory reported an overflow error.
+503889:1e1b56 qTCP ncSysConnAbortedErr: The system caused the connection to be aborted.
+546362:ed901 DAQ overFlowErr: Because of system limitations, the driver could not read data from the device fast enough to keep up with the device throughput; the onboard device memory reported an overflow error.
+546455:f36e8 qTCP ncSysConnAbortedErr: The system caused the connection to be aborted.
+579215:15fc33 DAQ overFlowErr: Because of system limitations, the driver could not read data from the device fast enough to keep up with the device throughput; the onboard device memory reported an overflow error.
+579308:165a1a qTCP ncSysConnAbortedErr: The system caused the connection to be aborted.

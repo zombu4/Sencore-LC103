@@ -1,0 +1,90 @@
+46533:15ba50 ncNewConnection
+46632:15c21e accepted connection
+46633:15c232 connection refused!!!
+47349:16046c  S  print net connection table
+51135:18cd7a Connection is busy
+51140:18cddf Connection aborted
+51141:18cdf2 Connection refused
+51144:18ce25 Connection closed/Initialization error (interapplication manager)
+52037:1b8fa2 Network is down or unreachable.$Network address is currently in use.;Not enough system memory to complete the network operation.3System caused the network connection to be aborted.
+52294:1baf79 network connection
+52510:1bd790 This VI has a bad connection to or cannot find a subVI or external routine, but it has no block diagram to show or fix the error. You must find or correct the subVI or external routine. Check for more information in the Explain... dialog in Get Info.
+52524:1be4f3 One or more required inputs to this function are not wired or are wired incorrectly. Show the Help window to see what the connections to this function should be.
+53303:1cd8aa Connection In progress
+53304:1cd8c1 Connection timed out!Connection is already in progress
+53309:1cd94a Connection aborted
+53310:1cd95d Connection refused
+53311:1cd970 Connection is not connected
+53312:1cd98c Connection is already connected
+53313:1cd9ac Connection closed+Initialize error (interapplication manager)
+102508:4ce5bb qTCP ncSysConnAbortedErr:  The system caused the connection to be aborted.
+102510:4ce62d rTCP ncConnRefusedErr:  The connection was refused by the server.
+102516:4ce78a <TCP ncConnClosedErr:  The connection was closed by the peer.6Interapplication Mgr amInitErr:  Initialization error.
+133805:205984 SCXI_Configure_Connection
+134966:292523 mconnectionTypeWW
+134988:292790 SCXI_Configure_ConnectionWWW
+135251:293e26 SCXI_Configure_ConnectionW
+223560:c4d6 Connection In progress
+223561:c4ed Connection timed out!Connection is already in progress
+223566:c576 Connection aborted
+223567:c589 Connection refused
+223568:c59c Connection is not connected
+223569:c5b8 Connection is already connected
+223570:c5d8 Connection closed+Initialize error (interapplication manager)
+260941:247193 qTCP ncSysConnAbortedErr:  The system caused the connection to be aborted.
+260943:247205 rTCP ncConnRefusedErr:  The connection was refused by the server.
+260949:247362 <TCP ncConnClosedErr:  The connection was closed by the peer.6Interapplication Mgr amInitErr:  Initialization error.
+314949:164d64 qTCP ncSysConnAbortedErr:  The system caused the connection to be aborted.
+314951:164dd6 rTCP ncConnRefusedErr:  The connection was refused by the server.
+314957:164f33 <TCP ncConnClosedErr:  The connection was closed by the peer.6Interapplication Mgr amInitErr:  Initialization error.
+323349:1efca3 RS-232 Connection FailedZ
+323684:1f2d94 RS-232 Connection Failed
+341426:104334 qTCP ncSysConnAbortedErr:  The system caused the connection to be aborted.
+341428:1043a6 rTCP ncConnRefusedErr:  The connection was refused by the server.
+341434:104503 <TCP ncConnClosedErr:  The connection was closed by the peer.6Interapplication Mgr amInitErr:  Initialization error.
+371379:180bb5 qTCP ncSysConnAbortedErr:  The system caused the connection to be aborted.
+371381:180c27 rTCP ncConnRefusedErr:  The connection was refused by the server.
+371387:180d84 <TCP ncConnClosedErr:  The connection was closed by the peer.6Interapplication Mgr amInitErr:  Initialization error.
+406588:3cf5a4 Connection In progress
+406589:3cf5bb Connection timed out!Connection is already in progress
+406594:3cf644 Connection aborted
+406595:3cf657 Connection refused
+406596:3cf66a Connection is not connected
+406597:3cf686 Connection is already connected
+406598:3cf6a6 Connection closed+Initialize error (interapplication manager)
+434080:f47d8 qTCP ncSysConnAbortedErr:  The system caused the connection to be aborted.
+434082:f484a rTCP ncConnRefusedErr:  The connection was refused by the server.
+434088:f49a7 <TCP ncConnClosedErr:  The connection was closed by the peer.6Interapplication Mgr amInitErr:  Initialization error.
+445159:1a561e RS-232 Connection Failed
+445404:1a6fe6 RS-232 Connection FailedZ
+470059:103d59 qTCP ncSysConnAbortedErr:  The system caused the connection to be aborted.
+470061:103dcb rTCP ncConnRefusedErr:  The connection was refused by the server.
+470067:103f28 <TCP ncConnClosedErr:  The connection was closed by the peer.6Interapplication Mgr amInitErr:  Initialization error.
+503889:1e1b56 qTCP ncSysConnAbortedErr:  The system caused the connection to be aborted.
+503891:1e1bc8 rTCP ncConnRefusedErr:  The connection was refused by the server.
+503897:1e1d25 <TCP ncConnClosedErr:  The connection was closed by the peer.6Interapplication Mgr amInitErr:  Initialization error.
+528565:3cb1d6 Connection In progress
+528566:3cb1ed Connection timed out!Connection is already in progress
+528571:3cb276 Connection aborted
+528572:3cb289 Connection refused
+528573:3cb29c Connection is not connected
+528574:3cb2b8 Connection is already connected
+528575:3cb2d8 Connection closed+Initialize error (interapplication manager)
+546455:f36e8 qTCP ncSysConnAbortedErr:  The system caused the connection to be aborted.
+546457:f375a rTCP ncConnRefusedErr:  The connection was refused by the server.
+546463:f38b7 <TCP ncConnClosedErr:  The connection was closed by the peer.6Interapplication Mgr amInitErr:  Initialization error.
+559420:1d988f RS-232 Connection Failed
+579308:165a1a qTCP ncSysConnAbortedErr:  The system caused the connection to be aborted.
+579310:165a8c rTCP ncConnRefusedErr:  The connection was refused by the server.
+579316:165be9 <TCP ncConnClosedErr:  The connection was closed by the peer.6Interapplication Mgr amInitErr:  Initialization error.
+596230:e53f2 Connection In progress
+596231:e5409 Connection timed out!Connection is already in progress
+596236:e5492 Connection aborted
+596237:e54a5 Connection refused
+596238:e54b8 Connection is not connected
+596239:e54d4 Connection is already connected
+596240:e54f4 Connection closed+Initialize error (interapplication manager)
+639294:205984 SCXI_Configure_Connection
+640455:292523 mconnectionTypeWW
+640477:292790 SCXI_Configure_ConnectionWWW
+640740:293e26 SCXI_Configure_ConnectionW

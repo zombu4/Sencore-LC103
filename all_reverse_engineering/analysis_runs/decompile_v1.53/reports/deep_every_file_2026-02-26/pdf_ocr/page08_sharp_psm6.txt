@@ -1,0 +1,38 @@
+COMPONENT TYPE COMMANDS Ce
+_ Command Description Le
+; ALM Aluminum Elecirolytics Lo
+_ DBL a Double Layer a
+_TAN Tantalum Caps _ 7 ee
+| CER Ceramic Caps ee
+AOC All Other Caps — Loe
+-HIR-===—————S——SsHiigh Resistance Double Layer Lytics (ee
+con : rc ance Double Layer tytics ee
+| YFB Yokes and Flybacks 7 pee
+, SWX Switching Transformers oe
+VALUE MULTIPLIERS ees y
+“Command ——séDeseription s~=—<“SsSS ce.
+7s biorntens se
+mi Mien; oe
+
+TEST FUNCTION COMMANDS
+LKR Leakage resistance
+DIA Dielectric Absorption |
+ESR | _____ Equivalent series resistance
+
+INDO Inductance
+
+RING Ringer
+
+EIC i ESR in circuit
+
+IC })©))—~—:~™SsInductanceincircuit =
+
+GENERAL COMMANDS
+
+wo bead zeroopen
+
+CPO Control panel on (front panel operation)
+
+CtrlR_ Continue taking/sending test data
+
+Ctrl O Return a single reading, (default)

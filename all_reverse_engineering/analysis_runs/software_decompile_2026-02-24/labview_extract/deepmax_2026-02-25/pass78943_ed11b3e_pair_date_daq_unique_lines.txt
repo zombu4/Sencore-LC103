@@ -1,0 +1,16 @@
+132870:1fc736 ?AO_Update_TheVirtualThing@daqDevice@@UAEFF@Z
+132891:1fcb7f ?CalFetchDate_TheVirtualThing@daqDevice@@UAEFFKPAJ00@Z
+132991:1fe241 ?HighRes_UpdateCalConstants_TheVirtualThing@daqDevice@@UAEJFKMKMMMKPAE@Z
+133012:1fe786 ?LV_AO_Single_Update_Config_GFS_TheVirtualThing@daqDevice@@UAEFKGJPAMJPAF1@Z
+133013:1fe7d3 ?LV_AO_Single_Update_GFS_TheVirtualThing@daqDevice@@UAEFKGJPAMJPAF1@Z
+133014:1fe819 ?LV_AO_Single_Update_TheVirtualThing@daqDevice@@UAEFKGJPAMJPAF1@Z
+133328:203271 ?validateDeviceAOLimits_TheVirtualThing@daqDevice@@UAEFFMMGG@Z
+133878:205ef2 UpdateRemoteNIDAQ
+638359:1fc736 ?AO_Update_TheVirtualThing@daqDevice@@UAEFF@Z
+638380:1fcb7f ?CalFetchDate_TheVirtualThing@daqDevice@@UAEFFKPAJ00@Z
+638480:1fe241 ?HighRes_UpdateCalConstants_TheVirtualThing@daqDevice@@UAEJFKMKMMMKPAE@Z
+638501:1fe786 ?LV_AO_Single_Update_Config_GFS_TheVirtualThing@daqDevice@@UAEFKGJPAMJPAF1@Z
+638502:1fe7d3 ?LV_AO_Single_Update_GFS_TheVirtualThing@daqDevice@@UAEFKGJPAMJPAF1@Z
+638503:1fe819 ?LV_AO_Single_Update_TheVirtualThing@daqDevice@@UAEFKGJPAMJPAF1@Z
+638817:203271 ?validateDeviceAOLimits_TheVirtualThing@daqDevice@@UAEFFMMGG@Z
+639367:205ef2 UpdateRemoteNIDAQ

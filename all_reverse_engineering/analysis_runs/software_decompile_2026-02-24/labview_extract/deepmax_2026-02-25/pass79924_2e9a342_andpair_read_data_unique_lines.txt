@@ -1,0 +1,101 @@
+55621:1f6984 Data Out Ready protocol violation
+55623:1f69b0 Data In Ready protocol violation
+55844:1f9cb5 Data Out Ready protocol violation
+55846:1f9ce1 Data In Ready protocol violation
+74846:317584 Input alt HW Handshake. On the PC, this parameter corresponds to Data Terminal Ready (DTR) handshaking. On the SPARCstation, this parameter is ignored.
+74849:3176fa Output alt HW Handshake. On the PC, this parameter corresponds to Data Set Ready (DSR) handshaking. On the SPARCstation, this parameter is ignored.
+101004:4aa0e5 relative to current mark+'string is the data read from the file.
+101400:4afe9f character string is the data read from the file.
+102415:4c87d4 DAQ overFlowErr: Because of system limitations, the driver could not read data from the device fast enough to keep up with the device throughput; the onboard device memory reported an overflow error.
+111786:5654df new file path is the path of the file from which the VI read data. You can use this output to determine the path of a file that you open using dialog. new file path returns Not A Path if the user selects Cancel from the dialog box.
+111787:5655c7 0,line string is the data read from the file.
+112349:56c5f9 new file path is the path of the file from which the VI read data. You can use this output to determine the path of a file that you open using dialog. new file path returns Not A Path if the user selects Cancel from the dialog box.
+112350:56c6e4 line string is the data read from the file.
+225980:372c4 Data Out Ready protocol violation
+225982:372f0 Data In Ready protocol violation
+226208:3a77d Data Out Ready protocol violation
+226210:3a7a9 Data In Ready protocol violation
+245156:155c38 Input alt HW Handshake. On the PC, this parameter corresponds to Data Terminal Ready (DTR) handshaking. On the SPARCstation, this parameter is ignored.
+245159:155dae Output alt HW Handshake. On the PC, this parameter corresponds to Data Set Ready (DSR) handshaking. On the SPARCstation, this parameter is ignored.
+259401:222195 relative to current mark+'string is the data read from the file.
+259797:227f4f character string is the data read from the file.
+259971:229a2d character string is the data read from the file.
+260848:2413ac DAQ overFlowErr: Because of system limitations, the driver could not read data from the device fast enough to keep up with the device throughput; the onboard device memory reported an overflow error.
+270315:2dfc33 new file path is the path of the file from which the VI read data. You can use this output to determine the path of a file that you open using dialog. new file path returns Not A Path if the user selects Cancel from the dialog box.
+270316:2dfd1b 0,line string is the data read from the file.
+270878:2e6d4d new file path is the path of the file from which the VI read data. You can use this output to determine the path of a file that you open using dialog. new file path returns Not A Path if the user selects Cancel from the dialog box.
+270879:2e6e38 line string is the data read from the file.
+271325:2e9550 new file path is the path of the file from which the VI read data. You can use this output to determine the path of a file that you open using dialog. new file path returns Not A Path if the user selects Cancel from the dialog box.
+271326:2e963b line string is the data read from the file.
+292456:462d Data Out Ready protocol violation
+292458:4659 Data In Ready protocol violation
+292685:7b4a Data Out Ready protocol violation
+292687:7b76 Data In Ready protocol violation
+314856:15ef7d DAQ overFlowErr: Because of system limitations, the driver could not read data from the device fast enough to keep up with the device throughput; the onboard device memory reported an overflow error.
+324577:3a3d Data Out Ready protocol violation
+324579:3a69 Data In Ready protocol violation
+324807:6eee Data Out Ready protocol violation
+324809:6f1a Data In Ready protocol violation
+341333:fe54d DAQ overFlowErr: Because of system limitations, the driver could not read data from the device fast enough to keep up with the device throughput; the onboard device memory reported an overflow error.
+347425:2584 Data Out Ready protocol violation
+347427:25b0 Data In Ready protocol violation
+347653:5a3d Data Out Ready protocol violation
+347655:5a69 Data In Ready protocol violation
+366635:1309bf new file path is the path of the file from which the VI read data. You can use this output to determine the path of a file that you open using dialog. new file path returns Not A Path if the user selects Cancel from the dialog box.
+366636:130aaa line string is the data read from the file.
+366644:130fe4 new file path is the path of the file from which the VI read data. You can use this output to determine the path of a file that you open using dialog. new file path returns Not A Path if the user selects Cancel from the dialog box.
+366645:1310cc 0,line string is the data read from the file.
+371286:17adce DAQ overFlowErr: Because of system limitations, the driver could not read data from the device fast enough to keep up with the device throughput; the onboard device memory reported an overflow error.
+372347:1931f3 character string is the data read from the file.
+372355:193592 +'string is the data read from the file.
+397616:33fb52 Input alt HW Handshake. On the PC, this parameter corresponds to Data Terminal Ready (DTR) handshaking. On the SPARCstation, this parameter is ignored.
+397619:33fcc8 Output alt HW Handshake. On the PC, this parameter corresponds to Data Set Ready (DSR) handshaking. On the SPARCstation, this parameter is ignored.
+404055:3a5615 character string is the data read from the file.
+404100:3a6b54 new file path is the path of the file from which the VI read data. You can use this output to determine the path of a file that you open using dialog. new file path returns Not A Path if the user selects Cancel from the dialog box.
+404101:3a6c3f line string is the data read from the file.
+418085:24a1 Data Out Ready protocol violation
+418087:24cd Data In Ready protocol violation
+418314:59be Data Out Ready protocol violation
+418316:59ea Data In Ready protocol violation
+433987:ee9f1 DAQ overFlowErr: Because of system limitations, the driver could not read data from the device fast enough to keep up with the device throughput; the onboard device memory reported an overflow error.
+452876:e89 Data Out Ready protocol violation
+452878:eb5 Data In Ready protocol violation
+453106:433a Data Out Ready protocol violation
+453108:4366 Data In Ready protocol violation
+469966:fdf72 DAQ overFlowErr: Because of system limitations, the driver could not read data from the device fast enough to keep up with the device throughput; the onboard device memory reported an overflow error.
+476641:2584 Data Out Ready protocol violation
+476643:25b0 Data In Ready protocol violation
+476869:5a3d Data Out Ready protocol violation
+476871:5a69 Data In Ready protocol violation
+496234:149e5b new file path is the path of the file from which the VI read data. You can use this output to determine the path of a file that you open using dialog. new file path returns Not A Path if the user selects Cancel from the dialog box.
+496235:149f46 line string is the data read from the file.
+496401:14bb01 ,line string is the data read from the file.
+496403:14bc40 new file path is the path of the file from which the VI read data. You can use this output to determine the path of a file that you open using dialog. new file path returns Not A Path if the user selects Cancel from the dialog box.
+503796:1dbd6f DAQ overFlowErr: Because of system limitations, the driver could not read data from the device fast enough to keep up with the device throughput; the onboard device memory reported an overflow error.
+504756:1f38b4 character string is the data read from the file.
+504910:1f5a98 'string is the data read from the file.
+522314:3562b4 Input alt HW Handshake. On the PC, this parameter corresponds to Data Terminal Ready (DTR) handshaking. On the SPARCstation, this parameter is ignored.
+522317:3566d0 Output alt HW Handshake. On the PC, this parameter corresponds to Data Set Ready (DSR) handshaking. On the SPARCstation, this parameter is ignored.
+527392:3b4261 character string is the data read from the file.
+527437:3b57a0 new file path is the path of the file from which the VI read data. You can use this output to determine the path of a file that you open using dialog. new file path returns Not A Path if the user selects Cancel from the dialog box.
+527438:3b588b line string is the data read from the file.
+530553:24a1 Data Out Ready protocol violation
+530555:24cd Data In Ready protocol violation
+530782:59be Data Out Ready protocol violation
+530784:59ea Data In Ready protocol violation
+546362:ed901 DAQ overFlowErr: Because of system limitations, the driver could not read data from the device fast enough to keep up with the device throughput; the onboard device memory reported an overflow error.
+560792:e89 Data Out Ready protocol violation
+560794:eb5 Data In Ready protocol violation
+561022:433a Data Out Ready protocol violation
+561024:4366 Data In Ready protocol violation
+579215:15fc33 DAQ overFlowErr: Because of system limitations, the driver could not read data from the device fast enough to keep up with the device throughput; the onboard device memory reported an overflow error.
+581364:24fc Data Out Ready protocol violation
+581366:2528 Data In Ready protocol violation
+581592:59b5 Data Out Ready protocol violation
+581594:59e1 Data In Ready protocol violation
+596791:f54c1 character string is the data read from the file.
+596836:f6a00 new file path is the path of the file from which the VI read data. You can use this output to determine the path of a file that you open using dialog. new file path returns Not A Path if the user selects Cancel from the dialog box.
+596837:f6aeb line string is the data read from the file.
+607664:1aa005 character string is the data read from the file.
+610298:1d5218 new file path is the path of the file from which the VI read data. You can use this output to determine the path of a file that you open using dialog. new file path returns Not A Path if the user selects Cancel from the dialog box.
+610299:1d5303 line string is the data read from the file.

@@ -1,0 +1,50 @@
+52516:1bdd78 A wire must be connected to one and only one data source, such as a control's terminal or a function output. This wire is not connected to any source. Find the source of this data and make sure it is a control (not indicator) or an output (not input).
+52525:1be595 A wire can be connected to only one data source, such as a control's terminal or a function output. This wire is connected to more than one source. Make sure that all connections except one are to indicators (not controls) or inputs (not outputs). 
+55621:1f6984 Data Out Ready protocol violation 
+55844:1f9cb5 Data Out Ready protocol violation 
+102676:4d2aa2 new file path is the path of the file to which the VI wrote data. You can use this output to determine the path of a file that you open using dialog. new file path returns Not A Path if the user selects Cancel from the dialog box.
+102962:4d6473 new file path is the path of the file to which the VI wrote data.  You can use this output to determine the path of a file that you open using dialog.  new file path returns Not A Path if the user selects Cancel from the dialog box.
+111786:5654df new file path is the path of the file from which the VI read data. You can use this output to determine the path of a file that you open using dialog. new file path returns Not A Path if the user selects Cancel from the dialog box.
+112349:56c5f9 new file path is the path of the file from which the VI read data.  You can use this output to determine the path of a file that you open using dialog.  new file path returns Not A Path if the user selects Cancel from the dialog box.
+225980:372c4 Data Out Ready protocol violation 
+226208:3a77d Data Out Ready protocol violation 
+261115:24ba02 new file path is the path of the file to which the VI wrote data. You can use this output to determine the path of a file that you open using dialog. new file path returns Not A Path if the user selects Cancel from the dialog box.
+261401:24f3d3 new file path is the path of the file to which the VI wrote data.  You can use this output to determine the path of a file that you open using dialog.  new file path returns Not A Path if the user selects Cancel from the dialog box.
+261613:250a84 new file path is the path of the file to which the VI wrote data.  You can use this output to determine the path of a file that you open using dialog.  new file path returns Not A Path if the user selects Cancel from the dialog box.
+270315:2dfc33 new file path is the path of the file from which the VI read data. You can use this output to determine the path of a file that you open using dialog. new file path returns Not A Path if the user selects Cancel from the dialog box.
+270878:2e6d4d new file path is the path of the file from which the VI read data.  You can use this output to determine the path of a file that you open using dialog.  new file path returns Not A Path if the user selects Cancel from the dialog box.
+271325:2e9550 new file path is the path of the file from which the VI read data.  You can use this output to determine the path of a file that you open using dialog.  new file path returns Not A Path if the user selects Cancel from the dialog box.
+292456:462d Data Out Ready protocol violation 
+292685:7b4a Data Out Ready protocol violation 
+324577:3a3d Data Out Ready protocol violation 
+324807:6eee Data Out Ready protocol violation 
+347425:2584 Data Out Ready protocol violation 
+347653:5a3d Data Out Ready protocol violation 
+366635:1309bf new file path is the path of the file from which the VI read data.  You can use this output to determine the path of a file that you open using dialog.  new file path returns Not A Path if the user selects Cancel from the dialog box.
+366644:130fe4 new file path is the path of the file from which the VI read data. You can use this output to determine the path of a file that you open using dialog. new file path returns Not A Path if the user selects Cancel from the dialog box.
+370473:168d67 new file path is the path of the file to which the VI wrote data.  You can use this output to determine the path of a file that you open using dialog.  new file path returns Not A Path if the user selects Cancel from the dialog box.
+370475:168f28 new file path is the path of the file to which the VI wrote data. You can use this output to determine the path of a file that you open using dialog. new file path returns Not A Path if the user selects Cancel from the dialog box.
+404063:3a5cec new file path is the path of the file to which the VI wrote data.  You can use this output to determine the path of a file that you open using dialog.  new file path returns Not A Path if the user selects Cancel from the dialog box.
+404100:3a6b54 new file path is the path of the file from which the VI read data.  You can use this output to determine the path of a file that you open using dialog.  new file path returns Not A Path if the user selects Cancel from the dialog box.
+418085:24a1 Data Out Ready protocol violation 
+418314:59be Data Out Ready protocol violation 
+452876:e89 Data Out Ready protocol violation 
+453106:433a Data Out Ready protocol violation 
+476641:2584 Data Out Ready protocol violation 
+476869:5a3d Data Out Ready protocol violation 
+496234:149e5b new file path is the path of the file from which the VI read data.  You can use this output to determine the path of a file that you open using dialog.  new file path returns Not A Path if the user selects Cancel from the dialog box.
+496403:14bc40 new file path is the path of the file from which the VI read data. You can use this output to determine the path of a file that you open using dialog. new file path returns Not A Path if the user selects Cancel from the dialog box.
+503363:1cfa76 new file path is the path of the file to which the VI wrote data.  You can use this output to determine the path of a file that you open using dialog.  new file path returns Not A Path if the user selects Cancel from the dialog box.
+503506:1d0df1 new file path is the path of the file to which the VI wrote data. You can use this output to determine the path of a file that you open using dialog. new file path returns Not A Path if the user selects Cancel from the dialog box.
+527400:3b4938 new file path is the path of the file to which the VI wrote data.  You can use this output to determine the path of a file that you open using dialog.  new file path returns Not A Path if the user selects Cancel from the dialog box.
+527437:3b57a0 new file path is the path of the file from which the VI read data.  You can use this output to determine the path of a file that you open using dialog.  new file path returns Not A Path if the user selects Cancel from the dialog box.
+530553:24a1 Data Out Ready protocol violation 
+530782:59be Data Out Ready protocol violation 
+560792:e89 Data Out Ready protocol violation 
+561022:433a Data Out Ready protocol violation 
+581364:24fc Data Out Ready protocol violation 
+581592:59b5 Data Out Ready protocol violation 
+596799:f5b98 new file path is the path of the file to which the VI wrote data.  You can use this output to determine the path of a file that you open using dialog.  new file path returns Not A Path if the user selects Cancel from the dialog box.
+596836:f6a00 new file path is the path of the file from which the VI read data.  You can use this output to determine the path of a file that you open using dialog.  new file path returns Not A Path if the user selects Cancel from the dialog box.
+608421:1b7058 new file path is the path of the file to which the VI wrote data.  You can use this output to determine the path of a file that you open using dialog.  new file path returns Not A Path if the user selects Cancel from the dialog box.
+610298:1d5218 new file path is the path of the file from which the VI read data.  You can use this output to determine the path of a file that you open using dialog.  new file path returns Not A Path if the user selects Cancel from the dialog box.

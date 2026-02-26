@@ -1,0 +1,38 @@
+54494:1e3da2 *Writes a string of characters to a byte stream file at the specified location; the default location is at the end of file. The VI does incoming and internal error checking and does not write if an incoming error occurs.
+101388:4af7d2 Reads a string of characters from a byte stream file at the specified location; the default location is at the current mark. The VI does incoming and internal error checking and does not read if an incoming error occurs.
+102403:4c5d7b DSP GROUP_ERR. The function ID specified does not belong to any group that is part of the DSP Library currently running on the board.
+102404:4c5e02 DSP FNC_ERR: The function ID specified does not correspond to a function that is part of the DSP Library currently running on the board.
+224787:23882 *Writes a string of characters to a byte stream file at the specified location; the default location is at the end of file. The VI does incoming and internal error checking and does not write if an incoming error occurs.
+224952:2506b *Writes a string of characters to a byte stream file at the specified location; the default location is at the end of file. The VI does incoming and internal error checking and does not write if an incoming error occurs.
+259785:227882 Reads a string of characters from a byte stream file at the specified location; the default location is at the current mark. The VI does incoming and internal error checking and does not read if an incoming error occurs.
+259959:229360 Reads a string of characters from a byte stream file at the specified location; the default location is at the current mark. The VI does incoming and internal error checking and does not read if an incoming error occurs.
+260836:23e953 DSP GROUP_ERR. The function ID specified does not belong to any group that is part of the DSP Library currently running on the board.
+260837:23e9da DSP FNC_ERR: The function ID specified does not correspond to a function that is part of the DSP Library currently running on the board.
+314844:15c524 DSP GROUP_ERR. The function ID specified does not belong to any group that is part of the DSP Library currently running on the board.
+314845:15c5ab DSP FNC_ERR: The function ID specified does not correspond to a function that is part of the DSP Library currently running on the board.
+341321:fbaf4 DSP GROUP_ERR. The function ID specified does not belong to any group that is part of the DSP Library currently running on the board.
+341322:fbb7b DSP FNC_ERR: The function ID specified does not correspond to a function that is part of the DSP Library currently running on the board.
+371274:178375 DSP GROUP_ERR. The function ID specified does not belong to any group that is part of the DSP Library currently running on the board.
+371275:1783fc DSP FNC_ERR: The function ID specified does not correspond to a function that is part of the DSP Library currently running on the board.
+372335:192b26 Reads a string of characters from a byte stream file at the specified location; the default location is at the current mark. The VI does incoming and internal error checking and does not read if an incoming error occurs.
+394256:30cf67 *Writes a string of characters to a byte stream file at the specified location; the default location is at the end of file. The VI does incoming and internal error checking and does not write if an incoming error occurs.
+404043:3a4f48 Reads a string of characters from a byte stream file at the specified location; the default location is at the current mark. The VI does incoming and internal error checking and does not read if an incoming error occurs.
+405279:3b9da8 *Writes a string of characters to a byte stream file at the specified location; the default location is at the end of file. The VI does incoming and internal error checking and does not write if an incoming error occurs.
+433975:ebf98 DSP GROUP_ERR. The function ID specified does not belong to any group that is part of the DSP Library currently running on the board.
+433976:ec01f DSP FNC_ERR: The function ID specified does not correspond to a function that is part of the DSP Library currently running on the board.
+469954:fb519 DSP GROUP_ERR. The function ID specified does not belong to any group that is part of the DSP Library currently running on the board.
+469955:fb5a0 DSP FNC_ERR: The function ID specified does not correspond to a function that is part of the DSP Library currently running on the board.
+503784:1d9316 DSP GROUP_ERR. The function ID specified does not belong to any group that is part of the DSP Library currently running on the board.
+503785:1d939d DSP FNC_ERR: The function ID specified does not correspond to a function that is part of the DSP Library currently running on the board.
+504744:1f31e7 Reads a string of characters from a byte stream file at the specified location; the default location is at the current mark. The VI does incoming and internal error checking and does not read if an incoming error occurs.
+520848:33c85f *Writes a string of characters to a byte stream file at the specified location; the default location is at the end of file. The VI does incoming and internal error checking and does not write if an incoming error occurs.
+527380:3b3b94 Reads a string of characters from a byte stream file at the specified location; the default location is at the current mark. The VI does incoming and internal error checking and does not read if an incoming error occurs.
+527675:3ba71a *Writes a string of characters to a byte stream file at the specified location; the default location is at the end of file. The VI does incoming and internal error checking and does not write if an incoming error occurs.
+546350:eaea8 DSP GROUP_ERR. The function ID specified does not belong to any group that is part of the DSP Library currently running on the board.
+546351:eaf2f DSP FNC_ERR: The function ID specified does not correspond to a function that is part of the DSP Library currently running on the board.
+579203:15d1da DSP GROUP_ERR. The function ID specified does not belong to any group that is part of the DSP Library currently running on the board.
+579204:15d261 DSP FNC_ERR: The function ID specified does not correspond to a function that is part of the DSP Library currently running on the board.
+596714:f1b67 *Writes a string of characters to a byte stream file at the specified location; the default location is at the end of file. The VI does incoming and internal error checking and does not write if an incoming error occurs.
+596779:f4df4 Reads a string of characters from a byte stream file at the specified location; the default location is at the current mark. The VI does incoming and internal error checking and does not read if an incoming error occurs.
+597617:ff243 *Writes a string of characters to a byte stream file at the specified location; the default location is at the end of file. The VI does incoming and internal error checking and does not write if an incoming error occurs.
+607652:1a9938 Reads a string of characters from a byte stream file at the specified location; the default location is at the current mark. The VI does incoming and internal error checking and does not read if an incoming error occurs.

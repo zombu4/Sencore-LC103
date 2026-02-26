@@ -1,0 +1,1 @@
+607065:19fc0d refnum is the reference number of the open file.  The value is Not A Refnum if the file cannot be opened.

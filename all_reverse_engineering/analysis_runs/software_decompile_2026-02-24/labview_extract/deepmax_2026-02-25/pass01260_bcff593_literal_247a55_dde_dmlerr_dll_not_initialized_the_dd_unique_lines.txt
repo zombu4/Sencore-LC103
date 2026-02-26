@@ -1,0 +1,1 @@
+260955:247a55 DDE DMLERR_DLL_NOT_INITIALIZED: The DDEML function was called without first calling the DdeInitialize function or an invalid instance identifier was pass to a DDEML function.

@@ -1,0 +1,89 @@
+100209:49d388 source messages contains the source message you want to appear in the error out cluster if the VI finds an error in error codes. Place each message on a separate line in a string constant or control.
+100239:49dd52 source messages
+100240:49dd68 source messages*
+100414:4a0f3e source messages2@P
+100453:4a1122 source messages
+100454:4a1135 source messages
+100455:4a1148 source messages
+100461:4a14a9 You can optionally use the source messages string to pass on the source of the error. Enter one line of text for each element of the error codes array.
+100480:4a17b6 If the error in cluster has a status of no-error, then test each element of error codes array, stopping on the first non-zero value or after all are tested; pick the selected line from the optional source messages as the error out source.
+100500:4a1b99 source messages
+100523:4a1d1d source messages
+100528:4a1db0 source messagesHD"
+100535:4a1e9d source messages2@P
+100688:4a525f source messages
+100707:4a5641 source messages2@P
+100815:4a6d22 source messages
+100924:4a7dab source messages2@P
+101595:4b75bd }yexception source is the error message that you want to use to test for an exception. By default, it is an empty string.
+101596:4b763a error source is an optional string you can use to describe the source of error code. The VI uses the string in message if there is an error.
+258543:212fc1 source messages
+258563:214768 source messages contains the source message you want to appear in the error out cluster if the VI finds an error in error codes. Place each message on a separate line in a string constant or control.
+258593:215132 source messages
+258594:215148 source messages*
+258768:21831e source messages2@P
+258807:218502 source messages
+258808:218515 source messages
+258809:218528 source messages
+258815:218889 You can optionally use the source messages string to pass on the source of the error. Enter one line of text for each element of the error codes array.
+258834:218b96 If the error in cluster has a status of no-error, then test each element of error codes array, stopping on the first non-zero value or after all are tested; pick the selected line from the optional source messages as the error out source.
+258854:218f79 source messages
+258877:2190fd source messages
+258882:219190 source messagesHD"
+258889:21927d source messages2@P
+258946:219972 You can optionally use the source messages string to pass on the source of the error. Enter one line of text for each element of the error codes array.
+259059:21cab3 source messages
+259078:21ce95 source messages2@P
+259186:21e576 source messages
+259295:21f5ff source messages2@P
+260028:230195 }yexception source is the error message that you want to use to test for an exception. By default, it is an empty string.
+260029:230212 error source is an optional string you can use to describe the source of error code. The VI uses the string in message if there is an error.
+314016:14ddb2 }yexception source is the error message that you want to use to test for an exception. By default, it is an empty string.
+314017:14de2f error source is an optional string you can use to describe the source of error code. The VI uses the string in message if there is an error.
+340499:ed395 }yexception source is the error message that you want to use to test for an exception. By default, it is an empty string.
+340500:ed412 error source is an optional string you can use to describe the source of error code. The VI uses the string in message if there is an error.
+371462:183b4d }yexception source is the error message that you want to use to test for an exception. By default, it is an empty string.
+371463:183bca error source is an optional string you can use to describe the source of error code. The VI uses the string in message if there is an error.
+372698:198d15 source messages6@P
+372898:19ad36 source messages
+372979:19bfaa source messages*
+372986:19c039 source messages6@P
+373315:1a1761 source messages6@P
+373334:1a1976 source messages p0
+373346:1a1b2a source messages
+373366:1a1ddd source messages
+373370:1a203c You can optionally use the source messages string to pass on the source of the error. Enter one line of text for each element of the error codes array.
+373374:1a228f source messages contains the source message you want to appear in the error out cluster if the VI finds an error in error codes. Place each message on a separate line in a string constant or control.
+373394:1a2836 source messages*
+373400:1a2934 source messagesL
+373410:1a2bb5 If the error in cluster has a status of no-error, then test each element of error codes array, stopping on the first non-zero value or after all are tested; pick the selected line from the optional source messages as the error out source.
+392513:2edf69 source messages
+404034:3a481e You can optionally use the source messages string to pass on the source of the error. Enter one line of text for each element of the error codes array.
+434163:f7770 }yexception source is the error message that you want to use to test for an exception. By default, it is an empty string.
+434164:f77ed error source is an optional string you can use to describe the source of error code. The VI uses the string in message if there is an error.
+470142:106cf1 }yexception source is the error message that you want to use to test for an exception. By default, it is an empty string.
+470143:106d6e error source is an optional string you can use to describe the source of error code. The VI uses the string in message if there is an error.
+504206:1e9c85 yexception source is the error message that you want to use to test for an exception. By default, it is an empty string.
+504207:1e9d40 error source is an optional string you can use to describe the source of error code. The VI uses the string in message if there is an error.
+505087:1f8e6e source messages6@P
+505128:1f9303 source messages
+505223:1fa712 source messages*
+505230:1fa7a1 source messages6@P
+505398:1fe3ae source messages6@P
+505417:1fe5d0 source messages x0
+505430:1fe79b source messages
+505474:1ff350 source messages
+505478:1ff5af You can optionally use the source messages string to pass on the source of the error. Enter one line of text for each element of the error codes array.
+505490:1ff777 source messages*
+505497:1ff88d source messagesH
+505508:1ffb22 If the error in cluster has a status of no-error, then test each element of error codes array, stopping on the first non-zero value or after all are tested; pick the selected line from the optional source messages as the error out source.
+505539:200a14 source messages contains the source message you want to appear in the error out cluster if the VI finds an error in error codes. Place each message on a separate line in a string constant or control.
+520189:332395 source messages
+527371:3b346a You can optionally use the source messages string to pass on the source of the error. Enter one line of text for each element of the error codes array.
+546538:f6680 }yexception source is the error message that you want to use to test for an exception. By default, it is an empty string.
+546539:f66fd error source is an optional string you can use to describe the source of error code. The VI uses the string in message if there is an error.
+579625:16db48 yexception source is the error message that you want to use to test for an exception. By default, it is an empty string.
+579626:16dc03 error source is an optional string you can use to describe the source of error code. The VI uses the string in message if there is an error.
+596770:f46ca You can optionally use the source messages string to pass on the source of the error. Enter one line of text for each element of the error codes array.
+597386:fc1a0 source messages
+607296:1a3d6a You can optionally use the source messages string to pass on the source of the error. Enter one line of text for each element of the error codes array.

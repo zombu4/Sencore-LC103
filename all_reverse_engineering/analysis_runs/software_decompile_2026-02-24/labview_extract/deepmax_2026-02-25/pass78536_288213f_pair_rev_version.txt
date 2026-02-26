@@ -1,0 +1,9 @@
+47635:1620a0 The library "%z" must be converted to the current format.  This will prevent earlier versions of LabVIEW from reading it.
+132657:1eecc2 _palCompareVersionForC@8
+132718:1ef752 ?mdsCompareVersion@NIMDS100@@YGXABVtSSVersion@@0AAJ@Z
+132720:1ef7dc ?mdsClientCompareVersion@NIMDS100@@YGXKAAVtSSVersion@@0AAJ@Z
+132722:1ef828 ?compareVersion@NIBS100@@YGXABVtSSVersion@@0AAJ@Z
+638146:1eecc2 _palCompareVersionForC@8
+638207:1ef752 ?mdsCompareVersion@NIMDS100@@YGXABVtSSVersion@@0AAJ@Z
+638209:1ef7dc ?mdsClientCompareVersion@NIMDS100@@YGXKAAVtSSVersion@@0AAJ@Z
+638211:1ef828 ?compareVersion@NIBS100@@YGXABVtSSVersion@@0AAJ@Z

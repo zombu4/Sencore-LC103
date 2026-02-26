@@ -1,0 +1,266 @@
+59870:23a6b0 [W(string) source:  an indication of where an error occurred, usually the name of the VI.
+60030:23c4fe (i32) code: the error code associated with an error.  A value of 0 means no error, a negative value is an error, and a positive value is a warning.[W(string) source:  an indication of where an error occurred, usually the name of the VI.
+60182:23df67 The name of the VI that is calling this VI.  If an error occurs during the operation of this VI, the value in source will be placed in the source element of the error out cluster. 
+60437:243e4c [W(string) source:  an indication of where an error occurred, usually the name of the VI."
+60450:244165 The name of the VI that is calling this VI.  If an error occurs during the operation of this VI, the value in source will be placed in the source element of the error out cluster. 
+60477:244690 [W(string) source:  an indication of where an error occurred, usually the name of the VI."
+61613:252075 [W(string) source:  an indication of where an error occurred, usually the name of the VI."
+61626:25238e The name of the VI that is calling this VI.  If an error occurs during the operation of this VI, the value in source will be placed in the source element of the error out cluster. 
+61653:2528b9 [W(string) source:  an indication of where an error occurred, usually the name of the VI. 
+62774:25ecb8 (i32) code: the error code associated with an error.  A value of 0 means no error, a negative value is an error, and a positive value is a warning.[W(string) source:  an indication of where an error occurred, usually the name of the VI.
+62802:25f288 [W(string) source:  an indication of where an error occurred, usually the name of the VI.'8@
+63518:2711af [W(string) source:  an indication of where an error occurred, usually the name of the VI.1-(bool) status: TRUE if an error has occurred."
+63526:271362 The name of the VI that is calling this VI.  If an error occurs during the operation of this VI, the value in source will be placed in the source element of the error out cluster. 
+63540:2716fa (i32) code: the error code associated with an error.  A value of 0 means no error, a negative value is an error, and a positive value is a warning.[W(string) source:  an indication of where an error occurred, usually the name of the VI.
+66147:295e41 [W(string) source:  an indication of where an error occurred, usually the name of the VI.1-(bool) status: TRUE if an error has occurred."
+66153:295ef2 The name of the VI that is calling this VI.  If an error occurs during the operation of this VI, the value in source will be placed in the source element of the error out cluster. 
+66167:29628a (i32) code: the error code associated with an error.  A value of 0 means no error, a negative value is an error, and a positive value is a warning.[W(string) source:  an indication of where an error occurred, usually the name of the VI.
+68014:2b07e9 [W(string) source:  an indication of where an error occurred, usually the name of the VI.1-(bool) status: TRUE if an error has occurred.
+68031:2b0b36 The name of the VI that is calling this VI.  If an error occurs during the operation of this VI, the value in source will be placed in the source element of the error out cluster. 
+68047:2b0fd0 (i32) code: the error code associated with an error.  A value of 0 means no error, a negative value is an error, and a positive value is a warning.[W(string) source:  an indication of where an error occurred, usually the name of the VI.
+68888:2b8dad 1-(bool) status: TRUE if an error has occurred.[W(string) source:  an indication of where an error occurred, usually the name of the VI."
+68907:2b923b (i32) code: the error code associated with an error.  A value of 0 means no error, a negative value is an error, and a positive value is a warning.[W(string) source:  an indication of where an error occurred, usually the name of the VI.
+69699:2c497f (i32) code: the error code associated with an error.  A value of 0 means no error, a negative value is an error, and a positive value is a warning.[W(string) source:  an indication of where an error occurred, usually the name of the VI.
+70072:2cac71 (i32) code: the error code associated with an error.  A value of 0 means no error, a negative value is an error, and a positive value is a warning.[W(string) source:  an indication of where an error occurred, usually the name of the VI.
+70085:2cb046 (i32) code: the error code associated with an error.  A value of 0 means no error, a negative value is an error, and a positive value is a warning.[W(string) source:  an indication of where an error occurred, usually the name of the VI.
+70488:2d1d37 (i32) code: the error code associated with an error.  A value of 0 means no error, a negative value is an error, and a positive value is a warning.[W(string) source:  an indication of where an error occurred, usually the name of the VI.
+70501:2d210c (i32) code: the error code associated with an error.  A value of 0 means no error, a negative value is an error, and a positive value is a warning.[W(string) source:  an indication of where an error occurred, usually the name of the VI.
+230331:7c3d0 [W(string) source:  an indication of where an error occurred, usually the name of the VI.
+230497:7e332 (i32) code: the error code associated with an error.  A value of 0 means no error, a negative value is an error, and a positive value is a warning.[W(string) source:  an indication of where an error occurred, usually the name of the VI.
+230652:7fe6f The name of the VI that is calling this VI.  If an error occurs during the operation of this VI, the value in source will be placed in the source element of the error out cluster. 
+230925:85fe0 [W(string) source:  an indication of where an error occurred, usually the name of the VI."
+230938:862f9 The name of the VI that is calling this VI.  If an error occurs during the operation of this VI, the value in source will be placed in the source element of the error out cluster. 
+230965:86824 [W(string) source:  an indication of where an error occurred, usually the name of the VI."
+232116:94431 [W(string) source:  an indication of where an error occurred, usually the name of the VI."
+232129:9474a The name of the VI that is calling this VI.  If an error occurs during the operation of this VI, the value in source will be placed in the source element of the error out cluster. 
+232156:94c75 [W(string) source:  an indication of where an error occurred, usually the name of the VI. 
+233293:a1318 (i32) code: the error code associated with an error.  A value of 0 means no error, a negative value is an error, and a positive value is a warning.[W(string) source:  an indication of where an error occurred, usually the name of the VI.
+233321:a18e8 [W(string) source:  an indication of where an error occurred, usually the name of the VI.'8@
+234055:b3be7 [W(string) source:  an indication of where an error occurred, usually the name of the VI.1-(bool) status: TRUE if an error has occurred."
+234063:b3d9a The name of the VI that is calling this VI.  If an error occurs during the operation of this VI, the value in source will be placed in the source element of the error out cluster. 
+234077:b4132 (i32) code: the error code associated with an error.  A value of 0 means no error, a negative value is an error, and a positive value is a warning.[W(string) source:  an indication of where an error occurred, usually the name of the VI.
+236697:d8be1 [W(string) source:  an indication of where an error occurred, usually the name of the VI.1-(bool) status: TRUE if an error has occurred."
+236703:d8c92 The name of the VI that is calling this VI.  If an error occurs during the operation of this VI, the value in source will be placed in the source element of the error out cluster. 
+236717:d902a (i32) code: the error code associated with an error.  A value of 0 means no error, a negative value is an error, and a positive value is a warning.[W(string) source:  an indication of where an error occurred, usually the name of the VI.
+238577:f37c5 [W(string) source:  an indication of where an error occurred, usually the name of the VI.1-(bool) status: TRUE if an error has occurred.
+238594:f3b12 The name of the VI that is calling this VI.  If an error occurs during the operation of this VI, the value in source will be placed in the source element of the error out cluster. 
+238610:f3fac (i32) code: the error code associated with an error.  A value of 0 means no error, a negative value is an error, and a positive value is a warning.[W(string) source:  an indication of where an error occurred, usually the name of the VI.
+239463:fbfcd 1-(bool) status: TRUE if an error has occurred.[W(string) source:  an indication of where an error occurred, usually the name of the VI."
+239482:fc45b (i32) code: the error code associated with an error.  A value of 0 means no error, a negative value is an error, and a positive value is a warning.[W(string) source:  an indication of where an error occurred, usually the name of the VI.
+240299:107fb3 (i32) code: the error code associated with an error.  A value of 0 means no error, a negative value is an error, and a positive value is a warning.[W(string) source:  an indication of where an error occurred, usually the name of the VI.
+240688:10e581 (i32) code: the error code associated with an error.  A value of 0 means no error, a negative value is an error, and a positive value is a warning.[W(string) source:  an indication of where an error occurred, usually the name of the VI.
+240701:10e956 (i32) code: the error code associated with an error.  A value of 0 means no error, a negative value is an error, and a positive value is a warning.[W(string) source:  an indication of where an error occurred, usually the name of the VI.
+241121:115947 (i32) code: the error code associated with an error.  A value of 0 means no error, a negative value is an error, and a positive value is a warning.[W(string) source:  an indication of where an error occurred, usually the name of the VI.
+241134:115d1c (i32) code: the error code associated with an error.  A value of 0 means no error, a negative value is an error, and a positive value is a warning.[W(string) source:  an indication of where an error occurred, usually the name of the VI.
+296846:496bd [W(string) source:  an indication of where an error occurred, usually the name of the VI.
+297015:4b61b (i32) code: the error code associated with an error.  A value of 0 means no error, a negative value is an error, and a positive value is a warning.[W(string) source:  an indication of where an error occurred, usually the name of the VI.
+297174:4d153 The name of the VI that is calling this VI.  If an error occurs during the operation of this VI, the value in source will be placed in the source element of the error out cluster. 
+297451:532bd [W(string) source:  an indication of where an error occurred, usually the name of the VI."
+297464:535d6 The name of the VI that is calling this VI.  If an error occurs during the operation of this VI, the value in source will be placed in the source element of the error out cluster. 
+297491:53b01 [W(string) source:  an indication of where an error occurred, usually the name of the VI."
+298654:616e2 [W(string) source:  an indication of where an error occurred, usually the name of the VI."
+298667:619fb The name of the VI that is calling this VI.  If an error occurs during the operation of this VI, the value in source will be placed in the source element of the error out cluster. 
+298694:61f26 [W(string) source:  an indication of where an error occurred, usually the name of the VI. 
+299841:6e5a1 (i32) code: the error code associated with an error.  A value of 0 means no error, a negative value is an error, and a positive value is a warning.[W(string) source:  an indication of where an error occurred, usually the name of the VI.
+299869:6eb71 [W(string) source:  an indication of where an error occurred, usually the name of the VI.'8@
+300620:80e44 [W(string) source:  an indication of where an error occurred, usually the name of the VI.1-(bool) status: TRUE if an error has occurred."
+300628:80ff7 The name of the VI that is calling this VI.  If an error occurs during the operation of this VI, the value in source will be placed in the source element of the error out cluster. 
+300642:8138f (i32) code: the error code associated with an error.  A value of 0 means no error, a negative value is an error, and a positive value is a warning.[W(string) source:  an indication of where an error occurred, usually the name of the VI.
+303296:a5dde [W(string) source:  an indication of where an error occurred, usually the name of the VI.1-(bool) status: TRUE if an error has occurred."
+303302:a5e8f The name of the VI that is calling this VI.  If an error occurs during the operation of this VI, the value in source will be placed in the source element of the error out cluster. 
+303316:a6227 (i32) code: the error code associated with an error.  A value of 0 means no error, a negative value is an error, and a positive value is a warning.[W(string) source:  an indication of where an error occurred, usually the name of the VI.
+305207:c096a [W(string) source:  an indication of where an error occurred, usually the name of the VI.1-(bool) status: TRUE if an error has occurred.
+305224:c0cb7 The name of the VI that is calling this VI.  If an error occurs during the operation of this VI, the value in source will be placed in the source element of the error out cluster. 
+305240:c1151 (i32) code: the error code associated with an error.  A value of 0 means no error, a negative value is an error, and a positive value is a warning.[W(string) source:  an indication of where an error occurred, usually the name of the VI.
+306102:c9156 1-(bool) status: TRUE if an error has occurred.[W(string) source:  an indication of where an error occurred, usually the name of the VI."
+306121:c95e4 (i32) code: the error code associated with an error.  A value of 0 means no error, a negative value is an error, and a positive value is a warning.[W(string) source:  an indication of where an error occurred, usually the name of the VI.
+312738:134741 (i32) code: the error code associated with an error.  A value of 0 means no error, a negative value is an error, and a positive value is a warning.[W(string) source:  an indication of where an error occurred, usually the name of the VI.
+313132:13ad06 (i32) code: the error code associated with an error.  A value of 0 means no error, a negative value is an error, and a positive value is a warning.[W(string) source:  an indication of where an error occurred, usually the name of the VI.
+313145:13b0db (i32) code: the error code associated with an error.  A value of 0 means no error, a negative value is an error, and a positive value is a warning.[W(string) source:  an indication of where an error occurred, usually the name of the VI.
+313567:1420c0 (i32) code: the error code associated with an error.  A value of 0 means no error, a negative value is an error, and a positive value is a warning.[W(string) source:  an indication of where an error occurred, usually the name of the VI.
+313580:142495 (i32) code: the error code associated with an error.  A value of 0 means no error, a negative value is an error, and a positive value is a warning.[W(string) source:  an indication of where an error occurred, usually the name of the VI.
+329064:4893d [W(string) source:  an indication of where an error occurred, usually the name of the VI.
+329242:4a88f (i32) code: the error code associated with an error.  A value of 0 means no error, a negative value is an error, and a positive value is a warning.[W(string) source:  an indication of where an error occurred, usually the name of the VI.
+329405:4c3bc The name of the VI that is calling this VI.  If an error occurs during the operation of this VI, the value in source will be placed in the source element of the error out cluster. 
+329688:525a9 [W(string) source:  an indication of where an error occurred, usually the name of the VI."
+329701:528c2 The name of the VI that is calling this VI.  If an error occurs during the operation of this VI, the value in source will be placed in the source element of the error out cluster. 
+329728:52ded [W(string) source:  an indication of where an error occurred, usually the name of the VI."
+330904:60a2a [W(string) source:  an indication of where an error occurred, usually the name of the VI."
+330917:60d43 The name of the VI that is calling this VI.  If an error occurs during the operation of this VI, the value in source will be placed in the source element of the error out cluster. 
+330944:6126e [W(string) source:  an indication of where an error occurred, usually the name of the VI. 
+332102:6d8b5 (i32) code: the error code associated with an error.  A value of 0 means no error, a negative value is an error, and a positive value is a warning.[W(string) source:  an indication of where an error occurred, usually the name of the VI.
+332130:6de85 [W(string) source:  an indication of where an error occurred, usually the name of the VI.'8@
+332889:80254 [W(string) source:  an indication of where an error occurred, usually the name of the VI.1-(bool) status: TRUE if an error has occurred."
+332897:80407 The name of the VI that is calling this VI.  If an error occurs during the operation of this VI, the value in source will be placed in the source element of the error out cluster. 
+332911:8079f (i32) code: the error code associated with an error.  A value of 0 means no error, a negative value is an error, and a positive value is a warning.[W(string) source:  an indication of where an error occurred, usually the name of the VI.
+335570:a50c6 [W(string) source:  an indication of where an error occurred, usually the name of the VI.1-(bool) status: TRUE if an error has occurred."
+335576:a5177 The name of the VI that is calling this VI.  If an error occurs during the operation of this VI, the value in source will be placed in the source element of the error out cluster. 
+335590:a550f (i32) code: the error code associated with an error.  A value of 0 means no error, a negative value is an error, and a positive value is a warning.[W(string) source:  an indication of where an error occurred, usually the name of the VI.
+337481:bfc56 [W(string) source:  an indication of where an error occurred, usually the name of the VI.1-(bool) status: TRUE if an error has occurred.
+337498:bffa3 The name of the VI that is calling this VI.  If an error occurs during the operation of this VI, the value in source will be placed in the source element of the error out cluster. 
+337514:c043d (i32) code: the error code associated with an error.  A value of 0 means no error, a negative value is an error, and a positive value is a warning.[W(string) source:  an indication of where an error occurred, usually the name of the VI.
+338379:c8473 1-(bool) status: TRUE if an error has occurred.[W(string) source:  an indication of where an error occurred, usually the name of the VI."
+338398:c8901 (i32) code: the error code associated with an error.  A value of 0 means no error, a negative value is an error, and a positive value is a warning.[W(string) source:  an indication of where an error occurred, usually the name of the VI.
+339205:d3c21 (i32) code: the error code associated with an error.  A value of 0 means no error, a negative value is an error, and a positive value is a warning.[W(string) source:  an indication of where an error occurred, usually the name of the VI.
+339599:da1de (i32) code: the error code associated with an error.  A value of 0 means no error, a negative value is an error, and a positive value is a warning.[W(string) source:  an indication of where an error occurred, usually the name of the VI.
+339612:da5b3 (i32) code: the error code associated with an error.  A value of 0 means no error, a negative value is an error, and a positive value is a warning.[W(string) source:  an indication of where an error occurred, usually the name of the VI.
+340045:e15e8 (i32) code: the error code associated with an error.  A value of 0 means no error, a negative value is an error, and a positive value is a warning.[W(string) source:  an indication of where an error occurred, usually the name of the VI.
+340058:e19bd (i32) code: the error code associated with an error.  A value of 0 means no error, a negative value is an error, and a positive value is a warning.[W(string) source:  an indication of where an error occurred, usually the name of the VI.
+351776:47690 [W(string) source:  an indication of where an error occurred, usually the name of the VI.
+351942:495f2 (i32) code: the error code associated with an error.  A value of 0 means no error, a negative value is an error, and a positive value is a warning.[W(string) source:  an indication of where an error occurred, usually the name of the VI.
+352097:4b12f The name of the VI that is calling this VI.  If an error occurs during the operation of this VI, the value in source will be placed in the source element of the error out cluster. 
+352370:512a0 [W(string) source:  an indication of where an error occurred, usually the name of the VI."
+352383:515b9 The name of the VI that is calling this VI.  If an error occurs during the operation of this VI, the value in source will be placed in the source element of the error out cluster. 
+352410:51ae4 [W(string) source:  an indication of where an error occurred, usually the name of the VI."
+353561:5f6f1 [W(string) source:  an indication of where an error occurred, usually the name of the VI."
+353574:5fa0a The name of the VI that is calling this VI.  If an error occurs during the operation of this VI, the value in source will be placed in the source element of the error out cluster. 
+353601:5ff35 [W(string) source:  an indication of where an error occurred, usually the name of the VI. 
+354885:7621f [W(string) source:  an indication of where an error occurred, usually the name of the VI.1-(bool) status: TRUE if an error has occurred."
+354893:763d2 The name of the VI that is calling this VI.  If an error occurs during the operation of this VI, the value in source will be placed in the source element of the error out cluster. 
+354907:7676a (i32) code: the error code associated with an error.  A value of 0 means no error, a negative value is an error, and a positive value is a warning.[W(string) source:  an indication of where an error occurred, usually the name of the VI.
+357527:9b219 [W(string) source:  an indication of where an error occurred, usually the name of the VI.1-(bool) status: TRUE if an error has occurred."
+357533:9b2ca The name of the VI that is calling this VI.  If an error occurs during the operation of this VI, the value in source will be placed in the source element of the error out cluster. 
+357547:9b662 (i32) code: the error code associated with an error.  A value of 0 means no error, a negative value is an error, and a positive value is a warning.[W(string) source:  an indication of where an error occurred, usually the name of the VI.
+359407:b5dfd [W(string) source:  an indication of where an error occurred, usually the name of the VI.1-(bool) status: TRUE if an error has occurred.
+359424:b614a The name of the VI that is calling this VI.  If an error occurs during the operation of this VI, the value in source will be placed in the source element of the error out cluster. 
+359440:b65e4 (i32) code: the error code associated with an error.  A value of 0 means no error, a negative value is an error, and a positive value is a warning.[W(string) source:  an indication of where an error occurred, usually the name of the VI.
+402200:388239 (i32) code: the error code associated with an error.  A value of 0 means no error, a negative value is an error, and a positive value is a warning.[W(string) source:  an indication of where an error occurred, usually the name of the VI.
+402209:3885ee (i32) code: the error code associated with an error.  A value of 0 means no error, a negative value is an error, and a positive value is a warning.[W(string) source:  an indication of where an error occurred, usually the name of the VI.
+402633:38fa6f (i32) code: the error code associated with an error.  A value of 0 means no error, a negative value is an error, and a positive value is a warning.[W(string) source:  an indication of where an error occurred, usually the name of the VI.
+402642:38fe24 (i32) code: the error code associated with an error.  A value of 0 means no error, a negative value is an error, and a positive value is a warning.[W(string) source:  an indication of where an error occurred, usually the name of the VI.
+403046:396efc (i32) code: the error code associated with an error.  A value of 0 means no error, a negative value is an error, and a positive value is a warning.[W(string) source:  an indication of where an error occurred, usually the name of the VI.
+422475:47531 [W(string) source:  an indication of where an error occurred, usually the name of the VI.
+422644:4948f (i32) code: the error code associated with an error.  A value of 0 means no error, a negative value is an error, and a positive value is a warning.[W(string) source:  an indication of where an error occurred, usually the name of the VI.
+422803:4afc7 The name of the VI that is calling this VI.  If an error occurs during the operation of this VI, the value in source will be placed in the source element of the error out cluster. 
+423080:51131 [W(string) source:  an indication of where an error occurred, usually the name of the VI."
+423093:5144a The name of the VI that is calling this VI.  If an error occurs during the operation of this VI, the value in source will be placed in the source element of the error out cluster. 
+423120:51975 [W(string) source:  an indication of where an error occurred, usually the name of the VI."
+424283:5f556 [W(string) source:  an indication of where an error occurred, usually the name of the VI."
+424296:5f86f The name of the VI that is calling this VI.  If an error occurs during the operation of this VI, the value in source will be placed in the source element of the error out cluster. 
+424323:5fd9a [W(string) source:  an indication of where an error occurred, usually the name of the VI. 
+425619:76050 [W(string) source:  an indication of where an error occurred, usually the name of the VI.1-(bool) status: TRUE if an error has occurred."
+425627:76203 The name of the VI that is calling this VI.  If an error occurs during the operation of this VI, the value in source will be placed in the source element of the error out cluster. 
+425641:7659b (i32) code: the error code associated with an error.  A value of 0 means no error, a negative value is an error, and a positive value is a warning.[W(string) source:  an indication of where an error occurred, usually the name of the VI.
+428295:9afea [W(string) source:  an indication of where an error occurred, usually the name of the VI.1-(bool) status: TRUE if an error has occurred."
+428301:9b09b The name of the VI that is calling this VI.  If an error occurs during the operation of this VI, the value in source will be placed in the source element of the error out cluster. 
+428315:9b433 (i32) code: the error code associated with an error.  A value of 0 means no error, a negative value is an error, and a positive value is a warning.[W(string) source:  an indication of where an error occurred, usually the name of the VI.
+430206:b5b76 [W(string) source:  an indication of where an error occurred, usually the name of the VI.1-(bool) status: TRUE if an error has occurred.
+430223:b5ec3 The name of the VI that is calling this VI.  If an error occurs during the operation of this VI, the value in source will be placed in the source element of the error out cluster. 
+430239:b635d (i32) code: the error code associated with an error.  A value of 0 means no error, a negative value is an error, and a positive value is a warning.[W(string) source:  an indication of where an error occurred, usually the name of the VI.
+434973:106817 (i32) code: the error code associated with an error.  A value of 0 means no error, a negative value is an error, and a positive value is a warning.[W(string) source:  an indication of where an error occurred, usually the name of the VI.
+434982:106bcc (i32) code: the error code associated with an error.  A value of 0 means no error, a negative value is an error, and a positive value is a warning.[W(string) source:  an indication of where an error occurred, usually the name of the VI.
+435407:10e04c (i32) code: the error code associated with an error.  A value of 0 means no error, a negative value is an error, and a positive value is a warning.[W(string) source:  an indication of where an error occurred, usually the name of the VI.
+435416:10e401 (i32) code: the error code associated with an error.  A value of 0 means no error, a negative value is an error, and a positive value is a warning.[W(string) source:  an indication of where an error occurred, usually the name of the VI.
+435823:1154d4 (i32) code: the error code associated with an error.  A value of 0 means no error, a negative value is an error, and a positive value is a warning.[W(string) source:  an indication of where an error occurred, usually the name of the VI.
+457363:45d89 [W(string) source:  an indication of where an error occurred, usually the name of the VI.
+457541:47cdb (i32) code: the error code associated with an error.  A value of 0 means no error, a negative value is an error, and a positive value is a warning.[W(string) source:  an indication of where an error occurred, usually the name of the VI.
+457704:49808 The name of the VI that is calling this VI.  If an error occurs during the operation of this VI, the value in source will be placed in the source element of the error out cluster. 
+457987:4f9f5 [W(string) source:  an indication of where an error occurred, usually the name of the VI."
+458000:4fd0e The name of the VI that is calling this VI.  If an error occurs during the operation of this VI, the value in source will be placed in the source element of the error out cluster. 
+458027:50239 [W(string) source:  an indication of where an error occurred, usually the name of the VI."
+459203:5de76 [W(string) source:  an indication of where an error occurred, usually the name of the VI."
+459216:5e18f The name of the VI that is calling this VI.  If an error occurs during the operation of this VI, the value in source will be placed in the source element of the error out cluster. 
+459243:5e6ba [W(string) source:  an indication of where an error occurred, usually the name of the VI. 
+460555:74a44 [W(string) source:  an indication of where an error occurred, usually the name of the VI.1-(bool) status: TRUE if an error has occurred."
+460563:74bf7 The name of the VI that is calling this VI.  If an error occurs during the operation of this VI, the value in source will be placed in the source element of the error out cluster. 
+460577:74f8f (i32) code: the error code associated with an error.  A value of 0 means no error, a negative value is an error, and a positive value is a warning.[W(string) source:  an indication of where an error occurred, usually the name of the VI.
+463236:998b6 [W(string) source:  an indication of where an error occurred, usually the name of the VI.1-(bool) status: TRUE if an error has occurred."
+463242:99967 The name of the VI that is calling this VI.  If an error occurs during the operation of this VI, the value in source will be placed in the source element of the error out cluster. 
+463256:99cff (i32) code: the error code associated with an error.  A value of 0 means no error, a negative value is an error, and a positive value is a warning.[W(string) source:  an indication of where an error occurred, usually the name of the VI.
+465147:b4446 [W(string) source:  an indication of where an error occurred, usually the name of the VI.1-(bool) status: TRUE if an error has occurred.
+465164:b4793 The name of the VI that is calling this VI.  If an error occurs during the operation of this VI, the value in source will be placed in the source element of the error out cluster. 
+465180:b4c2d (i32) code: the error code associated with an error.  A value of 0 means no error, a negative value is an error, and a positive value is a warning.[W(string) source:  an indication of where an error occurred, usually the name of the VI.
+468374:dcd03 (i32) code: the error code associated with an error.  A value of 0 means no error, a negative value is an error, and a positive value is a warning.[W(string) source:  an indication of where an error occurred, usually the name of the VI.
+468800:e3e6c (i32) code: the error code associated with an error.  A value of 0 means no error, a negative value is an error, and a positive value is a warning.[W(string) source:  an indication of where an error occurred, usually the name of the VI.
+468809:e4221 (i32) code: the error code associated with an error.  A value of 0 means no error, a negative value is an error, and a positive value is a warning.[W(string) source:  an indication of where an error occurred, usually the name of the VI.
+469240:ebcca (i32) code: the error code associated with an error.  A value of 0 means no error, a negative value is an error, and a positive value is a warning.[W(string) source:  an indication of where an error occurred, usually the name of the VI.
+469249:ec07f (i32) code: the error code associated with an error.  A value of 0 means no error, a negative value is an error, and a positive value is a warning.[W(string) source:  an indication of where an error occurred, usually the name of the VI.
+480992:47690 [W(string) source:  an indication of where an error occurred, usually the name of the VI.
+481158:495f2 (i32) code: the error code associated with an error.  A value of 0 means no error, a negative value is an error, and a positive value is a warning.[W(string) source:  an indication of where an error occurred, usually the name of the VI.
+481313:4b12f The name of the VI that is calling this VI.  If an error occurs during the operation of this VI, the value in source will be placed in the source element of the error out cluster. 
+481586:512a0 [W(string) source:  an indication of where an error occurred, usually the name of the VI."
+481599:515b9 The name of the VI that is calling this VI.  If an error occurs during the operation of this VI, the value in source will be placed in the source element of the error out cluster. 
+481626:51ae4 [W(string) source:  an indication of where an error occurred, usually the name of the VI."
+482777:5f6f1 [W(string) source:  an indication of where an error occurred, usually the name of the VI."
+482790:5fa0a The name of the VI that is calling this VI.  If an error occurs during the operation of this VI, the value in source will be placed in the source element of the error out cluster. 
+482817:5ff35 [W(string) source:  an indication of where an error occurred, usually the name of the VI. 
+484101:7621f [W(string) source:  an indication of where an error occurred, usually the name of the VI.1-(bool) status: TRUE if an error has occurred."
+484109:763d2 The name of the VI that is calling this VI.  If an error occurs during the operation of this VI, the value in source will be placed in the source element of the error out cluster. 
+484123:7676a (i32) code: the error code associated with an error.  A value of 0 means no error, a negative value is an error, and a positive value is a warning.[W(string) source:  an indication of where an error occurred, usually the name of the VI.
+486743:9b219 [W(string) source:  an indication of where an error occurred, usually the name of the VI.1-(bool) status: TRUE if an error has occurred."
+486749:9b2ca The name of the VI that is calling this VI.  If an error occurs during the operation of this VI, the value in source will be placed in the source element of the error out cluster. 
+486763:9b662 (i32) code: the error code associated with an error.  A value of 0 means no error, a negative value is an error, and a positive value is a warning.[W(string) source:  an indication of where an error occurred, usually the name of the VI.
+488623:b5dfd [W(string) source:  an indication of where an error occurred, usually the name of the VI.1-(bool) status: TRUE if an error has occurred.
+488640:b614a The name of the VI that is calling this VI.  If an error occurs during the operation of this VI, the value in source will be placed in the source element of the error out cluster. 
+488656:b65e4 (i32) code: the error code associated with an error.  A value of 0 means no error, a negative value is an error, and a positive value is a warning.[W(string) source:  an indication of where an error occurred, usually the name of the VI.
+525032:388c3f W(string) source:  an indication of where an error occurred, usually the name of the VI.
+525041:388f95 W(string) source:  an indication of where an error occurred, usually the name of the VI.
+525337:38e9f4 W(string) source:  an indication of where an error occurred, usually the name of the VI.L
+525338:38ea7c W(string) source:  an indication of where an error occurred, usually the name of the VI.
+525618:39433f W(string) source:  an indication of where an error occurred, usually the name of the VI.L
+525619:3943c7 W(string) source:  an indication of where an error occurred, usually the name of the VI.
+534943:47531 [W(string) source:  an indication of where an error occurred, usually the name of the VI.
+535112:4948f (i32) code: the error code associated with an error.  A value of 0 means no error, a negative value is an error, and a positive value is a warning.[W(string) source:  an indication of where an error occurred, usually the name of the VI.
+535271:4afc7 The name of the VI that is calling this VI.  If an error occurs during the operation of this VI, the value in source will be placed in the source element of the error out cluster. 
+535548:51131 [W(string) source:  an indication of where an error occurred, usually the name of the VI."
+535561:5144a The name of the VI that is calling this VI.  If an error occurs during the operation of this VI, the value in source will be placed in the source element of the error out cluster. 
+535588:51975 [W(string) source:  an indication of where an error occurred, usually the name of the VI."
+536751:5f556 [W(string) source:  an indication of where an error occurred, usually the name of the VI."
+536764:5f86f The name of the VI that is calling this VI.  If an error occurs during the operation of this VI, the value in source will be placed in the source element of the error out cluster. 
+536791:5fd9a [W(string) source:  an indication of where an error occurred, usually the name of the VI. 
+538087:76050 [W(string) source:  an indication of where an error occurred, usually the name of the VI.1-(bool) status: TRUE if an error has occurred."
+538095:76203 The name of the VI that is calling this VI.  If an error occurs during the operation of this VI, the value in source will be placed in the source element of the error out cluster. 
+538109:7659b (i32) code: the error code associated with an error.  A value of 0 means no error, a negative value is an error, and a positive value is a warning.[W(string) source:  an indication of where an error occurred, usually the name of the VI.
+540763:9afea [W(string) source:  an indication of where an error occurred, usually the name of the VI.1-(bool) status: TRUE if an error has occurred."
+540769:9b09b The name of the VI that is calling this VI.  If an error occurs during the operation of this VI, the value in source will be placed in the source element of the error out cluster. 
+540783:9b433 (i32) code: the error code associated with an error.  A value of 0 means no error, a negative value is an error, and a positive value is a warning.[W(string) source:  an indication of where an error occurred, usually the name of the VI.
+542674:b5b76 [W(string) source:  an indication of where an error occurred, usually the name of the VI.1-(bool) status: TRUE if an error has occurred.
+542691:b5ec3 The name of the VI that is calling this VI.  If an error occurs during the operation of this VI, the value in source will be placed in the source element of the error out cluster. 
+542707:b635d (i32) code: the error code associated with an error.  A value of 0 means no error, a negative value is an error, and a positive value is a warning.[W(string) source:  an indication of where an error occurred, usually the name of the VI.
+547348:105727 (i32) code: the error code associated with an error.  A value of 0 means no error, a negative value is an error, and a positive value is a warning.[W(string) source:  an indication of where an error occurred, usually the name of the VI.
+547357:105adc (i32) code: the error code associated with an error.  A value of 0 means no error, a negative value is an error, and a positive value is a warning.[W(string) source:  an indication of where an error occurred, usually the name of the VI.
+547782:10cf5c (i32) code: the error code associated with an error.  A value of 0 means no error, a negative value is an error, and a positive value is a warning.[W(string) source:  an indication of where an error occurred, usually the name of the VI.
+547791:10d311 (i32) code: the error code associated with an error.  A value of 0 means no error, a negative value is an error, and a positive value is a warning.[W(string) source:  an indication of where an error occurred, usually the name of the VI.
+548198:1143e4 (i32) code: the error code associated with an error.  A value of 0 means no error, a negative value is an error, and a positive value is a warning.[W(string) source:  an indication of where an error occurred, usually the name of the VI.
+565279:45d89 [W(string) source:  an indication of where an error occurred, usually the name of the VI.
+565457:47cdb (i32) code: the error code associated with an error.  A value of 0 means no error, a negative value is an error, and a positive value is a warning.[W(string) source:  an indication of where an error occurred, usually the name of the VI.
+565620:49808 The name of the VI that is calling this VI.  If an error occurs during the operation of this VI, the value in source will be placed in the source element of the error out cluster. 
+565903:4f9f5 [W(string) source:  an indication of where an error occurred, usually the name of the VI."
+565916:4fd0e The name of the VI that is calling this VI.  If an error occurs during the operation of this VI, the value in source will be placed in the source element of the error out cluster. 
+565943:50239 [W(string) source:  an indication of where an error occurred, usually the name of the VI."
+567119:5de76 [W(string) source:  an indication of where an error occurred, usually the name of the VI."
+567132:5e18f The name of the VI that is calling this VI.  If an error occurs during the operation of this VI, the value in source will be placed in the source element of the error out cluster. 
+567159:5e6ba [W(string) source:  an indication of where an error occurred, usually the name of the VI. 
+568471:74a44 [W(string) source:  an indication of where an error occurred, usually the name of the VI.1-(bool) status: TRUE if an error has occurred."
+568479:74bf7 The name of the VI that is calling this VI.  If an error occurs during the operation of this VI, the value in source will be placed in the source element of the error out cluster. 
+568493:74f8f (i32) code: the error code associated with an error.  A value of 0 means no error, a negative value is an error, and a positive value is a warning.[W(string) source:  an indication of where an error occurred, usually the name of the VI.
+571152:998b6 [W(string) source:  an indication of where an error occurred, usually the name of the VI.1-(bool) status: TRUE if an error has occurred."
+571158:99967 The name of the VI that is calling this VI.  If an error occurs during the operation of this VI, the value in source will be placed in the source element of the error out cluster. 
+571172:99cff (i32) code: the error code associated with an error.  A value of 0 means no error, a negative value is an error, and a positive value is a warning.[W(string) source:  an indication of where an error occurred, usually the name of the VI.
+573063:b4446 [W(string) source:  an indication of where an error occurred, usually the name of the VI.1-(bool) status: TRUE if an error has occurred.
+573080:b4793 The name of the VI that is calling this VI.  If an error occurs during the operation of this VI, the value in source will be placed in the source element of the error out cluster. 
+573096:b4c2d (i32) code: the error code associated with an error.  A value of 0 means no error, a negative value is an error, and a positive value is a warning.[W(string) source:  an indication of where an error occurred, usually the name of the VI.
+578378:148c94 W(string) source:  an indication of where an error occurred, usually the name of the VI.L
+578379:148d1c W(string) source:  an indication of where an error occurred, usually the name of the VI.
+578669:14e92d W(string) source:  an indication of where an error occurred, usually the name of the VI.L
+578670:14e9b5 W(string) source:  an indication of where an error occurred, usually the name of the VI.
+578961:154f2a W(string) source:  an indication of where an error occurred, usually the name of the VI.
+578970:155280 W(string) source:  an indication of where an error occurred, usually the name of the VI.
+585715:47608 [W(string) source:  an indication of where an error occurred, usually the name of the VI.
+585881:4956a (i32) code: the error code associated with an error.  A value of 0 means no error, a negative value is an error, and a positive value is a warning.[W(string) source:  an indication of where an error occurred, usually the name of the VI.
+586036:4b0a7 The name of the VI that is calling this VI.  If an error occurs during the operation of this VI, the value in source will be placed in the source element of the error out cluster. 
+586309:51218 [W(string) source:  an indication of where an error occurred, usually the name of the VI."
+586322:51531 The name of the VI that is calling this VI.  If an error occurs during the operation of this VI, the value in source will be placed in the source element of the error out cluster. 
+586349:51a5c [W(string) source:  an indication of where an error occurred, usually the name of the VI."
+587500:5f669 [W(string) source:  an indication of where an error occurred, usually the name of the VI."
+587513:5f982 The name of the VI that is calling this VI.  If an error occurs during the operation of this VI, the value in source will be placed in the source element of the error out cluster. 
+587540:5fead [W(string) source:  an indication of where an error occurred, usually the name of the VI. 
+588823:7617f [W(string) source:  an indication of where an error occurred, usually the name of the VI.1-(bool) status: TRUE if an error has occurred."
+588831:76332 The name of the VI that is calling this VI.  If an error occurs during the operation of this VI, the value in source will be placed in the source element of the error out cluster. 
+588845:766ca (i32) code: the error code associated with an error.  A value of 0 means no error, a negative value is an error, and a positive value is a warning.[W(string) source:  an indication of where an error occurred, usually the name of the VI.
+591465:9b179 [W(string) source:  an indication of where an error occurred, usually the name of the VI.1-(bool) status: TRUE if an error has occurred."
+591471:9b22a The name of the VI that is calling this VI.  If an error occurs during the operation of this VI, the value in source will be placed in the source element of the error out cluster. 
+591485:9b5c2 (i32) code: the error code associated with an error.  A value of 0 means no error, a negative value is an error, and a positive value is a warning.[W(string) source:  an indication of where an error occurred, usually the name of the VI.
+593345:b5d5d [W(string) source:  an indication of where an error occurred, usually the name of the VI.1-(bool) status: TRUE if an error has occurred.
+593362:b60aa The name of the VI that is calling this VI.  If an error occurs during the operation of this VI, the value in source will be placed in the source element of the error out cluster. 
+593378:b6544 (i32) code: the error code associated with an error.  A value of 0 means no error, a negative value is an error, and a positive value is a warning.[W(string) source:  an indication of where an error occurred, usually the name of the VI.

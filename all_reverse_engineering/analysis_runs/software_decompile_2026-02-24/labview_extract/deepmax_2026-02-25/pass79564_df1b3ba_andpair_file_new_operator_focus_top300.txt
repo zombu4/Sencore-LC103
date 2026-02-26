@@ -1,0 +1,45 @@
+52212:1ba204 GIt starts with "." and may be incorrectly interpreted as a device name.9LabVIEW cannot create new directories or libraries in %p.&LabVIEW cannot create new files in %p.
+52427:1bc7be Can't allocate new path.$Can't open VI library resource file."Can't remove file from VI library.%Can't open file system resource file.
+52984:1cac48 creates a new file or replaces a file if it exists and you give permission. Replacement is done by opening the file and setting EOF to 0. Error 43 occurs if the user elects to disallow the replacement using dialog.
+52985:1cad24 creates a new file. Error 8 occurs if the file already exists.
+54004:1dbb16 2 (create or replace) creates a new file or replaces a file if it exists and you give permission. Replacement is done by opening the file and setting EOF to 0. Error 43 occurs if the user elects to disallow the replacement using dialog.
+54005:1dbc09 3 (create) creates a new file. Error 8 occurs if the file already exists.
+102678:4d2bc5 append to file. Set to TRUE if you want to append the data to a existing file; you can also set it TRUE to write to a new file. Set to FALSE (default value) if you want to write the data to a new file or to replace an existing file.
+102961:4d6387 append to file? Set to TRUE if you want to append the data to a existing file; you can also set it TRUE to write to a new file. Set to FALSE (default value) if you want to write the data to a new file or to replace an existing file.
+112644:56db5f @ start of read offset (chars.:0 ),2@'new file path (Not A Path if cancelled)
+223241:9874 creates a new file or replaces a file if it exists and you give permission. Replacement is done by opening the file and setting EOF to 0. Error 43 occurs if the user elects to disallow the replacement using dialog.
+223242:9950 creates a new file. Error 8 occurs if the file already exists.
+224261:1a742 2 (create or replace) creates a new file or replaces a file if it exists and you give permission. Replacement is done by opening the file and setting EOF to 0. Error 43 occurs if the user elects to disallow the replacement using dialog.
+224262:1a835 3 (create) creates a new file. Error 8 occurs if the file already exists.
+224497:1d44e 2 (create or replace) creates a new file or replaces a file if it exists and you give permission. Replacement is done by opening the file and setting EOF to 0. Error 43 occurs if the user elects to disallow the replacement using dialog.
+224498:1d541 3 (create) creates a new file. Error 8 occurs if the file already exists.
+261117:24bb25 append to file. Set to TRUE if you want to append the data to a existing file; you can also set it TRUE to write to a new file. Set to FALSE (default value) if you want to write the data to a new file or to replace an existing file.
+261400:24f2e7 append to file? Set to TRUE if you want to append the data to a existing file; you can also set it TRUE to write to a new file. Set to FALSE (default value) if you want to write the data to a new file or to replace an existing file.
+261612:250998 append to file? Set to TRUE if you want to append the data to a existing file; you can also set it TRUE to write to a new file. Set to FALSE (default value) if you want to write the data to a new file or to replace an existing file.
+271173:2e82b3 @ start of read offset (chars.:0 ),2@'new file path (Not A Path if cancelled)
+370472:168c7b append to file? Set to TRUE if you want to append the data to a existing file; you can also set it TRUE to write to a new file. Set to FALSE (default value) if you want to write the data to a new file or to replace an existing file.
+370477:16904b append to file. Set to TRUE if you want to append the data to a existing file; you can also set it TRUE to write to a new file. Set to FALSE (default value) if you want to write the data to a new file or to replace an existing file.
+394244:30c682 2 (create or replace) creates a new file or replaces a file if it exists and you give permission. Replacement is done by opening the file and setting EOF to 0. Error 43 occurs if the user elects to disallow the replacement using dialog.
+394245:30c775 3 (create) creates a new file. Error 8 occurs if the file already exists.
+404062:3a5c00 append to file? Set to TRUE if you want to append the data to a existing file; you can also set it TRUE to write to a new file. Set to FALSE (default value) if you want to write the data to a new file or to replace an existing file.
+406180:3cb952 2 (create or replace) creates a new file or replaces a file if it exists and you give permission. Replacement is done by opening the file and setting EOF to 0. Error 43 occurs if the user elects to disallow the replacement using dialog.
+406181:3cba45 3 (create) creates a new file. Error 8 occurs if the file already exists.
+406202:3cc767 creates a new file or replaces a file if it exists and you give permission. Replacement is done by opening the file and setting EOF to 0. Error 43 occurs if the user elects to disallow the replacement using dialog.
+406203:3cc843 creates a new file. Error 8 occurs if the file already exists.
+503362:1cf98a append to file? Set to TRUE if you want to append the data to a existing file; you can also set it TRUE to write to a new file. Set to FALSE (default value) if you want to write the data to a new file or to replace an existing file.
+503507:1d0f37 append to file. Set to TRUE if you want to append the data to a existing file; you can also set it TRUE to write to a new file. Set to FALSE (default value) if you want to write the data to a new file or to replace an existing file.
+520836:33bf7a 2 (create or replace) creates a new file or replaces a file if it exists and you give permission. Replacement is done by opening the file and setting EOF to 0. Error 43 occurs if the user elects to disallow the replacement using dialog.
+520837:33c06d 3 (create) creates a new file. Error 8 occurs if the file already exists.
+527399:3b484c append to file? Set to TRUE if you want to append the data to a existing file; you can also set it TRUE to write to a new file. Set to FALSE (default value) if you want to write the data to a new file or to replace an existing file.
+528194:3c80b9 2 (create or replace) creates a new file or replaces a file if it exists and you give permission. Replacement is done by opening the file and setting EOF to 0. Error 43 occurs if the user elects to disallow the replacement using dialog.
+528195:3c81ac 3 (create) creates a new file. Error 8 occurs if the file already exists.
+528606:3cca63 creates a new file or replaces a file if it exists and you give permission. Replacement is done by opening the file and setting EOF to 0. Error 43 occurs if the user elects to disallow the replacement using dialog.
+528607:3ccb3f creates a new file. Error 8 occurs if the file already exists.
+595370:d52f2 2 (create or replace) creates a new file or replaces a file if it exists and you give permission. Replacement is done by opening the file and setting EOF to 0. Error 43 occurs if the user elects to disallow the replacement using dialog.
+595371:d53e5 3 (create) creates a new file. Error 8 occurs if the file already exists.
+595859:e22d5 2 (create or replace) creates a new file or replaces a file if it exists and you give permission. Replacement is done by opening the file and setting EOF to 0. Error 43 occurs if the user elects to disallow the replacement using dialog.
+595860:e23c8 3 (create) creates a new file. Error 8 occurs if the file already exists.
+596271:e6c7f creates a new file or replaces a file if it exists and you give permission. Replacement is done by opening the file and setting EOF to 0. Error 43 occurs if the user elects to disallow the replacement using dialog.
+596272:e6d5b creates a new file. Error 8 occurs if the file already exists.
+596798:f5aac append to file? Set to TRUE if you want to append the data to a existing file; you can also set it TRUE to write to a new file. Set to FALSE (default value) if you want to write the data to a new file or to replace an existing file.
+608420:1b6f6c append to file? Set to TRUE if you want to append the data to a existing file; you can also set it TRUE to write to a new file. Set to FALSE (default value) if you want to write the data to a new file or to replace an existing file.

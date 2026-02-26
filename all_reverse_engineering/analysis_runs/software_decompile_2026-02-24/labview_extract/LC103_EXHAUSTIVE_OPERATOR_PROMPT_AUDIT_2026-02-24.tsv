@@ -1,0 +1,398 @@
+section	line	text
+stage:Software Rev. Check	41642	Software Rev. Check
+stage:Software Rev. Check	62871	Software Rev. CheckW
+stage:Software Rev. Check	62874	Software Rev. Check_
+stage:Software Rev. Check	62875	Software Rev. CheckW
+stage:Software Rev. Check	62954	Software Rev. Check
+stage:Software Rev. Check	62974	Software Rev. Check
+stage:Software Rev. Check	62975	Software Rev. Check
+stage:Software Rev. Check	63839	Software Rev. Check`
+stage:Software Rev. Check	63904	Software Rev. Check
+stage:Software Rev. Check	63907	Software Rev. Check
+stage:Software Rev. Check	63930	Software Rev. Check
+stage:Software Rev. Check	88812	`Couldn't retrieve the proper Software Rev. number.  Please set this manually on the front panel.
+stage:Software Rev. Check	88813	Couldn't open the Software Rev. file.  Please set the Software Rev. manually on the front panel.  Place the flopply disk in the computer NOW.MD
+stage:Software Rev. Check	88818	RCouldn't open the Software Rev. file.  Place the flopply disk in the computer NOW.s
+stage:Software Rev. Check	88819	'Last known LC103 Software Rev. is:  VERg
+stage:Software Rev. Check	88821	'Last known LC103 Software Rev. is:  VERMD
+stage:Software Rev. Check	88823	PAn invalid Software Rev. number was specified.  Please fix this after cal fails.
+stage:Software Rev. Check	88855	PAn invalid Software Rev. number was specified.  Please fix this after cal fails.
+stage:Software Rev. Check	88856	'Last known LC103 Software Rev. is:  VERRCouldn't open the Software Rev. file.  Place the flopply disk in the computer NOW.
+stage:Software Rev. Check	88857	Couldn't open the Software Rev. file.  Please set the Software Rev. manually on the front panel.  Place the flopply disk in the computer NOW.
+stage:Software Rev. Check	88858	'Last known LC103 Software Rev. is:  VER
+stage:Software Rev. Check	88859	`Couldn't retrieve the proper Software Rev. number.  Please set this manually on the front panel.
+stage:Software Rev. Check	95687	Software Rev. Check
+stage:Calibration Reset	41645	Calibration Reset
+stage:Calibration Reset	56387	Calibration ResetY
+stage:Calibration Reset	56389	Reset Aborted.Y
+stage:Calibration Reset	56392	Calibration ResetW
+stage:Calibration Reset	56396	Calibration ResetT
+stage:Calibration Reset	56401	Calibration ResetY
+stage:Calibration Reset	56403	Reset Aborted.Y
+stage:Calibration Reset	56406	Calibration ResetW
+stage:Calibration Reset	56410	Calibration ResetT
+stage:Calibration Reset	62685	Calibration Resetf
+stage:Calibration Reset	62704	Calibration Reset]
+stage:Calibration Reset	62705	Calibration ResetW
+stage:Calibration Reset	62778	Warning:  Choosing 'Calibration Reset'   
+stage:Calibration Reset	62779	                 removes all calibration from
+stage:Calibration Reset	62913	Calibration ResetW
+stage:Calibration Reset	62916	Reset Aborted.V
+stage:Calibration Reset	62968	Calibration Reset
+stage:Calibration Reset	62978	Calibration Reset
+stage:Calibration Reset	62979	Calibration Reset
+stage:Calibration Reset	62980	Warning:  Choosing 'Calibration Reset'   
+stage:Calibration Reset	62981	                 removes all calibration from
+stage:Calibration Reset	62984	Reset Aborted.
+stage:Calibration Reset	62985	Calibration Reset
+stage:Calibration Reset	65535	Calibration Reset
+stage:Calibration Reset	65553	Calibration Reset
+stage:Calibration Reset	95690	Calibration Reset
+stage:Current Source Calibration	41646	Current Source Calibration
+stage:Current Source Calibration	62677	Current Source Calibration
+stage:Current Source Calibration	62686	Current Source Calibration\
+stage:Current Source Calibration	62796	Current Source CalibrationW
+stage:Current Source Calibration	62967	Current Source Calibration
+stage:Current Source Calibration	62986	Current Source Calibration
+stage:Current Source Calibration	62987	Current Source CalibrationfConnect the UUT and/or DVM leads to
+stage:Current Source Calibration	84086	Current Source CalibrationW
+stage:Current Source Calibration	84102	Current Source Calibration`
+stage:Current Source Calibration	84107	+Current Source Calibration Passed
+stage:Current Source Calibration	84123	Current Source CalibrationH
+stage:Current Source Calibration	84265	Current Source Calibration?
+stage:Current Source Calibration	84271	+Current Source Calibration Passed
+stage:Current Source Calibration	84273	Current Source Calibration
+stage:Current Source Calibration	95691	Current Source Calibration
+stage:Gain Calibration	41647	Gain Calibration
+stage:Gain Calibration	62687	Gain Calibrationb
+stage:Gain Calibration	62696	Gain CalibrationV
+stage:Gain Calibration	62718	Gain CalibrationV
+stage:Gain Calibration	62966	Gain Calibration
+stage:Gain Calibration	62990	Gain Calibration
+stage:Gain Calibration	62991	Gain CalibrationfConnect the UUT and/or DVM leads to
+stage:Gain Calibration	80159	!Gain Calibration Failed
+stage:Gain Calibration	80165	Gain Calibrationn
+stage:Gain Calibration	80166	" Failed Calibration. Adjusted >10%R
+stage:Gain Calibration	80170	!Gain Calibration Failed
+stage:Gain Calibration	80190	Gain CalibrationV
+stage:Gain Calibration	80252	Gain CalibrationU
+stage:Gain Calibration	80280	Gain Calibration
+stage:Gain Calibration	80286	Gain Calibration" Failed Calibration. Adjusted >10%
+stage:Gain Calibration	80287	Range !Gain Calibration Failed
+stage:Gain Calibration	80288	on Range !Gain Calibration Failed
+stage:Gain Calibration	95692	Gain Calibration
+stage:Capacitance Calibration	19804	Apply Changes
+stage:Capacitance Calibration	41648	Capacitance Calibration
+stage:Capacitance Calibration	43452	Capacitance Calibrationb
+stage:Capacitance Calibration	43498	Capacitance Calibration
+stage:Capacitance Calibration	51323	,Make sure the red UUT lead is not connected.RD
+stage:Capacitance Calibration	51343	,Make sure the red UUT lead is not connected.W
+stage:Capacitance Calibration	51393	'q,Make sure the red UUT lead is not connected.
+stage:Capacitance Calibration	51394	CAP,Make sure the red UUT lead is not connected.
+stage:Capacitance Calibration	53817	BBBNow connect the red lead to the
+stage:Capacitance Calibration	53826	BBBNow connect the red lead to the
+stage:Capacitance Calibration	53901	BBBNow connect the red lead to the
+stage:Capacitance Calibration	53905	BBBNow connect the red lead to the
+stage:Capacitance Calibration	53912	BBBNow connect the red lead to the
+stage:Capacitance Calibration	53919	BBBNow connect the red lead to the
+stage:Capacitance Calibration	53968	IND-6BNow connect the red lead to the
+stage:Capacitance Calibration	53975	FMELDKCJBI@GAHBNow connect the red lead to the
+stage:Capacitance Calibration	53979	Inductance Decade Box (L Terminal)BNow connect the red lead to the
+stage:Capacitance Calibration	53981	Inductance Decade Box (L Terminal)BNow connect the red lead to the
+stage:Capacitance Calibration	53983	Inductance Decade Box (L Terminal)BNow connect the red lead to the
+stage:Capacitance Calibration	53985	Inductance Decade Box (L Terminal)BNow connect the red lead to the
+stage:Capacitance Calibration	55017	GNow connect the red lead to the
+stage:Capacitance Calibration	55021	GNow connect the red lead to the
+stage:Capacitance Calibration	55108	CAPGNow connect the red lead to the
+stage:Capacitance Calibration	55112	CAPGNow connect the red lead to the
+stage:Capacitance Calibration	62684	Capacitance Calibration]
+stage:Capacitance Calibration	62714	Capacitance CalibrationV
+stage:Capacitance Calibration	62800	Capacitance CalibrationW
+stage:Capacitance Calibration	62965	Capacitance Calibration
+stage:Capacitance Calibration	62994	Capacitance Calibration
+stage:Capacitance Calibration	62995	Capacitance Calibration
+stage:Capacitance Calibration	72965	@@cShort the UUT leads to the Capacitance Decade box(LTerminal).
+stage:Capacitance Calibration	73086	CLRPARcShort the UUT leads to the Capacitance Decade box(LTerminal).
+stage:Capacitance Calibration	91977	Capacitance CalibrationW
+stage:Capacitance Calibration	91989	Apply MD
+stage:Capacitance Calibration	92014	Lowest Cap Range is Cal'd FirstOD
+stage:Capacitance Calibration	92192	Capacitance Calibration
+stage:Capacitance Calibration	92199	Apply 
+stage:Capacitance Calibration	95445	Capacitance CalibrationW
+stage:Capacitance Calibration	95693	Capacitance Calibration
+stage:Capacitance Calibration	95711	Capacitance Calibration
+stage:ESR Calibration	41649	ESR Calibration
+stage:ESR Calibration	62760	ESR CalibrationV
+stage:ESR Calibration	62766	ESR CalibrationV
+stage:ESR Calibration	62804	ESR CalibrationW
+stage:ESR Calibration	62956	ESR Calibration
+stage:ESR Calibration	62996	ESR Calibration
+stage:ESR Calibration	62997	ESR Calibration22
+stage:ESR Calibration	72947	ESR CalibrationX
+stage:ESR Calibration	72952	ESR Calibration PassedV
+stage:ESR Calibration	72960	ESR CalibrationH
+stage:ESR Calibration	72963	Now connect the red UUT to the H  Terminal of the decade box and set the  box to 0.022uF(.0219).
+stage:ESR Calibration	72976	Cal'ed value >1ohm: MD
+stage:ESR Calibration	72990	ESR Calibration`
+stage:ESR Calibration	73012	HEY!! I said:  "Connect the red UUT to the H  Terminal of the decade box and set the  box to 0.022uF(.0219)".  Please do this now!
+stage:ESR Calibration	73085	ESR Calibration
+stage:ESR Calibration	73094	Now connect the red UUT to the H  Terminal of the decade box and set the  box to 0.022uF(.0219).
+stage:ESR Calibration	73096	HEY!! I said:  "Connect the red UUT to the H  Terminal of the decade box and set the  box to 0.022uF(.0219)".  Please do this now!
+stage:ESR Calibration	73099	ESR Calibration
+stage:ESR Calibration	73100	Cal'ed value >1ohm: 
+stage:ESR Calibration	73101	ESR Calibration Passed
+stage:ESR Calibration	73102	ESR Calibration
+stage:ESR Calibration	73118	ESR Calibration'
+stage:ESR Calibration	73122	ESR Calibration Passed
+stage:ESR Calibration	95694	ESR Calibration
+stage:Inductance Calibration	41650	Inductance Calibration
+stage:Inductance Calibration	43453	Inductance CalibrationW
+stage:Inductance Calibration	43499	Inductance Calibration
+stage:Inductance Calibration	62688	Inductance Calibration^
+stage:Inductance Calibration	62765	Inductance Calibration[
+stage:Inductance Calibration	62807	Inductance CalibrationW
+stage:Inductance Calibration	62964	Inductance Calibration
+stage:Inductance Calibration	62998	Inductance Calibration
+stage:Inductance Calibration	62999	Inductance Calibration@M
+stage:Inductance Calibration	90146	Inductance CalibrationW
+stage:Inductance Calibration	90158	Perform Inductance CalibrationV
+stage:Inductance Calibration	90164	Ind Cal Failed Range S
+stage:Inductance Calibration	90340	Inductance Calibration
+stage:Inductance Calibration	90353	Ind Cal Failed Range 
+stage:Inductance Calibration	95450	Inductance CalibrationMD
+stage:Inductance Calibration	95695	Inductance Calibration
+stage:Inductance Calibration	95712	Inductance Calibration
+stage:Ringer Calibration	41651	Ringer Calibration
+stage:Ringer Calibration	62689	Ringer Calibrationg
+stage:Ringer Calibration	62717	Ringer Calibration\
+stage:Ringer Calibration	62810	Ringer CalibrationW
+stage:Ringer Calibration	62963	Ringer Calibration
+stage:Ringer Calibration	63000	Ringer Calibration
+stage:Ringer Calibration	63001	Ringer Calibration
+stage:Ringer Calibration	67443	>>>Adjust R1144 for the number
+stage:Ringer Calibration	67446	Switching Transformers.O
+stage:Ringer Calibration	67449	AABNow adjust R1005 for the number
+stage:Ringer Calibration	67464	Ringer Calibration`
+stage:Ringer Calibration	67512	KKLConnect the UUT leads to the
+stage:Ringer Calibration	67513	Small Ringer Cal Box set to
+stage:Ringer Calibration	67514	Yolks and Flybacks.
+stage:Ringer Calibration	67536	Ringer Calibration
+stage:Ringer Calibration	67539	YFBLConnect the UUT leads to the
+stage:Ringer Calibration	67540	Small Ringer Cal Box set to
+stage:Ringer Calibration	67541	Yolks and Flybacks.
+stage:Ringer Calibration	67542	RIN>Adjust R1144 for the number
+stage:Ringer Calibration	67544	Switching Transformers.
+stage:Ringer Calibration	67545	RINBNow adjust R1005 for the number
+stage:Ringer Calibration	67548	Ringer Calibration
+stage:Ringer Calibration	67567	Ringer Calibration
+stage:Ringer Calibration	95696	Ringer Calibration
+stage:Leakage Voltage Calibration	41652	Leakage Voltage Calibration
+stage:Leakage Voltage Calibration	62690	Leakage Voltage CalibrationT
+stage:Leakage Voltage Calibration	62725	Leakage Voltage Calibration
+stage:Leakage Voltage Calibration	62813	Leakage Voltage CalibrationW
+stage:Leakage Voltage Calibration	62962	Leakage Voltage Calibration
+stage:Leakage Voltage Calibration	63002	Leakage Voltage Calibration
+stage:Leakage Voltage Calibration	63003	Leakage Voltage CalibrationfConnect the UUT and/or DVM leads to
+stage:Leakage Voltage Calibration	85758	Leakage Voltage CalibrationW
+stage:Leakage Voltage Calibration	85781	Leakage Voltage CalibrationV
+stage:Leakage Voltage Calibration	85928	Leakage Voltage Calibration
+stage:Leakage Voltage Calibration	95697	Leakage Voltage Calibration
+stage:D/A Test	41653	D/A Test
+stage:D/A Test	62691	D/A Test`
+stage:D/A Test	62729	D/A TestV
+stage:D/A Test	62817	D/A TestW
+stage:D/A Test	62961	D/A Test
+stage:D/A Test	63006	D/A Test
+stage:D/A Test	63007	D/A TestfConnect the UUT and/or DVM leads to
+stage:D/A Test	64990	D/A TestW
+stage:D/A Test	64994	D/A TestT
+stage:D/A Test	87050	D/A TestW
+stage:D/A Test	87058	D/A TestOD
+stage:D/A Test	87066	D/A Teste
+stage:D/A Test	87170	D/A Test
+stage:D/A Test	87174	D/A Test
+stage:D/A Test	95698	D/A Test
+stage:Leakage Voltage Test	41654	Leakage Voltage Test
+stage:Leakage Voltage Test	62692	Leakage Voltage Test`
+stage:Leakage Voltage Test	62744	Leakage Voltage TestV
+stage:Leakage Voltage Test	62822	Leakage Voltage TestW
+stage:Leakage Voltage Test	62960	Leakage Voltage Test
+stage:Leakage Voltage Test	63010	Leakage Voltage Test
+stage:Leakage Voltage Test	63011	Leakage Voltage TestfConnect the UUT and/or DVM leads to
+stage:Leakage Voltage Test	81422	Leakage Voltage TestH
+stage:Leakage Voltage Test	81428	Leakage Voltage TestY
+stage:Leakage Voltage Test	81534	Leakage Voltage Test
+stage:Leakage Voltage Test	81542	Leakage Voltage Test
+stage:Leakage Voltage Test	81562	Leakage Voltage Test'
+stage:Leakage Voltage Test	95699	Leakage Voltage Test
+stage:Leakage Current Test	41655	Leakage Current Test
+stage:Leakage Current Test	62693	Leakage Current Test`
+stage:Leakage Current Test	62751	Leakage Current TestV
+stage:Leakage Current Test	62826	Leakage Current TestW
+stage:Leakage Current Test	62959	Leakage Current Test
+stage:Leakage Current Test	63014	Leakage Current Test
+stage:Leakage Current Test	63015	Leakage Current TestfConnect the UUT and/or DVM leads to
+stage:Leakage Current Test	82666	   0          Sense Resistor
+stage:Leakage Current Test	82667	   1          Approx. Current
+stage:Leakage Current Test	82668	   2          Cal Box Setup #
+stage:Leakage Current Test	82669	   3          8842 Mult. factorU
+stage:Leakage Current Test	82671	Leakage Current TestW
+stage:Leakage Current Test	82677	Leakage Current TestPD
+stage:Leakage Current Test	82684	Leakage Current TestY
+stage:Leakage Current Test	82804	Leakage Current Test
+stage:Leakage Current Test	82808	Leakage Current Test
+stage:Leakage Current Test	95700	Leakage Current Test
+stage:Set Calibration Date	41656	Set Calibration Date
+stage:Set Calibration Date	62694	Set Calibration Date]
+stage:Set Calibration Date	62754	Set Calibration DateV
+stage:Set Calibration Date	62829	Set Calibration DateW
+stage:Set Calibration Date	62958	Set Calibration Date
+stage:Set Calibration Date	63018	Set Calibration Date
+stage:Set Calibration Date	63019	Set Calibration Date
+stage:Set Calibration Date	66332	          Press 'Enter' when finished.
+stage:Set Calibration Date	66389	          Press 'Enter' when finished.d
+stage:Set Calibration Date	70171	Set Cal Date`
+stage:Set Calibration Date	70243	Set Calibration Date
+stage:Set Calibration Date	70249	Set Cal Date
+stage:Set Calibration Date	70269	Set Calibration Date
+stage:Set Calibration Date	95701	Set Calibration Date
+stage:Calibration Stamp	41657	Calibration Stamp
+stage:Calibration Stamp	62695	Calibration Stamp\
+stage:Calibration Stamp	62757	Calibration StampW
+stage:Calibration Stamp	62832	Calibration StampW
+stage:Calibration Stamp	62957	Calibration Stamp
+stage:Calibration Stamp	63020	Calibration Stamp
+stage:Calibration Stamp	63021	Calibration Stamp
+stage:Calibration Stamp	68450	Calibration Stamp
+stage:Calibration Stamp	68475	Calibration Stamp
+stage:Calibration Stamp	95363	Calibration Successful!!W
+stage:Calibration Stamp	95702	Calibration Stamp
+stage:Calibration Stamp	95718	Calibration Successful!!
+global	62678	fConnect the UUT and/or DVM leads to
+global	62680	            Press 'Enter' when ready._
+global	62709	fConnect the UUT and/or DVM leads to
+global	62711	            Press 'Enter' when ready.V
+global	62722	fConnect the UUT and/or DVM leads to
+global	62724	            Press 'Enter' when ready.g
+global	62726	fConnect the UUT and/or DVM leads to
+global	62728	            Press 'Enter' when ready.T
+global	62736	fConnect the UUT and/or DVM leads to
+global	62738	            Press 'Enter' when ready.W
+global	62747	fConnect the UUT and/or DVM leads to
+global	62749	            Press 'Enter' when ready.W
+global	62781	         Press 'Enter' when ready.W
+global	62983	         Press 'Enter' when ready.
+global	62987	Current Source CalibrationfConnect the UUT and/or DVM leads to
+global	62989	            Press 'Enter' when ready.
+global	62991	Gain CalibrationfConnect the UUT and/or DVM leads to
+global	62993	            Press 'Enter' when ready.
+global	63003	Leakage Voltage CalibrationfConnect the UUT and/or DVM leads to
+global	63005	            Press 'Enter' when ready.
+global	63007	D/A TestfConnect the UUT and/or DVM leads to
+global	63009	            Press 'Enter' when ready.
+global	63011	Leakage Voltage TestfConnect the UUT and/or DVM leads to
+global	63013	            Press 'Enter' when ready.
+global	63015	Leakage Current TestfConnect the UUT and/or DVM leads to
+global	63017	            Press 'Enter' when ready.
+global	66329	Connect the '+' DVM lead to TP1006
+global	66330	and the '-' lead to TP1020.  Adjust 
+global	66331	R1045 for 10.000V +/- 0.005.
+global	66332	          Press 'Enter' when finished.
+global	66386	Connect the '+' DVM lead to TP1006
+global	66387	and the '-' lead to TP1020.  Adjust 
+global	66388	R1045 for 10.000V +/- 0.005.
+global	66389	          Press 'Enter' when finished.d
+global	67443	>>>Adjust R1144 for the number
+global	67449	AABNow adjust R1005 for the number
+global	67542	RIN>Adjust R1144 for the number
+global	67545	RINBNow adjust R1005 for the number
+global	70824	         Press 'Enter' when ready.PD
+global	70865	         Press 'Enter' when ready.
+global	72964	         Press 'Enter' when ready.
+global	72966	         Press 'Enter' when ready.MD
+global	73013	         Press 'Enter' when ready.MD
+global	73087	         Press 'Enter' when ready.
+global	73095	         Press 'Enter' when ready.
+global	73097	         Press 'Enter' when ready.
+global	78690	Load Select
+global	78691	Load Select
+global	78743	Load Select
+global	78914	Load Select
+global	78915	Load Select
+global	78916	Load Select* P
+global	78956	    0=1.1MOhm connected to UUT leads; Same as '9'.
+global	78959	    7=0%(DA); 8=10% (DA)
+global	79013	100k (low voltage)
+global	79014	10k(low voltage)
+global	79015	1k(low voltage / gain)
+global	79016	100(low voltage)
+global	79017	10(low voltage)
+global	79018	2k(gain)
+global	79019	0% (DA)
+global	79020	10% (DA)
+global	79021	100k (V/I  leakage)
+global	79024	Load Select
+global	79031	Load Select
+global	79047	Load Select
+global	79067	Load Select
+global	79260	Load Select
+global	79269	Load Select
+global	79295	Load Select
+global	79309	Load Select
+global	79402	Load SelectdB
+global	79407	Load SelectdB
+global	79412	Load SelectdB
+global	79417	Load Select"B
+global	80044	Load Select
+global	80047	Load Select
+global	80088	Load Select
+global	80106	Load Select
+global	80341	Load SelectPTH0
+global	80503	Load Select
+global	80645	Load Select"/
+global	81404	Load Select
+global	81474	DVM Correction
+global	81613	Load SelectPTH0
+global	81732	DVM Resistance 
+global	81733	DVM Resistance@
+global	81856	Load Select
+global	81867	Load Select
+global	81991	Load Selectd=
+global	81996	Load Select"=
+global	82513	DVM Resistance
+global	82514	DVM Resistance
+global	82515	DVM Resistance
+global	82516	DVM Resistance
+global	82517	DVM Resistance
+global	82603	DVM Resistance
+global	82653	Load Select
+global	82666	   0          Sense Resistor
+global	82667	   1          Approx. Current
+global	82668	   2          Cal Box Setup #
+global	82669	   3          8842 Mult. factorU
+global	82765	DVM ResistanceL
+global	82824	DVM Resistance
+global	82879	Load SelectPTH0
+global	83168	Load Select
+global	83409	Load Select"N
+global	84344	Load SelectPTH0
+global	84521	Load Select
+global	84531	Load Select
+global	84595	Load Select
+global	84817	Load SelectdO
+global	84822	Load SelectdO
+global	84827	Load Select"O
+global	85613	Load Select
+global	85616	Load Select
+global	85699	Load Select
+global	85987	Load SelectPTH0
+global	86166	Load Select
+global	86282	Load Select
+global	86370	Load Selectd2
+global	86375	Load Select
+global	87038	Load Select
+global	87227	Load SelectPTH0
+global	92610	Load Select
+global	94255	Load Select
+global	95110	Load Select
+global	95823	Load SelectPTH0

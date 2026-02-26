@@ -1,0 +1,10 @@
+
+Scan Time:     2026-02-24 16:53:49
+Target File:   /Users/<user>/Downloads/LC103/Source/LV6/Fluke 8840A.vi
+MD5 Checksum:  833c28a8f1fb837d0c9f0512471bfd75
+Signatures:    411
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+25998         0x658E          Copyright string: "Copyright 1993 National Instruments Corporation.  ALL RIGHTS RESERVED."
+

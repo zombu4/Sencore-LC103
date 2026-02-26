@@ -1,0 +1,25 @@
+48189:165033 xThis button will erase the history.  You will be prompted for whether or not you want to reset the revision number to 0.
+48193:1651e4 This is the revision number that will be included in new history entries.  The current number is displayed in the Instrument Information dialog.  It is incremented every time you save the VI.
+48198:165560 This is the revision number that will be included in new history entries.  The current number is displayed in the Instrument Information dialog.  It is incremented every time you save the VI.
+49705:177393 SReset will erase the VI history.  Do you want to reset the revision number as well?
+91300:420523 Wrong Rev. NumberW
+91358:420900 Wrong Rev. Number
+113113:57ac8d `Couldn't retrieve the proper Software Rev. number.  Please set this manually on the front panel.
+113124:57afcf PAn invalid Software Rev. number was specified.  Please fix this after cal fails.
+113156:57b1b8 PAn invalid Software Rev. number was specified.  Please fix this after cal fails.
+113160:57b34b `Couldn't retrieve the proper Software Rev. number.  Please set this manually on the front panel.
+253092:1cf307 Wrong Rev. NumberW
+253150:1cf6e4 Wrong Rev. Number
+271656:2f5b0d `Couldn't retrieve the proper Software Rev. number.  Please set this manually on the front panel.
+271667:2f5e4f PAn invalid Software Rev. number was specified.  Please fix this after cal fails.
+271699:2f6038 PAn invalid Software Rev. number was specified.  Please fix this after cal fails.
+271703:2f61cb `Couldn't retrieve the proper Software Rev. number.  Please set this manually on the front panel.
+365903:122b80 VER`Couldn't retrieve the proper Software Rev. number.  Please set this manually on the front panel.
+365907:122d2a PAn invalid Software Rev. number was specified.  Please fix this after cal fails.
+366003:123c4a `Couldn't retrieve the proper Software Rev. number.  Please set this manually on the front panel.
+366014:123f7b PAn invalid Software Rev. number was specified.  Please fix this after cal fails.SE
+382902:231092 Wrong Rev. Number
+383018:231ec1 Wrong Rev. NumberW
+495583:13c190 VER`Couldn't retrieve the proper Software Rev. number.  Please set this manually on the front panel.
+495587:13c33a PAn invalid Software Rev. number was specified.  Please fix this after cal fails.
+512082:272917 Wrong Rev. Number

@@ -1,0 +1,2 @@
+460351:6992b True if either primary or secondary addresses are outside ot the range 0-31.  address error indicates whether a range error has occurred.
+568267:6992b True if either primary or secondary addresses are outside ot the range 0-31.  address error indicates whether a range error has occurred.

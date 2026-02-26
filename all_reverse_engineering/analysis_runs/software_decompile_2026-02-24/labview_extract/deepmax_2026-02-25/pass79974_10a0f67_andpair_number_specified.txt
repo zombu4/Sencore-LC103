@@ -1,0 +1,94 @@
+55723:1f85e5 Transfers the specified number of data bytes from a Message-Based device into a specified local memory buffer, using the VXIbus Byte Transfer Protocol.$
+55949:1fb703 Transfers the specified number of data bytes from a specified local memory buffer to a Message-Based device, using the VXIbus Byte Transfer Protocol.$
+62461:25a870 Transfers the specified number of data bytes from a specified local memory buffer to a device, using either the VXIbus Byte Transfer Protocol (in the case of VXIbus message-based devices), or IEEE 488.2 bus Protocol (in the case of GPIB devices).$
+75739:323a21 uqReads the number of characters specified by requested byte count from the serial port indicated in port number. 
+112344:56c1ac *Reads a specified number of lines from a byte stream file beginning at a specified character offset.  The VI opens the file beforehand and closes it afterwards.
+113124:57afcf PAn invalid Software Rev. number was specified.  Please fix this after cal fails.
+113156:57b1b8 PAn invalid Software Rev. number was specified.  Please fix this after cal fails.
+226082:38f25 Transfers the specified number of data bytes from a Message-Based device into a specified local memory buffer, using the VXIbus Byte Transfer Protocol.$
+226187:39c0c Transfers the specified number of data bytes from a Message-Based device into a specified local memory buffer, using the VXIbus Byte Transfer Protocol.
+226313:3c1cb Transfers the specified number of data bytes from a specified local memory buffer to a Message-Based device, using the VXIbus Byte Transfer Protocol.$
+226408:3ce38 Transfers the specified number of data bytes from a specified local memory buffer to a Message-Based device, using the VXIbus Byte Transfer Protocol.
+232964:9cc2c Transfers the specified number of data bytes from a specified local memory buffer to a device, using either the VXIbus Byte Transfer Protocol (in the case of VXIbus message-based devices), or IEEE 488.2 bus Protocol (in the case of GPIB devices).$
+233228:9ec1c Transfers the specified number of data bytes from a specified local memory buffer to a device, using either the VXIbus Byte Transfer Protocol (in the case of VXIbus message-based devices), or IEEE 488.2 bus Protocol (in the case of GPIB devices).
+246060:162361 uqReads the number of characters specified by requested byte count from the serial port indicated in port number. 
+246164:162d03 qReads the number of characters specified by requested byte count from the serial port indicated in port number. 
+270873:2e6900 *Reads a specified number of lines from a byte stream file beginning at a specified character offset.  The VI opens the file beforehand and closes it afterwards.
+271320:2e9103 *Reads a specified number of lines from a byte stream file beginning at a specified character offset.  The VI opens the file beforehand and closes it afterwards.
+271667:2f5e4f PAn invalid Software Rev. number was specified.  Please fix this after cal fails.
+271699:2f6038 PAn invalid Software Rev. number was specified.  Please fix this after cal fails.
+292558:628e Transfers the specified number of data bytes from a Message-Based device into a specified local memory buffer, using the VXIbus Byte Transfer Protocol.$
+292664:6fdc Transfers the specified number of data bytes from a Message-Based device into a specified local memory buffer, using the VXIbus Byte Transfer Protocol.
+292789:959a Transfers the specified number of data bytes from a specified local memory buffer to a Message-Based device, using the VXIbus Byte Transfer Protocol.$
+292880:a208 Transfers the specified number of data bytes from a specified local memory buffer to a Message-Based device, using the VXIbus Byte Transfer Protocol.
+299507:69ee2 Transfers the specified number of data bytes from a specified local memory buffer to a device, using either the VXIbus Byte Transfer Protocol (in the case of VXIbus message-based devices), or IEEE 488.2 bus Protocol (in the case of GPIB devices).$
+299776:6bea8 Transfers the specified number of data bytes from a specified local memory buffer to a device, using either the VXIbus Byte Transfer Protocol (in the case of VXIbus message-based devices), or IEEE 488.2 bus Protocol (in the case of GPIB devices).
+308282:eb956 uqReads the number of characters specified by requested byte count from the serial port indicated in port number. 
+308384:ec2f3 qReads the number of characters specified by requested byte count from the serial port indicated in port number. 
+324536:2ce4 Transfers the specified number of data bytes from a Message-Based device into a specified local memory buffer, using the VXIbus Byte Transfer Protocol.
+324683:569f Transfers the specified number of data bytes from a Message-Based device into a specified local memory buffer, using the VXIbus Byte Transfer Protocol.$
+324790:6470 Transfers the specified number of data bytes from a specified local memory buffer to a Message-Based device, using the VXIbus Byte Transfer Protocol.
+324915:893f Transfers the specified number of data bytes from a specified local memory buffer to a Message-Based device, using the VXIbus Byte Transfer Protocol.$
+330868:5d688 Transfers the specified number of data bytes from a specified local memory buffer to a device, using either the VXIbus Byte Transfer Protocol (in the case of VXIbus message-based devices), or IEEE 488.2 bus Protocol (in the case of GPIB devices).
+331771:6922a Transfers the specified number of data bytes from a specified local memory buffer to a device, using either the VXIbus Byte Transfer Protocol (in the case of VXIbus message-based devices), or IEEE 488.2 bus Protocol (in the case of GPIB devices).$
+347527:41e5 Transfers the specified number of data bytes from a Message-Based device into a specified local memory buffer, using the VXIbus Byte Transfer Protocol.$
+347632:4ecc Transfers the specified number of data bytes from a Message-Based device into a specified local memory buffer, using the VXIbus Byte Transfer Protocol.
+347758:748b Transfers the specified number of data bytes from a specified local memory buffer to a Message-Based device, using the VXIbus Byte Transfer Protocol.$
+347853:80f8 Transfers the specified number of data bytes from a specified local memory buffer to a Message-Based device, using the VXIbus Byte Transfer Protocol.
+354409:67eec Transfers the specified number of data bytes from a specified local memory buffer to a device, using either the VXIbus Byte Transfer Protocol (in the case of VXIbus message-based devices), or IEEE 488.2 bus Protocol (in the case of GPIB devices).$
+354673:69edc Transfers the specified number of data bytes from a specified local memory buffer to a device, using either the VXIbus Byte Transfer Protocol (in the case of VXIbus message-based devices), or IEEE 488.2 bus Protocol (in the case of GPIB devices).
+365907:122d2a PAn invalid Software Rev. number was specified.  Please fix this after cal fails.
+366014:123f7b PAn invalid Software Rev. number was specified.  Please fix this after cal fails.SE
+366630:130572 *Reads a specified number of lines from a byte stream file beginning at a specified character offset.  The VI opens the file beforehand and closes it afterwards.
+396892:334dbb uqReads the number of characters specified by requested byte count from the serial port indicated in port number. 
+404007:3a3a37 qReads the number of characters specified by requested byte count from the serial port indicated in port number. 
+404095:3a6707 *Reads a specified number of lines from a byte stream file beginning at a specified character offset.  The VI opens the file beforehand and closes it afterwards.
+418187:4102 Transfers the specified number of data bytes from a Message-Based device into a specified local memory buffer, using the VXIbus Byte Transfer Protocol.$
+418293:4e50 Transfers the specified number of data bytes from a Message-Based device into a specified local memory buffer, using the VXIbus Byte Transfer Protocol.
+418418:740e Transfers the specified number of data bytes from a specified local memory buffer to a Message-Based device, using the VXIbus Byte Transfer Protocol.$
+418509:807c Transfers the specified number of data bytes from a specified local memory buffer to a Message-Based device, using the VXIbus Byte Transfer Protocol.
+425136:67d56 Transfers the specified number of data bytes from a specified local memory buffer to a device, using either the VXIbus Byte Transfer Protocol (in the case of VXIbus message-based devices), or IEEE 488.2 bus Protocol (in the case of GPIB devices).$
+425405:69d1c Transfers the specified number of data bytes from a specified local memory buffer to a device, using either the VXIbus Byte Transfer Protocol (in the case of VXIbus message-based devices), or IEEE 488.2 bus Protocol (in the case of GPIB devices).
+441083:168104 uqReads the number of characters specified by requested byte count from the serial port indicated in port number. 
+442990:185467 qReads the number of characters specified by requested byte count from the serial port indicated in port number. 
+452835:130 Transfers the specified number of data bytes from a Message-Based device into a specified local memory buffer, using the VXIbus Byte Transfer Protocol.
+452982:2aeb Transfers the specified number of data bytes from a Message-Based device into a specified local memory buffer, using the VXIbus Byte Transfer Protocol.$
+453089:38bc Transfers the specified number of data bytes from a specified local memory buffer to a Message-Based device, using the VXIbus Byte Transfer Protocol.
+453214:5d8b Transfers the specified number of data bytes from a specified local memory buffer to a Message-Based device, using the VXIbus Byte Transfer Protocol.$
+459167:5aad4 Transfers the specified number of data bytes from a specified local memory buffer to a device, using either the VXIbus Byte Transfer Protocol (in the case of VXIbus message-based devices), or IEEE 488.2 bus Protocol (in the case of GPIB devices).
+460070:66676 Transfers the specified number of data bytes from a specified local memory buffer to a device, using either the VXIbus Byte Transfer Protocol (in the case of VXIbus message-based devices), or IEEE 488.2 bus Protocol (in the case of GPIB devices).$
+476743:41e5 Transfers the specified number of data bytes from a Message-Based device into a specified local memory buffer, using the VXIbus Byte Transfer Protocol.$
+476848:4ecc Transfers the specified number of data bytes from a Message-Based device into a specified local memory buffer, using the VXIbus Byte Transfer Protocol.
+476974:748b Transfers the specified number of data bytes from a specified local memory buffer to a Message-Based device, using the VXIbus Byte Transfer Protocol.$
+477069:80f8 Transfers the specified number of data bytes from a specified local memory buffer to a Message-Based device, using the VXIbus Byte Transfer Protocol.
+483625:67eec Transfers the specified number of data bytes from a specified local memory buffer to a device, using either the VXIbus Byte Transfer Protocol (in the case of VXIbus message-based devices), or IEEE 488.2 bus Protocol (in the case of GPIB devices).$
+483889:69edc Transfers the specified number of data bytes from a specified local memory buffer to a device, using either the VXIbus Byte Transfer Protocol (in the case of VXIbus message-based devices), or IEEE 488.2 bus Protocol (in the case of GPIB devices).
+495587:13c33a PAn invalid Software Rev. number was specified.  Please fix this after cal fails.
+496229:149a0e *Reads a specified number of lines from a byte stream file beginning at a specified character offset.  The VI opens the file beforehand and closes it afterwards.
+521719:34caa8 uqReads the number of characters specified by requested byte count from the serial port indicated in port number. 
+527344:3b2683 qReads the number of characters specified by requested byte count from the serial port indicated in port number. 
+527432:3b5353 *Reads a specified number of lines from a byte stream file beginning at a specified character offset.  The VI opens the file beforehand and closes it afterwards.
+530655:4102 Transfers the specified number of data bytes from a Message-Based device into a specified local memory buffer, using the VXIbus Byte Transfer Protocol.$
+530761:4e50 Transfers the specified number of data bytes from a Message-Based device into a specified local memory buffer, using the VXIbus Byte Transfer Protocol.
+530886:740e Transfers the specified number of data bytes from a specified local memory buffer to a Message-Based device, using the VXIbus Byte Transfer Protocol.$
+530977:807c Transfers the specified number of data bytes from a specified local memory buffer to a Message-Based device, using the VXIbus Byte Transfer Protocol.
+537604:67d56 Transfers the specified number of data bytes from a specified local memory buffer to a device, using either the VXIbus Byte Transfer Protocol (in the case of VXIbus message-based devices), or IEEE 488.2 bus Protocol (in the case of GPIB devices).$
+537873:69d1c Transfers the specified number of data bytes from a specified local memory buffer to a device, using either the VXIbus Byte Transfer Protocol (in the case of VXIbus message-based devices), or IEEE 488.2 bus Protocol (in the case of GPIB devices).
+556363:1a3f17 qReads the number of characters specified by requested byte count from the serial port indicated in port number. 
+558323:1c6bdd uqReads the number of characters specified by requested byte count from the serial port indicated in port number. 
+560751:130 Transfers the specified number of data bytes from a Message-Based device into a specified local memory buffer, using the VXIbus Byte Transfer Protocol.
+560898:2aeb Transfers the specified number of data bytes from a Message-Based device into a specified local memory buffer, using the VXIbus Byte Transfer Protocol.$
+561005:38bc Transfers the specified number of data bytes from a specified local memory buffer to a Message-Based device, using the VXIbus Byte Transfer Protocol.
+561130:5d8b Transfers the specified number of data bytes from a specified local memory buffer to a Message-Based device, using the VXIbus Byte Transfer Protocol.$
+567083:5aad4 Transfers the specified number of data bytes from a specified local memory buffer to a device, using either the VXIbus Byte Transfer Protocol (in the case of VXIbus message-based devices), or IEEE 488.2 bus Protocol (in the case of GPIB devices).
+567986:66676 Transfers the specified number of data bytes from a specified local memory buffer to a device, using either the VXIbus Byte Transfer Protocol (in the case of VXIbus message-based devices), or IEEE 488.2 bus Protocol (in the case of GPIB devices).$
+581466:415d Transfers the specified number of data bytes from a Message-Based device into a specified local memory buffer, using the VXIbus Byte Transfer Protocol.$
+581571:4e44 Transfers the specified number of data bytes from a Message-Based device into a specified local memory buffer, using the VXIbus Byte Transfer Protocol.
+581697:7403 Transfers the specified number of data bytes from a specified local memory buffer to a Message-Based device, using the VXIbus Byte Transfer Protocol.$
+581792:8070 Transfers the specified number of data bytes from a specified local memory buffer to a Message-Based device, using the VXIbus Byte Transfer Protocol.
+588348:67e64 Transfers the specified number of data bytes from a specified local memory buffer to a device, using either the VXIbus Byte Transfer Protocol (in the case of VXIbus message-based devices), or IEEE 488.2 bus Protocol (in the case of GPIB devices).$
+588612:69e54 Transfers the specified number of data bytes from a specified local memory buffer to a device, using either the VXIbus Byte Transfer Protocol (in the case of VXIbus message-based devices), or IEEE 488.2 bus Protocol (in the case of GPIB devices).
+596743:f38e3 qReads the number of characters specified by requested byte count from the serial port indicated in port number. 
+596831:f65b3 *Reads a specified number of lines from a byte stream file beginning at a specified character offset.  The VI opens the file beforehand and closes it afterwards.
+600529:131143 qReads the number of characters specified by requested byte count from the serial port indicated in port number. 
+610293:1d4dcb *Reads a specified number of lines from a byte stream file beginning at a specified character offset.  The VI opens the file beforehand and closes it afterwards.

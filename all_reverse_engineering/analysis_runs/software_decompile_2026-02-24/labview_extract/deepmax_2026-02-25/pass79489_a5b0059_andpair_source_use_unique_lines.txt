@@ -1,0 +1,84 @@
+52412:1bc147 Could not load VI resource.,Version of VI is newer than LabVIEW version.?Version of VI is too old to convert to current LabVIEW version.JVI cannot be converted to current version because it has no block diagram."Could not load connector type map.
+59141:231d45 Initializes the NI-VXI library and reads in the resource manager table. The library is automatically initialized when any VXI VI is used in a diagram. If you initialize the library with this VI, you must call CloseVXIlibrary later in your diagram.$
+99491:4918d4 wscode is the identification number of the error. Use the General Error Handler.vi to get a description of the error.vrsource identifies where the error occurred and is usually the name of the function or VI that produced the error.
+100461:4a14a9 You can optionally use the source messages string to pass on the source of the error. Enter one line of text for each element of the error codes array.
+101595:4b75bd }yexception source is the error message that you want to use to test for an exception. By default, it is an empty string.
+101596:4b763a error source is an optional string you can use to describe the source of error code. The VI uses the string in message if there is an error.
+101603:4b7834 source. In case of an error, most VIs that use the error in and error out clusters set source to the name of the VI or function that produced the error.
+101610:4b7a4c source. In case of an error, most VIs that use the error in and error out clusters set source to the name of the VI or function that produced the error.
+102424:4c9187 DAQ polarityConflictErr: You cannot use this combination of scan and sample clock source polarities for this operation and board.kDAQ timebaseConflictErr: You cannot use this combination of scan and sample clock timebases for this board.
+229567:73521 Initializes the NI-VXI library and reads in the resource manager table. The library is automatically initialized when any VXI VI is used in a diagram. If you initialize the library with this VI, you must call CloseVXIlibrary later in your diagram.$
+229646:740b4 Initializes the NI-VXI library and reads in the resource manager table. The library is automatically initialized when any VXI VI is used in a diagram. If you initialize the library with this VI, you must call CloseVXIlibrary later in your diagram.
+257821:208200 wscode is the identification number of the error. Use the General Error Handler.vi to get a description of the error.vrsource identifies where the error occurred and is usually the name of the function or VI that produced the error.
+258815:218889 You can optionally use the source messages string to pass on the source of the error. Enter one line of text for each element of the error codes array.
+258946:219972 You can optionally use the source messages string to pass on the source of the error. Enter one line of text for each element of the error codes array.
+260028:230195 }yexception source is the error message that you want to use to test for an exception. By default, it is an empty string.
+260029:230212 error source is an optional string you can use to describe the source of error code. The VI uses the string in message if there is an error.
+260036:23040c source. In case of an error, most VIs that use the error in and error out clusters set source to the name of the VI or function that produced the error.
+260043:230624 source. In case of an error, most VIs that use the error in and error out clusters set source to the name of the VI or function that produced the error.
+260857:241d5f DAQ polarityConflictErr: You cannot use this combination of scan and sample clock source polarities for this operation and board.kDAQ timebaseConflictErr: You cannot use this combination of scan and sample clock timebases for this board.
+296076:4083a Initializes the NI-VXI library and reads in the resource manager table. The library is automatically initialized when any VXI VI is used in a diagram. If you initialize the library with this VI, you must call CloseVXIlibrary later in your diagram.$
+296156:413d0 Initializes the NI-VXI library and reads in the resource manager table. The library is automatically initialized when any VXI VI is used in a diagram. If you initialize the library with this VI, you must call CloseVXIlibrary later in your diagram.
+314016:14ddb2 }yexception source is the error message that you want to use to test for an exception. By default, it is an empty string.
+314017:14de2f error source is an optional string you can use to describe the source of error code. The VI uses the string in message if there is an error.
+314024:14e029 source. In case of an error, most VIs that use the error in and error out clusters set source to the name of the VI or function that produced the error.
+314031:14e241 source. In case of an error, most VIs that use the error in and error out clusters set source to the name of the VI or function that produced the error.
+314865:15f930 DAQ polarityConflictErr: You cannot use this combination of scan and sample clock source polarities for this operation and board.kDAQ timebaseConflictErr: You cannot use this combination of scan and sample clock timebases for this board.
+328223:3ea68 Initializes the NI-VXI library and reads in the resource manager table. The library is automatically initialized when any VXI VI is used in a diagram. If you initialize the library with this VI, you must call CloseVXIlibrary later in your diagram.
+328280:3fbd2 Initializes the NI-VXI library and reads in the resource manager table. The library is automatically initialized when any VXI VI is used in a diagram. If you initialize the library with this VI, you must call CloseVXIlibrary later in your diagram.$
+340499:ed395 }yexception source is the error message that you want to use to test for an exception. By default, it is an empty string.
+340500:ed412 error source is an optional string you can use to describe the source of error code. The VI uses the string in message if there is an error.
+340507:ed60c source. In case of an error, most VIs that use the error in and error out clusters set source to the name of the VI or function that produced the error.
+340514:ed824 source. In case of an error, most VIs that use the error in and error out clusters set source to the name of the VI or function that produced the error.
+341342:fef00 DAQ polarityConflictErr: You cannot use this combination of scan and sample clock source polarities for this operation and board.kDAQ timebaseConflictErr: You cannot use this combination of scan and sample clock timebases for this board.
+351012:3e7e1 Initializes the NI-VXI library and reads in the resource manager table. The library is automatically initialized when any VXI VI is used in a diagram. If you initialize the library with this VI, you must call CloseVXIlibrary later in your diagram.$
+351091:3f374 Initializes the NI-VXI library and reads in the resource manager table. The library is automatically initialized when any VXI VI is used in a diagram. If you initialize the library with this VI, you must call CloseVXIlibrary later in your diagram.
+371295:17b781 DAQ polarityConflictErr: You cannot use this combination of scan and sample clock source polarities for this operation and board.kDAQ timebaseConflictErr: You cannot use this combination of scan and sample clock timebases for this board.
+371462:183b4d }yexception source is the error message that you want to use to test for an exception. By default, it is an empty string.
+371463:183bca error source is an optional string you can use to describe the source of error code. The VI uses the string in message if there is an error.
+371473:184195 source. In case of an error, most VIs that use the error in and error out clusters set source to the name of the VI or function that produced the error.
+371477:18438d source. In case of an error, most VIs that use the error in and error out clusters set source to the name of the VI or function that produced the error.
+373370:1a203c You can optionally use the source messages string to pass on the source of the error. Enter one line of text for each element of the error codes array.
+374039:1ae49e wscode is the identification number of the error. Use the General Error Handler.vi to get a description of the error.vrsource identifies where the error occurred and is usually the name of the function or VI that produced the error.
+404034:3a481e You can optionally use the source messages string to pass on the source of the error. Enter one line of text for each element of the error codes array.
+421705:3e6ae Initializes the NI-VXI library and reads in the resource manager table. The library is automatically initialized when any VXI VI is used in a diagram. If you initialize the library with this VI, you must call CloseVXIlibrary later in your diagram.$
+421785:3f244 Initializes the NI-VXI library and reads in the resource manager table. The library is automatically initialized when any VXI VI is used in a diagram. If you initialize the library with this VI, you must call CloseVXIlibrary later in your diagram.
+433996:ef3a4 DAQ polarityConflictErr: You cannot use this combination of scan and sample clock source polarities for this operation and board.kDAQ timebaseConflictErr: You cannot use this combination of scan and sample clock timebases for this board.
+434163:f7770 }yexception source is the error message that you want to use to test for an exception. By default, it is an empty string.
+434164:f77ed error source is an optional string you can use to describe the source of error code. The VI uses the string in message if there is an error.
+434174:f7db8 source. In case of an error, most VIs that use the error in and error out clusters set source to the name of the VI or function that produced the error.
+434178:f7fb0 source. In case of an error, most VIs that use the error in and error out clusters set source to the name of the VI or function that produced the error.
+456522:3beb4 Initializes the NI-VXI library and reads in the resource manager table. The library is automatically initialized when any VXI VI is used in a diagram. If you initialize the library with this VI, you must call CloseVXIlibrary later in your diagram.
+456579:3d01e Initializes the NI-VXI library and reads in the resource manager table. The library is automatically initialized when any VXI VI is used in a diagram. If you initialize the library with this VI, you must call CloseVXIlibrary later in your diagram.$
+469975:fe925 DAQ polarityConflictErr: You cannot use this combination of scan and sample clock source polarities for this operation and board.kDAQ timebaseConflictErr: You cannot use this combination of scan and sample clock timebases for this board.
+470142:106cf1 }yexception source is the error message that you want to use to test for an exception. By default, it is an empty string.
+470143:106d6e error source is an optional string you can use to describe the source of error code. The VI uses the string in message if there is an error.
+470153:107339 source. In case of an error, most VIs that use the error in and error out clusters set source to the name of the VI or function that produced the error.
+470157:107531 source. In case of an error, most VIs that use the error in and error out clusters set source to the name of the VI or function that produced the error.
+480228:3e7e1 Initializes the NI-VXI library and reads in the resource manager table. The library is automatically initialized when any VXI VI is used in a diagram. If you initialize the library with this VI, you must call CloseVXIlibrary later in your diagram.$
+480307:3f374 Initializes the NI-VXI library and reads in the resource manager table. The library is automatically initialized when any VXI VI is used in a diagram. If you initialize the library with this VI, you must call CloseVXIlibrary later in your diagram.
+503805:1dc722 DAQ polarityConflictErr: You cannot use this combination of scan and sample clock source polarities for this operation and board.kDAQ timebaseConflictErr: You cannot use this combination of scan and sample clock timebases for this board.
+504206:1e9c85 yexception source is the error message that you want to use to test for an exception. By default, it is an empty string.
+504207:1e9d40 error source is an optional string you can use to describe the source of error code. The VI uses the string in message if there is an error.
+504220:1ea485 source. In case of an error, most VIs that use the error in and error out clusters set source to the name of the VI or function that produced the error.
+504224:1ea756 source. In case of an error, most VIs that use the error in and error out clusters set source to the name of the VI or function that produced the error.
+505478:1ff5af You can optionally use the source messages string to pass on the source of the error. Enter one line of text for each element of the error codes array.
+527371:3b346a You can optionally use the source messages string to pass on the source of the error. Enter one line of text for each element of the error codes array.
+534173:3e6ae Initializes the NI-VXI library and reads in the resource manager table. The library is automatically initialized when any VXI VI is used in a diagram. If you initialize the library with this VI, you must call CloseVXIlibrary later in your diagram.$
+534253:3f244 Initializes the NI-VXI library and reads in the resource manager table. The library is automatically initialized when any VXI VI is used in a diagram. If you initialize the library with this VI, you must call CloseVXIlibrary later in your diagram.
+546371:ee2b4 DAQ polarityConflictErr: You cannot use this combination of scan and sample clock source polarities for this operation and board.kDAQ timebaseConflictErr: You cannot use this combination of scan and sample clock timebases for this board.
+546538:f6680 }yexception source is the error message that you want to use to test for an exception. By default, it is an empty string.
+546539:f66fd error source is an optional string you can use to describe the source of error code. The VI uses the string in message if there is an error.
+546549:f6cc8 source. In case of an error, most VIs that use the error in and error out clusters set source to the name of the VI or function that produced the error.
+546553:f6ec0 source. In case of an error, most VIs that use the error in and error out clusters set source to the name of the VI or function that produced the error.
+564438:3beb4 Initializes the NI-VXI library and reads in the resource manager table. The library is automatically initialized when any VXI VI is used in a diagram. If you initialize the library with this VI, you must call CloseVXIlibrary later in your diagram.
+564495:3d01e Initializes the NI-VXI library and reads in the resource manager table. The library is automatically initialized when any VXI VI is used in a diagram. If you initialize the library with this VI, you must call CloseVXIlibrary later in your diagram.$
+579224:1605e6 DAQ polarityConflictErr: You cannot use this combination of scan and sample clock source polarities for this operation and board.kDAQ timebaseConflictErr: You cannot use this combination of scan and sample clock timebases for this board.
+579625:16db48 yexception source is the error message that you want to use to test for an exception. By default, it is an empty string.
+579626:16dc03 error source is an optional string you can use to describe the source of error code. The VI uses the string in message if there is an error.
+579639:16e348 source. In case of an error, most VIs that use the error in and error out clusters set source to the name of the VI or function that produced the error.
+579643:16e619 source. In case of an error, most VIs that use the error in and error out clusters set source to the name of the VI or function that produced the error.
+584951:3e759 Initializes the NI-VXI library and reads in the resource manager table. The library is automatically initialized when any VXI VI is used in a diagram. If you initialize the library with this VI, you must call CloseVXIlibrary later in your diagram.$
+585030:3f2ec Initializes the NI-VXI library and reads in the resource manager table. The library is automatically initialized when any VXI VI is used in a diagram. If you initialize the library with this VI, you must call CloseVXIlibrary later in your diagram.
+596770:f46ca You can optionally use the source messages string to pass on the source of the error. Enter one line of text for each element of the error codes array.
+607296:1a3d6a You can optionally use the source messages string to pass on the source of the error. Enter one line of text for each element of the error codes array.

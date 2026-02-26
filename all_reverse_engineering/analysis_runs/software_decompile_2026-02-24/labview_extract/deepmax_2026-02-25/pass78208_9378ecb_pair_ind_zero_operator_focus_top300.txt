@@ -1,0 +1,10 @@
+101588:4b7300 error code is a numeric error code. If error in indicates an error, the VI ignores error code. If not, the VI tests it. A non-zero value signifies an error.
+260021:22fed8 error code is a numeric error code. If error in indicates an error, the VI ignores error code. If not, the VI tests it. A non-zero value signifies an error.
+314009:14daf5 error code is a numeric error code. If error in indicates an error, the VI ignores error code. If not, the VI tests it. A non-zero value signifies an error.
+340492:ed0d8 error code is a numeric error code. If error in indicates an error, the VI ignores error code. If not, the VI tests it. A non-zero value signifies an error.
+371458:1838c8 error code is a numeric error code. If error in indicates an error, the VI ignores error code. If not, the VI tests it. A non-zero value signifies an error.
+434159:f74eb error code is a numeric error code. If error in indicates an error, the VI ignores error code. If not, the VI tests it. A non-zero value signifies an error.
+470138:106a6c error code is a numeric error code. If error in indicates an error, the VI ignores error code. If not, the VI tests it. A non-zero value signifies an error.
+504209:1e9e3d error code is a numeric error code. If error in indicates an error, the VI ignores error code. If not, the VI tests it. A non-zero value signifies an error.
+546534:f63fb error code is a numeric error code. If error in indicates an error, the VI ignores error code. If not, the VI tests it. A non-zero value signifies an error.
+579628:16dd00 error code is a numeric error code. If error in indicates an error, the VI ignores error code. If not, the VI tests it. A non-zero value signifies an error.

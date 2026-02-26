@@ -1,0 +1,1 @@
+522317:3566d0 Output alt HW Handshake. On the PC, this parameter corresponds to Data Set Ready (DSR) handshaking. On the SPARCstation, this parameter is ignored.

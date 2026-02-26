@@ -1,0 +1,89 @@
+36891:127bb VerFindFile
+38074:49e36 IndexedFileNameCmp
+39429:7d059 BindLogFile
+39430:7d27d UnbindLogFile
+44491:125fc9 FindDPFile
+44495:126117 FindVIFile
+46369:15a91f IGetFile: GetIndirectFuntion failed
+46372:15a982 IGetFile: GetIndirectFuntion failed for bitmapInfo
+46375:15a9f8 IGetFile: GetIndirectFuntion failed for deletebitamp
+47050:15efb5 Calling FindVIFile("%z", "%p", %4c, ...
+47051:15efdd ... FindVIFile returned %ld: found at "%z"
+51607:1b6a62 Change Log File Binding...
+51608:1b6a7d Clear Log File Binding
+52228:1ba45f Choose the VI to open: Name the VI:3Choose a directory of VIs or VI library to compile:+Please find the file of type %4c named "%p"CChoose a picture file to open (it will be placed on the clipboard):
+52365:1bbb43 The "%p" VI's log file binding is corrupt and has been cleared. To restore the VI's log file binding, open the VI and select the File->Data Logging->Change Log File Binding... menu item.
+52430:1bc8c1 Can't find file in VI library. Can't get palette menu resource."Palette position already occupied.
+54655:1e5e9d Inductance Box Cal Data File
+54660:1e604a Inductance Box Cal Data File
+54699:1e7746 Inductance Box Cal Data File"@2
+54704:1e77f7 Inductance Box Cal Data File"`2
+54705:1e7817 Inductance Box Cal Data File"@2
+54706:1e7837 Inductance Box Cal Data File
+54711:1e79ea BPlease choose the file containing the inductance calibration data.
+54724:1e7b2f *.calBPlease choose the file containing the inductance calibration data.gencode.cGenDispatchEntry
+54731:1e7c43 Inductance Box Cal Data File
+54734:1e7cab Inductance Box Cal Data FileL
+54737:1e7f5d Inductance Box Cal Data File"@2
+114316:594c74 BPlease choose the file containing the inductance calibration data.V
+114464:59572a *.calBPlease choose the file containing the inductance calibration data.
+116935:5c854e Inductance Box Cal Data File"@2
+116937:5c85b3 Inductance Box Cal Data File
+118721:5e1078 Inductance Box Cal Data File
+118862:5e23a6 ++BPlease choose the file containing the inductance calibration data.W
+119159:5e39fc *.calBPlease choose the file containing the inductance calibration data.
+119352:5e4a05 Inductance Box Cal Data File"@2
+134461:20b790 NI-DAQ DOS/Windows config file version 1.0
+224966:25845 Inductance Box Cal Data File
+224979:262c9 Inductance Box Cal Data File
+224984:26476 Inductance Box Cal Data File
+225023:27b72 Inductance Box Cal Data File"@2
+225028:27c23 Inductance Box Cal Data File"`2
+225029:27c43 Inductance Box Cal Data File"@2
+225030:27c63 Inductance Box Cal Data File
+225035:27e16 BPlease choose the file containing the inductance calibration data.
+225048:27f5b *.calBPlease choose the file containing the inductance calibration data.gencode.cGenDispatchEntry
+225055:2806f Inductance Box Cal Data File
+225058:280d7 Inductance Box Cal Data FileL
+225061:28389 Inductance Box Cal Data File"@2
+272863:30fbe0 BPlease choose the file containing the inductance calibration data.V
+273011:310696 *.calBPlease choose the file containing the inductance calibration data.
+286472:3f7c52 Inductance Box Cal Data File"@2
+286474:3f7cb7 Inductance Box Cal Data File
+288258:41077c Inductance Box Cal Data File
+288399:411aaa ++BPlease choose the file containing the inductance calibration data.W
+288696:413100 *.calBPlease choose the file containing the inductance calibration data.
+288889:414109 Inductance Box Cal Data File"@2
+364694:10d2d4 *.calBPlease choose the file containing the inductance calibration data.
+364979:10f3ef ++BPlease choose the file containing the inductance calibration data.V
+368828:1514b1 Inductance Box Cal Data File
+404879:3b3fb8 Inductance Box Cal Data File&@2
+404888:3b409c Inductance Box Cal Data File p2
+404920:3b4381 *.calBPlease choose the file containing the inductance calibration data.d:\automated\lv51\lvsource\gencode.cGenRangeCheck
+404929:3b4564 Inductance Box Cal Data File
+404932:3b4831 Inductance Box Cal Data File
+404950:3b4a24 Inductance Box Cal Data FileL
+404956:3b4b47 ++BPlease choose the file containing the inductance calibration data.
+411423:42a480 Inductance Box Cal Data File&@2
+412853:43b923 Inductance Box Cal Data File
+412981:43c65b *.calBPlease choose the file containing the inductance calibration data.PTH0
+413274:43dbb8 Inductance Box Cal Data File&@2
+413276:43dc03 Inductance Box Cal Data File6
+413477:43f6d0 ++BPlease choose the file containing the inductance calibration data.W
+490852:df969 Inductance Box Cal Data File&@2
+491043:e0b7e Inductance Box Cal Data File
+491353:e28f4 *.calBPlease choose the file containing the inductance calibration data.PTH0
+492156:ef8ca Inductance Box Cal Data File&@2
+492158:ef915 Inductance Box Cal Data File6
+494632:1274d7 *.calBPlease choose the file containing the inductance calibration data.
+503616:1d26f9 Inductance Box Cal Data File
+527447:3b6283 Inductance Box Cal Data File&@2
+527456:3b636d Inductance Box Cal Data File x2
+527465:3b650d *.calBPlease choose the file containing the inductance calibration data.
+527500:3b6cbe Inductance Box Cal Data File
+527503:3b6f8b Inductance Box Cal Data File
+527521:3b718a Inductance Box Cal Data FileH
+597075:fa159 Inductance Box Cal Data File
+626098:14d The individual DLL files are provided free of charge with the understanding that the user is familiar with their use.
+626103:3df For individual DLL file installation instructions, please see: https://www.dll-files.com/support/#208335895
+639950:20b790 NI-DAQ DOS/Windows config file version 1.0

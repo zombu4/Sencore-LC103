@@ -1,0 +1,2 @@
+48195:165338 This box is where you enter a comment describing the changes you have made to the VI.  When you are ready to add the comment to the history, press the Add button or select Add from the History menu.
+48196:165404 If you check this box, you will not be prompted for a comment on the rest of the VIs in this hierarchy that are being closed at this time, even if they have one of the prompt for comment options set.

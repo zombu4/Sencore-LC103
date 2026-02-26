@@ -1,0 +1,28 @@
+52516:1bdd78 A wire must be connected to one and only one data source, such as a control's terminal or a function output. This wire is not connected to any source. Find the source of this data and make sure it is a control (not indicator) or an output (not input).
+52525:1be595 A wire can be connected to only one data source, such as a control's terminal or a function output. This wire is connected to more than one source. Make sure that all connections except one are to indicators (not controls) or inputs (not outputs).
+55621:1f6984 Data Out Ready protocol violation
+55844:1f9cb5 Data Out Ready protocol violation
+74849:3176fa Output alt HW Handshake. On the PC, this parameter corresponds to Data Set Ready (DSR) handshaking. On the SPARCstation, this parameter is ignored.
+225980:372c4 Data Out Ready protocol violation
+226208:3a77d Data Out Ready protocol violation
+245159:155dae Output alt HW Handshake. On the PC, this parameter corresponds to Data Set Ready (DSR) handshaking. On the SPARCstation, this parameter is ignored.
+292456:462d Data Out Ready protocol violation
+292685:7b4a Data Out Ready protocol violation
+324577:3a3d Data Out Ready protocol violation
+324807:6eee Data Out Ready protocol violation
+347425:2584 Data Out Ready protocol violation
+347653:5a3d Data Out Ready protocol violation
+397619:33fcc8 Output alt HW Handshake. On the PC, this parameter corresponds to Data Set Ready (DSR) handshaking. On the SPARCstation, this parameter is ignored.
+418085:24a1 Data Out Ready protocol violation
+418314:59be Data Out Ready protocol violation
+452876:e89 Data Out Ready protocol violation
+453106:433a Data Out Ready protocol violation
+476641:2584 Data Out Ready protocol violation
+476869:5a3d Data Out Ready protocol violation
+522317:3566d0 Output alt HW Handshake. On the PC, this parameter corresponds to Data Set Ready (DSR) handshaking. On the SPARCstation, this parameter is ignored.
+530553:24a1 Data Out Ready protocol violation
+530782:59be Data Out Ready protocol violation
+560792:e89 Data Out Ready protocol violation
+561022:433a Data Out Ready protocol violation
+581364:24fc Data Out Ready protocol violation
+581592:59b5 Data Out Ready protocol violation

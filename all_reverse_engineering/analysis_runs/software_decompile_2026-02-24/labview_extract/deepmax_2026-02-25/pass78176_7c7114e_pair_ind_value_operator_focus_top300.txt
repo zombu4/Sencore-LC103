@@ -1,0 +1,116 @@
+74822:316bf5 9When you use the serial port VIs under Windows, the port number parameter can have the following values:
+75375:31da87 9When you use the serial port VIs under Windows, the port number parameter can have the following values:
+75597:321180 9When you use the serial port VIs under Windows, the port number parameter can have the following values:
+75851:32503b 9When you use the serial port VIs under Windows, the port number parameter can have the following values:
+101588:4b7300 error code is a numeric error code. If error in indicates an error, the VI ignores error code. If not, the VI tests it. A non-zero value signifies an error.
+102376:4c5276 6Windows GetCommError: The hex value of this code is xH
+102543:4d083f This error code is not listed in the internal database, or you have wired a number that is not an error code (such as a DAQ task ID) to the error code input.6Windows GetCommError: The hex value of this code is x
+245132:1552a9 9When you use the serial port VIs under Windows, the port number parameter can have the following values:
+245690:15c26b 9When you use the serial port VIs under Windows, the port number parameter can have the following values:
+245918:15fac0 9When you use the serial port VIs under Windows, the port number parameter can have the following values:
+246177:163adf 9When you use the serial port VIs under Windows, the port number parameter can have the following values:
+260021:22fed8 error code is a numeric error code. If error in indicates an error, the VI ignores error code. If not, the VI tests it. A non-zero value signifies an error.
+260809:23de4e 6Windows GetCommError: The hex value of this code is xH
+260976:249417 This error code is not listed in the internal database, or you have wired a number that is not an error code (such as a DAQ task ID) to the error code input.6Windows GetCommError: The hex value of this code is x
+307911:e5866 9When you use the serial port VIs under Windows, the port number parameter can have the following values:
+308139:e90b3 9When you use the serial port VIs under Windows, the port number parameter can have the following values:
+308397:ed0ca 9When you use the serial port VIs under Windows, the port number parameter can have the following values:
+314009:14daf5 error code is a numeric error code. If error in indicates an error, the VI ignores error code. If not, the VI tests it. A non-zero value signifies an error.
+314817:15ba3d 666Windows GetCommError: The hex value of this code is xH
+314984:166fe8 This error code is not listed in the internal database, or you have wired a number that is not an error code (such as a DAQ task ID) to the error code input.6Windows GetCommError: The hex value of this code is x
+319246:1aa18d Inductor Value ary@
+319247:1aa29a Inductor Value aryH
+319274:1ab309 Inductor Value ary0#-+
+319638:1b112e Inductor Value ary"`@
+319639:1b114b Inductor Value ary"@@
+319640:1b1168 Inductor Value ary
+319665:1b139d Inductor Value ary
+319682:1b15f0 Inductor Value aryM
+319695:1b187f %<- number of inductor values in arrayH
+319746:1b1e5e Inductor Value S
+319787:1b1fcf Inductor Value
+319813:1b2224 Inductor Value ary"@@
+321857:1d6f3f Inductor Value ary@
+321858:1d704c Inductor Value aryH
+321887:1d80bc Inductor Value ary0#-+
+322297:1df313 Inductor Value ary"`@
+322298:1df330 Inductor Value ary"@@
+322299:1df34d Inductor Value ary
+322325:1df5bc Inductor Value ary
+322342:1df818 Inductor Value aryM
+322356:1dfabe %<- number of inductor values in arrayH
+322412:1e01ad Inductor Value S
+322453:1e0327 Inductor Value
+322480:1e05aa Inductor Value ary"@@
+340492:ed0d8 error code is a numeric error code. If error in indicates an error, the VI ignores error code. If not, the VI tests it. A non-zero value signifies an error.
+341294:fb00d 666Windows GetCommError: The hex value of this code is xH
+341461:1065b8 This error code is not listed in the internal database, or you have wired a number that is not an error code (such as a DAQ task ID) to the error code input.6Windows GetCommError: The hex value of this code is x
+371416:182e6e @6Windows GetCommError: The hex value of this code is x
+371458:1838c8 error code is a numeric error code. If error in indicates an error, the VI ignores error code. If not, the VI tests it. A non-zero value signifies an error.
+371569:185ee2 666Windows GetCommError: The hex value of this code is xH
+396595:330ae7 9When you use the serial port VIs under Windows, the port number parameter can have the following values:
+396893:334e31 9When you use the serial port VIs under Windows, the port number parameter can have the following values:
+397174:338dc0 9When you use the serial port VIs under Windows, the port number parameter can have the following values:
+397592:33f1c3 9When you use the serial port VIs under Windows, the port number parameter can have the following values:
+431113:c00fd Inductor Value ary@
+431114:c020a Inductor Value aryH
+431141:c1279 Inductor Value ary0#-+
+431505:c709e Inductor Value ary"`@
+431506:c70bb Inductor Value ary"@@
+431507:c70d8 Inductor Value ary
+431532:c730d Inductor Value ary
+431549:c7560 Inductor Value aryM
+431562:c77ef %<- number of inductor values in arrayH
+431613:c7dce Inductor Value S
+431654:c7f3f Inductor Value
+431680:c8194 Inductor Value ary"@@
+434117:f6a91 @6Windows GetCommError: The hex value of this code is x
+434159:f74eb error code is a numeric error code. If error in indicates an error, the VI ignores error code. If not, the VI tests it. A non-zero value signifies an error.
+434268:f9b05 666Windows GetCommError: The hex value of this code is xH
+440784:163e2a 9When you use the serial port VIs under Windows, the port number parameter can have the following values:
+441084:16817a 9When you use the serial port VIs under Windows, the port number parameter can have the following values:
+441369:16c106 9When you use the serial port VIs under Windows, the port number parameter can have the following values:
+446402:1b768f Inductor Value ary
+446426:1b7aea Inductor Value ary
+446460:1b7d34 Inductor Value
+446509:1b81d0 Inductor Value ary&@@
+446516:1b82f7 Inductor Value ary
+446579:1b8955 Inductor Value N
+446583:1b89cb Inductor Value aryM
+446596:1b8c59 %<- number of inductor values in arrayH
+470096:106012 @6Windows GetCommError: The hex value of this code is x
+470138:106a6c error code is a numeric error code. If error in indicates an error, the VI ignores error code. If not, the VI tests it. A non-zero value signifies an error.
+470246:109086 666Windows GetCommError: The hex value of this code is xH
+503926:1e3e18 @6Windows GetCommError: The hex value of this code is x
+504209:1e9e3d error code is a numeric error code. If error in indicates an error, the VI ignores error code. If not, the VI tests it. A non-zero value signifies an error.
+521548:349f14 9When you use the serial port VIs under Windows, the port number parameter can have the following values:
+521751:34d2fc 9When you use the serial port VIs under Windows, the port number parameter can have the following values:
+521941:350284 9When you use the serial port VIs under Windows, the port number parameter can have the following values:
+522293:355c9a 9When you use the serial port VIs under Windows, the port number parameter can have the following values:
+543581:c00fd Inductor Value ary@
+543582:c020a Inductor Value aryH
+543609:c1279 Inductor Value ary0#-+
+543973:c709e Inductor Value ary"`@
+543974:c70bb Inductor Value ary"@@
+543975:c70d8 Inductor Value ary
+544000:c730d Inductor Value ary
+544017:c7560 Inductor Value aryM
+544030:c77ef %<- number of inductor values in arrayH
+544081:c7dce Inductor Value S
+544122:c7f3f Inductor Value
+544148:c8194 Inductor Value ary"@@
+546492:f59a1 @6Windows GetCommError: The hex value of this code is x
+546534:f63fb error code is a numeric error code. If error in indicates an error, the VI ignores error code. If not, the VI tests it. A non-zero value signifies an error.
+546643:f8a15 666Windows GetCommError: The hex value of this code is xH
+551300:14a720 Inductor Value ary
+551314:14aaff Inductor Value ary
+551344:14acf4 Inductor Value
+551481:14d523 Inductor Value ary&@@
+551488:14d64a Inductor Value ary
+551552:14dd14 Inductor Value aryH
+551560:14df8d %<- number of inductor values in arrayH
+558149:1c4042 9When you use the serial port VIs under Windows, the port number parameter can have the following values:
+558356:1c7432 9When you use the serial port VIs under Windows, the port number parameter can have the following values:
+558548:1ca3b8 9When you use the serial port VIs under Windows, the port number parameter can have the following values:
+579345:167cdc @6Windows GetCommError: The hex value of this code is x
+579628:16dd00 error code is a numeric error code. If error in indicates an error, the VI ignores error code. If not, the VI tests it. A non-zero value signifies an error.

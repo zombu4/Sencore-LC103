@@ -1,0 +1,83 @@
+51094:18c9e9 Resource file not found
+52005:1b8aaa Resource file not found.
+52982:1cabb8 opens an existing file. Error 7 occurs if the file cannot be found.
+53086:1cc8e7 Resource File Not Found
+53130:1ccc12 Resource File Not Found
+53174:1ccf3d Resource File Not Found
+53218:1cd268 Resource File Not Found
+53262:1cd58b Resource File Not Found
+54002:1dba6c 0 (open) opens an existing file. Error 7 occurs if the file cannot be found.
+54033:1dc745 [report file not found if function=0 (open); set file path to empty and refnum to NotARefnumMD
+54050:1dcb57 herror is other than file not found; set error flag TRUE, file path to NotAPath, and refnum to NotARefnummD
+99561:492a6b Resource File Not Found
+99605:492d96 Resource File Not Found
+101095:4ab9c0 Resource File Not Found
+102470:4cdafa GPIB: EABO: I/O operation aborted.9LabVIEW: File not found.
+102476:4cdc93 GPIB EFSO: File system operation error.PLabVIEW: Resource file not found.
+223239:97e4 opens an existing file. Error 7 occurs if the file cannot be found.
+223343:b513 Resource File Not Found
+223387:b83e Resource File Not Found
+223431:bb69 Resource File Not Found
+223475:be94 Resource File Not Found
+223519:c1b7 Resource File Not Found
+224259:1a698 0 (open) opens an existing file. Error 7 occurs if the file cannot be found.
+224290:1b371 [report file not found if function=0 (open); set file path to empty and refnum to NotARefnumMD
+224307:1b783 herror is other than file not found; set error flag TRUE, file path to NotAPath, and refnum to NotARefnummD
+224495:1d3a4 0 (open) opens an existing file. Error 7 occurs if the file cannot be found.
+257891:209397 Resource File Not Found
+257935:2096c2 Resource File Not Found
+259492:223a70 Resource File Not Found
+260903:2466d2 GPIB: EABO: I/O operation aborted.9LabVIEW: File not found.
+260909:24686b GPIB EFSO: File system operation error.PLabVIEW: Resource file not found.
+314911:1642a3 GPIB: EABO: I/O operation aborted.9LabVIEW: File not found.
+314917:16443c GPIB EFSO: File system operation error.PLabVIEW: Resource file not found.
+341388:103873 GPIB: EABO: I/O operation aborted.9LabVIEW: File not found.
+341394:103a0c GPIB EFSO: File system operation error.PLabVIEW: Resource file not found.
+371341:1800f4 GPIB: EABO: I/O operation aborted.9LabVIEW: File not found.
+371347:18028d GPIB EFSO: File system operation error.PLabVIEW: Resource file not found.
+372461:1946f4 Resource File Not Found
+374161:1af466 Resource File Not Found
+374205:1af791 Resource File Not Found
+394242:30c5d8 0 (open) opens an existing file. Error 7 occurs if the file cannot be found.
+406178:3cb8a8 0 (open) opens an existing file. Error 7 occurs if the file cannot be found.
+406200:3cc6d7 opens an existing file. Error 7 occurs if the file cannot be found.
+406298:3cda70 [[[report file not found if function=0 (open); set file path to empty and refnum to NotARefnumMD
+406317:3cde9b NNherror is other than file not found; set error flag TRUE, file path to NotAPath, and refnum to NotARefnummD
+406371:3ce5e1 Resource File Not Found
+406415:3ce90c Resource File Not Found
+406459:3cec37 Resource File Not Found
+406503:3cef62 Resource File Not Found
+406547:3cf285 Resource File Not Found
+434042:f3d17 GPIB: EABO: I/O operation aborted.9LabVIEW: File not found.
+434048:f3eb0 GPIB EFSO: File system operation error.PLabVIEW: Resource file not found.
+470021:103298 GPIB: EABO: I/O operation aborted.9LabVIEW: File not found.
+470027:103431 GPIB EFSO: File system operation error.PLabVIEW: Resource file not found.
+503851:1e1095 GPIB: EABO: I/O operation aborted.9LabVIEW: File not found.
+503857:1e122e GPIB EFSO: File system operation error.PLabVIEW: Resource file not found.
+504850:1f4519 Resource File Not Found
+505990:209206 Resource File Not Found
+506034:209531 Resource File Not Found
+520834:33bed0 0 (open) opens an existing file. Error 7 occurs if the file cannot be found.
+528192:3c800f 0 (open) opens an existing file. Error 7 occurs if the file cannot be found.
+528292:3c970a [[[report file not found if function=0 (open); set file path to empty and refnum to NotARefnumHDt
+528299:3c9af8 NNherror is other than file not found; set error flag TRUE, file path to NotAPath, and refnum to NotARefnummD
+528348:3ca213 Resource File Not Found
+528392:3ca53e Resource File Not Found
+528436:3ca869 Resource File Not Found
+528480:3cab94 Resource File Not Found
+528524:3caeb7 Resource File Not Found
+528604:3cc9d3 opens an existing file. Error 7 occurs if the file cannot be found.
+546417:f2c27 GPIB: EABO: I/O operation aborted.9LabVIEW: File not found.
+546423:f2dc0 GPIB EFSO: File system operation error.PLabVIEW: Resource file not found.
+579270:164f59 GPIB: EABO: I/O operation aborted.9LabVIEW: File not found.
+579276:1650f2 GPIB EFSO: File system operation error.PLabVIEW: Resource file not found.
+595368:d5248 0 (open) opens an existing file. Error 7 occurs if the file cannot be found.
+595857:e222b 0 (open) opens an existing file. Error 7 occurs if the file cannot be found.
+595957:e3926 [[[report file not found if function=0 (open); set file path to empty and refnum to NotARefnumHDt
+595964:e3d14 NNherror is other than file not found; set error flag TRUE, file path to NotAPath, and refnum to NotARefnummD
+596013:e442f Resource File Not Found
+596057:e475a Resource File Not Found
+596101:e4a85 Resource File Not Found
+596145:e4db0 Resource File Not Found
+596189:e50d3 Resource File Not Found
+596269:e6bef opens an existing file. Error 7 occurs if the file cannot be found.

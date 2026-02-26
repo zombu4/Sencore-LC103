@@ -1,0 +1,1 @@
+547338:1052d5 (u32) task ID: uniquely identifies the group. You use this value as the task ID to refer to this group in subsequent digital port VI calls.

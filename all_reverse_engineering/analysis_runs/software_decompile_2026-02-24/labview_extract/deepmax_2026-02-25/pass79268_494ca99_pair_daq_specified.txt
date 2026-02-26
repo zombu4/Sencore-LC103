@@ -1,0 +1,20 @@
+102446:4cb9fc DAQ SCXIConfigErr:  The specified SCXI configuration parameters are invalid, or the function cannot be executed with the current SCXI configuration.
+102462:4cd277 DAQ semanticsErr:  An error was detected in the input string; the syntax of the string is correct, but certain values specified in the string are inconsistent with other values specified in the string.
+260879:2445d4 DAQ SCXIConfigErr:  The specified SCXI configuration parameters are invalid, or the function cannot be executed with the current SCXI configuration.
+260895:245e4f DAQ semanticsErr:  An error was detected in the input string; the syntax of the string is correct, but certain values specified in the string are inconsistent with other values specified in the string.
+314887:1621a5 DAQ SCXIConfigErr:  The specified SCXI configuration parameters are invalid, or the function cannot be executed with the current SCXI configuration.
+314903:163a20 DAQ semanticsErr:  An error was detected in the input string; the syntax of the string is correct, but certain values specified in the string are inconsistent with other values specified in the string.
+341364:101775 DAQ SCXIConfigErr:  The specified SCXI configuration parameters are invalid, or the function cannot be executed with the current SCXI configuration.
+341380:102ff0 DAQ semanticsErr:  An error was detected in the input string; the syntax of the string is correct, but certain values specified in the string are inconsistent with other values specified in the string.
+371317:17dff6 DAQ SCXIConfigErr:  The specified SCXI configuration parameters are invalid, or the function cannot be executed with the current SCXI configuration.
+371333:17f871 DAQ semanticsErr:  An error was detected in the input string; the syntax of the string is correct, but certain values specified in the string are inconsistent with other values specified in the string.
+434018:f1c19 DAQ SCXIConfigErr:  The specified SCXI configuration parameters are invalid, or the function cannot be executed with the current SCXI configuration.
+434034:f3494 DAQ semanticsErr:  An error was detected in the input string; the syntax of the string is correct, but certain values specified in the string are inconsistent with other values specified in the string.
+469997:10119a DAQ SCXIConfigErr:  The specified SCXI configuration parameters are invalid, or the function cannot be executed with the current SCXI configuration.
+470013:102a15 DAQ semanticsErr:  An error was detected in the input string; the syntax of the string is correct, but certain values specified in the string are inconsistent with other values specified in the string.
+503827:1def97 DAQ SCXIConfigErr:  The specified SCXI configuration parameters are invalid, or the function cannot be executed with the current SCXI configuration.
+503843:1e0812 DAQ semanticsErr:  An error was detected in the input string; the syntax of the string is correct, but certain values specified in the string are inconsistent with other values specified in the string.
+546393:f0b29 DAQ SCXIConfigErr:  The specified SCXI configuration parameters are invalid, or the function cannot be executed with the current SCXI configuration.
+546409:f23a4 DAQ semanticsErr:  An error was detected in the input string; the syntax of the string is correct, but certain values specified in the string are inconsistent with other values specified in the string.
+579246:162e5b DAQ SCXIConfigErr:  The specified SCXI configuration parameters are invalid, or the function cannot be executed with the current SCXI configuration.
+579262:1646d6 DAQ semanticsErr:  An error was detected in the input string; the syntax of the string is correct, but certain values specified in the string are inconsistent with other values specified in the string.

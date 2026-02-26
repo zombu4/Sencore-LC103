@@ -1,0 +1,1 @@
+504530:1ef909 Added several Instr. Driver errors; they are now handled like DAQ errors (either negative or positive value is recognized); delted four Analysis errors (-20057 through -20060) and corrected descriptions of several others.

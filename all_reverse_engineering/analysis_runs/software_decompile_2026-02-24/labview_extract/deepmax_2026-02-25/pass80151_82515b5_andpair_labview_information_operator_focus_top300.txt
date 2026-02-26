@@ -1,0 +1,4 @@
+52240:1ba753 Error #%ld %s: \"%s\", line %ld\nLabVIEW version %p\nPlease record the preceding information and contact National Instruments for technical support
+52241:1ba7e7 Failure %s: \"%s\", line %ld\nLabVIEW version %p\nPlease record the preceding information and contact National Instruments for technical support
+52409:1bc043 LabVIEW load error code %ld: %p,Could not load front panel link information.
+52414:1bc277 Could not load default data.+Could not load data space link information.%Could not load VI's link information.&Could not load LVSB platform resource.6Demonstration versions of LabVIEW cannot load this VI.

@@ -1,0 +1,24 @@
+74843:317181 Parity Error Byte. If the high byte is non-zero, the low byte is the character that is used to replace any parity errors found when parity is enabled.
+102406:4c5f65 DSP AddrSpaceErr: The COFF file you are trying to load is linked with a memory map that exceeds the maximum memory space allowed by the WE DSP32C chip (2^24).GDSP CoffSectErr: Found an unimplemented section flag in the COFF file.
+102479:4cdd66 GPIB ESTB: Serial poll byte queue overflow.4LabVIEW: Image not found.
+245153:155835 Parity Error Byte. If the high byte is non-zero, the low byte is the character that is used to replace any parity errors found when parity is enabled.
+260839:23eb3d DSP AddrSpaceErr: The COFF file you are trying to load is linked with a memory map that exceeds the maximum memory space allowed by the WE DSP32C chip (2^24).GDSP CoffSectErr: Found an unimplemented section flag in the COFF file.
+260912:24693e GPIB ESTB: Serial poll byte queue overflow.4LabVIEW: Image not found.
+314847:15c70e DSP AddrSpaceErr: The COFF file you are trying to load is linked with a memory map that exceeds the maximum memory space allowed by the WE DSP32C chip (2^24).GDSP CoffSectErr: Found an unimplemented section flag in the COFF file.
+314920:16450f GPIB ESTB: Serial poll byte queue overflow.4LabVIEW: Image not found.
+341324:fbcde DSP AddrSpaceErr: The COFF file you are trying to load is linked with a memory map that exceeds the maximum memory space allowed by the WE DSP32C chip (2^24).GDSP CoffSectErr: Found an unimplemented section flag in the COFF file.
+341397:103adf GPIB ESTB: Serial poll byte queue overflow.4LabVIEW: Image not found.
+371277:17855f DSP AddrSpaceErr: The COFF file you are trying to load is linked with a memory map that exceeds the maximum memory space allowed by the WE DSP32C chip (2^24).GDSP CoffSectErr: Found an unimplemented section flag in the COFF file.
+371350:180360 GPIB ESTB: Serial poll byte queue overflow.4LabVIEW: Image not found.
+397613:33f74f Parity Error Byte. If the high byte is non-zero, the low byte is the character that is used to replace any parity errors found when parity is enabled.
+433978:ec182 DSP AddrSpaceErr: The COFF file you are trying to load is linked with a memory map that exceeds the maximum memory space allowed by the WE DSP32C chip (2^24).GDSP CoffSectErr: Found an unimplemented section flag in the COFF file.
+434051:f3f83 GPIB ESTB: Serial poll byte queue overflow.4LabVIEW: Image not found.
+469957:fb703 DSP AddrSpaceErr: The COFF file you are trying to load is linked with a memory map that exceeds the maximum memory space allowed by the WE DSP32C chip (2^24).GDSP CoffSectErr: Found an unimplemented section flag in the COFF file.
+470030:103504 GPIB ESTB: Serial poll byte queue overflow.4LabVIEW: Image not found.
+503787:1d9500 DSP AddrSpaceErr: The COFF file you are trying to load is linked with a memory map that exceeds the maximum memory space allowed by the WE DSP32C chip (2^24).GDSP CoffSectErr: Found an unimplemented section flag in the COFF file.
+503860:1e1301 GPIB ESTB: Serial poll byte queue overflow.4LabVIEW: Image not found.
+522321:3568ac Parity Error Byte. If the high byte is non-zero, the low byte is the character that is used to replace any parity errors found when parity is enabled.
+546353:eb092 DSP AddrSpaceErr: The COFF file you are trying to load is linked with a memory map that exceeds the maximum memory space allowed by the WE DSP32C chip (2^24).GDSP CoffSectErr: Found an unimplemented section flag in the COFF file.
+546426:f2e93 GPIB ESTB: Serial poll byte queue overflow.4LabVIEW: Image not found.
+579206:15d3c4 DSP AddrSpaceErr: The COFF file you are trying to load is linked with a memory map that exceeds the maximum memory space allowed by the WE DSP32C chip (2^24).GDSP CoffSectErr: Found an unimplemented section flag in the COFF file.
+579279:1651c5 GPIB ESTB: Serial poll byte queue overflow.4LabVIEW: Image not found.

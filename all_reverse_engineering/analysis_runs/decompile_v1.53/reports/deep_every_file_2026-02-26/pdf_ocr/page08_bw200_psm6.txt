@@ -1,0 +1,24 @@
+ALM Aluminum Electrolytics Pod
+> DBL - Double Layer ; aoe
+, TAN Tantalum Caps _ oo. oe
+: CER Ceramic Caps | oe
+AOC All Other Caps oo. foes
+: HIR _ High Resistance Double Layer Lytics ae
+-COL _ Coils pre
+: YFB Yokes and Flybacks a “ .
+, SWX Switching Transformers be ws
+VALUE MULTIPLIERS RS
+_* PrcoFarac Bae ae
+ae ewer, ae
+TEST FUNCTION COMMANDS !
+LKR sCsChewkage resistance ;
+DIA Dielectric Absorption
+ESR... Equivalent series resistance |
+INDO Inductance,
+EIC : ESR in circuit
+‘IC °~SC™*~<~Ss”ndictanceincircuit
+GENERAL COMMANDS
+UDO LL beadzeroopen
+CPO ____ Control panel on (front panel operation) |
+CtiR ss! Continue taking/sending test data
+Ctrl O Return a single reading, (default)

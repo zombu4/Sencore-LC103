@@ -1,0 +1,21 @@
+57231:212a20  status[15]- GPIB error detectedA=data string contains count data bytes from the GPIB device. 
+101604:4b78cd |xerror out contains the same information as status out, code out, and source out. It has the same structure as error in.
+227622:53a78  status[15]- GPIB error detectedA=data string contains count data bytes from the GPIB device. 
+260037:2304a5 |xerror out contains the same information as status out, code out, and source out. It has the same structure as error in.
+294105:20e09  status[15]- GPIB error detectedA=data string contains count data bytes from the GPIB device. 
+314025:14e0c2 |xerror out contains the same information as status out, code out, and source out. It has the same structure as error in.
+326272:20101  status[15]- GPIB error detectedA=data string contains count data bytes from the GPIB device. 
+340508:ed6a5 |xerror out contains the same information as status out, code out, and source out. It has the same structure as error in.
+349067:1ed38  status[15]- GPIB error detectedA=data string contains count data bytes from the GPIB device. 
+371474:18422e |xerror out contains the same information as status out, code out, and source out. It has the same structure as error in.
+419734:1ec7d  status[15]- GPIB error detectedA=data string contains count data bytes from the GPIB device. 
+434175:f7e51 |xerror out contains the same information as status out, code out, and source out. It has the same structure as error in.
+454571:1d54d  status[15]- GPIB error detectedA=data string contains count data bytes from the GPIB device. 
+470154:1073d2 |xerror out contains the same information as status out, code out, and source out. It has the same structure as error in.
+478283:1ed38  status[15]- GPIB error detectedA=data string contains count data bytes from the GPIB device. 
+504219:1ea3f7 xerror out contains the same information as status out, code out, and source out. It has the same structure as error in.
+532202:1ec7d  status[15]- GPIB error detectedA=data string contains count data bytes from the GPIB device. 
+546550:f6d61 |xerror out contains the same information as status out, code out, and source out. It has the same structure as error in.
+562487:1d54d  status[15]- GPIB error detectedA=data string contains count data bytes from the GPIB device. 
+579638:16e2ba xerror out contains the same information as status out, code out, and source out. It has the same structure as error in.
+583006:1ecb0  status[15]- GPIB error detectedA=data string contains count data bytes from the GPIB device. 

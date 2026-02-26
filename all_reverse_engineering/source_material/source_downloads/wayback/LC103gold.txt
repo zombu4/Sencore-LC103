@@ -1,0 +1,292 @@
+Sencore News: The Sencore Z-Meter – the Gold Standard July 04 by Glen Kropuenske 
+http://www.sencore.com mailto:sales@sencore.com 1.800.736.2673 
+ 
+  
+Glen Kropuenske 
+SENCORE, Inc. 
+ Application Engineer 
+1.800.736.2673 or 
+1.605.339.0100 
+mailto:ae@sencore.com 
+http://www.sencore.com 
+The Sencore 
+Z-Meter 
+– the Gold 
+Standard 
+ 
+    
+Gold, the most precious of metals, symbolizes great value and 
+performance. For example, the Ol ympic gold metal is awarded to 
+the highest achiever, the one who performs above all the 
+competition. In the field of capacitor and inductor testing, the 
+Sencore Z-Meter gets the gold! Here’s why. 
+  
+Gold: Test All Capacitor Types and Values 
+ 
+Many different types of capacitors are used in el ectronic circuits. Each t ype has properties which 
+make it desirable for particular applications. Th e type of capacitor also determines how it will go 
+bad and what analyzing tests are needed to determine if the capacitor is good or bad. 
+ 
+Capacitors come in a variety of capacitance values . Ceramic capacitors generally offer the smallest 
+values down to a fraction of 1 pi co-farad. Aluminum electrolytics range in value from 0.1 µFd to 
+300,000 µFd. Topping the capacitance value range is th e double layer electroly tic or “Gold Cap” 
+which can be several Farads in value. 
+  Figure 1. Capacitors come in many 
+different types and values. 
+ 
+  
+ 
+A capacitor analyzer must have a measuring range th at permits testing of a ll types and values of 
+capacitors. Many capacitor value testers claim this, but few deliver. Only the Sencore Z-Meter can 
+test capacitors from 0.1 pico-farad to 20 Fara ds. Other capacitor value testers simply cannot 
+measure below 1 pFd and/or above 200,000 µFd. 
+ 
+
+Sencore News: The Sencore Z-Meter – the Gold Standard July 04 by Glen Kropuenske 
+http://www.sencore.com mailto:sales@sencore.com 1.800.736.2673 
+  
+Capacitor types have different 
+parameters that require different 
+testing criteria. The Sencore Z-
+Meter divides capacitors into one of 
+five different types for testing. Some 
+capacitor types, such as the double 
+layer electrolytic type, require a 
+different and patented capacitance 
+test to accurately determine the 
+proper capacitance value. Other 
+types simply have lesser or greater 
+tolerances to the Z-Meter tests to be 
+accurately determined good or bad.  
+ 
+ 
+ 
+   
+Figure 2. A capacitor analyzer must test all capacitor types 
+accurately from 0.1 pFd ceramic cap to a 1 Farad double-
+layer electrolytic.
+ 
+  
+ 
+Gold: Test Capacitors for all 4 Ways They Fail 
+ 
+Capacitors can fail in 4 different ways and cause  improper circuit operation. Most testers only test 
+for one or two ways in which a capacitor fails.  Capacitor failures include:  
+ 
+1. Change in Value 
+2. Equivalent Series Resistance (ESR) 
+3. Dielectric Leakage 
+4. Dielectric Absorption 
+ 
+  Figure 3. Capacitors can 
+fail in four different ways. 
+ 
+   
+Capacitors can change in value due to changes in  the dielectric or plat e properties. Capacitors 
+fail from a decrease in value only about 25% of the time. This means a capacitance value 
+tester finds only 1 out of every 4 bad capacitors. A calculator is usually needed to calculate the 
+percent of variation to determine if the value is within tolerance.  
+ 
+   
+Sencore News: The Sencore Z-Meter – the Gold Standard July 04 by Glen Kropuenske 
+http://www.sencore.com mailto:sales@sencore.com 1.800.736.2673 
+ESR testing capacitors 
+above 1000 µFd 
+requires 0.01 ohms of 
+resolution for 
+good/bad testing. 
+ 
+ESR is the small amount of resistance in a capacitor’s leads and 
+dielectric that worsens on aging ta ntalum or aluminum electrolytic 
+capacitors. ESR testing requires a special testing method. Normal ESR 
+limits vary between aluminum and tantalum types and their values. 
+Small value electrolytic capacitors; 0.1, 0.22, 0.33, and 0.47 µFd are now 
+common among electronic circuits. ES R on electrolytic capacitors above 
+1000 µFd is less than 0.5 ohms requiring 0.01 ohms of resolution for 
+good/bad testing. Testers that only te st ESR do not accurately test 
+capacitors below 1 µFd and do not provide the resolution to good/bad 
+test ESR on capacitors over 1000 µFd. Fu rthermore, they miss all other 
+types of capacitor failures. 
+ 
+  
+Capacitor leakage develops when the capacitor has an internal parallel resistance that permits 
+current to flow between the capacitor plates. So me types of capacitors fail by arcing through the 
+dielectric forming a carbonized leakage path. Electrolytic capacitors are especially prone to leakage 
+problems as the dielectric or insulation is formed via a chemical reaction when voltage is applied to 
+the capacitor. Most capacitor te sters do not test for leakage a nd therefore miss a high number of 
+capacitor failures. 
+ 
+  
+The patented Z-meter 
+dielectric absorption 
+test determines a 
+capacitor’s D/A 
+percentage in only a 
+few seconds. 
+Dielectric Absorption (D/A) is the capacitor’s inability to completely 
+discharge. D/A acts as a battery disr upting the circuit bi as and changing 
+the capacitors effective value in the ci rcuit. In various electrolyte type 
+capacitors, D/A accounts for 1 out  of 5 bad capacitors. While a 
+conventional D/A test requires up to 30 minutes to complete, a patented 
+Z-meter method determines a capacitor’s dielectric absorption 
+percentage in only a few seconds. No  other capacitor tester checks for 
+D/A.  
+  
+ 
+Figure 4. A capacitor analyzer must be able to 
+test and detect all 4 capacitor defects. 
+ 
+  
+Gold: Test Leakage at the Capacitor’s Rated Working Voltage 
+ 
+An important test of aluminum and tantalum electr olytic capacitors is testing for leakage. Leakage 
+is a common defect in these capacitor types. A myth is that leakage can  be detected with an 
+ohmmeter or low voltage power supply. Nothing could be farther from the truth.  
+ 
+Sencore News: The Sencore Z-Meter – the Gold Standard July 04 by Glen Kropuenske 
+http://www.sencore.com mailto:sales@sencore.com 1.800.736.2673 
+ 
+  
+Leakage failures often exhibit a zener diode effect. 
+At low voltage potentials, below the zener voltage, 
+the capacitor has little or no leakage. To an 
+ohmmeter the capacitor looks good or quickly 
+charges to high resistance.  As higher voltages are 
+applied to the capacitor the zener voltage is 
+exceeded and high leakage current flows. 
+Therefore, it is essential to test the capacitor for 
+leakage at its rated working voltage. Electrolytic 
+capacitors range in working voltage from a few 
+volts to nearly 500 volts. 
+Figure 5. Leakage current can zener-on at 
+higher voltage potentials. Testing leakage at 
+the capacitor rated working voltage insures 
+leakage defects are detected.
+ 
+The Z-Meter tests leakag e by applying the rated 
+working voltage to the capacitor using a 
+programmable leakage power supply. Upon 
+entering the capacitor’s working voltage with the 
+numeric keypad the leakage test button is pressed. 
+After a few seconds the cap acitor is fully charged 
+and the leakage current is displayed.   
+  
+Figure 6. The Z-Meter’s programmable leakage 
+power supply tests leakage on any capacitor at its 
+working voltage up to 1000 volts.
+ 
+  
+Gold: Reference EIA Standards for Automatic Good/Bad Test Analysis 
+ 
+Determining a capacitor good or bad is difficult with  most testers. Capaci tance testers typically 
+require a calculator to determine the tolerance limits. ESR meters typically have a one limit fits all 
+capacitors which causes interpretation errors. Component curve tracers require delicate 
+interpretation of lines, circles, or oval shapes . Capacitor dissipation factor or power factor 
+measurements require a manufacturer rating for comparison. Commonly th ere is no conclusive 
+good/bad determination. You are le ft guessing if the measurement value indicates the capacitor is 
+good or bad.    
+ 
+The LC103 “ReZolver” takes the gu ess work out of determining if  the capacitor is good or bad. 
+Value measurements are automatically compared to the capacitor’s rated value and +/- tolerance 
+limits entered into the Z-Meter with the numeric keypad. The capacitor value measurement is 
+accompanied by a good or bad indication. No calculation is required.  
+ 
+Maximum ESR, Leakage and D/A values vary w ith capacitor type, value and working voltage. 
+Limits have been established by the Electronic Industry Association (EIA) through the consensus 
+of capacitor manufacturers. Memory  tables within the LC103 contai n this reference good/bad data 
+limits. The limits provide a good/bad reference for each capacitor tested with the LC103.  
+ 
+Simply enter the capacitor type, value, tolerance and working voltage. Each Z-meter analyzing test 
+Sencore News: The Sencore Z-Meter – the Gold Standard July 04 by Glen Kropuenske 
+http://www.sencore.com mailto:sales@sencore.com 1.800.736.2673 
+accompanies an automatic good or bad readout, referenced to industry standards.  
+ 
+ 
+   
+Figure 7.  Each Z-meter test indicates good or bad, eliminating any chance of 
+interpretation or calculation errors. 
+  
+Gold: Analyze Inductors for 4 Ways They Fail 
+ 
+Inductors can fail in 4 ways and cause improper circuit operation. Most testers check for value 
+only. Inductor failures include: 
+ 
+1. Short (Many shorted turns) 
+2. Open 
+3. Value Change  
+4. A single shorted turn 
+ 
+The LC103 dynamically test any inductor from 0.1 µH to 20 Henrys automatically based upon the 
+inductor type, value and tolerance entered via the numeric keypad. The patented inductor test 
+measures the true inductance of the coil and det ects when the coil is open or shorted. The value 
+readout is accompanied by a good or bad indication eliminating any calculation errors. 
+ 
+The patented Ringer test energizes the coil in co mbination with selected capacitors within the Z-
+Meter and counts the number of resulting resona nt oscillations or rings. A good coil having no 
+shorted turn rings more than 10 times. A coil with a shorted turn rings less than 10.  
+ 
+Sencore News: The Sencore Z-Meter – the Gold Standard July 04 by Glen Kropuenske 
+http://www.sencore.com mailto:sales@sencore.com 1.800.736.2673 
+  
+ 
+Figure 8. The Z-Meter dynamically tests 
+coils for all the ways they fail with two 
+patented good/bad tests. 
+ 
+  
+ 
+ 
+Gold: Analyze Capacitors & Inductors In-Circuit 
+ 
+In circuit capacitor and inductor testing accuracy is plagued with many parallel components and 
+circuit paths. In-circuit ESR only testers often miss bad capacitors in-circuit when they are reduced 
+in value, shorted or leaky. This can add hours to a repair job.  
+ 
+The LC103 uses four analyzing tests to comprehensively determine the capacitor value and ESR in-
+circuit. Two tests are used to determine the capacito r value. An RC charge constant test checks the 
+capacitor value and is compared to a second va lue test determined by applying several test 
+frequencies. If the values are within 20% there are no parallel impedances  influencing the test 
+accuracy. Another test identifies parallel resistance by measuring the current needed to hold the 
+capacitor charged following the RC charge value test.   
+ 
+The comprehensive in-circuit capacitor analyzing tests result in a display of the capacitor value and 
+ESR for capacitors ranging from 0.02 µFd to  20,000 µFd. A value readout accompanied by 
+“Suggest Removal” on the display readout indicates the Z-Meter detected parallel in-circuit paths 
+and/or components affecting the measurement accuracy.   
+ 
+An adjustable in-circuit test probe makes connec tion to both small surface mount and large leaded 
+capacitors and inductors. The probe is designed for one-handed use. Simply adjust the probe to the 
+capacitor lead width, press the pr obe points to the leads, and pr ess the test button on the probe 
+body. You can concentrate on holdi ng a good solid connection until you hear three short beeps 
+from the Z-Meter indicating the test is complete. The Z-meter test results are frozen on the display 
+for 3 seconds permitting easy viewing.  
+ 
+Sencore News: The Sencore Z-Meter – the Gold Standard July 04 by Glen Kropuenske 
+http://www.sencore.com mailto:sales@sencore.com 1.800.736.2673 
+  
+Figure 9. The LC103 in-circuit 
+capacitor test indicates capacitor 
+value and ESR after performing a 
+series of in-circuit analyzing tests.
+ 
+  
+Gold: Add an Accessory to Analyze Semiconductors 
+The STA260 Semiconductor Test Accessory teams with the LC103 to test semiconductor devices. 
+The STA260 dynamically tests SCRS, transistors,  triacs and IGBTs for “turn on” and leakage 
+under normal operating voltage conditions.  
+ 
+  
+Figure 10. The STA260 accessory 
+analyzes semiconductors for ‘turn-on’ 
+and ‘turn-off’ capability and leakage.
+ 
+  
+Get the Gold! 
+ 
+Yes, the Sencore LC103 Z-Meter gets the gold! Join the winner circle with a Sencore Z-Meter and 
+get your own little pot of gold.  For more information visit the product section at 
+http://www.sencore.com/products/products.htm
+  or call 1-800 SENCORE.  
+  http://www.sencore.com mailto:sales@sencore.com 1.800.736.2673
+1.605.339.0100
+ 

@@ -1,0 +1,18 @@
+102958:4d61cb Writes a character string to a new byte stream file or appends the string to an existing file. The VI opens or creates the file beforehand and closes it afterwards.
+112344:56c1ac *Reads a specified number of lines from a byte stream file beginning at a specified character offset. The VI opens the file beforehand and closes it afterwards.
+261397:24f12b Writes a character string to a new byte stream file or appends the string to an existing file. The VI opens or creates the file beforehand and closes it afterwards.
+261609:2507dc Writes a character string to a new byte stream file or appends the string to an existing file. The VI opens or creates the file beforehand and closes it afterwards.
+270873:2e6900 *Reads a specified number of lines from a byte stream file beginning at a specified character offset. The VI opens the file beforehand and closes it afterwards.
+271320:2e9103 *Reads a specified number of lines from a byte stream file beginning at a specified character offset. The VI opens the file beforehand and closes it afterwards.
+366630:130572 *Reads a specified number of lines from a byte stream file beginning at a specified character offset. The VI opens the file beforehand and closes it afterwards.
+370469:168abf Writes a character string to a new byte stream file or appends the string to an existing file. The VI opens or creates the file beforehand and closes it afterwards.
+404059:3a5a44 Writes a character string to a new byte stream file or appends the string to an existing file. The VI opens or creates the file beforehand and closes it afterwards.
+404095:3a6707 *Reads a specified number of lines from a byte stream file beginning at a specified character offset. The VI opens the file beforehand and closes it afterwards.
+496229:149a0e *Reads a specified number of lines from a byte stream file beginning at a specified character offset. The VI opens the file beforehand and closes it afterwards.
+503359:1cf7ce Writes a character string to a new byte stream file or appends the string to an existing file. The VI opens or creates the file beforehand and closes it afterwards.
+527396:3b4690 Writes a character string to a new byte stream file or appends the string to an existing file. The VI opens or creates the file beforehand and closes it afterwards.
+527432:3b5353 *Reads a specified number of lines from a byte stream file beginning at a specified character offset. The VI opens the file beforehand and closes it afterwards.
+596795:f58f0 Writes a character string to a new byte stream file or appends the string to an existing file. The VI opens or creates the file beforehand and closes it afterwards.
+596831:f65b3 *Reads a specified number of lines from a byte stream file beginning at a specified character offset. The VI opens the file beforehand and closes it afterwards.
+608417:1b6db0 Writes a character string to a new byte stream file or appends the string to an existing file. The VI opens or creates the file beforehand and closes it afterwards.
+610293:1d4dcb *Reads a specified number of lines from a byte stream file beginning at a specified character offset. The VI opens the file beforehand and closes it afterwards.

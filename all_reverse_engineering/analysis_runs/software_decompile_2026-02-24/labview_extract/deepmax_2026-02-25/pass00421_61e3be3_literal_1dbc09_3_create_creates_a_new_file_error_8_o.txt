@@ -1,0 +1,1 @@
+54005:1dbc09 3 (create) creates a new file.  Error 8 occurs if the file already exists.

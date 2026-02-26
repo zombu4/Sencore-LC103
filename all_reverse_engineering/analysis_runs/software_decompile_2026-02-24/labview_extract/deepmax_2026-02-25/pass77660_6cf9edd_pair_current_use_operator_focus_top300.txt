@@ -1,0 +1,2 @@
+52037:1b8fa2 Network is down or unreachable.$Network address is currently in use.;Not enough system memory to complete the network operation.3System caused the network connection to be aborted.
+52412:1bc147 Could not load VI resource.,Version of VI is newer than LabVIEW version.?Version of VI is too old to convert to current LabVIEW version.JVI cannot be converted to current version because it has no block diagram."Could not load connector type map.

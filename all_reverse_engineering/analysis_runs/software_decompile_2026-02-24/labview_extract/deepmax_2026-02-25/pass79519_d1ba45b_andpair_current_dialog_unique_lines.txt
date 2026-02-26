@@ -1,0 +1,4 @@
+48193:1651e4 This is the revision number that will be included in new history entries. The current number is displayed in the Instrument Information dialog. It is incremented every time you save the VI.
+48198:165560 This is the revision number that will be included in new history entries. The current number is displayed in the Instrument Information dialog. It is incremented every time you save the VI.
+48263:16691f VThis button brings up the font selection dialog to alter the currently displayed font.
+52243:1ba884 There are currently %ld VIs with unsaved changes remaining to be removed from memory. To avoid this dialog for these VIs, select either Yes to All or No to All.

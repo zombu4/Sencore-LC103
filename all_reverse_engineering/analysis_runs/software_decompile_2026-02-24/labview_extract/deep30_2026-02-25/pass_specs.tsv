@@ -1,0 +1,30 @@
+01	gain_fail_surface	gain calibration|gain calibration failed|adjusted >10|gain adjustment>10|range !gain calibration failed|on range !gain calibration failed
+02	gain_range_controls	gain calibration|run test\?|test name|cal points|range|sources calibrated
+03	gain_offset_comp	gain calibration|offset adjustment too high|cal offset|comp_cf|correction
+04	isrc_core_prompt	current source calibration|isrc_cal|lowest current range|cal offset
+05	isrc_pass_fail	current source calibration passed|failed calibration\.|communications error\.|on range
+06	isrc_cf_state	initialize cal factor nominally to 1\.0|cal\. factor|sources calibrated|c\.f\. value|c\.f\. index
+07	leakv_core	leakage voltage calibration|leakage voltage test|leak_vlt|leak_cal
+08	leakv_setpoints	set high ls to 500v|set high ls to 1000v|500v|1000v|high range|low range
+09	leakv_failures	offset adjustment too high|gain adjustment>10|failed calibration|communication error\.
+10	leaki_core	leakage current test|leak_i\.vi|leakage current
+11	leaki_load_table	load select|sense resistor|approx\. current|cal box setup #|8842 mult\. factor
+12	leaki_constants	dvm resistance|1\.111e6|100ua|10ma|10\.00e\+9|100\.0e3
+13	cap_setup	capacitance decade box|short the uut leads to the capacitance|connect the black uut lead
+14	cap_fail_ranges	cap cal failed range|capacitance calibration|perform capacitance calibration
+15	esr_flow	esr calibration|0\.022uf|now connect the red uut|hey!! i said
+16	ind_setup	inductance decade box \(l terminal\)|inductance decade box \(h terminal\)|now connect the red lead
+17	ind_low_value_variant	low value inductance box|inductance calibration|ind cal failed range
+18	ind_range_state	last range cal'd|next range to cal|# ind ranges|perform inductance calibration
+19	ringer_yf	small ringer cal box set to|yolks and flybacks|adjust r1144
+20	ringer_switch	switch the cal box to|switching transformers|adjust r1005|number of rings
+21	startup_gate	wait for start button to be clicked|press to start|start button|reset start button
+22	ready_branch	press ready when previous step is complete|do next test if previous test passed|continue button
+23	pass_fail_indicator	set pass/ fail indicator and make it visible|set pass/fail button to invisible|pass/ fail
+24	softrev_errors	software rev\. check|wrong rev\. number|invalid software rev\. number|last known lc103 software rev
+25	softrev_manual_path	couldn't open the software rev\. file|couldn't retrieve the proper software rev\. number|place the flopply disk in the computer now
+26	cal_file_paths	press f1 to change paths|please choose the file containing the capacitance calibration data|please choose the file containing the inductance calibration data|\*\.cal
+27	stamp_serial_date	calibration stamp|set cal date|set serial number|caldate\?|calibration successful
+28	comms_rs232	rs-232 connection failed|communications error|communication error\.|error\\fc in|error\\fc out
+29	timeout_abort_retry	timeout|abort\?\.vi|run test\?|return string|input string|clr buf\?
+30	globals_status_pf	statusglobal|status_glob|p/f_glob|globstat\.vi|pass/fail|set "pass or fail global" to "fail"

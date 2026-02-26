@@ -1,0 +1,40 @@
+102464:4cd91d LabVIEW: Argument error; that is, an input parameter is invalid.
+102490:4cdfe7 GPIB NADDR: No GPIB address input.CLabVIEW: Print driver error.
+102491:4ce029 GPIB NSTRG: No string input (write).QLabVIEW: Operating system error during print.
+102492:4ce07e GPIB NCNT: No count input (read).$LabVIEW: Memory error during print.
+260897:2464f5 LabVIEW: Argument error; that is, an input parameter is invalid.
+260923:246bbf GPIB NADDR: No GPIB address input.CLabVIEW: Print driver error.
+260924:246c01 GPIB NSTRG: No string input (write).QLabVIEW: Operating system error during print.
+260925:246c56 GPIB NCNT: No count input (read).$LabVIEW: Memory error during print.
+314905:1640c6 LabVIEW: Argument error; that is, an input parameter is invalid.
+314931:164790 GPIB NADDR: No GPIB address input.CLabVIEW: Print driver error.
+314932:1647d2 GPIB NSTRG: No string input (write).QLabVIEW: Operating system error during print.
+314933:164827 GPIB NCNT: No count input (read).$LabVIEW: Memory error during print.
+341382:103696 LabVIEW: Argument error; that is, an input parameter is invalid.
+341408:103d60 GPIB NADDR: No GPIB address input.CLabVIEW: Print driver error.
+341409:103da2 GPIB NSTRG: No string input (write).QLabVIEW: Operating system error during print.
+341410:103df7 GPIB NCNT: No count input (read).$LabVIEW: Memory error during print.
+371335:17ff17 LabVIEW: Argument error; that is, an input parameter is invalid.
+371361:1805e1 GPIB NADDR: No GPIB address input.CLabVIEW: Print driver error.
+371362:180623 GPIB NSTRG: No string input (write).QLabVIEW: Operating system error during print.
+371363:180678 GPIB NCNT: No count input (read).$LabVIEW: Memory error during print.
+434036:f3b3a LabVIEW: Argument error; that is, an input parameter is invalid.
+434062:f4204 GPIB NADDR: No GPIB address input.CLabVIEW: Print driver error.
+434063:f4246 GPIB NSTRG: No string input (write).QLabVIEW: Operating system error during print.
+434064:f429b GPIB NCNT: No count input (read).$LabVIEW: Memory error during print.
+470015:1030bb LabVIEW: Argument error; that is, an input parameter is invalid.
+470041:103785 GPIB NADDR: No GPIB address input.CLabVIEW: Print driver error.
+470042:1037c7 GPIB NSTRG: No string input (write).QLabVIEW: Operating system error during print.
+470043:10381c GPIB NCNT: No count input (read).$LabVIEW: Memory error during print.
+503845:1e0eb8 LabVIEW: Argument error; that is, an input parameter is invalid.
+503871:1e1582 GPIB NADDR: No GPIB address input.CLabVIEW: Print driver error.
+503872:1e15c4 GPIB NSTRG: No string input (write).QLabVIEW: Operating system error during print.
+503873:1e1619 GPIB NCNT: No count input (read).$LabVIEW: Memory error during print.
+546411:f2a4a LabVIEW: Argument error; that is, an input parameter is invalid.
+546437:f3114 GPIB NADDR: No GPIB address input.CLabVIEW: Print driver error.
+546438:f3156 GPIB NSTRG: No string input (write).QLabVIEW: Operating system error during print.
+546439:f31ab GPIB NCNT: No count input (read).$LabVIEW: Memory error during print.
+579264:164d7c LabVIEW: Argument error; that is, an input parameter is invalid.
+579290:165446 GPIB NADDR: No GPIB address input.CLabVIEW: Print driver error.
+579291:165488 GPIB NSTRG: No string input (write).QLabVIEW: Operating system error during print.
+579292:1654dd GPIB NCNT: No count input (read).$LabVIEW: Memory error during print.

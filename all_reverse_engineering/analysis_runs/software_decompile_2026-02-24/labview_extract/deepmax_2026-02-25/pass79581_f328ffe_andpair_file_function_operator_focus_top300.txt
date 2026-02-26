@@ -1,0 +1,27 @@
+47043:15ee60 The vi %p calls Unflatten from String or Type Cast to a type containing an extended float. If the input data to these functions comes from a file, you must convert extended floats in the file to LV 3.0 format.
+52996:1cb269 advisory dialog? Set TRUE (default) if you want a dialog if function=0 and the file does not exist, or if function=2 or 3 and the file exists.
+54006:1dbc55 advisory dialog? Set TRUE (default) if you want a dialog if function=0 and the file does not exist, or if function=2 or 3 and the file exists.
+54033:1dc745 [report file not found if function=0 (open); set file path to empty and refnum to NotARefnumMD
+223253:9e95 advisory dialog? Set TRUE (default) if you want a dialog if function=0 and the file does not exist, or if function=2 or 3 and the file exists.
+224263:1a881 advisory dialog? Set TRUE (default) if you want a dialog if function=0 and the file does not exist, or if function=2 or 3 and the file exists.
+224290:1b371 [report file not found if function=0 (open); set file path to empty and refnum to NotARefnumMD
+224499:1d58d advisory dialog? Set TRUE (default) if you want a dialog if function=0 and the file does not exist, or if function=2 or 3 and the file exists.
+394246:30c7c1 advisory dialog? Set TRUE (default) if you want a dialog if function=0 and the file does not exist, or if function=2 or 3 and the file exists.
+406182:3cba91 advisory dialog? Set TRUE (default) if you want a dialog if function=0 and the file does not exist, or if function=2 or 3 and the file exists.
+406205:3cc8de advisory dialog? Set TRUE (default) if you want a dialog if function=0 and the file does not exist, or if function=2 or 3 and the file exists.
+406298:3cda70 [[[report file not found if function=0 (open); set file path to empty and refnum to NotARefnumMD
+520838:33c0b9 advisory dialog? Set TRUE (default) if you want a dialog if function=0 and the file does not exist, or if function=2 or 3 and the file exists.
+528196:3c81f8 advisory dialog? Set TRUE (default) if you want a dialog if function=0 and the file does not exist, or if function=2 or 3 and the file exists.
+528292:3c970a [[[report file not found if function=0 (open); set file path to empty and refnum to NotARefnumHDt
+528612:3ccdef advisory dialog? Set TRUE (default) if you want a dialog if function=0 and the file does not exist, or if function=2 or 3 and the file exists.
+595372:d5431 advisory dialog? Set TRUE (default) if you want a dialog if function=0 and the file does not exist, or if function=2 or 3 and the file exists.
+595861:e2414 advisory dialog? Set TRUE (default) if you want a dialog if function=0 and the file does not exist, or if function=2 or 3 and the file exists.
+595957:e3926 [[[report file not found if function=0 (open); set file path to empty and refnum to NotARefnumHDt
+596277:e700b advisory dialog? Set TRUE (default) if you want a dialog if function=0 and the file does not exist, or if function=2 or 3 and the file exists.
+612546:51 - The File Dialog function now outputs an error cluster. An Unbundle function was inserted to maintain compatibility.
+612548:11d - The File Dialog function now outputs an error cluster. An Unbundle function was inserted to maintain compatibility.
+612561:7ac - The File Dialog function now outputs an error cluster. An Unbundle function was inserted to maintain compatibility.
+612575:ea9 - The File Dialog function now outputs an error cluster. An Unbundle function was inserted to maintain compatibility.
+612577:f75 - The File Dialog function now outputs an error cluster. An Unbundle function was inserted to maintain compatibility.
+612582:11a8 - The File Dialog function now outputs an error cluster. An Unbundle function was inserted to maintain compatibility.
+612592:16d9 - The File Dialog function now outputs an error cluster. An Unbundle function was inserted to maintain compatibility.

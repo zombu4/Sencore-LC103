@@ -1,0 +1,5 @@
+37238:2ef74 OpenCoreDumpFile
+46158:15950a couldn't open coredump.lv with initialized path...
+51999:1b89cd File is already open. Generic file I/O error occurred.
+52365:1bbb43 The "%p" VI's log file binding is corrupt and has been cleared.  To restore the VI's log file binding, open the VI and select the File->Data Logging->Change Log File Binding... menu item.
+612591:1684 \\Atlas\Shared\Cal-Test\LC103\Source\lv8\103f_cal.llb\Open File+.vi (Open File+.vi)

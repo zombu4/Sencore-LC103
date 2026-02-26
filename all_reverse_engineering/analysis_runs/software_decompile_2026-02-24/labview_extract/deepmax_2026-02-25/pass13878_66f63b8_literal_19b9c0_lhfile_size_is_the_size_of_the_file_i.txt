@@ -1,0 +1,1 @@
+372949:19b9c0 lhfile size is the size of the file in bytes at the time the file is closed; the value is zero otherwise.

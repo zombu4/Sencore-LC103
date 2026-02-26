@@ -1,0 +1,167 @@
+13. RSZ32 Commands
+
+es
+
+aa
+
+COMPONENT TYPE COMMANDS
+
+Description
+
+Aluminum Electroiytics
+
+OBL
+
+Double Layer
+
+TAN
+
+Tantalum Caps
+
+anes
+
+LEK
+
+Ceramic Caps
+
+400
+
+All Other Caps
+
+High Resistance Double Layer Lytics
+
+ore)
+
+Coils
+
+VEB
+
+Yokes and Flybacks
+
+SwWx
+
+Switching Transformers
+
+VALUE MULTIPLIERS
+
+mand
+
+Description
+
+a=
+
+Coertarcc
+
+‘fe
+
+~ oS Se
+
+so
+
+ar
+
+=
+
+Whores +,
+
+~—
+
+so,
+
+wre
+
+ee ee
+
+“OST Thee trie
+
+WEED NEAT IE rate
+
+-
+
+TEST FUNCTION COMMANDS
+
+CAP
+
+_ Capacitor value
+
+AK
+
+Leakage current
+
+Leakage resistance
+
+LKR
+
+DIA
+
+-
+
+Dielectric Absorption
+
+ESR
+
+“Equivalent series resistance
+
+—
+
+IND
+
+_
+
+Inductance
+
+-
+
+~
+
+-
+
+RIN
+
+Ringer —
+
+cic
+
+Capacitor in circuit :
+
+EIC
+
+ESR in circuit
+
+lic
+
+Inductance in circuit ,
+
+GENERAL COMMANDS
+
+LDO
+
+Lead zero open
+
+LDS
+
+Lead zero short,
+
+-
+
+NFC
+
+_.No Function
+
+=
+
+CPO
+
+——
+
+_Control panel on (front panel operation)
+
+Ctri R
+
+Continue taking/sending test data _
+
+—
+
+Ctrl O
+
+‘Return a single reading, (default)

@@ -1,0 +1,16 @@
+51144:18ce25 Connection closed/Initialization error (interapplication manager)
+53313:1cd9ac Connection closed+Initialize error (interapplication manager)
+102516:4ce78a <TCP ncConnClosedErr: The connection was closed by the peer.6Interapplication Mgr amInitErr: Initialization error.
+223570:c5d8 Connection closed+Initialize error (interapplication manager)
+260949:247362 <TCP ncConnClosedErr: The connection was closed by the peer.6Interapplication Mgr amInitErr: Initialization error.
+314957:164f33 <TCP ncConnClosedErr: The connection was closed by the peer.6Interapplication Mgr amInitErr: Initialization error.
+341434:104503 <TCP ncConnClosedErr: The connection was closed by the peer.6Interapplication Mgr amInitErr: Initialization error.
+371387:180d84 <TCP ncConnClosedErr: The connection was closed by the peer.6Interapplication Mgr amInitErr: Initialization error.
+406598:3cf6a6 Connection closed+Initialize error (interapplication manager)
+434088:f49a7 <TCP ncConnClosedErr: The connection was closed by the peer.6Interapplication Mgr amInitErr: Initialization error.
+470067:103f28 <TCP ncConnClosedErr: The connection was closed by the peer.6Interapplication Mgr amInitErr: Initialization error.
+503897:1e1d25 <TCP ncConnClosedErr: The connection was closed by the peer.6Interapplication Mgr amInitErr: Initialization error.
+528575:3cb2d8 Connection closed+Initialize error (interapplication manager)
+546463:f38b7 <TCP ncConnClosedErr: The connection was closed by the peer.6Interapplication Mgr amInitErr: Initialization error.
+579316:165be9 <TCP ncConnClosedErr: The connection was closed by the peer.6Interapplication Mgr amInitErr: Initialization error.
+596240:e54f4 Connection closed+Initialize error (interapplication manager)

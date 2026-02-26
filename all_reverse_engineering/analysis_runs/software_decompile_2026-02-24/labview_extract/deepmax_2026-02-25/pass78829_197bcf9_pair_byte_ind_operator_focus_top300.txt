@@ -1,0 +1,30 @@
+75739:323a21 uqReads the number of characters specified by requested byte count from the serial port indicated in port number.
+75980:3275e3 okReturns in byte count the number of bytes in the input buffer of the serial port indicated in port number.
+246060:162361 uqReads the number of characters specified by requested byte count from the serial port indicated in port number.
+246164:162d03 qReads the number of characters specified by requested byte count from the serial port indicated in port number.
+246306:166087 okReturns in byte count the number of bytes in the input buffer of the serial port indicated in port number.
+246407:1669fb kReturns in byte count the number of bytes in the input buffer of the serial port indicated in port number.
+308282:eb956 uqReads the number of characters specified by requested byte count from the serial port indicated in port number.
+308384:ec2f3 qReads the number of characters specified by requested byte count from the serial port indicated in port number.
+308525:ef672 okReturns in byte count the number of bytes in the input buffer of the serial port indicated in port number.
+308623:effdf kReturns in byte count the number of bytes in the input buffer of the serial port indicated in port number.
+396594:330a77 okReturns in byte count the number of bytes in the input buffer of the serial port indicated in port number.
+396892:334dbb uqReads the number of characters specified by requested byte count from the serial port indicated in port number.
+404007:3a3a37 qReads the number of characters specified by requested byte count from the serial port indicated in port number.
+404008:3a3ab3 kReturns in byte count the number of bytes in the input buffer of the serial port indicated in port number.
+440783:163dba okReturns in byte count the number of bytes in the input buffer of the serial port indicated in port number.
+441083:168104 uqReads the number of characters specified by requested byte count from the serial port indicated in port number.
+442990:185467 qReads the number of characters specified by requested byte count from the serial port indicated in port number.
+442991:1854e3 kReturns in byte count the number of bytes in the input buffer of the serial port indicated in port number.
+521514:349828 okReturns in byte count the number of bytes in the input buffer of the serial port indicated in port number.
+521719:34caa8 uqReads the number of characters specified by requested byte count from the serial port indicated in port number.
+527344:3b2683 qReads the number of characters specified by requested byte count from the serial port indicated in port number.
+527345:3b26ff kReturns in byte count the number of bytes in the input buffer of the serial port indicated in port number.
+556363:1a3f17 qReads the number of characters specified by requested byte count from the serial port indicated in port number.
+556364:1a3f93 kReturns in byte count the number of bytes in the input buffer of the serial port indicated in port number.
+558118:1c3956 okReturns in byte count the number of bytes in the input buffer of the serial port indicated in port number.
+558323:1c6bdd uqReads the number of characters specified by requested byte count from the serial port indicated in port number.
+596743:f38e3 qReads the number of characters specified by requested byte count from the serial port indicated in port number.
+596744:f395f kReturns in byte count the number of bytes in the input buffer of the serial port indicated in port number.
+600529:131143 qReads the number of characters specified by requested byte count from the serial port indicated in port number.
+600676:13317f kReturns in byte count the number of bytes in the input buffer of the serial port indicated in port number.

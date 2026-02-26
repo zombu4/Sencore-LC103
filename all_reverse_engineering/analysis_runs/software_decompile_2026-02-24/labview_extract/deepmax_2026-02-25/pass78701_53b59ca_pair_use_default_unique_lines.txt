@@ -1,0 +1,12 @@
+48232:1660f0 This box displays the current value for the path that is selected in the path menu. You can not change the current path is "Use Default" is checked.
+52513:1bdbd4 If a Boolean control has associated local variables, it may not use Latch mechanical action. The first local variable to read a Boolean control with Latch action would reset its value to the default.
+101595:4b75bd }yexception source is the error message that you want to use to test for an exception. By default, it is an empty string.
+260028:230195 }yexception source is the error message that you want to use to test for an exception. By default, it is an empty string.
+314016:14ddb2 }yexception source is the error message that you want to use to test for an exception. By default, it is an empty string.
+340499:ed395 }yexception source is the error message that you want to use to test for an exception. By default, it is an empty string.
+371462:183b4d }yexception source is the error message that you want to use to test for an exception. By default, it is an empty string.
+434163:f7770 }yexception source is the error message that you want to use to test for an exception. By default, it is an empty string.
+470142:106cf1 }yexception source is the error message that you want to use to test for an exception. By default, it is an empty string.
+504206:1e9c85 yexception source is the error message that you want to use to test for an exception. By default, it is an empty string.
+546538:f6680 }yexception source is the error message that you want to use to test for an exception. By default, it is an empty string.
+579625:16db48 yexception source is the error message that you want to use to test for an exception. By default, it is an empty string.

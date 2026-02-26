@@ -1,0 +1,7 @@
+52399:1bbe9d Getting old data map resource.
+52400:1bbebc Adding data map resource.
+52403:1bbf0d Adding datalog record resource.
+52414:1bc277 Could not load default data.+Could not load data space link information.%Could not load VI's link information.&Could not load LVSB platform resource.6Demonstration versions of LabVIEW cannot load this VI.
+52516:1bdd78 A wire must be connected to one and only one data source, such as a control's terminal or a function output. This wire is not connected to any source. Find the source of this data and make sure it is a control (not indicator) or an output (not input).
+52525:1be595 A wire can be connected to only one data source, such as a control's terminal or a function output. This wire is connected to more than one source. Make sure that all connections except one are to indicators (not controls) or inputs (not outputs).
+404920:3b4381 *.calBPlease choose the file containing the inductance calibration data.d:\automated\lv51\lvsource\gencode.cGenRangeCheck

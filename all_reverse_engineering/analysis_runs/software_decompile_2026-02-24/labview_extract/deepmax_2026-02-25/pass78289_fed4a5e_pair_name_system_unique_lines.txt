@@ -1,0 +1,2 @@
+48276:166ea0 If this option is set, LabVIEW will not prompt for a user name when launched. The user name will be set to the system user name.
+52426:1bc74e $Can't get name from VI library path.%Can't get name from file system path.#Can't extract file from VI library.

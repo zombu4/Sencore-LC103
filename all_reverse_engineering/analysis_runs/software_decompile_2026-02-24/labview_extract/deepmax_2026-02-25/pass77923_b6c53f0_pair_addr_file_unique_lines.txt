@@ -1,0 +1,20 @@
+102406:4c5f65 DSP AddrSpaceErr: The COFF file you are trying to load is linked with a memory map that exceeds the maximum memory space allowed by the WE DSP32C chip (2^24).GDSP CoffSectErr: Found an unimplemented section flag in the COFF file.
+102467:4cd9fe GPIB EADR: GPIB Controller not addressed correctly.ALabVIEW: End of file.
+260839:23eb3d DSP AddrSpaceErr: The COFF file you are trying to load is linked with a memory map that exceeds the maximum memory space allowed by the WE DSP32C chip (2^24).GDSP CoffSectErr: Found an unimplemented section flag in the COFF file.
+260900:2465d6 GPIB EADR: GPIB Controller not addressed correctly.ALabVIEW: End of file.
+314847:15c70e DSP AddrSpaceErr: The COFF file you are trying to load is linked with a memory map that exceeds the maximum memory space allowed by the WE DSP32C chip (2^24).GDSP CoffSectErr: Found an unimplemented section flag in the COFF file.
+314908:1641a7 GPIB EADR: GPIB Controller not addressed correctly.ALabVIEW: End of file.
+341324:fbcde DSP AddrSpaceErr: The COFF file you are trying to load is linked with a memory map that exceeds the maximum memory space allowed by the WE DSP32C chip (2^24).GDSP CoffSectErr: Found an unimplemented section flag in the COFF file.
+341385:103777 GPIB EADR: GPIB Controller not addressed correctly.ALabVIEW: End of file.
+371277:17855f DSP AddrSpaceErr: The COFF file you are trying to load is linked with a memory map that exceeds the maximum memory space allowed by the WE DSP32C chip (2^24).GDSP CoffSectErr: Found an unimplemented section flag in the COFF file.
+371338:17fff8 GPIB EADR: GPIB Controller not addressed correctly.ALabVIEW: End of file.
+433978:ec182 DSP AddrSpaceErr: The COFF file you are trying to load is linked with a memory map that exceeds the maximum memory space allowed by the WE DSP32C chip (2^24).GDSP CoffSectErr: Found an unimplemented section flag in the COFF file.
+434039:f3c1b GPIB EADR: GPIB Controller not addressed correctly.ALabVIEW: End of file.
+469957:fb703 DSP AddrSpaceErr: The COFF file you are trying to load is linked with a memory map that exceeds the maximum memory space allowed by the WE DSP32C chip (2^24).GDSP CoffSectErr: Found an unimplemented section flag in the COFF file.
+470018:10319c GPIB EADR: GPIB Controller not addressed correctly.ALabVIEW: End of file.
+503787:1d9500 DSP AddrSpaceErr: The COFF file you are trying to load is linked with a memory map that exceeds the maximum memory space allowed by the WE DSP32C chip (2^24).GDSP CoffSectErr: Found an unimplemented section flag in the COFF file.
+503848:1e0f99 GPIB EADR: GPIB Controller not addressed correctly.ALabVIEW: End of file.
+546353:eb092 DSP AddrSpaceErr: The COFF file you are trying to load is linked with a memory map that exceeds the maximum memory space allowed by the WE DSP32C chip (2^24).GDSP CoffSectErr: Found an unimplemented section flag in the COFF file.
+546414:f2b2b GPIB EADR: GPIB Controller not addressed correctly.ALabVIEW: End of file.
+579206:15d3c4 DSP AddrSpaceErr: The COFF file you are trying to load is linked with a memory map that exceeds the maximum memory space allowed by the WE DSP32C chip (2^24).GDSP CoffSectErr: Found an unimplemented section flag in the COFF file.
+579267:164e5d GPIB EADR: GPIB Controller not addressed correctly.ALabVIEW: End of file.

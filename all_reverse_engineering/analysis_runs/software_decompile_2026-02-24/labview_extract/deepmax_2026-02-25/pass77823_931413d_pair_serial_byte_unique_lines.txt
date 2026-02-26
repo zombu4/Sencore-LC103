@@ -1,0 +1,42 @@
+57210:212661 -Serial Poll Byte Lost
+58008:22065b -Serial Poll Byte Lost
+102479:4cdd66 GPIB ESTB: Serial poll byte queue overflow.4LabVIEW: Image not found.
+102515:4ce745 GPIB SPTMO: Serial port timeout; bytes not received at serial port.
+227601:536b9 -Serial Poll Byte Lost
+228415:61947 -Serial Poll Byte Lost
+260912:24693e GPIB ESTB: Serial poll byte queue overflow.4LabVIEW: Image not found.
+260948:24731d GPIB SPTMO: Serial port timeout; bytes not received at serial port.
+294084:20a4a -Serial Poll Byte Lost
+294910:2ec94 -Serial Poll Byte Lost
+314920:16450f GPIB ESTB: Serial poll byte queue overflow.4LabVIEW: Image not found.
+314956:164eee GPIB SPTMO: Serial port timeout; bytes not received at serial port.
+326251:1fd42 -Serial Poll Byte Lost
+327104:2df7c -Serial Poll Byte Lost
+341397:103adf GPIB ESTB: Serial poll byte queue overflow.4LabVIEW: Image not found.
+341433:1044be GPIB SPTMO: Serial port timeout; bytes not received at serial port.
+349046:1e979 -Serial Poll Byte Lost
+349860:2cc07 -Serial Poll Byte Lost
+371350:180360 GPIB ESTB: Serial poll byte queue overflow.4LabVIEW: Image not found.
+371386:180d3f GPIB SPTMO: Serial port timeout; bytes not received at serial port.
+419713:1e8be -Serial Poll Byte Lost
+420539:2cb08 -Serial Poll Byte Lost
+434051:f3f83 GPIB ESTB: Serial poll byte queue overflow.4LabVIEW: Image not found.
+434087:f4962 GPIB SPTMO: Serial port timeout; bytes not received at serial port.
+454550:1d18e -Serial Poll Byte Lost
+455403:2b3c8 -Serial Poll Byte Lost
+470030:103504 GPIB ESTB: Serial poll byte queue overflow.4LabVIEW: Image not found.
+470066:103ee3 GPIB SPTMO: Serial port timeout; bytes not received at serial port.
+478262:1e979 -Serial Poll Byte Lost
+479076:2cc07 -Serial Poll Byte Lost
+503860:1e1301 GPIB ESTB: Serial poll byte queue overflow.4LabVIEW: Image not found.
+503896:1e1ce0 GPIB SPTMO: Serial port timeout; bytes not received at serial port.
+532181:1e8be -Serial Poll Byte Lost
+533007:2cb08 -Serial Poll Byte Lost
+546426:f2e93 GPIB ESTB: Serial poll byte queue overflow.4LabVIEW: Image not found.
+546462:f3872 GPIB SPTMO: Serial port timeout; bytes not received at serial port.
+562466:1d18e -Serial Poll Byte Lost
+563319:2b3c8 -Serial Poll Byte Lost
+579279:1651c5 GPIB ESTB: Serial poll byte queue overflow.4LabVIEW: Image not found.
+579315:165ba4 GPIB SPTMO: Serial port timeout; bytes not received at serial port.
+582985:1e8f1 -Serial Poll Byte Lost
+583799:2cb7f -Serial Poll Byte Lost

@@ -1,0 +1,27 @@
+48275:166e00 If this option is set, LabVIEW will not prompt for a user name when launched. The user name will be set to the name entered in the LabVIEW Registration.
+48276:166ea0 If this option is set, LabVIEW will not prompt for a user name when launched. The user name will be set to the system user name.
+50264:17dc3f -Login automatically with the system user name
+50266:17dcb4 -Login automatically with the system user name
+99491:4918d4 wscode is the identification number of the error. Use the General Error Handler.vi to get a description of the error.vrsource identifies where the error occurred and is usually the name of the function or VI that produced the error.
+101603:4b7834 source. In case of an error, most VIs that use the error in and error out clusters set source to the name of the VI or function that produced the error.
+101610:4b7a4c source. In case of an error, most VIs that use the error in and error out clusters set source to the name of the VI or function that produced the error.
+257821:208200 wscode is the identification number of the error. Use the General Error Handler.vi to get a description of the error.vrsource identifies where the error occurred and is usually the name of the function or VI that produced the error.
+260036:23040c source. In case of an error, most VIs that use the error in and error out clusters set source to the name of the VI or function that produced the error.
+260043:230624 source. In case of an error, most VIs that use the error in and error out clusters set source to the name of the VI or function that produced the error.
+314024:14e029 source. In case of an error, most VIs that use the error in and error out clusters set source to the name of the VI or function that produced the error.
+314031:14e241 source. In case of an error, most VIs that use the error in and error out clusters set source to the name of the VI or function that produced the error.
+340507:ed60c source. In case of an error, most VIs that use the error in and error out clusters set source to the name of the VI or function that produced the error.
+340514:ed824 source. In case of an error, most VIs that use the error in and error out clusters set source to the name of the VI or function that produced the error.
+371473:184195 source. In case of an error, most VIs that use the error in and error out clusters set source to the name of the VI or function that produced the error.
+371477:18438d source. In case of an error, most VIs that use the error in and error out clusters set source to the name of the VI or function that produced the error.
+374039:1ae49e wscode is the identification number of the error. Use the General Error Handler.vi to get a description of the error.vrsource identifies where the error occurred and is usually the name of the function or VI that produced the error.
+434174:f7db8 source. In case of an error, most VIs that use the error in and error out clusters set source to the name of the VI or function that produced the error.
+434178:f7fb0 source. In case of an error, most VIs that use the error in and error out clusters set source to the name of the VI or function that produced the error.
+470153:107339 source. In case of an error, most VIs that use the error in and error out clusters set source to the name of the VI or function that produced the error.
+470157:107531 source. In case of an error, most VIs that use the error in and error out clusters set source to the name of the VI or function that produced the error.
+504220:1ea485 source. In case of an error, most VIs that use the error in and error out clusters set source to the name of the VI or function that produced the error.
+504224:1ea756 source. In case of an error, most VIs that use the error in and error out clusters set source to the name of the VI or function that produced the error.
+546549:f6cc8 source. In case of an error, most VIs that use the error in and error out clusters set source to the name of the VI or function that produced the error.
+546553:f6ec0 source. In case of an error, most VIs that use the error in and error out clusters set source to the name of the VI or function that produced the error.
+579639:16e348 source. In case of an error, most VIs that use the error in and error out clusters set source to the name of the VI or function that produced the error.
+579643:16e619 source. In case of an error, most VIs that use the error in and error out clusters set source to the name of the VI or function that produced the error.

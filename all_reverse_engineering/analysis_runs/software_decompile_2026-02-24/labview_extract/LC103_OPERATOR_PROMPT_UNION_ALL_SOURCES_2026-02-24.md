@@ -1,0 +1,847 @@
+# LC103 Operator Prompt Union (All Decompiled Sources)
+
+- Sources scanned:
+  - `/Users/<user>/LC103/software_decompile_2026-02-24/strings/Final_Cal_103FIN.EXE.strings.txt`
+  - `/Users/<user>/LC103/software_decompile_2026-02-24/strings/Source_LV3_1_103f_cal.llb.strings.txt`
+  - `/Users/<user>/LC103/software_decompile_2026-02-24/strings/Source_LV5_1_103f_cal.llb.strings.txt`
+  - `/Users/<user>/LC103/software_decompile_2026-02-24/strings/Source_LV6_103f_cal.llb.strings.txt`
+  - `/Users/<user>/LC103/software_decompile_2026-02-24/strings/Source_lv8_103f_cal.llb.strings.txt`
+- Unique canonical operator lines: `210`
+
+## stage_headers
+- `Calibration Reset`
+  - first_seen: `Final_Cal_103FIN.EXE.strings.txt:41645`
+  - sources: `Final_Cal_103FIN.EXE.strings.txt, Source_LV3_1_103f_cal.llb.strings.txt, Source_LV5_1_103f_cal.llb.strings.txt, Source_LV6_103f_cal.llb.strings.txt`
+  - occurrences: `30`
+- `Calibration Reset]`
+  - first_seen: `Final_Cal_103FIN.EXE.strings.txt:62704`
+  - sources: `Final_Cal_103FIN.EXE.strings.txt, Source_LV3_1_103f_cal.llb.strings.txt, Source_LV5_1_103f_cal.llb.strings.txt`
+  - occurrences: `3`
+- `Calibration Resetf`
+  - first_seen: `Final_Cal_103FIN.EXE.strings.txt:62685`
+  - sources: `Final_Cal_103FIN.EXE.strings.txt, Source_LV3_1_103f_cal.llb.strings.txt, Source_LV5_1_103f_cal.llb.strings.txt`
+  - occurrences: `3`
+- `Calibration ResetT`
+  - first_seen: `Final_Cal_103FIN.EXE.strings.txt:56396`
+  - sources: `Final_Cal_103FIN.EXE.strings.txt, Source_LV3_1_103f_cal.llb.strings.txt, Source_LV5_1_103f_cal.llb.strings.txt`
+  - occurrences: `6`
+- `Calibration ResetW`
+  - first_seen: `Final_Cal_103FIN.EXE.strings.txt:56392`
+  - sources: `Final_Cal_103FIN.EXE.strings.txt, Source_LV3_1_103f_cal.llb.strings.txt, Source_LV5_1_103f_cal.llb.strings.txt`
+  - occurrences: `13`
+- `Calibration ResetY`
+  - first_seen: `Final_Cal_103FIN.EXE.strings.txt:56387`
+  - sources: `Final_Cal_103FIN.EXE.strings.txt, Source_LV3_1_103f_cal.llb.strings.txt, Source_LV5_1_103f_cal.llb.strings.txt`
+  - occurrences: `6`
+- `Calibration Stamp`
+  - first_seen: `Final_Cal_103FIN.EXE.strings.txt:41657`
+  - sources: `Final_Cal_103FIN.EXE.strings.txt, Source_LV3_1_103f_cal.llb.strings.txt, Source_LV5_1_103f_cal.llb.strings.txt, Source_LV6_103f_cal.llb.strings.txt`
+  - occurrences: `26`
+- `Calibration Stamp\`
+  - first_seen: `Final_Cal_103FIN.EXE.strings.txt:62695`
+  - sources: `Final_Cal_103FIN.EXE.strings.txt, Source_LV3_1_103f_cal.llb.strings.txt, Source_LV5_1_103f_cal.llb.strings.txt`
+  - occurrences: `3`
+- `Calibration StampW`
+  - first_seen: `Final_Cal_103FIN.EXE.strings.txt:62757`
+  - sources: `Final_Cal_103FIN.EXE.strings.txt, Source_LV3_1_103f_cal.llb.strings.txt, Source_LV5_1_103f_cal.llb.strings.txt`
+  - occurrences: `7`
+- `Calibration Successful!!`
+  - first_seen: `Final_Cal_103FIN.EXE.strings.txt:95718`
+  - sources: `Final_Cal_103FIN.EXE.strings.txt, Source_LV3_1_103f_cal.llb.strings.txt, Source_LV5_1_103f_cal.llb.strings.txt, Source_LV6_103f_cal.llb.strings.txt`
+  - occurrences: `4`
+- `Calibration Successful!!W`
+  - first_seen: `Final_Cal_103FIN.EXE.strings.txt:95363`
+  - sources: `Final_Cal_103FIN.EXE.strings.txt, Source_LV3_1_103f_cal.llb.strings.txt, Source_LV5_1_103f_cal.llb.strings.txt`
+  - occurrences: `3`
+- `Capacitance Calibration`
+  - first_seen: `Final_Cal_103FIN.EXE.strings.txt:41648`
+  - sources: `Final_Cal_103FIN.EXE.strings.txt, Source_LV3_1_103f_cal.llb.strings.txt, Source_LV5_1_103f_cal.llb.strings.txt, Source_LV6_103f_cal.llb.strings.txt`
+  - occurrences: `32`
+- `Capacitance Calibration]`
+  - first_seen: `Final_Cal_103FIN.EXE.strings.txt:62684`
+  - sources: `Final_Cal_103FIN.EXE.strings.txt, Source_LV3_1_103f_cal.llb.strings.txt, Source_LV5_1_103f_cal.llb.strings.txt`
+  - occurrences: `3`
+- `Capacitance Calibrationb`
+  - first_seen: `Final_Cal_103FIN.EXE.strings.txt:43452`
+  - sources: `Final_Cal_103FIN.EXE.strings.txt, Source_LV3_1_103f_cal.llb.strings.txt, Source_LV5_1_103f_cal.llb.strings.txt`
+  - occurrences: `3`
+- `Capacitance CalibrationV`
+  - first_seen: `Final_Cal_103FIN.EXE.strings.txt:62714`
+  - sources: `Final_Cal_103FIN.EXE.strings.txt, Source_LV3_1_103f_cal.llb.strings.txt, Source_LV5_1_103f_cal.llb.strings.txt`
+  - occurrences: `3`
+- `Capacitance CalibrationW`
+  - first_seen: `Final_Cal_103FIN.EXE.strings.txt:62800`
+  - sources: `Final_Cal_103FIN.EXE.strings.txt, Source_LV3_1_103f_cal.llb.strings.txt, Source_LV5_1_103f_cal.llb.strings.txt`
+  - occurrences: `9`
+- `Current Source Calibration`
+  - first_seen: `Final_Cal_103FIN.EXE.strings.txt:41646`
+  - sources: `Final_Cal_103FIN.EXE.strings.txt, Source_LV3_1_103f_cal.llb.strings.txt, Source_LV5_1_103f_cal.llb.strings.txt, Source_LV6_103f_cal.llb.strings.txt`
+  - occurrences: `25`
+- `Current Source Calibration?`
+  - first_seen: `Final_Cal_103FIN.EXE.strings.txt:84265`
+  - sources: `Final_Cal_103FIN.EXE.strings.txt, Source_LV3_1_103f_cal.llb.strings.txt`
+  - occurrences: `2`
+- `Current Source Calibration\`
+  - first_seen: `Final_Cal_103FIN.EXE.strings.txt:62686`
+  - sources: `Final_Cal_103FIN.EXE.strings.txt, Source_LV3_1_103f_cal.llb.strings.txt, Source_LV5_1_103f_cal.llb.strings.txt`
+  - occurrences: `3`
+- `Current Source Calibration``
+  - first_seen: `Final_Cal_103FIN.EXE.strings.txt:84102`
+  - sources: `Final_Cal_103FIN.EXE.strings.txt, Source_LV3_1_103f_cal.llb.strings.txt, Source_LV5_1_103f_cal.llb.strings.txt`
+  - occurrences: `3`
+- `Current Source CalibrationfConnect the UUT and/or DVM leads to`
+  - first_seen: `Final_Cal_103FIN.EXE.strings.txt:62987`
+  - sources: `Final_Cal_103FIN.EXE.strings.txt, Source_LV3_1_103f_cal.llb.strings.txt, Source_LV5_1_103f_cal.llb.strings.txt, Source_LV6_103f_cal.llb.strings.txt`
+  - occurrences: `4`
+- `Current Source CalibrationH`
+  - first_seen: `Final_Cal_103FIN.EXE.strings.txt:84123`
+  - sources: `Final_Cal_103FIN.EXE.strings.txt, Source_LV3_1_103f_cal.llb.strings.txt, Source_LV5_1_103f_cal.llb.strings.txt, Source_LV6_103f_cal.llb.strings.txt`
+  - occurrences: `4`
+- `Current Source CalibrationW`
+  - first_seen: `Final_Cal_103FIN.EXE.strings.txt:62796`
+  - sources: `Final_Cal_103FIN.EXE.strings.txt, Source_LV3_1_103f_cal.llb.strings.txt, Source_LV5_1_103f_cal.llb.strings.txt`
+  - occurrences: `6`
+- `D/A Test`
+  - first_seen: `Final_Cal_103FIN.EXE.strings.txt:41653`
+  - sources: `Final_Cal_103FIN.EXE.strings.txt, Source_LV3_1_103f_cal.llb.strings.txt, Source_LV5_1_103f_cal.llb.strings.txt, Source_LV6_103f_cal.llb.strings.txt`
+  - occurrences: `24`
+- `Gain Calibration`
+  - first_seen: `Final_Cal_103FIN.EXE.strings.txt:41647`
+  - sources: `Final_Cal_103FIN.EXE.strings.txt, Source_LV3_1_103f_cal.llb.strings.txt, Source_LV5_1_103f_cal.llb.strings.txt, Source_LV6_103f_cal.llb.strings.txt`
+  - occurrences: `24`
+- `Gain Calibration" Failed Calibration. Adjusted >10%`
+  - first_seen: `Final_Cal_103FIN.EXE.strings.txt:80286`
+  - sources: `Final_Cal_103FIN.EXE.strings.txt, Source_LV3_1_103f_cal.llb.strings.txt`
+  - occurrences: `2`
+- `Gain Calibrationb`
+  - first_seen: `Final_Cal_103FIN.EXE.strings.txt:62687`
+  - sources: `Final_Cal_103FIN.EXE.strings.txt, Source_LV3_1_103f_cal.llb.strings.txt, Source_LV5_1_103f_cal.llb.strings.txt`
+  - occurrences: `3`
+- `Gain CalibrationfConnect the UUT and/or DVM leads to`
+  - first_seen: `Final_Cal_103FIN.EXE.strings.txt:62991`
+  - sources: `Final_Cal_103FIN.EXE.strings.txt, Source_LV3_1_103f_cal.llb.strings.txt`
+  - occurrences: `2`
+- `Gain Calibrationn`
+  - first_seen: `Final_Cal_103FIN.EXE.strings.txt:80165`
+  - sources: `Final_Cal_103FIN.EXE.strings.txt, Source_LV3_1_103f_cal.llb.strings.txt, Source_LV5_1_103f_cal.llb.strings.txt`
+  - occurrences: `3`
+- `Gain CalibrationU`
+  - first_seen: `Final_Cal_103FIN.EXE.strings.txt:80252`
+  - sources: `Final_Cal_103FIN.EXE.strings.txt, Source_LV3_1_103f_cal.llb.strings.txt`
+  - occurrences: `2`
+- `Gain CalibrationV`
+  - first_seen: `Final_Cal_103FIN.EXE.strings.txt:62696`
+  - sources: `Final_Cal_103FIN.EXE.strings.txt, Source_LV3_1_103f_cal.llb.strings.txt, Source_LV5_1_103f_cal.llb.strings.txt, Source_LV6_103f_cal.llb.strings.txt`
+  - occurrences: `10`
+- `Gain CalibrationW`
+  - first_seen: `Source_LV5_1_103f_cal.llb.strings.txt:67203`
+  - sources: `Source_LV5_1_103f_cal.llb.strings.txt`
+- `Inductance Calibration`
+  - first_seen: `Final_Cal_103FIN.EXE.strings.txt:41650`
+  - sources: `Final_Cal_103FIN.EXE.strings.txt, Source_LV3_1_103f_cal.llb.strings.txt, Source_LV5_1_103f_cal.llb.strings.txt, Source_LV6_103f_cal.llb.strings.txt`
+  - occurrences: `30`
+- `Inductance Calibration@M`
+  - first_seen: `Final_Cal_103FIN.EXE.strings.txt:62999`
+  - sources: `Final_Cal_103FIN.EXE.strings.txt, Source_LV3_1_103f_cal.llb.strings.txt`
+  - occurrences: `2`
+- `Inductance Calibration[`
+  - first_seen: `Final_Cal_103FIN.EXE.strings.txt:62765`
+  - sources: `Final_Cal_103FIN.EXE.strings.txt, Source_LV3_1_103f_cal.llb.strings.txt, Source_LV5_1_103f_cal.llb.strings.txt`
+  - occurrences: `3`
+- `Inductance Calibration^`
+  - first_seen: `Final_Cal_103FIN.EXE.strings.txt:62688`
+  - sources: `Final_Cal_103FIN.EXE.strings.txt, Source_LV3_1_103f_cal.llb.strings.txt, Source_LV5_1_103f_cal.llb.strings.txt`
+  - occurrences: `3`
+- `Inductance CalibrationMD`
+  - first_seen: `Final_Cal_103FIN.EXE.strings.txt:95450`
+  - sources: `Final_Cal_103FIN.EXE.strings.txt, Source_LV3_1_103f_cal.llb.strings.txt, Source_LV5_1_103f_cal.llb.strings.txt`
+  - occurrences: `3`
+- `Inductance CalibrationW`
+  - first_seen: `Final_Cal_103FIN.EXE.strings.txt:43453`
+  - sources: `Final_Cal_103FIN.EXE.strings.txt, Source_LV3_1_103f_cal.llb.strings.txt, Source_LV5_1_103f_cal.llb.strings.txt`
+  - occurrences: `9`
+- `Leakage Current Test`
+  - first_seen: `Final_Cal_103FIN.EXE.strings.txt:41655`
+  - sources: `Final_Cal_103FIN.EXE.strings.txt, Source_LV3_1_103f_cal.llb.strings.txt, Source_LV5_1_103f_cal.llb.strings.txt, Source_LV6_103f_cal.llb.strings.txt`
+  - occurrences: `26`
+- `Leakage Current Test``
+  - first_seen: `Final_Cal_103FIN.EXE.strings.txt:62693`
+  - sources: `Final_Cal_103FIN.EXE.strings.txt, Source_LV3_1_103f_cal.llb.strings.txt, Source_LV5_1_103f_cal.llb.strings.txt`
+  - occurrences: `3`
+- `Leakage Current TestfConnect the UUT and/or DVM leads to`
+  - first_seen: `Final_Cal_103FIN.EXE.strings.txt:63015`
+  - sources: `Final_Cal_103FIN.EXE.strings.txt, Source_LV3_1_103f_cal.llb.strings.txt`
+  - occurrences: `2`
+- `Leakage Current TestHDl`
+  - first_seen: `Source_LV6_103f_cal.llb.strings.txt:25940`
+  - sources: `Source_LV6_103f_cal.llb.strings.txt`
+- `Leakage Current TestPD`
+  - first_seen: `Final_Cal_103FIN.EXE.strings.txt:82677`
+  - sources: `Final_Cal_103FIN.EXE.strings.txt, Source_LV3_1_103f_cal.llb.strings.txt, Source_LV5_1_103f_cal.llb.strings.txt`
+  - occurrences: `3`
+- `Leakage Current TestV`
+  - first_seen: `Final_Cal_103FIN.EXE.strings.txt:62751`
+  - sources: `Final_Cal_103FIN.EXE.strings.txt, Source_LV3_1_103f_cal.llb.strings.txt, Source_LV5_1_103f_cal.llb.strings.txt`
+  - occurrences: `3`
+- `Leakage Current TestW`
+  - first_seen: `Final_Cal_103FIN.EXE.strings.txt:62826`
+  - sources: `Final_Cal_103FIN.EXE.strings.txt, Source_LV3_1_103f_cal.llb.strings.txt, Source_LV5_1_103f_cal.llb.strings.txt`
+  - occurrences: `6`
+- `Leakage Current TestY`
+  - first_seen: `Final_Cal_103FIN.EXE.strings.txt:82684`
+  - sources: `Final_Cal_103FIN.EXE.strings.txt, Source_LV3_1_103f_cal.llb.strings.txt, Source_LV5_1_103f_cal.llb.strings.txt`
+  - occurrences: `3`
+- `Leakage Voltage Calibration`
+  - first_seen: `Final_Cal_103FIN.EXE.strings.txt:41652`
+  - sources: `Final_Cal_103FIN.EXE.strings.txt, Source_LV3_1_103f_cal.llb.strings.txt, Source_LV5_1_103f_cal.llb.strings.txt, Source_LV6_103f_cal.llb.strings.txt`
+  - occurrences: `23`
+- `Leakage Voltage CalibrationfConnect the UUT and/or DVM leads to`
+  - first_seen: `Final_Cal_103FIN.EXE.strings.txt:63003`
+  - sources: `Final_Cal_103FIN.EXE.strings.txt, Source_LV3_1_103f_cal.llb.strings.txt, Source_LV5_1_103f_cal.llb.strings.txt, Source_LV6_103f_cal.llb.strings.txt`
+  - occurrences: `4`
+- `Leakage Voltage CalibrationT`
+  - first_seen: `Final_Cal_103FIN.EXE.strings.txt:62690`
+  - sources: `Final_Cal_103FIN.EXE.strings.txt, Source_LV3_1_103f_cal.llb.strings.txt, Source_LV5_1_103f_cal.llb.strings.txt`
+  - occurrences: `3`
+- `Leakage Voltage CalibrationV`
+  - first_seen: `Final_Cal_103FIN.EXE.strings.txt:85781`
+  - sources: `Final_Cal_103FIN.EXE.strings.txt, Source_LV3_1_103f_cal.llb.strings.txt, Source_LV5_1_103f_cal.llb.strings.txt, Source_LV6_103f_cal.llb.strings.txt`
+  - occurrences: `4`
+- `Leakage Voltage CalibrationW`
+  - first_seen: `Final_Cal_103FIN.EXE.strings.txt:62813`
+  - sources: `Final_Cal_103FIN.EXE.strings.txt, Source_LV3_1_103f_cal.llb.strings.txt, Source_LV5_1_103f_cal.llb.strings.txt`
+  - occurrences: `6`
+- `Leakage Voltage Test`
+  - first_seen: `Final_Cal_103FIN.EXE.strings.txt:41654`
+  - sources: `Final_Cal_103FIN.EXE.strings.txt, Source_LV3_1_103f_cal.llb.strings.txt, Source_LV5_1_103f_cal.llb.strings.txt, Source_LV6_103f_cal.llb.strings.txt`
+  - occurrences: `24`
+- `Leakage Voltage Test'`
+  - first_seen: `Final_Cal_103FIN.EXE.strings.txt:81562`
+  - sources: `Final_Cal_103FIN.EXE.strings.txt, Source_LV3_1_103f_cal.llb.strings.txt`
+  - occurrences: `2`
+- `Leakage Voltage Test``
+  - first_seen: `Final_Cal_103FIN.EXE.strings.txt:62692`
+  - sources: `Final_Cal_103FIN.EXE.strings.txt, Source_LV3_1_103f_cal.llb.strings.txt, Source_LV5_1_103f_cal.llb.strings.txt`
+  - occurrences: `3`
+- `Leakage Voltage TestfConnect the UUT and/or DVM leads to`
+  - first_seen: `Final_Cal_103FIN.EXE.strings.txt:63011`
+  - sources: `Final_Cal_103FIN.EXE.strings.txt, Source_LV3_1_103f_cal.llb.strings.txt, Source_LV5_1_103f_cal.llb.strings.txt, Source_LV6_103f_cal.llb.strings.txt`
+  - occurrences: `4`
+- `Leakage Voltage TestH`
+  - first_seen: `Final_Cal_103FIN.EXE.strings.txt:81422`
+  - sources: `Final_Cal_103FIN.EXE.strings.txt, Source_LV3_1_103f_cal.llb.strings.txt, Source_LV5_1_103f_cal.llb.strings.txt, Source_LV6_103f_cal.llb.strings.txt`
+  - occurrences: `4`
+- `Leakage Voltage TestV`
+  - first_seen: `Final_Cal_103FIN.EXE.strings.txt:62744`
+  - sources: `Final_Cal_103FIN.EXE.strings.txt, Source_LV3_1_103f_cal.llb.strings.txt, Source_LV5_1_103f_cal.llb.strings.txt`
+  - occurrences: `3`
+- `Leakage Voltage TestW`
+  - first_seen: `Final_Cal_103FIN.EXE.strings.txt:62822`
+  - sources: `Final_Cal_103FIN.EXE.strings.txt, Source_LV3_1_103f_cal.llb.strings.txt, Source_LV5_1_103f_cal.llb.strings.txt`
+  - occurrences: `3`
+- `Leakage Voltage TestWD`
+  - first_seen: `Source_LV5_1_103f_cal.llb.strings.txt:68415`
+  - sources: `Source_LV5_1_103f_cal.llb.strings.txt`
+- `Leakage Voltage TestY`
+  - first_seen: `Final_Cal_103FIN.EXE.strings.txt:81428`
+  - sources: `Final_Cal_103FIN.EXE.strings.txt, Source_LV3_1_103f_cal.llb.strings.txt, Source_LV5_1_103f_cal.llb.strings.txt`
+  - occurrences: `3`
+- `Ringer Calibration`
+  - first_seen: `Final_Cal_103FIN.EXE.strings.txt:41651`
+  - sources: `Final_Cal_103FIN.EXE.strings.txt, Source_LV3_1_103f_cal.llb.strings.txt, Source_LV5_1_103f_cal.llb.strings.txt, Source_LV6_103f_cal.llb.strings.txt`
+  - occurrences: `28`
+- `Ringer Calibration\`
+  - first_seen: `Final_Cal_103FIN.EXE.strings.txt:62717`
+  - sources: `Final_Cal_103FIN.EXE.strings.txt, Source_LV3_1_103f_cal.llb.strings.txt, Source_LV5_1_103f_cal.llb.strings.txt`
+  - occurrences: `3`
+- `Ringer Calibration``
+  - first_seen: `Final_Cal_103FIN.EXE.strings.txt:67464`
+  - sources: `Final_Cal_103FIN.EXE.strings.txt, Source_LV3_1_103f_cal.llb.strings.txt, Source_LV5_1_103f_cal.llb.strings.txt`
+  - occurrences: `3`
+- `Ringer Calibrationg`
+  - first_seen: `Final_Cal_103FIN.EXE.strings.txt:62689`
+  - sources: `Final_Cal_103FIN.EXE.strings.txt, Source_LV3_1_103f_cal.llb.strings.txt, Source_LV5_1_103f_cal.llb.strings.txt`
+  - occurrences: `3`
+- `Ringer CalibrationLConnect the UUT leads to the`
+  - first_seen: `Source_LV5_1_103f_cal.llb.strings.txt:35953`
+  - sources: `Source_LV5_1_103f_cal.llb.strings.txt, Source_LV6_103f_cal.llb.strings.txt`
+  - occurrences: `2`
+- `Ringer CalibrationW`
+  - first_seen: `Final_Cal_103FIN.EXE.strings.txt:62810`
+  - sources: `Final_Cal_103FIN.EXE.strings.txt, Source_LV3_1_103f_cal.llb.strings.txt, Source_LV5_1_103f_cal.llb.strings.txt`
+  - occurrences: `4`
+- `Set Cal Date`
+  - first_seen: `Final_Cal_103FIN.EXE.strings.txt:70249`
+  - sources: `Final_Cal_103FIN.EXE.strings.txt, Source_LV3_1_103f_cal.llb.strings.txt, Source_LV5_1_103f_cal.llb.strings.txt, Source_LV6_103f_cal.llb.strings.txt`
+  - occurrences: `4`
+- `Set Cal Date``
+  - first_seen: `Final_Cal_103FIN.EXE.strings.txt:70171`
+  - sources: `Final_Cal_103FIN.EXE.strings.txt, Source_LV3_1_103f_cal.llb.strings.txt, Source_LV5_1_103f_cal.llb.strings.txt`
+  - occurrences: `3`
+- `Set Calibration Date`
+  - first_seen: `Final_Cal_103FIN.EXE.strings.txt:41656`
+  - sources: `Final_Cal_103FIN.EXE.strings.txt, Source_LV3_1_103f_cal.llb.strings.txt, Source_LV5_1_103f_cal.llb.strings.txt, Source_LV6_103f_cal.llb.strings.txt`
+  - occurrences: `26`
+- `Set Calibration Date]`
+  - first_seen: `Final_Cal_103FIN.EXE.strings.txt:62694`
+  - sources: `Final_Cal_103FIN.EXE.strings.txt, Source_LV3_1_103f_cal.llb.strings.txt, Source_LV5_1_103f_cal.llb.strings.txt`
+  - occurrences: `3`
+- `Set Calibration DateV`
+  - first_seen: `Final_Cal_103FIN.EXE.strings.txt:62754`
+  - sources: `Final_Cal_103FIN.EXE.strings.txt, Source_LV3_1_103f_cal.llb.strings.txt, Source_LV5_1_103f_cal.llb.strings.txt`
+  - occurrences: `3`
+- `Set Calibration DateW`
+  - first_seen: `Final_Cal_103FIN.EXE.strings.txt:62829`
+  - sources: `Final_Cal_103FIN.EXE.strings.txt, Source_LV3_1_103f_cal.llb.strings.txt, Source_LV5_1_103f_cal.llb.strings.txt`
+  - occurrences: `4`
+- `Software Rev. Check`
+  - first_seen: `Final_Cal_103FIN.EXE.strings.txt:41642`
+  - sources: `Final_Cal_103FIN.EXE.strings.txt, Source_LV3_1_103f_cal.llb.strings.txt, Source_LV5_1_103f_cal.llb.strings.txt, Source_LV6_103f_cal.llb.strings.txt`
+  - occurrences: `30`
+- `Software Rev. Check_`
+  - first_seen: `Final_Cal_103FIN.EXE.strings.txt:62874`
+  - sources: `Final_Cal_103FIN.EXE.strings.txt, Source_LV3_1_103f_cal.llb.strings.txt, Source_LV5_1_103f_cal.llb.strings.txt`
+  - occurrences: `3`
+- `Software Rev. Check``
+  - first_seen: `Final_Cal_103FIN.EXE.strings.txt:63839`
+  - sources: `Final_Cal_103FIN.EXE.strings.txt, Source_LV3_1_103f_cal.llb.strings.txt, Source_LV5_1_103f_cal.llb.strings.txt`
+  - occurrences: `3`
+- `Software Rev. CheckW`
+  - first_seen: `Final_Cal_103FIN.EXE.strings.txt:62871`
+  - sources: `Final_Cal_103FIN.EXE.strings.txt, Source_LV3_1_103f_cal.llb.strings.txt, Source_LV5_1_103f_cal.llb.strings.txt`
+  - occurrences: `7`
+
+## connections
+- `++,Make sure the red UUT lead is not connected.RD`
+  - first_seen: `Source_LV5_1_103f_cal.llb.strings.txt:48779`
+  - sources: `Source_LV5_1_103f_cal.llb.strings.txt`
+- `++,Make sure the red UUT lead is not connected.W`
+  - first_seen: `Source_LV5_1_103f_cal.llb.strings.txt:48800`
+  - sources: `Source_LV5_1_103f_cal.llb.strings.txt`
+- `,,-Make sure the UUT leads are shorted together.W`
+  - first_seen: `Final_Cal_103FIN.EXE.strings.txt:50201`
+  - sources: `Final_Cal_103FIN.EXE.strings.txt, Source_LV3_1_103f_cal.llb.strings.txt, Source_LV5_1_103f_cal.llb.strings.txt`
+  - occurrences: `3`
+- `,Make sure the red UUT lead is not connected.`
+  - first_seen: `Final_Cal_103FIN.EXE.strings.txt:51394`
+  - sources: `Final_Cal_103FIN.EXE.strings.txt, Source_LV3_1_103f_cal.llb.strings.txt, Source_LV5_1_103f_cal.llb.strings.txt, Source_LV6_103f_cal.llb.strings.txt`
+  - occurrences: `4`
+- `,Make sure the red UUT lead is not connected.RD`
+  - first_seen: `Final_Cal_103FIN.EXE.strings.txt:51323`
+  - sources: `Final_Cal_103FIN.EXE.strings.txt, Source_LV3_1_103f_cal.llb.strings.txt`
+  - occurrences: `2`
+- `,Make sure the red UUT lead is not connected.W`
+  - first_seen: `Final_Cal_103FIN.EXE.strings.txt:51343`
+  - sources: `Final_Cal_103FIN.EXE.strings.txt, Source_LV3_1_103f_cal.llb.strings.txt`
+  - occurrences: `2`
+- `/A TestfConnect the UUT and/or DVM leads to`
+  - first_seen: `Final_Cal_103FIN.EXE.strings.txt:63007`
+  - sources: `Final_Cal_103FIN.EXE.strings.txt, Source_LV3_1_103f_cal.llb.strings.txt, Source_LV5_1_103f_cal.llb.strings.txt, Source_LV6_103f_cal.llb.strings.txt`
+  - occurrences: `4`
+- `333Short the UUT leads to the`
+  - first_seen: `Final_Cal_103FIN.EXE.strings.txt:53841`
+  - sources: `Final_Cal_103FIN.EXE.strings.txt, Source_LV3_1_103f_cal.llb.strings.txt, Source_LV5_1_103f_cal.llb.strings.txt, Source_LV6_103f_cal.llb.strings.txt, Source_lv8_103f_cal.llb.strings.txt`
+  - occurrences: `20`
+- `3Short the UUT leads to the`
+  - first_seen: `Final_Cal_103FIN.EXE.strings.txt:53971`
+  - sources: `Final_Cal_103FIN.EXE.strings.txt, Source_LV3_1_103f_cal.llb.strings.txt, Source_LV5_1_103f_cal.llb.strings.txt, Source_LV6_103f_cal.llb.strings.txt, Source_lv8_103f_cal.llb.strings.txt`
+  - occurrences: `14`
+- `6BNow connect the red lead to the`
+  - first_seen: `Final_Cal_103FIN.EXE.strings.txt:53968`
+  - sources: `Final_Cal_103FIN.EXE.strings.txt, Source_LV3_1_103f_cal.llb.strings.txt`
+  - occurrences: `2`
+- `6FMELDKCJBI@GAHBNow connect the red lead to the`
+  - first_seen: `Source_LV3_1_103f_cal.llb.strings.txt:77382`
+  - sources: `Source_LV3_1_103f_cal.llb.strings.txt, Source_LV5_1_103f_cal.llb.strings.txt, Source_LV6_103f_cal.llb.strings.txt, Source_lv8_103f_cal.llb.strings.txt`
+  - occurrences: `4`
+- `77GNow connect the red lead to the`
+  - first_seen: `Source_LV5_1_103f_cal.llb.strings.txt:45437`
+  - sources: `Source_LV5_1_103f_cal.llb.strings.txt`
+  - occurrences: `2`
+- `99HConnect the black UUT lead to the`
+  - first_seen: `Source_LV5_1_103f_cal.llb.strings.txt:45435`
+  - sources: `Source_LV5_1_103f_cal.llb.strings.txt`
+  - occurrences: `2`
+- `:-Make sure the UUT leads are shorted together.`
+  - first_seen: `Source_LV5_1_103f_cal.llb.strings.txt:50302`
+  - sources: `Source_LV5_1_103f_cal.llb.strings.txt, Source_LV6_103f_cal.llb.strings.txt`
+  - occurrences: `2`
+- `===Short the UUT leads to the`
+  - first_seen: `Final_Cal_103FIN.EXE.strings.txt:53815`
+  - sources: `Final_Cal_103FIN.EXE.strings.txt, Source_LV3_1_103f_cal.llb.strings.txt, Source_LV5_1_103f_cal.llb.strings.txt, Source_LV6_103f_cal.llb.strings.txt, Source_lv8_103f_cal.llb.strings.txt`
+  - occurrences: `38`
+- `=Short the UUT leads to the`
+  - first_seen: `Final_Cal_103FIN.EXE.strings.txt:53978`
+  - sources: `Final_Cal_103FIN.EXE.strings.txt, Source_LV3_1_103f_cal.llb.strings.txt, Source_LV5_1_103f_cal.llb.strings.txt, Source_LV6_103f_cal.llb.strings.txt, Source_lv8_103f_cal.llb.strings.txt`
+  - occurrences: `12`
+- `@@cShort the UUT leads to the Capacitance Decade box(LTerminal).`
+  - first_seen: `Final_Cal_103FIN.EXE.strings.txt:72965`
+  - sources: `Final_Cal_103FIN.EXE.strings.txt, Source_LV3_1_103f_cal.llb.strings.txt, Source_LV5_1_103f_cal.llb.strings.txt`
+  - occurrences: `3`
+- `ARcShort the UUT leads to the Capacitance Decade box(LTerminal).`
+  - first_seen: `Final_Cal_103FIN.EXE.strings.txt:73086`
+  - sources: `Final_Cal_103FIN.EXE.strings.txt, Source_LV3_1_103f_cal.llb.strings.txt`
+  - occurrences: `2`
+- `Capacitance Decade Box (High Terminal).HConnect the black UUT lead to the`
+  - first_seen: `Final_Cal_103FIN.EXE.strings.txt:55109`
+  - sources: `Final_Cal_103FIN.EXE.strings.txt, Source_LV3_1_103f_cal.llb.strings.txt, Source_LV5_1_103f_cal.llb.strings.txt, Source_LV6_103f_cal.llb.strings.txt`
+  - occurrences: `6`
+- `Capacitance Decade Box (Low Terminal).GNow connect the red lead to the`
+  - first_seen: `Source_LV5_1_103f_cal.llb.strings.txt:45300`
+  - sources: `Source_LV5_1_103f_cal.llb.strings.txt, Source_LV6_103f_cal.llb.strings.txt`
+  - occurrences: `2`
+- `Connect the '+' DVM lead to TP1006`
+  - first_seen: `Final_Cal_103FIN.EXE.strings.txt:66329`
+  - sources: `Final_Cal_103FIN.EXE.strings.txt, Source_LV3_1_103f_cal.llb.strings.txt, Source_LV5_1_103f_cal.llb.strings.txt, Source_LV6_103f_cal.llb.strings.txt`
+  - occurrences: `7`
+- `DKCJBI@GAHBNow connect the red lead to the`
+  - first_seen: `Final_Cal_103FIN.EXE.strings.txt:53975`
+  - sources: `Final_Cal_103FIN.EXE.strings.txt, Source_LV3_1_103f_cal.llb.strings.txt`
+  - occurrences: `2`
+- `fConnect the UUT and/or DVM leads to`
+  - first_seen: `Final_Cal_103FIN.EXE.strings.txt:62678`
+  - sources: `Final_Cal_103FIN.EXE.strings.txt, Source_LV3_1_103f_cal.llb.strings.txt, Source_LV5_1_103f_cal.llb.strings.txt, Source_LV6_103f_cal.llb.strings.txt`
+  - occurrences: `22`
+- `GNow connect the red lead to the`
+  - first_seen: `Final_Cal_103FIN.EXE.strings.txt:55017`
+  - sources: `Final_Cal_103FIN.EXE.strings.txt, Source_LV3_1_103f_cal.llb.strings.txt, Source_LV5_1_103f_cal.llb.strings.txt, Source_LV6_103f_cal.llb.strings.txt`
+  - occurrences: `6`
+- `HConnect the black UUT lead to the`
+  - first_seen: `Final_Cal_103FIN.EXE.strings.txt:55015`
+  - sources: `Final_Cal_103FIN.EXE.strings.txt, Source_LV3_1_103f_cal.llb.strings.txt, Source_LV5_1_103f_cal.llb.strings.txt, Source_LV6_103f_cal.llb.strings.txt`
+  - occurrences: `6`
+- `Inductance Decade Box (H Terminal)3Short the UUT leads to the`
+  - first_seen: `Final_Cal_103FIN.EXE.strings.txt:53986`
+  - sources: `Final_Cal_103FIN.EXE.strings.txt, Source_LV3_1_103f_cal.llb.strings.txt, Source_LV5_1_103f_cal.llb.strings.txt, Source_LV6_103f_cal.llb.strings.txt, Source_lv8_103f_cal.llb.strings.txt`
+  - occurrences: `6`
+- `Inductance Decade Box (H Terminal)=Short the UUT leads to the`
+  - first_seen: `Final_Cal_103FIN.EXE.strings.txt:53969`
+  - sources: `Final_Cal_103FIN.EXE.strings.txt, Source_LV3_1_103f_cal.llb.strings.txt, Source_LV5_1_103f_cal.llb.strings.txt, Source_LV6_103f_cal.llb.strings.txt, Source_lv8_103f_cal.llb.strings.txt`
+  - occurrences: `30`
+- `Inductance Decade Box (H Terminal)BNow connect the red lead to the`
+  - first_seen: `Source_LV5_1_103f_cal.llb.strings.txt:46584`
+  - sources: `Source_LV5_1_103f_cal.llb.strings.txt, Source_LV6_103f_cal.llb.strings.txt`
+  - occurrences: `2`
+- `Inductance Decade Box (L Terminal)=Short the UUT leads to the`
+  - first_seen: `Source_LV5_1_103f_cal.llb.strings.txt:46580`
+  - sources: `Source_LV5_1_103f_cal.llb.strings.txt, Source_LV6_103f_cal.llb.strings.txt`
+  - occurrences: `2`
+- `Inductance Decade Box (L Terminal)BNow connect the red lead to the`
+  - first_seen: `Final_Cal_103FIN.EXE.strings.txt:53979`
+  - sources: `Final_Cal_103FIN.EXE.strings.txt, Source_LV3_1_103f_cal.llb.strings.txt, Source_LV5_1_103f_cal.llb.strings.txt, Source_LV6_103f_cal.llb.strings.txt, Source_lv8_103f_cal.llb.strings.txt`
+  - occurrences: `34`
+- `KSomething seems to be wrong. Make sure the UUT leads are shorted together.`
+  - first_seen: `Final_Cal_103FIN.EXE.strings.txt:50291`
+  - sources: `Final_Cal_103FIN.EXE.strings.txt, Source_LV3_1_103f_cal.llb.strings.txt`
+  - occurrences: `2`
+- `Lead Zero Short Test/ESRKSomething seems to be wrong. Make sure the UUT leads are shorted together.?`
+  - first_seen: `Source_LV5_1_103f_cal.llb.strings.txt:50306`
+  - sources: `Source_LV5_1_103f_cal.llb.strings.txt, Source_LV6_103f_cal.llb.strings.txt`
+  - occurrences: `2`
+- `Low Value Inductance Box3Short the UUT leads to the`
+  - first_seen: `Source_LV5_1_103f_cal.llb.strings.txt:46567`
+  - sources: `Source_LV5_1_103f_cal.llb.strings.txt, Source_LV6_103f_cal.llb.strings.txt`
+  - occurrences: `4`
+- `Make sure the UUT leads are shorted together.`
+  - first_seen: `Final_Cal_103FIN.EXE.strings.txt:50293`
+  - sources: `Final_Cal_103FIN.EXE.strings.txt, Source_LV3_1_103f_cal.llb.strings.txt`
+  - occurrences: `2`
+- `Now connect the red lead to the`
+  - first_seen: `Final_Cal_103FIN.EXE.strings.txt:55108`
+  - sources: `Final_Cal_103FIN.EXE.strings.txt, Source_LV3_1_103f_cal.llb.strings.txt`
+  - occurrences: `4`
+- `omething seems to be wrong. Make sure the UUT leads are shorted together.QD`
+  - first_seen: `Final_Cal_103FIN.EXE.strings.txt:50221`
+  - sources: `Final_Cal_103FIN.EXE.strings.txt, Source_LV3_1_103f_cal.llb.strings.txt, Source_LV5_1_103f_cal.llb.strings.txt`
+  - occurrences: `3`
+- `Press 'Enter' when finished.`
+  - first_seen: `Final_Cal_103FIN.EXE.strings.txt:66332`
+  - sources: `Final_Cal_103FIN.EXE.strings.txt, Source_LV3_1_103f_cal.llb.strings.txt, Source_LV5_1_103f_cal.llb.strings.txt, Source_LV6_103f_cal.llb.strings.txt`
+  - occurrences: `4`
+- `Press 'Enter' when finished.d`
+  - first_seen: `Final_Cal_103FIN.EXE.strings.txt:66389`
+  - sources: `Final_Cal_103FIN.EXE.strings.txt, Source_LV3_1_103f_cal.llb.strings.txt`
+  - occurrences: `2`
+- `Press 'Enter' when finished.H`
+  - first_seen: `Source_LV5_1_103f_cal.llb.strings.txt:36946`
+  - sources: `Source_LV5_1_103f_cal.llb.strings.txt`
+- `Press 'Enter' when ready.`
+  - first_seen: `Final_Cal_103FIN.EXE.strings.txt:62983`
+  - sources: `Final_Cal_103FIN.EXE.strings.txt, Source_LV3_1_103f_cal.llb.strings.txt, Source_LV5_1_103f_cal.llb.strings.txt, Source_LV6_103f_cal.llb.strings.txt`
+  - occurrences: `45`
+- `Press 'Enter' when ready._`
+  - first_seen: `Final_Cal_103FIN.EXE.strings.txt:62680`
+  - sources: `Final_Cal_103FIN.EXE.strings.txt, Source_LV3_1_103f_cal.llb.strings.txt, Source_LV5_1_103f_cal.llb.strings.txt`
+  - occurrences: `3`
+- `Press 'Enter' when ready.cShort the UUT leads to the Capacitance Decade box(LTerminal).`
+  - first_seen: `Source_LV5_1_103f_cal.llb.strings.txt:30532`
+  - sources: `Source_LV5_1_103f_cal.llb.strings.txt, Source_LV6_103f_cal.llb.strings.txt`
+  - occurrences: `2`
+- `Press 'Enter' when ready.g`
+  - first_seen: `Final_Cal_103FIN.EXE.strings.txt:62724`
+  - sources: `Final_Cal_103FIN.EXE.strings.txt, Source_LV3_1_103f_cal.llb.strings.txt, Source_LV5_1_103f_cal.llb.strings.txt`
+  - occurrences: `3`
+- `Press 'Enter' when ready.MD`
+  - first_seen: `Final_Cal_103FIN.EXE.strings.txt:72966`
+  - sources: `Final_Cal_103FIN.EXE.strings.txt, Source_LV3_1_103f_cal.llb.strings.txt, Source_LV5_1_103f_cal.llb.strings.txt`
+  - occurrences: `6`
+- `Press 'Enter' when ready.PD`
+  - first_seen: `Final_Cal_103FIN.EXE.strings.txt:70824`
+  - sources: `Final_Cal_103FIN.EXE.strings.txt, Source_LV3_1_103f_cal.llb.strings.txt`
+  - occurrences: `2`
+- `Press 'Enter' when ready.RE`
+  - first_seen: `Source_LV5_1_103f_cal.llb.strings.txt:32812`
+  - sources: `Source_LV5_1_103f_cal.llb.strings.txt`
+  - occurrences: `2`
+- `Press 'Enter' when ready.T`
+  - first_seen: `Final_Cal_103FIN.EXE.strings.txt:62728`
+  - sources: `Final_Cal_103FIN.EXE.strings.txt, Source_LV3_1_103f_cal.llb.strings.txt, Source_LV5_1_103f_cal.llb.strings.txt`
+  - occurrences: `3`
+- `Press 'Enter' when ready.V`
+  - first_seen: `Final_Cal_103FIN.EXE.strings.txt:62711`
+  - sources: `Final_Cal_103FIN.EXE.strings.txt, Source_LV3_1_103f_cal.llb.strings.txt, Source_LV5_1_103f_cal.llb.strings.txt`
+  - occurrences: `3`
+- `Press 'Enter' when ready.W`
+  - first_seen: `Final_Cal_103FIN.EXE.strings.txt:62738`
+  - sources: `Final_Cal_103FIN.EXE.strings.txt, Source_LV3_1_103f_cal.llb.strings.txt, Source_LV5_1_103f_cal.llb.strings.txt`
+  - occurrences: `8`
+- `q,Make sure the red UUT lead is not connected.`
+  - first_seen: `Final_Cal_103FIN.EXE.strings.txt:51393`
+  - sources: `Final_Cal_103FIN.EXE.strings.txt, Source_LV3_1_103f_cal.llb.strings.txt, Source_LV5_1_103f_cal.llb.strings.txt, Source_LV6_103f_cal.llb.strings.txt`
+  - occurrences: `4`
+
+## adjustments
+- `!!" Failed Calibration. Adjusted >10%R`
+  - first_seen: `Source_LV5_1_103f_cal.llb.strings.txt:67217`
+  - sources: `Source_LV5_1_103f_cal.llb.strings.txt`
+- `( Failed Calibration. Gain Adjustment>10%`
+  - first_seen: `Source_LV5_1_103f_cal.llb.strings.txt:74124`
+  - sources: `Source_LV5_1_103f_cal.llb.strings.txt, Source_LV6_103f_cal.llb.strings.txt`
+  - occurrences: `2`
+- `( Failed Calibration. Gain Adjustment>10%U`
+  - first_seen: `Final_Cal_103FIN.EXE.strings.txt:85766`
+  - sources: `Final_Cal_103FIN.EXE.strings.txt, Source_LV3_1_103f_cal.llb.strings.txt, Source_LV5_1_103f_cal.llb.strings.txt`
+  - occurrences: `3`
+- `0 Failed Calibration. Offset Adjustment too high.W`
+  - first_seen: `Final_Cal_103FIN.EXE.strings.txt:85817`
+  - sources: `Final_Cal_103FIN.EXE.strings.txt, Source_LV3_1_103f_cal.llb.strings.txt`
+  - occurrences: `2`
+- `000 Failed Calibration. Offset Adjustment too high.W`
+  - first_seen: `Source_LV5_1_103f_cal.llb.strings.txt:74388`
+  - sources: `Source_LV5_1_103f_cal.llb.strings.txt`
+- `>>>Adjust R1144 for the number`
+  - first_seen: `Final_Cal_103FIN.EXE.strings.txt:67443`
+  - sources: `Final_Cal_103FIN.EXE.strings.txt, Source_LV3_1_103f_cal.llb.strings.txt, Source_LV5_1_103f_cal.llb.strings.txt`
+  - occurrences: `3`
+- `>Adjust R1144 for the number`
+  - first_seen: `Final_Cal_103FIN.EXE.strings.txt:67542`
+  - sources: `Final_Cal_103FIN.EXE.strings.txt, Source_LV3_1_103f_cal.llb.strings.txt, Source_LV5_1_103f_cal.llb.strings.txt, Source_LV6_103f_cal.llb.strings.txt`
+  - occurrences: `4`
+- `@0@i0 Failed Calibration. Offset Adjustment too high.`
+  - first_seen: `Source_LV5_1_103f_cal.llb.strings.txt:74130`
+  - sources: `Source_LV5_1_103f_cal.llb.strings.txt, Source_LV6_103f_cal.llb.strings.txt`
+  - occurrences: `2`
+- `and the '-' lead to TP1020. Adjust`
+  - first_seen: `Final_Cal_103FIN.EXE.strings.txt:66330`
+  - sources: `Final_Cal_103FIN.EXE.strings.txt, Source_LV3_1_103f_cal.llb.strings.txt, Source_LV5_1_103f_cal.llb.strings.txt, Source_LV6_103f_cal.llb.strings.txt`
+  - occurrences: `7`
+- `Communication Error.0 Failed Calibration. Offset Adjustment too high.( Failed Calibration. Gain Adjustment>10%`
+  - first_seen: `Final_Cal_103FIN.EXE.strings.txt:85935`
+  - sources: `Final_Cal_103FIN.EXE.strings.txt, Source_LV3_1_103f_cal.llb.strings.txt`
+  - occurrences: `2`
+- `Failed Calibration. Adjusted >10%`
+  - first_seen: `Source_LV5_1_103f_cal.llb.strings.txt:67036`
+  - sources: `Source_LV5_1_103f_cal.llb.strings.txt, Source_LV6_103f_cal.llb.strings.txt`
+  - occurrences: `2`
+- `Failed Calibration. Adjusted >10%R`
+  - first_seen: `Final_Cal_103FIN.EXE.strings.txt:80166`
+  - sources: `Final_Cal_103FIN.EXE.strings.txt, Source_LV3_1_103f_cal.llb.strings.txt`
+  - occurrences: `2`
+- `Now adjust R1005 for the number`
+  - first_seen: `Final_Cal_103FIN.EXE.strings.txt:67545`
+  - sources: `Final_Cal_103FIN.EXE.strings.txt, Source_LV3_1_103f_cal.llb.strings.txt, Source_LV5_1_103f_cal.llb.strings.txt, Source_LV6_103f_cal.llb.strings.txt`
+  - occurrences: `4`
+- `ow adjust R1005 for the number`
+  - first_seen: `Final_Cal_103FIN.EXE.strings.txt:67449`
+  - sources: `Final_Cal_103FIN.EXE.strings.txt, Source_LV3_1_103f_cal.llb.strings.txt, Source_LV5_1_103f_cal.llb.strings.txt`
+  - occurrences: `3`
+
+## load_dvm_meta
+- `0 Sense Resistor`
+  - first_seen: `Final_Cal_103FIN.EXE.strings.txt:82666`
+  - sources: `Final_Cal_103FIN.EXE.strings.txt, Source_LV3_1_103f_cal.llb.strings.txt, Source_LV5_1_103f_cal.llb.strings.txt, Source_LV6_103f_cal.llb.strings.txt`
+  - occurrences: `4`
+- `2 Cal Box Setup #`
+  - first_seen: `Final_Cal_103FIN.EXE.strings.txt:82668`
+  - sources: `Final_Cal_103FIN.EXE.strings.txt, Source_LV3_1_103f_cal.llb.strings.txt, Source_LV5_1_103f_cal.llb.strings.txt, Source_LV6_103f_cal.llb.strings.txt`
+  - occurrences: `4`
+- `3 8842 Mult. factorU`
+  - first_seen: `Final_Cal_103FIN.EXE.strings.txt:82669`
+  - sources: `Final_Cal_103FIN.EXE.strings.txt, Source_LV3_1_103f_cal.llb.strings.txt, Source_LV5_1_103f_cal.llb.strings.txt, Source_LV6_103f_cal.llb.strings.txt`
+  - occurrences: `4`
+- `Load Select`
+  - first_seen: `Final_Cal_103FIN.EXE.strings.txt:78690`
+  - sources: `Final_Cal_103FIN.EXE.strings.txt, Source_LV3_1_103f_cal.llb.strings.txt, Source_LV5_1_103f_cal.llb.strings.txt, Source_LV6_103f_cal.llb.strings.txt, Source_lv8_103f_cal.llb.strings.txt`
+  - occurrences: `122`
+- `Load Select"`
+  - first_seen: `Source_LV5_1_103f_cal.llb.strings.txt:72203`
+  - sources: `Source_LV5_1_103f_cal.llb.strings.txt, Source_LV6_103f_cal.llb.strings.txt`
+  - occurrences: `3`
+- `Load Select"/`
+  - first_seen: `Final_Cal_103FIN.EXE.strings.txt:80645`
+  - sources: `Final_Cal_103FIN.EXE.strings.txt, Source_LV3_1_103f_cal.llb.strings.txt`
+  - occurrences: `2`
+- `Load Select"=`
+  - first_seen: `Final_Cal_103FIN.EXE.strings.txt:81996`
+  - sources: `Final_Cal_103FIN.EXE.strings.txt, Source_LV3_1_103f_cal.llb.strings.txt`
+  - occurrences: `2`
+- `Load Select"B`
+  - first_seen: `Final_Cal_103FIN.EXE.strings.txt:79417`
+  - sources: `Final_Cal_103FIN.EXE.strings.txt, Source_LV3_1_103f_cal.llb.strings.txt`
+  - occurrences: `2`
+- `Load Select"N`
+  - first_seen: `Final_Cal_103FIN.EXE.strings.txt:83409`
+  - sources: `Final_Cal_103FIN.EXE.strings.txt, Source_LV3_1_103f_cal.llb.strings.txt`
+  - occurrences: `2`
+- `Load Select"O`
+  - first_seen: `Final_Cal_103FIN.EXE.strings.txt:84827`
+  - sources: `Final_Cal_103FIN.EXE.strings.txt, Source_LV3_1_103f_cal.llb.strings.txt`
+  - occurrences: `2`
+- `Load Select&`
+  - first_seen: `Source_LV5_1_103f_cal.llb.strings.txt:23413`
+  - sources: `Source_LV5_1_103f_cal.llb.strings.txt, Source_LV6_103f_cal.llb.strings.txt`
+  - occurrences: `6`
+- `Load Select* P`
+  - first_seen: `Final_Cal_103FIN.EXE.strings.txt:78916`
+  - sources: `Final_Cal_103FIN.EXE.strings.txt, Source_LV3_1_103f_cal.llb.strings.txt`
+  - occurrences: `2`
+- `Load Select2`
+  - first_seen: `Source_LV6_103f_cal.llb.strings.txt:25819`
+  - sources: `Source_LV6_103f_cal.llb.strings.txt`
+- `Load Selectd2`
+  - first_seen: `Final_Cal_103FIN.EXE.strings.txt:86370`
+  - sources: `Final_Cal_103FIN.EXE.strings.txt, Source_LV3_1_103f_cal.llb.strings.txt`
+  - occurrences: `2`
+- `Load Selectd=`
+  - first_seen: `Final_Cal_103FIN.EXE.strings.txt:81991`
+  - sources: `Final_Cal_103FIN.EXE.strings.txt, Source_LV3_1_103f_cal.llb.strings.txt`
+  - occurrences: `2`
+- `Load SelectdB`
+  - first_seen: `Final_Cal_103FIN.EXE.strings.txt:79402`
+  - sources: `Final_Cal_103FIN.EXE.strings.txt, Source_LV3_1_103f_cal.llb.strings.txt`
+  - occurrences: `6`
+- `Load SelectdO`
+  - first_seen: `Final_Cal_103FIN.EXE.strings.txt:84817`
+  - sources: `Final_Cal_103FIN.EXE.strings.txt, Source_LV3_1_103f_cal.llb.strings.txt`
+  - occurrences: `4`
+- `Load SelectL`
+  - first_seen: `Source_LV5_1_103f_cal.llb.strings.txt:23443`
+  - sources: `Source_LV5_1_103f_cal.llb.strings.txt, Source_LV6_103f_cal.llb.strings.txt`
+  - occurrences: `2`
+- `Load SelectP`
+  - first_seen: `Source_LV5_1_103f_cal.llb.strings.txt:67127`
+  - sources: `Source_LV5_1_103f_cal.llb.strings.txt, Source_LV6_103f_cal.llb.strings.txt`
+  - occurrences: `4`
+- `Load SelectPTH0`
+  - first_seen: `Final_Cal_103FIN.EXE.strings.txt:80341`
+  - sources: `Final_Cal_103FIN.EXE.strings.txt, Source_LV3_1_103f_cal.llb.strings.txt, Source_LV5_1_103f_cal.llb.strings.txt, Source_LV6_103f_cal.llb.strings.txt`
+  - occurrences: `28`
+
+## range_actions
+- `Apply Changes`
+  - first_seen: `Final_Cal_103FIN.EXE.strings.txt:19804`
+  - sources: `Final_Cal_103FIN.EXE.strings.txt`
+- `Apply MD`
+  - first_seen: `Final_Cal_103FIN.EXE.strings.txt:91989`
+  - sources: `Final_Cal_103FIN.EXE.strings.txt, Source_LV3_1_103f_cal.llb.strings.txt, Source_LV5_1_103f_cal.llb.strings.txt`
+  - occurrences: `3`
+- `Lowest Cap Range is Cal'd FirstOD`
+  - first_seen: `Final_Cal_103FIN.EXE.strings.txt:92014`
+  - sources: `Final_Cal_103FIN.EXE.strings.txt, Source_LV3_1_103f_cal.llb.strings.txt`
+  - occurrences: `2`
+- `Lowest Cap Range is Cal'd FirstQE`
+  - first_seen: `Source_LV5_1_103f_cal.llb.strings.txt:17633`
+  - sources: `Source_LV5_1_103f_cal.llb.strings.txt, Source_LV6_103f_cal.llb.strings.txt`
+  - occurrences: `2`
+
+## status
+- `!!+Current Source Calibration Passed`
+  - first_seen: `Source_LV5_1_103f_cal.llb.strings.txt:69676`
+  - sources: `Source_LV5_1_103f_cal.llb.strings.txt`
+- `!Gain Calibration Failed`
+  - first_seen: `Final_Cal_103FIN.EXE.strings.txt:80159`
+  - sources: `Final_Cal_103FIN.EXE.strings.txt, Source_LV3_1_103f_cal.llb.strings.txt, Source_LV5_1_103f_cal.llb.strings.txt`
+  - occurrences: `6`
+- `+Current Source Calibration Passed`
+  - first_seen: `Final_Cal_103FIN.EXE.strings.txt:84107`
+  - sources: `Final_Cal_103FIN.EXE.strings.txt, Source_LV3_1_103f_cal.llb.strings.txt`
+  - occurrences: `4`
+- `Cal'ed value >1ohm:`
+  - first_seen: `Final_Cal_103FIN.EXE.strings.txt:73100`
+  - sources: `Final_Cal_103FIN.EXE.strings.txt, Source_LV3_1_103f_cal.llb.strings.txt, Source_LV5_1_103f_cal.llb.strings.txt, Source_LV6_103f_cal.llb.strings.txt`
+  - occurrences: `4`
+- `Cal'ed value >1ohm: MD`
+  - first_seen: `Final_Cal_103FIN.EXE.strings.txt:72976`
+  - sources: `Final_Cal_103FIN.EXE.strings.txt, Source_LV3_1_103f_cal.llb.strings.txt, Source_LV5_1_103f_cal.llb.strings.txt`
+  - occurrences: `3`
+- `Calibration Passed`
+  - first_seen: `Final_Cal_103FIN.EXE.strings.txt:73101`
+  - sources: `Final_Cal_103FIN.EXE.strings.txt, Source_LV3_1_103f_cal.llb.strings.txt, Source_LV5_1_103f_cal.llb.strings.txt, Source_LV6_103f_cal.llb.strings.txt`
+  - occurrences: `6`
+- `Calibration PassedU`
+  - first_seen: `Source_LV5_1_103f_cal.llb.strings.txt:30712`
+  - sources: `Source_LV5_1_103f_cal.llb.strings.txt`
+- `Calibration PassedV`
+  - first_seen: `Final_Cal_103FIN.EXE.strings.txt:72952`
+  - sources: `Final_Cal_103FIN.EXE.strings.txt, Source_LV3_1_103f_cal.llb.strings.txt, Source_LV5_1_103f_cal.llb.strings.txt`
+  - occurrences: `3`
+- `Failed Calibration.`
+  - first_seen: `Final_Cal_103FIN.EXE.strings.txt:84275`
+  - sources: `Final_Cal_103FIN.EXE.strings.txt, Source_LV3_1_103f_cal.llb.strings.txt, Source_LV5_1_103f_cal.llb.strings.txt, Source_LV6_103f_cal.llb.strings.txt`
+  - occurrences: `4`
+- `Failed Calibration.R`
+  - first_seen: `Final_Cal_103FIN.EXE.strings.txt:84103`
+  - sources: `Final_Cal_103FIN.EXE.strings.txt, Source_LV3_1_103f_cal.llb.strings.txt, Source_LV5_1_103f_cal.llb.strings.txt`
+  - occurrences: `3`
+- `N!Gain Calibration Failed`
+  - first_seen: `Source_LV5_1_103f_cal.llb.strings.txt:67033`
+  - sources: `Source_LV5_1_103f_cal.llb.strings.txt, Source_LV6_103f_cal.llb.strings.txt`
+  - occurrences: `2`
+- `on Range !Gain Calibration Failed`
+  - first_seen: `Final_Cal_103FIN.EXE.strings.txt:80288`
+  - sources: `Final_Cal_103FIN.EXE.strings.txt, Source_LV3_1_103f_cal.llb.strings.txt`
+  - occurrences: `2`
+- `Range !Gain Calibration Failed`
+  - first_seen: `Final_Cal_103FIN.EXE.strings.txt:80287`
+  - sources: `Final_Cal_103FIN.EXE.strings.txt, Source_LV3_1_103f_cal.llb.strings.txt, Source_LV5_1_103f_cal.llb.strings.txt, Source_LV6_103f_cal.llb.strings.txt`
+  - occurrences: `4`
+- `Range +Current Source Calibration Passed`
+  - first_seen: `Source_LV5_1_103f_cal.llb.strings.txt:69475`
+  - sources: `Source_LV5_1_103f_cal.llb.strings.txt, Source_LV6_103f_cal.llb.strings.txt`
+  - occurrences: `2`
+
+## other
+- `/A Test``
+  - first_seen: `Final_Cal_103FIN.EXE.strings.txt:62691`
+  - sources: `Final_Cal_103FIN.EXE.strings.txt, Source_LV3_1_103f_cal.llb.strings.txt, Source_LV5_1_103f_cal.llb.strings.txt`
+  - occurrences: `3`
+- `/A Teste`
+  - first_seen: `Final_Cal_103FIN.EXE.strings.txt:87066`
+  - sources: `Final_Cal_103FIN.EXE.strings.txt, Source_LV3_1_103f_cal.llb.strings.txt, Source_LV5_1_103f_cal.llb.strings.txt`
+  - occurrences: `3`
+- `/A TestHDli3`
+  - first_seen: `Source_LV6_103f_cal.llb.strings.txt:22851`
+  - sources: `Source_LV6_103f_cal.llb.strings.txt`
+- `/A TestOD`
+  - first_seen: `Final_Cal_103FIN.EXE.strings.txt:87058`
+  - sources: `Final_Cal_103FIN.EXE.strings.txt, Source_LV3_1_103f_cal.llb.strings.txt, Source_LV5_1_103f_cal.llb.strings.txt`
+  - occurrences: `3`
+- `/A TestT`
+  - first_seen: `Final_Cal_103FIN.EXE.strings.txt:64994`
+  - sources: `Final_Cal_103FIN.EXE.strings.txt, Source_LV3_1_103f_cal.llb.strings.txt, Source_LV5_1_103f_cal.llb.strings.txt`
+  - occurrences: `3`
+- `/A TestV`
+  - first_seen: `Final_Cal_103FIN.EXE.strings.txt:62729`
+  - sources: `Final_Cal_103FIN.EXE.strings.txt, Source_LV3_1_103f_cal.llb.strings.txt, Source_LV5_1_103f_cal.llb.strings.txt`
+  - occurrences: `3`
+- `/A TestW`
+  - first_seen: `Final_Cal_103FIN.EXE.strings.txt:62817`
+  - sources: `Final_Cal_103FIN.EXE.strings.txt, Source_LV3_1_103f_cal.llb.strings.txt, Source_LV5_1_103f_cal.llb.strings.txt`
+  - occurrences: `9`
+- `1045 for 10.000V +/- 0.005.`
+  - first_seen: `Final_Cal_103FIN.EXE.strings.txt:66331`
+  - sources: `Final_Cal_103FIN.EXE.strings.txt, Source_LV3_1_103f_cal.llb.strings.txt, Source_LV5_1_103f_cal.llb.strings.txt, Source_LV6_103f_cal.llb.strings.txt`
+  - occurrences: `7`
+- `Calibration`
+  - first_seen: `Final_Cal_103FIN.EXE.strings.txt:41649`
+  - sources: `Final_Cal_103FIN.EXE.strings.txt, Source_LV3_1_103f_cal.llb.strings.txt, Source_LV5_1_103f_cal.llb.strings.txt, Source_LV6_103f_cal.llb.strings.txt`
+  - occurrences: `28`
+- `Calibration'`
+  - first_seen: `Final_Cal_103FIN.EXE.strings.txt:73118`
+  - sources: `Final_Cal_103FIN.EXE.strings.txt, Source_LV3_1_103f_cal.llb.strings.txt`
+  - occurrences: `2`
+- `Calibration22`
+  - first_seen: `Final_Cal_103FIN.EXE.strings.txt:62997`
+  - sources: `Final_Cal_103FIN.EXE.strings.txt, Source_LV3_1_103f_cal.llb.strings.txt, Source_LV5_1_103f_cal.llb.strings.txt, Source_LV6_103f_cal.llb.strings.txt`
+  - occurrences: `4`
+- `Calibration``
+  - first_seen: `Final_Cal_103FIN.EXE.strings.txt:72990`
+  - sources: `Final_Cal_103FIN.EXE.strings.txt, Source_LV3_1_103f_cal.llb.strings.txt, Source_LV5_1_103f_cal.llb.strings.txt`
+  - occurrences: `3`
+- `CalibrationH`
+  - first_seen: `Final_Cal_103FIN.EXE.strings.txt:72960`
+  - sources: `Final_Cal_103FIN.EXE.strings.txt, Source_LV3_1_103f_cal.llb.strings.txt, Source_LV5_1_103f_cal.llb.strings.txt, Source_LV6_103f_cal.llb.strings.txt`
+  - occurrences: `4`
+- `CalibrationV`
+  - first_seen: `Final_Cal_103FIN.EXE.strings.txt:62760`
+  - sources: `Final_Cal_103FIN.EXE.strings.txt, Source_LV3_1_103f_cal.llb.strings.txt, Source_LV5_1_103f_cal.llb.strings.txt`
+  - occurrences: `6`
+- `CalibrationW`
+  - first_seen: `Final_Cal_103FIN.EXE.strings.txt:62804`
+  - sources: `Final_Cal_103FIN.EXE.strings.txt, Source_LV3_1_103f_cal.llb.strings.txt, Source_LV5_1_103f_cal.llb.strings.txt`
+  - occurrences: `4`
+- `CalibrationX`
+  - first_seen: `Final_Cal_103FIN.EXE.strings.txt:72947`
+  - sources: `Final_Cal_103FIN.EXE.strings.txt, Source_LV3_1_103f_cal.llb.strings.txt, Source_LV5_1_103f_cal.llb.strings.txt`
+  - occurrences: `3`
+- `Correction`
+  - first_seen: `Final_Cal_103FIN.EXE.strings.txt:81474`
+  - sources: `Final_Cal_103FIN.EXE.strings.txt, Source_LV3_1_103f_cal.llb.strings.txt, Source_LV5_1_103f_cal.llb.strings.txt, Source_LV6_103f_cal.llb.strings.txt`
+  - occurrences: `4`
+- `of rings specified on the cal box.-Switch the cal box to`
+  - first_seen: `Final_Cal_103FIN.EXE.strings.txt:67543`
+  - sources: `Final_Cal_103FIN.EXE.strings.txt, Source_LV3_1_103f_cal.llb.strings.txt`
+  - occurrences: `2`
+- `ow connect the red lead to the`
+  - first_seen: `Final_Cal_103FIN.EXE.strings.txt:53817`
+  - sources: `Final_Cal_103FIN.EXE.strings.txt, Source_LV3_1_103f_cal.llb.strings.txt, Source_LV5_1_103f_cal.llb.strings.txt, Source_LV6_103f_cal.llb.strings.txt, Source_lv8_103f_cal.llb.strings.txt`
+  - occurrences: `38`
+- `Perform Inductance CalibrationV`
+  - first_seen: `Final_Cal_103FIN.EXE.strings.txt:90158`
+  - sources: `Final_Cal_103FIN.EXE.strings.txt, Source_LV3_1_103f_cal.llb.strings.txt, Source_LV5_1_103f_cal.llb.strings.txt, Source_LV6_103f_cal.llb.strings.txt`
+  - occurrences: `4`
+- `Resistance`
+  - first_seen: `Final_Cal_103FIN.EXE.strings.txt:81732`
+  - sources: `Final_Cal_103FIN.EXE.strings.txt, Source_LV3_1_103f_cal.llb.strings.txt, Source_LV5_1_103f_cal.llb.strings.txt, Source_LV6_103f_cal.llb.strings.txt`
+  - occurrences: `22`
+- `Resistance6`
+  - first_seen: `Source_LV5_1_103f_cal.llb.strings.txt:75635`
+  - sources: `Source_LV5_1_103f_cal.llb.strings.txt, Source_LV6_103f_cal.llb.strings.txt`
+  - occurrences: `2`
+- `Resistance@`
+  - first_seen: `Final_Cal_103FIN.EXE.strings.txt:81733`
+  - sources: `Final_Cal_103FIN.EXE.strings.txt, Source_LV3_1_103f_cal.llb.strings.txt`
+  - occurrences: `2`
+- `ResistanceH`
+  - first_seen: `Source_LV6_103f_cal.llb.strings.txt:25925`
+  - sources: `Source_LV6_103f_cal.llb.strings.txt`
+- `ResistanceL`
+  - first_seen: `Final_Cal_103FIN.EXE.strings.txt:82765`
+  - sources: `Final_Cal_103FIN.EXE.strings.txt, Source_LV3_1_103f_cal.llb.strings.txt`
+  - occurrences: `2`
+- `ResistanceT`
+  - first_seen: `Source_LV5_1_103f_cal.llb.strings.txt:75769`
+  - sources: `Source_LV5_1_103f_cal.llb.strings.txt`
+- `Switch the cal box to`
+  - first_seen: `Final_Cal_103FIN.EXE.strings.txt:67445`
+  - sources: `Final_Cal_103FIN.EXE.strings.txt, Source_LV3_1_103f_cal.llb.strings.txt, Source_LV5_1_103f_cal.llb.strings.txt, Source_LV6_103f_cal.llb.strings.txt`
+  - occurrences: `5`
+- `Switching Transformers.`
+  - first_seen: `Final_Cal_103FIN.EXE.strings.txt:67544`
+  - sources: `Final_Cal_103FIN.EXE.strings.txt, Source_LV3_1_103f_cal.llb.strings.txt, Source_LV5_1_103f_cal.llb.strings.txt, Source_LV6_103f_cal.llb.strings.txt`
+  - occurrences: `4`
+- `Switching Transformers.O`
+  - first_seen: `Final_Cal_103FIN.EXE.strings.txt:67446`
+  - sources: `Final_Cal_103FIN.EXE.strings.txt, Source_LV3_1_103f_cal.llb.strings.txt, Source_LV5_1_103f_cal.llb.strings.txt`
+  - occurrences: `3`
+- `Warning: Choosing 'Calibration Reset'`
+  - first_seen: `Final_Cal_103FIN.EXE.strings.txt:62778`
+  - sources: `Final_Cal_103FIN.EXE.strings.txt, Source_LV3_1_103f_cal.llb.strings.txt, Source_LV5_1_103f_cal.llb.strings.txt, Source_LV6_103f_cal.llb.strings.txt`
+  - occurrences: `7`
+- `Yolks and Flybacks.`
+  - first_seen: `Final_Cal_103FIN.EXE.strings.txt:67514`
+  - sources: `Final_Cal_103FIN.EXE.strings.txt, Source_LV3_1_103f_cal.llb.strings.txt, Source_LV5_1_103f_cal.llb.strings.txt, Source_LV6_103f_cal.llb.strings.txt`
+  - occurrences: `6`
+- `Yolks and Flybacks.H`
+  - first_seen: `Source_LV5_1_103f_cal.llb.strings.txt:36084`
+  - sources: `Source_LV5_1_103f_cal.llb.strings.txt`

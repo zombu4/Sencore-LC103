@@ -1,0 +1,264 @@
+52706:1c0dfd LEADOPEN.vi
+80410:3702fc LEADOPEN.viX<$
+80413:3703c4 LEADOPEN.viH
+80416:370456 LEADOPEN.vix
+80419:3704d2 LEADOPEN.viH
+80420:370522 LEADOPEN.viOD
+80424:3705a0 Lead Open Test/Capsa
+80434:3706d8 LEADOPEN.viW
+80435:3706f4 LEADOPEN.viTD
+80438:370772 LEADOPEN.viO
+80440:3707ac LEADOPEN.viW
+80444:37081e LEADOPEN.viW
+80445:37083e LEADOPEN.viW
+80452:37091a LEADOPEN.viW
+80453:370936 LEADOPEN.viW
+80458:3709b6 LEADOPEN.vi
+80461:3709eb LEADOPEN.vi
+80475:370aaa LEADOPEN.vi
+80488:370baf Lead Open Test/Caps
+80513:37102f LEADOPEN.vi4
+80584:37176e LEADOPEN.vi
+80585:37177a LEADOPEN.vi
+80586:371786 LEADOPEN.vi
+80587:371792 LEADOPEN.vi
+80588:37179e LEADOPEN.vi
+80589:3717aa LEADOPEN.vi
+80590:3717b6 LEADOPEN.vi
+80591:3717c2 LEADOPEN.vi
+80592:3717ce LEADOPEN.vi
+80593:3717da LEADOPEN.vi
+80594:3717e6 LEADOPEN.vi
+80595:3717f2 LEADOPEN.vi
+80596:3717fe LEADOPEN.vi
+80597:37180a LEADOPEN.vi
+80598:371816 LEADOPEN.vi
+80599:371822 LEADOPEN.vi
+80600:37182e LEADOPEN.vi
+83565:3a5226 LEADOPEN.viW
+83566:3a5246 LEADOPEN.viW
+83603:3a55a9 LEADOPEN.vi
+83622:3a56a4 LEADOPEN.vi
+83706:3a5f9e LEADOPEN.vi
+83712:3a600d LEADOPEN.vi 
+120212:5ed4b4 LEADOPEN.vi
+248740:189d63 LEADOPEN.vi
+249471:198e70 LEADOPEN.viX<$
+249474:198f38 LEADOPEN.viH
+249477:198fca LEADOPEN.vix
+249480:199046 LEADOPEN.viH
+249481:199096 LEADOPEN.viOD
+249485:199114 Lead Open Test/Capsa
+249495:19924c LEADOPEN.viW
+249496:199268 LEADOPEN.viTD
+249499:1992e6 LEADOPEN.viO
+249501:199320 LEADOPEN.viW
+249505:199392 LEADOPEN.viW
+249506:1993b2 LEADOPEN.viW
+249513:19948e LEADOPEN.viW
+249514:1994aa LEADOPEN.viW
+249519:19952a LEADOPEN.vi
+249522:19955f LEADOPEN.vi
+249536:19961e LEADOPEN.vi
+249549:199723 Lead Open Test/Caps
+249574:199ba3 LEADOPEN.vi4
+249645:19a2e2 LEADOPEN.vi
+249646:19a2ee LEADOPEN.vi
+249647:19a2fa LEADOPEN.vi
+249648:19a306 LEADOPEN.vi
+249649:19a312 LEADOPEN.vi
+249650:19a31e LEADOPEN.vi
+249651:19a32a LEADOPEN.vi
+249652:19a336 LEADOPEN.vi
+249653:19a342 LEADOPEN.vi
+249654:19a34e LEADOPEN.vi
+249655:19a35a LEADOPEN.vi
+249656:19a366 LEADOPEN.vi
+249657:19a372 LEADOPEN.vi
+249658:19a37e LEADOPEN.vi
+249659:19a38a LEADOPEN.vi
+249660:19a396 LEADOPEN.vi
+249661:19a3a2 LEADOPEN.vi
+251017:1b1ebe LEADOPEN.viW
+251018:1b1ede LEADOPEN.viW
+251055:1b2241 LEADOPEN.vi
+251074:1b233c LEADOPEN.vi
+251158:1b2c36 LEADOPEN.vi
+251164:1b2ca5 LEADOPEN.vi 
+291585:4431a9 LEADOPEN.vi
+291960:44751d LEADOPEN.vi
+291961:447529 LEADOPEN.vi
+291962:447535 LEADOPEN.vi
+291963:447541 LEADOPEN.vi
+291964:44754d LEADOPEN.vi
+319915:1b2ce3 lead zero short/open.vi
+320782:1c375c lead zero short/open.vi
+320787:1c3894 aaaLeads zero, open                Cap must read 0, IND must read "OPEN" and ESR must read "ERROR 7"W
+320792:1c3a28 Open LeadsO
+320794:1c3a6a Lead Zero Short/OpenND
+320802:1c3bb2 lead zero short/open.viZ
+320830:1c3f1f lead zero short/open.viO
+320856:1c42f9 lead zero short/open.vi
+320859:1c4338 lead zero short/open.vi
+320878:1c4477 lead zero short/open.vi
+320897:1c4572 Lead Zero Short/Open
+320924:1c47cb Lead Zero Short & Open  VIM
+320926:1c4860 lead zero short/open.vi-
+321004:1c50b1 lead zero short/open.vi
+321005:1c50c9 lead zero short/open.vi
+321006:1c50e1 lead zero short/open.vi
+321007:1c50f9 lead zero short/open.vi
+321008:1c5111 lead zero short/open.vi
+321009:1c5129 lead zero short/open.vi
+321010:1c5141 lead zero short/open.vi
+321011:1c5159 lead zero short/open.vi
+321012:1c5171 lead zero short/open.vi
+321013:1c5189 lead zero short/open.vi
+321014:1c51a1 lead zero short/open.vi
+321015:1c51b9 lead zero short/open.vi
+321016:1c51d1 lead zero short/open.vi
+321017:1c51e9 lead zero short/open.vi
+321018:1c5201 lead zero short/open.vi
+321019:1c5219 lead zero short/open.vi
+323317:1ef7ab lead zero short/open.via
+323566:1f26e8 lead zero short/open.vi
+323634:1f29e1 lead zero short/open.vi
+323656:1f2ad5 Lead Zero Short/Open
+323661:1f2b2e Lead Zero Short/Open
+323736:1f3247 lead zero short/open.vi
+323739:1f32a6 lead zero short/open.vi 
+324038:1f4c7d lead zero short/open.vi
+324342:1f7c6a lead zero short/open.vi
+324343:1f7c82 lead zero short/open.vi
+324344:1f7c9a lead zero short/open.vi
+324345:1f7cb2 lead zero short/open.vi
+324346:1f7cca lead zero short/open.vi
+360277:bd29f LEADOPEN.vi
+361884:d8b63 LEADOPEN.vi
+370596:169cb7 open or create fileaD
+388273:2a647f LEADOPEN.vi
+388279:2a64f4 LEADOPEN.vi
+388699:2ab8d8 LEADOPEN.vi
+388828:2ac8d7 LEADOPEN.viW
+388829:2ac8f6 LEADOPEN.viW
+388876:2ad0d1 LEADOPEN.vi
+391265:2dea2e LEADOPEN.vi
+391268:2dea84 LEADOPEN.vi
+391776:2e4ac2 Lead Open Test/Caps
+391788:2e4cba LEADOPEN.vi
+391877:2e58b7 LEADOPEN.viH
+391880:2e5946 LEADOPEN.vix
+391883:2e59be LEADOPEN.viH
+391884:2e5a0d LEADOPEN.viOD
+391888:2e5a86 Lead Open Test/Capsa
+391899:2e5bc5 LEADOPEN.viW
+391900:2e5be0 LEADOPEN.viTD
+391903:2e5c5a LEADOPEN.viO
+391905:2e5c92 LEADOPEN.viW
+391909:2e5d00 LEADOPEN.viW
+391910:2e5d1f LEADOPEN.viW
+391917:2e5df4 LEADOPEN.viW
+391918:2e5e0f LEADOPEN.viW
+391926:2e5ed8 LEADOPEN.vi
+391940:2e6466 LEADOPEN.vi
+392228:2ec6ac LEADOPEN.vi
+416852:47ef11 LEADOPEN.vi
+417100:4827c1 LEADOPEN.vi
+417273:4832ca LEADOPEN.vi
+417274:4832d6 LEADOPEN.vi
+417275:4832e2 LEADOPEN.vi
+431780:c8b6f lead zero short/open.vi
+444572:19e85b lead zero short/open.vi
+444575:19e8c2 lead zero short/open.vi
+445139:1a550b Lead Zero Short/Open
+445144:1a5568 Lead Zero Short/Open
+445200:1a5a85 lead zero short/open.vi
+445370:1a6adb lead zero short/open.via
+445637:1aa331 lead zero short/open.vi
+446944:1c2c17 lead zero short/open.vi4
+446946:1c2c7d lead zero short/open.vi
+447497:1c946a Lead Zero Short/Open
+447517:1c9686 lead zero short/open.vi
+447593:1c9f05 Lead Zero Short & Open  VIY
+447600:1ca0c0 aaaLeads zero, open                Cap must read 0, IND must read "OPEN" and ESR must read "ERROR 7"W
+447605:1ca253 Open LeadsO
+447607:1ca295 Lead Zero Short/OpenND
+447617:1ca3fc lead zero short/open.viZ
+447645:1ca766 lead zero short/open.viO
+447671:1cab3d lead zero short/open.vi
+447675:1cb17a lead zero short/open.vi
+448047:1d1e9f lead zero short/open.vi
+452509:2139a1 lead zero short/open.vi
+452688:215fee lead zero short/open.vi
+452824:2169c9 lead zero short/open.vi
+452825:2169e1 lead zero short/open.vi
+452826:2169f9 lead zero short/open.vi
+489493:bd29f LEADOPEN.vi
+490386:cea1f LEADOPEN.vi
+515754:2d886b LEADOPEN.vi
+515760:2d88e0 LEADOPEN.vi
+515855:2d95f1 LEADOPEN.vi
+516039:2dcc5e LEADOPEN.viW
+516040:2dcc7d LEADOPEN.viW
+516086:2dd456 LEADOPEN.vi
+517874:3071e8 LEADOPEN.vi
+517980:307e39 Lead Open Test/Caps
+517987:30811e LEADOPEN.vi
+518152:30ba3c LEADOPEN.viH
+518153:30bacb LEADOPEN.viH
+518155:30bb17 LEADOPEN.viH
+518156:30bb66 LEADOPEN.viHD
+518161:30bcff LEADOPEN.viW
+518162:30bd1a LEADOPEN.viHDHh3
+518163:30bd66 LEADOPEN.viH
+518164:30bd9e LEADOPEN.viW
+518168:30be0c LEADOPEN.viW
+518169:30be2b LEADOPEN.viW
+518176:30bf00 LEADOPEN.viW
+518177:30bf1b LEADOPEN.viW
+518184:30bfd3 LEADOPEN.vi
+518200:30c55f LEADOPEN.vi
+518514:3125a6 LEADOPEN.vi
+529279:3d8efd LEADOPEN.vi
+529562:3de8fd LEADOPEN.vi
+529738:3df427 LEADOPEN.vi
+529739:3df433 LEADOPEN.vi
+529740:3df43f LEADOPEN.vi
+544248:c8b6f lead zero short/open.vi
+550376:13929f lead zero short/open.vi
+550484:139e44 Lead Zero Short/Open
+550500:13a12f lead zero short/open.vi
+550702:13e0ab Lead Zero Short & Open  VIY
+550708:13e26b aaaLeads zero, open                Cap must read 0, IND must read "OPEN" and ESR must read "ERROR 7"W
+550713:13e3ff Open LeadsH
+550717:13e589 lead zero short/open.viZ
+550728:13e8d5 lead zero short/open.viH
+550752:13eca4 lead zero short/open.vi
+550755:13f2e0 lead zero short/open.vi
+551132:145d03 lead zero short/open.vi
+559219:1d84f3 lead zero short/open.vi
+559222:1d855a lead zero short/open.vi
+559400:1d9784 Lead Zero Short/Open
+559405:1d97e1 Lead Zero Short/Open
+559459:1d9d0f lead zero short/open.vi
+559766:1de569 lead zero short/open.via
+559916:1e09ba lead zero short/open.vi
+560421:1e6505 lead zero short/open.vi
+560598:1e9266 lead zero short/open.vi
+560649:1e9673 lead zero short/open.vi
+560650:1e968b lead zero short/open.vi
+560651:1e96a3 lead zero short/open.vi
+595049:ce42b LEADOPEN.vi
+596967:f8071 LEADOPEN.vi
+602033:1495a7 LEADOPEN.vi
+602059:149c4f LEADOPEN.vi
+602154:14bbdf LEADOPEN.vi
+602171:14c07f LEADOPEN.vi
+602326:14e501 LEADOPEN.vi
+602986:15a155 LEADOPEN.viPTH0
+602987:15a16e LEADOPEN.vi
+603010:15a81d LEADOPEN.viPTH0
+603110:15ca99 LEADOPEN.viPTH0
+603111:15cab2 LEADOPEN.vi
+612520:1f77b0 LEADOPEN.vi
+612521:1f77bc LEADOPEN.vi

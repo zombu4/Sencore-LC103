@@ -1,0 +1,5 @@
+39488:7ea69 StdListboxOInvalidateMethod
+41573:c59b2 ListboxUpdateItemsFromData
+41575:c5c3b ListboxUpdateDataFromItems
+41583:c649a ListboxValidateTopItem
+42911:efd12 DlgUpdateListbox

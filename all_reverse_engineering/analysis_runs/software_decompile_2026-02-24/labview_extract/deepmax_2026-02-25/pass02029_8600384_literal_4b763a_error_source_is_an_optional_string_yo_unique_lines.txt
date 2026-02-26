@@ -1,0 +1,1 @@
+101596:4b763a error source is an optional string you can use to describe the source of error code. The VI uses the string in message if there is an error.

@@ -1,0 +1,373 @@
+59843:23a33d error, and a positive value is a warning.
+60022:23c3f4 error, and a positive value is a warning.
+60030:23c4fe (i32) code: the error code associated with an error. A value of 0 means no error, a negative value is an error, and a positive value is a warning.[W(string) source: an indication of where an error occurred, usually the name of the VI.
+60434:243dbc error, and a positive value is a warning.
+60446:2440c9 error, and a positive value is a warning.
+60451:24421b (i32) code: the error code associated with an error. A value of 0 means no error, a negative value is an error, and a positive value is a warning.
+61610:251fe5 error, and a positive value is a warning.
+61622:2522f2 error, and a positive value is a warning.
+61627:252444 (i32) code: the error code associated with an error. A value of 0 means no error, a negative value is an error, and a positive value is a warning.
+62759:25e917 error, and a positive value is a warning.
+62767:25ec03 error, and a positive value is a warning.
+62774:25ecb8 (i32) code: the error code associated with an error. A value of 0 means no error, a negative value is an error, and a positive value is a warning.[W(string) source: an indication of where an error occurred, usually the name of the VI.
+63515:27111c error, and a positive value is a warning.
+63532:2715f0 error, and a positive value is a warning.
+63540:2716fa (i32) code: the error code associated with an error. A value of 0 means no error, a negative value is an error, and a positive value is a warning.[W(string) source: an indication of where an error occurred, usually the name of the VI.
+66144:295dae error, and a positive value is a warning.
+66159:296180 error, and a positive value is a warning.
+66167:29628a (i32) code: the error code associated with an error. A value of 0 means no error, a negative value is an error, and a positive value is a warning.[W(string) source: an indication of where an error occurred, usually the name of the VI.
+68011:2b0756 error, and a positive value is a warning.
+68039:2b0ec6 error, and a positive value is a warning.
+68047:2b0fd0 (i32) code: the error code associated with an error. A value of 0 means no error, a negative value is an error, and a positive value is a warning.[W(string) source: an indication of where an error occurred, usually the name of the VI.
+68866:2b8a89 error, and a positive value is a warning.
+68898:2b902f error, and a positive value is a warning.
+68907:2b923b (i32) code: the error code associated with an error. A value of 0 means no error, a negative value is an error, and a positive value is a warning.[W(string) source: an indication of where an error occurred, usually the name of the VI.
+69679:2c4510 error, and a positive value is a warning.
+69696:2c48ea error, and a positive value is a warning.
+69699:2c497f (i32) code: the error code associated with an error. A value of 0 means no error, a negative value is an error, and a positive value is a warning.[W(string) source: an indication of where an error occurred, usually the name of the VI.
+70064:2cab46 error, and a positive value is a warning.
+70072:2cac71 (i32) code: the error code associated with an error. A value of 0 means no error, a negative value is an error, and a positive value is a warning.[W(string) source: an indication of where an error occurred, usually the name of the VI.
+70077:2caf62 error, and a positive value is a warning.
+70085:2cb046 (i32) code: the error code associated with an error. A value of 0 means no error, a negative value is an error, and a positive value is a warning.[W(string) source: an indication of where an error occurred, usually the name of the VI.
+70479:2d1ac4 error, and a positive value is a warning.
+70488:2d1d37 (i32) code: the error code associated with an error. A value of 0 means no error, a negative value is an error, and a positive value is a warning.[W(string) source: an indication of where an error occurred, usually the name of the VI.
+70493:2d2028 error, and a positive value is a warning.
+70501:2d210c (i32) code: the error code associated with an error. A value of 0 means no error, a negative value is an error, and a positive value is a warning.[W(string) source: an indication of where an error occurred, usually the name of the VI.
+102322:4c3e9d Added several Instr. Driver errors; they are now handled like DAQ errors (either negative or positive value is recognized); delted four Analysis errors (-20057 through -20060) and corrected descriptions of several others.
+230304:7c05d error, and a positive value is a warning.
+230489:7e228 error, and a positive value is a warning.
+230497:7e332 (i32) code: the error code associated with an error. A value of 0 means no error, a negative value is an error, and a positive value is a warning.[W(string) source: an indication of where an error occurred, usually the name of the VI.
+230922:85f50 error, and a positive value is a warning.
+230934:8625d error, and a positive value is a warning.
+230939:863af (i32) code: the error code associated with an error. A value of 0 means no error, a negative value is an error, and a positive value is a warning.
+232113:943a1 error, and a positive value is a warning.
+232125:946ae error, and a positive value is a warning.
+232130:94800 (i32) code: the error code associated with an error. A value of 0 means no error, a negative value is an error, and a positive value is a warning.
+233278:a0f77 error, and a positive value is a warning.
+233286:a1263 error, and a positive value is a warning.
+233293:a1318 (i32) code: the error code associated with an error. A value of 0 means no error, a negative value is an error, and a positive value is a warning.[W(string) source: an indication of where an error occurred, usually the name of the VI.
+234052:b3b54 error, and a positive value is a warning.
+234069:b4028 error, and a positive value is a warning.
+234077:b4132 (i32) code: the error code associated with an error. A value of 0 means no error, a negative value is an error, and a positive value is a warning.[W(string) source: an indication of where an error occurred, usually the name of the VI.
+236694:d8b4e error, and a positive value is a warning.
+236709:d8f20 error, and a positive value is a warning.
+236717:d902a (i32) code: the error code associated with an error. A value of 0 means no error, a negative value is an error, and a positive value is a warning.[W(string) source: an indication of where an error occurred, usually the name of the VI.
+238574:f3732 error, and a positive value is a warning.
+238602:f3ea2 error, and a positive value is a warning.
+238610:f3fac (i32) code: the error code associated with an error. A value of 0 means no error, a negative value is an error, and a positive value is a warning.[W(string) source: an indication of where an error occurred, usually the name of the VI.
+239441:fbca9 error, and a positive value is a warning.
+239473:fc24f error, and a positive value is a warning.
+239482:fc45b (i32) code: the error code associated with an error. A value of 0 means no error, a negative value is an error, and a positive value is a warning.[W(string) source: an indication of where an error occurred, usually the name of the VI.
+240279:107b44 error, and a positive value is a warning.
+240296:107f1e error, and a positive value is a warning.
+240299:107fb3 (i32) code: the error code associated with an error. A value of 0 means no error, a negative value is an error, and a positive value is a warning.[W(string) source: an indication of where an error occurred, usually the name of the VI.
+240680:10e456 error, and a positive value is a warning.
+240688:10e581 (i32) code: the error code associated with an error. A value of 0 means no error, a negative value is an error, and a positive value is a warning.[W(string) source: an indication of where an error occurred, usually the name of the VI.
+240693:10e872 error, and a positive value is a warning.
+240701:10e956 (i32) code: the error code associated with an error. A value of 0 means no error, a negative value is an error, and a positive value is a warning.[W(string) source: an indication of where an error occurred, usually the name of the VI.
+241112:1156d4 error, and a positive value is a warning.
+241121:115947 (i32) code: the error code associated with an error. A value of 0 means no error, a negative value is an error, and a positive value is a warning.[W(string) source: an indication of where an error occurred, usually the name of the VI.
+241126:115c38 error, and a positive value is a warning.
+241134:115d1c (i32) code: the error code associated with an error. A value of 0 means no error, a negative value is an error, and a positive value is a warning.[W(string) source: an indication of where an error occurred, usually the name of the VI.
+260755:23ca75 Added several Instr. Driver errors; they are now handled like DAQ errors (either negative or positive value is recognized); delted four Analysis errors (-20057 through -20060) and corrected descriptions of several others.
+296819:4934a error, and a positive value is a warning.
+297007:4b511 error, and a positive value is a warning.
+297015:4b61b (i32) code: the error code associated with an error. A value of 0 means no error, a negative value is an error, and a positive value is a warning.[W(string) source: an indication of where an error occurred, usually the name of the VI.
+297448:5322d error, and a positive value is a warning.
+297460:5353a error, and a positive value is a warning.
+297465:5368c (i32) code: the error code associated with an error. A value of 0 means no error, a negative value is an error, and a positive value is a warning.
+298651:61652 error, and a positive value is a warning.
+298663:6195f error, and a positive value is a warning.
+298668:61ab1 (i32) code: the error code associated with an error. A value of 0 means no error, a negative value is an error, and a positive value is a warning.
+299826:6e200 error, and a positive value is a warning.
+299834:6e4ec error, and a positive value is a warning.
+299841:6e5a1 (i32) code: the error code associated with an error. A value of 0 means no error, a negative value is an error, and a positive value is a warning.[W(string) source: an indication of where an error occurred, usually the name of the VI.
+300617:80db1 error, and a positive value is a warning.
+300634:81285 error, and a positive value is a warning.
+300642:8138f (i32) code: the error code associated with an error. A value of 0 means no error, a negative value is an error, and a positive value is a warning.[W(string) source: an indication of where an error occurred, usually the name of the VI.
+303293:a5d4b error, and a positive value is a warning.
+303308:a611d error, and a positive value is a warning.
+303316:a6227 (i32) code: the error code associated with an error. A value of 0 means no error, a negative value is an error, and a positive value is a warning.[W(string) source: an indication of where an error occurred, usually the name of the VI.
+305204:c08d7 error, and a positive value is a warning.
+305232:c1047 error, and a positive value is a warning.
+305240:c1151 (i32) code: the error code associated with an error. A value of 0 means no error, a negative value is an error, and a positive value is a warning.[W(string) source: an indication of where an error occurred, usually the name of the VI.
+306080:c8e32 error, and a positive value is a warning.
+306112:c93d8 error, and a positive value is a warning.
+306121:c95e4 (i32) code: the error code associated with an error. A value of 0 means no error, a negative value is an error, and a positive value is a warning.[W(string) source: an indication of where an error occurred, usually the name of the VI.
+312718:1342d2 error, and a positive value is a warning.
+312735:1346ac error, and a positive value is a warning.
+312738:134741 (i32) code: the error code associated with an error. A value of 0 means no error, a negative value is an error, and a positive value is a warning.[W(string) source: an indication of where an error occurred, usually the name of the VI.
+313124:13abdb error, and a positive value is a warning.
+313132:13ad06 (i32) code: the error code associated with an error. A value of 0 means no error, a negative value is an error, and a positive value is a warning.[W(string) source: an indication of where an error occurred, usually the name of the VI.
+313137:13aff7 error, and a positive value is a warning.
+313145:13b0db (i32) code: the error code associated with an error. A value of 0 means no error, a negative value is an error, and a positive value is a warning.[W(string) source: an indication of where an error occurred, usually the name of the VI.
+313558:141e4d error, and a positive value is a warning.
+313567:1420c0 (i32) code: the error code associated with an error. A value of 0 means no error, a negative value is an error, and a positive value is a warning.[W(string) source: an indication of where an error occurred, usually the name of the VI.
+313572:1423b1 error, and a positive value is a warning.
+313580:142495 (i32) code: the error code associated with an error. A value of 0 means no error, a negative value is an error, and a positive value is a warning.[W(string) source: an indication of where an error occurred, usually the name of the VI.
+314762:15a696 Added several Instr. Driver errors; they are now handled like DAQ errors (either negative or positive value is recognized); delted four Analysis errors (-20057 through -20060) and corrected descriptions of several others.
+329037:485ca error, and a positive value is a warning.
+329234:4a785 error, and a positive value is a warning.
+329242:4a88f (i32) code: the error code associated with an error. A value of 0 means no error, a negative value is an error, and a positive value is a warning.[W(string) source: an indication of where an error occurred, usually the name of the VI.
+329685:52519 error, and a positive value is a warning.
+329697:52826 error, and a positive value is a warning.
+329702:52978 (i32) code: the error code associated with an error. A value of 0 means no error, a negative value is an error, and a positive value is a warning.
+330901:6099a error, and a positive value is a warning.
+330913:60ca7 error, and a positive value is a warning.
+330918:60df9 (i32) code: the error code associated with an error. A value of 0 means no error, a negative value is an error, and a positive value is a warning.
+332087:6d514 error, and a positive value is a warning.
+332095:6d800 error, and a positive value is a warning.
+332102:6d8b5 (i32) code: the error code associated with an error. A value of 0 means no error, a negative value is an error, and a positive value is a warning.[W(string) source: an indication of where an error occurred, usually the name of the VI.
+332886:801c1 error, and a positive value is a warning.
+332903:80695 error, and a positive value is a warning.
+332911:8079f (i32) code: the error code associated with an error. A value of 0 means no error, a negative value is an error, and a positive value is a warning.[W(string) source: an indication of where an error occurred, usually the name of the VI.
+335567:a5033 error, and a positive value is a warning.
+335582:a5405 error, and a positive value is a warning.
+335590:a550f (i32) code: the error code associated with an error. A value of 0 means no error, a negative value is an error, and a positive value is a warning.[W(string) source: an indication of where an error occurred, usually the name of the VI.
+337478:bfbc3 error, and a positive value is a warning.
+337506:c0333 error, and a positive value is a warning.
+337514:c043d (i32) code: the error code associated with an error. A value of 0 means no error, a negative value is an error, and a positive value is a warning.[W(string) source: an indication of where an error occurred, usually the name of the VI.
+338357:c814f error, and a positive value is a warning.
+338389:c86f5 error, and a positive value is a warning.
+338398:c8901 (i32) code: the error code associated with an error. A value of 0 means no error, a negative value is an error, and a positive value is a warning.[W(string) source: an indication of where an error occurred, usually the name of the VI.
+339185:d37b2 error, and a positive value is a warning.
+339202:d3b8c error, and a positive value is a warning.
+339205:d3c21 (i32) code: the error code associated with an error. A value of 0 means no error, a negative value is an error, and a positive value is a warning.[W(string) source: an indication of where an error occurred, usually the name of the VI.
+339591:da0b3 error, and a positive value is a warning.
+339599:da1de (i32) code: the error code associated with an error. A value of 0 means no error, a negative value is an error, and a positive value is a warning.[W(string) source: an indication of where an error occurred, usually the name of the VI.
+339604:da4cf error, and a positive value is a warning.
+339612:da5b3 (i32) code: the error code associated with an error. A value of 0 means no error, a negative value is an error, and a positive value is a warning.[W(string) source: an indication of where an error occurred, usually the name of the VI.
+340036:e1375 error, and a positive value is a warning.
+340045:e15e8 (i32) code: the error code associated with an error. A value of 0 means no error, a negative value is an error, and a positive value is a warning.[W(string) source: an indication of where an error occurred, usually the name of the VI.
+340050:e18d9 error, and a positive value is a warning.
+340058:e19bd (i32) code: the error code associated with an error. A value of 0 means no error, a negative value is an error, and a positive value is a warning.[W(string) source: an indication of where an error occurred, usually the name of the VI.
+341241:f9c75 Added several Instr. Driver errors; they are now handled like DAQ errors (either negative or positive value is recognized); delted four Analysis errors (-20057 through -20060) and corrected descriptions of several others.
+351749:4731d error, and a positive value is a warning.
+351934:494e8 error, and a positive value is a warning.
+351942:495f2 (i32) code: the error code associated with an error. A value of 0 means no error, a negative value is an error, and a positive value is a warning.[W(string) source: an indication of where an error occurred, usually the name of the VI.
+352367:51210 error, and a positive value is a warning.
+352379:5151d error, and a positive value is a warning.
+352384:5166f (i32) code: the error code associated with an error. A value of 0 means no error, a negative value is an error, and a positive value is a warning.
+353558:5f661 error, and a positive value is a warning.
+353570:5f96e error, and a positive value is a warning.
+353575:5fac0 (i32) code: the error code associated with an error. A value of 0 means no error, a negative value is an error, and a positive value is a warning.
+354882:7618c error, and a positive value is a warning.
+354899:76660 error, and a positive value is a warning.
+354907:7676a (i32) code: the error code associated with an error. A value of 0 means no error, a negative value is an error, and a positive value is a warning.[W(string) source: an indication of where an error occurred, usually the name of the VI.
+357524:9b186 error, and a positive value is a warning.
+357539:9b558 error, and a positive value is a warning.
+357547:9b662 (i32) code: the error code associated with an error. A value of 0 means no error, a negative value is an error, and a positive value is a warning.[W(string) source: an indication of where an error occurred, usually the name of the VI.
+359404:b5d6a error, and a positive value is a warning.
+359432:b64da error, and a positive value is a warning.
+359440:b65e4 (i32) code: the error code associated with an error. A value of 0 means no error, a negative value is an error, and a positive value is a warning.[W(string) source: an indication of where an error occurred, usually the name of the VI.
+361413:d3acc error, and a positive value is a warning.
+361427:d3f48 error, and a positive value is a warning.
+371913:18cb2e Added several Instr. Driver errors; they are now handled like DAQ errors (either negative or positive value is recognized); delted four Analysis errors (-20057 through -20060) and corrected descriptions of several others.
+402195:387fe6 error, and a positive value is a warning.
+402200:388239 (i32) code: the error code associated with an error. A value of 0 means no error, a negative value is an error, and a positive value is a warning.[W(string) source: an indication of where an error occurred, usually the name of the VI.
+402205:38852a error, and a positive value is a warning.
+402209:3885ee (i32) code: the error code associated with an error. A value of 0 means no error, a negative value is an error, and a positive value is a warning.[W(string) source: an indication of where an error occurred, usually the name of the VI.
+402629:38f964 error, and a positive value is a warning.
+402633:38fa6f (i32) code: the error code associated with an error. A value of 0 means no error, a negative value is an error, and a positive value is a warning.[W(string) source: an indication of where an error occurred, usually the name of the VI.
+402638:38fd60 error, and a positive value is a warning.
+402642:38fe24 (i32) code: the error code associated with an error. A value of 0 means no error, a negative value is an error, and a positive value is a warning.[W(string) source: an indication of where an error occurred, usually the name of the VI.
+403034:396acd error, and a positive value is a warning.
+403043:396e67 error, and a positive value is a warning.
+403046:396efc (i32) code: the error code associated with an error. A value of 0 means no error, a negative value is an error, and a positive value is a warning.[W(string) source: an indication of where an error occurred, usually the name of the VI.
+403394:39c527 error, and a positive value is a warning.
+403407:39c9ca error, and a positive value is a warning.
+417602:4d3c error, and a positive value is a warning.
+417616:51d2 error, and a positive value is a warning.
+422448:471be error, and a positive value is a warning.
+422636:49385 error, and a positive value is a warning.
+422644:4948f (i32) code: the error code associated with an error. A value of 0 means no error, a negative value is an error, and a positive value is a warning.[W(string) source: an indication of where an error occurred, usually the name of the VI.
+423077:510a1 error, and a positive value is a warning.
+423089:513ae error, and a positive value is a warning.
+423094:51500 (i32) code: the error code associated with an error. A value of 0 means no error, a negative value is an error, and a positive value is a warning.
+424280:5f4c6 error, and a positive value is a warning.
+424292:5f7d3 error, and a positive value is a warning.
+424297:5f925 (i32) code: the error code associated with an error. A value of 0 means no error, a negative value is an error, and a positive value is a warning.
+425616:75fbd error, and a positive value is a warning.
+425633:76491 error, and a positive value is a warning.
+425641:7659b (i32) code: the error code associated with an error. A value of 0 means no error, a negative value is an error, and a positive value is a warning.[W(string) source: an indication of where an error occurred, usually the name of the VI.
+428292:9af57 error, and a positive value is a warning.
+428307:9b329 error, and a positive value is a warning.
+428315:9b433 (i32) code: the error code associated with an error. A value of 0 means no error, a negative value is an error, and a positive value is a warning.[W(string) source: an indication of where an error occurred, usually the name of the VI.
+430203:b5ae3 error, and a positive value is a warning.
+430231:b6253 error, and a positive value is a warning.
+430239:b635d (i32) code: the error code associated with an error. A value of 0 means no error, a negative value is an error, and a positive value is a warning.[W(string) source: an indication of where an error occurred, usually the name of the VI.
+434613:100759 Added several Instr. Driver errors; they are now handled like DAQ errors (either negative or positive value is recognized); delted four Analysis errors (-20057 through -20060) and corrected descriptions of several others.
+434968:1065c4 error, and a positive value is a warning.
+434973:106817 (i32) code: the error code associated with an error. A value of 0 means no error, a negative value is an error, and a positive value is a warning.[W(string) source: an indication of where an error occurred, usually the name of the VI.
+434978:106b08 error, and a positive value is a warning.
+434982:106bcc (i32) code: the error code associated with an error. A value of 0 means no error, a negative value is an error, and a positive value is a warning.[W(string) source: an indication of where an error occurred, usually the name of the VI.
+435403:10df41 error, and a positive value is a warning.
+435407:10e04c (i32) code: the error code associated with an error. A value of 0 means no error, a negative value is an error, and a positive value is a warning.[W(string) source: an indication of where an error occurred, usually the name of the VI.
+435412:10e33d error, and a positive value is a warning.
+435416:10e401 (i32) code: the error code associated with an error. A value of 0 means no error, a negative value is an error, and a positive value is a warning.[W(string) source: an indication of where an error occurred, usually the name of the VI.
+435811:1150a5 error, and a positive value is a warning.
+435820:11543f error, and a positive value is a warning.
+435823:1154d4 (i32) code: the error code associated with an error. A value of 0 means no error, a negative value is an error, and a positive value is a warning.[W(string) source: an indication of where an error occurred, usually the name of the VI.
+443240:18968a error, and a positive value is a warning.
+443253:189b2d error, and a positive value is a warning.
+443876:191f5b error, and a positive value is a warning.
+443890:1923d7 error, and a positive value is a warning.
+457336:45a16 error, and a positive value is a warning.
+457533:47bd1 error, and a positive value is a warning.
+457541:47cdb (i32) code: the error code associated with an error. A value of 0 means no error, a negative value is an error, and a positive value is a warning.[W(string) source: an indication of where an error occurred, usually the name of the VI.
+457984:4f965 error, and a positive value is a warning.
+457996:4fc72 error, and a positive value is a warning.
+458001:4fdc4 (i32) code: the error code associated with an error. A value of 0 means no error, a negative value is an error, and a positive value is a warning.
+459200:5dde6 error, and a positive value is a warning.
+459212:5e0f3 error, and a positive value is a warning.
+459217:5e245 (i32) code: the error code associated with an error. A value of 0 means no error, a negative value is an error, and a positive value is a warning.
+460552:749b1 error, and a positive value is a warning.
+460569:74e85 error, and a positive value is a warning.
+460577:74f8f (i32) code: the error code associated with an error. A value of 0 means no error, a negative value is an error, and a positive value is a warning.[W(string) source: an indication of where an error occurred, usually the name of the VI.
+463233:99823 error, and a positive value is a warning.
+463248:99bf5 error, and a positive value is a warning.
+463256:99cff (i32) code: the error code associated with an error. A value of 0 means no error, a negative value is an error, and a positive value is a warning.[W(string) source: an indication of where an error occurred, usually the name of the VI.
+465144:b43b3 error, and a positive value is a warning.
+465172:b4b23 error, and a positive value is a warning.
+465180:b4c2d (i32) code: the error code associated with an error. A value of 0 means no error, a negative value is an error, and a positive value is a warning.[W(string) source: an indication of where an error occurred, usually the name of the VI.
+466583:c49ce error, and a positive value is a warning.
+466596:c4e71 error, and a positive value is a warning.
+467701:d3143 error, and a positive value is a warning.
+467715:d35bf error, and a positive value is a warning.
+468362:dc8d4 error, and a positive value is a warning.
+468371:dcc6e error, and a positive value is a warning.
+468374:dcd03 (i32) code: the error code associated with an error. A value of 0 means no error, a negative value is an error, and a positive value is a warning.[W(string) source: an indication of where an error occurred, usually the name of the VI.
+468796:e3d61 error, and a positive value is a warning.
+468800:e3e6c (i32) code: the error code associated with an error. A value of 0 means no error, a negative value is an error, and a positive value is a warning.[W(string) source: an indication of where an error occurred, usually the name of the VI.
+468805:e415d error, and a positive value is a warning.
+468809:e4221 (i32) code: the error code associated with an error. A value of 0 means no error, a negative value is an error, and a positive value is a warning.[W(string) source: an indication of where an error occurred, usually the name of the VI.
+469235:eba77 error, and a positive value is a warning.
+469240:ebcca (i32) code: the error code associated with an error. A value of 0 means no error, a negative value is an error, and a positive value is a warning.[W(string) source: an indication of where an error occurred, usually the name of the VI.
+469245:ebfbb error, and a positive value is a warning.
+469249:ec07f (i32) code: the error code associated with an error. A value of 0 means no error, a negative value is an error, and a positive value is a warning.[W(string) source: an indication of where an error occurred, usually the name of the VI.
+470589:10fcd3 Added several Instr. Driver errors; they are now handled like DAQ errors (either negative or positive value is recognized); delted four Analysis errors (-20057 through -20060) and corrected descriptions of several others.
+480965:4731d error, and a positive value is a warning.
+481150:494e8 error, and a positive value is a warning.
+481158:495f2 (i32) code: the error code associated with an error. A value of 0 means no error, a negative value is an error, and a positive value is a warning.[W(string) source: an indication of where an error occurred, usually the name of the VI.
+481583:51210 error, and a positive value is a warning.
+481595:5151d error, and a positive value is a warning.
+481600:5166f (i32) code: the error code associated with an error. A value of 0 means no error, a negative value is an error, and a positive value is a warning.
+482774:5f661 error, and a positive value is a warning.
+482786:5f96e error, and a positive value is a warning.
+482791:5fac0 (i32) code: the error code associated with an error. A value of 0 means no error, a negative value is an error, and a positive value is a warning.
+484098:7618c error, and a positive value is a warning.
+484115:76660 error, and a positive value is a warning.
+484123:7676a (i32) code: the error code associated with an error. A value of 0 means no error, a negative value is an error, and a positive value is a warning.[W(string) source: an indication of where an error occurred, usually the name of the VI.
+486740:9b186 error, and a positive value is a warning.
+486755:9b558 error, and a positive value is a warning.
+486763:9b662 (i32) code: the error code associated with an error. A value of 0 means no error, a negative value is an error, and a positive value is a warning.[W(string) source: an indication of where an error occurred, usually the name of the VI.
+488620:b5d6a error, and a positive value is a warning.
+488648:b64da error, and a positive value is a warning.
+488656:b65e4 (i32) code: the error code associated with an error. A value of 0 means no error, a negative value is an error, and a positive value is a warning.[W(string) source: an indication of where an error occurred, usually the name of the VI.
+504530:1ef909 Added several Instr. Driver errors; they are now handled like DAQ errors (either negative or positive value is recognized); delted four Analysis errors (-20057 through -20060) and corrected descriptions of several others.
+525027:388a2c error, and a positive value is a warning.
+525030:388b10 (i32) code: the error code associated with an error. A value of 0 means no error, a negative value is an error, and a positive value is a warning.
+525031:388ba8 (i32) code: the error code associated with an error. A value of 0 means no error, a negative value is an error, and a positive value is a warning.l
+525037:388e9f error, and a positive value is a warning.
+525332:38e859 error, and a positive value is a warning.
+525335:38e8f1 (i32) code: the error code associated with an error. A value of 0 means no error, a negative value is an error, and a positive value is a warning.L
+525343:38ecdc error, and a positive value is a warning.
+525346:38ed74 (i32) code: the error code associated with an error. A value of 0 means no error, a negative value is an error, and a positive value is a warning.
+525613:394194 error, and a positive value is a warning.
+525617:3942a8 (i32) code: the error code associated with an error. A value of 0 means no error, a negative value is an error, and a positive value is a warning.l
+525624:394627 error, and a positive value is a warning.
+525627:3946bf (i32) code: the error code associated with an error. A value of 0 means no error, a negative value is an error, and a positive value is a warning.
+526211:39e185 error, and a positive value is a warning.
+526225:39e69e error, and a positive value is a warning.
+526568:3a4c9a error, and a positive value is a warning.
+526584:3a51fb error, and a positive value is a warning.
+530070:4d3c error, and a positive value is a warning.
+530084:51d2 error, and a positive value is a warning.
+534916:471be error, and a positive value is a warning.
+535104:49385 error, and a positive value is a warning.
+535112:4948f (i32) code: the error code associated with an error. A value of 0 means no error, a negative value is an error, and a positive value is a warning.[W(string) source: an indication of where an error occurred, usually the name of the VI.
+535545:510a1 error, and a positive value is a warning.
+535557:513ae error, and a positive value is a warning.
+535562:51500 (i32) code: the error code associated with an error. A value of 0 means no error, a negative value is an error, and a positive value is a warning.
+536748:5f4c6 error, and a positive value is a warning.
+536760:5f7d3 error, and a positive value is a warning.
+536765:5f925 (i32) code: the error code associated with an error. A value of 0 means no error, a negative value is an error, and a positive value is a warning.
+538084:75fbd error, and a positive value is a warning.
+538101:76491 error, and a positive value is a warning.
+538109:7659b (i32) code: the error code associated with an error. A value of 0 means no error, a negative value is an error, and a positive value is a warning.[W(string) source: an indication of where an error occurred, usually the name of the VI.
+540760:9af57 error, and a positive value is a warning.
+540775:9b329 error, and a positive value is a warning.
+540783:9b433 (i32) code: the error code associated with an error. A value of 0 means no error, a negative value is an error, and a positive value is a warning.[W(string) source: an indication of where an error occurred, usually the name of the VI.
+542671:b5ae3 error, and a positive value is a warning.
+542699:b6253 error, and a positive value is a warning.
+542707:b635d (i32) code: the error code associated with an error. A value of 0 means no error, a negative value is an error, and a positive value is a warning.[W(string) source: an indication of where an error occurred, usually the name of the VI.
+546988:ff669 Added several Instr. Driver errors; they are now handled like DAQ errors (either negative or positive value is recognized); delted four Analysis errors (-20057 through -20060) and corrected descriptions of several others.
+547343:1054d4 error, and a positive value is a warning.
+547348:105727 (i32) code: the error code associated with an error. A value of 0 means no error, a negative value is an error, and a positive value is a warning.[W(string) source: an indication of where an error occurred, usually the name of the VI.
+547353:105a18 error, and a positive value is a warning.
+547357:105adc (i32) code: the error code associated with an error. A value of 0 means no error, a negative value is an error, and a positive value is a warning.[W(string) source: an indication of where an error occurred, usually the name of the VI.
+547778:10ce51 error, and a positive value is a warning.
+547782:10cf5c (i32) code: the error code associated with an error. A value of 0 means no error, a negative value is an error, and a positive value is a warning.[W(string) source: an indication of where an error occurred, usually the name of the VI.
+547787:10d24d error, and a positive value is a warning.
+547791:10d311 (i32) code: the error code associated with an error. A value of 0 means no error, a negative value is an error, and a positive value is a warning.[W(string) source: an indication of where an error occurred, usually the name of the VI.
+548186:113fb5 error, and a positive value is a warning.
+548195:11434f error, and a positive value is a warning.
+548198:1143e4 (i32) code: the error code associated with an error. A value of 0 means no error, a negative value is an error, and a positive value is a warning.[W(string) source: an indication of where an error occurred, usually the name of the VI.
+549169:12567e error, and a positive value is a warning.
+549182:125b21 error, and a positive value is a warning.
+549805:12df4f error, and a positive value is a warning.
+549819:12e3cb error, and a positive value is a warning.
+565252:45a16 error, and a positive value is a warning.
+565449:47bd1 error, and a positive value is a warning.
+565457:47cdb (i32) code: the error code associated with an error. A value of 0 means no error, a negative value is an error, and a positive value is a warning.[W(string) source: an indication of where an error occurred, usually the name of the VI.
+565900:4f965 error, and a positive value is a warning.
+565912:4fc72 error, and a positive value is a warning.
+565917:4fdc4 (i32) code: the error code associated with an error. A value of 0 means no error, a negative value is an error, and a positive value is a warning.
+567116:5dde6 error, and a positive value is a warning.
+567128:5e0f3 error, and a positive value is a warning.
+567133:5e245 (i32) code: the error code associated with an error. A value of 0 means no error, a negative value is an error, and a positive value is a warning.
+568468:749b1 error, and a positive value is a warning.
+568485:74e85 error, and a positive value is a warning.
+568493:74f8f (i32) code: the error code associated with an error. A value of 0 means no error, a negative value is an error, and a positive value is a warning.[W(string) source: an indication of where an error occurred, usually the name of the VI.
+571149:99823 error, and a positive value is a warning.
+571164:99bf5 error, and a positive value is a warning.
+571172:99cff (i32) code: the error code associated with an error. A value of 0 means no error, a negative value is an error, and a positive value is a warning.[W(string) source: an indication of where an error occurred, usually the name of the VI.
+573060:b43b3 error, and a positive value is a warning.
+573088:b4b23 error, and a positive value is a warning.
+573096:b4c2d (i32) code: the error code associated with an error. A value of 0 means no error, a negative value is an error, and a positive value is a warning.[W(string) source: an indication of where an error occurred, usually the name of the VI.
+574493:c4976 error, and a positive value is a warning.
+574506:c4e19 error, and a positive value is a warning.
+578026:142a1c error, and a positive value is a warning.
+578042:142f7d error, and a positive value is a warning.
+578373:148ae9 error, and a positive value is a warning.
+578377:148bfd (i32) code: the error code associated with an error. A value of 0 means no error, a negative value is an error, and a positive value is a warning.l
+578384:148f7c error, and a positive value is a warning.
+578387:149014 (i32) code: the error code associated with an error. A value of 0 means no error, a negative value is an error, and a positive value is a warning.
+578664:14e792 error, and a positive value is a warning.
+578667:14e82a (i32) code: the error code associated with an error. A value of 0 means no error, a negative value is an error, and a positive value is a warning.L
+578675:14ec15 error, and a positive value is a warning.
+578678:14ecad (i32) code: the error code associated with an error. A value of 0 means no error, a negative value is an error, and a positive value is a warning.
+578956:154d17 error, and a positive value is a warning.
+578959:154dfb (i32) code: the error code associated with an error. A value of 0 means no error, a negative value is an error, and a positive value is a warning.
+578960:154e93 (i32) code: the error code associated with an error. A value of 0 means no error, a negative value is an error, and a positive value is a warning.l
+578966:15518a error, and a positive value is a warning.
+579949:1737cf Added several Instr. Driver errors; they are now handled like DAQ errors (either negative or positive value is recognized); delted four Analysis errors (-20057 through -20060) and corrected descriptions of several others.
+585688:47295 error, and a positive value is a warning.
+585873:49460 error, and a positive value is a warning.
+585881:4956a (i32) code: the error code associated with an error. A value of 0 means no error, a negative value is an error, and a positive value is a warning.[W(string) source: an indication of where an error occurred, usually the name of the VI.
+586306:51188 error, and a positive value is a warning.
+586318:51495 error, and a positive value is a warning.
+586323:515e7 (i32) code: the error code associated with an error. A value of 0 means no error, a negative value is an error, and a positive value is a warning.
+587497:5f5d9 error, and a positive value is a warning.
+587509:5f8e6 error, and a positive value is a warning.
+587514:5fa38 (i32) code: the error code associated with an error. A value of 0 means no error, a negative value is an error, and a positive value is a warning.
+588820:760ec error, and a positive value is a warning.
+588837:765c0 error, and a positive value is a warning.
+588845:766ca (i32) code: the error code associated with an error. A value of 0 means no error, a negative value is an error, and a positive value is a warning.[W(string) source: an indication of where an error occurred, usually the name of the VI.
+591462:9b0e6 error, and a positive value is a warning.
+591477:9b4b8 error, and a positive value is a warning.
+591485:9b5c2 (i32) code: the error code associated with an error. A value of 0 means no error, a negative value is an error, and a positive value is a warning.[W(string) source: an indication of where an error occurred, usually the name of the VI.
+593342:b5cca error, and a positive value is a warning.
+593370:b643a error, and a positive value is a warning.
+593378:b6544 (i32) code: the error code associated with an error. A value of 0 means no error, a negative value is an error, and a positive value is a warning.[W(string) source: an indication of where an error occurred, usually the name of the VI.
+608276:1b540d Added several Instr. Driver errors; they are now handled like DAQ errors (either negative or positive value is recognized); delted four Analysis errors (-20057 through -20060) and corrected descriptions of several others.

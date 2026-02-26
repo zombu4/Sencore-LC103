@@ -1,0 +1,99 @@
+# DEEPMAX Findings (2026-02-25)
+
+- pass_count: 80737
+- unique_names: 80737
+- unique_patterns: 80737
+- unique_output_hashes: 80737
+- candidate_high_value_texts: 77522
+- min_line_count: 1
+- max_line_count: 4751
+- elapsed_sec: 643.83
+
+## Cluster Coverage
+- comms: 6114
+- inductance: 545
+- current_source: 382
+- leakage_current: 356
+- softrev_files: 236
+- leakage_voltage: 186
+- cap_esr: 147
+- gain: 76
+- flow_ui: 39
+- ringer: 28
+
+## Top Tokens
+- error: 32837
+- source: 6276
+- timeout: 3966
+- test: 2767
+- file: 2358
+- current: 2143
+- leads: 2100
+- message: 2009
+- flag: 1943
+- mode: 1926
+- serial: 1687
+- abort: 1682
+- path: 1663
+- logical: 1536
+- code: 1535
+- instr: 1412
+- teste: 1406
+- addr: 1279
+- value: 1266
+- ranges: 1266
+- gpib: 1265
+- port: 1153
+- range: 1145
+- cluster.ctl: 839
+- comm.viw: 789
+- comm.vi: 774
+- open: 753
+- automated: 728
+- lv51: 728
+- lvsource: 728
+- string: 688
+- bytes: 680
+- voltage: 655
+- read: 631
+- status: 624
+- true: 603
+- error.: 574
+- offset: 553
+- calibration: 546
+- gencode.cgenrangecheck: 544
+- start: 538
+- 488.2: 508
+- number: 497
+- address: 491
+- inductance: 486
+- with: 472
+- data: 471
+- name: 454
+- leakage: 449
+- global: 447
+- t_setup.vi: 445
+- reading: 426
+- time: 416
+- source.ctl: 415
+- from: 405
+- occurred: 394
+- general: 388
+- occurred.: 387
+- associated: 385
+- dialog: 361
+
+## Sample Recovered High-Value Lines
+- literal_416552 Current Source CalibrationfConnect the UUT and/or DVM leads to
+- literal_4165e7 Gain CalibrationfConnect the UUT and/or DVM leads to
+- literal_41672a Leakage Voltage CalibrationfConnect the UUT and/or DVM leads to
+- literal_4168d1 Leakage Current TestfConnect the UUT and/or DVM leads to
+- literal_1e7add *.calCPlease choose the file containing the capacitance calibration data.
+- literal_48c3cf ESR Calibration PassedV
+- literal_3b4381 *.calBPlease choose the file containing the inductance calibration data.d
+- literal_4448dc >>>Adjust R1144 for the number
+- literal_4449c1 AABNow adjust R1005 for the number
+- literal_5e19a8 Press F1 to change paths.Y
+- literal_57afcf PAn invalid Software Rev. number was specified. Please fix this after cal
+- literal_2e8beb Set Serial Number
+- literal_45fc81 Set Cal Date`

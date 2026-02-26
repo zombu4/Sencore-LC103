@@ -1,0 +1,51 @@
+52984:1cac48 creates a new file or replaces a file if it exists and you give permission. Replacement is done by opening the file and setting EOF to 0. Error 43 occurs if the user elects to disallow the replacement using dialog. 
+52990:1cadfd plprompt is the message that appears below the list of files and directories (or folders) in the file dialog.
+54004:1dbb16 2 (create or replace) creates a new file or replaces a file if it exists and you give permission.  Replacement is done by opening the file and setting EOF to 0.  Error 43 occurs if the user elects to disallow the replacement using dialog.  
+54007:1dbce6 prompt is the message that appears below the list of files and directories in the file dialog.
+99471:4910e9 plprompt is the message that appears below the list of files and directories (or folders) in the file dialog.
+100017:49a1ba prompt is the message that appears below the list of files and directories in the file dialog.
+101577:4b6de4 displays a dialog box with buttons allowing the user to either continue or stop. If the user cancels, the VI calls the Stop function to halt execution. 
+223241:9874 creates a new file or replaces a file if it exists and you give permission. Replacement is done by opening the file and setting EOF to 0. Error 43 occurs if the user elects to disallow the replacement using dialog. 
+223247:9a29 plprompt is the message that appears below the list of files and directories (or folders) in the file dialog.
+224261:1a742 2 (create or replace) creates a new file or replaces a file if it exists and you give permission.  Replacement is done by opening the file and setting EOF to 0.  Error 43 occurs if the user elects to disallow the replacement using dialog.  
+224264:1a912 prompt is the message that appears below the list of files and directories in the file dialog.
+224497:1d44e 2 (create or replace) creates a new file or replaces a file if it exists and you give permission.  Replacement is done by opening the file and setting EOF to 0.  Error 43 occurs if the user elects to disallow the replacement using dialog.  
+224500:1d61e prompt is the message that appears below the list of files and directories in the file dialog.
+257801:207a15 plprompt is the message that appears below the list of files and directories (or folders) in the file dialog.
+258347:210ae6 prompt is the message that appears below the list of files and directories in the file dialog.
+258530:212870 prompt is the message that appears below the list of files and directories in the file dialog.
+260010:22f9bc displays a dialog box with buttons allowing the user to either continue or stop. If the user cancels, the VI calls the Stop function to halt execution. 
+313998:14d5d9 displays a dialog box with buttons allowing the user to either continue or stop. If the user cancels, the VI calls the Stop function to halt execution. 
+340481:ecbbc displays a dialog box with buttons allowing the user to either continue or stop. If the user cancels, the VI calls the Stop function to halt execution. 
+371455:183787 displays a dialog box with buttons allowing the user to either continue or stop. If the user cancels, the VI calls the Stop function to halt execution. 
+374017:1ad59f prompt is the message that appears below the list of files and directories in the file dialog.
+374027:1add01 plprompt is the message that appears below the list of files and directories (or folders) in the file dialog.
+394244:30c682 2 (create or replace) creates a new file or replaces a file if it exists and you give permission.  Replacement is done by opening the file and setting EOF to 0.  Error 43 occurs if the user elects to disallow the replacement using dialog.  
+394247:30c852 prompt is the message that appears below the list of files and directories in the file dialog.
+404023:3a3ef0 prompt is the message that appears below the list of files and directories in the file dialog.
+406180:3cb952 2 (create or replace) creates a new file or replaces a file if it exists and you give permission.  Replacement is done by opening the file and setting EOF to 0.  Error 43 occurs if the user elects to disallow the replacement using dialog.  
+406183:3cbb22 prompt is the message that appears below the list of files and directories in the file dialog.
+406193:3cc299 plprompt is the message that appears below the list of files and directories (or folders) in the file dialog.
+406202:3cc767 creates a new file or replaces a file if it exists and you give permission. Replacement is done by opening the file and setting EOF to 0. Error 43 occurs if the user elects to disallow the replacement using dialog. 
+434156:f73aa displays a dialog box with buttons allowing the user to either continue or stop. If the user cancels, the VI calls the Stop function to halt execution. 
+470135:10692b displays a dialog box with buttons allowing the user to either continue or stop. If the user cancels, the VI calls the Stop function to halt execution. 
+504205:1e9baa displays a dialog box with buttons allowing the user to either continue or stop. If the user cancels, the VI calls the Stop function to halt execution. 
+505863:207c94 prompt is the message that appears below the list of files and directories in the file dialog.
+506072:20a39f lprompt is the message that appears below the list of files and directories (or folders) in the file dialog.
+520836:33bf7a 2 (create or replace) creates a new file or replaces a file if it exists and you give permission.  Replacement is done by opening the file and setting EOF to 0.  Error 43 occurs if the user elects to disallow the replacement using dialog.  
+520839:33c14a prompt is the message that appears below the list of files and directories in the file dialog.
+527360:3b2b3c prompt is the message that appears below the list of files and directories in the file dialog.
+528194:3c80b9 2 (create or replace) creates a new file or replaces a file if it exists and you give permission.  Replacement is done by opening the file and setting EOF to 0.  Error 43 occurs if the user elects to disallow the replacement using dialog.  
+528197:3c8289 prompt is the message that appears below the list of files and directories in the file dialog.
+528589:3cc0c5 lprompt is the message that appears below the list of files and directories (or folders) in the file dialog.
+528606:3cca63 creates a new file or replaces a file if it exists and you give permission. Replacement is done by opening the file and setting EOF to 0. Error 43 occurs if the user elects to disallow the replacement using dialog. 
+546531:f62ba displays a dialog box with buttons allowing the user to either continue or stop. If the user cancels, the VI calls the Stop function to halt execution. 
+579624:16da6d displays a dialog box with buttons allowing the user to either continue or stop. If the user cancels, the VI calls the Stop function to halt execution. 
+595370:d52f2 2 (create or replace) creates a new file or replaces a file if it exists and you give permission.  Replacement is done by opening the file and setting EOF to 0.  Error 43 occurs if the user elects to disallow the replacement using dialog.  
+595373:d54c2 prompt is the message that appears below the list of files and directories in the file dialog.
+595859:e22d5 2 (create or replace) creates a new file or replaces a file if it exists and you give permission.  Replacement is done by opening the file and setting EOF to 0.  Error 43 occurs if the user elects to disallow the replacement using dialog.  
+595862:e24a5 prompt is the message that appears below the list of files and directories in the file dialog.
+596254:e62e1 lprompt is the message that appears below the list of files and directories (or folders) in the file dialog.
+596271:e6c7f creates a new file or replaces a file if it exists and you give permission. Replacement is done by opening the file and setting EOF to 0. Error 43 occurs if the user elects to disallow the replacement using dialog. 
+596759:f3d9c prompt is the message that appears below the list of files and directories in the file dialog.
+607059:19f704 prompt is the message that appears below the list of files and directories in the file dialog.

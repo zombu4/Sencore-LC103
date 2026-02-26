@@ -1,0 +1,278 @@
+# Cap Ranges
+# Ind Ranges
+output error
+return count
+return count"
+return count2@P
+return count4
+return count@
+return count[
+system error
+system error"
+system error$
+system errorM
+system errorX
+     (bool) status: TRUE if an error has occurred.
+     (i32) code: the error code associated with an error.
+     A value of 0 means no error, a negative value is an
+     error occurred, usually the name of the VI.
+     error, and a positive value is a warning.
+    0=1.1MOhm connected to UUT leads; Same as '9'.
+ 0 NULLend - Do nothing at end of transfer.OKdata string contains the data bytes that the VI sends to the GPIB device. 
+ 1 = Set END bit on the last byte of transfer
+ Correction to error description.
+ start of read offset (chars.:0 )
+ status[15]- GPIB error detected
+ status[15]- GPIB error detectedA=data string contains count data bytes from the GPIB device. 
+!!!user OKs the overwrite explicitlyiD
+!Open or Create File (function=%d)
+#Hid error arrays; cosmetic changes.
+%status is TRUE if an error occurred.
+(i32) The error code associated with an error.  Possible values:
+(i32) code: the error code associated with an error.  A value of 0 means no error, a negative value is an error, and a positive value is a warning.
+)Additions and changes to DAQ error codes.
++Corrected description for errors 69 and 71.
+--------------LOAD SELECT--------------------------------------
+-1201  Error finding instruments
+-1210  Parameter out of range
+-1220  Error getting attribute
+-1221  Error setting attribute
+-1224  Error clearing instrument
+-1225  Error triggering instrument
+-1226  Error polling instrument
+-1230  Error writing to instrument
+-1231  Error reading from instrument
+-1250  Error mapping VXI address
+-1251  Error unmapping VXI address
+-1252  Error accessing VXIbus
+-GPIB bus error (commands)
+-file system error
+///user denies permission to overwrite; close filea
+0 (open) opens an existing file.  Error 7 occurs if the file cannot be found.
+0code is the error code; the default value is 0.
+1 (open or create) opens an existing file or creates a new file if one does not exist.
+1-(bool) status: TRUE if an error has occurred."
+112create a new file if function=1-3 (open or create)
+3 (create) creates a new file.  Error 8 occurs if the file already exists.
+333Short the UUT leads to the
+778file is now open; proceed if function=1 (open or create){D
+===Short the UUT leads to the
+@return count
+@return count2P@
+@system error
+@ Error\FC Out
+@ Error\FC Out@0
+@ Error\FC Out"Y
+@ Error\FC Out4#3c
+@!Error\FC Out
+@Initializes the selected serial port to the specified settings.
+Argument Error
+Astatus is TRUE if an error occurred; the default value is FALSE.
+BBBNow connect the red lead to the
+Bus error occurred during transfer
+Can't Open Device
+Capacitance Box Cal Data File
+Close File+.vi
+Comm Error In
+Comm Error Out
+Config Memory Error
+Config Parse Error
+Config Token Not Found
+Connection In progress
+Connection aborted
+Connection closed+Initialize error (interapplication manager)
+Connection is already connected
+Connection is not connected
+Connection refused
+Connection timed out!Connection is already in progress
+Device Parameter Error
+Device Unit Error
+Doub Click Num
+Error Conditions (Bit 15 = 1)
+Error Message
+Error\FC In@0
+Error\FC In(F)
+Error\FC Out(F)
+File Permission Error
+Find First Error.vi
+Find First Error.viPTH0
+For most applications, you only need to connect wires to the controls and indicators displayed in bold.
+GPIB error is valid only if bit 15 of status is set.
+GPIB error is valid only if bit 15 of status is set. 
+GPIB errorgencode.cGenDispatchEntry
+General Error Handler.vi
+Generic Error
+Generic File IO Error
+Generic Print Error
+GetDevInfoShort.vi
+GetDevInfoShort.viMD
+GetDevInfoShort.viND
+GetDevInfoShort.viQD
+GetDevInfoShort.vi`
+IND-6FMELDKCJBI@GAHBNow connect the red lead to the
+IND3Short the UUT leads to the
+IND=Short the UUT leads to the
+Image Memory Error
+Inductance Box Cal Data File
+Inductance Decade Box (H Terminal)
+Inductance Decade Box (H Terminal)3Short the UUT leads to the
+Inductance Decade Box (H Terminal)=Short the UUT leads to the
+Inductance Decade Box (H Terminal)W
+Inductance Decade Box (L Terminal)
+Inductance Decade Box (L Terminal)BNow connect the red lead to the
+Inductance Decade Box (L Terminal)W
+Instr Error In Cluster.ctl
+Instr Error In Cluster.ctl/
+Instr Error In Cluster.ctl<@P
+Instr Error Out Cluster.ctl
+Instr Error Out Cluster.ctl*
+Instr Error Out Cluster.ctl2@P
+Instr Error Out Cluster.ctl`
+LEADSHRT.viPTH0
+Last Range Cal'd
+Low Value Inductance Box
+Low Value Inductance BoxW
+Manager Argument Error
+Measure volts, amps, or ohms.  Select one of 6 functions.  Select range or use auto range.  Select trigger mode.  Slow reading rate is used for accuracy.                                         version a.0
+Memory Error During Print
+Message Out Of Range
+Most applications need only connect wires to the controls and indicators displayed in bold.  Connections to other controls and indicators are useful only if specifically needed.
+Multiple query error occurred during transfer
+NNherror is other than file not found; set error flag TRUE, file path to NotAPath, and refnum to NotARefnummD
+Network error
+Next Range to cal
+Next range0@
+Open File+.vi
+Open File+.viPTH0
+Open FilePTH0
+Open GPIB Driver.vi
+Open GPIB Driver.viv
+Open GPIB DriverPD
+Open Serial Driver.vi
+Open Serial Driver.viPTH0
+Print Dialog Error
+Print Driver Error
+Psource is in most cases the name of the VI or function that produced the error.
+QCloses the file on command or when in incoming error occurs and returns the file size at closure.
+Range: 0 to 30 (31 NONE)
+Read protocol error
+Return String
+Return Terminator
+Ringer.viPTH0
+STARTCHK.viPTH0
+See the Data Acquisition VI Reference Manual for your platform for tables listing the default settings and ranges for this VI for the boards with which it will work.
+SetCINArraySize, elmtNum %ld out of range 0 <= elmtNum < %ld
+SetCINArraySize, elmtNum %ld out of range 0 <= elmtNum < %ldnon-array detected
+Start Cal Factor(0)
+Start Disable?
+Tests Selected
+The error? status  is TRUE on any error.
+The name of the VI that is calling this VI.  If an error occurs during the operation of this VI, the value in source will be placed in the source element of the error out cluster. 
+This version of Set Serial Port Buffer Size.vi is to be used on the SPARC or Windows version of LabVIEW as a subVI to OpenSerialDriver and Serial Port Init.vi.
+True if either primary or secondary addresses are outside ot the range 0-31.  address error indicates whether a range error has occurred.
+VFor most applications, you only need to connect wires to the controls and indicators displayed in bold.
+Windows Error During Print
+You can optionally use the source messages string to pass on the source of the error. Enter one line of text for each element of the error codes array.  
+ZFor most applications, you only need to connect wires to the controls and indicators displayed in bold.
+ZV(bool) status: TRUE if an error has occurred. If status is TRUE, this VI does nothing."
+[W(string) source:  an indication of where an error occurred, usually the name of the VI.
+[W(string) source:  an indication of where an error occurred, usually the name of the VI. 
+[W(string) source:  an indication of where an error occurred, usually the name of the VI."
+[W(string) source:  an indication of where an error occurred, usually the name of the VI.1-(bool) status: TRUE if an error has occurred.
+[W(string) source:  an indication of where an error occurred, usually the name of the VI.1-(bool) status: TRUE if an error has occurred."
+[[[report file not found if function=0 (open); set file path to empty and refnum to NotARefnumHDt
+[error code] (0)
+[error source] (" ")
+\default name is the initial file name that appears in the selection box of the file dialog.
+address error
+address error 
+address error"
+advisory dialog?  Set TRUE (default) if you want a dialog if function=0 and the file does not exist, or if function=2 or 3 and the file exists.
+advisory dialog?  Set TRUE (default) if you want a dialog if the file does not exist.
+advisory dialog? Set TRUE (default) if you want a dialog if function=0 and the file does not exist, or if function=2 or 3 and the file exists.
+an input error does not existU
+close when? (now:T)
+code is the error code.
+convert eol  Set TRUE to convert each platform-specific end of line marker to the LabVIEW marker, line feed.  Set FALSE (default value) to do nothing.
+convert eol  Set TRUE to convert the LabVIEW end of line marker to the platform-specific marker.  Set FALSE (default value) to do nothing.
+creates a new file or replaces a file if it exists and you give permission. Replacement is done by opening the file and setting EOF to 0. Error 43 occurs if the user elects to disallow the replacement using dialog. 
+creates a new file. Error 8 occurs if the file already exists.
+default name is the initial file name that appears in the selection box of the file dialog.
+error - ignored
+error - ignored @
+error - ignored"
+error - ignoredH
+error in (no error)
+error in (no error) 
+error in (no error) L
+error in (no error)'
+error in (no error),G
+error in (no error)0
+error in (no error)01-
+error in (no error)0F-
+error in (no error)2P@
+error in (no error)4
+error in (no error)4.O
+error in (no error)41
+error in (no error)4bO
+error in (no error)<@P
+error in (no error)<`P
+error in (no error)<e
+error in (no error)@
+error in (no error)@d%
+error in (no error)B
+error in (no error)DIc
+error in (no error)DNc
+error in (no error)HF
+error in (no error)HG
+error in (no error)HL
+error in (no error)HP
+error in (no error)L
+error in (no error)M
+error in (no error)PTH0 
+error in (no error)RD
+error in (no error)[
+error in (no error)\
+error in (no error)o
+error in (not an error)
+error in (not an error)&
+error in (not an error)R
+error outPTH0!
+errord:\automated\lv51\lvsource\gencode.cGenRangeCheck
+file path is the path name of the file.  If file path is empty (default value) or is Not A Path, the VI displays a File dialog box from which you can select a file.  Error 43 occurs if the user cancels the dialog.     
+file path is the path name of the file. If file path is empty (default value) or is Not A Path, the VI displays a File dialog box from which you can select a file. Error 43 occurs if the user cancels the dialog.
+function out of ranged
+gencode.cGenRangeCheck
+irefnum is the reference number of the open file. The value is Not A Refnum if the file cannot be opened.
+lprompt is the message that appears below the list of files and directories (or folders) in the file dialog.
+new file path is the path of the file opened.  You can use this output to determine the path of a file that you open using dialog.  new file path returns Not A Path if the user selects Cancel from the dialog box.
+on an input error, do nothingzD
+open mode (0)N
+open or create
+opens an existing file. Error 7 occurs if the file cannot be found.
+parity error byte
+pos offset (0)
+pos offset (bytes:0)
+pos offset specifies in characters how far from the location specified by pos mode that the operation begins.  The default value is 0.
+prompt is the message that appears below the list of files and directories in the file dialog.
+range (auto:0)
+refnum is the reference number of the open file.
+refnum is the reference number of the open file.  The value is Not A Refnum if the file cannot be opened.
+return string
+rrsFile Dialog cancelled; set error out code to Cancelled By User; set refnum to NotaRefnum and file path to NotAPath.
+select mode (2)
+select mode (2) 
+shortvalue @
+specific reset ?
+start of read offset is the position in the file, measured in characters (or bytes), at which the VI begins reading.
+start path  (Not A Path)
+start path  (Not A Path)p2
+start path  (Not A Path)H
+start path (Not A Path)
+start path is the path name to the initially displayed directory (or folder) in a file dialog. The default value is Not A Path, which is the path to the last directory (or folder) shown in a file dialog.
+start path is the path name to the initially displayed directory in a file dialog.  The default value is Not A Path, which is the path to the last directory shown in a file dialog.
+status is a Boolean array in which each bit describes a state of the GPIB Controller. If an error occurs, the GPIB VIs set bit 15. GPIB error is valid only if bit 15 of status is set.
+status[8] - I/O Completed 
+try to open the file
+type of dialog (OK msg:1)
+vsource is in most cases the name of the VI or function that produced the error; the default value is an empty string.

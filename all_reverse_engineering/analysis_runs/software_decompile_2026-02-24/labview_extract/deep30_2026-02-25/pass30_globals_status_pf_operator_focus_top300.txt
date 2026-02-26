@@ -1,0 +1,7 @@
+!!!Set Pass/Fail Button to invisibleH
+!!!Set Pass/Fail Button to invisibled
+!!!Set Pass/Fail button to invisibleW
+!Set Pass/Fail Button to invisibled
+!Set Pass/Fail button to invisibleW
+Set "Pass or Fail Global" to "Fail"W
+StatusGlobal and reset start buttonm

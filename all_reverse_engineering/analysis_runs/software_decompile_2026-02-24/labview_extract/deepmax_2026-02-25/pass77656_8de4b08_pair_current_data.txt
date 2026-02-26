@@ -1,0 +1,5 @@
+52537:1bf15c The subVI is currently in interactive retrieval mode for datalogging, so this VI cannot use it to run. Open the subVI's front panel and change back to edit or run mode.
+101004:4aa0e5 relative to current mark+'string is the data read from the file.
+134942:2922ef zvoltCurrentDataW
+259401:222195 relative to current mark+'string is the data read from the file.
+640431:2922ef zvoltCurrentDataW

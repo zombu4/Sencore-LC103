@@ -1,0 +1,321 @@
+sheet	cell	value
+Sheet1	A1	LC103
+Sheet1	B1	20uf caps fail
+Sheet1	C1	k1002 relay
+Sheet1	D1	Ed Griffith
+Sheet1	E1	2001-01-15 00:00:00
+Sheet1	A2	LC103
+Sheet1	B2	Inductance reanges 20 mH through 600 mH dead
+Sheet1	C2	IC1013 bad
+Sheet1	D2	David Waples
+Sheet1	E2	2002-03-20 00:00:00
+Sheet1	A3	LC103
+Sheet1	B3	OVER RANGES WITH LEADS SHORTED
+Sheet1	C3	K1002 MIGHT TEST GOOD BUT TRY FIRST
+Sheet1	D3	Ed Griffith
+Sheet1	E3	2000-07-11 00:00:00
+Sheet1	A4	LC103
+Sheet1	B4	NO LEAKAGE
+Sheet1	C4	Q2008/R50/U10 IF Q2008 IS BURNT
+Sheet1	D4	Ed Griffith
+Sheet1	E4	2000-07-11 00:00:00
+Sheet1	A5	LC103
+Sheet1	B5	Battery test reads "0%" with PA connected - no battery hooked up.  With battery only hooked up, unit reads "XX%", or the correct battery charge percentage.
+Sheet1	C5	On 243B762:C main boards with an EEPROM 169G743-71 installed, this is OK.  All other board versions, to my knowledge, read 100% with PA only hooked up, no battery.  Could not find documentation to support this, but it is written this way in the Production
+Sheet1	D5	Kevin Schrank
+Sheet1	E5	2004-01-07 00:00:00
+Sheet1	A6	LC103
+Sheet1	B6	display overranges when lkg button is pushed with leads open
+Sheet1	C6	tr2044 shorted
+check neg lead, should be 0.
+Sheet1	D6	David Waples
+Sheet1	A7	LC103
+Sheet1	B7	20uf caps low
+Sheet1	C7	replace k1002
+Sheet1	D7	Ed Griffith
+Sheet1	E7	2001-01-15 00:00:00
+Sheet1	A8	LC103
+Sheet1	B8	Caps won't zero.  When cap value is pushed right after turn on, the reading is about 20pf higher than normal.
+Sheet1	C8	U13 was pulling the ISRC line lower than it should.  Q28 and Q19 also helped the problem.
+Sheet1	D8	Kevin Schrank
+Sheet1	E8	2005-01-20 00:00:00
+Sheet1	A9	LC103
+Sheet1	B9	Leakage acts like it is shorted
+Sheet1	C9	U1033
+Sheet1	D9	David Waples
+Sheet1	E9	2002-07-18 00:00:00
+Sheet1	A10	LC103
+Sheet1	B10	D/a says 'component out of test range', leads shorted
+Sheet1	C10	Q1011 defective
+Sheet1	D10	David Waples
+Sheet1	E10	2002-07-15 00:00:00
+Sheet1	A11	LC103
+Sheet1	B11	cap lkg will not read >20ma with leads shorted
+Sheet1	C11	Replaced u1033 and q1007
+Sheet1	D11	David Waples
+Sheet1	E11	2002-08-02 00:00:00
+Sheet1	A12	LC103
+Sheet1	B12	Unit failes range 5 of the current source cal.
+Sheet1	C12	Replaced IC1013
+Sheet1	D12	David Waples
+Sheet1	E12	2002-03-20 00:00:00
+Sheet1	A13	LC103
+Sheet1	B13	Enter 3v and press leakage with leads shorted.  Unit should read >20ma, <50 ohms.  Unit reads 990 ohms.
+Sheet1	C13	D1015 and D1016.  Test good with a meter but must be leaky during leakage current calibration.
+Sheet1	D13	Kevin Schrank
+Sheet1	E13	2003-11-25 00:00:00
+Sheet1	A14	LC103
+Sheet1	B14	NO IDUCTANCE CAPS OR ESR
+Sheet1	C14	D1029
+F1001
+Sheet1	D14	Ed Griffith
+Sheet1	E14	2000-07-11 00:00:00
+Sheet1	A15	LC103
+Sheet1	B15	D/A PERCENTAGES ARE OFF 1 OR 2%
+1%  & 10%
+Sheet1	C15	D16 BECOMES LEAKY AND KNOCKS % OFF BY 1 OR 2%..
+D16 MIGHT CHECK OK BUT REPLACE ANYWAY
+Sheet1	D15	Ed Griffith
+Sheet1	E15	2000-07-11 00:00:00
+Sheet1	A16	LC103
+Sheet1	B16	ESR COMMUNICATION ERROR..PROBLEM WITH THE LEADS..4 VOLTS ON Q9 COLLECTOR..
+Sheet1	C16	REPLACED SHORTED OR LEAKY D18  Q9 COLLECTOR SHOULD READ 400MV
+Sheet1	D16	Ed Griffith
+Sheet1	E16	2000-07-12 00:00:00
+Sheet1	A17	LC103
+Sheet1	B17	DOESN'T BEEP WITH FUSE OUT, LEAKAGE DOESN'T READ RIGHT, LEAD ZERO OPEN READS "APPEARS SHORTED"
+Sheet1	C17	U1057
+Sheet1	D17	Aaron
+Sheet1	E17	1999-04-26 09:23:36
+Sheet1	A18	LC103
+Sheet1	B18	DOESN'T BEEP WITH FUSE OUT, LEAKAGE DOESN'T READ RIGHT, LEAD ZERO OPEN DOESN'T WORK
+Sheet1	C18	U1057
+Sheet1	D18	Mike Germaine
+Sheet1	E18	1999-04-26 00:00:00
+Sheet1	A19	LC103
+Sheet1	B19	unit displays "Wait voltage on leads" on power up
+Sheet1	C19	U1057
+Sheet1	D19	Mike Germaine
+Sheet1	E19	1999-05-07 00:00:00
+Sheet1	A20	LC103
+Sheet1	B20	CAP LEAKAGE BAD
+Sheet1	C20	REPLACE Q2008 AND Q2009
+Sheet1	D20	Mike Germaine
+Sheet1	E20	1999-05-07 00:00:00
+Sheet1	A21	LC103
+Sheet1	B21	LEAD ZERO OPEN RESETS UNIT.  LEAKAGE VOLTAGE DOESN'T READ CORRECTLY.
+Sheet1	C21	U1057
+Sheet1	D21	Mike Germaine
+Sheet1	E21	1999-05-14 00:00:00
+Sheet1	A22	LC103
+Sheet1	B22	LEAD ZERO OPEN READS "CHECK LEADS APPEARS SHORTED"
+Sheet1	C22	U1057
+Sheet1	D22	Mike Germaine
+Sheet1	E22	1999-05-26 00:00:00
+Sheet1	A23	LC103
+Sheet1	B23	LEAKAGE CURRENT FAILS
+Sheet1	C23	Q1002,Q1003,Q1004
+U1051
+Sheet1	D23	Mike Germaine
+Sheet1	E23	1999-05-26 00:00:00
+Sheet1	A24	LC103
+Sheet1	B24	LEAKAGE VOLTAGE FAILS
+Sheet1	C24	Q2008 shorted
+Sheet1	D24	Mike Germaine
+Sheet1	E24	1999-05-26 00:00:00
+Sheet1	A25	LC103
+Sheet1	B25	INDUCTANCE READS WAY HIGH, WILL NOT CAL IN
+Sheet1	C25	U1002
+Sheet1	D25	Mike Germaine
+Sheet1	E25	1999-05-26 00:00:00
+Sheet1	A26	LC103
+Sheet1	B26	Caps values.5999. .7999, and.9999uf read high
+Sheet1	C26	Replaced Q1013 and Q1014
+Sheet1	D26	David Waples
+Sheet1	E26	2002-03-28 00:00:00
+Sheet1	A27	LC103
+Sheet1	B27	NO INDUCTANCE AT ALL
+Sheet1	C27	Q27 WON'T TURN ON NO RAMP AS A RESULT
+Sheet1	D27	Ed Griffith
+Sheet1	E27	2000-07-11 00:00:00
+Sheet1	A28	LC103
+Sheet1	B28	small inductance, 100 uh and below, doesn't read
+Sheet1	C28	ic2017
+Sheet1	D28	David Waples
+Sheet1	A29	LC103
+Sheet1	B29	high cap range not reading properly
+Sheet1	C29	r2028 opened up
+Sheet1	D29	David Waples
+Sheet1	E29	2002-06-12 00:00:00
+Sheet1	A30	LC103
+Sheet1	B30	CAPS ON LEADS
+Sheet1	C30	D2015 POWER SUPPLY BOARD/SHORTS OR LEAKY
+Sheet1	D30	Ed Griffith
+Sheet1	E30	2000-07-11 00:00:00
+Sheet1	A31	LC103
+Sheet1	B31	Unit fails low battery shutdown.  Unit shuts off at 10.5VDC, but turns back on and keeps cycling.
+Sheet1	C31	IC1046.  Watchdog pulse was 3 times the amplitude as a good working unit.
+Sheet1	D31	Kevin Schrank
+Sheet1	E31	2004-04-22 00:00:00
+Sheet1	A32	LC103
+Sheet1	B32	Lead zero short acts open, says 'Lead Resistance Out Of Zero Range'.
+Sheet1	C32	Replaced L1001, contacts intermittant
+Sheet1	D32	David Waples
+Sheet1	E32	2002-04-01 00:00:00
+Sheet1	A33	LC103
+Sheet1	B33	ESR BAD READINGS ARE OFF…NO INDUCTANCE…NO CAP LEAKAGE
+Sheet1	C33	Q1027
+U1045
+U1013
+Sheet1	D33	Ed Griffith
+Sheet1	E33	2000-07-11 00:00:00
+Sheet1	A34	LC103
+Sheet1	B34	WON'T TURN OFF
+Sheet1	C34	Q1043
+Sheet1	D34	Ed Griffith
+Sheet1	E34	2000-07-11 00:00:00
+Sheet1	A35	LC103
+Sheet1	B35	LEAD ZERO OPEN READS "CAP DISCHARGING"
+Sheet1	C35	Q1031 AND Q1010
+Sheet1	D35	Mike Germaine
+Sheet1	E35	1999-07-07 00:00:00
+Sheet1	A36	LC103
+Sheet1	B36	WON'T POWER UP.looks like 5V problem, as 5v reads 1.9 - 2.2 . ANALOG SWITCHES IN RANGE SELECT GETTING HOT ALSO MUX (U57) GETTING HOT
+Sheet1	C36	ADD ON TANTALUM CAP SHORTED OUT, 12V NOT COMING UP. THIS ALSO STOPS OTHER POWER SUPPLIES FROM COMING UP.
+Sheet1	D36	Mike Germaine
+Sheet1	E36	1999-08-11 00:00:00
+Sheet1	A37	LC103
+Sheet1	B37	D/A won't read above zero, all other functions work.
+Sheet1	C37	U57
+Sheet1	D37	Mike Germaine
+Sheet1	E37	1999-08-12 00:00:00
+Sheet1	A38	LC103
+Sheet1	B38	RINGERS READ "OPEN",LEAD ZERO OPEN AND SHORT READ "CAP DISCHARGING",LEAKAGE CURRENT READS >20MA
+Sheet1	C38	U1051
+Sheet1	D38	Mike Germaine
+Sheet1	E38	1999-09-07 00:00:00
+Sheet1	A39	LC103
+Sheet1	B39	QA LEAKAGE TEST READS BELOW 20mA.
+Sheet1	C39	Q1007
+Sheet1	D39	Landon Leopold
+Sheet1	E39	2000-02-18 00:00:00
+Sheet1	A40	LC103
+Sheet1	B40	CAPS READ 18XXX UF
+Sheet1	C40	U1057
+Sheet1	D40	Landon Leopold
+Sheet1	E40	2000-05-19 00:00:00
+Sheet1	A41	LC103
+Sheet1	B41	Unit will beep "FUSE OPEN". Pulse present on F1.
+Sheet1	C41	K1001, tapping on this relay would produce this condition.
+Sheet1	D41	Landon Leopold
+Sheet1	E41	2000-06-07 00:00:00
+Sheet1	A42	LC103
+Sheet1	B42	LEADS OUT OF CAP RANGE
+Sheet1	C42	D15 SHORTED OR LEAKY.
+Sheet1	D42	Ed Griffith
+Sheet1	E42	2000-07-11 00:00:00
+Sheet1	A43	LC103
+Sheet1	B43	LEAD ZERO SHORT DISPLAYS "LEAD RESISTANCE OUT OF RANGE"
+Sheet1	C43	F1 OPEN
+Sheet1	D43	Landon Leopold
+Sheet1	E43	2000-07-22 00:00:00
+Sheet1	A44	LC103
+Sheet1	B44	Lead zero open and cap value read "Cap discharging".
+Sheet1	C44	Q1012
+Sheet1	D44	Aaron Munson
+Sheet1	E44	2001-11-09 00:00:00
+Sheet1	A45	LC103
+Sheet1	B45	RANGES ON ISRC HIGH LINE WILL NOT CAL
+Sheet1	C45	U1013
+Sheet1	D45	Aaron Munson
+Sheet1	E45	2001-12-13 00:00:00
+Sheet1	A46	LC103
+Sheet1	B46	IN-CIRCUIT CAPS READ CAP DISCHARGING
+Sheet1	C46	U1002
+Sheet1	D46	Aaron Munson
+Sheet1	E46	2001-12-26 00:00:00
+Sheet1	A47	LC103
+Sheet1	B47	Says"Wait Voltage on Leads" on power up
+Sheet1	C47	R'2 U1057
+Sheet1	D47	David Waples
+Sheet1	E47	2002-05-06 00:00:00
+Sheet1	A48	LC103
+Sheet1	B48	Unit powers off when lkg button is pushed
+Sheet1	C48	U2002 bad. Was putting out 5V, should be 0v.
+Sheet1	D48	David Waples
+Sheet1	E48	2002-05-20 00:00:00
+Sheet1	A49	LC103
+Sheet1	B49	UNIT FAILS BATTERY FULL CHARGE TEST
+U2005 WRONG PART LC103 HAS 2 BOM FOR CHARGER BOARD
+Sheet1	C49	INSTALL CORRECT U2005
+Sheet1	D49	Larry Wilson
+Sheet1	E49	2002-10-07 00:00:00
+Sheet1	A50	LC103
+Sheet1	B50	Fails first range of current source cal.
+Sheet1	C50	K1 relay intermittent.  Unit would work about 1 out of 10 times.  Could not lead zero, leakage voltage was low, only low range caps worked.
+Sheet1	D50	Kevin Schrank
+Sheet1	E50	2003-01-14 00:00:00
+Sheet1	A51	LC103
+Sheet1	B51	N0 1.5MH INDUCTANCE
+Sheet1	C51	U1013
+U1007
+Sheet1	D51	Ed Griffith
+Sheet1	E51	2000-07-11 00:00:00
+Sheet1	A52	LC103
+Sheet1	B52	Ringers drift several counts
+Sheet1	C52	Replaced IC1035, IC1042
+Sheet1	D52	David Waples
+Sheet1	E52	2002-06-21 00:00:00
+Sheet1	A53	LC103
+Sheet1	B53	Fails leakage current - 9uA range.
+Sheet1	C53	Add on cap on D2015 and D2016 was missing.
+Sheet1	D53	Kevin Schrank
+Sheet1	E53	2003-01-20 00:00:00
+Sheet1	A54	LC103
+Sheet1	B54	Unit will beep "FUSE OPEN" on power up.
+Sheet1	C54	U1057 bad
+Sheet1	D54	David Waples
+Sheet1	E54	2010-06-12 00:00:00
+Sheet1	A55	LC103
+Sheet1	B55	CAP VALUE OUT OF CIRCUIT READS "CAP DISCHARGING" AND ESR DOESN'T WORK
+Sheet1	C55	U1002
+Sheet1	D55	Mike Germaine
+Sheet1	E55	1999-09-07 14:16:19
+Sheet1	A56	LC103
+Sheet1	B56	Unit displayed "No component type selected" on power up.
+Sheet1	C56	U1053
+Sheet1	D56	Kevin Schrank
+Sheet1	E56	2003-10-08 00:00:00
+Sheet1	A57	LC103
+Sheet1	B57	Unit flashes 'wait' then flashes 0 to 8's.
+Sheet1	C57	IC2015 had an output of 2.6V, should be  0V after power up.
+Sheet1	E57	2003-02-27 00:00:00
+Sheet1	A58	LC103
+Sheet1	B58	Unit powers on when plugged in
+Sheet1	C58	Q1043 bad
+Sheet1	D58	David Waples
+Sheet1	E58	2002-08-15 00:00:00
+Sheet1	A59	LC103
+Sheet1	B59	Will not power up
+Sheet1	C59	IC2045
+Sheet1	E59	2002-03-20 00:00:00
+Sheet1	A60	LC103
+Sheet1	B60	D/A fails the zero range. 10% appears to be normal
+Sheet1	C60	D1042 leaky
+Sheet1	D60	David Waples
+Sheet1	E60	2002-07-24 00:00:00
+Sheet1	A61	LC103
+Sheet1	B61	No caps, lkg., or ESR
+Sheet1	C61	U1029
+Sheet1	D61	David Waples
+Sheet1	E61	2002-06-18 00:00:00
+Sheet1	A62	LC103
+Sheet1	B62	Range 1 of inductance will not read, 1H to ~100 mH, comes up blank on LCD display
+Sheet1	C62	U1013 inductance range clamp was bad, was clamping all the time just in that range
+Sheet1	D62	Andrew Wixon
+Sheet1	E62	2007-07-03 00:00:00
+Sheet1	A63	LC103
+Sheet1	B63	Caps read 0.0 PF Inductance reads 8.xx mH nothing works correctly.  Caps reads out of range
+Sheet1	C63	y1001, wasn't putting out 40 MHZ clock
+Sheet1	D63	Andrew Wixon
+Sheet1	E63	2008-02-25 00:00:00

@@ -1,0 +1,41 @@
+75391:31dcc4 .error code. If error code is non-zero, an error occurred. Refer to Appendix C, Error Codes, for a list of error codes.
+75614:321518 .error code. If error code is non-zero, an error occurred. Refer to Appendix C, Error Codes, for a list of error codes.
+75868:3252cb .error code. If error code is non-zero, an error occurred. Refer to Appendix C, Error Codes, for a list of error codes.
+101598:4b7731 status is TRUE if an error occurred. If this value is FALSE, then the error handler assumes that no error occurred according to the error in, and then checks the error code.
+101605:4b7949 status is TRUE if an error occurred. If this value is FALSE, then the error handler assumes that no error occurred according to the error in, and then checks the error code.
+245706:15c4a8 .error code. If error code is non-zero, an error occurred. Refer to Appendix C, Error Codes, for a list of error codes.
+245935:15fe58 .error code. If error code is non-zero, an error occurred. Refer to Appendix C, Error Codes, for a list of error codes.
+246194:163d6f .error code. If error code is non-zero, an error occurred. Refer to Appendix C, Error Codes, for a list of error codes.
+260031:230309 status is TRUE if an error occurred. If this value is FALSE, then the error handler assumes that no error occurred according to the error in, and then checks the error code.
+260038:230521 status is TRUE if an error occurred. If this value is FALSE, then the error handler assumes that no error occurred according to the error in, and then checks the error code.
+307927:e5aa3 .error code. If error code is non-zero, an error occurred. Refer to Appendix C, Error Codes, for a list of error codes.
+308156:e944b .error code. If error code is non-zero, an error occurred. Refer to Appendix C, Error Codes, for a list of error codes.
+308414:ed35a .error code. If error code is non-zero, an error occurred. Refer to Appendix C, Error Codes, for a list of error codes.
+314019:14df26 status is TRUE if an error occurred. If this value is FALSE, then the error handler assumes that no error occurred according to the error in, and then checks the error code.
+314026:14e13e status is TRUE if an error occurred. If this value is FALSE, then the error handler assumes that no error occurred according to the error in, and then checks the error code.
+340502:ed509 status is TRUE if an error occurred. If this value is FALSE, then the error handler assumes that no error occurred according to the error in, and then checks the error code.
+340509:ed721 status is TRUE if an error occurred. If this value is FALSE, then the error handler assumes that no error occurred according to the error in, and then checks the error code.
+371471:1840b2 status is TRUE if an error occurred. If this value is FALSE, then the error handler assumes that no error occurred according to the error in, and then checks the error code.
+371475:1842aa status is TRUE if an error occurred. If this value is FALSE, then the error handler assumes that no error occurred according to the error in, and then checks the error code.
+396612:330d77 .error code. If error code is non-zero, an error occurred. Refer to Appendix C, Error Codes, for a list of error codes.
+396910:3351c9 .error code. If error code is non-zero, an error occurred. Refer to Appendix C, Error Codes, for a list of error codes.
+397190:338ffd .error code. If error code is non-zero, an error occurred. Refer to Appendix C, Error Codes, for a list of error codes.
+434172:f7cd5 status is TRUE if an error occurred. If this value is FALSE, then the error handler assumes that no error occurred according to the error in, and then checks the error code.
+434176:f7ecd status is TRUE if an error occurred. If this value is FALSE, then the error handler assumes that no error occurred according to the error in, and then checks the error code.
+440801:1640ba .error code. If error code is non-zero, an error occurred. Refer to Appendix C, Error Codes, for a list of error codes.
+441101:168512 .error code. If error code is non-zero, an error occurred. Refer to Appendix C, Error Codes, for a list of error codes.
+441385:16c343 .error code. If error code is non-zero, an error occurred. Refer to Appendix C, Error Codes, for a list of error codes.
+470151:107256 status is TRUE if an error occurred. If this value is FALSE, then the error handler assumes that no error occurred according to the error in, and then checks the error code.
+470155:10744e status is TRUE if an error occurred. If this value is FALSE, then the error handler assumes that no error occurred according to the error in, and then checks the error code.
+504218:1ea345 status is TRUE if an error occurred. If this value is FALSE, then the error handler assumes that no error occurred according to the error in, and then checks the error code.
+504222:1ea596 status is TRUE if an error occurred. If this value is FALSE, then the error handler assumes that no error occurred according to the error in, and then checks the error code.
+521567:34a20c .error code. If error code is non-zero, an error occurred. Refer to Appendix C, Error Codes, for a list of error codes.
+521769:34d710 .error code. If error code is non-zero, an error occurred. Refer to Appendix C, Error Codes, for a list of error codes.
+521958:35051b .error code. If error code is non-zero, an error occurred. Refer to Appendix C, Error Codes, for a list of error codes.
+546547:f6be5 status is TRUE if an error occurred. If this value is FALSE, then the error handler assumes that no error occurred according to the error in, and then checks the error code.
+546551:f6ddd status is TRUE if an error occurred. If this value is FALSE, then the error handler assumes that no error occurred according to the error in, and then checks the error code.
+558168:1c433a .error code. If error code is non-zero, an error occurred. Refer to Appendix C, Error Codes, for a list of error codes.
+558374:1c7846 .error code. If error code is non-zero, an error occurred. Refer to Appendix C, Error Codes, for a list of error codes.
+558565:1ca64f .error code. If error code is non-zero, an error occurred. Refer to Appendix C, Error Codes, for a list of error codes.
+579637:16e208 status is TRUE if an error occurred. If this value is FALSE, then the error handler assumes that no error occurred according to the error in, and then checks the error code.
+579641:16e459 status is TRUE if an error occurred. If this value is FALSE, then the error handler assumes that no error occurred according to the error in, and then checks the error code.

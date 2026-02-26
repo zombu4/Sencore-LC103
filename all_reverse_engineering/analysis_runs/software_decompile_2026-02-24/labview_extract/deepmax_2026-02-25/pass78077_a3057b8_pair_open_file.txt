@@ -1,0 +1,462 @@
+36763:11701 GetOpenFileName
+36905:1296e LZOpenFile
+37094:1583a Error opening file
+37131:15a0a GetOpenFileName
+37238:2ef74 OpenCoreDumpFile
+38233:4eb97 ROpenFile
+38308:50fdb ROpenAppResFile
+42340:dd348 OpenLogFile
+47398:160902 Unable to open 'lvrt.rsc' file.
+47453:160e9f Error %ld in OpenLogFile.
+47650:1622e7 POpenPage: Creating postscript image/file. . .
+52228:1ba45f Choose the VI to open:Name the VI:3Choose a directory of VIs or VI library to compile:+Please find the file of type %4c named "%p"CChoose a picture file to open (it will be placed on the clipboard):
+52230:1ba53d Name the VI library:1Choose the VI library to build as an application: Choose a custom control to open:"Choose a file of type %4c to open:
+52375:1bbcbb Could not open temporary file. 
+52398:1bbe82 Opening old resource file.
+52427:1bc7be Can't allocate new path.$Can't open VI library resource file."Can't remove file from VI library.%Can't open file system resource file.
+52588:1c025d Open/Create/Replace File.vi
+52742:1c1115 Open File+.vi
+52982:1cabb8 opens an existing file. Error 7 occurs if the file cannot be found.
+52983:1cac00 opens an existing file or creates a new file if one does not exist.
+52989:1cad8c createmirefnum is the reference number of the open file. The value is Not A Refnum if the file cannot be opened.
+54002:1dba6c 0 (open) opens an existing file.  Error 7 occurs if the file cannot be found.
+54003:1dbabd 1 (open or create) opens an existing file or creates a new file if one does not exist.
+54013:1dc204 refnum is the reference number of the open file.  The value is Not A Refnum if the file cannot be opened.
+54028:1dc52e Open/Create/Replace File.vi
+54032:1dc718 try to open the file
+54035:1dc822 Open FileU
+54036:1dc846 Open FileU
+54037:1dc86a Open File
+54042:1dc96f Open FileM
+54046:1dca2c Open FileND
+54058:1dce5a !Open or Create File (function=%d)a
+54081:1dd35e Open/Create/Replace File.vi
+54084:1dd3a3 Open/Create/Replace File.vi
+54087:1dd40a Open/Create/Replace File.vi
+54092:1dd444 Open File
+54093:1dd450 Open FilePTH0
+54096:1dd478 Open File
+54097:1dd482 Open File
+54102:1dd4bc Open File+
+54109:1dd511 !Open or Create File (function=%d)
+54156:1dd902 Open/Create/Replace File.vi
+54199:1de0f7 Open/Create/Replace File.vi
+54200:1de113 Open/Create/Replace File.vi
+54201:1de12f Open/Create/Replace File.vi
+54202:1de14b Open/Create/Replace File.vi
+54203:1de167 Open/Create/Replace File.vi
+54204:1de183 Open/Create/Replace File.vi
+54205:1de19f Open/Create/Replace File.vi
+54206:1de1bb Open/Create/Replace File.vi
+54207:1de1d7 Open/Create/Replace File.vi
+54208:1de1f3 Open/Create/Replace File.vi
+54209:1de20f Open/Create/Replace File.vi
+54210:1de22b Open/Create/Replace File.vi
+54211:1de247 Open/Create/Replace File.vi
+54212:1de263 Open/Create/Replace File.vi
+54213:1de27f Open/Create/Replace File.vi
+54214:1de29b Open/Create/Replace File.vi
+54215:1de2b7 Open/Create/Replace File.vi
+54216:1de2d3 Open/Create/Replace File.vi
+54225:1df975 51refnum is the reference number of the open file.
+54495:1e3e81 refnum is the reference number of the open file.
+99470:49107e mirefnum is the reference number of the open file. The value is Not A Refnum if the file cannot be opened.
+100023:49a6c3 refnum is the reference number of the open file.  The value is Not A Refnum if the file cannot be opened.
+100047:49aa7c Open File+.vie File
+100050:49abcd try to open the fileM
+100051:49ac65 Open File+.vi:File DialogiD
+100055:49adbc Open File+.vi:File Dialogc
+100056:49adf0 Open File+.vi:Open File]
+100057:49ae22 Open File+.vi:EOFH
+100074:49b146 Open File+.vi
+100077:49b176 Open File+.vi
+100080:49b1cd Open File+.vi
+100084:49b1f3 Open File+.vi:File DialogPTH0
+100086:49b222 Open File+.vi:Open File
+100088:49b243 Open File+.vi:File DialogPTH0
+100089:49b263 Open File+.vi:EOF
+100133:49b621 Open File+.vi
+100179:49bbf1 Open File+.vi
+100180:49bbff Open File+.vi
+100181:49bc0d Open File+.vi
+100182:49bc1b Open File+.vi
+100183:49bc29 Open File+.vi
+100184:49bc37 Open File+.vi
+100185:49bc45 Open File+.vi
+100186:49bc53 Open File+.vi
+100187:49bc61 Open File+.vi
+100188:49bc6f Open File+.vi
+100189:49bc7d Open File+.vi
+100190:49bc8b Open File+.vi
+100191:49bc99 Open File+.vi
+100192:49bca7 Open File+.vi
+100193:49bcb5 Open File+.vi
+100194:49bcc3 Open File+.vi
+100195:49bcd1 Open File+.vi
+100196:49bcdf Open File+.vi
+100597:4a35cd 051refnum is the reference number of the open file.
+100817:4a6e3c refnum is the reference number of the open file.
+100990:4a9de7 51refnum is the reference number of the open file.
+101389:4af8b1 refnum is the reference number of the open file.
+102702:4d33e6 open or create file4
+102717:4d3b0e open or create file$
+102718:4d3b28 open or create file 
+102925:4d5e63 open or create file`0
+102985:4d6834 Open/Create/Replace File.viZ
+102988:4d68ac open or create fileMD
+103004:4d69d6 Open/Create/Replace File.vi
+103013:4d6a9f Open/Create/Replace File.vi
+103103:4d725c Open/Create/Replace File.vi
+103122:4d73b3 Open/Create/Replace File.vir
+112389:56cce7 Open File+.vi
+112416:56d190 Open File+.vi
+112618:56d7b7 Open File+.vi
+112726:56e2d2 Open File+.vi
+112744:56e407 Open File+.vi
+113114:57ad07 Couldn't open the Software Rev. file.  Please set the Software Rev. manually on the front panel.  Place the flopply disk in the computer NOW.MD
+113119:57ae6e RCouldn't open the Software Rev. file.  Place the flopply disk in the computer NOW.s
+113157:57b20c 'Last known LC103 Software Rev. is:  VERRCouldn't open the Software Rev. file.  Place the flopply disk in the computer NOW.
+113158:57b288 Couldn't open the Software Rev. file.  Please set the Software Rev. manually on the front panel.  Place the flopply disk in the computer NOW.
+120155:5ed0b2 Open/Create/Replace File.vi
+120230:5ed57d Open File+.vi
+132582:1ee6a2 OpenFileMappingA
+223230:4067 Open/Create/Replace File.vi
+223239:97e4 opens an existing file. Error 7 occurs if the file cannot be found.
+223240:982c opens an existing file or creates a new file if one does not exist.
+223246:99b8 createmirefnum is the reference number of the open file. The value is Not A Refnum if the file cannot be opened.
+224259:1a698 0 (open) opens an existing file.  Error 7 occurs if the file cannot be found.
+224260:1a6e9 1 (open or create) opens an existing file or creates a new file if one does not exist.
+224270:1ae30 refnum is the reference number of the open file.  The value is Not A Refnum if the file cannot be opened.
+224285:1b15a Open/Create/Replace File.vi
+224289:1b344 try to open the file
+224292:1b44e Open FileU
+224293:1b472 Open FileU
+224294:1b496 Open File
+224299:1b59b Open FileM
+224303:1b658 Open FileND
+224315:1ba86 !Open or Create File (function=%d)a
+224338:1bf8a Open/Create/Replace File.vi
+224341:1bfcf Open/Create/Replace File.vi
+224344:1c036 Open/Create/Replace File.vi
+224349:1c070 Open File
+224350:1c07c Open FilePTH0
+224353:1c0a4 Open File
+224354:1c0ae Open File
+224359:1c0e8 Open File+
+224366:1c13d !Open or Create File (function=%d)
+224413:1c52e Open/Create/Replace File.vi
+224456:1cd23 Open/Create/Replace File.vi
+224457:1cd3f Open/Create/Replace File.vi
+224458:1cd5b Open/Create/Replace File.vi
+224459:1cd77 Open/Create/Replace File.vi
+224460:1cd93 Open/Create/Replace File.vi
+224461:1cdaf Open/Create/Replace File.vi
+224462:1cdcb Open/Create/Replace File.vi
+224463:1cde7 Open/Create/Replace File.vi
+224464:1ce03 Open/Create/Replace File.vi
+224465:1ce1f Open/Create/Replace File.vi
+224466:1ce3b Open/Create/Replace File.vi
+224467:1ce57 Open/Create/Replace File.vi
+224468:1ce73 Open/Create/Replace File.vi
+224469:1ce8f Open/Create/Replace File.vi
+224470:1ceab Open/Create/Replace File.vi
+224471:1cec7 Open/Create/Replace File.vi
+224472:1cee3 Open/Create/Replace File.vi
+224473:1ceff Open/Create/Replace File.vi
+224495:1d3a4 0 (open) opens an existing file.  Error 7 occurs if the file cannot be found.
+224496:1d3f5 1 (open or create) opens an existing file or creates a new file if one does not exist.
+224506:1db3c refnum is the reference number of the open file.  The value is Not A Refnum if the file cannot be opened.
+224518:1f455 51refnum is the reference number of the open file.
+224788:23961 refnum is the reference number of the open file.
+224953:2514a refnum is the reference number of the open file.
+257792:204b37 Open File+.vi
+257800:2079aa mirefnum is the reference number of the open file. The value is Not A Refnum if the file cannot be opened.
+258353:210fef refnum is the reference number of the open file.  The value is Not A Refnum if the file cannot be opened.
+258377:2113a8 Open File+.vie File
+258380:2114f9 try to open the fileM
+258381:211591 Open File+.vi:File DialogiD
+258385:2116e8 Open File+.vi:File Dialogc
+258386:21171c Open File+.vi:Open File]
+258387:21174e Open File+.vi:EOFH
+258404:211a72 Open File+.vi
+258407:211aa2 Open File+.vi
+258410:211af9 Open File+.vi
+258414:211b1f Open File+.vi:File DialogPTH0
+258416:211b4e Open File+.vi:Open File
+258418:211b6f Open File+.vi:File DialogPTH0
+258419:211b8f Open File+.vi:EOF
+258463:211f4d Open File+.vi
+258509:21251d Open File+.vi
+258510:21252b Open File+.vi
+258511:212539 Open File+.vi
+258512:212547 Open File+.vi
+258513:212555 Open File+.vi
+258514:212563 Open File+.vi
+258515:212571 Open File+.vi
+258516:21257f Open File+.vi
+258517:21258d Open File+.vi
+258518:21259b Open File+.vi
+258519:2125a9 Open File+.vi
+258520:2125b7 Open File+.vi
+258521:2125c5 Open File+.vi
+258522:2125d3 Open File+.vi
+258523:2125e1 Open File+.vi
+258524:2125ef Open File+.vi
+258525:2125fd Open File+.vi
+258526:21260b Open File+.vi
+258536:212d79 refnum is the reference number of the open file.  The value is Not A Refnum if the file cannot be opened.
+258968:21ae21 051refnum is the reference number of the open file.
+259188:21e690 refnum is the reference number of the open file.
+259352:21fae7 refnum is the reference number of the open file.
+259387:221e97 51refnum is the reference number of the open file.
+259786:227961 refnum is the reference number of the open file.
+259960:22943f refnum is the reference number of the open file.
+261141:24c346 open or create file4
+261156:24ca6e open or create file$
+261157:24ca88 open or create file 
+261364:24edc3 open or create file`0
+261424:24f794 Open/Create/Replace File.viZ
+261427:24f80c open or create fileMD
+261443:24f936 Open/Create/Replace File.vi
+261452:24f9ff Open/Create/Replace File.vi
+261542:2501bc Open/Create/Replace File.vi
+261561:250313 Open/Create/Replace File.vir
+270918:2e743b Open File+.vi
+270945:2e78e4 Open File+.vi
+271147:2e7f0b Open File+.vi
+271255:2e8a26 Open File+.vi
+271273:2e8b5b Open File+.vi
+271657:2f5b87 Couldn't open the Software Rev. file.  Please set the Software Rev. manually on the front panel.  Place the flopply disk in the computer NOW.MD
+271662:2f5cee RCouldn't open the Software Rev. file.  Place the flopply disk in the computer NOW.s
+271700:2f608c 'Last known LC103 Software Rev. is:  VERRCouldn't open the Software Rev. file.  Place the flopply disk in the computer NOW.
+271701:2f6108 Couldn't open the Software Rev. file.  Please set the Software Rev. manually on the front panel.  Place the flopply disk in the computer NOW.
+291467:442609 Open/Create/Replace File.vi
+291621:4434c1 Open File+.vi
+291683:446173 Open/Create/Replace File.vi
+291684:44618f Open/Create/Replace File.vi
+291685:4461ab Open/Create/Replace File.vi
+291686:4461c7 Open/Create/Replace File.vi
+291687:4461e3 Open/Create/Replace File.vi
+292026:4477fa Open File+.vi
+292027:447808 Open File+.vi
+292028:447816 Open File+.vi
+292029:447824 Open File+.vi
+292030:447832 Open File+.vi
+347375:1733 Open/Create/Replace File.vi
+360295:bd3f7 Open File+.vi
+361832:d87dd Open/Create/Replace File.vi
+365904:122be5 Couldn't open the Software Rev. file.  Please set the Software Rev. manually on the front panel.  Place the flopply disk in the computer NOW.
+365905:122c78 xxxxRCouldn't open the Software Rev. file.  Place the flopply disk in the computer NOW.'Last known LC103 Software Rev. is:  VER
+366004:123cc3 Couldn't open the Software Rev. file.  Please set the Software Rev. manually on the front panel.  Place the flopply disk in the computer NOW.MD
+366009:123e1f ''RCouldn't open the Software Rev. file.  Place the flopply disk in the computer NOW.s
+366285:12c936 Open File+.vi
+366303:12ca86 Open File+.vio
+366612:1303b6 Open File+.vi
+366988:13278d Open File+.vi
+367018:1333c7 Open File+.vi
+370239:1667f6 Open/Create/Replace File.vi
+370258:166968 Open/Create/Replace File.viI
+370400:1683e1 open or create file
+370456:16897e Open/Create/Replace File.vi
+370483:16924c open or create file
+370596:169cb7 open or create fileaD
+370606:169e21 Open/Create/Replace File.viZ
+370631:16a2b3 Open/Create/Replace File.vi
+372336:192c05 refnum is the reference number of the open file.
+372350:1933db 51refnum is the reference number of the open file.
+372940:19b18c refnum is the reference number of the open file.
+372946:19b77a 51refnum is the reference number of the open file.
+373550:1a84b9 Open File+.vie File
+373552:1a851e Open File+.vi
+373984:1acfa9 Open File+.vi:File Dialog
+373985:1acfc4 Open File+.vi:File Dialog
+373986:1acfde Open File+.vi:Open File
+373987:1acff7 Open File+.vi:EOF
+373995:1ad1bf Open File+.vi
+374023:1adaa8 refnum is the reference number of the open file.  The value is Not A Refnum if the file cannot be opened.
+374026:1adc96 mirefnum is the reference number of the open file. The value is Not A Refnum if the file cannot be opened.
+374122:1aefd2 try to open the fileM
+374123:1af066 Open File+.vi:File DialogiD
+374127:1af1b7 Open File+.vi:File Dialogc
+374128:1af1ea Open File+.vi:Open FileSE
+374130:1af235 Open File+.vi:EOFH
+374237:1af9f5 Open File+.vi
+374249:1b0727 Open File+.vi
+374515:1b4b43 Open File+.vi
+394242:30c5d8 0 (open) opens an existing file.  Error 7 occurs if the file cannot be found.
+394243:30c629 1 (open or create) opens an existing file or creates a new file if one does not exist.
+394253:30cd70 refnum is the reference number of the open file.  The value is Not A Refnum if the file cannot be opened.
+394257:30d046 refnum is the reference number of the open file.
+404029:3a43f9 refnum is the reference number of the open file.  The value is Not A Refnum if the file cannot be opened.
+404037:3a494f refnum is the reference number of the open file.
+404044:3a5027 refnum is the reference number of the open file.
+405280:3b9e87 refnum is the reference number of the open file.
+405292:3ba4d3 51refnum is the reference number of the open file.
+405498:3c3b12 Open/Create/Replace File.vi
+405501:3c3b9e Open/Create/Replace File.vi
+406132:3cb171 Open FilePTH0
+406134:3cb187 Open File
+406136:3cb19b Open File
+406137:3cb1a5 Open File
+406142:3cb1e1 Open File+
+406144:3cb1ff !Open or Create File (function=%d)
+406155:3cb457 Open/Create/Replace File.vi
+406178:3cb8a8 0 (open) opens an existing file.  Error 7 occurs if the file cannot be found.
+406179:3cb8f9 1 (open or create) opens an existing file or creates a new file if one does not exist.
+406189:3cc040 refnum is the reference number of the open file.  The value is Not A Refnum if the file cannot be opened.
+406192:3cc22e mirefnum is the reference number of the open file. The value is Not A Refnum if the file cannot be opened.
+406200:3cc6d7 opens an existing file. Error 7 occurs if the file cannot be found.
+406201:3cc71f opens an existing file or creates a new file if one does not exist.
+406297:3cda46 try to open the file
+406301:3cdb64 Open FileU
+406302:3cdb87 Open FileU
+406303:3cdbaa Open File
+406308:3cdcac Open FileM
+406313:3cdd7d Open FileND
+406325:3ce193 !Open or Create File (function=%d)a
+406604:3cf783 Open/Create/Replace File.vi
+406615:3d05cb Open/Create/Replace File.vi
+406990:3da265 Open/Create/Replace File.vi
+416734:47e371 Open/Create/Replace File.vi
+416888:47f229 Open File+.vi
+416951:481c73 Open/Create/Replace File.vi
+417118:48288a Open File+.vi
+417152:482ab5 Open/Create/Replace File.vi
+417153:482ad1 Open/Create/Replace File.vi
+417154:482aed Open/Create/Replace File.vi
+417155:482b09 Open/Create/Replace File.vi
+417327:483525 Open File+.vi
+417328:483533 Open File+.vi
+417329:483541 Open File+.vi
+417330:48354f Open File+.vi
+476591:1733 Open/Create/Replace File.vi
+489511:bd3f7 Open File+.vi
+490334:ce699 Open/Create/Replace File.vi
+495584:13c1f5 Couldn't open the Software Rev. file.  Please set the Software Rev. manually on the front panel.  Place the flopply disk in the computer NOW.
+495585:13c288 xxxxRCouldn't open the Software Rev. file.  Place the flopply disk in the computer NOW.'Last known LC103 Software Rev. is:  VER
+496082:147abb Open File+.vi
+496100:147c0b Open File+.vie
+496175:14884f Open File+.vi
+496383:14b0e5 Open File+.viH
+496420:14c21f Open File+.vi
+503254:1ce627 Open/Create/Replace File.vi
+503273:1ce799 Open/Create/Replace File.vi
+503296:1cea47 open or create file
+503318:1cecd3 Open/Create/Replace File.vi
+503369:1cfc77 open or create file
+503482:1d06f4 open or create fileHD
+503491:1d084f Open/Create/Replace File.viZ
+503520:1d10af Open/Create/Replace File.vi
+504745:1f32c6 refnum is the reference number of the open file.
+504909:1f5a34 1refnum is the reference number of the open file.
+505196:1f9f7f refnum is the reference number of the open file.
+505288:1fb9e0 1refnum is the reference number of the open file.
+505647:205249 Open File+.vi
+505758:205e10 Open File+.vi:File Dialog
+505759:205e2b Open File+.vi:File Dialog
+505760:205e45 Open File+.vi:Open File
+505761:205e5e Open File+.vi:EOF
+505764:2060e7 Open File+.vi
+505869:20819d refnum is the reference number of the open file.  The value is Not A Refnum if the file cannot be opened.
+505955:208dc2 try to open the fileH
+506066:209795 Open File+.vi
+506085:20ac6d irefnum is the reference number of the open file. The value is Not A Refnum if the file cannot be opened.
+506091:20af57 Open File+.vi
+506404:20f189 Open File+.vi
+520834:33bed0 0 (open) opens an existing file.  Error 7 occurs if the file cannot be found.
+520835:33bf21 1 (open or create) opens an existing file or creates a new file if one does not exist.
+520845:33c668 refnum is the reference number of the open file.  The value is Not A Refnum if the file cannot be opened.
+520849:33c93e refnum is the reference number of the open file.
+527366:3b3045 refnum is the reference number of the open file.  The value is Not A Refnum if the file cannot be opened.
+527374:3b359b refnum is the reference number of the open file.
+527381:3b3c73 refnum is the reference number of the open file.
+527676:3ba7f9 refnum is the reference number of the open file.
+527769:3bc5f8 1refnum is the reference number of the open file.
+527885:3c39bb Open/Create/Replace File.vi
+528011:3c4970 Open FilePTH0
+528013:3c4986 Open File
+528015:3c499a Open File
+528016:3c49a4 Open File
+528021:3c49e0 Open File+
+528023:3c49fe !Open or Create File (function=%d)
+528029:3c4ef5 Open/Create/Replace File.vi
+528192:3c800f 0 (open) opens an existing file.  Error 7 occurs if the file cannot be found.
+528193:3c8060 1 (open or create) opens an existing file or creates a new file if one does not exist.
+528203:3c87a7 refnum is the reference number of the open file.  The value is Not A Refnum if the file cannot be opened.
+528291:3c96e0 try to open the file
+528581:3cb3b5 Open/Create/Replace File.vi
+528601:3cc8fe irefnum is the reference number of the open file. The value is Not A Refnum if the file cannot be opened.
+528604:3cc9d3 opens an existing file. Error 7 occurs if the file cannot be found.
+528605:3cca1b opens an existing file or creates a new file if one does not exist.
+528614:3cce86 Open/Create/Replace File.vi
+529048:3d6405 Open/Create/Replace File.vi
+529161:3d835d Open/Create/Replace File.vi
+529315:3d9215 Open File+.vi
+529413:3dddaf Open/Create/Replace File.vi
+529580:3de9c6 Open File+.vi
+529613:3debfe Open/Create/Replace File.vi
+529614:3dec1a Open/Create/Replace File.vi
+529615:3dec36 Open/Create/Replace File.vi
+529616:3dec52 Open/Create/Replace File.vi
+529792:3df682 Open File+.vi
+529793:3df690 Open File+.vi
+529794:3df69e Open File+.vi
+529795:3df6ac Open File+.vi
+581318:171f Open/Create/Replace File.vi
+594997:ce0a5 Open/Create/Replace File.vi
+595368:d5248 0 (open) opens an existing file.  Error 7 occurs if the file cannot be found.
+595369:d5299 1 (open or create) opens an existing file or creates a new file if one does not exist.
+595379:d59e0 refnum is the reference number of the open file.  The value is Not A Refnum if the file cannot be opened.
+595550:ddbd7 Open/Create/Replace File.vi
+595676:deb8c Open FilePTH0
+595678:deba2 Open File
+595680:debb6 Open File
+595681:debc0 Open File
+595686:debfc Open File+
+595688:dec1a !Open or Create File (function=%d)
+595694:df111 Open/Create/Replace File.vi
+595857:e222b 0 (open) opens an existing file.  Error 7 occurs if the file cannot be found.
+595858:e227c 1 (open or create) opens an existing file or creates a new file if one does not exist.
+595868:e29c3 refnum is the reference number of the open file.  The value is Not A Refnum if the file cannot be opened.
+595956:e38fc try to open the file
+596246:e55d1 Open/Create/Replace File.vi
+596266:e6b1a irefnum is the reference number of the open file. The value is Not A Refnum if the file cannot be opened.
+596269:e6bef opens an existing file. Error 7 occurs if the file cannot be found.
+596270:e6c37 opens an existing file or creates a new file if one does not exist.
+596279:e70a2 Open/Create/Replace File.vi
+596713:f0621 Open/Create/Replace File.vi
+596715:f1c46 refnum is the reference number of the open file.
+596765:f42a5 refnum is the reference number of the open file.  The value is Not A Refnum if the file cannot be opened.
+596773:f47fb refnum is the reference number of the open file.
+596780:f4ed3 refnum is the reference number of the open file.
+596849:f74d1 Open/Create/Replace File.vi
+597003:f8389 Open File+.vi
+597618:ff322 refnum is the reference number of the open file.
+607005:19df23 Open File+.vi
+607012:19e3df Open File+.vi
+607065:19fc0d refnum is the reference number of the open file.  The value is Not A Refnum if the file cannot be opened.
+607069:19fe93 Open File+.vi
+607113:1a0b7f Open File+.vi
+607263:1a3081 Open File+.vi
+607480:1a67df refnum is the reference number of the open file.
+607653:1a9a17 refnum is the reference number of the open file.
+608364:1b61a9 Open_Create_Replace File.viPTH0
+608367:1b61ef Open_Create_Replace File.vi
+608388:1b65a1 Open_Create_Replace File.viPTH0
+608456:1b79a1 Open_Create_Replace File.viPTH0
+608459:1b79e7 Open_Create_Replace File.vi
+610224:1d3b6d Open File+.viPTH0
+610225:1d3b88 Open File+.vi
+610255:1d4189 Open File+.viPTH0
+610347:1d5fc1 Open File+.viPTH0
+610348:1d5fdc Open File+.vi
+612231:1f638b Open/Create/Replace File.vi
+612358:1f6da5 Open/Create/Replace File.vi
+612359:1f6dc1 Open/Create/Replace File.vi
+612360:1f6ddd Open/Create/Replace File.vi
+612361:1f6df9 Open/Create/Replace File.vi
+612467:1f7446 Open File+.vi
+612468:1f7454 Open File+.vi
+612469:1f7462 Open File+.vi
+612591:1684 \\Atlas\Shared\Cal-Test\LC103\Source\lv8\103f_cal.llb\Open File+.vi (Open File+.vi)
+638071:1ee6a2 OpenFileMappingA

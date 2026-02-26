@@ -1,0 +1,29 @@
+48026:1639e9 Couldn't get resource named %p from file %p
+52212:1ba204 GIt starts with "." and may be incorrectly interpreted as a device name.9LabVIEW cannot create new directories or libraries in %p.&LabVIEW cannot create new files in %p.
+52991:1cae6d start path is the path name to the initially displayed directory (or folder) in a file dialog. The default value is Not A Path, which is the path to the last directory (or folder) shown in a file dialog.
+54009:1dbda3 start path is the path name to the initially displayed directory in a file dialog. The default value is Not A Path, which is the path to the last directory shown in a file dialog.
+99472:491159 start path is the path name to the initially displayed directory (or folder) in a file dialog. The default value is Not A Path, which is the path to the last directory (or folder) shown in a file dialog.
+100019:49a277 start path is the path name to the initially displayed directory in a file dialog. The default value is Not A Path, which is the path to the last directory shown in a file dialog.
+223248:9a99 start path is the path name to the initially displayed directory (or folder) in a file dialog. The default value is Not A Path, which is the path to the last directory (or folder) shown in a file dialog.
+224266:1a9cf start path is the path name to the initially displayed directory in a file dialog. The default value is Not A Path, which is the path to the last directory shown in a file dialog.
+224502:1d6db start path is the path name to the initially displayed directory in a file dialog. The default value is Not A Path, which is the path to the last directory shown in a file dialog.
+257802:207a85 start path is the path name to the initially displayed directory (or folder) in a file dialog. The default value is Not A Path, which is the path to the last directory (or folder) shown in a file dialog.
+258349:210ba3 start path is the path name to the initially displayed directory in a file dialog. The default value is Not A Path, which is the path to the last directory shown in a file dialog.
+258532:21292d start path is the path name to the initially displayed directory in a file dialog. The default value is Not A Path, which is the path to the last directory shown in a file dialog.
+374019:1ad65c start path is the path name to the initially displayed directory in a file dialog. The default value is Not A Path, which is the path to the last directory shown in a file dialog.
+374028:1add71 start path is the path name to the initially displayed directory (or folder) in a file dialog. The default value is Not A Path, which is the path to the last directory (or folder) shown in a file dialog.
+394249:30c90f start path is the path name to the initially displayed directory in a file dialog. The default value is Not A Path, which is the path to the last directory shown in a file dialog.
+404025:3a3fad start path is the path name to the initially displayed directory in a file dialog. The default value is Not A Path, which is the path to the last directory shown in a file dialog.
+406185:3cbbdf start path is the path name to the initially displayed directory in a file dialog. The default value is Not A Path, which is the path to the last directory shown in a file dialog.
+406194:3cc309 start path is the path name to the initially displayed directory (or folder) in a file dialog. The default value is Not A Path, which is the path to the last directory (or folder) shown in a file dialog.
+505865:207d51 start path is the path name to the initially displayed directory in a file dialog. The default value is Not A Path, which is the path to the last directory shown in a file dialog.
+506073:20a440 start path is the path name to the initially displayed directory (or folder) in a file dialog. The default value is Not A Path, which is the path to the last directory (or folder) shown in a file dialog.
+520841:33c207 start path is the path name to the initially displayed directory in a file dialog. The default value is Not A Path, which is the path to the last directory shown in a file dialog.
+527362:3b2bf9 start path is the path name to the initially displayed directory in a file dialog. The default value is Not A Path, which is the path to the last directory shown in a file dialog.
+528199:3c8346 start path is the path name to the initially displayed directory in a file dialog. The default value is Not A Path, which is the path to the last directory shown in a file dialog.
+528590:3cc166 start path is the path name to the initially displayed directory (or folder) in a file dialog. The default value is Not A Path, which is the path to the last directory (or folder) shown in a file dialog.
+595375:d557f start path is the path name to the initially displayed directory in a file dialog. The default value is Not A Path, which is the path to the last directory shown in a file dialog.
+595864:e2562 start path is the path name to the initially displayed directory in a file dialog. The default value is Not A Path, which is the path to the last directory shown in a file dialog.
+596255:e6382 start path is the path name to the initially displayed directory (or folder) in a file dialog. The default value is Not A Path, which is the path to the last directory (or folder) shown in a file dialog.
+596761:f3e59 start path is the path name to the initially displayed directory in a file dialog. The default value is Not A Path, which is the path to the last directory shown in a file dialog.
+607061:19f7c1 start path is the path name to the initially displayed directory in a file dialog. The default value is Not A Path, which is the path to the last directory shown in a file dialog.

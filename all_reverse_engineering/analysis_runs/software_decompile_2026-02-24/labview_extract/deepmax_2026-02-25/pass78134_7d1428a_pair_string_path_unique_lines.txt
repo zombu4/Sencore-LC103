@@ -1,0 +1,9 @@
+38114:4b218 FStringToPath
+48239:166313 vThe directory shown in this string box will be put into the path list when you click on the Insert or Replace buttons.
+48240:16638f lThis button inserts the directory shown in the string box before the highlighted directory in the path list.
+113094:57a7f6 line string,@2'new file path (Not A Path if cancelled)
+114223:593ed8 line string,@2'new file path (Not A Path if cancelled)
+115846:5b4d87 line string,@2'new file path (Not A Path if cancelled)
+271637:2f5676 line string,@2'new file path (Not A Path if cancelled)
+272770:30ee44 line string,@2'new file path (Not A Path if cancelled)
+274397:32fddf line string,@2'new file path (Not A Path if cancelled)

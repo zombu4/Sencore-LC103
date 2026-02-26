@@ -1,0 +1,2 @@
+52474:1bd25d unwired selector,too many diagrams for Boolean Case structure6wrong number of diagrams for enumerated case structure:subroutine priority VI cannot contain an asynchronous nodeBsubroutine priority VI cannot call a non-subroutine priority subVI
+52543:1bf662 This platform does not support the current return type. For example, the return type of a 16-bit DLL function may not be a floating point number. Pop up on the Call Library Function node and select Configure... to set the return type.

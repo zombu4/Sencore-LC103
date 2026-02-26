@@ -1,0 +1,1 @@
+527376:3b379a file size is the size of the file in bytes at the time the file is closed; the value is zero otherwise.

@@ -1,0 +1,1 @@
+596714:f1b67 *Writes a string of characters to a byte stream file at the specified location; the default location is at the end of file.  The VI does incoming and internal error checking and does not write if an incoming error occurs.

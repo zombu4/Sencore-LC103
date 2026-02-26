@@ -1,0 +1,14 @@
+FILE: LC103 simplified operating instructions (pull chart).pdf
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+0             0x0             PDF document, version: "1.3"
+171           0xAB            JPEG image data, JFIF standard 1.01
+1058341       0x102625        JPEG image data, JFIF standard 1.01
+1852840       0x1C45A8        JPEG image data, JFIF standard 1.01
+2724799       0x2993BF        JPEG image data, JFIF standard 1.01
+3562082       0x365A62        JPEG image data, JFIF standard 1.01
+4268232       0x4120C8        JPEG image data, JFIF standard 1.01
+5783750       0x5840C6        JPEG image data, JFIF standard 1.01
+7167076       0x6D5C64        JPEG image data, JFIF standard 1.01
+

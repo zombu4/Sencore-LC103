@@ -1,0 +1,30 @@
+102415:4c87d4 DAQ overFlowErr: Because of system limitations, the driver could not read data from the device fast enough to keep up with the device throughput; the onboard device memory reported an overflow error.
+102495:4ce124 LabVIEW: Device not found.!LabVIEW: Device parameter error.
+102496:4ce162 LabVIEW: Device unit error.NLabVIEW: Can't open device.
+260848:2413ac DAQ overFlowErr: Because of system limitations, the driver could not read data from the device fast enough to keep up with the device throughput; the onboard device memory reported an overflow error.
+260928:246cfc LabVIEW: Device not found.!LabVIEW: Device parameter error.
+260929:246d3a LabVIEW: Device unit error.NLabVIEW: Can't open device.
+314856:15ef7d DAQ overFlowErr: Because of system limitations, the driver could not read data from the device fast enough to keep up with the device throughput; the onboard device memory reported an overflow error.
+314936:1648cd LabVIEW: Device not found.!LabVIEW: Device parameter error.
+314937:16490b LabVIEW: Device unit error.NLabVIEW: Can't open device.
+341333:fe54d DAQ overFlowErr: Because of system limitations, the driver could not read data from the device fast enough to keep up with the device throughput; the onboard device memory reported an overflow error.
+341413:103e9d LabVIEW: Device not found.!LabVIEW: Device parameter error.
+341414:103edb LabVIEW: Device unit error.NLabVIEW: Can't open device.
+371286:17adce DAQ overFlowErr: Because of system limitations, the driver could not read data from the device fast enough to keep up with the device throughput; the onboard device memory reported an overflow error.
+371366:18071e LabVIEW: Device not found.!LabVIEW: Device parameter error.
+371367:18075c LabVIEW: Device unit error.NLabVIEW: Can't open device.
+433987:ee9f1 DAQ overFlowErr: Because of system limitations, the driver could not read data from the device fast enough to keep up with the device throughput; the onboard device memory reported an overflow error.
+434067:f4341 LabVIEW: Device not found.!LabVIEW: Device parameter error.
+434068:f437f LabVIEW: Device unit error.NLabVIEW: Can't open device.
+469966:fdf72 DAQ overFlowErr: Because of system limitations, the driver could not read data from the device fast enough to keep up with the device throughput; the onboard device memory reported an overflow error.
+470046:1038c2 LabVIEW: Device not found.!LabVIEW: Device parameter error.
+470047:103900 LabVIEW: Device unit error.NLabVIEW: Can't open device.
+503796:1dbd6f DAQ overFlowErr: Because of system limitations, the driver could not read data from the device fast enough to keep up with the device throughput; the onboard device memory reported an overflow error.
+503876:1e16bf LabVIEW: Device not found.!LabVIEW: Device parameter error.
+503877:1e16fd LabVIEW: Device unit error.NLabVIEW: Can't open device.
+546362:ed901 DAQ overFlowErr: Because of system limitations, the driver could not read data from the device fast enough to keep up with the device throughput; the onboard device memory reported an overflow error.
+546442:f3251 LabVIEW: Device not found.!LabVIEW: Device parameter error.
+546443:f328f LabVIEW: Device unit error.NLabVIEW: Can't open device.
+579215:15fc33 DAQ overFlowErr: Because of system limitations, the driver could not read data from the device fast enough to keep up with the device throughput; the onboard device memory reported an overflow error.
+579295:165583 LabVIEW: Device not found.!LabVIEW: Device parameter error.
+579296:1655c1 LabVIEW: Device unit error.NLabVIEW: Can't open device.

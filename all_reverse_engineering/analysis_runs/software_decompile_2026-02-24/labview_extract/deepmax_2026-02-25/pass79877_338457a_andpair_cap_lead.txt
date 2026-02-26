@@ -1,0 +1,42 @@
+80424:3705a0 Lead Open Test/Capsa
+80487:370b7d CAP,Make sure the red UUT lead is not connected.
+80488:370baf Lead Open Test/Caps
+83633:3a570e CAPGNow connect the red lead to the
+83634:3a5732 Capacitance Decade Box (High Terminal).HConnect the black UUT lead to the
+83637:3a57b4 CAPGNow connect the red lead to the
+83638:3a57d8 Capacitance Decade Box (High Terminal).HConnect the black UUT lead to the
+99169:48c5b4 @@cShort the UUT leads to the Capacitance Decade box(LTerminal).
+99289:48d005 CLRPARcShort the UUT leads to the Capacitance Decade box(LTerminal).
+249485:199114 Lead Open Test/Capsa
+249548:1996f1 CAP,Make sure the red UUT lead is not connected.
+249549:199723 Lead Open Test/Caps
+251085:1b23a6 CAPGNow connect the red lead to the
+251086:1b23ca Capacitance Decade Box (High Terminal).HConnect the black UUT lead to the
+251089:1b244c CAPGNow connect the red lead to the
+251090:1b2470 Capacitance Decade Box (High Terminal).HConnect the black UUT lead to the
+277907:36bb34 @@cShort the UUT leads to the Capacitance Decade box(LTerminal).
+278027:36c585 CLRPARcShort the UUT leads to the Capacitance Decade box(LTerminal).
+307026:d5a7c 4) Connect Lo Capacity leads to UUT plugs on front of test box.
+320787:1c3894 aaaLeads zero, open                Cap must read 0, IND must read "OPEN" and ESR must read "ERROR 7"W
+320789:1c3953 MMMLead zero, shorted            CAP must read "SHORT",  IND and ESR must read 0l
+323374:1f007c 4) Connect Lo Capacity leads to UUT plugs on front of test box.
+323681:1f2cc7 4) Connect Lo Capacity leads to UUT plugs on front of test box.
+375113:1bf0a2          Press 'Enter' when ready.cShort the UUT leads to the Capacitance Decade box(LTerminal).
+375296:1c05dd @@cShort the UUT leads to the Capacitance Decade box(LTerminal).
+388680:2ab5ec Capacitance Decade Box (Low Terminal).GNow connect the red lead to the
+388683:2ab693 Capacitance Decade Box (High Terminal).HConnect the black UUT lead to the
+391776:2e4ac2 Lead Open Test/Caps
+391888:2e5a86 Lead Open Test/Capsa
+442588:17f5d1 4) Connect Lo Capacity leads to UUT plugs on front of test box.
+445166:1a5739 4) Connect Lo Capacity leads to UUT plugs on front of test box.
+445430:1a73c6 4) Connect Lo Capacity leads to UUT plugs on front of test box.
+447600:1ca0c0 aaaLeads zero, open                Cap must read 0, IND must read "OPEN" and ESR must read "ERROR 7"W
+447602:1ca17f MMMLead zero, shorted            CAP must read "SHORT",  IND and ESR must read 0l
+506651:213b8c          Press 'Enter' when ready.cShort the UUT leads to the Capacitance Decade box(LTerminal).
+515840:2d9289 Capacitance Decade Box (Low Terminal).GNow connect the red lead to the
+515843:2d9330 Capacitance Decade Box (High Terminal).HConnect the black UUT lead to the
+517980:307e39 Lead Open Test/Caps
+550708:13e26b aaaLeads zero, open                Cap must read 0, IND must read "OPEN" and ESR must read "ERROR 7"W
+550710:13e32a MMMLead zero, shorted            CAP must read "SHORT",  IND and ESR must read 0l
+559427:1d99aa 4) Connect Lo Capacity leads to UUT plugs on front of test box.
+559822:1dee42 4) Connect Lo Capacity leads to UUT plugs on front of test box.

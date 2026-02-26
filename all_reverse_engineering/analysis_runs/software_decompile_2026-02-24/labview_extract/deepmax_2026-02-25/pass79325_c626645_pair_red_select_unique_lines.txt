@@ -1,0 +1,3 @@
+52214:1ba2c3 %p is an existing %p.3An error occurred while listing the contents of %p..You must select something in the directory %p.ULabVIEW cannot save to path %p because it is not an existing directory or VI library.
+52365:1bbb43 The "%p" VI's log file binding is corrupt and has been cleared. To restore the VI's log file binding, open the VI and select the File->Data Logging->Change Log File Binding... menu item.
+52474:1bd25d unwired selector,too many diagrams for Boolean Case structure6wrong number of diagrams for enumerated case structure:subroutine priority VI cannot contain an asynchronous nodeBsubroutine priority VI cannot call a non-subroutine priority subVI

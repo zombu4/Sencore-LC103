@@ -1,0 +1,1 @@
+371308:17d3d2 DAQ memPageErr: The transfer buffer contains a page break; system resources may require reprogramming when the page break is encountered.KDAQ memLockErr: The transfer buffer cannot be locked into physical memory.

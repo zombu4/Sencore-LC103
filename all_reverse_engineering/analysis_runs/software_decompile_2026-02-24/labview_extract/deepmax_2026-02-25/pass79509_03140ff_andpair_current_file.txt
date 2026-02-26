@@ -1,0 +1,42 @@
+46712:15cb30 {currentfile pictstr readhexstring pop} imagemask
+46714:15cb74 {currentfile pictstr readhexstring pop} imagemask
+46717:15cbc4 {currentfile pictstr readhexstring pop} 
+54232:1dfaac Current file mark plus pos offset.
+54499:1e3f76 at the current file mark plus pos offset.
+101001:4aa06e Current file mark plus pos offset. This is the default value.
+101004:4aa0e5 relative to current mark+'string is the data read from the file.
+101388:4af7d2 Reads a string of characters from a byte stream file at the specified location; the default location is at the current mark.  The VI does incoming and internal error checking and does not read if an incoming error occurs.
+101393:4af98a at the current file mark plus pos offset.  This is the default value.
+134418:20ae28 SOFTWARE\National Instruments\NI-DAQ\CurrentVersion\fpgafiles
+224525:1f58c Current file mark plus pos offset.
+224792:23a56 at the current file mark plus pos offset.
+224957:2523f at the current file mark plus pos offset.
+259398:22211e Current file mark plus pos offset. This is the default value.
+259401:222195 relative to current mark+'string is the data read from the file.
+259785:227882 Reads a string of characters from a byte stream file at the specified location; the default location is at the current mark.  The VI does incoming and internal error checking and does not read if an incoming error occurs.
+259790:227a3a at the current file mark plus pos offset.  This is the default value.
+259959:229360 Reads a string of characters from a byte stream file at the specified location; the default location is at the current mark.  The VI does incoming and internal error checking and does not read if an incoming error occurs.
+259964:229518 at the current file mark plus pos offset.  This is the default value.
+372335:192b26 Reads a string of characters from a byte stream file at the specified location; the default location is at the current mark.  The VI does incoming and internal error checking and does not read if an incoming error occurs.
+372340:192cde at the current file mark plus pos offset.  This is the default value.
+372360:19377e Current file mark plus pos offset. This is the default value.
+394261:30d13b at the current file mark plus pos offset.
+404043:3a4f48 Reads a string of characters from a byte stream file at the specified location; the default location is at the current mark.  The VI does incoming and internal error checking and does not read if an incoming error occurs.
+404048:3a5100 at the current file mark plus pos offset.  This is the default value.
+405284:3b9f7c at the current file mark plus pos offset.
+405300:3ba712 Current file mark plus pos offset.
+504744:1f31e7 Reads a string of characters from a byte stream file at the specified location; the default location is at the current mark.  The VI does incoming and internal error checking and does not read if an incoming error occurs.
+504749:1f339f at the current file mark plus pos offset.  This is the default value.
+504914:1f5b5b Current file mark plus pos offset. This is the default value.
+520853:33ca33 at the current file mark plus pos offset.
+527380:3b3b94 Reads a string of characters from a byte stream file at the specified location; the default location is at the current mark.  The VI does incoming and internal error checking and does not read if an incoming error occurs.
+527385:3b3d4c at the current file mark plus pos offset.  This is the default value.
+527680:3ba8ee at the current file mark plus pos offset.
+527778:3bc92a Current file mark plus pos offset.
+596719:f1d3b at the current file mark plus pos offset.
+596779:f4df4 Reads a string of characters from a byte stream file at the specified location; the default location is at the current mark.  The VI does incoming and internal error checking and does not read if an incoming error occurs.
+596784:f4fac at the current file mark plus pos offset.  This is the default value.
+597622:ff417 at the current file mark plus pos offset.
+607652:1a9938 Reads a string of characters from a byte stream file at the specified location; the default location is at the current mark.  The VI does incoming and internal error checking and does not read if an incoming error occurs.
+607657:1a9af0 at the current file mark plus pos offset.  This is the default value.
+639907:20ae28 SOFTWARE\National Instruments\NI-DAQ\CurrentVersion\fpgafiles

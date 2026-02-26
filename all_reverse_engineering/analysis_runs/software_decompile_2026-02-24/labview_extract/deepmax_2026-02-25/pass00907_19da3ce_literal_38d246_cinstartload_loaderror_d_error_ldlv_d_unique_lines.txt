@@ -1,0 +1,1 @@
+525247:38d246 CINStartLoad: loaderror= %d, error=%ldLV_DIG_PORT_READSetCINArraySize, elmtNum %ld out of range 0 <= elmtNum < %ldnon-array detected

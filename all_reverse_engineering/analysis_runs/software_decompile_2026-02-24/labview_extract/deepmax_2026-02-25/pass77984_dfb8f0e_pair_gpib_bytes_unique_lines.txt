@@ -1,0 +1,21 @@
+57231:212a20 status[15]- GPIB error detectedA=data string contains count data bytes from the GPIB device.
+102515:4ce745 GPIB SPTMO: Serial port timeout; bytes not received at serial port.
+227622:53a78 status[15]- GPIB error detectedA=data string contains count data bytes from the GPIB device.
+260948:24731d GPIB SPTMO: Serial port timeout; bytes not received at serial port.
+294105:20e09 status[15]- GPIB error detectedA=data string contains count data bytes from the GPIB device.
+314956:164eee GPIB SPTMO: Serial port timeout; bytes not received at serial port.
+326272:20101 status[15]- GPIB error detectedA=data string contains count data bytes from the GPIB device.
+341433:1044be GPIB SPTMO: Serial port timeout; bytes not received at serial port.
+349067:1ed38 status[15]- GPIB error detectedA=data string contains count data bytes from the GPIB device.
+371386:180d3f GPIB SPTMO: Serial port timeout; bytes not received at serial port.
+419734:1ec7d status[15]- GPIB error detectedA=data string contains count data bytes from the GPIB device.
+434087:f4962 GPIB SPTMO: Serial port timeout; bytes not received at serial port.
+454571:1d54d status[15]- GPIB error detectedA=data string contains count data bytes from the GPIB device.
+470066:103ee3 GPIB SPTMO: Serial port timeout; bytes not received at serial port.
+478283:1ed38 status[15]- GPIB error detectedA=data string contains count data bytes from the GPIB device.
+503896:1e1ce0 GPIB SPTMO: Serial port timeout; bytes not received at serial port.
+532202:1ec7d status[15]- GPIB error detectedA=data string contains count data bytes from the GPIB device.
+546462:f3872 GPIB SPTMO: Serial port timeout; bytes not received at serial port.
+562487:1d54d status[15]- GPIB error detectedA=data string contains count data bytes from the GPIB device.
+579315:165ba4 GPIB SPTMO: Serial port timeout; bytes not received at serial port.
+583006:1ecb0 status[15]- GPIB error detectedA=data string contains count data bytes from the GPIB device.

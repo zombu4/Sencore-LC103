@@ -1,0 +1,13 @@
+46368:15a8ff IGetFile: getprocaddress failed
+46369:15a91f IGetFile: GetIndirectFuntion failed
+46371:15a953 IGetFile: getprocaddress failed for bitmapInfo
+46372:15a982 IGetFile: GetIndirectFuntion failed for bitmapInfo
+46374:15a9c7 IGetFile: getprocaddress failed for deletebitmap
+46375:15a9f8 IGetFile: GetIndirectFuntion failed for deletebitamp
+46379:15aae7 IGetFile: decompress failed w/error=%d
+46382:15ab8a IGetFile: BitmapInfo failed
+54065:1dcffe 8attempt to create file fails because file already existsM
+224322:1bc2a 8attempt to create file fails because file already existsM
+406334:3ce364 8attempt to create file fails because file already existsM
+528311:3c9f92 8attempt to create file fails because file already existsH
+595976:e41ae 8attempt to create file fails because file already existsH

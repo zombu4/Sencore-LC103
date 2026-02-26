@@ -1,0 +1,16 @@
+52541:1bf499 The library specified for this node cannot be found. Pop up on the Call Library Function node and select Configure..., then choose the correct library name or path.
+54033:1dc745 [report file not found if function=0 (open); set file path to empty and refnum to NotARefnumMD
+102528:4cf652 DDE DMLERR_UNFOUND_QUEUED_ID: An invalid transaction identifier was passed to a DDEML function. Once the application has returned from an XTYP_XACT_COMPLETE callback, the transaction identifier for that callback is no longer valid.
+224290:1b371 [report file not found if function=0 (open); set file path to empty and refnum to NotARefnumMD
+260961:24822a DDE DMLERR_UNFOUND_QUEUED_ID: An invalid transaction identifier was passed to a DDEML function. Once the application has returned from an XTYP_XACT_COMPLETE callback, the transaction identifier for that callback is no longer valid.
+314969:165dfb DDE DMLERR_UNFOUND_QUEUED_ID: An invalid transaction identifier was passed to a DDEML function. Once the application has returned from an XTYP_XACT_COMPLETE callback, the transaction identifier for that callback is no longer valid.
+341446:1053cb DDE DMLERR_UNFOUND_QUEUED_ID: An invalid transaction identifier was passed to a DDEML function. Once the application has returned from an XTYP_XACT_COMPLETE callback, the transaction identifier for that callback is no longer valid.
+371399:181c4c DDE DMLERR_UNFOUND_QUEUED_ID: An invalid transaction identifier was passed to a DDEML function. Once the application has returned from an XTYP_XACT_COMPLETE callback, the transaction identifier for that callback is no longer valid.
+406298:3cda70 [[[report file not found if function=0 (open); set file path to empty and refnum to NotARefnumMD
+434100:f586f DDE DMLERR_UNFOUND_QUEUED_ID: An invalid transaction identifier was passed to a DDEML function. Once the application has returned from an XTYP_XACT_COMPLETE callback, the transaction identifier for that callback is no longer valid.
+470079:104df0 DDE DMLERR_UNFOUND_QUEUED_ID: An invalid transaction identifier was passed to a DDEML function. Once the application has returned from an XTYP_XACT_COMPLETE callback, the transaction identifier for that callback is no longer valid.
+503909:1e2bed DDE DMLERR_UNFOUND_QUEUED_ID: An invalid transaction identifier was passed to a DDEML function. Once the application has returned from an XTYP_XACT_COMPLETE callback, the transaction identifier for that callback is no longer valid.
+528292:3c970a [[[report file not found if function=0 (open); set file path to empty and refnum to NotARefnumHDt
+546475:f477f DDE DMLERR_UNFOUND_QUEUED_ID: An invalid transaction identifier was passed to a DDEML function. Once the application has returned from an XTYP_XACT_COMPLETE callback, the transaction identifier for that callback is no longer valid.
+579328:166ab1 DDE DMLERR_UNFOUND_QUEUED_ID: An invalid transaction identifier was passed to a DDEML function. Once the application has returned from an XTYP_XACT_COMPLETE callback, the transaction identifier for that callback is no longer valid.
+595957:e3926 [[[report file not found if function=0 (open); set file path to empty and refnum to NotARefnumHDt

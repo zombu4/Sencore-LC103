@@ -1,0 +1,13 @@
+79450:35fd27 Lead Zero Short Test/Inductanced
+79525:36042d Lead Zero Short Test/Inductance
+276860:35b447 Lead Zero Short Test/Inductanced
+276935:35bb4d Lead Zero Short Test/Inductance
+320787:1c3894 aaaLeads zero, open                Cap must read 0, IND must read "OPEN" and ESR must read "ERROR 7"W
+320789:1c3953 MMMLead zero, shorted            CAP must read "SHORT",  IND and ESR must read 0l
+393269:2fb8e2 Lead Zero Short Test/Inductance
+393402:2fcd05 Lead Zero Short Test/Inductanced
+447600:1ca0c0 aaaLeads zero, open                Cap must read 0, IND must read "OPEN" and ESR must read "ERROR 7"W
+447602:1ca17f MMMLead zero, shorted            CAP must read "SHORT",  IND and ESR must read 0l
+518663:3181f0 Lead Zero Short Test/Inductance
+550708:13e26b aaaLeads zero, open                Cap must read 0, IND must read "OPEN" and ESR must read "ERROR 7"W
+550710:13e32a MMMLead zero, shorted            CAP must read "SHORT",  IND and ESR must read 0l

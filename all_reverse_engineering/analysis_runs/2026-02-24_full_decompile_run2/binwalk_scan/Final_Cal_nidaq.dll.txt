@@ -1,0 +1,8 @@
+FILE: Final Cal/nidaq.dll
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+0             0x0             Microsoft executable, portable (PE)
+2189518       0x2168CE        YAFFS filesystem, little endian
+2189726       0x21699E        YAFFS filesystem, little endian
+

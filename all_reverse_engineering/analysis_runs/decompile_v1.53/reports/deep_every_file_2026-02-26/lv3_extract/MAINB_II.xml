@@ -1,0 +1,8197 @@
+<?xml version='1.0' encoding='utf-8'?>
+<RSRC FormatVersion="3" Type="LVAR" Encoding="mac_roman" Int1="0xF44E2400" Int2="0x0021C898">
+  <ADir>
+    <!-- Generic block -->
+    <Section Index="0" Int5="0x78252400" Format="bin" File="MAINB_II_ADir.bin" />
+    </ADir>
+  <PALM>
+    <!-- Generic block -->
+    <Section Index="0" Name="paletteMenu" Int5="0x68252400" Format="bin" File="paletteMenu_PALM0.bin" />
+    <Section Index="1" Name="ctlMenu" Int5="0x00000000" Format="bin" File="ctlMenu_PALM1.bin" />
+    </PALM>
+  <STR>
+    <!-- Short String / Input definition? -->
+    <Section Index="1" Int5="0x00000000" Format="inline">
+      <String>MAINB_II VIs</String>
+      </Section>
+    <Section Index="2" Int5="0x00000000" Format="inline">
+      <String>MAINB_II Ctrls</String>
+      </Section>
+    </STR>
+  <CPRF>
+    <!-- 'Comp' Compressed Resource File -->
+    <Section Index="1" Name="daqtabls.lsb" Int5="0x00000000" Format="bin" File="daqtabls.lsb" />
+    <Section Index="2" Name="daqlptrs.lsb" Int5="0x00000000" Format="bin" File="daqlptrs.lsb" />
+    <Section Index="3" Name="P/F_Glob.vi" Int5="0x00000000" Format="bin" File="P-F_Glob.vi" />
+    <Section Index="4" Name="Status_Glob.vi" Int5="0x00000000" Format="bin" File="Status_Glob.vi" />
+    <Section Index="5" Name="WSrd.vi" Int5="0x00000000" Format="bin" File="WSrd.vi" />
+    <Section Index="6" Name="WSwrt.vi" Int5="0x00000000" Format="bin" File="WSwrt.vi" />
+    <Section Index="7" Name="4882TMO.vi" Int5="0x00000000" Format="bin" File="4882TMO.vi" />
+    <Section Index="8" Name="platGlob.vi" Int5="0x00000000" Format="bin" File="platGlob.vi" />
+    <Section Index="9" Name="Open GPIB Driver.vi" Int5="0x00000000" Format="bin" File="Open GPIB Driver.vi" />
+    <Section Index="10" Name="Core GPIB Read.vi" Int5="0x00000000" Format="bin" File="Core GPIB Read.vi" />
+    <Section Index="11" Name="Receive.vi" Int5="0x00000000" Format="bin" File="Receive.vi" />
+    <Section Index="12" Name="Core GPIB Write.vi" Int5="0x00000000" Format="bin" File="Core GPIB Write.vi" />
+    <Section Index="13" Name="Send.vi" Int5="0x00000000" Format="bin" File="Send.vi" />
+    <Section Index="14" Name="Instr Read Model Code (GPIB-VXI).vi" Int5="0x00000000" Format="bin" File="Instr Read Model Code (GPIB-VXI).vi" />
+    <Section Index="15" Name="GetDevInfoLong.vi" Int5="0x00000000" Format="bin" File="GetDevInfoLong.vi" />
+    <Section Index="16" Name="GetDevInfoShort.vi" Int5="0x00000000" Format="bin" File="GetDevInfoShort.vi" />
+    <Section Index="17" Name="InitVXIlibrary.vi" Int5="0x00000000" Format="bin" File="InitVXIlibrary.vi" />
+    <Section Index="18" Name="Instr Handle Control.ctl" Int5="0x00000000" Format="bin" File="Instr Handle Control.ctl" />
+    <Section Index="19" Name="VTL Global.vi" Int5="0x00000000" Format="bin" File="VTL Global.vi" />
+    <Section Index="20" Name="Instr Error Out Cluster.ctl" Int5="0x00000000" Format="bin" File="Instr Error Out Cluster.ctl" />
+    <Section Index="21" Name="Instr Error In Cluster.ctl" Int5="0x00000000" Format="bin" File="Instr Error In Cluster.ctl" />
+    <Section Index="22" Name="Instr Source.ctl" Int5="0x00000000" Format="bin" File="Instr Source.ctl" />
+    <Section Index="23" Name="Instr Handle Indicator.ctl" Int5="0x00000000" Format="bin" File="Instr Handle Indicator.ctl" />
+    <Section Index="24" Name="Instr Read.vi" Int5="0x00000000" Format="bin" File="Instr Read.vi" />
+    <Section Index="25" Name="Instr Write.vi" Int5="0x00000000" Format="bin" File="Instr Write.vi" />
+    <Section Index="26" Name="Fluke 8840A.vi" Int5="0x00000000" Format="bin" File="Fluke 8840A.vi" />
+    <Section Index="27" Name="MakeAddr.vi" Int5="0x00000000" Format="bin" File="MakeAddr.vi" />
+    <Section Index="28" Name="Instr Initialize Interface.vi" Int5="0x00000000" Format="bin" File="Instr Initialize Interface.vi" />
+    <Section Index="29" Name="Instr Parse Instrument Descriptor.vi" Int5="0x00000000" Format="bin" File="Instr Parse Instrument Descriptor.vi" />
+    <Section Index="30" Name="Instr Open.vi" Int5="0x00000000" Format="bin" File="Instr Open.vi" />
+    <Section Index="31" Name="FL 884XX Initialize.vi" Int5="0x00000000" Format="bin" File="FL 884XX Initialize.vi" />
+    <Section Index="32" Name="RD8840A.VI" Int5="0x00000000" Format="bin" File="RD8840A.vi" />
+    <Section Index="33" Name="INSTR_WT.VI" Int5="0x00000000" Format="bin" File="INSTR_WT.vi" />
+    <Section Index="34" Name="Standard Deviation.vi" Int5="0x00000000" Format="bin" File="Standard Deviation.vi" />
+    <Section Index="35" Name="serpConfig.vi" Int5="0x00000000" Format="bin" File="serpConfig.vi" />
+    <Section Index="36" Name="serpOpen.vi" Int5="0x00000000" Format="bin" File="serpOpen.vi" />
+    <Section Index="37" Name="Open Serial Driver.vi" Int5="0x00000000" Format="bin" File="Open Serial Driver.vi" />
+    <Section Index="38" Name="Serial Port Write.vi" Int5="0x00000000" Format="bin" File="Serial Port Write.vi" />
+    <Section Index="39" Name="Serial Port Read.vi" Int5="0x00000000" Format="bin" File="Serial Port Read.vi" />
+    <Section Index="40" Name="Bytes At Serial Port.vi" Int5="0x00000000" Format="bin" File="Bytes At Serial Port.vi" />
+    <Section Index="41" Name="String Write.vi" Int5="0x00000000" Format="bin" File="String Write.vi" />
+    <Section Index="42" Name="String Read.vi" Int5="0x00000000" Format="bin" File="String Read.vi" />
+    <Section Index="43" Name="RS-232 Communications.vi" Int5="0x00000000" Format="bin" File="RS-232 Communications.vi" />
+    <Section Index="44" Name="UUT Comm.vi" Int5="0x00000000" Format="bin" File="UUT Comm.vi" />
+    <Section Index="45" Name="UUT_BEEP.vi" Int5="0x00000000" Format="bin" File="UUT_BEEP.vi" />
+    <Section Index="46" Name="1ST_READ.vi" Int5="0x00000000" Format="bin" File="1ST_READ.vi" />
+    <Section Index="47" Name="SETLD_RD.VI" Int5="0x00000000" Format="bin" File="SETLD_RD.vi" />
+    <Section Index="48" Name="AVG_RD.VI" Int5="0x00000000" Format="bin" File="AVG_RD.vi" />
+    <Section Index="49" Name="DIO table for main board test.vi" Int5="0x00000000" Format="bin" File="DIO table for main board test.vi" />
+    <Section Index="50" Name="DIO Port Write.vi" Int5="0x00000000" Format="bin" File="DIO Port Write.vi" />
+    <Section Index="51" Name="DIO Port Read.vi" Int5="0x00000000" Format="bin" File="DIO Port Read.vi" />
+    <Section Index="52" Name="DIO Port Config.vi" Int5="0x00000000" Format="bin" File="DIO Port Config.vi" />
+    <Section Index="53" Name="General Error Handler.vi" Int5="0x00000000" Format="bin" File="General Error Handler.vi" />
+    <Section Index="54" Name="Write to Digital Port .vi" Int5="0x00000000" Format="bin" File="Write to Digital Port .vi" />
+    <Section Index="55" Name="Read from Digital Port.vi" Int5="0x00000000" Format="bin" File="Read from Digital Port.vi" />
+    <Section Index="56" Name="DIO_R-W.VI" Int5="0x00000000" Format="bin" File="DIO_R-W.vi" />
+    <Section Index="57" Name="Capacitance testII.vi" Int5="0x00000000" Format="bin" File="Capacitance testII.vi" />
+    <Section Index="58" Name="rattle relays.vi" Int5="0x00000000" Format="bin" File="rattle relays.vi" />
+    <Section Index="59" Name="ESR.vi" Int5="0x00000000" Format="bin" File="ESR.vi" />
+    <Section Index="60" Name="Leakage voltage test.vi" Int5="0x00000000" Format="bin" File="Leakage voltage test.vi" />
+    <Section Index="61" Name="D/A.vi" Int5="0x00000000" Format="bin" File="D-A.vi" />
+    <Section Index="62" Name="Leakage current test.vi" Int5="0x00000000" Format="bin" File="Leakage current test.vi" />
+    <Section Index="63" Name="Inductance test.vi" Int5="0x00000000" Format="bin" File="Inductance test.vi" />
+    <Section Index="64" Name="lead zero short/open.vi" Int5="0x00000000" Format="bin" File="lead zero short-open.vi" />
+    <Section Index="65" Name="MAINB_II.VI" Int5="0x74252400" Format="bin" File="MAINB_II.vi" />
+    <Section Index="66" Name="Inductance testII.vi" Int5="0x00000000" Format="bin" File="Inductance testII.vi" />
+    </CPRF>
+  <STRsh>
+    <!-- Short Strings List -->
+    <Section Index="3" Name="P/F_Glob.vi" Int5="0x00000000" Format="inline">
+      <String>P/F_Glob.vi</String>
+      </Section>
+    <Section Index="4" Name="Status_Glob.vi" Int5="0x00000000" Format="inline">
+      <String>Status_Glob.vi</String>
+      </Section>
+    <Section Index="5" Name="WSrd.vi" Int5="0x00000000" Format="inline">
+      <String>WSrd.vi</String>
+      </Section>
+    <Section Index="6" Name="WSwrt.vi" Int5="0x00000000" Format="inline">
+      <String>WSwrt.vi</String>
+      </Section>
+    <Section Index="7" Name="4882TMO.vi" Int5="0x00000000" Format="inline">
+      <String>4882TMO.vi</String>
+      </Section>
+    <Section Index="8" Name="platGlob.vi" Int5="0x00000000" Format="inline">
+      <String>platGlob.vi</String>
+      </Section>
+    <Section Index="9" Name="Open GPIB Driver.vi" Int5="0x00000000" Format="inline">
+      <String>Open GPIB Driver.vi</String>
+      </Section>
+    <Section Index="10" Name="Core GPIB Read.vi" Int5="0x00000000" Format="inline">
+      <String>Core GPIB Read.vi</String>
+      </Section>
+    <Section Index="11" Name="Receive.vi" Int5="0x00000000" Format="inline">
+      <String>Receive.vi</String>
+      </Section>
+    <Section Index="12" Name="Core GPIB Write.vi" Int5="0x00000000" Format="inline">
+      <String>Core GPIB Write.vi</String>
+      </Section>
+    <Section Index="13" Name="Send.vi" Int5="0x00000000" Format="inline">
+      <String>Send.vi</String>
+      </Section>
+    <Section Index="14" Name="Instr Read Model Code (GPIB-VXI).vi" Int5="0x00000000" Format="inline">
+      <String>Instr Read Model Code (GPIB-VXI).vi</String>
+      </Section>
+    <Section Index="15" Name="GetDevInfoLong.vi" Int5="0x00000000" Format="inline">
+      <String>GetDevInfoLong.vi</String>
+      </Section>
+    <Section Index="16" Name="GetDevInfoShort.vi" Int5="0x00000000" Format="inline">
+      <String>GetDevInfoShort.vi</String>
+      </Section>
+    <Section Index="17" Name="InitVXIlibrary.vi" Int5="0x00000000" Format="inline">
+      <String>InitVXIlibrary.vi</String>
+      </Section>
+    <Section Index="18" Name="Instr Handle Control.ctl" Int5="0x00000000" Format="inline">
+      <String>Instr Handle Control.ctl</String>
+      </Section>
+    <Section Index="19" Name="VTL Global.vi" Int5="0x00000000" Format="inline">
+      <String>VTL Global.vi</String>
+      </Section>
+    <Section Index="20" Name="Instr Error Out Cluster.ctl" Int5="0x00000000" Format="inline">
+      <String>Instr Error Out Cluster.ctl</String>
+      </Section>
+    <Section Index="21" Name="Instr Error In Cluster.ctl" Int5="0x00000000" Format="inline">
+      <String>Instr Error In Cluster.ctl</String>
+      </Section>
+    <Section Index="22" Name="Instr Source.ctl" Int5="0x00000000" Format="inline">
+      <String>Instr Source.ctl</String>
+      </Section>
+    <Section Index="23" Name="Instr Handle Indicator.ctl" Int5="0x00000000" Format="inline">
+      <String>Instr Handle Indicator.ctl</String>
+      </Section>
+    <Section Index="24" Name="Instr Read.vi" Int5="0x00000000" Format="inline">
+      <String>Instr Read.vi</String>
+      </Section>
+    <Section Index="25" Name="Instr Write.vi" Int5="0x00000000" Format="inline">
+      <String>Instr Write.vi</String>
+      </Section>
+    <Section Index="26" Name="Fluke 8840A.vi" Int5="0x00000000" Format="inline">
+      <String>Fluke 8840A.vi</String>
+      </Section>
+    <Section Index="27" Name="MakeAddr.vi" Int5="0x00000000" Format="inline">
+      <String>MakeAddr.vi</String>
+      </Section>
+    <Section Index="28" Name="Instr Initialize Interface.vi" Int5="0x00000000" Format="inline">
+      <String>Instr Initialize Interface.vi</String>
+      </Section>
+    <Section Index="29" Name="Instr Parse Instrument Descriptor.vi" Int5="0x00000000" Format="inline">
+      <String>Instr Parse Instrument Descriptor.vi</String>
+      </Section>
+    <Section Index="30" Name="Instr Open.vi" Int5="0x00000000" Format="inline">
+      <String>Instr Open.vi</String>
+      </Section>
+    <Section Index="31" Name="FL 884XX Initialize.vi" Int5="0x00000000" Format="inline">
+      <String>FL 884XX Initialize.vi</String>
+      </Section>
+    <Section Index="32" Name="RD8840A.VI" Int5="0x00000000" Format="inline">
+      <String>RD8840A.VI</String>
+      </Section>
+    <Section Index="33" Name="INSTR_WT.VI" Int5="0x00000000" Format="inline">
+      <String>INSTR_WT.VI</String>
+      </Section>
+    <Section Index="34" Name="Standard Deviation.vi" Int5="0x00000000" Format="inline">
+      <String>Standard Deviation.vi</String>
+      </Section>
+    <Section Index="35" Name="serpConfig.vi" Int5="0x00000000" Format="inline">
+      <String>serpConfig.vi</String>
+      </Section>
+    <Section Index="36" Name="serpOpen.vi" Int5="0x00000000" Format="inline">
+      <String>serpOpen.vi</String>
+      </Section>
+    <Section Index="37" Name="Open Serial Driver.vi" Int5="0x00000000" Format="inline">
+      <String>Open Serial Driver.vi</String>
+      </Section>
+    <Section Index="38" Name="Serial Port Write.vi" Int5="0x00000000" Format="inline">
+      <String>Serial Port Write.vi</String>
+      </Section>
+    <Section Index="39" Name="Serial Port Read.vi" Int5="0x00000000" Format="inline">
+      <String>Serial Port Read.vi</String>
+      </Section>
+    <Section Index="40" Name="Bytes At Serial Port.vi" Int5="0x00000000" Format="inline">
+      <String>Bytes At Serial Port.vi</String>
+      </Section>
+    <Section Index="41" Name="String Write.vi" Int5="0x00000000" Format="inline">
+      <String>String Write.vi</String>
+      </Section>
+    <Section Index="42" Name="String Read.vi" Int5="0x00000000" Format="inline">
+      <String>String Read.vi</String>
+      </Section>
+    <Section Index="43" Name="RS-232 Communications.vi" Int5="0x00000000" Format="inline">
+      <String>RS-232 Communications.vi</String>
+      </Section>
+    <Section Index="44" Name="UUT Comm.vi" Int5="0x00000000" Format="inline">
+      <String>UUT Comm.vi</String>
+      </Section>
+    <Section Index="45" Name="UUT_BEEP.vi" Int5="0x00000000" Format="inline">
+      <String>UUT_BEEP.vi</String>
+      </Section>
+    <Section Index="46" Name="1ST_READ.vi" Int5="0x00000000" Format="inline">
+      <String>1ST_READ.vi</String>
+      </Section>
+    <Section Index="47" Name="SETLD_RD.VI" Int5="0x00000000" Format="inline">
+      <String>SETLD_RD.VI</String>
+      </Section>
+    <Section Index="48" Name="AVG_RD.VI" Int5="0x00000000" Format="inline">
+      <String>AVG_RD.VI</String>
+      </Section>
+    <Section Index="49" Name="DIO table for main board test.vi" Int5="0x00000000" Format="inline">
+      <String>DIO table for main board test.vi</String>
+      </Section>
+    <Section Index="50" Name="DIO Port Write.vi" Int5="0x00000000" Format="inline">
+      <String>DIO Port Write.vi</String>
+      </Section>
+    <Section Index="51" Name="DIO Port Read.vi" Int5="0x00000000" Format="inline">
+      <String>DIO Port Read.vi</String>
+      </Section>
+    <Section Index="52" Name="DIO Port Config.vi" Int5="0x00000000" Format="inline">
+      <String>DIO Port Config.vi</String>
+      </Section>
+    <Section Index="53" Name="General Error Handler.vi" Int5="0x00000000" Format="inline">
+      <String>General Error Handler.vi</String>
+      </Section>
+    <Section Index="54" Name="Write to Digital Port .vi" Int5="0x00000000" Format="inline">
+      <String>Write to Digital Port .vi</String>
+      </Section>
+    <Section Index="55" Name="Read from Digital Port.vi" Int5="0x00000000" Format="inline">
+      <String>Read from Digital Port.vi</String>
+      </Section>
+    <Section Index="56" Name="DIO_R-W.VI" Int5="0x00000000" Format="inline">
+      <String>DIO_R-W.VI</String>
+      </Section>
+    <Section Index="57" Name="Capacitance testII.vi" Int5="0x00000000" Format="inline">
+      <String>Capacitance testII.vi</String>
+      </Section>
+    <Section Index="58" Name="rattle relays.vi" Int5="0x00000000" Format="inline">
+      <String>rattle relays.vi</String>
+      </Section>
+    <Section Index="59" Name="ESR.vi" Int5="0x00000000" Format="inline">
+      <String>ESR.vi</String>
+      </Section>
+    <Section Index="60" Name="Leakage voltage test.vi" Int5="0x00000000" Format="inline">
+      <String>Leakage voltage test.vi</String>
+      </Section>
+    <Section Index="61" Name="D/A.vi" Int5="0x00000000" Format="inline">
+      <String>D/A.vi</String>
+      </Section>
+    <Section Index="62" Name="Leakage current test.vi" Int5="0x00000000" Format="inline">
+      <String>Leakage current test.vi</String>
+      </Section>
+    <Section Index="63" Name="Inductance test.vi" Int5="0x00000000" Format="inline">
+      <String>Inductance test.vi</String>
+      </Section>
+    <Section Index="64" Name="lead zero short/open.vi" Int5="0x00000000" Format="inline">
+      <String>lead zero short/open.vi</String>
+      </Section>
+    <Section Index="65" Name="MAINB_II.VI" Int5="0x00000000" Format="inline">
+      <String>MAINB_II.VI</String>
+      </Section>
+    <Section Index="66" Name="Inductance testII.vi" Int5="0x00000000" Format="inline">
+      <String>Inductance testII.vi</String>
+      </Section>
+    </STRsh>
+  <ICON>
+    <!-- Icon 32x32 1bpp -->
+    <Section Index="3" Name="P/F_Glob.vi" Int5="0x00000000" Format="png" File="P-F_Glob_ICON3.png" />
+    <Section Index="4" Name="Status_Glob.vi" Int5="0x00000000" Format="png" File="Status_Glob_ICON4.png" />
+    <Section Index="5" Name="WSrd.vi" Int5="0x00000000" Format="png" File="WSrd_ICON5.png" />
+    <Section Index="6" Name="WSwrt.vi" Int5="0x00000000" Format="png" File="WSwrt_ICON6.png" />
+    <Section Index="7" Name="4882TMO.vi" Int5="0x00000000" Format="png" File="4882TMO_ICON7.png" />
+    <Section Index="8" Name="platGlob.vi" Int5="0x00000000" Format="png" File="platGlob_ICON8.png" />
+    <Section Index="9" Name="Open GPIB Driver.vi" Int5="0x00000000" Format="png" File="Open GPIB Driver_ICON9.png" />
+    <Section Index="10" Name="Core GPIB Read.vi" Int5="0x00000000" Format="png" File="Core GPIB Read_ICON10.png" />
+    <Section Index="11" Name="Receive.vi" Int5="0x00000000" Format="png" File="Receive_ICON11.png" />
+    <Section Index="12" Name="Core GPIB Write.vi" Int5="0x00000000" Format="png" File="Core GPIB Write_ICON12.png" />
+    <Section Index="13" Name="Send.vi" Int5="0x00000000" Format="png" File="Send_ICON13.png" />
+    <Section Index="14" Name="Instr Read Model Code (GPIB-VXI).vi" Int5="0x00000000" Format="png" File="Instr Read Model Code (GPIB-VXI)_ICON14.png" />
+    <Section Index="15" Name="GetDevInfoLong.vi" Int5="0x00000000" Format="png" File="GetDevInfoLong_ICON15.png" />
+    <Section Index="16" Name="GetDevInfoShort.vi" Int5="0x00000000" Format="png" File="GetDevInfoShort_ICON16.png" />
+    <Section Index="17" Name="InitVXIlibrary.vi" Int5="0x00000000" Format="png" File="InitVXIlibrary_ICON17.png" />
+    <Section Index="18" Name="Instr Handle Control.ctl" Int5="0x00000000" Format="png" File="Instr Handle Control_ICON18.png" />
+    <Section Index="19" Name="VTL Global.vi" Int5="0x00000000" Format="png" File="VTL Global_ICON19.png" />
+    <Section Index="20" Name="Instr Error Out Cluster.ctl" Int5="0x00000000" Format="png" File="Instr Error Out Cluster_ICON20.png" />
+    <Section Index="21" Name="Instr Error In Cluster.ctl" Int5="0x00000000" Format="png" File="Instr Error In Cluster_ICON21.png" />
+    <Section Index="22" Name="Instr Source.ctl" Int5="0x00000000" Format="png" File="Instr Source_ICON22.png" />
+    <Section Index="23" Name="Instr Handle Indicator.ctl" Int5="0x00000000" Format="png" File="Instr Handle Indicator_ICON23.png" />
+    <Section Index="24" Name="Instr Read.vi" Int5="0x00000000" Format="png" File="Instr Read_ICON24.png" />
+    <Section Index="25" Name="Instr Write.vi" Int5="0x00000000" Format="png" File="Instr Write_ICON25.png" />
+    <Section Index="26" Name="Fluke 8840A.vi" Int5="0x00000000" Format="png" File="Fluke 8840A_ICON26.png" />
+    <Section Index="27" Name="MakeAddr.vi" Int5="0x00000000" Format="png" File="MakeAddr_ICON27.png" />
+    <Section Index="28" Name="Instr Initialize Interface.vi" Int5="0x00000000" Format="png" File="Instr Initialize Interface_ICON28.png" />
+    <Section Index="29" Name="Instr Parse Instrument Descriptor.vi" Int5="0x00000000" Format="png" File="Instr Parse Instrument Descriptor_ICON29.png" />
+    <Section Index="30" Name="Instr Open.vi" Int5="0x00000000" Format="png" File="Instr Open_ICON30.png" />
+    <Section Index="31" Name="FL 884XX Initialize.vi" Int5="0x00000000" Format="png" File="FL 884XX Initialize_ICON31.png" />
+    <Section Index="32" Name="RD8840A.VI" Int5="0x00000000" Format="png" File="RD8840A_ICON32.png" />
+    <Section Index="33" Name="INSTR_WT.VI" Int5="0x00000000" Format="png" File="INSTR_WT_ICON33.png" />
+    <Section Index="34" Name="Standard Deviation.vi" Int5="0x00000000" Format="png" File="Standard Deviation_ICON34.png" />
+    <Section Index="35" Name="serpConfig.vi" Int5="0x00000000" Format="png" File="serpConfig_ICON35.png" />
+    <Section Index="36" Name="serpOpen.vi" Int5="0x00000000" Format="png" File="serpOpen_ICON36.png" />
+    <Section Index="37" Name="Open Serial Driver.vi" Int5="0x00000000" Format="png" File="Open Serial Driver_ICON37.png" />
+    <Section Index="38" Name="Serial Port Write.vi" Int5="0x00000000" Format="png" File="Serial Port Write_ICON38.png" />
+    <Section Index="39" Name="Serial Port Read.vi" Int5="0x00000000" Format="png" File="Serial Port Read_ICON39.png" />
+    <Section Index="40" Name="Bytes At Serial Port.vi" Int5="0x00000000" Format="png" File="Bytes At Serial Port_ICON40.png" />
+    <Section Index="41" Name="String Write.vi" Int5="0x00000000" Format="png" File="String Write_ICON41.png" />
+    <Section Index="42" Name="String Read.vi" Int5="0x00000000" Format="png" File="String Read_ICON42.png" />
+    <Section Index="43" Name="RS-232 Communications.vi" Int5="0x00000000" Format="png" File="RS-232 Communications_ICON43.png" />
+    <Section Index="44" Name="UUT Comm.vi" Int5="0x00000000" Format="png" File="UUT Comm_ICON44.png" />
+    <Section Index="45" Name="UUT_BEEP.vi" Int5="0x00000000" Format="png" File="UUT_BEEP_ICON45.png" />
+    <Section Index="46" Name="1ST_READ.vi" Int5="0x00000000" Format="png" File="1ST_READ_ICON46.png" />
+    <Section Index="47" Name="SETLD_RD.VI" Int5="0x00000000" Format="png" File="SETLD_RD_ICON47.png" />
+    <Section Index="48" Name="AVG_RD.VI" Int5="0x00000000" Format="png" File="AVG_RD_ICON48.png" />
+    <Section Index="49" Name="DIO table for main board test.vi" Int5="0x00000000" Format="png" File="DIO table for main board test_ICON49.png" />
+    <Section Index="50" Name="DIO Port Write.vi" Int5="0x00000000" Format="png" File="DIO Port Write_ICON50.png" />
+    <Section Index="51" Name="DIO Port Read.vi" Int5="0x00000000" Format="png" File="DIO Port Read_ICON51.png" />
+    <Section Index="52" Name="DIO Port Config.vi" Int5="0x00000000" Format="png" File="DIO Port Config_ICON52.png" />
+    <Section Index="53" Name="General Error Handler.vi" Int5="0x00000000" Format="png" File="General Error Handler_ICON53.png" />
+    <Section Index="54" Name="Write to Digital Port .vi" Int5="0x00000000" Format="png" File="Write to Digital Port _ICON54.png" />
+    <Section Index="55" Name="Read from Digital Port.vi" Int5="0x00000000" Format="png" File="Read from Digital Port_ICON55.png" />
+    <Section Index="56" Name="DIO_R-W.VI" Int5="0x00000000" Format="png" File="DIO_R-W_ICON56.png" />
+    <Section Index="57" Name="Capacitance testII.vi" Int5="0x00000000" Format="png" File="Capacitance testII_ICON57.png" />
+    <Section Index="58" Name="rattle relays.vi" Int5="0x00000000" Format="png" File="rattle relays_ICON58.png" />
+    <Section Index="59" Name="ESR.vi" Int5="0x00000000" Format="png" File="ESR_ICON59.png" />
+    <Section Index="60" Name="Leakage voltage test.vi" Int5="0x00000000" Format="png" File="Leakage voltage test_ICON60.png" />
+    <Section Index="61" Name="D/A.vi" Int5="0x00000000" Format="png" File="D-A_ICON61.png" />
+    <Section Index="62" Name="Leakage current test.vi" Int5="0x00000000" Format="png" File="Leakage current test_ICON62.png" />
+    <Section Index="63" Name="Inductance test.vi" Int5="0x00000000" Format="png" File="Inductance test_ICON63.png" />
+    <Section Index="64" Name="lead zero short/open.vi" Int5="0x00000000" Format="png" File="lead zero short-open_ICON64.png" />
+    <Section Index="65" Name="MAINB_II.VI" Int5="0x70252400" Format="png" File="MAINB_II_ICON65.png" />
+    <Section Index="66" Name="Inductance testII.vi" Int5="0x00000000" Format="png" File="Inductance testII_ICON66.png" />
+    </ICON>
+  <CPTM>
+    <!-- Connector Pane Type Map -->
+    <Section Index="3" Name="P/F_Glob.vi" Int5="0x00000000" Format="bin" File="P-F_Glob_CPTM3.bin" />
+    <Section Index="4" Name="Status_Glob.vi" Int5="0x00000000" Format="bin" File="Status_Glob_CPTM4.bin" />
+    <Section Index="5" Name="WSrd.vi" Int5="0x00000000" Format="bin" File="WSrd_CPTM5.bin" />
+    <Section Index="6" Name="WSwrt.vi" Int5="0x00000000" Format="bin" File="WSwrt_CPTM6.bin" />
+    <Section Index="7" Name="4882TMO.vi" Int5="0x00000000" Format="bin" File="4882TMO_CPTM7.bin" />
+    <Section Index="8" Name="platGlob.vi" Int5="0x00000000" Format="bin" File="platGlob_CPTM8.bin" />
+    <Section Index="9" Name="Open GPIB Driver.vi" Int5="0x00000000" Format="bin" File="Open GPIB Driver_CPTM9.bin" />
+    <Section Index="10" Name="Core GPIB Read.vi" Int5="0x00000000" Format="bin" File="Core GPIB Read_CPTM10.bin" />
+    <Section Index="11" Name="Receive.vi" Int5="0x00000000" Format="bin" File="Receive_CPTM11.bin" />
+    <Section Index="12" Name="Core GPIB Write.vi" Int5="0x00000000" Format="bin" File="Core GPIB Write_CPTM12.bin" />
+    <Section Index="13" Name="Send.vi" Int5="0x00000000" Format="bin" File="Send_CPTM13.bin" />
+    <Section Index="14" Name="Instr Read Model Code (GPIB-VXI).vi" Int5="0x00000000" Format="bin" File="Instr Read Model Code (GPIB-VXI)_CPTM14.bin" />
+    <Section Index="15" Name="GetDevInfoLong.vi" Int5="0x00000000" Format="bin" File="GetDevInfoLong_CPTM15.bin" />
+    <Section Index="16" Name="GetDevInfoShort.vi" Int5="0x00000000" Format="bin" File="GetDevInfoShort_CPTM16.bin" />
+    <Section Index="17" Name="InitVXIlibrary.vi" Int5="0x00000000" Format="bin" File="InitVXIlibrary_CPTM17.bin" />
+    <Section Index="18" Name="Instr Handle Control.ctl" Int5="0x00000000" Format="bin" File="Instr Handle Control_CPTM18.bin" />
+    <Section Index="19" Name="VTL Global.vi" Int5="0x00000000" Format="bin" File="VTL Global_CPTM19.bin" />
+    <Section Index="20" Name="Instr Error Out Cluster.ctl" Int5="0x00000000" Format="bin" File="Instr Error Out Cluster_CPTM20.bin" />
+    <Section Index="21" Name="Instr Error In Cluster.ctl" Int5="0x00000000" Format="bin" File="Instr Error In Cluster_CPTM21.bin" />
+    <Section Index="22" Name="Instr Source.ctl" Int5="0x00000000" Format="bin" File="Instr Source_CPTM22.bin" />
+    <Section Index="23" Name="Instr Handle Indicator.ctl" Int5="0x00000000" Format="bin" File="Instr Handle Indicator_CPTM23.bin" />
+    <Section Index="24" Name="Instr Read.vi" Int5="0x00000000" Format="bin" File="Instr Read_CPTM24.bin" />
+    <Section Index="25" Name="Instr Write.vi" Int5="0x00000000" Format="bin" File="Instr Write_CPTM25.bin" />
+    <Section Index="26" Name="Fluke 8840A.vi" Int5="0x00000000" Format="bin" File="Fluke 8840A_CPTM26.bin" />
+    <Section Index="27" Name="MakeAddr.vi" Int5="0x00000000" Format="bin" File="MakeAddr_CPTM27.bin" />
+    <Section Index="28" Name="Instr Initialize Interface.vi" Int5="0x00000000" Format="bin" File="Instr Initialize Interface_CPTM28.bin" />
+    <Section Index="29" Name="Instr Parse Instrument Descriptor.vi" Int5="0x00000000" Format="bin" File="Instr Parse Instrument Descriptor_CPTM29.bin" />
+    <Section Index="30" Name="Instr Open.vi" Int5="0x00000000" Format="bin" File="Instr Open_CPTM30.bin" />
+    <Section Index="31" Name="FL 884XX Initialize.vi" Int5="0x00000000" Format="bin" File="FL 884XX Initialize_CPTM31.bin" />
+    <Section Index="32" Name="RD8840A.VI" Int5="0x00000000" Format="bin" File="RD8840A_CPTM32.bin" />
+    <Section Index="33" Name="INSTR_WT.VI" Int5="0x00000000" Format="bin" File="INSTR_WT_CPTM33.bin" />
+    <Section Index="34" Name="Standard Deviation.vi" Int5="0x00000000" Format="bin" File="Standard Deviation_CPTM34.bin" />
+    <Section Index="35" Name="serpConfig.vi" Int5="0x00000000" Format="bin" File="serpConfig_CPTM35.bin" />
+    <Section Index="36" Name="serpOpen.vi" Int5="0x00000000" Format="bin" File="serpOpen_CPTM36.bin" />
+    <Section Index="37" Name="Open Serial Driver.vi" Int5="0x00000000" Format="bin" File="Open Serial Driver_CPTM37.bin" />
+    <Section Index="38" Name="Serial Port Write.vi" Int5="0x00000000" Format="bin" File="Serial Port Write_CPTM38.bin" />
+    <Section Index="39" Name="Serial Port Read.vi" Int5="0x00000000" Format="bin" File="Serial Port Read_CPTM39.bin" />
+    <Section Index="40" Name="Bytes At Serial Port.vi" Int5="0x00000000" Format="bin" File="Bytes At Serial Port_CPTM40.bin" />
+    <Section Index="41" Name="String Write.vi" Int5="0x00000000" Format="bin" File="String Write_CPTM41.bin" />
+    <Section Index="42" Name="String Read.vi" Int5="0x00000000" Format="bin" File="String Read_CPTM42.bin" />
+    <Section Index="43" Name="RS-232 Communications.vi" Int5="0x00000000" Format="bin" File="RS-232 Communications_CPTM43.bin" />
+    <Section Index="44" Name="UUT Comm.vi" Int5="0x00000000" Format="bin" File="UUT Comm_CPTM44.bin" />
+    <Section Index="45" Name="UUT_BEEP.vi" Int5="0x00000000" Format="bin" File="UUT_BEEP_CPTM45.bin" />
+    <Section Index="46" Name="1ST_READ.vi" Int5="0x00000000" Format="bin" File="1ST_READ_CPTM46.bin" />
+    <Section Index="47" Name="SETLD_RD.VI" Int5="0x00000000" Format="bin" File="SETLD_RD_CPTM47.bin" />
+    <Section Index="48" Name="AVG_RD.VI" Int5="0x00000000" Format="bin" File="AVG_RD_CPTM48.bin" />
+    <Section Index="49" Name="DIO table for main board test.vi" Int5="0x00000000" Format="bin" File="DIO table for main board test_CPTM49.bin" />
+    <Section Index="50" Name="DIO Port Write.vi" Int5="0x00000000" Format="bin" File="DIO Port Write_CPTM50.bin" />
+    <Section Index="51" Name="DIO Port Read.vi" Int5="0x00000000" Format="bin" File="DIO Port Read_CPTM51.bin" />
+    <Section Index="52" Name="DIO Port Config.vi" Int5="0x00000000" Format="bin" File="DIO Port Config_CPTM52.bin" />
+    <Section Index="53" Name="General Error Handler.vi" Int5="0x00000000" Format="bin" File="General Error Handler_CPTM53.bin" />
+    <Section Index="54" Name="Write to Digital Port .vi" Int5="0x00000000" Format="bin" File="Write to Digital Port _CPTM54.bin" />
+    <Section Index="55" Name="Read from Digital Port.vi" Int5="0x00000000" Format="bin" File="Read from Digital Port_CPTM55.bin" />
+    <Section Index="56" Name="DIO_R-W.VI" Int5="0x00000000" Format="bin" File="DIO_R-W_CPTM56.bin" />
+    <Section Index="57" Name="Capacitance testII.vi" Int5="0x00000000" Format="bin" File="Capacitance testII_CPTM57.bin" />
+    <Section Index="58" Name="rattle relays.vi" Int5="0x00000000" Format="bin" File="rattle relays_CPTM58.bin" />
+    <Section Index="59" Name="ESR.vi" Int5="0x00000000" Format="bin" File="ESR_CPTM59.bin" />
+    <Section Index="60" Name="Leakage voltage test.vi" Int5="0x00000000" Format="bin" File="Leakage voltage test_CPTM60.bin" />
+    <Section Index="61" Name="D/A.vi" Int5="0x00000000" Format="bin" File="D-A_CPTM61.bin" />
+    <Section Index="62" Name="Leakage current test.vi" Int5="0x00000000" Format="bin" File="Leakage current test_CPTM62.bin" />
+    <Section Index="63" Name="Inductance test.vi" Int5="0x00000000" Format="bin" File="Inductance test_CPTM63.bin" />
+    <Section Index="64" Name="lead zero short/open.vi" Int5="0x00000000" Format="bin" File="lead zero short-open_CPTM64.bin" />
+    <Section Index="65" Name="MAINB_II.VI" Int5="0xE8232400" Format="bin" File="MAINB_II_CPTM65.bin" />
+    <Section Index="66" Name="Inductance testII.vi" Int5="0x00000000" Format="bin" File="Inductance testII_CPTM66.bin" />
+    </CPTM>
+  <STRG>
+    <!-- String description / descriptions list -->
+    <Section Index="3" Name="P/F_Glob.vi" Int5="0x00000000" Format="inline" />
+    <Section Index="4" Name="Status_Glob.vi" Int5="0x00000000" Format="inline" />
+    <Section Index="5" Name="WSrd.vi" Int5="0x00000000" Format="inline">
+      <String>ransfers the specified number of data bytes from a Message-Based device into a speci</String>
+      <String>ied local memory buffer, using the VXIbus Byte Transfer Protocol.</String>
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      </Section>
+    <Section Index="6" Name="WSwrt.vi" Int5="0x00000000" Format="inline">
+      <String>ransfers the specified number of data bytes from a specified local memory buffer to </String>
+      <String> Message-Based device, using the VXIbus Byte Transfer Protocol.</String>
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      </Section>
+    <Section Index="7" Name="4882TMO.vi" Int5="0x00000000" Format="inline" />
+    <Section Index="8" Name="platGlob.vi" Int5="0x00000000" Format="inline" />
+    <Section Index="9" Name="Open GPIB Driver.vi" Int5="0x00000000" Format="inline" />
+    <Section Index="10" Name="Core GPIB Read.vi" Int5="0x00000000" Format="inline" />
+    <Section Index="11" Name="Receive.vi" Int5="0x00000000" Format="inline">
+      <String>eads data bytes from a GPIB device.</String>
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      </Section>
+    <Section Index="12" Name="Core GPIB Write.vi" Int5="0x00000000" Format="inline" />
+    <Section Index="13" Name="Send.vi" Int5="0x00000000" Format="inline">
+      <String>ends data bytes to a single GPIB device.</String>
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      </Section>
+    <Section Index="14" Name="Instr Read Model Code (GPIB-VXI).vi" Int5="0x00000000" Format="inline" />
+    <Section Index="15" Name="GetDevInfoLong.vi" Int5="0x00000000" Format="inline">
+      <String>ets information about a specified device from the device information ta</String>
+      <String>le. The information is contained in a 32-bit unsigned integer.</String>
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      </Section>
+    <Section Index="16" Name="GetDevInfoShort.vi" Int5="0x00000000" Format="inline">
+      <String>ets information about a specified device from the device information ta</String>
+      <String>le. The information is contained in a 16-bit unsigned integer.</String>
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      </Section>
+    <Section Index="17" Name="InitVXIlibrary.vi" Int5="0x00000000" Format="inline">
+      <String>nitializes the NI-VXI library and reads in the resource manager table. Th</String>
+      <String> library is automatically initialized when any VXI VI is used in a diagram. If you initialize the lib</String>
+      <String>ary with this VI, you must call CloseVXIlibrary later in your diagram.</String>
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      </Section>
+    <Section Index="18" Name="Instr Handle Control.ctl" Int5="0x00000000" Format="inline" />
+    <Section Index="19" Name="VTL Global.vi" Int5="0x00000000" Format="inline" />
+    <Section Index="20" Name="Instr Error Out Cluster.ctl" Int5="0x00000000" Format="inline" />
+    <Section Index="21" Name="Instr Error In Cluster.ctl" Int5="0x00000000" Format="inline" />
+    <Section Index="22" Name="Instr Source.ctl" Int5="0x00000000" Format="inline" />
+    <Section Index="23" Name="Instr Handle Indicator.ctl" Int5="0x00000000" Format="inline" />
+    <Section Index="24" Name="Instr Read.vi" Int5="0x00000000" Format="inline">
+      <String>eads data from a device.  The data read is stored in the buffer represented by rea</String>
+      <String EOLN="LF">
+        <Chunk> buffer.  This operation returns when the transfer terminates.</Chunk>
+        <Chunk />
+        </String>
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      </Section>
+    <Section Index="25" Name="Instr Write.vi" Int5="0x00000000" Format="inline">
+      <String>ransfers the specified number of data bytes from a specified local memory buffer to </String>
+      <String> device, using either the VXIbus Byte Transfer Protocol (in the case of VXIbus message-based devi</String>
+      <String>es), or IEEE 488.2 bus Protocol (in the case of GPIB devices).</String>
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      </Section>
+    <Section Index="26" Name="Fluke 8840A.vi" Int5="0x00000000" Format="inline">
+      <String>easure volts, amps, or ohms.  Select one of 6 functions.  Select range or use</String>
+      <String>auto range.  Select trigger mode</String>
+      <String>  Slow reading rate is used for accuracy.     </String>
+      <String>                                </String>
+      <String><![CDATA[  version a.0&#x00;  ]]></String>
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      </Section>
+    <Section Index="27" Name="MakeAddr.vi" Int5="0x00000000" Format="inline">
+      <String>ombines primary address and secondary address in a specially format</String>
+      <String>ed packed address for devices that require both a primary and secondary GPIB address.</String>
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      </Section>
+    <Section Index="28" Name="Instr Initialize Interface.vi" Int5="0x00000000" Format="inline">
+      <String>nitializes the software connection to the instrument.  In the case of VXI</String>
+      <String>instruments controlled via NI-VX</String>
+      <String>, initializes the NI-VXI library, reads in the resource manager table, ca</String>
+      <String>culates A16 configuration addresses, determines memory requirements, and stores base addresses into A24 or A</String>
+      <String>2 space.  For VXI instruments controlled via GPIB-V</String>
+      <String>I, performs all of the above except initialization of NI-VXI libraries.  You must run th</String>
+      <String> INSTR Close VI once for every time you run this VI.</String>
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      </Section>
+    <Section Index="29" Name="Instr Parse Instrument Descriptor.vi" Int5="0x00000000" Format="inline">
+      <String>onverts the instrument grammar to an instrument handle.  Copy or wi</String>
+      <String>e the instrument handle out to the instrument handle in control of your instrument driver VI to communicate with t</String>
+      <String>e instrument.</String>
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      </Section>
+    <Section Index="30" Name="Instr Open.vi" Int5="0x00000000" Format="inline">
+      <String>stablishes a communication session with a remote instrument based on </String>
+      <String>he instrument descriptor.  Instr Open creates an instr handle that is used by all other VISA Transition Library VIs </String>
+      <String EOLN="LF">
+        <Chunk>o perform operations on that session.</Chunk>
+        <Chunk />
+        </String>
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      </Section>
+    <Section Index="31" Name="FL 884XX Initialize.vi" Int5="0x00000000" Format="inline">
+      <String>his VI loads the addressing information about the instrument into the Open VXI Instr</String>
+      <String>ment VI and returns the instrument ID.  You can reset the instrument by setting the front panel reset control.  You m</String>
+      <String>st run this VI before using any of the instrument driver VIs for this instrument.</String>
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      </Section>
+    <Section Index="32" Name="RD8840A.VI" Int5="0x00000000" Format="inline" />
+    <Section Index="33" Name="INSTR_WT.VI" Int5="0x00000000" Format="inline" />
+    <Section Index="34" Name="Standard Deviation.vi" Int5="0x00000000" Format="inline">
+      <String>omputes the mean value and the standard deviation (STD) of the valu</String>
+      <String>s in the input sequence X. The mean and standard deviation are computed using the following formulas:</String>
+      <String EOLN="LF">
+        <Chunk />
+        <Chunk>      mea</Chunk>
+        </String>
+      <String EOLN="LF">
+        <Chunk> = Sum { X[i] } / n.</Chunk>
+        <Chunk />
+        <Chunk>      STD = sqrt( Sum{ (X[i] - mean)^2 } / n ).</Chunk>
+        </String>
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      </Section>
+    <Section Index="35" Name="serpConfig.vi" Int5="0x00000000" Format="inline" />
+    <Section Index="36" Name="serpOpen.vi" Int5="0x00000000" Format="inline" />
+    <Section Index="37" Name="Open Serial Driver.vi" Int5="0x00000000" Format="inline" />
+    <Section Index="38" Name="Serial Port Write.vi" Int5="0x00000000" Format="inline">
+      <String EOLN="LF">
+        <Chunk>rites the data in string to write to the serial port indicated in port number. </Chunk>
+        <Chunk />
+        </String>
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      </Section>
+    <Section Index="39" Name="Serial Port Read.vi" Int5="0x00000000" Format="inline">
+      <String>eads the number of characters specified by requested byte count from the serial po</String>
+      <String EOLN="LF">
+        <Chunk>t indicated in port number. </Chunk>
+        <Chunk />
+        </String>
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      </Section>
+    <Section Index="40" Name="Bytes At Serial Port.vi" Int5="0x00000000" Format="inline">
+      <String>eturns in byte count the number of bytes in the input buffer of the serial port in</String>
+      <String EOLN="LF">
+        <Chunk>icated in port number.</Chunk>
+        <Chunk />
+        </String>
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      </Section>
+    <Section Index="41" Name="String Write.vi" Int5="0x00000000" Format="inline" />
+    <Section Index="42" Name="String Read.vi" Int5="0x00000000" Format="inline" />
+    <Section Index="43" Name="RS-232 Communications.vi" Int5="0x00000000" Format="inline">
+      <String EOLN="LF">
+        <Chunk>his vi performs general purpose RS-232 communication.</Chunk>
+        <Chunk>Timeout: (value in seconds)</Chunk>
+        <Chunk>Mo</Chunk>
+        </String>
+      <String EOLN="LF">
+        <Chunk>e:</Chunk>
+        <Chunk>0 = write then read, 1 = write only, 2 = read only</Chunk>
+        <Chunk>Port Select:</Chunk>
+        <Chunk>0 = com1, 1 = com2</Chunk>
+        </String>
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      </Section>
+    <Section Index="44" Name="UUT Comm.vi" Int5="0x00000000" Format="inline">
+      <String>his vi handles the RS-232 communications for a UUT. FC In and FC Out are used for fl</String>
+      <String EOLN="LF">
+        <Chunk>w control.</Chunk>
+        <Chunk>Mode 0 - Write then Read.</Chunk>
+        <Chunk>Mode 1 - Write only.</Chunk>
+        <Chunk>Mode 2 - Read only.</Chunk>
+        <Chunk>Timeout is in seconds.</Chunk>
+        </String>
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      </Section>
+    <Section Index="45" Name="UUT_BEEP.vi" Int5="0x00000000" Format="inline" />
+    <Section Index="46" Name="1ST_READ.vi" Int5="0x00000000" Format="inline" />
+    <Section Index="47" Name="SETLD_RD.VI" Int5="0x00000000" Format="inline" />
+    <Section Index="48" Name="AVG_RD.VI" Int5="0x00000000" Format="inline" />
+    <Section Index="49" Name="DIO table for main board test.vi" Int5="0x00000000" Format="inline" />
+    <Section Index="50" Name="DIO Port Write.vi" Int5="0x00000000" Format="inline">
+      <String>or most applications, you only need to connect wires to the controls a</String>
+      <String EOLN="LF">
+        <Chunk>d indicators displayed in bold.</Chunk>
+        <Chunk />
+        <Chunk>This VI writes the value in pattern to the port identified by task ID.</Chunk>
+        <Chunk />
+        <Chunk>See t</Chunk>
+        </String>
+      <String>e Data Acquisition VI Reference Manual for your platform for tables listing the default settings and ran</String>
+      <String>es for this VI for the boards with which it will work.</String>
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      </Section>
+    <Section Index="51" Name="DIO Port Read.vi" Int5="0x00000000" Format="inline">
+      <String>or most applications, you only need to connect wires to the controls a</String>
+      <String EOLN="LF">
+        <Chunk>d indicators displayed in bold.</Chunk>
+        <Chunk />
+        <Chunk>This VI reads the port identified by task ID and returns the pattern read.</Chunk>
+        <Chunk />
+        <Chunk>S</Chunk>
+        </String>
+      <String>e the Data Acquisition VI Reference Manual for your platform for tables listing the default settings </String>
+      <String>nd ranges for this VI for the boards with which it will work.</String>
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      </Section>
+    <Section Index="52" Name="DIO Port Config.vi" Int5="0x00000000" Format="inline">
+      <String>or most applications, you only need to connect wires to the controls a</String>
+      <String EOLN="LF">
+        <Chunk>d indicators displayed in bold.</Chunk>
+        <Chunk />
+        <Chunk>This VI establishes a port configuration. You can use the task ID that this V</Chunk>
+        </String>
+      <String EOLN="LF">
+        <Chunk> returns only in digital port VIs.</Chunk>
+        <Chunk />
+        <Chunk>See the Data Acquisition VI Reference</Chunk>
+        </String>
+      <String>Manual for your platform for tab</String>
+      <String>es listing the default settings and ranges for this VI for the boards with which it will work.</String>
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      </Section>
+    <Section Index="53" Name="General Error Handler.vi" Int5="0x00000000" Format="inline">
+      <String>his error handler is used primarily to inform the user if an input error exists, to </String>
+      <String>escribe the error, and to identify where it occurred.  The information for this is derived from the </String>
+      <String>nputs error in, error code, and error source, and from an internal error description table.  The table de</String>
+      <String>cribes all errors that can be created by LabVIEW or its associated I/O operations.  The handler has provisions to t</String>
+      <String>ke alternative actions, such as to cancel or set an error status, and to test for and describe us</String>
+      <String>r-defined errors.  See instruction on the front panel.</String>
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      </Section>
+    <Section Index="54" Name="Write to Digital Port .vi" Int5="0x00000000" Format="inline">
+      <String>ost applications need only connect wires to the controls and indicators displ</String>
+      <String>yed in bold.  Connections to other controls and indicators are useful only if specifically needed</String>
+      <String EOLN="LF">
+        <Chunk />
+        <Chunk />
+        <Chunk>The Write to Digital Port VI outputs a patte</Chunk>
+        </String>
+      <String EOLN="LF">
+        <Chunk>n (in binary) to a specified digital port.  </Chunk>
+        <Chunk />
+        <Chunk>You can control the number of lines in a port by the parameter port </Chunk>
+        </String>
+      <String>idth.  You also have the option of not reconfiguring the port as an output port with each iteration of the VI by settin</String>
+      <String EOLN="LF">
+        <Chunk> the iteration control to a non-zero value.</Chunk>
+        <Chunk />
+        <Chunk>Port Width for the Lab boards, SCXI-1200, DAQBox-1200, DIO</Chunk>
+        </String>
+      <String>24, DIO-32F, DIO-96, and AT-MIO-16D ports 2, </String>
+      <String EOLN="LF">
+        <Chunk> and 4 should be at least 8. </Chunk>
+        <Chunk />
+        <Chunk>Please read the DAQ </Chunk>
+        </String>
+      <String>I Reference Manual for descriptions of Digital Port Configure and Digital Port Write f</String>
+      <String>r more information.</String>
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      </Section>
+    <Section Index="55" Name="Read from Digital Port.vi" Int5="0x00000000" Format="inline">
+      <String>ost applications need only connect wires to the controls and indicators displ</String>
+      <String>yed in bold.  Connections to other controls and indicators are useful only if specifically needed</String>
+      <String EOLN="LF">
+        <Chunk />
+        <Chunk />
+        <Chunk>The Read from Digital Port VI reads a user c</Chunk>
+        </String>
+      <String EOLN="LF">
+        <Chunk>nfigured digital port.  The reading is displayed as a binary number in [pattern].</Chunk>
+        <Chunk />
+        <Chunk>You have the option to not r</Chunk>
+        </String>
+      <String>configure the port as an input port by setting the iteration control to a non-zero value. You can als</String>
+      <String EOLN="LF">
+        <Chunk> concatenate multiple ports to operate as one large port by using the port width paramter.</Chunk>
+        <Chunk />
+        <Chunk>Port Width for the </Chunk>
+        </String>
+      <String>ab boards, SCXI-1200, DAQBox-1200, DIO-24, DIO-32F, DIO-96, and AT-MIO-16D p</String>
+      <String EOLN="LF">
+        <Chunk>rts 2, 3 and 4 should be at least 8.</Chunk>
+        <Chunk />
+        <Chunk>Please read the DAQ VI Reference Manual for descriptions of Digital Port </Chunk>
+        </String>
+      <String>onfigure and Digital Port Read for more information.</String>
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      </Section>
+    <Section Index="56" Name="DIO_R-W.VI" Int5="0x00000000" Format="inline">
+      <String EOLN="LF">
+        <Chunk>eneralized DIO96 control.</Chunk>
+        <Chunk />
+        <Chunk>Device:  Card ID.</Chunk>
+        <Chunk>Port Number: (0-11); APA=0</Chunk>
+        </String>
+      <String EOLN="LF">
+        <Chunk> APB=1,APC=2,BPA=3,...</Chunk>
+        <Chunk>Port Width: Width of </Chunk>
+        </String>
+      <String EOLN="LF">
+        <Chunk>ort in # of bits.</Chunk>
+        <Chunk>Initialize: If zero, port will be initialized.</Chunk>
+        <Chunk>Input: Data, if any, to be written to the port.</Chunk>
+        </String>
+      <String>Read/Write</String>
+      <String EOLN="LF">
+        <Chunk> Bool., F=Read, T=Write.</Chunk>
+        <Chunk>Output: Data written to or read f</Chunk>
+        </String>
+      <String>om port.</String>
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      </Section>
+    <Section Index="57" Name="Capacitance testII.vi" Int5="0x00000000" Format="inline" />
+    <Section Index="58" Name="rattle relays.vi" Int5="0x00000000" Format="inline" />
+    <Section Index="59" Name="ESR.vi" Int5="0x00000000" Format="inline" />
+    <Section Index="60" Name="Leakage voltage test.vi" Int5="0x00000000" Format="inline" />
+    <Section Index="61" Name="D/A.vi" Int5="0x00000000" Format="inline" />
+    <Section Index="62" Name="Leakage current test.vi" Int5="0x00000000" Format="inline" />
+    <Section Index="63" Name="Inductance test.vi" Int5="0x00000000" Format="inline" />
+    <Section Index="64" Name="lead zero short/open.vi" Int5="0x00000000" Format="inline" />
+    <Section Index="65" Name="MAINB_II.VI" Int5="0x6C252400" Format="inline" />
+    <Section Index="66" Name="Inductance testII.vi" Int5="0x00000000" Format="inline" />
+    </STRG>
+  <SpecialOrder>
+    <!-- Provides information on how items were ordered in the RSRC file -->
+    <Names>
+      <PALM Index="0" />
+      <PALM Index="1" />
+      <CPRF Index="1" />
+      <CPRF Index="2" />
+      <STRsh Index="3" />
+      <ICON Index="3" />
+      <CPTM Index="3" />
+      <STRG Index="3" />
+      <CPRF Index="3" />
+      <STRsh Index="4" />
+      <ICON Index="4" />
+      <CPTM Index="4" />
+      <STRG Index="4" />
+      <CPRF Index="4" />
+      <STRsh Index="5" />
+      <ICON Index="5" />
+      <CPTM Index="5" />
+      <STRG Index="5" />
+      <CPRF Index="5" />
+      <STRsh Index="6" />
+      <ICON Index="6" />
+      <CPTM Index="6" />
+      <STRG Index="6" />
+      <CPRF Index="6" />
+      <STRsh Index="7" />
+      <ICON Index="7" />
+      <CPTM Index="7" />
+      <STRG Index="7" />
+      <CPRF Index="7" />
+      <STRsh Index="8" />
+      <ICON Index="8" />
+      <CPTM Index="8" />
+      <STRG Index="8" />
+      <CPRF Index="8" />
+      <STRsh Index="9" />
+      <ICON Index="9" />
+      <CPTM Index="9" />
+      <STRG Index="9" />
+      <CPRF Index="9" />
+      <STRsh Index="10" />
+      <ICON Index="10" />
+      <CPTM Index="10" />
+      <STRG Index="10" />
+      <CPRF Index="10" />
+      <STRsh Index="11" />
+      <ICON Index="11" />
+      <CPTM Index="11" />
+      <STRG Index="11" />
+      <CPRF Index="11" />
+      <STRsh Index="12" />
+      <ICON Index="12" />
+      <CPTM Index="12" />
+      <STRG Index="12" />
+      <CPRF Index="12" />
+      <STRsh Index="13" />
+      <ICON Index="13" />
+      <CPTM Index="13" />
+      <STRG Index="13" />
+      <CPRF Index="13" />
+      <STRsh Index="14" />
+      <ICON Index="14" />
+      <CPTM Index="14" />
+      <STRG Index="14" />
+      <CPRF Index="14" />
+      <STRsh Index="15" />
+      <ICON Index="15" />
+      <CPTM Index="15" />
+      <STRG Index="15" />
+      <CPRF Index="15" />
+      <STRsh Index="16" />
+      <ICON Index="16" />
+      <CPTM Index="16" />
+      <STRG Index="16" />
+      <CPRF Index="16" />
+      <STRsh Index="17" />
+      <ICON Index="17" />
+      <CPTM Index="17" />
+      <STRG Index="17" />
+      <CPRF Index="17" />
+      <STRsh Index="18" />
+      <ICON Index="18" />
+      <CPTM Index="18" />
+      <STRG Index="18" />
+      <CPRF Index="18" />
+      <STRsh Index="19" />
+      <ICON Index="19" />
+      <CPTM Index="19" />
+      <STRG Index="19" />
+      <CPRF Index="19" />
+      <STRsh Index="20" />
+      <ICON Index="20" />
+      <CPTM Index="20" />
+      <STRG Index="20" />
+      <CPRF Index="20" />
+      <STRsh Index="21" />
+      <ICON Index="21" />
+      <CPTM Index="21" />
+      <STRG Index="21" />
+      <CPRF Index="21" />
+      <STRsh Index="22" />
+      <ICON Index="22" />
+      <CPTM Index="22" />
+      <STRG Index="22" />
+      <CPRF Index="22" />
+      <STRsh Index="23" />
+      <ICON Index="23" />
+      <CPTM Index="23" />
+      <STRG Index="23" />
+      <CPRF Index="23" />
+      <STRsh Index="24" />
+      <ICON Index="24" />
+      <CPTM Index="24" />
+      <STRG Index="24" />
+      <CPRF Index="24" />
+      <STRsh Index="25" />
+      <ICON Index="25" />
+      <CPTM Index="25" />
+      <STRG Index="25" />
+      <CPRF Index="25" />
+      <STRsh Index="26" />
+      <ICON Index="26" />
+      <CPTM Index="26" />
+      <STRG Index="26" />
+      <CPRF Index="26" />
+      <STRsh Index="27" />
+      <ICON Index="27" />
+      <CPTM Index="27" />
+      <STRG Index="27" />
+      <CPRF Index="27" />
+      <STRsh Index="28" />
+      <ICON Index="28" />
+      <CPTM Index="28" />
+      <STRG Index="28" />
+      <CPRF Index="28" />
+      <STRsh Index="29" />
+      <ICON Index="29" />
+      <CPTM Index="29" />
+      <STRG Index="29" />
+      <CPRF Index="29" />
+      <STRsh Index="30" />
+      <ICON Index="30" />
+      <CPTM Index="30" />
+      <STRG Index="30" />
+      <CPRF Index="30" />
+      <STRsh Index="31" />
+      <ICON Index="31" />
+      <CPTM Index="31" />
+      <STRG Index="31" />
+      <CPRF Index="31" />
+      <STRsh Index="32" />
+      <ICON Index="32" />
+      <CPTM Index="32" />
+      <STRG Index="32" />
+      <CPRF Index="32" />
+      <STRsh Index="33" />
+      <ICON Index="33" />
+      <CPTM Index="33" />
+      <STRG Index="33" />
+      <CPRF Index="33" />
+      <STRsh Index="34" />
+      <ICON Index="34" />
+      <CPTM Index="34" />
+      <STRG Index="34" />
+      <CPRF Index="34" />
+      <STRsh Index="35" />
+      <ICON Index="35" />
+      <CPTM Index="35" />
+      <STRG Index="35" />
+      <CPRF Index="35" />
+      <STRsh Index="36" />
+      <ICON Index="36" />
+      <CPTM Index="36" />
+      <STRG Index="36" />
+      <CPRF Index="36" />
+      <STRsh Index="37" />
+      <ICON Index="37" />
+      <CPTM Index="37" />
+      <STRG Index="37" />
+      <CPRF Index="37" />
+      <STRsh Index="38" />
+      <ICON Index="38" />
+      <CPTM Index="38" />
+      <STRG Index="38" />
+      <CPRF Index="38" />
+      <STRsh Index="39" />
+      <ICON Index="39" />
+      <CPTM Index="39" />
+      <STRG Index="39" />
+      <CPRF Index="39" />
+      <STRsh Index="40" />
+      <ICON Index="40" />
+      <CPTM Index="40" />
+      <STRG Index="40" />
+      <CPRF Index="40" />
+      <STRsh Index="41" />
+      <ICON Index="41" />
+      <CPTM Index="41" />
+      <STRG Index="41" />
+      <CPRF Index="41" />
+      <STRsh Index="42" />
+      <ICON Index="42" />
+      <CPTM Index="42" />
+      <STRG Index="42" />
+      <CPRF Index="42" />
+      <STRsh Index="43" />
+      <ICON Index="43" />
+      <CPTM Index="43" />
+      <STRG Index="43" />
+      <CPRF Index="43" />
+      <STRsh Index="44" />
+      <ICON Index="44" />
+      <CPTM Index="44" />
+      <STRG Index="44" />
+      <CPRF Index="44" />
+      <STRsh Index="45" />
+      <ICON Index="45" />
+      <CPTM Index="45" />
+      <STRG Index="45" />
+      <CPRF Index="45" />
+      <STRsh Index="46" />
+      <ICON Index="46" />
+      <CPTM Index="46" />
+      <STRG Index="46" />
+      <CPRF Index="46" />
+      <STRsh Index="47" />
+      <ICON Index="47" />
+      <CPTM Index="47" />
+      <STRG Index="47" />
+      <CPRF Index="47" />
+      <STRsh Index="48" />
+      <ICON Index="48" />
+      <CPTM Index="48" />
+      <STRG Index="48" />
+      <CPRF Index="48" />
+      <STRsh Index="49" />
+      <ICON Index="49" />
+      <CPTM Index="49" />
+      <STRG Index="49" />
+      <CPRF Index="49" />
+      <STRsh Index="50" />
+      <ICON Index="50" />
+      <CPTM Index="50" />
+      <STRG Index="50" />
+      <CPRF Index="50" />
+      <STRsh Index="51" />
+      <ICON Index="51" />
+      <CPTM Index="51" />
+      <STRG Index="51" />
+      <CPRF Index="51" />
+      <STRsh Index="52" />
+      <ICON Index="52" />
+      <CPTM Index="52" />
+      <STRG Index="52" />
+      <CPRF Index="52" />
+      <STRsh Index="53" />
+      <ICON Index="53" />
+      <CPTM Index="53" />
+      <STRG Index="53" />
+      <CPRF Index="53" />
+      <STRsh Index="54" />
+      <ICON Index="54" />
+      <CPTM Index="54" />
+      <STRG Index="54" />
+      <CPRF Index="54" />
+      <STRsh Index="55" />
+      <ICON Index="55" />
+      <CPTM Index="55" />
+      <STRG Index="55" />
+      <CPRF Index="55" />
+      <STRsh Index="56" />
+      <ICON Index="56" />
+      <CPTM Index="56" />
+      <STRG Index="56" />
+      <CPRF Index="56" />
+      <STRsh Index="57" />
+      <STRsh Index="58" />
+      <ICON Index="58" />
+      <CPTM Index="58" />
+      <STRG Index="58" />
+      <CPRF Index="58" />
+      <STRsh Index="59" />
+      <ICON Index="59" />
+      <CPTM Index="59" />
+      <STRG Index="59" />
+      <CPRF Index="59" />
+      <STRsh Index="60" />
+      <ICON Index="60" />
+      <CPTM Index="60" />
+      <STRG Index="60" />
+      <CPRF Index="60" />
+      <STRsh Index="61" />
+      <ICON Index="61" />
+      <CPTM Index="61" />
+      <STRG Index="61" />
+      <CPRF Index="61" />
+      <STRsh Index="62" />
+      <ICON Index="62" />
+      <CPTM Index="62" />
+      <STRG Index="62" />
+      <CPRF Index="62" />
+      <STRsh Index="63" />
+      <ICON Index="63" />
+      <CPTM Index="63" />
+      <STRG Index="63" />
+      <CPRF Index="63" />
+      <STRsh Index="64" />
+      <ICON Index="64" />
+      <CPTM Index="64" />
+      <STRG Index="64" />
+      <CPRF Index="64" />
+      <STRsh Index="65" />
+      <STRsh Index="66" />
+      <ICON Index="57" />
+      <CPTM Index="57" />
+      <STRG Index="57" />
+      <CPRF Index="57" />
+      <ICON Index="66" />
+      <CPTM Index="66" />
+      <STRG Index="66" />
+      <CPRF Index="66" />
+      <ICON Index="65" />
+      <CPTM Index="65" />
+      <STRG Index="65" />
+      <CPRF Index="65" />
+      </Names>
+    </SpecialOrder>
+  </RSRC>

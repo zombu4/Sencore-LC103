@@ -1,0 +1,183 @@
+82520:3958fc BBBNow connect the red lead to the
+82529:395a64 BBBNow connect the red lead to the
+82604:3963b4 BBBNow connect the red lead to the
+82608:396463 BBBNow connect the red lead to the
+82615:39657b BBBNow connect the red lead to the
+82622:396693 BBBNow connect the red lead to the
+82671:3969c8 IND-6BNow connect the red lead to the
+82678:396ac6 FMELDKCJBI@GAHBNow connect the red lead to the
+82682:396b75 Inductance Decade Box (L Terminal)BNow connect the red lead to the
+82684:396bf6 Inductance Decade Box (L Terminal)BNow connect the red lead to the
+82686:396c77 Inductance Decade Box (L Terminal)BNow connect the red lead to the
+82688:396cf8 Inductance Decade Box (L Terminal)BNow connect the red lead to the
+83540:3a4e90 HConnect the black UUT lead to the
+83542:3a4eed GNow connect the red lead to the
+83546:3a4fa5 GNow connect the red lead to the
+83550:3a504a HConnect the black UUT lead to the
+83633:3a570e CAPGNow connect the red lead to the
+83634:3a5732 Capacitance Decade Box (High Terminal).HConnect the black UUT lead to the
+83637:3a57b4 CAPGNow connect the red lead to the
+83638:3a57d8 Capacitance Decade Box (High Terminal).HConnect the black UUT lead to the
+90250:413b7f fConnect the UUT and/or DVM leads to
+90281:4140d4 fConnect the UUT and/or DVM leads to
+90294:4142c6 fConnect the UUT and/or DVM leads to
+90298:414378 fConnect the UUT and/or DVM leads to
+90308:4144d6 fConnect the UUT and/or DVM leads to
+90319:41465a fConnect the UUT and/or DVM leads to
+90556:416552 Current Source CalibrationfConnect the UUT and/or DVM leads to
+90560:4165e7 Gain CalibrationfConnect the UUT and/or DVM leads to
+90572:41672a Leakage Voltage CalibrationfConnect the UUT and/or DVM leads to
+90576:4167b9 D/A TestfConnect the UUT and/or DVM leads to
+90580:41683f Leakage Voltage TestfConnect the UUT and/or DVM leads to
+90584:4168d1 Leakage Current TestfConnect the UUT and/or DVM leads to
+93443:439773 Connect the '+' DVM lead to TP1006
+93500:439a14 Connect the '+' DVM lead to TP1006
+94445:44500e KKLConnect the UUT leads to the
+94471:445142 YFBLConnect the UUT leads to the
+104572:4ee2cc     0=1.1MOhm connected to UUT leads; Same as '9'.
+250992:1b1b28 HConnect the black UUT lead to the
+250994:1b1b85 GNow connect the red lead to the
+250998:1b1c3d GNow connect the red lead to the
+251002:1b1ce2 HConnect the black UUT lead to the
+251085:1b23a6 CAPGNow connect the red lead to the
+251086:1b23ca Capacitance Decade Box (High Terminal).HConnect the black UUT lead to the
+251089:1b244c CAPGNow connect the red lead to the
+251090:1b2470 Capacitance Decade Box (High Terminal).HConnect the black UUT lead to the
+255254:1e889b Connect the '+' DVM lead to TP1006
+255311:1e8b3c Connect the '+' DVM lead to TP1006
+263060:26819c     0=1.1MOhm connected to UUT leads; Same as '9'.
+263211:269155     0=1.1MOhm connected to UUT leads; Same as '9'.
+279434:37ea6e KKLConnect the UUT leads to the
+279460:37eba2 YFBLConnect the UUT leads to the
+285325:3e301b fConnect the UUT and/or DVM leads to
+285356:3e3570 fConnect the UUT and/or DVM leads to
+285369:3e3762 fConnect the UUT and/or DVM leads to
+285373:3e3814 fConnect the UUT and/or DVM leads to
+285383:3e3972 fConnect the UUT and/or DVM leads to
+285394:3e3af6 fConnect the UUT and/or DVM leads to
+285631:3e59ee Current Source CalibrationfConnect the UUT and/or DVM leads to
+285635:3e5a83 Gain CalibrationfConnect the UUT and/or DVM leads to
+285647:3e5bc6 Leakage Voltage CalibrationfConnect the UUT and/or DVM leads to
+285651:3e5c55 D/A TestfConnect the UUT and/or DVM leads to
+285655:3e5cdb Leakage Voltage TestfConnect the UUT and/or DVM leads to
+285659:3e5d6d Leakage Current TestfConnect the UUT and/or DVM leads to
+290290:42ee00 BBBNow connect the red lead to the
+290299:42ef68 BBBNow connect the red lead to the
+290374:42f8b8 BBBNow connect the red lead to the
+290378:42f967 BBBNow connect the red lead to the
+290385:42fa7f BBBNow connect the red lead to the
+290392:42fb97 BBBNow connect the red lead to the
+290441:42fecc IND-6BNow connect the red lead to the
+290448:42ffca FMELDKCJBI@GAHBNow connect the red lead to the
+290452:430079 Inductance Decade Box (L Terminal)BNow connect the red lead to the
+290454:4300fa Inductance Decade Box (L Terminal)BNow connect the red lead to the
+290456:43017b Inductance Decade Box (L Terminal)BNow connect the red lead to the
+290458:4301fc Inductance Decade Box (L Terminal)BNow connect the red lead to the
+291241:440de6 BBBNow connect the red lead to the
+291249:440f36 BBBNow connect the red lead to the
+291255:44102f BBBNow connect the red lead to the
+291261:441128 BBBNow connect the red lead to the
+291267:441221 BBBNow connect the red lead to the
+291349:441a17 IND-6FMELDKCJBI@GAHBNow connect the red lead to the
+291353:441acb Inductance Decade Box (L Terminal)BNow connect the red lead to the
+291355:441b4c Inductance Decade Box (L Terminal)BNow connect the red lead to the
+291357:441bcd Inductance Decade Box (L Terminal)BNow connect the red lead to the
+291359:441c4e Inductance Decade Box (L Terminal)BNow connect the red lead to the
+307026:d5a7c 4) Connect Lo Capacity leads to UUT plugs on front of test box.
+323374:1f007c 4) Connect Lo Capacity leads to UUT plugs on front of test box.
+323681:1f2cc7 4) Connect Lo Capacity leads to UUT plugs on front of test box.
+360905:cceee BBBNow connect the red lead to the
+360913:cd03e BBBNow connect the red lead to the
+360919:cd137 BBBNow connect the red lead to the
+360925:cd230 BBBNow connect the red lead to the
+360931:cd329 BBBNow connect the red lead to the
+361013:cdb1f IND-6FMELDKCJBI@GAHBNow connect the red lead to the
+361017:cdbd3 Inductance Decade Box (L Terminal)BNow connect the red lead to the
+361019:cdc54 Inductance Decade Box (L Terminal)BNow connect the red lead to the
+361021:cdcd5 Inductance Decade Box (L Terminal)BNow connect the red lead to the
+361023:cdd56 Inductance Decade Box (L Terminal)BNow connect the red lead to the
+368595:14e4a1     0=1.1MOhm connected to UUT leads; Same as '9'.
+380039:20b212 Ringer CalibrationLConnect the UUT leads to the
+380152:20bf5f KKLConnect the UUT leads to the
+380814:2159e0 Connect the '+' DVM lead to TP1006
+380934:216749 Connect the '+' DVM lead to TP1006
+385845:267724 Current Source CalibrationfConnect the UUT and/or DVM leads to
+385868:267933 fConnect the UUT and/or DVM leads to
+385874:2679e0 fConnect the UUT and/or DVM leads to
+385877:267a48 Leakage Voltage CalibrationfConnect the UUT and/or DVM leads to
+385880:267acb D/A TestfConnect the UUT and/or DVM leads to
+385883:267b3b Leakage Voltage TestfConnect the UUT and/or DVM leads to
+386060:269850 fConnect the UUT and/or DVM leads to
+386097:269e44 fConnect the UUT and/or DVM leads to
+386112:26a051 fConnect the UUT and/or DVM leads to
+386116:26a103 fConnect the UUT and/or DVM leads to
+386127:26a27a fConnect the UUT and/or DVM leads to
+386139:26a417 fConnect the UUT and/or DVM leads to
+388679:2ab5c9 HConnect the black UUT lead to the
+388680:2ab5ec Capacitance Decade Box (Low Terminal).GNow connect the red lead to the
+388682:2ab672 GNow connect the red lead to the
+388683:2ab693 Capacitance Decade Box (High Terminal).HConnect the black UUT lead to the
+388799:2ac516 99HConnect the black UUT lead to the
+388801:2ac572 77GNow connect the red lead to the
+388806:2ac63f 77GNow connect the red lead to the
+388812:2ac6f6 99HConnect the black UUT lead to the
+389848:2c1834 Inductance Decade Box (L Terminal)BNow connect the red lead to the
+389851:2c18e5 Inductance Decade Box (L Terminal)BNow connect the red lead to the
+389868:2c1b56 Inductance Decade Box (L Terminal)BNow connect the red lead to the
+389870:2c1bd7 Inductance Decade Box (L Terminal)BNow connect the red lead to the
+389871:2c1c1a Inductance Decade Box (H Terminal)BNow connect the red lead to the
+389873:2c1c9b Inductance Decade Box (L Terminal)BNow connect the red lead to the
+389987:2c2d2f BBBNow connect the red lead to the
+389998:2c2ec6 BBBNow connect the red lead to the
+390079:2c38a7 BBBNow connect the red lead to the
+390083:2c3956 BBBNow connect the red lead to the
+390090:2c3a6e BBBNow connect the red lead to the
+390097:2c3b86 BBBNow connect the red lead to the
+404084:3a6591     0=1.1MOhm connected to UUT leads; Same as '9'.
+442588:17f5d1 4) Connect Lo Capacity leads to UUT plugs on front of test box.
+445166:1a5739 4) Connect Lo Capacity leads to UUT plugs on front of test box.
+445430:1a73c6 4) Connect Lo Capacity leads to UUT plugs on front of test box.
+490115:cce96 BBBNow connect the red lead to the
+490123:ccfe6 BBBNow connect the red lead to the
+490129:cd0df BBBNow connect the red lead to the
+490135:cd1d8 BBBNow connect the red lead to the
+490141:cd2d1 BBBNow connect the red lead to the
+490223:cdac7 IND-6FMELDKCJBI@GAHBNow connect the red lead to the
+490227:cdb7b Inductance Decade Box (L Terminal)BNow connect the red lead to the
+490229:cdbfc Inductance Decade Box (L Terminal)BNow connect the red lead to the
+490231:cdc7d Inductance Decade Box (L Terminal)BNow connect the red lead to the
+490233:cdcfe Inductance Decade Box (L Terminal)BNow connect the red lead to the
+502085:1b9184     0=1.1MOhm connected to UUT leads; Same as '9'.
+510104:253879 Ringer CalibrationLConnect the UUT leads to the
+510688:25cef5 Connect the '+' DVM lead to TP1006
+513178:28da29 Current Source CalibrationfConnect the UUT and/or DVM leads to
+513201:28dc38 fConnect the UUT and/or DVM leads to
+513207:28dce5 fConnect the UUT and/or DVM leads to
+513210:28dd4d Leakage Voltage CalibrationfConnect the UUT and/or DVM leads to
+513213:28ddd0 D/A TestfConnect the UUT and/or DVM leads to
+513216:28de40 Leakage Voltage TestfConnect the UUT and/or DVM leads to
+515839:2d9266 HConnect the black UUT lead to the
+515840:2d9289 Capacitance Decade Box (Low Terminal).GNow connect the red lead to the
+515842:2d930f GNow connect the red lead to the
+515843:2d9330 Capacitance Decade Box (High Terminal).HConnect the black UUT lead to the
+516544:2e8e7f Inductance Decade Box (L Terminal)BNow connect the red lead to the
+516547:2e8f30 Inductance Decade Box (L Terminal)BNow connect the red lead to the
+516564:2e91a1 Inductance Decade Box (L Terminal)BNow connect the red lead to the
+516566:2e9222 Inductance Decade Box (L Terminal)BNow connect the red lead to the
+516567:2e9265 Inductance Decade Box (H Terminal)BNow connect the red lead to the
+516569:2e92e6 Inductance Decade Box (L Terminal)BNow connect the red lead to the
+527421:3b51dd     0=1.1MOhm connected to UUT leads; Same as '9'.
+559427:1d99aa 4) Connect Lo Capacity leads to UUT plugs on front of test box.
+559822:1dee42 4) Connect Lo Capacity leads to UUT plugs on front of test box.
+594778:cc8a2 BBBNow connect the red lead to the
+594786:cc9f2 BBBNow connect the red lead to the
+594792:ccaeb BBBNow connect the red lead to the
+594798:ccbe4 BBBNow connect the red lead to the
+594804:cccdd BBBNow connect the red lead to the
+594886:cd4d3 IND-6FMELDKCJBI@GAHBNow connect the red lead to the
+594890:cd587 Inductance Decade Box (L Terminal)BNow connect the red lead to the
+594892:cd608 Inductance Decade Box (L Terminal)BNow connect the red lead to the
+594894:cd689 Inductance Decade Box (L Terminal)BNow connect the red lead to the
+594896:cd70a Inductance Decade Box (L Terminal)BNow connect the red lead to the
+596820:f643d     0=1.1MOhm connected to UUT leads; Same as '9'.
+608922:1beb71     0=1.1MOhm connected to UUT leads; Same as '9'.

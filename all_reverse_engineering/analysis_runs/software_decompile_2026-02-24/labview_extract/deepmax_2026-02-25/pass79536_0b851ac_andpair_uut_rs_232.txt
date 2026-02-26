@@ -1,0 +1,18 @@
+77806:344275 This vi handles the RS-232 communications for a UUT. FC In and FC Out are used for flow control.
+248186:183391 This vi handles the RS-232 communications for a UUT. FC In and FC Out are used for flow control.
+248365:184788 This vi handles the RS-232 communications for a UUT. FC In and FC Out are used for flow control.
+310408:10c927 This vi handles the RS-232 communications for a UUT. FC In and FC Out are used for flow control.
+310586:10dd08 This vi handles the RS-232 communications for a UUT. FC In and FC Out are used for flow control.
+323353:1efd38 dIf UUT Comm fails, send RS-232
+394601:312369 This vi handles the RS-232 communications for a UUT. FC In and FC Out are used for flow control.
+404015:3a3bdc This vi handles the RS-232 communications for a UUT. FC In and FC Out are used for flow control.
+438764:1456a2 This vi handles the RS-232 communications for a UUT. FC In and FC Out are used for flow control.
+442998:18560c This vi handles the RS-232 communications for a UUT. FC In and FC Out are used for flow control.
+445408:1a7075 22dIf UUT Comm fails, send RS-232
+519778:32e3c7 This vi handles the RS-232 communications for a UUT. FC In and FC Out are used for flow control.
+527352:3b2828 This vi handles the RS-232 communications for a UUT. FC In and FC Out are used for flow control.
+556371:1a40bc This vi handles the RS-232 communications for a UUT. FC In and FC Out are used for flow control.
+556717:1ab510 This vi handles the RS-232 communications for a UUT. FC In and FC Out are used for flow control.
+559801:1deaf0 22dIf UUT Comm fails, send RS-232
+596751:f3a88 This vi handles the RS-232 communications for a UUT. FC In and FC Out are used for flow control.
+601412:13eff8 This vi handles the RS-232 communications for a UUT. FC In and FC Out are used for flow control.

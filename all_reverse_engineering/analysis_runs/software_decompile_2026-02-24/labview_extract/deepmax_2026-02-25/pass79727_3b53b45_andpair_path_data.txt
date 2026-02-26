@@ -1,0 +1,158 @@
+42317:dc402 CheckDatalogPath
+45396:13e17c PathSaveDataU
+47449:160e32 Error %ld in CheckDatalogPath.
+51993:1b87e1 The log file path associated with this VI refers to an existing directory, VI library or non-datalog file.  Do you want to use this path anyway?
+102676:4d2aa2 new file path is the path of the file to which the VI wrote data. You can use this output to determine the path of a file that you open using dialog. new file path returns Not A Path if the user selects Cancel from the dialog box.
+102962:4d6473 new file path is the path of the file to which the VI wrote data.  You can use this output to determine the path of a file that you open using dialog.  new file path returns Not A Path if the user selects Cancel from the dialog box.
+111786:5654df new file path is the path of the file from which the VI read data. You can use this output to determine the path of a file that you open using dialog. new file path returns Not A Path if the user selects Cancel from the dialog box.
+112349:56c5f9 new file path is the path of the file from which the VI read data.  You can use this output to determine the path of a file that you open using dialog.  new file path returns Not A Path if the user selects Cancel from the dialog box.
+116337:5c1746 Path to Cap Box DataDat0
+116338:5c177c Path to Ind Box Dataata4
+116340:5c1825 Path to Cap Box DataDat4
+116341:5c18ce Path to Ind Box Dataata0
+116514:5c3b46 Path to Cap Box DataDat*<
+116515:5c3b64 Path to Ind Box Dataata4<
+116550:5c4053 Path to Cap Box DataDat
+116751:5c6049 Path to Ind Box Dataata4W
+116851:5c70c5 Path to Cap Box DataDat
+116862:5c7685 Path to Ind Box Dataata
+116864:5c778f Path to Cap Box DataD*j
+116865:5c77ab Path to Ind Box Dataa,j
+116867:5c7877 Path to Ind Box Dataata
+116869:5c78e1 Path to Cap Box DataDat
+116941:5c86bb Path to Cap Box DataD@v2
+116943:5c874a Path to Ind Box Dataa4w
+118003:5d283f Path to Cap Box DataD
+118004:5d28c0 Path to Ind Box Dataa
+118555:5e03d5 Path to Cap Box DataD
+118556:5e03ee Path to Cap Box DataD
+118557:5e0407 Path to Cap Box DataD
+118558:5e0422 Path to Ind Box Dataa
+118559:5e043b Path to Ind Box Dataa
+118560:5e0454 Path to Ind Box Dataa
+118612:5e08b2 Path to Ind Box Dataa
+118615:5e08eb Path to Cap Box DataD
+118782:5e1570 Path to Ind Box Dataa
+118783:5e1589 Path to Cap Box DataD
+118784:5e15a5 Path to Ind Box Dataa
+118785:5e15be Path to Cap Box DataD
+118786:5e15d7 Path to Ind Box Dataa
+118787:5e15f0 Path to Cap Box DataD
+118793:5e1926 Path to Cap Box DataX
+118795:5e1967 Path to Ind Box DataX
+118866:5e245a Path to Cap Box Data`
+118867:5e2480 Path to Ind Box Data`
+118868:5e24a4 Path to Cap Box Data`
+118869:5e24c8 Path to Ind Box DataH
+118872:5e2531 Path to Cap Box Data`
+118873:5e2559 Path to Ind Box DataW
+119180:5e3c4f Path to Cap Box DataD
+119181:5e3c68 Path to Ind Box Dataa
+261115:24ba02 new file path is the path of the file to which the VI wrote data. You can use this output to determine the path of a file that you open using dialog. new file path returns Not A Path if the user selects Cancel from the dialog box.
+261401:24f3d3 new file path is the path of the file to which the VI wrote data.  You can use this output to determine the path of a file that you open using dialog.  new file path returns Not A Path if the user selects Cancel from the dialog box.
+261613:250a84 new file path is the path of the file to which the VI wrote data.  You can use this output to determine the path of a file that you open using dialog.  new file path returns Not A Path if the user selects Cancel from the dialog box.
+270315:2dfc33 new file path is the path of the file from which the VI read data. You can use this output to determine the path of a file that you open using dialog. new file path returns Not A Path if the user selects Cancel from the dialog box.
+270878:2e6d4d new file path is the path of the file from which the VI read data.  You can use this output to determine the path of a file that you open using dialog.  new file path returns Not A Path if the user selects Cancel from the dialog box.
+271325:2e9550 new file path is the path of the file from which the VI read data.  You can use this output to determine the path of a file that you open using dialog.  new file path returns Not A Path if the user selects Cancel from the dialog box.
+285874:3f0e4a Path to Cap Box DataDat0
+285875:3f0e80 Path to Ind Box Dataata4
+285877:3f0f29 Path to Cap Box DataDat4
+285878:3f0fd2 Path to Ind Box Dataata0
+286051:3f324a Path to Cap Box DataDat*<
+286052:3f3268 Path to Ind Box Dataata4<
+286087:3f3757 Path to Cap Box DataDat
+286288:3f574d Path to Ind Box Dataata4W
+286388:3f67c9 Path to Cap Box DataDat
+286399:3f6d89 Path to Ind Box Dataata
+286401:3f6e93 Path to Cap Box DataD*j
+286402:3f6eaf Path to Ind Box Dataa,j
+286404:3f6f7b Path to Ind Box Dataata
+286406:3f6fe5 Path to Cap Box DataDat
+286478:3f7dbf Path to Cap Box DataD@v2
+286480:3f7e4e Path to Ind Box Dataa4w
+287540:401f43 Path to Cap Box DataD
+287541:401fc4 Path to Ind Box Dataa
+288092:40fad9 Path to Cap Box DataD
+288093:40faf2 Path to Cap Box DataD
+288094:40fb0b Path to Cap Box DataD
+288095:40fb26 Path to Ind Box Dataa
+288096:40fb3f Path to Ind Box Dataa
+288097:40fb58 Path to Ind Box Dataa
+288149:40ffb6 Path to Ind Box Dataa
+288152:40ffef Path to Cap Box DataD
+288319:410c74 Path to Ind Box Dataa
+288320:410c8d Path to Cap Box DataD
+288321:410ca9 Path to Ind Box Dataa
+288322:410cc2 Path to Cap Box DataD
+288323:410cdb Path to Ind Box Dataa
+288324:410cf4 Path to Cap Box DataD
+288330:41102a Path to Cap Box DataX
+288332:41106b Path to Ind Box DataX
+288403:411b5e Path to Cap Box Data`
+288404:411b84 Path to Ind Box Data`
+288405:411ba8 Path to Cap Box Data`
+288406:411bcc Path to Ind Box DataH
+288409:411c35 Path to Cap Box Data`
+288410:411c5d Path to Ind Box DataW
+288717:413353 Path to Cap Box DataD
+288718:41336c Path to Ind Box Dataa
+366635:1309bf new file path is the path of the file from which the VI read data.  You can use this output to determine the path of a file that you open using dialog.  new file path returns Not A Path if the user selects Cancel from the dialog box.
+366644:130fe4 new file path is the path of the file from which the VI read data. You can use this output to determine the path of a file that you open using dialog. new file path returns Not A Path if the user selects Cancel from the dialog box.
+370473:168d67 new file path is the path of the file to which the VI wrote data.  You can use this output to determine the path of a file that you open using dialog.  new file path returns Not A Path if the user selects Cancel from the dialog box.
+370475:168f28 new file path is the path of the file to which the VI wrote data. You can use this output to determine the path of a file that you open using dialog. new file path returns Not A Path if the user selects Cancel from the dialog box.
+404063:3a5cec new file path is the path of the file to which the VI wrote data.  You can use this output to determine the path of a file that you open using dialog.  new file path returns Not A Path if the user selects Cancel from the dialog box.
+404100:3a6b54 new file path is the path of the file from which the VI read data.  You can use this output to determine the path of a file that you open using dialog.  new file path returns Not A Path if the user selects Cancel from the dialog box.
+412676:43a83a Path to Cap Box Datap2
+412681:43a8a2 Path to Ind Box Datap2
+412741:43b00e Path to Ind Box Data
+412744:43b053 Path to Cap Box Data
+412944:43c0fd Path to Ind Box Data
+412945:43c119 Path to Cap Box Data
+412946:43c13b Path to Ind Box Data
+412947:43c157 Path to Cap Box Data
+412950:43c1aa Path to Ind Box Data"
+412951:43c1c8 Path to Cap Box Data
+413095:43ccf8 Path to Cap Box Data
+413096:43cd14 Path to Ind Box Data
+413109:43d0a8 Path to Cap Box Data.
+413110:43d0c6 Path to Ind Box Data"
+413408:43ec46 Path to Cap Box DataX
+413410:43ec87 Path to Ind Box DataX
+413483:43f7b7 Path to Cap Box Data`
+413484:43f7dd Path to Ind Box Data`
+413485:43f801 Path to Cap Box Data`
+413486:43f825 Path to Ind Box DataH
+413488:43f88f Path to Cap Box Data`
+413489:43f8b7 Path to Ind Box DataW
+490906:dfef9 Path to Cap Box Datap2
+490911:dff61 Path to Ind Box Datap2
+491130:e11bc Path to Cap Box Data
+491131:e11dc Path to Ind Box Data@@P
+491256:e1b7c Path to Ind Box Data
+491257:e1b98 Path to Cap Box Data
+491264:e1c4d Path to Cap Box Data
+491267:e1c95 Path to Ind Box Data
+491268:e1cb1 Path to Cap Box Data
+491269:e1ccd Path to Ind Box Data
+492052:eee41 Path to Cap Box Data
+492053:eee5d Path to Ind Box Data
+492067:ef1f2 Path to Cap Box Data.
+492068:ef210 Path to Ind Box Data"
+492288:f0a43 Path to Cap Box DataH
+492289:f0a7b Path to Ind Box DataH
+492405:f1dfe Path to Cap Box DataU
+492416:f1f89 Path to Ind Box Data`
+492417:f1fb1 Path to Cap Box Data`
+492418:f1fd9 Path to Ind Box DataX
+492427:f2108 Path to Ind Box Data`
+492428:f212c Path to Cap Box Datab
+496234:149e5b new file path is the path of the file from which the VI read data.  You can use this output to determine the path of a file that you open using dialog.  new file path returns Not A Path if the user selects Cancel from the dialog box.
+496403:14bc40 new file path is the path of the file from which the VI read data. You can use this output to determine the path of a file that you open using dialog. new file path returns Not A Path if the user selects Cancel from the dialog box.
+503363:1cfa76 new file path is the path of the file to which the VI wrote data.  You can use this output to determine the path of a file that you open using dialog.  new file path returns Not A Path if the user selects Cancel from the dialog box.
+503506:1d0df1 new file path is the path of the file to which the VI wrote data. You can use this output to determine the path of a file that you open using dialog. new file path returns Not A Path if the user selects Cancel from the dialog box.
+527400:3b4938 new file path is the path of the file to which the VI wrote data.  You can use this output to determine the path of a file that you open using dialog.  new file path returns Not A Path if the user selects Cancel from the dialog box.
+527437:3b57a0 new file path is the path of the file from which the VI read data.  You can use this output to determine the path of a file that you open using dialog.  new file path returns Not A Path if the user selects Cancel from the dialog box.
+596799:f5b98 new file path is the path of the file to which the VI wrote data.  You can use this output to determine the path of a file that you open using dialog.  new file path returns Not A Path if the user selects Cancel from the dialog box.
+596836:f6a00 new file path is the path of the file from which the VI read data.  You can use this output to determine the path of a file that you open using dialog.  new file path returns Not A Path if the user selects Cancel from the dialog box.
+608421:1b7058 new file path is the path of the file to which the VI wrote data.  You can use this output to determine the path of a file that you open using dialog.  new file path returns Not A Path if the user selects Cancel from the dialog box.
+610298:1d5218 new file path is the path of the file from which the VI read data.  You can use this output to determine the path of a file that you open using dialog.  new file path returns Not A Path if the user selects Cancel from the dialog box.

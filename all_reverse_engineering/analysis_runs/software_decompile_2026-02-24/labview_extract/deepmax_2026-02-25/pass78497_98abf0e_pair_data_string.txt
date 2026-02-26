@@ -1,0 +1,28 @@
+57231:212a20  status[15]- GPIB error detectedA=data string contains count data bytes from the GPIB device. 
+75494:31fb85 UQWrites the data in string to write to the serial port indicated in port number. 
+120074:5ecb3d Data Retrieval Strings
+120075:5ecb54 Datalog Strings
+227622:53a78  status[15]- GPIB error detectedA=data string contains count data bytes from the GPIB device. 
+245809:15e369 UQWrites the data in string to write to the serial port indicated in port number. 
+245907:15ec57 QWrites the data in string to write to the serial port indicated in port number. 
+294105:20e09  status[15]- GPIB error detectedA=data string contains count data bytes from the GPIB device. 
+308029:e7965 UQWrites the data in string to write to the serial port indicated in port number. 
+308128:e824f QWrites the data in string to write to the serial port indicated in port number. 
+326272:20101  status[15]- GPIB error detectedA=data string contains count data bytes from the GPIB device. 
+349067:1ed38  status[15]- GPIB error detectedA=data string contains count data bytes from the GPIB device. 
+397173:338d6a UQWrites the data in string to write to the serial port indicated in port number. 
+404006:3a39db QWrites the data in string to write to the serial port indicated in port number. 
+419734:1ec7d  status[15]- GPIB error detectedA=data string contains count data bytes from the GPIB device. 
+441368:16c0b0 UQWrites the data in string to write to the serial port indicated in port number. 
+442989:18540b QWrites the data in string to write to the serial port indicated in port number. 
+454571:1d54d  status[15]- GPIB error detectedA=data string contains count data bytes from the GPIB device. 
+478283:1ed38  status[15]- GPIB error detectedA=data string contains count data bytes from the GPIB device. 
+521914:34fbe5 UQWrites the data in string to write to the serial port indicated in port number. 
+527343:3b2627 QWrites the data in string to write to the serial port indicated in port number. 
+532202:1ec7d  status[15]- GPIB error detectedA=data string contains count data bytes from the GPIB device. 
+556362:1a3ebb QWrites the data in string to write to the serial port indicated in port number. 
+558522:1c9d1a UQWrites the data in string to write to the serial port indicated in port number. 
+562487:1d54d  status[15]- GPIB error detectedA=data string contains count data bytes from the GPIB device. 
+583006:1ecb0  status[15]- GPIB error detectedA=data string contains count data bytes from the GPIB device. 
+596742:f3887 QWrites the data in string to write to the serial port indicated in port number. 
+600397:12f417 QWrites the data in string to write to the serial port indicated in port number. 

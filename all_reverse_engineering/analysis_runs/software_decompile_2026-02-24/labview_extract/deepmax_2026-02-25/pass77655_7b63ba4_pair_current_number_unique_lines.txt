@@ -1,0 +1,5 @@
+48184:164cec This is the position of the top of the currently selected part (shown in the parts ring). You can change the position by changing this number, or by moving the part.
+48185:164d98 This is the position of the left side of the currently selected part (shown in the parts ring). You can change the position by changing this number, or by moving the part.
+48186:164e48 This is the height of the currently selected part (shown in the parts ring). You can change the height by changing this number, or by resizing the part.
+48187:164ee8 This is the width of the currently selected part (shown in the parts ring). You can change the width by changing this number, or by resizing the part.
+52543:1bf662 This platform does not support the current return type. For example, the return type of a 16-bit DLL function may not be a floating point number. Pop up on the Call Library Function node and select Configure... to set the return type.

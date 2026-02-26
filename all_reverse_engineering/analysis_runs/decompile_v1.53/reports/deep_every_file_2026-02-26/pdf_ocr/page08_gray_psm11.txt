@@ -1,0 +1,163 @@
+13. RS232 Commands
+
+COMPONENT TYPE COMMANDS
+
+Description
+
+ib)
+
+Aluminum Electrolytics
+
+DBL
+
+Double Layer
+
+|_TAN
+
+Tantalum Caps
+
+CER
+
+Ceramic Caps
+
+AOC
+
+All Other Caps
+
+—HIR
+
+High Resistance Double Layer Lytics |
+
+Coils
+
+. YFB
+
+Yokes and Flybacks
+
+, SWX
+
+Switching Transformers
+
+VALUE MULTIPLIERS
+
+Command Description SC«*d
+
+PicoFarad
+
+WMecroFarad
+
+=>
+
+oa.
+
+VMicrohens
+
+Viimerc,
+
+ET's
+
+woh
+
+>
+
+Posiiwe iene ¢ tecmet
+
+-*
+
+TEST FUNCTION COMMANDS
+
+CAP
+
+mere
+
+_ Capacitor value _
+
+LK
+
+—
+
+Leakage current
+
+~
+
+LKR
+
+Leakage resistance _
+
+sce
+
+D/A
+
+Dielectric Absorption
+
+ESR
+
+oe
+
+_Equivalent series resistance
+
+——
+
+IND
+
+—
+
+Inductance
+
+~
+
+oe
+
+RIN
+
+Finger
+
+cic
+
+_ Capacitor in circuit |
+
+EIC
+
+ESR in circuit
+
+lic
+
+Inductance in circuit —
+
+GENERAL COMM
+
+, AANDS
+
+LDO_
+
+—
+
+Lead zero open
+
+i
+
+__Lead zero short
+
+LDS -
+
+——
+
+_No Function.
+
+—
+
+CPO.
+
+“Control panel on (front panel operation) _
+
+alae
+
+~
+
+Continue taking/sending test data _
+
+—
+
+Ctrl O
+
+‘Return a single reading, (default)

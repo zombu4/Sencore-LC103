@@ -1,0 +1,11 @@
+48220:165c84 This is the minimum amount of disk space to run LabVIEW.  LabVIEW will abort the launch if less than this amount of disk space
+48230:165fce VI Search Path:  list of directories where LabVIEW will search for subVIs. This list is searched from top to bottom so the order is important.
+48271:166b04 This is the default for the VI Setup of new VIs.  If a VI has this option set, LabVIEW will add an entry to the VI's history every time it is saved, even if you do not enter a comment.
+48272:166bc0 This is the default for the VI Setup of new VIs.  If a VI has this option set, LabVIEW will prompt you for a comment to add to the history whenever the VI is closed.
+48273:166c6c This is the default for the VI Setup of new VIs.  If a VI has this option set, LabVIEW will prompt you for a comment to add to the history whenever the VI is saved.
+48274:166d14 This is the default for the VI Setup of new VIs.  If a VI has this option set, LabVIEW will add comments to the VI's history when the name of the VI is changed, subVIs are changed, or the VI is upgraded to a new version of LabVIEW.
+48275:166e00 If this option is set, LabVIEW will not prompt for a user name when launched.  The user name will be set to the name entered in the LabVIEW Registration.
+48276:166ea0 If this option is set, LabVIEW will not prompt for a user name when launched.  The user name will be set to the system user name.
+48277:166f27 RIf this option is set, LabVIEW will show the login prompt when LabVIEW is started.
+52249:1bab33 This copy of LabVIEW has not been properly registered.  You must enter a name and a valid serial number.  The registration dialog will continue to appear at launch time until you properly register this copy of LabVIEW.Verifying...
+52435:1bcb0f The VI %p has changed on disk since last saved or loaded by LabVIEW.  If you load its %p, it will probably be inconsistent with the parts of the VI already in memory, resulting in a corrupt VI.

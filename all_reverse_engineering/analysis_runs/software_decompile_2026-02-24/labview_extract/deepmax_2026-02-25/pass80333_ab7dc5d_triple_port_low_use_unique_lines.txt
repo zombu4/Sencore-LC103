@@ -1,0 +1,35 @@
+74822:316bf5 9When you use the serial port VIs under Windows, the port number parameter can have the following values:
+75375:31da87 9When you use the serial port VIs under Windows, the port number parameter can have the following values:
+75597:321180 9When you use the serial port VIs under Windows, the port number parameter can have the following values:
+75851:32503b 9When you use the serial port VIs under Windows, the port number parameter can have the following values:
+102415:4c87d4 DAQ overFlowErr: Because of system limitations, the driver could not read data from the device fast enough to keep up with the device throughput; the onboard device memory reported an overflow error.
+245132:1552a9 9When you use the serial port VIs under Windows, the port number parameter can have the following values:
+245690:15c26b 9When you use the serial port VIs under Windows, the port number parameter can have the following values:
+245918:15fac0 9When you use the serial port VIs under Windows, the port number parameter can have the following values:
+246177:163adf 9When you use the serial port VIs under Windows, the port number parameter can have the following values:
+260848:2413ac DAQ overFlowErr: Because of system limitations, the driver could not read data from the device fast enough to keep up with the device throughput; the onboard device memory reported an overflow error.
+307911:e5866 9When you use the serial port VIs under Windows, the port number parameter can have the following values:
+308139:e90b3 9When you use the serial port VIs under Windows, the port number parameter can have the following values:
+308397:ed0ca 9When you use the serial port VIs under Windows, the port number parameter can have the following values:
+314856:15ef7d DAQ overFlowErr: Because of system limitations, the driver could not read data from the device fast enough to keep up with the device throughput; the onboard device memory reported an overflow error.
+341333:fe54d DAQ overFlowErr: Because of system limitations, the driver could not read data from the device fast enough to keep up with the device throughput; the onboard device memory reported an overflow error.
+371286:17adce DAQ overFlowErr: Because of system limitations, the driver could not read data from the device fast enough to keep up with the device throughput; the onboard device memory reported an overflow error.
+396595:330ae7 9When you use the serial port VIs under Windows, the port number parameter can have the following values:
+396893:334e31 9When you use the serial port VIs under Windows, the port number parameter can have the following values:
+397174:338dc0 9When you use the serial port VIs under Windows, the port number parameter can have the following values:
+397592:33f1c3 9When you use the serial port VIs under Windows, the port number parameter can have the following values:
+433987:ee9f1 DAQ overFlowErr: Because of system limitations, the driver could not read data from the device fast enough to keep up with the device throughput; the onboard device memory reported an overflow error.
+440784:163e2a 9When you use the serial port VIs under Windows, the port number parameter can have the following values:
+441084:16817a 9When you use the serial port VIs under Windows, the port number parameter can have the following values:
+441369:16c106 9When you use the serial port VIs under Windows, the port number parameter can have the following values:
+469966:fdf72 DAQ overFlowErr: Because of system limitations, the driver could not read data from the device fast enough to keep up with the device throughput; the onboard device memory reported an overflow error.
+503796:1dbd6f DAQ overFlowErr: Because of system limitations, the driver could not read data from the device fast enough to keep up with the device throughput; the onboard device memory reported an overflow error.
+521548:349f14 9When you use the serial port VIs under Windows, the port number parameter can have the following values:
+521751:34d2fc 9When you use the serial port VIs under Windows, the port number parameter can have the following values:
+521941:350284 9When you use the serial port VIs under Windows, the port number parameter can have the following values:
+522293:355c9a 9When you use the serial port VIs under Windows, the port number parameter can have the following values:
+546362:ed901 DAQ overFlowErr: Because of system limitations, the driver could not read data from the device fast enough to keep up with the device throughput; the onboard device memory reported an overflow error.
+558149:1c4042 9When you use the serial port VIs under Windows, the port number parameter can have the following values:
+558356:1c7432 9When you use the serial port VIs under Windows, the port number parameter can have the following values:
+558548:1ca3b8 9When you use the serial port VIs under Windows, the port number parameter can have the following values:
+579215:15fc33 DAQ overFlowErr: Because of system limitations, the driver could not read data from the device fast enough to keep up with the device throughput; the onboard device memory reported an overflow error.

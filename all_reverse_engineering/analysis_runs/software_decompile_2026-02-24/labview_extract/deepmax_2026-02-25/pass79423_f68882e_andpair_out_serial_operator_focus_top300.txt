@@ -1,0 +1,14 @@
+74847:31761c lhOutput XON/XOFF. See the Common Serial Port VI Parameters section of this chapter for more information.
+102515:4ce745 GPIB SPTMO: Serial port timeout; bytes not received at serial port.
+245157:155cd0 lhOutput XON/XOFF. See the Common Serial Port VI Parameters section of this chapter for more information.
+260948:24731d GPIB SPTMO: Serial port timeout; bytes not received at serial port.
+314956:164eee GPIB SPTMO: Serial port timeout; bytes not received at serial port.
+341433:1044be GPIB SPTMO: Serial port timeout; bytes not received at serial port.
+371386:180d3f GPIB SPTMO: Serial port timeout; bytes not received at serial port.
+397617:33fbea lhOutput XON/XOFF. See the Common Serial Port VI Parameters section of this chapter for more information.
+434087:f4962 GPIB SPTMO: Serial port timeout; bytes not received at serial port.
+470066:103ee3 GPIB SPTMO: Serial port timeout; bytes not received at serial port.
+503896:1e1ce0 GPIB SPTMO: Serial port timeout; bytes not received at serial port.
+522318:356768 hOutput XON/XOFF. See the Common Serial Port VI Parameters section of this chapter for more information.
+546462:f3872 GPIB SPTMO: Serial port timeout; bytes not received at serial port.
+579315:165ba4 GPIB SPTMO: Serial port timeout; bytes not received at serial port.

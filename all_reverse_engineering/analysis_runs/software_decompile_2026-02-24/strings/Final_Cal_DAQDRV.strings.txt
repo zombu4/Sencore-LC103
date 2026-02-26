@@ -1,0 +1,35 @@
+RSRC
+LVSBLBVW
+i386
+DRVR
+Vhd
+VSh4
+DAQDRV: 387 control reg is 0x%x before calling LoadLibrary
+NIDAQ.DLL
+DAQDRV: return value from LoadLibrary is %d
+DAQDRV: 387 control reg is 0x%x after calling LoadLibrary
+DAQDRV: 387 control reg is 0x%x after calling FPStatFix
+LV_DESTROY_ALL_AO_GROUPS
+DAQDRV: destroying AO groups ...
+LV_DESTROY_ALL_DIG_PORT_GROUPS
+DAQDRV: destroying DIG PORT groups ...
+LV_DESTROY_ALL_DIG_GROUP_GROUPS
+DAQDRV: destroying DIG GROUP groups ...
+_clear_all_ai
+DAQDRV: destroying AI groups ...
+LV_DESTROY_ALL_CTR_GROUPS
+DAQDRV: destroying CTR groups ...
+_clear_all_boards
+DAQDRV: calling _clear_all_boards ...
+Init_DA_Brds
+DAQDRV: calling Init_DA_Brds for slots 1 through 16 ...
+DAQDRV: in DriverEntry ...
+DAQDRV: leaving DriverEntry ...
+SetCINArraySize, elmtNum %ld out of range 0 <= elmtNum < %ld
+non-array detected
+RSRC
+LVSBLBVW
+PLAT
+LVSB
+daqdrv
+daqdrv

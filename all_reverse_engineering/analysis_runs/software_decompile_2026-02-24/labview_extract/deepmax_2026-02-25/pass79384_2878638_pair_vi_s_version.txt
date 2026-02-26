@@ -1,0 +1,2 @@
+48274:166d14 This is the default for the VI Setup of new VIs.  If a VI has this option set, LabVIEW will add comments to the VI's history when the name of the VI is changed, subVIs are changed, or the VI is upgraded to a new version of LabVIEW.
+52414:1bc277 Could not load default data.+Could not load data space link information.%Could not load VI's link information.&Could not load LVSB platform resource.6Demonstration versions of LabVIEW cannot load this VI.

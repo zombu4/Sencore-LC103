@@ -1,0 +1,31 @@
+57231:212a20 status[15]- GPIB error detectedA=data string contains count data bytes from the GPIB device.
+102479:4cdd66 GPIB ESTB: Serial poll byte queue overflow.4LabVIEW: Image not found.
+102515:4ce745 GPIB SPTMO: Serial port timeout; bytes not received at serial port.
+227622:53a78 status[15]- GPIB error detectedA=data string contains count data bytes from the GPIB device.
+260912:24693e GPIB ESTB: Serial poll byte queue overflow.4LabVIEW: Image not found.
+260948:24731d GPIB SPTMO: Serial port timeout; bytes not received at serial port.
+294105:20e09 status[15]- GPIB error detectedA=data string contains count data bytes from the GPIB device.
+314920:16450f GPIB ESTB: Serial poll byte queue overflow.4LabVIEW: Image not found.
+314956:164eee GPIB SPTMO: Serial port timeout; bytes not received at serial port.
+326272:20101 status[15]- GPIB error detectedA=data string contains count data bytes from the GPIB device.
+341397:103adf GPIB ESTB: Serial poll byte queue overflow.4LabVIEW: Image not found.
+341433:1044be GPIB SPTMO: Serial port timeout; bytes not received at serial port.
+349067:1ed38 status[15]- GPIB error detectedA=data string contains count data bytes from the GPIB device.
+371350:180360 GPIB ESTB: Serial poll byte queue overflow.4LabVIEW: Image not found.
+371386:180d3f GPIB SPTMO: Serial port timeout; bytes not received at serial port.
+419734:1ec7d status[15]- GPIB error detectedA=data string contains count data bytes from the GPIB device.
+434051:f3f83 GPIB ESTB: Serial poll byte queue overflow.4LabVIEW: Image not found.
+434087:f4962 GPIB SPTMO: Serial port timeout; bytes not received at serial port.
+454571:1d54d status[15]- GPIB error detectedA=data string contains count data bytes from the GPIB device.
+470030:103504 GPIB ESTB: Serial poll byte queue overflow.4LabVIEW: Image not found.
+470066:103ee3 GPIB SPTMO: Serial port timeout; bytes not received at serial port.
+478283:1ed38 status[15]- GPIB error detectedA=data string contains count data bytes from the GPIB device.
+503860:1e1301 GPIB ESTB: Serial poll byte queue overflow.4LabVIEW: Image not found.
+503896:1e1ce0 GPIB SPTMO: Serial port timeout; bytes not received at serial port.
+532202:1ec7d status[15]- GPIB error detectedA=data string contains count data bytes from the GPIB device.
+546426:f2e93 GPIB ESTB: Serial poll byte queue overflow.4LabVIEW: Image not found.
+546462:f3872 GPIB SPTMO: Serial port timeout; bytes not received at serial port.
+562487:1d54d status[15]- GPIB error detectedA=data string contains count data bytes from the GPIB device.
+579279:1651c5 GPIB ESTB: Serial poll byte queue overflow.4LabVIEW: Image not found.
+579315:165ba4 GPIB SPTMO: Serial port timeout; bytes not received at serial port.
+583006:1ecb0 status[15]- GPIB error detectedA=data string contains count data bytes from the GPIB device.

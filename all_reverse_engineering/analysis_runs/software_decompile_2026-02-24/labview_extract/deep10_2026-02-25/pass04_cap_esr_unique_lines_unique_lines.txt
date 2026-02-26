@@ -1,0 +1,39 @@
+*.calCPlease choose the file containing the capacitance calibration data.
+*.calCPlease choose the file containing the capacitance calibration data.PTH0
+@@cShort the UUT leads to the Capacitance Decade box(LTerminal).
+CCCPlease choose the file containing the capacitance calibration data.O
+CCCPlease choose the file containing the capacitance calibration data.V
+CCCPlease choose the file containing the capacitance calibration data.W
+CLRPARcShort the UUT leads to the Capacitance Decade box(LTerminal).
+CPlease choose the file containing the capacitance calibration data.O
+CPlease choose the file containing the capacitance calibration data.V
+Cap Cal Failed Range 
+Cap Cal Failed Range ?
+Cap Cal Failed Range X
+Capacitance Calibration
+Capacitance CalibrationV
+Capacitance CalibrationW
+Capacitance Calibration]
+Capacitance Calibrationb
+Capacitance Decade Box (High Terminal).
+Capacitance Decade Box (High Terminal).HConnect the black UUT lead to the
+Capacitance Decade Box (High Terminal).OD
+Capacitance Decade Box (High Terminal).W
+Capacitance Decade Box (Low Terminal).
+Capacitance Decade Box (Low Terminal).?
+Capacitance Decade Box (Low Terminal).GNow connect the red lead to the
+Capacitance Decade Box (Low Terminal).OD
+ESR Calibration
+ESR Calibration Passed
+ESR Calibration PassedU
+ESR Calibration PassedV
+ESR Calibration'
+ESR Calibration22
+ESR CalibrationH
+ESR CalibrationV
+ESR CalibrationW
+ESR CalibrationX
+ESR Calibration`
+HEY!! I said:  "Connect the red UUT to the H  Terminal of the decade box and set the  box to 0.022uF(.0219)".  Please do this now!
+Now connect the red UUT to the H  Terminal of the decade box and set the  box to 0.022uF(.0219).
+Press 'Enter' when ready.cShort the UUT leads to the Capacitance Decade box(LTerminal).

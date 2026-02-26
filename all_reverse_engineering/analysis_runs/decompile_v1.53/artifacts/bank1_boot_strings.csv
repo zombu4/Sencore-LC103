@@ -1,0 +1,116 @@
+address,data_type,string_value
+CODE:2166,string,"""   LC103 SOFTWARE   "
+CODE:217c,string,    VERSION 1.53    
+CODE:2191,string,CALIBRATED
+CODE:219c,string,  UNIT REQUIRES  
+CODE:21ae,string,   CALIBRATION!  
+CODE:21e7,string,"  LOW BATTERY,   "
+CODE:21f9,string,  POWERING DOWN  
+CODE:221d,string,VOLTAGE ON LEADS 
+CODE:222f,string,FUSE OPEN        
+CODE:2241,string,     READY       
+CODE:2253,string,LEAD ZERO SHORT  
+CODE:2265,string,TEST IN PROGRESS 
+CODE:2277,string,LEAD RESISTANCE  
+CODE:2289,string,OUT OF ZERO RANGE
+CODE:229b,string,ERROR 4
+CODE:22a3,string,LEAD INDUCTANCE  
+CODE:22b5,string,     DONE        
+CODE:22cb,string,"CHECK LEADS,      "
+CODE:22de,string,APPEAR SHORTED    
+CODE:22f1,string,LEAD ZERO OPEN   
+CODE:2303,string,LEAD CAPACITANCE 
+CODE:2319,string, SUGGEST REMOVAL 
+CODE:232d,string,BATT CHARGE 
+CODE:2d6b,string,"""Alum Lytic "
+CODE:2d78,string,Dbl Lytic  
+CODE:2d84,string,High R Dbl 
+CODE:2d90,string,Tantalum   
+CODE:2d9c,string,Ceramic    
+CODE:2da8,string,Other Caps 
+CODE:2db4,string,Coils      
+CODE:2dcc,string,Sw Xformer 
+CODE:2dd8,string,None       
+CODE:2e11,string,  NO COMPONENT   
+CODE:2e23,string,  TYPE SELECTED  
+CODE:2e4d,string,Error
+CODE:2e73,string,CAPACITOR TEST   
+CODE:2e85,string,IN PROGRESS      
+CODE:2e97,string,APPEARS SHORTED 
+CODE:2ea8,string,SUGGEST REMOVAL 
+CODE:2ebb,string,Out of Range    
+CODE:2edd,string,Cap value is out 
+CODE:2eef,string,of range for ESR.
+CODE:2f01,string,"APPEARS OPEN,    "
+CODE:2f13,string,CHECK CONNECTIONS
+CODE:2f38,string,      SHORT      
+CODE:2f57,string,CAP DISCHARGING 
+CODE:2fbd,string,CAP TOO SMALL
+CODE:2fcb,string,LEADS SHORTED
+CODE:2fd9,string,CAP TOO LARGE
+CODE:2fe9,string,"DA, THEN LEAKAGE"
+CODE:3006,string,improper selection
+CODE:3026,string,CALON
+CODE:302c,string,CALOFF
+CODE:3033,string,CALIBRATED
+CODE:303e,string,UNIT IS CALIBRATED
+CODE:3051,string,UNIT IS NOT CALIBRATED
+CODE:3068,string,CALSET
+CODE:3076,string,CALF...
+CODE:30b9,string,ISRC 100mA
+CODE:30c4,string,ISRC OFF
+CODE:30cd,string,GAIN%d %6.4f
+CODE:30da,string,ERROR %6.4f
+CODE:30e6,string,CLRPAR
+CODE:30ed,string,Alum Lytic 
+CODE:30fd,string,Other Caps 
+CODE:310d,string,Ceramic    
+CODE:311d,string,Coils      
+CODE:312d,string,Dbl Lytic  
+CODE:313d,string,Sw Xformer 
+CODE:314d,string,Tantalum   
+CODE:315d,string,High R Dbl 
+CODE:317d,string,No Type    
+CODE:3226,string,CALDATE
+CODE:322e,string,CALDATE?
+CODE:3237,string,COMPONENT TYPE   
+CODE:3249,string,SELECTION ERROR  
+CODE:325b,string,ERROR 1
+CODE:3263,string,ENTERED VALUE    
+CODE:3275,string,BEYOND UNIT RANGE
+CODE:3287,string,ERROR 2
+CODE:328f,string,BEYOND TEST RANGE
+CODE:32a1,string,ERROR 3
+CODE:32a9,string,VALUE BEYOND     
+CODE:32bb,string,ZEROING LIMIT    
+CODE:32cd,string,ERROR 4
+CODE:32d5,string,NO VOLTAGE      
+CODE:32e6,string,ENTERED         
+CODE:32f7,string,ERROR 5
+CODE:32ff,string,INVALID RS232   
+CODE:3310,string,COMMAND         
+CODE:3321,string,ERROR 6
+CODE:3329,string,COMPONENT OUT   
+CODE:333a,string,OF TEST RANGE   
+CODE:334b,string,ERROR 7
+CODE:3353,string,ERROR 8          
+CODE:3377,string,ERROR 8
+CODE:337f,string,NO VALUE         
+CODE:3391,string,ENTERED          
+CODE:3455,string,VOLTAGE ON LEADS 
+CODE:3467,string,EXITING: LOW BAT.
+CODE:3479,string,PLEASE ENTER
+CODE:3486,string,VOLTAGE
+CODE:348e,string,RE-ENTER VOLTAGE
+CODE:349f,string,VOLT OUT OF RANGE
+CODE:34b1,string,CAP OUT OF RANGE
+CODE:34c2,string, RE-ENTER VALUE
+CODE:34e7,string,NOT VALID TEST FOR CAP TYPE
+CODE:3503,string,CAP TYPE NOT FOUND
+CODE:355c,string, DISCHARGING CAP 
+CODE:356e,string,FUSE OPEN        
+CODE:35f3,string,   OVERRANGE
+CODE:3602,string,      OPEN  
+CODE:373b,string,   LC103 ReZolver   
+CODE:37a1,string,      OPEN       
+CODE:37c9,string, RINGS

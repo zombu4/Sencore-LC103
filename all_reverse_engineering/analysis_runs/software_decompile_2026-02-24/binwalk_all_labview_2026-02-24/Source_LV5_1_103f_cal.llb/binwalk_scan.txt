@@ -1,0 +1,5 @@
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+3065520       0x2EC6B0        Ubiquiti firmware header, third party, ~CRC32: 0x0, version: ".vi"
+

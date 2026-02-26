@@ -1,0 +1,33 @@
+Recovered LC103 Final Cal Stage Sequence (best-evidence from 103FIN.EXE strings)
+
+1) Software Rev. Check
+2) Calibration Reset
+3) Current Source Calibration
+4) Gain Calibration
+5) Capacitance Calibration
+6) ESR Calibration
+7) Inductance Calibration
+8) Leakage Voltage Calibration
+9) Leakage Voltage Test
+10) Leakage Current Test
+11) Calibration Stamp
+
+Associated recovered prompt fragments:
+- Please choose the file containing the capacitance calibration data.
+- Please choose the file containing the inductance calibration data.
+- All (Not Ringer)
+- Start Button
+- Continue Button
+- Make sure the UUT leads are shorted together.
+- Make sure the red UUT lead is not connected.
+- Short the UUT leads to the ...
+- Now connect the red lead to the ...
+- Switch the cal box to ...
+- Press 'Enter' when ready.
+- Press 'Enter' when finished.
+- Calibration Successful!!
+
+Source evidence files:
+- /Users/<user>/LC103/software_decompile_2026-02-24/labview_extract/103fin_prompt_candidates.txt
+- /Users/<user>/LC103/software_decompile_2026-02-24/exhaustive/derived/stage_strings_clean.txt
+- /Users/<user>/LC103/software_decompile_2026-02-24/exhaustive/derived/prompt_strings_clean.txt

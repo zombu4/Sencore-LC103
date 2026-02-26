@@ -1,0 +1,64 @@
+52004:1b8a58 Too many files open.<Some system capacity necessary for operation is not enabled.
+52426:1bc74e $Can't get name from VI library path.%Can't get name from file system path.#Can't extract file from VI library.
+52427:1bc7be Can't allocate new path.$Can't open VI library resource file."Can't remove file from VI library.%Can't open file system resource file.
+52431:1bc924 Can't rebuild palette menu.)Can't get version of file in file system.
+57207:212601 -file system error
+58005:2205fb -file system error
+102469:4cda92 GPIB ESAC:  Command requries GPIB Controller to be System Controller.FLabVIEW:  Generic file I/O error.
+102476:4cdc93 GPIB EFSO:  File system operation error.PLabVIEW:  Resource file not found.
+132608:1ee86a SystemTimeToFileTime
+227598:53659 -file system error
+228412:618e7 -file system error
+260902:24666a GPIB ESAC:  Command requries GPIB Controller to be System Controller.FLabVIEW:  Generic file I/O error.
+260909:24686b GPIB EFSO:  File system operation error.PLabVIEW:  Resource file not found.
+294081:209ea -file system error
+294907:2ec34 -file system error
+314910:16423b GPIB ESAC:  Command requries GPIB Controller to be System Controller.FLabVIEW:  Generic file I/O error.
+314917:16443c GPIB EFSO:  File system operation error.PLabVIEW:  Resource file not found.
+326248:1fce2 -file system error
+327101:2df1c -file system error
+341387:10380b GPIB ESAC:  Command requries GPIB Controller to be System Controller.FLabVIEW:  Generic file I/O error.
+341394:103a0c GPIB EFSO:  File system operation error.PLabVIEW:  Resource file not found.
+349043:1e919 -file system error
+349857:2cba7 -file system error
+371340:18008c GPIB ESAC:  Command requries GPIB Controller to be System Controller.FLabVIEW:  Generic file I/O error.
+371347:18028d GPIB EFSO:  File system operation error.PLabVIEW:  Resource file not found.
+419710:1e85e -file system error
+420536:2caa8 -file system error
+434041:f3caf GPIB ESAC:  Command requries GPIB Controller to be System Controller.FLabVIEW:  Generic file I/O error.
+434048:f3eb0 GPIB EFSO:  File system operation error.PLabVIEW:  Resource file not found.
+454547:1d12e -file system error
+455400:2b368 -file system error
+470020:103230 GPIB ESAC:  Command requries GPIB Controller to be System Controller.FLabVIEW:  Generic file I/O error.
+470027:103431 GPIB EFSO:  File system operation error.PLabVIEW:  Resource file not found.
+478259:1e919 -file system error
+479073:2cba7 -file system error
+503850:1e102d GPIB ESAC:  Command requries GPIB Controller to be System Controller.FLabVIEW:  Generic file I/O error.
+503857:1e122e GPIB EFSO:  File system operation error.PLabVIEW:  Resource file not found.
+532178:1e85e -file system error
+533004:2caa8 -file system error
+546416:f2bbf GPIB ESAC:  Command requries GPIB Controller to be System Controller.FLabVIEW:  Generic file I/O error.
+546423:f2dc0 GPIB EFSO:  File system operation error.PLabVIEW:  Resource file not found.
+562463:1d12e -file system error
+563316:2b368 -file system error
+579269:164ef1 GPIB ESAC:  Command requries GPIB Controller to be System Controller.FLabVIEW:  Generic file I/O error.
+579276:1650f2 GPIB EFSO:  File system operation error.PLabVIEW:  Resource file not found.
+582982:1e891 -file system error
+583796:2cb1f -file system error
+612551:238     - The VI expected to be at "\\Atlas\Shared\Cal-Test\LC103\Source\lv8\103f_cal.llb\Beep.vi" was loaded from "C:\Program Files\National Instruments\LabVIEW 8.6\vi.lib\Platform\system.llb\Beep.vi".
+612553:351     - The VI expected to be at "\\Atlas\Shared\Cal-Test\LC103\Source\lv8\103f_cal.llb\Beep.vi" was loaded from "C:\Program Files\National Instruments\LabVIEW 8.6\vi.lib\Platform\system.llb\Beep.vi".
+612555:468     - The VI expected to be at "\\Atlas\Shared\Cal-Test\LC103\Source\lv8\103f_cal.llb\Beep.vi" was loaded from "C:\Program Files\National Instruments\LabVIEW 8.6\vi.lib\Platform\system.llb\Beep.vi".
+612557:57d     - The VI expected to be at "\\Atlas\Shared\Cal-Test\LC103\Source\lv8\103f_cal.llb\Beep.vi" was loaded from "C:\Program Files\National Instruments\LabVIEW 8.6\vi.lib\Platform\system.llb\Beep.vi".
+612560:6e4     - The VI expected to be at "\\Atlas\Shared\Cal-Test\LC103\Source\lv8\103f_cal.llb\Beep.vi" was loaded from "C:\Program Files\National Instruments\LabVIEW 8.6\vi.lib\Platform\system.llb\Beep.vi".
+612563:877     - The VI expected to be at "\\Atlas\Shared\Cal-Test\LC103\Source\lv8\103f_cal.llb\Beep.vi" was loaded from "C:\Program Files\National Instruments\LabVIEW 8.6\vi.lib\Platform\system.llb\Beep.vi".
+612569:b60     - The VI expected to be at "\\Atlas\Shared\Cal-Test\LC103\Source\lv8\103f_cal.llb\Beep.vi" was loaded from "C:\Program Files\National Instruments\LabVIEW 8.6\vi.lib\Platform\system.llb\Beep.vi".
+612571:c77     - The VI expected to be at "\\Atlas\Shared\Cal-Test\LC103\Source\lv8\103f_cal.llb\Beep.vi" was loaded from "C:\Program Files\National Instruments\LabVIEW 8.6\vi.lib\Platform\system.llb\Beep.vi".
+612573:d90     - The VI expected to be at "\\Atlas\Shared\Cal-Test\LC103\Source\lv8\103f_cal.llb\Beep.vi" was loaded from "C:\Program Files\National Instruments\LabVIEW 8.6\vi.lib\Platform\system.llb\Beep.vi".
+612581:10e0     - The VI expected to be at "\\Atlas\Shared\Cal-Test\LC103\Source\lv8\103f_cal.llb\Beep.vi" was loaded from "C:\Program Files\National Instruments\LabVIEW 8.6\vi.lib\Platform\system.llb\Beep.vi".
+612584:1275     - The VI expected to be at "\\Atlas\Shared\Cal-Test\LC103\Source\lv8\103f_cal.llb\Beep.vi" was loaded from "C:\Program Files\National Instruments\LabVIEW 8.6\vi.lib\Platform\system.llb\Beep.vi".
+612586:138e     - The VI expected to be at "\\Atlas\Shared\Cal-Test\LC103\Source\lv8\103f_cal.llb\Beep.vi" was loaded from "C:\Program Files\National Instruments\LabVIEW 8.6\vi.lib\Platform\system.llb\Beep.vi".
+612588:14a3     - The VI expected to be at "\\Atlas\Shared\Cal-Test\LC103\Source\lv8\103f_cal.llb\Beep.vi" was loaded from "C:\Program Files\National Instruments\LabVIEW 8.6\vi.lib\Platform\system.llb\Beep.vi".
+612590:15bc     - The VI expected to be at "\\Atlas\Shared\Cal-Test\LC103\Source\lv8\103f_cal.llb\Beep.vi" was loaded from "C:\Program Files\National Instruments\LabVIEW 8.6\vi.lib\Platform\system.llb\Beep.vi".
+612595:17f4     - The VI expected to be at "\\Atlas\Shared\Cal-Test\LC103\Source\lv8\103f_cal.llb\Beep.vi" was loaded from "C:\Program Files\National Instruments\LabVIEW 8.6\vi.lib\Platform\system.llb\Beep.vi".
+612597:190b     - The VI expected to be at "\\Atlas\Shared\Cal-Test\LC103\Source\lv8\103f_cal.llb\Beep.vi" was loaded from "C:\Program Files\National Instruments\LabVIEW 8.6\vi.lib\Platform\system.llb\Beep.vi".
+638097:1ee86a SystemTimeToFileTime

@@ -1,0 +1,1 @@
+527432:3b5353 *Reads a specified number of lines from a byte stream file beginning at a specified character offset. The VI opens the file beforehand and closes it afterwards.

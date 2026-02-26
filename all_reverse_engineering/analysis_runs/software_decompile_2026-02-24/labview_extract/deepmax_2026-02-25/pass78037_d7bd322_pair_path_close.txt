@@ -1,0 +1,3 @@
+46801:15d038   newpath lf top moveto rt top lineto rt btm lineto lf btm lineto closepath
+46819:15d337 /arcPath {false arcguts lineto closepath} bdf
+46820:15d365 /arcnPath {true arcguts lineto closepath} bdf

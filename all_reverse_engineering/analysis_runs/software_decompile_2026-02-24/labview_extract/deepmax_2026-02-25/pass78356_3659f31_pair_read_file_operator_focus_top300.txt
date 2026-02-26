@@ -1,0 +1,34 @@
+101388:4af7d2 Reads a string of characters from a byte stream file at the specified location; the default location is at the current mark. The VI does incoming and internal error checking and does not read if an incoming error occurs.
+111777:565068 yustart of read offset is the position in the file, measured in characters (or bytes), at which the VI begins reading.
+112344:56c1ac *Reads a specified number of lines from a byte stream file beginning at a specified character offset. The VI opens the file beforehand and closes it afterwards.
+112347:56c4a9 start of read offset is the position in the file, measured in characters (or bytes), at which the VI begins reading.
+112644:56db5f @ start of read offset (chars.:0 ),2@'new file path (Not A Path if cancelled)
+259785:227882 Reads a string of characters from a byte stream file at the specified location; the default location is at the current mark. The VI does incoming and internal error checking and does not read if an incoming error occurs.
+259959:229360 Reads a string of characters from a byte stream file at the specified location; the default location is at the current mark. The VI does incoming and internal error checking and does not read if an incoming error occurs.
+270306:2df7bc yustart of read offset is the position in the file, measured in characters (or bytes), at which the VI begins reading.
+270873:2e6900 *Reads a specified number of lines from a byte stream file beginning at a specified character offset. The VI opens the file beforehand and closes it afterwards.
+270876:2e6bfd start of read offset is the position in the file, measured in characters (or bytes), at which the VI begins reading.
+271173:2e82b3 @ start of read offset (chars.:0 ),2@'new file path (Not A Path if cancelled)
+271320:2e9103 *Reads a specified number of lines from a byte stream file beginning at a specified character offset. The VI opens the file beforehand and closes it afterwards.
+271323:2e9400 start of read offset is the position in the file, measured in characters (or bytes), at which the VI begins reading.
+366630:130572 *Reads a specified number of lines from a byte stream file beginning at a specified character offset. The VI opens the file beforehand and closes it afterwards.
+366633:13086f start of read offset is the position in the file, measured in characters (or bytes), at which the VI begins reading.
+366639:130b9d yustart of read offset is the position in the file, measured in characters (or bytes), at which the VI begins reading.
+372335:192b26 Reads a string of characters from a byte stream file at the specified location; the default location is at the current mark. The VI does incoming and internal error checking and does not read if an incoming error occurs.
+372362:193862 =9EOF? is true if you try to read past the end of the file.40code is the error code; the default value is 0.
+404043:3a4f48 Reads a string of characters from a byte stream file at the specified location; the default location is at the current mark. The VI does incoming and internal error checking and does not read if an incoming error occurs.
+404095:3a6707 *Reads a specified number of lines from a byte stream file beginning at a specified character offset. The VI opens the file beforehand and closes it afterwards.
+404098:3a6a04 start of read offset is the position in the file, measured in characters (or bytes), at which the VI begins reading.
+496229:149a0e *Reads a specified number of lines from a byte stream file beginning at a specified character offset. The VI opens the file beforehand and closes it afterwards.
+496232:149d0b start of read offset is the position in the file, measured in characters (or bytes), at which the VI begins reading.
+496402:14bbae ustart of read offset is the position in the file, measured in characters (or bytes), at which the VI begins reading.
+504744:1f31e7 Reads a string of characters from a byte stream file at the specified location; the default location is at the current mark. The VI does incoming and internal error checking and does not read if an incoming error occurs.
+527380:3b3b94 Reads a string of characters from a byte stream file at the specified location; the default location is at the current mark. The VI does incoming and internal error checking and does not read if an incoming error occurs.
+527432:3b5353 *Reads a specified number of lines from a byte stream file beginning at a specified character offset. The VI opens the file beforehand and closes it afterwards.
+527435:3b5650 start of read offset is the position in the file, measured in characters (or bytes), at which the VI begins reading.
+596779:f4df4 Reads a string of characters from a byte stream file at the specified location; the default location is at the current mark. The VI does incoming and internal error checking and does not read if an incoming error occurs.
+596831:f65b3 *Reads a specified number of lines from a byte stream file beginning at a specified character offset. The VI opens the file beforehand and closes it afterwards.
+596834:f68b0 start of read offset is the position in the file, measured in characters (or bytes), at which the VI begins reading.
+607652:1a9938 Reads a string of characters from a byte stream file at the specified location; the default location is at the current mark. The VI does incoming and internal error checking and does not read if an incoming error occurs.
+610293:1d4dcb *Reads a specified number of lines from a byte stream file beginning at a specified character offset. The VI opens the file beforehand and closes it afterwards.
+610296:1d50c8 start of read offset is the position in the file, measured in characters (or bytes), at which the VI begins reading.

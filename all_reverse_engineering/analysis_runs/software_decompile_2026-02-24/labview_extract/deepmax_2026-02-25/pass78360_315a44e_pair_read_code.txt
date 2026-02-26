@@ -1,0 +1,5 @@
+69560:2c2349 Voltage Readinggencode.cGenDispatchEntry
+240147:1057f9 Voltage Readinggencode.cGenDispatchEntry
+306797:d2952 Voltage Readinggencode.cGenDispatchEntry
+339047:d134d Voltage Readinggencode.cGenDispatchEntry
+372362:193862 =9EOF? is true if you try to read past the end of the file.40code is the error code; the default value is 0.

@@ -1,0 +1,6 @@
+The operation couldn’t be completed. Unable to locate a Java Runtime.
+Please visit http://www.java.com for information on installing Java.
+
+
+ERROR: Unable to prompt user for JDK path, no TTY detected.
+Please refer to the Getting Started document's Troubleshooting section.

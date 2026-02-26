@@ -1,0 +1,1 @@
+101588:4b7300 error code is a numeric error code. If error in indicates an error, the VI ignores error code. If not, the VI tests it. A non-zero value signifies an error.

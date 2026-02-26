@@ -1,0 +1,21 @@
+101588:4b7300 error code is a numeric error code. If error in indicates an error, the VI ignores error code. If not, the VI tests it. A non-zero value signifies an error.
+101596:4b763a error source is an optional string you can use to describe the source of error code. The VI uses the string in message if there is an error.
+260021:22fed8 error code is a numeric error code. If error in indicates an error, the VI ignores error code. If not, the VI tests it. A non-zero value signifies an error.
+260029:230212 error source is an optional string you can use to describe the source of error code. The VI uses the string in message if there is an error.
+314009:14daf5 error code is a numeric error code. If error in indicates an error, the VI ignores error code. If not, the VI tests it. A non-zero value signifies an error.
+314017:14de2f error source is an optional string you can use to describe the source of error code. The VI uses the string in message if there is an error.
+340492:ed0d8 error code is a numeric error code. If error in indicates an error, the VI ignores error code. If not, the VI tests it. A non-zero value signifies an error.
+340500:ed412 error source is an optional string you can use to describe the source of error code. The VI uses the string in message if there is an error.
+371458:1838c8 error code is a numeric error code. If error in indicates an error, the VI ignores error code. If not, the VI tests it. A non-zero value signifies an error.
+371463:183bca error source is an optional string you can use to describe the source of error code. The VI uses the string in message if there is an error.
+410620:416981 Communications Error.dd:\automated\lv51\lvsource\gencode.cGenRangeCheck
+434159:f74eb error code is a numeric error code. If error in indicates an error, the VI ignores error code. If not, the VI tests it. A non-zero value signifies an error.
+434164:f77ed error source is an optional string you can use to describe the source of error code. The VI uses the string in message if there is an error.
+470138:106a6c error code is a numeric error code. If error in indicates an error, the VI ignores error code. If not, the VI tests it. A non-zero value signifies an error.
+470143:106d6e error source is an optional string you can use to describe the source of error code. The VI uses the string in message if there is an error.
+504207:1e9d40 error source is an optional string you can use to describe the source of error code. The VI uses the string in message if there is an error.
+504209:1e9e3d error code is a numeric error code. If error in indicates an error, the VI ignores error code. If not, the VI tests it. A non-zero value signifies an error.
+546534:f63fb error code is a numeric error code. If error in indicates an error, the VI ignores error code. If not, the VI tests it. A non-zero value signifies an error.
+546539:f66fd error source is an optional string you can use to describe the source of error code. The VI uses the string in message if there is an error.
+579626:16dc03 error source is an optional string you can use to describe the source of error code. The VI uses the string in message if there is an error.
+579628:16dd00 error code is a numeric error code. If error in indicates an error, the VI ignores error code. If not, the VI tests it. A non-zero value signifies an error.

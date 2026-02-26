@@ -1,0 +1,2 @@
+48220:165c84 This is the minimum amount of disk space to run LabVIEW.  LabVIEW will abort the launch if less than this amount of disk space
+52435:1bcb0f The VI %p has changed on disk since last saved or loaded by LabVIEW.  If you load its %p, it will probably be inconsistent with the parts of the VI already in memory, resulting in a corrupt VI.

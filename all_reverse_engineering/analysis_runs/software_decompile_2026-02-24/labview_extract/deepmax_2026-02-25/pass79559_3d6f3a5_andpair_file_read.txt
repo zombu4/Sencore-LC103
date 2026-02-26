@@ -1,0 +1,488 @@
+46712:15cb30 {currentfile pictstr readhexstring pop} imagemask
+46714:15cb74 {currentfile pictstr readhexstring pop} imagemask
+46717:15cbc4 {currentfile pictstr readhexstring pop} 
+51087:18c950 File already open
+51999:1b89cd File is already open. Generic file I/O error occurred.
+52429:1bc885 Can't create VI library."File already exists in VI library.
+52430:1bc8c1 Can't find file in VI library. Can't get palette menu resource."Palette position already occupied.
+52748:1c11a9 Read File+ (string).vi
+52774:1c1431 Read Lines From File.vi
+52985:1cad24 creates a new file. Error 8 occurs if the file already exists.
+53078:1cc861 File Already Open
+53122:1ccb8c File Already Open
+53166:1cceb7 File Already Open
+53210:1cd1e2 File Already Open
+53254:1cd505 File Already Open
+54005:1dbc09 3 (create) creates a new file.  Error 8 occurs if the file already exists.
+54065:1dcffe 8attempt to create file fails because file already existsM
+99553:4929e5 File Already Open
+99597:492d10 File Already Open
+100992:4a9ea4 mark after read is the location of the file mark after the read; it points to the character in the file following the last character read.
+101004:4aa0e5 relative to current mark+'string is the data read from the file.
+101007:4aa304 yes=9EOF? is true if you try to read past the end of the file.2
+101087:4ab93a File Already Open
+101388:4af7d2 Reads a string of characters from a byte stream file at the specified location; the default location is at the current mark.  The VI does incoming and internal error checking and does not read if an incoming error occurs.
+101400:4afe9f character string is the data read from the file.
+101401:4afed1 mark after read is the location of the file mark after the read; it points to the character in the file following the last character read.
+101424:4b0251 Read File+ (string).vi
+101436:4b0536 Read File+ (string): Read FileND
+101445:4b0703 Read File+ (string).vi
+101448:4b0747 Read File+ (string).vi
+101452:4b07c6 Read File+ (string).vi
+101453:4b07e2 Read File+ (string): Read File
+101496:4b0bac Read File+ (string).vi
+101544:4b110b Read File+ (string).vi
+101545:4b1122 Read File+ (string).vi
+101546:4b1139 Read File+ (string).vi
+101547:4b1150 Read File+ (string).vi
+101548:4b1167 Read File+ (string).vi
+101549:4b117e Read File+ (string).vi
+101550:4b1195 Read File+ (string).vi
+101551:4b11ac Read File+ (string).vi
+101552:4b11c3 Read File+ (string).vi
+101553:4b11da Read File+ (string).vi
+101554:4b11f1 Read File+ (string).vi
+101555:4b1208 Read File+ (string).vi
+101556:4b121f Read File+ (string).vi
+101557:4b1236 Read File+ (string).vi
+101558:4b124d Read File+ (string).vi
+101559:4b1264 Read File+ (string).vi
+101560:4b127b Read File+ (string).vi
+101561:4b1292 Read File+ (string).vi
+102468:4cda4a GPIB EARG:  Invalid argument or arguments.bLabVIEW:  File already open.
+111777:565068 yustart of read offset is the position in the file, measured in characters (or bytes), at which the VI begins reading.
+111779:5651bb mark after read is the location of the file mark after the read; it points to the character in the file following the last character read.
+111786:5654df new file path is the path of the file from which the VI read data. You can use this output to determine the path of a file that you open using dialog. new file path returns Not A Path if the user selects Cancel from the dialog box.
+111787:5655c7 0,line string is the data read from the file.
+111788:5655f5 B>EOF? is TRUE if you attempt to read past the end of the file.
+112344:56c1ac *Reads a specified number of lines from a byte stream file beginning at a specified character offset.  The VI opens the file beforehand and closes it afterwards.
+112347:56c4a9 start of read offset is the position in the file, measured in characters (or bytes), at which the VI begins reading.
+112349:56c5f9 new file path is the path of the file from which the VI read data.  You can use this output to determine the path of a file that you open using dialog.  new file path returns Not A Path if the user selects Cancel from the dialog box.
+112350:56c6e4 line string is the data read from the file.
+112351:56c711 mark after read is the location of the file mark after the read; it points to the character in the file following the last character read.
+112352:56c79d EOF? is TRUE if you attempt to read past the end of file.
+112373:56c975 Read Lines From File.viosee
+112376:56ca8b Choose file to read.RD
+112383:56cbe9 Read File+ (string).viR
+112386:56cc4c Read File+ (string).via
+112391:56cebb read entire fileb
+112402:56d0c0 Read Lines From File.vi
+112405:56d10d Read Lines From File.vi
+112410:56d150 Read File+ (string).vi
+112613:56d774 Read Lines From File.vi
+112615:56d792 Read File+ (string).vi
+112628:56d81d Choose file to read.
+112644:56db5f @ start of read offset (chars.:0 ),2@'new file path (Not A Path if cancelled)
+112657:56ddae Read Lines From File.vi
+112690:56e082 Read File+ (string).vi
+112709:56e1d3 Read File+ (string).vi
+112773:56e7f6 Read Lines From File.vi
+112774:56e80e Read Lines From File.vi
+112775:56e826 Read Lines From File.vi
+112776:56e83e Read Lines From File.vi
+112777:56e856 Read Lines From File.vi
+112778:56e86e Read Lines From File.vi
+112779:56e886 Read Lines From File.vi
+112780:56e89e Read Lines From File.vi
+112781:56e8b6 Read Lines From File.vi
+112782:56e8ce Read Lines From File.vi
+112783:56e8e6 Read Lines From File.vi
+112784:56e8fe Read Lines From File.vi
+112785:56e916 Read Lines From File.vi
+112786:56e92e Read Lines From File.vi
+112787:56e946 Read Lines From File.vi
+112788:56e95e Read Lines From File.vi
+112789:56e976 Read Lines From File.vi
+112790:56e98e Read Lines From File.vi
+113111:57ab4c Read Lines From File.viH
+113130:57b05e Read Lines From File.vi
+113148:57b15f Read Lines From File.vi
+113188:57b834 Read Lines From File.vi
+113197:57b94e Read Lines From File.vi
+114277:5945ba Read Lines From File.viMD
+114371:595333 Read Lines From File.vi
+114422:59553d Read Lines From File.vi
+114509:595d7a Read Lines From File.vi
+114518:595e94 Read Lines From File.vi
+115872:5b53d6 Read Lines From File.viV
+115978:5b6305 Read Lines From File.vi
+116032:5b655d Read Lines From File.vi
+116112:5b6d3d Read Lines From File.vi
+116121:5b6e57 Read Lines From File.vi
+120233:5ed5ae Read File+ (string).vi
+120246:5ed68a Read Lines From File.vi
+223242:9950 creates a new file. Error 8 occurs if the file already exists.
+223335:b48d File Already Open
+223379:b7b8 File Already Open
+223423:bae3 File Already Open
+223467:be0e File Already Open
+223511:c131 File Already Open
+224262:1a835 3 (create) creates a new file.  Error 8 occurs if the file already exists.
+224322:1bc2a 8attempt to create file fails because file already existsM
+224498:1d541 3 (create) creates a new file.  Error 8 occurs if the file already exists.
+257883:209311 File Already Open
+257927:20963c File Already Open
+259376:2202bf Read File+ (string).vi
+259389:221f54 mark after read is the location of the file mark after the read; it points to the character in the file following the last character read.
+259401:222195 relative to current mark+'string is the data read from the file.
+259404:2223b4 yes=9EOF? is true if you try to read past the end of the file.2
+259484:2239ea File Already Open
+259785:227882 Reads a string of characters from a byte stream file at the specified location; the default location is at the current mark.  The VI does incoming and internal error checking and does not read if an incoming error occurs.
+259797:227f4f character string is the data read from the file.
+259798:227f81 mark after read is the location of the file mark after the read; it points to the character in the file following the last character read.
+259821:228301 Read File+ (string).vi
+259833:2285e6 Read File+ (string): Read FileND
+259842:2287b3 Read File+ (string).vi
+259845:2287f7 Read File+ (string).vi
+259849:228876 Read File+ (string).vi
+259850:228892 Read File+ (string): Read File
+259893:228c5c Read File+ (string).vi
+259941:2291bb Read File+ (string).vi
+259942:2291d2 Read File+ (string).vi
+259943:2291e9 Read File+ (string).vi
+259944:229200 Read File+ (string).vi
+259945:229217 Read File+ (string).vi
+259946:22922e Read File+ (string).vi
+259947:229245 Read File+ (string).vi
+259948:22925c Read File+ (string).vi
+259949:229273 Read File+ (string).vi
+259950:22928a Read File+ (string).vi
+259951:2292a1 Read File+ (string).vi
+259952:2292b8 Read File+ (string).vi
+259953:2292cf Read File+ (string).vi
+259954:2292e6 Read File+ (string).vi
+259955:2292fd Read File+ (string).vi
+259956:229314 Read File+ (string).vi
+259957:22932b Read File+ (string).vi
+259958:229342 Read File+ (string).vi
+259959:229360 Reads a string of characters from a byte stream file at the specified location; the default location is at the current mark.  The VI does incoming and internal error checking and does not read if an incoming error occurs.
+259971:229a2d character string is the data read from the file.
+259972:229a5f mark after read is the location of the file mark after the read; it points to the character in the file following the last character read.
+260901:246622 GPIB EARG:  Invalid argument or arguments.bLabVIEW:  File already open.
+270297:2dd1c7 Read Lines From File.vi
+270306:2df7bc yustart of read offset is the position in the file, measured in characters (or bytes), at which the VI begins reading.
+270308:2df90f mark after read is the location of the file mark after the read; it points to the character in the file following the last character read.
+270315:2dfc33 new file path is the path of the file from which the VI read data. You can use this output to determine the path of a file that you open using dialog. new file path returns Not A Path if the user selects Cancel from the dialog box.
+270316:2dfd1b 0,line string is the data read from the file.
+270317:2dfd49 B>EOF? is TRUE if you attempt to read past the end of the file.
+270873:2e6900 *Reads a specified number of lines from a byte stream file beginning at a specified character offset.  The VI opens the file beforehand and closes it afterwards.
+270876:2e6bfd start of read offset is the position in the file, measured in characters (or bytes), at which the VI begins reading.
+270878:2e6d4d new file path is the path of the file from which the VI read data.  You can use this output to determine the path of a file that you open using dialog.  new file path returns Not A Path if the user selects Cancel from the dialog box.
+270879:2e6e38 line string is the data read from the file.
+270880:2e6e65 mark after read is the location of the file mark after the read; it points to the character in the file following the last character read.
+270881:2e6ef1 EOF? is TRUE if you attempt to read past the end of file.
+270902:2e70c9 Read Lines From File.viosee
+270905:2e71df Choose file to read.RD
+270912:2e733d Read File+ (string).viR
+270915:2e73a0 Read File+ (string).via
+270920:2e760f read entire fileb
+270931:2e7814 Read Lines From File.vi
+270934:2e7861 Read Lines From File.vi
+270939:2e78a4 Read File+ (string).vi
+271142:2e7ec8 Read Lines From File.vi
+271144:2e7ee6 Read File+ (string).vi
+271157:2e7f71 Choose file to read.
+271173:2e82b3 @ start of read offset (chars.:0 ),2@'new file path (Not A Path if cancelled)
+271186:2e8502 Read Lines From File.vi
+271219:2e87d6 Read File+ (string).vi
+271238:2e8927 Read File+ (string).vi
+271302:2e8f4a Read Lines From File.vi
+271303:2e8f62 Read Lines From File.vi
+271304:2e8f7a Read Lines From File.vi
+271305:2e8f92 Read Lines From File.vi
+271306:2e8faa Read Lines From File.vi
+271307:2e8fc2 Read Lines From File.vi
+271308:2e8fda Read Lines From File.vi
+271309:2e8ff2 Read Lines From File.vi
+271310:2e900a Read Lines From File.vi
+271311:2e9022 Read Lines From File.vi
+271312:2e903a Read Lines From File.vi
+271313:2e9052 Read Lines From File.vi
+271314:2e906a Read Lines From File.vi
+271315:2e9082 Read Lines From File.vi
+271316:2e909a Read Lines From File.vi
+271317:2e90b2 Read Lines From File.vi
+271318:2e90ca Read Lines From File.vi
+271319:2e90e2 Read Lines From File.vi
+271320:2e9103 *Reads a specified number of lines from a byte stream file beginning at a specified character offset.  The VI opens the file beforehand and closes it afterwards.
+271323:2e9400 start of read offset is the position in the file, measured in characters (or bytes), at which the VI begins reading.
+271325:2e9550 new file path is the path of the file from which the VI read data.  You can use this output to determine the path of a file that you open using dialog.  new file path returns Not A Path if the user selects Cancel from the dialog box.
+271326:2e963b line string is the data read from the file.
+271327:2e9668 mark after read is the location of the file mark after the read; it points to the character in the file following the last character read.
+271328:2e96f4 EOF? is TRUE if you attempt to read past the end of file.
+271654:2f59cc Read Lines From File.viH
+271673:2f5ede Read Lines From File.vi
+271691:2f5fdf Read Lines From File.vi
+271731:2f66b4 Read Lines From File.vi
+271740:2f67ce Read Lines From File.vi
+272824:30f526 Read Lines From File.viMD
+272918:31029f Read Lines From File.vi
+272969:3104a9 Read Lines From File.vi
+273056:310ce6 Read Lines From File.vi
+273065:310e00 Read Lines From File.vi
+274423:33042e Read Lines From File.viV
+274529:33135d Read Lines From File.vi
+274583:3315b5 Read Lines From File.vi
+274663:331d95 Read Lines From File.vi
+274672:331eaf Read Lines From File.vi
+291627:443555 Read File+ (string).vi
+291653:4437dd Read Lines From File.vi
+292041:4478ef Read File+ (string).vi
+292042:447906 Read File+ (string).vi
+292043:44791d Read File+ (string).vi
+292044:447934 Read File+ (string).vi
+292045:44794b Read File+ (string).vi
+292106:447d3b Read Lines From File.vi
+292107:447d53 Read Lines From File.vi
+292108:447d6b Read Lines From File.vi
+292109:447d83 Read Lines From File.vi
+292110:447d9b Read Lines From File.vi
+314909:1641f3 GPIB EARG:  Invalid argument or arguments.bLabVIEW:  File already open.
+341386:1037c3 GPIB EARG:  Invalid argument or arguments.bLabVIEW:  File already open.
+360298:bd43f Read File+ (string).vi
+360311:bd57f Read Lines From File.vi
+361968:e15db Read Lines From File.vi
+361977:e1702 Read Lines From File.vi
+363013:ed0fa Read Lines From File.vi
+363226:eea09 Read Lines From File.viV
+363342:f0283 Read Lines From File.vi
+363830:10378e Read Lines From File.vi
+363839:1038b5 Read Lines From File.vi
+364724:10d56e Read Lines From File.vi
+364936:10ed1c Read Lines From File.viMD
+365037:1103b6 Read Lines From File.vi
+365466:11dc39 Read Lines From File.vi
+365475:11dd60 Read Lines From File.vi
+365919:122f12 Read Lines From File.vi
+365998:123ac4 Read Lines From File.viH
+366025:124449 Read Lines From File.vi
+366219:12c3fe Read Lines From File.viosee
+366224:12c4e6 Read Lines From File.vi
+366249:12c6dd Read File+ (string).vi
+366268:12c835 Read File+ (string).vi
+366600:130058 Choose file to read.
+366607:130373 Read Lines From File.vi
+366609:130391 Read File+ (string).vi
+366630:130572 *Reads a specified number of lines from a byte stream file beginning at a specified character offset.  The VI opens the file beforehand and closes it afterwards.
+366633:13086f start of read offset is the position in the file, measured in characters (or bytes), at which the VI begins reading.
+366635:1309bf new file path is the path of the file from which the VI read data.  You can use this output to determine the path of a file that you open using dialog.  new file path returns Not A Path if the user selects Cancel from the dialog box.
+366636:130aaa line string is the data read from the file.
+366637:130ad7 mark after read is the location of the file mark after the read; it points to the character in the file following the last character read.
+366638:130b63 EOF? is TRUE if you attempt to read past the end of file.
+366639:130b9d yustart of read offset is the position in the file, measured in characters (or bytes), at which the VI begins reading.
+366641:130cf0 mark after read is the location of the file mark after the read; it points to the character in the file following the last character read.
+366644:130fe4 new file path is the path of the file from which the VI read data. You can use this output to determine the path of a file that you open using dialog. new file path returns Not A Path if the user selects Cancel from the dialog box.
+366645:1310cc 0,line string is the data read from the file.
+366646:1310fa B>EOF? is TRUE if you attempt to read past the end of the file.
+366974:13252a Choose file to read.RD
+366981:13267d Read File+ (string).viR
+366985:1326f5 Read File+ (string).via
+366990:13295f read entire fileb
+367004:132a89 Read Lines From File.vi
+367007:133344 Read Lines From File.vi
+367012:133387 Read File+ (string).vi
+367269:13640e Read Lines From File.vi
+371339:180044 GPIB EARG:  Invalid argument or arguments.bLabVIEW:  File already open.
+372006:18f52e Read File+ (string).vi
+372008:18f5b6 Read File+ (string).vi
+372307:1927d3 Read File+ (string): Read File
+372314:192990 Read File+ (string).vi
+372335:192b26 Reads a string of characters from a byte stream file at the specified location; the default location is at the current mark.  The VI does incoming and internal error checking and does not read if an incoming error occurs.
+372347:1931f3 character string is the data read from the file.
+372348:193225 mark after read is the location of the file mark after the read; it points to the character in the file following the last character read.
+372352:193498 mark after read is the location of the file mark after the read; it points to the character in the file following the last character read.
+372355:193592 +'string is the data read from the file.
+372362:193862 =9EOF? is true if you try to read past the end of the file.40code is the error code; the default value is 0.
+372424:1943fc Read File+ (string): Read FileND
+372453:19466e File Already Open
+372502:194a0d Read File+ (string).vi
+372519:1958e5 Read File+ (string).vi
+372679:19762f Read File+ (string).vi
+374153:1af3e0 File Already Open
+374197:1af70b File Already Open
+394245:30c775 3 (create) creates a new file.  Error 8 occurs if the file already exists.
+404043:3a4f48 Reads a string of characters from a byte stream file at the specified location; the default location is at the current mark.  The VI does incoming and internal error checking and does not read if an incoming error occurs.
+404055:3a5615 character string is the data read from the file.
+404056:3a5647 mark after read is the location of the file mark after the read; it points to the character in the file following the last character read.
+404095:3a6707 *Reads a specified number of lines from a byte stream file beginning at a specified character offset.  The VI opens the file beforehand and closes it afterwards.
+404098:3a6a04 start of read offset is the position in the file, measured in characters (or bytes), at which the VI begins reading.
+404100:3a6b54 new file path is the path of the file from which the VI read data.  You can use this output to determine the path of a file that you open using dialog.  new file path returns Not A Path if the user selects Cancel from the dialog box.
+404101:3a6c3f line string is the data read from the file.
+404102:3a6c6c mark after read is the location of the file mark after the read; it points to the character in the file following the last character read.
+404103:3a6cf8 EOF? is TRUE if you attempt to read past the end of file.
+406181:3cba45 3 (create) creates a new file.  Error 8 occurs if the file already exists.
+406203:3cc843 creates a new file. Error 8 occurs if the file already exists.
+406334:3ce364 8attempt to create file fails because file already existsM
+406363:3ce55b File Already Open
+406407:3ce886 File Already Open
+406451:3cebb1 File Already Open
+406495:3ceedc File Already Open
+406539:3cf1ff File Already Open
+416894:47f2bd Read File+ (string).vi
+416920:47f545 Read Lines From File.vi
+417121:4828bb Read File+ (string).vi
+417134:482997 Read Lines From File.vi
+417339:4835e9 Read File+ (string).vi
+417340:483600 Read File+ (string).vi
+417341:483617 Read File+ (string).vi
+417342:48362e Read File+ (string).vi
+417370:483866 Read Lines From File.vi
+417371:48387e Read Lines From File.vi
+417372:483896 Read Lines From File.vi
+417373:4838ae Read Lines From File.vi
+434040:f3c67 GPIB EARG:  Invalid argument or arguments.bLabVIEW:  File already open.
+470019:1031e8 GPIB EARG:  Invalid argument or arguments.bLabVIEW:  File already open.
+489514:bd43f Read File+ (string).vi
+489527:bd57f Read Lines From File.vi
+493010:108fd2 Read Lines From File.vi
+493019:1090f9 Read Lines From File.vi
+493369:10b427 Read Lines From File.vi
+493798:111d60 Read Lines From File.viV
+493891:1135bf Read Lines From File.vi
+494339:125990 Read Lines From File.vi
+494348:125ab7 Read Lines From File.vi
+494656:127905 Read Lines From File.vi
+495049:12d482 Read Lines From File.viHD
+495131:12eb2b Read Lines From File.vi
+495503:13b792 Read Lines From File.vi
+495512:13b8b9 Read Lines From File.vi
+495595:13c5d5 Read Lines From File.vi
+495755:13f62e Read Lines From File.viH
+495777:13fe61 Read Lines From File.vi
+496021:14766b Read Lines From File.vi
+496046:147862 Read File+ (string).vi
+496065:1479ba Read File+ (string).vi
+496167:1484c2 Choose file to read.
+496170:14880d Read Lines From File.vi
+496172:14882b Read File+ (string).vi
+496229:149a0e *Reads a specified number of lines from a byte stream file beginning at a specified character offset.  The VI opens the file beforehand and closes it afterwards.
+496232:149d0b start of read offset is the position in the file, measured in characters (or bytes), at which the VI begins reading.
+496234:149e5b new file path is the path of the file from which the VI read data.  You can use this output to determine the path of a file that you open using dialog.  new file path returns Not A Path if the user selects Cancel from the dialog box.
+496235:149f46 line string is the data read from the file.
+496236:149f73 mark after read is the location of the file mark after the read; it points to the character in the file following the last character read.
+496237:149fff EOF? is TRUE if you attempt to read past the end of file.
+496376:14afd5 Read File+ (string).viR
+496380:14b04d Read File+ (string).via
+496384:14b125 read entire fileb
+496398:14b24f Read Lines From File.vi
+496401:14bb01 ,line string is the data read from the file.
+496402:14bbae ustart of read offset is the position in the file, measured in characters (or bytes), at which the VI begins reading.
+496403:14bc40 new file path is the path of the file from which the VI read data. You can use this output to determine the path of a file that you open using dialog. new file path returns Not A Path if the user selects Cancel from the dialog box.
+496404:14be1a >EOF? is TRUE if you attempt to read past the end of the file.
+496406:14bf74 mark after read is the location of the file mark after the read; it points to the character in the file following the last character read.
+496409:14c19c Read Lines From File.vi
+496414:14c1df Read File+ (string).vi
+496698:14f171 Read Lines From File.vi
+503849:1e0fe5 GPIB EARG:  Invalid argument or arguments.bLabVIEW:  File already open.
+504616:1f1be9 Read File+ (string).vi
+504688:1f2487 Read File+ (string): Read File
+504690:1f2626 Read File+ (string).vi
+504744:1f31e7 Reads a string of characters from a byte stream file at the specified location; the default location is at the current mark.  The VI does incoming and internal error checking and does not read if an incoming error occurs.
+504756:1f38b4 character string is the data read from the file.
+504757:1f38e6 mark after read is the location of the file mark after the read; it points to the character in the file following the last character read.
+504842:1f4493 File Already Open
+504891:1f4832 Read File+ (string).vi
+504910:1f5a98 'string is the data read from the file.
+504916:1f5ca3 mark after read is the location of the file mark after the read; it points to the character in the file following the last character read.
+504919:1f5da7 9EOF? is true if you try to read past the end of the file.
+504923:1f5fc0 Read File+ (string).vi
+505070:1f7bef Read File+ (string).vi
+505982:209180 File Already Open
+506026:2094ab File Already Open
+520837:33c06d 3 (create) creates a new file.  Error 8 occurs if the file already exists.
+527380:3b3b94 Reads a string of characters from a byte stream file at the specified location; the default location is at the current mark.  The VI does incoming and internal error checking and does not read if an incoming error occurs.
+527392:3b4261 character string is the data read from the file.
+527393:3b4293 mark after read is the location of the file mark after the read; it points to the character in the file following the last character read.
+527432:3b5353 *Reads a specified number of lines from a byte stream file beginning at a specified character offset.  The VI opens the file beforehand and closes it afterwards.
+527435:3b5650 start of read offset is the position in the file, measured in characters (or bytes), at which the VI begins reading.
+527437:3b57a0 new file path is the path of the file from which the VI read data.  You can use this output to determine the path of a file that you open using dialog.  new file path returns Not A Path if the user selects Cancel from the dialog box.
+527438:3b588b line string is the data read from the file.
+527439:3b58b8 mark after read is the location of the file mark after the read; it points to the character in the file following the last character read.
+527440:3b5944 EOF? is TRUE if you attempt to read past the end of file.
+528195:3c81ac 3 (create) creates a new file.  Error 8 occurs if the file already exists.
+528311:3c9f92 8attempt to create file fails because file already existsH
+528340:3ca18d File Already Open
+528384:3ca4b8 File Already Open
+528428:3ca7e3 File Already Open
+528472:3cab0e File Already Open
+528516:3cae31 File Already Open
+528607:3ccb3f creates a new file. Error 8 occurs if the file already exists.
+529321:3d92a9 Read File+ (string).vi
+529347:3d9531 Read Lines From File.vi
+529583:3de9f7 Read File+ (string).vi
+529596:3dead3 Read Lines From File.vi
+529804:3df746 Read File+ (string).vi
+529805:3df75d Read File+ (string).vi
+529806:3df774 Read File+ (string).vi
+529807:3df78b Read File+ (string).vi
+529850:3dfa71 Read Lines From File.vi
+529851:3dfa89 Read Lines From File.vi
+529852:3dfaa1 Read Lines From File.vi
+529853:3dfab9 Read Lines From File.vi
+546415:f2b77 GPIB EARG:  Invalid argument or arguments.bLabVIEW:  File already open.
+579268:164ea9 GPIB EARG:  Invalid argument or arguments.bLabVIEW:  File already open.
+595371:d53e5 3 (create) creates a new file.  Error 8 occurs if the file already exists.
+595860:e23c8 3 (create) creates a new file.  Error 8 occurs if the file already exists.
+595976:e41ae 8attempt to create file fails because file already existsH
+596005:e43a9 File Already Open
+596049:e46d4 File Already Open
+596093:e49ff File Already Open
+596137:e4d2a File Already Open
+596181:e504d File Already Open
+596272:e6d5b creates a new file. Error 8 occurs if the file already exists.
+596779:f4df4 Reads a string of characters from a byte stream file at the specified location; the default location is at the current mark.  The VI does incoming and internal error checking and does not read if an incoming error occurs.
+596791:f54c1 character string is the data read from the file.
+596792:f54f3 mark after read is the location of the file mark after the read; it points to the character in the file following the last character read.
+596831:f65b3 *Reads a specified number of lines from a byte stream file beginning at a specified character offset.  The VI opens the file beforehand and closes it afterwards.
+596834:f68b0 start of read offset is the position in the file, measured in characters (or bytes), at which the VI begins reading.
+596836:f6a00 new file path is the path of the file from which the VI read data.  You can use this output to determine the path of a file that you open using dialog.  new file path returns Not A Path if the user selects Cancel from the dialog box.
+596837:f6aeb line string is the data read from the file.
+596838:f6b18 mark after read is the location of the file mark after the read; it points to the character in the file following the last character read.
+596839:f6ba4 EOF? is TRUE if you attempt to read past the end of file.
+597009:f841d Read File+ (string).vi
+597035:f86a5 Read Lines From File.vi
+607612:1a8b7b Read File+ (string).vi
+607623:1a8f53 Read File+ (string).vi
+607652:1a9938 Reads a string of characters from a byte stream file at the specified location; the default location is at the current mark.  The VI does incoming and internal error checking and does not read if an incoming error occurs.
+607664:1aa005 character string is the data read from the file.
+607665:1aa037 mark after read is the location of the file mark after the read; it points to the character in the file following the last character read.
+607668:1aa287 Read File+ (string).vi
+607713:1aafa7 Read File+ (string).vi
+607834:1ac865 Read File+ (string).vi
+610222:1d3b43 Read Lines From File.vi
+610227:1d3bc1 Read File+ (string).vi
+610229:1d3be6 Read File+ (string).vi
+610250:1d4103 Read Lines From File.vi
+610252:1d412d Read File+ (string).vi
+610293:1d4dcb *Reads a specified number of lines from a byte stream file beginning at a specified character offset.  The VI opens the file beforehand and closes it afterwards.
+610296:1d50c8 start of read offset is the position in the file, measured in characters (or bytes), at which the VI begins reading.
+610298:1d5218 new file path is the path of the file from which the VI read data.  You can use this output to determine the path of a file that you open using dialog.  new file path returns Not A Path if the user selects Cancel from the dialog box.
+610299:1d5303 line string is the data read from the file.
+610300:1d5330 mark after read is the location of the file mark after the read; it points to the character in the file following the last character read.
+610301:1d53bc EOF? is TRUE if you attempt to read past the end of file.
+610303:1d548f Read Lines From File.vi
+610330:1d5e2b Read Lines From File.vi
+610337:1d5ed5 Read File+ (string).vi
+610339:1d5efa Read File+ (string).vi
+610475:1d7ca1 Read Lines From File.vi
+610487:1d7e89 Read Lines From File.viPTH0
+610488:1d7eae Read Lines From File.vi
+610502:1d84ad Read Lines From File.viPTH0
+610581:1da435 Read Lines From File.viPTH0
+610582:1da45a Read Lines From File.vi
+610731:1dcbf1 Read Lines From File.viPTH0
+610732:1dcc16 Read Lines From File.vi
+610792:1dda75 Read Lines From File.viPTH0
+610975:1e0fe9 Read Lines From File.viPTH0
+610976:1e100e Read Lines From File.vi
+611204:1e4aad Read Lines From File.viPTH0
+611205:1e4ad2 Read Lines From File.vi
+611275:1e5aed Read Lines From File.viPTH0
+611499:1e9799 Read Lines From File.viPTH0
+611500:1e97be Read Lines From File.vi
+612418:1f710f Read File+ (string).vi
+612419:1f7126 Read File+ (string).vi
+612420:1f713d Read File+ (string).vi
+612475:1f74bc Read Lines From File.vi
+612476:1f74d4 Read Lines From File.vi
+612477:1f74ec Read Lines From File.vi

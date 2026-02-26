@@ -1,0 +1,15 @@
+57231:212a20  status[15]- GPIB error detectedA=data string contains count data bytes from the GPIB device. 
+68888:2b8dad 1-(bool) status: TRUE if an error has occurred.[W(string) source:  an indication of where an error occurred, usually the name of the VI."
+227622:53a78  status[15]- GPIB error detectedA=data string contains count data bytes from the GPIB device. 
+239463:fbfcd 1-(bool) status: TRUE if an error has occurred.[W(string) source:  an indication of where an error occurred, usually the name of the VI."
+294105:20e09  status[15]- GPIB error detectedA=data string contains count data bytes from the GPIB device. 
+306102:c9156 1-(bool) status: TRUE if an error has occurred.[W(string) source:  an indication of where an error occurred, usually the name of the VI."
+326272:20101  status[15]- GPIB error detectedA=data string contains count data bytes from the GPIB device. 
+338379:c8473 1-(bool) status: TRUE if an error has occurred.[W(string) source:  an indication of where an error occurred, usually the name of the VI."
+349067:1ed38  status[15]- GPIB error detectedA=data string contains count data bytes from the GPIB device. 
+419734:1ec7d  status[15]- GPIB error detectedA=data string contains count data bytes from the GPIB device. 
+454571:1d54d  status[15]- GPIB error detectedA=data string contains count data bytes from the GPIB device. 
+478283:1ed38  status[15]- GPIB error detectedA=data string contains count data bytes from the GPIB device. 
+532202:1ec7d  status[15]- GPIB error detectedA=data string contains count data bytes from the GPIB device. 
+562487:1d54d  status[15]- GPIB error detectedA=data string contains count data bytes from the GPIB device. 
+583006:1ecb0  status[15]- GPIB error detectedA=data string contains count data bytes from the GPIB device. 

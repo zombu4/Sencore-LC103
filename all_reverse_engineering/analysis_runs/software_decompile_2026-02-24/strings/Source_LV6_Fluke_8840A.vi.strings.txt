@@ -1,0 +1,604 @@
+RSRC
+LVINLBVW
+Fluke 8840A.vi
+AZo$
+LVIN
+Fluke 8840A.vi
+i386
+code
+SQRVW
+EdQRh
+ZY_^ZY[]
+SQRVW
+E\QRh
+ZY_^ZY[]
+SQRVWP
+_^ZY[
+d$=
+d$h
+d$h
+d$h
+d$=
+d$f
+d$=
+$VSQWR
+ZYQR
+ZYQRh
+QRUh
+ZYQR
+ZYQRh
+QRUh
+d$=
+d$=
+d$=
+_^ZY[]
+SQRVW
+_^ZY[]
+SQRVW
+_^ZY[]
+SQRVW
+T$ QRP
+_^ZY[]
+SQRVWf
+_^ZY[]
+SQRVW
+_^ZY[]
+SQRVW
+_^ZY[]
+SQRVWP
+_^ZY[]
+SQRVW
+t$(=
+d$ZY
+_^ZY[]
+SQRVW
+D$ =
+d$ZY_^ZY[]
+SQRVW
+D$ =
+d$ZY_^ZY[]
+SQRVW
+D$ =
+d$ZY_^ZY[]
+7QRh
+7QRh
+7QRh
+SQRVW
+D$ =
+d$ZY_^ZY[]
+SQRVW
+L$ Qh
+d$=
+L$ Qh
+d$=
+L$ Qh
+d$=
+L$ Qh
+d$=
+L$ Qh
+d$=
+L$ Qh
+d$=
+L$ Qh
+d$=
+L$ Qh
+d$_^ZY[]
+SQRVW
+PTAB
+QELM
+QELM
+d$ZYf
+_^ZY[]
+SQRVWh
+_^ZY[]
+_^ZY[]
+Instr
+instr handle in
+function (Vdc:0)
+range (auto:0)
+status
+code
+source
+error in (no error)
+trigger mode (cont:0)
+Instr
+instr handle in
+measurement
+status
+code
+source
+error out
+trigger mode (cont:0)
+function (Vdc:0)
+range (auto:0)
+measurement
+Instr
+instr handle in
+Instr
+Instr
+Instr
+Instr
+Instr
+instr handle in
+Instr
+Instr
+Instr
+Instr
+status
+code
+source
+error out
+status
+code
+source
+error in (no error)
+measurement
+status
+code
+source
+error out
+Instr
+instr handle in
+offset past number
+use system decimal point (T)
+read buffer
+status
+code
+source
+error in (no error)
+return count
+Instr
+instr handle in
+byte count (0)
+return count
+trigger mode (cont:0)
+range (auto:0)
+function (Vdc:0)
+d:\automated\lv51\lvsource\gencode.c
+GenRangeCheck
+d:\automated\lv51\lvsource\gencode.c
+GenCopyProcs1
+d:\automated\lv51\lvsource\gencode.c
+GenCopyProcs2
+d:\automated\lv51\lvsource\gencode.c
+GenCopyProcs3
+d:\automated\lv51\lvsource\gencode.c
+GenDefaultProc
+VIDS
+Fluke 8840A.vi
+Oldest compatible LabVIEW.
+trigger mode (cont:0)
+measurement
+range (auto:0)
+function (Vdc:0)
+Instr
+instr handle in
+Instr
+instr handle in
+status
+code
+source
+error out
+status
+code
+source
+error in (no error)
+Measure volts, amps, or ohms.  Select one of 6 functions.  Select range or use auto range.  Select trigger mode.  Slow reading rate is used for accuracy.                                         version a.0
+Continuous Trigger - trig initiated at reading rate                                                                      Single Trigger - one reading only, initiated by ? External Trigger - single trigger initiated from rear  panel    
+Select measurement function.  
+(I32) 
+A unique reference to an instrument I/O session.  It identifies which device to communicate with and all configuration information to perform the I/O.  An instr handle is returned from the Instr Open VI or the Initialize VI of an instrument driver.
+-9.99990E9 is reported on overrange error.    
+Range selection has no effect in the mA DC and mA AC functions since all measurements in these functions are made in the 20000 mA range.             If the chosen range is not valid for selected function, the nearest valid range is selected.  
+(I32) 
+A unique reference to an instrument I/O session.  It identifies which device to communicate with and all configuration information to perform the I/O.  An instr handle is returned from the Instr Open VI or the Initialize VI of an instrument driver.
+(cluster) error out:  a cluster containing error information.  If error in indicated an error, error out contains the same error information.  Otherwise, it describes the error status of this VI.  Use the General Error Handler utility VI to check the error at the end of your diagram.  The error out cluster contains the following parameters: 
+     (bool) status: TRUE if an error has occurred.
+     (i32) code: the error code associated with an error.
+     A value of 0 means no error, a negative value is an
+     error, and a positive value is a warning.
+     (string) source:  an indication of where an 
+     error occurred, usually the name of the VI.
+The status boolean is either TRUE (X) for an error, or FALSE (checkmark) for no error or a warning.
+The pop-up option Explain Error (or Explain Warning) gives more information about the error displayed.
+The source string describes the origin of the error or warning.
+The pop-up option Explain Error (or Explain Warning) gives more information about the error displayed.
+The code input identifies the error or warning.
+The pop-up option Explain Error (or Explain Warning) gives more information about the error displayed.
+f(cluster) error in:  a cluster describing any error conditions prior to this VI's execution.  The default input of this cluster is no error.  If an error has already occurred, this VI does nothing.  The error in cluster contains the following parameters: 
+     (bool) status: TRUE if an error has occurred.
+     If status is TRUE, this VI does nothing.
+     (i32) code: the error code associated with an error.
+     A value of 0 means no error, a negative value is an
+     error, and a positive value is a warning.
+     (ABC) source:  an indication of where an 
+     error occurred, usually the name of the VI.
+The status boolean is either TRUE (X) for an error, or FALSE (checkmark) for no error or a warning.
+The pop-up option Explain Error (or Explain Warning) gives more information about the error displayed.
+The code input identifies the error or warning.
+The pop-up option Explain Error (or Explain Warning) gives more information about the error displayed.
+The source string describes the origin of the error or warning.
+The pop-up option Explain Error (or Explain Warning) gives more information about the error displayed.
+creading rates: S0 - slow,  S1 - medium,  S2 - fast SRQ mode: Assert SRQ on completion of a reading.
+3Range codes: R0 - R7 ( see front panel for details)
+4Trigger modes: T0 - T4 (see front panel for details)
+dFunction Codes: F1 - DC Volts, F2 - AC Volts, F3 - 2 wire k
+, F4 - 4 wire k
+, F5 - mA DC, F6 - mA AC
+DTHP
+trigger mode (cont:0)
+function (Vdc:0)
+range (auto:0)
+measurement
+code
+Instr
+instr handle in
+status
+status
+code
+source
+error out
+write buffer ("")
+status
+code
+source
+error in (no error)
+return count
+source
+byte count (0)
+read buffer
+use system decimal point (T)
+offset past number
+digital multimeter
+trigger mode (cont:0)
+function (Vdc:0)
+measurement
+range (auto:0)
+0.000000E+0
+$4sO
+ Copyright 1993 National Instruments Corporation.  ALL RIGHTS RESERVED.
+single trigger
+mA DC
+instr handle in
+Instr
+instr handle in
+Instr
+error out
+status
+"$rO
+code
+source
+error in (no error)
+status
+code
+source
+D$sO
+D$(sO
+D$DsO
+D$TsO
+/Build command string and 
+send it to multimeter
+slow read(S0)
++Read measurement and 
+convert it to numeric
+continuous trigger
+single trigger
+external trigger
+Volts DC
+Volts AC
+2-wire ohms
+4-wire ohms
+mA DC
+mA AC
+autorange
+200mV, 200 ohms
+2V, 2 kohms
+20V, 20 kohms
+200V, 200 kohms
+1000Vdc, 700 Vac, 2 Mohms
+20 Mohms
+LLLLLL
+ffff
+ff33
+33ff
+3333
+ffff
+ff33
+33ff
+3333
+ffff
+ff33
+33ff
+3333
+ffff
+ffff
+ffff
+ffffff
+ffff33
+ffff
+ff33
+ff33
+ff33
+ff33ff
+ff3333
+ff33
+33ff
+33ff
+33ff
+33ffff
+33ff33
+33ff
+3333
+3333
+3333
+3333ff
+333333
+3333
+ffff
+ff33
+33ff
+3333
+
+""""""
+))))))
+UUUUUU
+MMMMMM
+BBBBBB
+999999
+PPPP
+66666666666666
+66666666666666
+666666666
+66666666
+6666666
+6666666
+666666
+6666
+6666
+66666
+66666
+6666
+666666
+66666
+6666666
+66666666666666
+LLLLLL
+ffff
+ff33
+33ff
+3333
+ffff
+ff33
+33ff
+3333
+ffff
+ff33
+33ff
+3333
+ffff
+ffff
+ffff
+ffffff
+ffff33
+ffff
+ff33
+ff33
+ff33
+ff33ff
+ff3333
+ff33
+33ff
+33ff
+33ff
+33ffff
+33ff33
+33ff
+3333
+3333
+3333
+3333ff
+333333
+3333
+ffff
+ff33
+33ff
+3333
+
+""""""
+))))))
+UUUUUU
+MMMMMM
+BBBBBB
+999999
+PPPP
+66666666666666
+66666666666666
+6666
+6666
+6666
+6666
+66666
+66666
+6666
+6666
+6666
+6666
+66666666666666
+LLLLLL
+ffff
+ff33
+33ff
+3333
+ffff
+ff33
+33ff
+3333
+ffff
+ff33
+33ff
+3333
+ffff
+ffff
+ffff
+ffffff
+ffff33
+ffff
+ff33
+ff33
+ff33
+ff33ff
+ff3333
+ff33
+33ff
+33ff
+33ff
+33ffff
+33ff33
+33ff
+3333
+3333
+3333
+3333ff
+333333
+3333
+ffff
+ff33
+33ff
+3333
+
+""""""
+))))))
+UUUUUU
+MMMMMM
+BBBBBB
+999999
+PPPP
+66666666666666
+66666666666666
+666666666
+66666666
+6666666
+6666666
+666666
+6666
+6666
+66666
+66666
+6666
+666666
+66666
+6666666
+66666666666666
+LLLLLL
+ffff
+ff33
+33ff
+3333
+ffff
+ff33
+33ff
+3333
+ffff
+ff33
+33ff
+3333
+ffff
+ffff
+ffff
+ffffff
+ffff33
+ffff
+ff33
+ff33
+ff33
+ff33ff
+ff3333
+ff33
+33ff
+33ff
+33ff
+33ffff
+33ff33
+33ff
+3333
+3333
+3333
+3333ff
+333333
+3333
+ffff
+ff33
+33ff
+3333
+
+""""""
+))))))
+UUUUUU
+MMMMMM
+BBBBBB
+999999
+PPPP
+66666666666666
+66666666666666
+6666
+6666
+6666
+6666
+66666
+66666
+6666
+6666
+6666
+6666
+66666666666666
+FPHP
+Fluke 8840A.vi
+FPHP
+t(gO
+HDiO
+BDHP
+Fluke 8840A.vi
++T @
+BDHP
+MS Sans Serif
+MS Sans Serif
+MS Sans Serif
+RSRC
+LVINLBVW
+RSID
+TLVIN
+hBDPW
+|LIvi
+VICD
+CPTM
+DSTM
+DFDS
+LIds
+vers
+DLDR
+FPTD
+0CPMp
+DSTRG
+XICON
+icl4
+icl8
+DTHP
+TRec
+$CPST
+PICC
+\DSIM
+LIfp
+FPHP
+LIbd
+$BDHP
+8HIST
+LFTAB
+(OO
+0D'O
+@DX[O
+\DP1O
+blxNO
+d |:O
+s@dOO
+s`L O
+Fluke 8840A.vi

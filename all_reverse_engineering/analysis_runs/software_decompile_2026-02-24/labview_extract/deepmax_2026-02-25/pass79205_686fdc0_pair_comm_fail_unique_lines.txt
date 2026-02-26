@@ -1,0 +1,5 @@
+110561:550b76 Communication Error.0 Failed Calibration. Offset Adjustment too high.( Failed Calibration. Gain Adjustment>10%
+269078:2cb02e Communication Error.0 Failed Calibration. Offset Adjustment too high.( Failed Calibration. Gain Adjustment>10%
+323353:1efd38 dIf UUT Comm fails, send RS-232
+445408:1a7075 22dIf UUT Comm fails, send RS-232
+559801:1deaf0 22dIf UUT Comm fails, send RS-232

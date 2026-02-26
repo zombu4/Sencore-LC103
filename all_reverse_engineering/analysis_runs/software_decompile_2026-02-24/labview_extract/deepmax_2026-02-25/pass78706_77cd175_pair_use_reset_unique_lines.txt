@@ -1,0 +1,29 @@
+52513:1bdbd4 If a Boolean control has associated local variables, it may not use Latch mechanical action. The first local variable to read a Boolean control with Latch action would reset its value to the default.
+74196:30c12d do NOT use specific reset
+74197:30c147 Use Specific Reset
+74198:30c15a do NOT use specific reset
+74199:30c174 Use Specific Reset
+244480:14a405 do NOT use specific reset
+244481:14a41f Use Specific Reset
+244482:14a432 do NOT use specific reset
+244483:14a44c Use Specific Reset
+307287:dbbe0 do NOT use specific reset
+307288:dbbfa Use Specific Reset
+307289:dbc0d do NOT use specific reset
+307290:dbc27 Use Specific Reset
+398547:34c517 do NOT use specific reset
+398548:34c531 Use Specific Reset
+398549:34c544 do NOT use specific reset
+398550:34c55e Use Specific Reset
+442147:176eea do NOT use specific reset
+442148:176f04 Use Specific Reset
+442149:176f17 do NOT use specific reset
+442150:176f31 Use Specific Reset
+522839:35f07b do NOT use specific reset
+522840:35f095 Use Specific Reset
+522841:35f0a8 do NOT use specific reset
+522842:35f0c2 Use Specific Reset
+559028:1d243d do NOT use specific reset
+559029:1d2457 Use Specific Reset
+559030:1d246a do NOT use specific reset
+559031:1d2484 Use Specific Reset

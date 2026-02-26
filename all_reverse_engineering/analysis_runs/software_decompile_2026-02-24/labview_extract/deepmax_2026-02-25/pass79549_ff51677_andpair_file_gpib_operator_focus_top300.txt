@@ -1,0 +1,70 @@
+102363:4c4bc6 user-defined codes. The error handler has tables of error codes and descriptions for all LabVIEW I/O operations (file, GPIB, DAQ, etc.). You can augment the tables with the user-defined arrays. Codes from 5000 to 9999 are reserved for user assignments.
+102468:4cda4a GPIB EARG: Invalid argument or arguments.bLabVIEW: File already open.
+102469:4cda92 GPIB ESAC: Command requries GPIB Controller to be System Controller.FLabVIEW: Generic file I/O error.
+102470:4cdafa GPIB: EABO: I/O operation aborted.9LabVIEW: File not found.
+102471:4cdb39 GPIB ENEB: Non-existent board.ILabVIEW: File permission error.
+102476:4cdc93 GPIB EFSO: File system operation error.PLabVIEW: Resource file not found.
+102535:4d0216 user-defined codes. The error handler has tables of error codes and descriptions for all LabVIEW I/O operations (file, GPIB, DAQ, etc.). You can augment the tables with the user-defined arrays. Codes from 5000 to 9999 are reserved for user assignments.
+260796:23d79e user-defined codes. The error handler has tables of error codes and descriptions for all LabVIEW I/O operations (file, GPIB, DAQ, etc.). You can augment the tables with the user-defined arrays. Codes from 5000 to 9999 are reserved for user assignments.
+260901:246622 GPIB EARG: Invalid argument or arguments.bLabVIEW: File already open.
+260902:24666a GPIB ESAC: Command requries GPIB Controller to be System Controller.FLabVIEW: Generic file I/O error.
+260903:2466d2 GPIB: EABO: I/O operation aborted.9LabVIEW: File not found.
+260904:246711 GPIB ENEB: Non-existent board.ILabVIEW: File permission error.
+260909:24686b GPIB EFSO: File system operation error.PLabVIEW: Resource file not found.
+260968:248dee user-defined codes. The error handler has tables of error codes and descriptions for all LabVIEW I/O operations (file, GPIB, DAQ, etc.). You can augment the tables with the user-defined arrays. Codes from 5000 to 9999 are reserved for user assignments.
+314804:15b3ad user-defined codes. The error handler has tables of error codes and descriptions for all LabVIEW I/O operations (file, GPIB, DAQ, etc.). You can augment the tables with the user-defined arrays. Codes from 5000 to 9999 are reserved for user assignments.
+314909:1641f3 GPIB EARG: Invalid argument or arguments.bLabVIEW: File already open.
+314910:16423b GPIB ESAC: Command requries GPIB Controller to be System Controller.FLabVIEW: Generic file I/O error.
+314911:1642a3 GPIB: EABO: I/O operation aborted.9LabVIEW: File not found.
+314912:1642e2 GPIB ENEB: Non-existent board.ILabVIEW: File permission error.
+314917:16443c GPIB EFSO: File system operation error.PLabVIEW: Resource file not found.
+314976:1669bf user-defined codes. The error handler has tables of error codes and descriptions for all LabVIEW I/O operations (file, GPIB, DAQ, etc.). You can augment the tables with the user-defined arrays. Codes from 5000 to 9999 are reserved for user assignments.
+341280:fa97d user-defined codes. The error handler has tables of error codes and descriptions for all LabVIEW I/O operations (file, GPIB, DAQ, etc.). You can augment the tables with the user-defined arrays. Codes from 5000 to 9999 are reserved for user assignments.
+341386:1037c3 GPIB EARG: Invalid argument or arguments.bLabVIEW: File already open.
+341387:10380b GPIB ESAC: Command requries GPIB Controller to be System Controller.FLabVIEW: Generic file I/O error.
+341388:103873 GPIB: EABO: I/O operation aborted.9LabVIEW: File not found.
+341389:1038b2 GPIB ENEB: Non-existent board.ILabVIEW: File permission error.
+341394:103a0c GPIB EFSO: File system operation error.PLabVIEW: Resource file not found.
+341453:105f8f user-defined codes. The error handler has tables of error codes and descriptions for all LabVIEW I/O operations (file, GPIB, DAQ, etc.). You can augment the tables with the user-defined arrays. Codes from 5000 to 9999 are reserved for user assignments.
+371339:180044 GPIB EARG: Invalid argument or arguments.bLabVIEW: File already open.
+371340:18008c GPIB ESAC: Command requries GPIB Controller to be System Controller.FLabVIEW: Generic file I/O error.
+371341:1800f4 GPIB: EABO: I/O operation aborted.9LabVIEW: File not found.
+371342:180133 GPIB ENEB: Non-existent board.ILabVIEW: File permission error.
+371347:18028d GPIB EFSO: File system operation error.PLabVIEW: Resource file not found.
+371406:182816 user-defined codes. The error handler has tables of error codes and descriptions for all LabVIEW I/O operations (file, GPIB, DAQ, etc.). You can augment the tables with the user-defined arrays. Codes from 5000 to 9999 are reserved for user assignments.
+371548:185798 user-defined codes. The error handler has tables of error codes and descriptions for all LabVIEW I/O operations (file, GPIB, DAQ, etc.). You can augment the tables with the user-defined arrays. Codes from 5000 to 9999 are reserved for user assignments.
+434040:f3c67 GPIB EARG: Invalid argument or arguments.bLabVIEW: File already open.
+434041:f3caf GPIB ESAC: Command requries GPIB Controller to be System Controller.FLabVIEW: Generic file I/O error.
+434042:f3d17 GPIB: EABO: I/O operation aborted.9LabVIEW: File not found.
+434043:f3d56 GPIB ENEB: Non-existent board.ILabVIEW: File permission error.
+434048:f3eb0 GPIB EFSO: File system operation error.PLabVIEW: Resource file not found.
+434107:f6439 user-defined codes. The error handler has tables of error codes and descriptions for all LabVIEW I/O operations (file, GPIB, DAQ, etc.). You can augment the tables with the user-defined arrays. Codes from 5000 to 9999 are reserved for user assignments.
+434248:f93bb user-defined codes. The error handler has tables of error codes and descriptions for all LabVIEW I/O operations (file, GPIB, DAQ, etc.). You can augment the tables with the user-defined arrays. Codes from 5000 to 9999 are reserved for user assignments.
+470019:1031e8 GPIB EARG: Invalid argument or arguments.bLabVIEW: File already open.
+470020:103230 GPIB ESAC: Command requries GPIB Controller to be System Controller.FLabVIEW: Generic file I/O error.
+470021:103298 GPIB: EABO: I/O operation aborted.9LabVIEW: File not found.
+470022:1032d7 GPIB ENEB: Non-existent board.ILabVIEW: File permission error.
+470027:103431 GPIB EFSO: File system operation error.PLabVIEW: Resource file not found.
+470086:1059ba user-defined codes. The error handler has tables of error codes and descriptions for all LabVIEW I/O operations (file, GPIB, DAQ, etc.). You can augment the tables with the user-defined arrays. Codes from 5000 to 9999 are reserved for user assignments.
+470226:10893c user-defined codes. The error handler has tables of error codes and descriptions for all LabVIEW I/O operations (file, GPIB, DAQ, etc.). You can augment the tables with the user-defined arrays. Codes from 5000 to 9999 are reserved for user assignments.
+503849:1e0fe5 GPIB EARG: Invalid argument or arguments.bLabVIEW: File already open.
+503850:1e102d GPIB ESAC: Command requries GPIB Controller to be System Controller.FLabVIEW: Generic file I/O error.
+503851:1e1095 GPIB: EABO: I/O operation aborted.9LabVIEW: File not found.
+503852:1e10d4 GPIB ENEB: Non-existent board.ILabVIEW: File permission error.
+503857:1e122e GPIB EFSO: File system operation error.PLabVIEW: Resource file not found.
+503916:1e37b7 user-defined codes. The error handler has tables of error codes and descriptions for all LabVIEW I/O operations (file, GPIB, DAQ, etc.). You can augment the tables with the user-defined arrays. Codes from 5000 to 9999 are reserved for user assignments.
+504133:1e78db user-defined codes. The error handler has tables of error codes and descriptions for all LabVIEW I/O operations (file, GPIB, DAQ, etc.). You can augment the tables with the user-defined arrays. Codes from 5000 to 9999 are reserved for user assignments.
+546415:f2b77 GPIB EARG: Invalid argument or arguments.bLabVIEW: File already open.
+546416:f2bbf GPIB ESAC: Command requries GPIB Controller to be System Controller.FLabVIEW: Generic file I/O error.
+546417:f2c27 GPIB: EABO: I/O operation aborted.9LabVIEW: File not found.
+546418:f2c66 GPIB ENEB: Non-existent board.ILabVIEW: File permission error.
+546423:f2dc0 GPIB EFSO: File system operation error.PLabVIEW: Resource file not found.
+546482:f5349 user-defined codes. The error handler has tables of error codes and descriptions for all LabVIEW I/O operations (file, GPIB, DAQ, etc.). You can augment the tables with the user-defined arrays. Codes from 5000 to 9999 are reserved for user assignments.
+546623:f82cb user-defined codes. The error handler has tables of error codes and descriptions for all LabVIEW I/O operations (file, GPIB, DAQ, etc.). You can augment the tables with the user-defined arrays. Codes from 5000 to 9999 are reserved for user assignments.
+579268:164ea9 GPIB EARG: Invalid argument or arguments.bLabVIEW: File already open.
+579269:164ef1 GPIB ESAC: Command requries GPIB Controller to be System Controller.FLabVIEW: Generic file I/O error.
+579270:164f59 GPIB: EABO: I/O operation aborted.9LabVIEW: File not found.
+579271:164f98 GPIB ENEB: Non-existent board.ILabVIEW: File permission error.
+579276:1650f2 GPIB EFSO: File system operation error.PLabVIEW: Resource file not found.
+579335:16767b user-defined codes. The error handler has tables of error codes and descriptions for all LabVIEW I/O operations (file, GPIB, DAQ, etc.). You can augment the tables with the user-defined arrays. Codes from 5000 to 9999 are reserved for user assignments.
+579549:16b79f user-defined codes. The error handler has tables of error codes and descriptions for all LabVIEW I/O operations (file, GPIB, DAQ, etc.). You can augment the tables with the user-defined arrays. Codes from 5000 to 9999 are reserved for user assignments.

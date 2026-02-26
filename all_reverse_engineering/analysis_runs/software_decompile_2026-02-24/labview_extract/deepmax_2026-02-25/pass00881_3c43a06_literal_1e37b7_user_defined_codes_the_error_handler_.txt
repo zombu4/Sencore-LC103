@@ -1,0 +1,1 @@
+503916:1e37b7 user-defined codes.  The error handler has tables of error codes and descriptions for all LabVIEW I/O operations (file, GPIB, DAQ, etc.).  You can augment the tables with the user-defined arrays.  Codes from 5000 to 9999 are reserved for user assignments.

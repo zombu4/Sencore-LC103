@@ -1,0 +1,28 @@
+52983:1cac00 opens an existing file or creates a new file if one does not exist.
+54003:1dbabd 1 (open or create) opens an existing file or creates a new file if one does not exist.
+54031:1dc690 rif function is 2 (create or replace with prtoection) ask user's permission to overwrite by replacing existing file`
+102958:4d61cb Writes a character string to a new byte stream file or appends the string to an existing file.  The VI opens or creates the file beforehand and closes it afterwards.
+223240:982c opens an existing file or creates a new file if one does not exist.
+224260:1a6e9 1 (open or create) opens an existing file or creates a new file if one does not exist.
+224288:1b2bc rif function is 2 (create or replace with prtoection) ask user's permission to overwrite by replacing existing file`
+224496:1d3f5 1 (open or create) opens an existing file or creates a new file if one does not exist.
+261397:24f12b Writes a character string to a new byte stream file or appends the string to an existing file.  The VI opens or creates the file beforehand and closes it afterwards.
+261609:2507dc Writes a character string to a new byte stream file or appends the string to an existing file.  The VI opens or creates the file beforehand and closes it afterwards.
+370469:168abf Writes a character string to a new byte stream file or appends the string to an existing file.  The VI opens or creates the file beforehand and closes it afterwards.
+394243:30c629 1 (open or create) opens an existing file or creates a new file if one does not exist.
+404059:3a5a44 Writes a character string to a new byte stream file or appends the string to an existing file.  The VI opens or creates the file beforehand and closes it afterwards.
+406179:3cb8f9 1 (open or create) opens an existing file or creates a new file if one does not exist.
+406201:3cc71f opens an existing file or creates a new file if one does not exist.
+406296:3cd9bd ##rif function is 2 (create or replace with prtoection) ask user's permission to overwrite by replacing existing file`
+503359:1cf7ce Writes a character string to a new byte stream file or appends the string to an existing file.  The VI opens or creates the file beforehand and closes it afterwards.
+520835:33bf21 1 (open or create) opens an existing file or creates a new file if one does not exist.
+527396:3b4690 Writes a character string to a new byte stream file or appends the string to an existing file.  The VI opens or creates the file beforehand and closes it afterwards.
+528193:3c8060 1 (open or create) opens an existing file or creates a new file if one does not exist.
+528290:3c9657 ##rif function is 2 (create or replace with prtoection) ask user's permission to overwrite by replacing existing file`
+528605:3cca1b opens an existing file or creates a new file if one does not exist.
+595369:d5299 1 (open or create) opens an existing file or creates a new file if one does not exist.
+595858:e227c 1 (open or create) opens an existing file or creates a new file if one does not exist.
+595955:e3873 ##rif function is 2 (create or replace with prtoection) ask user's permission to overwrite by replacing existing file`
+596270:e6c37 opens an existing file or creates a new file if one does not exist.
+596795:f58f0 Writes a character string to a new byte stream file or appends the string to an existing file.  The VI opens or creates the file beforehand and closes it afterwards.
+608417:1b6db0 Writes a character string to a new byte stream file or appends the string to an existing file.  The VI opens or creates the file beforehand and closes it afterwards.

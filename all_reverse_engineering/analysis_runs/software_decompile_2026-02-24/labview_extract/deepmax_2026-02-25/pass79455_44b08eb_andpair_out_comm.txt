@@ -1,0 +1,103 @@
+74847:31761c lhOutput XON/XOFF. See the Common Serial Port VI Parameters section of this chapter for more information.
+77806:344275 This vi handles the RS-232 communications for a UUT. FC In and FC Out are used for flow control.
+80621:372c9e Comm Error Out 
+80622:372cb3 Comm Error Out
+80628:37364b Comm Error Out"
+80659:373d23 Comm Error Out4
+80661:373e5e Comm Error Out4
+80723:37533f Comm Error Out
+80739:37543e Comm Error Out
+80740:375450 Comm Error Out
+80744:3754a2 Comm Error Out
+80778:375869 Comm Error OutY
+80799:3759ec Comm Error Out
+80808:375d06 Comm Error Out
+80891:3781f8 Comm Error Out4
+80921:378bd0 Comm Error Out
+80928:378c72 Comm Error Out
+81112:37b23b Comm Error Outgencode.cGenDispatchEntry
+81149:37b747 Comm Error Out
+84286:3b1311 Comm Error Out
+84292:3b13b2 Comm Error Out
+84676:3b754b Comm Error Out
+84975:3b94ac Comm Error Out
+102529:4cf73c DDE:  Invalid command code.GDDE: Occurrence timeout; the transaction timed out before it completed.
+245157:155cd0 lhOutput XON/XOFF. See the Common Serial Port VI Parameters section of this chapter for more information.
+248186:183391 This vi handles the RS-232 communications for a UUT. FC In and FC Out are used for flow control.
+248365:184788 This vi handles the RS-232 communications for a UUT. FC In and FC Out are used for flow control.
+249663:19a3e3 Comm Error Out
+249688:19b91a Comm Error Out 
+249689:19b92f Comm Error Out
+249695:19c2c7 Comm Error Out"
+249726:19c99f Comm Error Out4
+249728:19cada Comm Error Out4
+249790:19dfbb Comm Error Out
+249806:19e0ba Comm Error Out
+249807:19e0cc Comm Error Out
+249811:19e11e Comm Error Out
+249845:19e4e5 Comm Error OutY
+249866:19e668 Comm Error Out
+249875:19e982 Comm Error Out
+249964:1a0f7c Comm Error Out4
+249994:1a1954 Comm Error Out
+250001:1a19f6 Comm Error Out
+250185:1a3fbf Comm Error Outgencode.cGenDispatchEntry
+250222:1a44cb Comm Error Out
+251761:1be21d Comm Error Out
+251767:1be2be Comm Error Out
+252151:1c4457 Comm Error Out
+252450:1c63b8 Comm Error Out
+260962:248314 DDE:  Invalid command code.GDDE: Occurrence timeout; the transaction timed out before it completed.
+310408:10c927 This vi handles the RS-232 communications for a UUT. FC In and FC Out are used for flow control.
+310586:10dd08 This vi handles the RS-232 communications for a UUT. FC In and FC Out are used for flow control.
+314970:165ee5 DDE:  Invalid command code.GDDE: Occurrence timeout; the transaction timed out before it completed.
+341447:1054b5 DDE:  Invalid command code.GDDE: Occurrence timeout; the transaction timed out before it completed.
+371400:181d36 DDE:  Invalid command code.GDDE: Occurrence timeout; the transaction timed out before it completed.
+387093:293b21 Comm Error Out
+387586:299ab6 Comm Error Out@!
+387771:29ac8d Comm Error Out
+387775:29accf Comm Error Out"
+390518:2d02e5 Comm Error Out
+390727:2d292e Comm Error Out
+390782:2d3084 Comm Error Out
+390794:2d3173 Comm Error Out
+391087:2d8470 Comm Error Out
+391095:2d85d2 Comm Error Out
+391098:2d86ab Comm Error Out
+391133:2d8a69 Comm Error Out
+391140:2d8d53 Comm Error Out
+391163:2d8fc5 Comm Error OutW
+392406:2ed5e3 Comm Error Out
+394601:312369 This vi handles the RS-232 communications for a UUT. FC In and FC Out are used for flow control.
+397617:33fbea lhOutput XON/XOFF. See the Common Serial Port VI Parameters section of this chapter for more information.
+404015:3a3bdc This vi handles the RS-232 communications for a UUT. FC In and FC Out are used for flow control.
+434101:f5959 DDE:  Invalid command code.GDDE: Occurrence timeout; the transaction timed out before it completed.
+438764:1456a2 This vi handles the RS-232 communications for a UUT. FC In and FC Out are used for flow control.
+442998:18560c This vi handles the RS-232 communications for a UUT. FC In and FC Out are used for flow control.
+470080:104eda DDE:  Invalid command code.GDDE: Occurrence timeout; the transaction timed out before it completed.
+503910:1e2cd7 DDE:  Invalid command code.GDDE: Occurrence timeout; the transaction timed out before it completed.
+514869:2c8da4 Comm Error Out
+514999:2c9ce6 Comm Error Out@!
+515244:2cd905 Comm Error Out
+515248:2cd947 Comm Error Out"
+517455:2fbe5a Comm Error Out
+517481:2fc1e0 Comm Error Out
+517554:2fd6b5 Comm Error Out
+517566:2fd7a4 Comm Error Out
+517702:300a5d Comm Error Out
+517709:300bd2 Comm Error Out
+517712:300cb7 Comm Error Out
+517759:301ab3 Comm Error Out
+517766:301d9d Comm Error Out
+517788:302010 Comm Error OutW
+519778:32e3c7 This vi handles the RS-232 communications for a UUT. FC In and FC Out are used for flow control.
+520082:331a0f Comm Error Out
+522318:356768 hOutput XON/XOFF. See the Common Serial Port VI Parameters section of this chapter for more information.
+527352:3b2828 This vi handles the RS-232 communications for a UUT. FC In and FC Out are used for flow control.
+546476:f4869 DDE:  Invalid command code.GDDE: Occurrence timeout; the transaction timed out before it completed.
+556371:1a40bc This vi handles the RS-232 communications for a UUT. FC In and FC Out are used for flow control.
+556717:1ab510 This vi handles the RS-232 communications for a UUT. FC In and FC Out are used for flow control.
+579329:166b9b DDE:  Invalid command code.GDDE: Occurrence timeout; the transaction timed out before it completed.
+596751:f3a88 This vi handles the RS-232 communications for a UUT. FC In and FC Out are used for flow control.
+597290:fb716 Comm Error Out
+601412:13eff8 This vi handles the RS-232 communications for a UUT. FC In and FC Out are used for flow control.

@@ -1,0 +1,213 @@
+82519:3958c9 Inductance Decade Box (L Terminal)
+82521:39591f Inductance Decade Box (H Terminal)W
+82528:395a2b Inductance Decade Box (L Terminal)
+82530:395a87 Inductance Decade Box (H Terminal)ND
+82600:396314 Inductance Decade Box (L Terminal)W
+82605:3963d7 Inductance Decade Box (H Terminal)
+82607:39642c Inductance Decade Box (L Terminal)
+82609:396486 Inductance Decade Box (H Terminal)W
+82614:396544 Inductance Decade Box (L Terminal)
+82616:39659e Inductance Decade Box (H Terminal)W
+82621:39665c Inductance Decade Box (L Terminal)
+82623:3966b6 Inductance Decade Box (H Terminal)W
+82672:3969ee Inductance Decade Box (H Terminal)=Short the UUT leads to the
+82673:396a2c Inductance Decade Box (L Terminal)
+82679:396af5 Inductance Decade Box (H Terminal)=Short the UUT leads to the
+82680:396b33 Inductance Decade Box (L Terminal)
+82682:396b75 Inductance Decade Box (L Terminal)BNow connect the red lead to the
+82683:396bb8 Inductance Decade Box (H Terminal)=Short the UUT leads to the
+82684:396bf6 Inductance Decade Box (L Terminal)BNow connect the red lead to the
+82685:396c39 Inductance Decade Box (H Terminal)=Short the UUT leads to the
+82686:396c77 Inductance Decade Box (L Terminal)BNow connect the red lead to the
+82687:396cba Inductance Decade Box (H Terminal)=Short the UUT leads to the
+82688:396cf8 Inductance Decade Box (L Terminal)BNow connect the red lead to the
+82689:396d3b Inductance Decade Box (H Terminal)3Short the UUT leads to the
+83541:3a4eb3 Capacitance Decade Box (Low Terminal).
+83543:3a4f0e Capacitance Decade Box (High Terminal).W
+83547:3a4fc6 Capacitance Decade Box (High Terminal).OD
+83551:3a506d Capacitance Decade Box (Low Terminal).OD
+83634:3a5732 Capacitance Decade Box (High Terminal).HConnect the black UUT lead to the
+83635:3a577c Capacitance Decade Box (Low Terminal).
+83638:3a57d8 Capacitance Decade Box (High Terminal).HConnect the black UUT lead to the
+83639:3a5822 Capacitance Decade Box (Low Terminal).
+99167:48c51b Now connect the red UUT to the H Terminal of the decade box and set the box to 0.022uF(.0219).
+99169:48c5b4 @@cShort the UUT leads to the Capacitance Decade box(LTerminal).
+99216:48cc6e HEY!! I said: "Connect the red UUT to the H Terminal of the decade box and set the box to 0.022uF(.0219)". Please do this now!
+99289:48d005 CLRPARcShort the UUT leads to the Capacitance Decade box(LTerminal).
+99296:48d0c3 Now connect the red UUT to the H Terminal of the decade box and set the box to 0.022uF(.0219).
+99298:48d149 HEY!! I said: "Connect the red UUT to the H Terminal of the decade box and set the box to 0.022uF(.0219)". Please do this now!
+250993:1b1b4b Capacitance Decade Box (Low Terminal).
+250995:1b1ba6 Capacitance Decade Box (High Terminal).W
+250999:1b1c5e Capacitance Decade Box (High Terminal).OD
+251003:1b1d05 Capacitance Decade Box (Low Terminal).OD
+251086:1b23ca Capacitance Decade Box (High Terminal).HConnect the black UUT lead to the
+251087:1b2414 Capacitance Decade Box (Low Terminal).
+251090:1b2470 Capacitance Decade Box (High Terminal).HConnect the black UUT lead to the
+251091:1b24ba Capacitance Decade Box (Low Terminal).
+277905:36ba9b Now connect the red UUT to the H Terminal of the decade box and set the box to 0.022uF(.0219).
+277907:36bb34 @@cShort the UUT leads to the Capacitance Decade box(LTerminal).
+277954:36c1ee HEY!! I said: "Connect the red UUT to the H Terminal of the decade box and set the box to 0.022uF(.0219)". Please do this now!
+278027:36c585 CLRPARcShort the UUT leads to the Capacitance Decade box(LTerminal).
+278034:36c643 Now connect the red UUT to the H Terminal of the decade box and set the box to 0.022uF(.0219).
+278036:36c6c9 HEY!! I said: "Connect the red UUT to the H Terminal of the decade box and set the box to 0.022uF(.0219)". Please do this now!
+290289:42edcd Inductance Decade Box (L Terminal)
+290291:42ee23 Inductance Decade Box (H Terminal)W
+290298:42ef2f Inductance Decade Box (L Terminal)
+290300:42ef8b Inductance Decade Box (H Terminal)ND
+290370:42f818 Inductance Decade Box (L Terminal)W
+290375:42f8db Inductance Decade Box (H Terminal)
+290377:42f930 Inductance Decade Box (L Terminal)
+290379:42f98a Inductance Decade Box (H Terminal)W
+290384:42fa48 Inductance Decade Box (L Terminal)
+290386:42faa2 Inductance Decade Box (H Terminal)W
+290391:42fb60 Inductance Decade Box (L Terminal)
+290393:42fbba Inductance Decade Box (H Terminal)W
+290442:42fef2 Inductance Decade Box (H Terminal)=Short the UUT leads to the
+290443:42ff30 Inductance Decade Box (L Terminal)
+290449:42fff9 Inductance Decade Box (H Terminal)=Short the UUT leads to the
+290450:430037 Inductance Decade Box (L Terminal)
+290452:430079 Inductance Decade Box (L Terminal)BNow connect the red lead to the
+290453:4300bc Inductance Decade Box (H Terminal)=Short the UUT leads to the
+290454:4300fa Inductance Decade Box (L Terminal)BNow connect the red lead to the
+290455:43013d Inductance Decade Box (H Terminal)=Short the UUT leads to the
+290456:43017b Inductance Decade Box (L Terminal)BNow connect the red lead to the
+290457:4301be Inductance Decade Box (H Terminal)=Short the UUT leads to the
+290458:4301fc Inductance Decade Box (L Terminal)BNow connect the red lead to the
+290459:43023f Inductance Decade Box (H Terminal)3Short the UUT leads to the
+291242:440e09 Inductance Decade Box (H Terminal)
+291244:440e60 Inductance Decade Box (L Terminal)W
+291248:440efd Inductance Decade Box (L Terminal)
+291250:440f59 Inductance Decade Box (H Terminal)W
+291254:440ff6 Inductance Decade Box (L Terminal)
+291256:441052 Inductance Decade Box (H Terminal)W
+291260:4410ef Inductance Decade Box (L Terminal)
+291262:44114b Inductance Decade Box (H Terminal)W
+291266:4411e8 Inductance Decade Box (L Terminal)
+291268:441244 Inductance Decade Box (H Terminal)W
+291350:441a4b Inductance Decade Box (H Terminal)=Short the UUT leads to the
+291351:441a89 Inductance Decade Box (L Terminal)
+291353:441acb Inductance Decade Box (L Terminal)BNow connect the red lead to the
+291354:441b0e Inductance Decade Box (H Terminal)=Short the UUT leads to the
+291355:441b4c Inductance Decade Box (L Terminal)BNow connect the red lead to the
+291356:441b8f Inductance Decade Box (H Terminal)=Short the UUT leads to the
+291357:441bcd Inductance Decade Box (L Terminal)BNow connect the red lead to the
+291358:441c10 Inductance Decade Box (H Terminal)=Short the UUT leads to the
+291359:441c4e Inductance Decade Box (L Terminal)BNow connect the red lead to the
+291360:441c91 Inductance Decade Box (H Terminal)3Short the UUT leads to the
+360906:ccf11 Inductance Decade Box (H Terminal)
+360908:ccf68 Inductance Decade Box (L Terminal)W
+360912:cd005 Inductance Decade Box (L Terminal)
+360914:cd061 Inductance Decade Box (H Terminal)W
+360918:cd0fe Inductance Decade Box (L Terminal)
+360920:cd15a Inductance Decade Box (H Terminal)W
+360924:cd1f7 Inductance Decade Box (L Terminal)
+360926:cd253 Inductance Decade Box (H Terminal)W
+360930:cd2f0 Inductance Decade Box (L Terminal)
+360932:cd34c Inductance Decade Box (H Terminal)W
+361014:cdb53 Inductance Decade Box (H Terminal)=Short the UUT leads to the
+361015:cdb91 Inductance Decade Box (L Terminal)
+361017:cdbd3 Inductance Decade Box (L Terminal)BNow connect the red lead to the
+361018:cdc16 Inductance Decade Box (H Terminal)=Short the UUT leads to the
+361019:cdc54 Inductance Decade Box (L Terminal)BNow connect the red lead to the
+361020:cdc97 Inductance Decade Box (H Terminal)=Short the UUT leads to the
+361021:cdcd5 Inductance Decade Box (L Terminal)BNow connect the red lead to the
+361022:cdd18 Inductance Decade Box (H Terminal)=Short the UUT leads to the
+361023:cdd56 Inductance Decade Box (L Terminal)BNow connect the red lead to the
+361024:cdd99 Inductance Decade Box (H Terminal)3Short the UUT leads to the
+375112:1bf03f Now connect the red UUT to the H Terminal of the decade box and set the box to 0.022uF(.0219).
+375113:1bf0a2 Press 'Enter' when ready.cShort the UUT leads to the Capacitance Decade box(LTerminal).
+375123:1bf1d9 HEY!! I said: "Connect the red UUT to the H Terminal of the decade box and set the box to 0.022uF(.0219)". Please do this now!
+375294:1c0544 Now connect the red UUT to the H Terminal of the decade box and set the box to 0.022uF(.0219).
+375296:1c05dd @@cShort the UUT leads to the Capacitance Decade box(LTerminal).
+375347:1c0cf9 HEY!! I said: "Connect the red UUT to the H Terminal of the decade box and set the box to 0.022uF(.0219)". Please do this now!
+388680:2ab5ec Capacitance Decade Box (Low Terminal).GNow connect the red lead to the
+388681:2ab633 Capacitance Decade Box (High Terminal).
+388683:2ab693 Capacitance Decade Box (High Terminal).HConnect the black UUT lead to the
+388684:2ab6dd Capacitance Decade Box (Low Terminal).?
+388800:2ac53b Capacitance Decade Box (Low Terminal).
+388802:2ac595 Capacitance Decade Box (High Terminal).W
+388807:2ac662 Capacitance Decade Box (High Terminal).OD
+388813:2ac71b Capacitance Decade Box (Low Terminal).OD
+389848:2c1834 Inductance Decade Box (L Terminal)BNow connect the red lead to the
+389849:2c1877 Inductance Decade Box (H Terminal)
+389851:2c18e5 Inductance Decade Box (L Terminal)BNow connect the red lead to the
+389852:2c1928 Inductance Decade Box (H Terminal)FMELDKCJBI@GAH
+389867:2c1b18 Inductance Decade Box (L Terminal)=Short the UUT leads to the
+389868:2c1b56 Inductance Decade Box (L Terminal)BNow connect the red lead to the
+389869:2c1b99 Inductance Decade Box (H Terminal)=Short the UUT leads to the
+389870:2c1bd7 Inductance Decade Box (L Terminal)BNow connect the red lead to the
+389871:2c1c1a Inductance Decade Box (H Terminal)BNow connect the red lead to the
+389872:2c1c5d Inductance Decade Box (H Terminal)=Short the UUT leads to the
+389873:2c1c9b Inductance Decade Box (L Terminal)BNow connect the red lead to the
+389874:2c1cde Inductance Decade Box (H Terminal)
+389986:2c2cfc Inductance Decade Box (L Terminal)
+389988:2c2d52 Inductance Decade Box (H Terminal)W
+389997:2c2e8d Inductance Decade Box (L Terminal)
+389999:2c2ee9 Inductance Decade Box (H Terminal)QE
+390075:2c3807 Inductance Decade Box (L Terminal)W
+390080:2c38ca Inductance Decade Box (H Terminal)
+390082:2c391f Inductance Decade Box (L Terminal)
+390084:2c3979 Inductance Decade Box (H Terminal)W
+390089:2c3a37 Inductance Decade Box (L Terminal)
+390091:2c3a91 Inductance Decade Box (H Terminal)W
+390096:2c3b4f Inductance Decade Box (L Terminal)
+390098:2c3ba9 Inductance Decade Box (H Terminal)W
+490116:cceb9 Inductance Decade Box (H Terminal)
+490118:ccf10 Inductance Decade Box (L Terminal)W
+490122:ccfad Inductance Decade Box (L Terminal)
+490124:cd009 Inductance Decade Box (H Terminal)W
+490128:cd0a6 Inductance Decade Box (L Terminal)
+490130:cd102 Inductance Decade Box (H Terminal)W
+490134:cd19f Inductance Decade Box (L Terminal)
+490136:cd1fb Inductance Decade Box (H Terminal)W
+490140:cd298 Inductance Decade Box (L Terminal)
+490142:cd2f4 Inductance Decade Box (H Terminal)W
+490224:cdafb Inductance Decade Box (H Terminal)=Short the UUT leads to the
+490225:cdb39 Inductance Decade Box (L Terminal)
+490227:cdb7b Inductance Decade Box (L Terminal)BNow connect the red lead to the
+490228:cdbbe Inductance Decade Box (H Terminal)=Short the UUT leads to the
+490229:cdbfc Inductance Decade Box (L Terminal)BNow connect the red lead to the
+490230:cdc3f Inductance Decade Box (H Terminal)=Short the UUT leads to the
+490231:cdc7d Inductance Decade Box (L Terminal)BNow connect the red lead to the
+490232:cdcc0 Inductance Decade Box (H Terminal)=Short the UUT leads to the
+490233:cdcfe Inductance Decade Box (L Terminal)BNow connect the red lead to the
+490234:cdd41 Inductance Decade Box (H Terminal)3Short the UUT leads to the
+506650:213b29 Now connect the red UUT to the H Terminal of the decade box and set the box to 0.022uF(.0219).
+506651:213b8c Press 'Enter' when ready.cShort the UUT leads to the Capacitance Decade box(LTerminal).
+506661:213cc3 HEY!! I said: "Connect the red UUT to the H Terminal of the decade box and set the box to 0.022uF(.0219)". Please do this now!
+515840:2d9289 Capacitance Decade Box (Low Terminal).GNow connect the red lead to the
+515841:2d92d0 Capacitance Decade Box (High Terminal).
+515843:2d9330 Capacitance Decade Box (High Terminal).HConnect the black UUT lead to the
+515844:2d937a Capacitance Decade Box (Low Terminal).?
+516544:2e8e7f Inductance Decade Box (L Terminal)BNow connect the red lead to the
+516545:2e8ec2 Inductance Decade Box (H Terminal)
+516547:2e8f30 Inductance Decade Box (L Terminal)BNow connect the red lead to the
+516548:2e8f73 Inductance Decade Box (H Terminal)FMELDKCJBI@GAH
+516563:2e9163 Inductance Decade Box (L Terminal)=Short the UUT leads to the
+516564:2e91a1 Inductance Decade Box (L Terminal)BNow connect the red lead to the
+516565:2e91e4 Inductance Decade Box (H Terminal)=Short the UUT leads to the
+516566:2e9222 Inductance Decade Box (L Terminal)BNow connect the red lead to the
+516567:2e9265 Inductance Decade Box (H Terminal)BNow connect the red lead to the
+516568:2e92a8 Inductance Decade Box (H Terminal)=Short the UUT leads to the
+516569:2e92e6 Inductance Decade Box (L Terminal)BNow connect the red lead to the
+516570:2e9329 Inductance Decade Box (H Terminal)
+594779:cc8c5 Inductance Decade Box (H Terminal)
+594781:cc91c Inductance Decade Box (L Terminal)W
+594785:cc9b9 Inductance Decade Box (L Terminal)
+594787:cca15 Inductance Decade Box (H Terminal)W
+594791:ccab2 Inductance Decade Box (L Terminal)
+594793:ccb0e Inductance Decade Box (H Terminal)W
+594797:ccbab Inductance Decade Box (L Terminal)
+594799:ccc07 Inductance Decade Box (H Terminal)W
+594803:ccca4 Inductance Decade Box (L Terminal)
+594805:ccd00 Inductance Decade Box (H Terminal)W
+594887:cd507 Inductance Decade Box (H Terminal)=Short the UUT leads to the
+594888:cd545 Inductance Decade Box (L Terminal)
+594890:cd587 Inductance Decade Box (L Terminal)BNow connect the red lead to the
+594891:cd5ca Inductance Decade Box (H Terminal)=Short the UUT leads to the
+594892:cd608 Inductance Decade Box (L Terminal)BNow connect the red lead to the
+594893:cd64b Inductance Decade Box (H Terminal)=Short the UUT leads to the
+594894:cd689 Inductance Decade Box (L Terminal)BNow connect the red lead to the
+594895:cd6cc Inductance Decade Box (H Terminal)=Short the UUT leads to the
+594896:cd70a Inductance Decade Box (L Terminal)BNow connect the red lead to the
+594897:cd74d Inductance Decade Box (H Terminal)3Short the UUT leads to the

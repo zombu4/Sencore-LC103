@@ -1,0 +1,548 @@
+!Open or Create File (function=%d)
+" Failed Calibration. Adjusted >10%
+"""Cause an error for abort to occur.U
+"""Wait a few mils for updated Abort?n
+$continue or stop message on an error
+$continue or stop message on an errorRD
+&data to be written to the serial portL
+'Last known LC103 Software Rev. is: VER
+'q,Make sure the red UUT lead is not connected.
+( Failed Calibration. Gain Adjustment>10%
+(the default value) displays a dialog box with a single OK button. After the user responds, the VI returns control to the main VI.
+)))Lowest Current Range
+)type of dialog (continue or stop message)
+)type of dialog (continue or stop message)QD
+*.calBPlease choose the file containing the inductance calibration data.
+*.calBPlease choose the file containing the inductance calibration data.PTH0
+*.calCPlease choose the file containing the capacitance calibration data.PTH0
+*Reads a specified number of lines from a byte stream file beginning at a specified character offset. The VI opens the file beforehand and closes it afterwards.
+- User abort occurred during I/O
+--------------LOAD SELECT--------------------------------------
+--.file is now open; proceed if function=0 (open)
+-1 = library initialization failed
+-I/O operation aborted
+-Serial Poll Byte Lost
+-Unrecognized commandEAbyte count refers to the number of bytes that pass over the GPIB.
+0 (open) opens an existing file. Error 7 occurs if the file cannot be found.
+0 = Abort if not DIR
+0 = Abort if not DOR
+0 = The specified information was returned
+0=1.1MOhm connected to UUT leads; Same as '9'.
+1 (open or create) opens an existing file or creates a new file if one does not exist.
+1 = Set END bit on the last byte of transfer
+1 = library already initialized
+1 Approx. Current
+10(low voltage)
+100(low voltage)
+100k (V/I leakage)
+100k (low voltage)
+10V Ref Calibration
+10k(low voltage)
+112create a new file if function=1-3 (open or create)
+1k(low voltage / gain)
+1refnum is the reference number of the open file.
+2 Cal Box Setup #
+3 (create) creates a new file. Error 8 occurs if the file already exists.
+333Short the UUT leads to the
+5Generalized DIO96 control.
+778file is now open; proceed if function=1 (open or create){D
+8attempt to create file fails because file already existsH
+9When you use the serial port VIs under Windows, the port number parameter can have the following values:
+:-Make sure the UUT leads are shorted together.
+;Instr Openi
+<TCP ncConnClosedErr: The connection was closed by the peer.6Interapplication Mgr amInitErr: Initialization error.
+<string read. The VI returns the bytes read in string read.
+===Short the UUT leads to the
+=Short the UUT leads to the
+@!Abort Button
+@!Abort Button*
+@!Start Button
+@!Start Button&@@
+@0@i0 Failed Calibration. Offset Adjustment too high.
+@Initializes the selected serial port to the specified settings.
+@return count
+@return count2P@
+ABORT?.viHD@
+ABORT?.viHDx
+Abort ButtonH
+Abort ButtonX
+Abort ButtonY
+Abort Button^
+All (Not Ringer)
+BBBNow connect the red lead to the
+Bytes At Serial Port.vi
+Bytes At Serial Port.viHD
+Bytes At Serial Port.vi_
+Bytes At Serial Port.vik
+CALON!Gain Calibration Failed
+CINStartLoad: loaderror= %d, error=%ldLV_DIG_PORT_READSetCINArraySize, elmtNum %ld out of range 0 <= elmtNum < %ldnon-array detected
+CPO,Make sure the red UUT lead is not connected.
+Calibrated First.QE
+Calibration Reset
+Calibration Stamp
+Calibration Successful!!
+Calibration Unstamp
+Can't Open Device
+Cap Cal Failed Range ?
+Capacitance Calibration
+Capacitance Decade Box (High Terminal).HConnect the black UUT lead to the
+Capacitance Decade Box (Low Terminal).GNow connect the red lead to the
+Capacitor Calibration
+Connect the '+' DVM lead to TP1006
+Connection In progress
+Connection aborted
+Connection closed+Initialize error (interapplication manager)
+Connection is already connected
+Connection is not connected
+Connection refused
+Connection timed out!Connection is already in progress
+Continue Button(
+Continue ButtonH
+Couldn't open the Software Rev. file. Please set the Software Rev. manually on the front panel. Place the flopply disk in the computer NOW.
+Current MUST be Calibrated FirstH
+Current Source Calibration
+Current Source CalibrationH
+Current Source CalibrationfConnect the UUT and/or DVM leads to
+Current Test
+Current Test*
+Current TestH
+Current file mark plus pos offset.
+Current file mark plus pos offset. This is the default value.
+D/A TestfConnect the UUT and/or DVM leads to
+D@Initializes the selected serial port to the specified settings.
+DAQ SCXIConfigErr: The specified SCXI configuration parameters are invalid, or the function cannot be executed with the current SCXI configuration.
+DDE DMLERR_DLL_NOT_INITIALIZED: The DDEML function was called without first calling the DdeInitialize function or an invalid instance identifier was pass to a DDEML function.
+DDERow 0: Default Calibration Factors
+DIO Port Config
+DIO Port Config.vi
+DIO Port Config.viQE
+DIO Port Config.vi\
+DIO Port Read
+DIO Port Read.vi
+DIO Port Read.vi(
+DIO Port Write
+DIO Port Write.vi
+DIO Port Write.vi`
+DIO_R-W.VIHD
+DSP FNC_ERR: The function ID specified does not correspond to a function that is part of the DSP Library currently running on the board.
+DSP GROUP_ERR. The function ID specified does not belong to any group that is part of the DSP Library currently running on the board.
+DVM Correction
+DVM Resistance
+DVM Resistance6
+DVM ResistanceH
+Data In Ready protocol violation
+Data Out Ready protocol violation
+Device Call Aborted
+ESR Calibration
+ESR Calibration Passed
+ESR Calibration22
+ESR CalibrationH
+Failed Calibration.
+File Already Open
+For most applications, you only need to connect wires to the controls and indicators displayed in bold.
+GNow connect the red lead to the
+GPIB EARG: Invalid argument or arguments.bLabVIEW: File already open.
+GPIB EFRM: Serial port framing error.
+GPIB EMOM: Out of memory (MacBus read or write).VLabVIEW: Device call aborted.
+GPIB EOFL: Serial port receive buffer overflow.
+GPIB EOIP: New I/O attempted with old I/O in progress.9LabVIEW: Too many files open.
+GPIB EORN: Serial port overrun error.
+GPIB EPAR: Serial port parity error.
+GPIB ESTB: Serial poll byte queue overflow.4LabVIEW: Image not found.
+GPIB SPTMO: Serial port timeout; bytes not received at serial port.
+GPIB: EABO: I/O operation aborted.9LabVIEW: File not found.
+GPIBOpen.viH
+Gain Calibration
+Gain CalibrationV
+GetDevInfoShort.viMD
+GetDevInfoShort.viND
+GetDevInfoShort.viQD
+GetDevInfoShort.vi`
+HConnect the black UUT lead to the
+HEY!! I said: "Connect the red UUT to the H Terminal of the decade box and set the box to 0.022uF(.0219)". Please do this now!
+HIGH Voltage side:
+IND-6FMELDKCJBI@GAHBNow connect the red lead to the
+IND3Short the UUT leads to the
+IND=Short the UUT leads to the
+Ind Cal Failed Range
+Inductance Calibration
+Inductance Decade Box (H Terminal)3Short the UUT leads to the
+Inductance Decade Box (H Terminal)=Short the UUT leads to the
+Inductance Decade Box (H Terminal)BNow connect the red lead to the
+Inductance Decade Box (L Terminal)=Short the UUT leads to the
+Inductance Decade Box (L Terminal)BNow connect the red lead to the
+Inductor Calibration
+Init. Serial PortW
+Initialize Cal BoxH
+Initialize Cal BoxHDDi3
+Initialize Serial Port
+Input alt HW Handshake. On the PC, this parameter corresponds to Data Terminal Ready (DTR) handshaking. On the SPARCstation, this parameter is ignored.
+Instr Open.viarison.vi
+Instr Open.vig
+LEADOPEN.viH
+LEADOPEN.viHD
+LEADOPEN.viHDHh3
+LEADOPEN.viW
+LEADSHRT.viH
+LEADSHRT.viHD
+LEADSHRT.viHD\
+LEADSHRT.viQE
+LEADSHRT.viW
+LEADSHRT.vid
+LEAK_VLT.VIH
+LEAK_VLT.VIS
+LEAK_VLT.VIU
+LEAK_VLT.VIV
+LEAK_VLT.VIW
+LOW Voltage side:
+LabVIEW: Device unit error.NLabVIEW: Can't open device.
+LabVIEW: Memory corrupt.&LabVIEW: Failed to make temporary DLL.
+LabVIEW: Print aborted.?LabVIEW: Bad print record.
+Lead Open Test/Caps
+Lead Zero Short Test
+Lead Zero Short Test/ESRKSomething seems to be wrong. Make sure the UUT leads are shorted together.?
+Lead Zero Short Test/Inductance
+Leak_CAL.VIH
+Leak_CAL.VIHD
+Leak_CAL.VIHDpr3
+Leak_CAL.VIU
+Leak_CAL.VIV
+Leak_CAL.VIW
+Leakage Calibration
+Leakage Current Test
+Leakage Current TestHDl
+Leakage Data
+Leakage Data @@
+Leakage DataH
+Leakage I Data
+Leakage I Data"
+Leakage I Data&@@
+Leakage I DataH
+Leakage Voltage Calibration
+Leakage Voltage CalibrationV
+Leakage Voltage CalibrationfConnect the UUT and/or DVM leads to
+Leakage Voltage Test
+Leakage Voltage TestH
+Leakage Voltage TestfConnect the UUT and/or DVM leads to
+Load Select"
+Load Select&
+Load Select2
+Load SelectL
+Load SelectP
+Load SelectPTH0
+Low Value Inductance Box3Short the UUT leads to the
+MThis verison of Serial Port Reset.vi is for the Windows 3 version of LabVIEW.
+Measure volts, amps, or ohms. Select one of 6 functions. Select range or use auto range. Select trigger mode. Slow reading rate is used for accuracy. version a.0
+Most applications need only connect wires to the controls and indicators displayed in bold. Connections to other controls and indicators are useful only if specifically needed.
+NFC-Switch the cal box to
+NNherror is other than file not found; set error flag TRUE, file path to NotAPath, and refnum to NotARefnummD
+Now connect the red UUT to the H Terminal of the decade box and set the box to 0.022uF(.0219).
+Open File+.vi
+Open File+.vi:EOF
+Open File+.vi:File Dialog
+Open File+.vi:Open File
+Open File+.viH
+Open File+.vie
+Open FilePTH0
+Open GPIB Driver.viv
+Open GPIB DriverPD
+Open Serial Driver.vi
+Open Serial DriverHDdP3
+Open Serial DriverRE
+Open Serial DriverY
+Open instrumentHD
+Open/Create/Replace File.vi
+Open/Create/Replace File.viZ
+Output alt HW Handshake. On the PC, this parameter corresponds to Data Set Ready (DSR) handshaking. On the SPARCstation, this parameter is ignored.
+P!Abort Button
+P!Start Button
+PAn invalid Software Rev. number was specified. Please fix this after cal fails.
+Pass/Fail Message
+Pass/Fail Message.
+Pass/Fail MessageH
+Pass/Fail MessageX
+Pass/Fail Message`
+Pass/Fail Messagex0
+Perform Inductance CalibrationV
+Port Select*
+Port Select.@
+Port Select:
+Port Select>
+Port SelectH
+Port Width for the Lab boards, SCXI-1200, DAQBox-1200, DIO-24, DIO-32F, DIO-96, and AT-MIO-16D ports 2, 3 and 4 should be at least 8.
+Press 'Enter' when finished.
+Press 'Enter' when ready.
+Press 'Enter' when ready.cShort the UUT leads to the Capacitance Decade box(LTerminal).
+Press F1 to change paths.Y
+Print Aborted
+QCloses the file on command or when in incoming error occurs and returns the file size at closure.
+QMThis verison of Serial Port Reset.vi is for the Windows 3 version of LabVIEW.
+QWrites the data in string to write to the serial port indicated in port number.
+Qbyte count is the number of bytes currently queued up in the serial port buffer.
+RIN>Adjust R1144 for the number
+RINBNow adjust R1005 for the number
+Range !Gain Calibration Failed
+Range +Current Source Calibration Passed
+Read Ready protocol violation during transfer
+Reads data from a device. The data read is stored in the buffer represented by read buffer. This operation returns when the transfer terminates.
+Reset Aborted.
+Return String
+Return String"@!
+Return String&
+Return String>
+Return String@
+Return String@!
+Return StringH
+Return Stringx0
+Return String|
+Return Terminator
+Return Terminator*
+Return Terminator6@P
+Return TerminatorH
+Return Terminatorp0
+Ringer Calibration
+Ringer CalibrationLConnect the UUT leads to the
+Row 1: Index of Cal Factor in UUT ^
+STARTCHK.viHD
+STARTCHK.viW
+Select measurement function. -
+Serial Number
+Serial Number"
+Serial Number$
+Serial NumberH
+Serial NumberL
+Serial NumberPTH0
+Serial NumberU
+Serial Numberb
+Serial Numberp0
+Serial Port Buffer Size.vi
+Serial Port Buffer Size.vi.
+Serial Port Init.vi
+Serial Port Init.vi]
+Serial Port Read.vi
+Serial Port Read.viHD
+Serial Port Read.via
+Serial Port Read.vic
+Serial Port Read.vir
+Serial Port Reset.vi
+Serial Port ResetSE
+Serial Port Write.vi
+Serial Port Write.viW
+Set Cal Date
+Set Calibration Date
+Set Min # samples
+Set Serial Number
+Set the Inductance
+Set the max. # of readings takenH
+Settling Time: Delay(mS) for relays to settle.
+Setup Relays for Leak. Vlt. Test`
+Small Ringer Cal Box set to
+Software Rev.
+Software Rev. Check
+Software Rev."
+Software Rev.>
+Software Rev.H
+Software Rev.PTH0
+Software Rev.\
+Software Rev.p0
+Software Rev.x0
+Some error codes returned by the serial port VIs are platform-specific. Please refer to your system documentation for a list of error codes.
+Sources Calibrated
+Sources Calibrated"
+Sources CalibratedH
+Start ButtonH
+Start Buttonb
+Start Cal Factor(0)
+Start Cal Factor(0)>
+Start Cal Factor(0)H
+Start Disable?
+Start Disable?.
+Start Disable?Z
+Status state (Passed/Failed, Ready/Not Ready)$ (U16)
+Switch in D/A StandardV
+Switching Transformers.
+TCP ncAlreadyConnectedErr: The connection is already established.
+TEST FAILED!H
+TEST FAILED!HD
+TEST FAILED!HD(
+TEST FAILED!HD0
+TEST FAILED!RE
+TEST FAILED!S
+TEST FAILED!W
+TEST PASSED!H
+TEST PASSED!S
+TEST PASSED!W
+TEST PASSED!X
+Test Failed!!Y
+Test Failed.
+Test Leads?&
+Test Leads?X
+Test Passed!!
+Test Passed!!?
+Test Passed!!H
+Tests Selected
+Tests SelectedH
+Tests SelectedPTH0
+This VI establishes a port configuration. You can use the task ID that this VI returns only in digital port VIs.
+This VI reads the port identified by task ID and returns the pattern read.
+This version of Set Serial Port Buffer Size.vi is to be used on the SPARC or Windows version of LabVIEW as a subVI to OpenSerialDriver and Serial Port Init.vi.
+This vi handles the RS-232 communications for a UUT. FC In and FC Out are used for flow control.
+Too Many Files Open
+Transfer aborted - Device not DIR
+Transfer aborted - Device not DOR
+Trigger Abort? Checkn
+UQWrites the data in string to write to the serial port indicated in port number.
+UUT Calibration Unstamp
+UUT Comm.vi+d/
+UUT Comm.viH
+UUT Comm.viHD
+UUT Comm.viK
+UUT Comm.viO
+UUT Comm.viQE
+UUT Comm.viRE
+UUT Comm.viS
+UUT Comm.viSE
+UUT Comm.viU
+UUT Comm.viV
+UUT Comm.viW
+UUT Comm.vi\
+UUT Comm.vio
+UUT Communications ViX
+UUT Validate Calibration
+UUT cannot be zeroed.
+UUT_BEEP.viW
+Uadvisory dialog? Set TRUE (default) if you want a dialog if the file does not exist.
+User abort occurred during I/O
+VER`Couldn't retrieve the proper Software Rev. number. Please set this manually on the front panel.
+VFor most applications, you only need to connect wires to the controls and indicators displayed in bold.
+Voltage Reading"
+Voltage ReadingH
+Wait for UUT to
+Warning: Choosing 'Calibration Reset'
+When you use the serial port VIs on a Sun SPARCstation, the port number parameter is 0 for /dev/ttya, 1 for /dev/ttyb, and so on.
+Write Ready protocol violation during transfer
+Writes a character string to a new byte stream file or appends the string to an existing file. The VI opens or creates the file beforehand and closes it afterwards.
+Yolks and Flybacks.
+You can optionally use the source messages string to pass on the source of the error. Enter one line of text for each element of the error codes array.
+ZFor most applications, you only need to connect wires to the controls and indicators displayed in bold.
+[[[report file not found if function=0 (open); set file path to empty and refnum to NotARefnumHDt
+\\\If the error in cluster has a status of ERROR, pass it through without test for local errorsSE
+\default name is the initial file name that appears in the selection box of the file dialog.
+aCompares 2 real numbers X and Y. If they are within about 0.1% of each other a TRUE is returned.
+aTCP ncNotConnectedErr: The connection is not established.
+advisory dialog? Set TRUE (default) if you want a dialog if function=0 and the file does not exist, or if function=2 or 3 and the file exists.
+advisory dialog? Set TRUE (default) if you want a dialog if the file does not exist.
+and press 'Enter' when ready.
+and the '-' lead to TP1020. Adjust
+at the current file mark plus pos offset.
+at the current file mark plus pos offset. This is the default value.
+cFile Dialog cancelled; set Error to Cancelled By User; empty File Path; set Refnum to Not a Refnum.
+continue or stop message:
+convert eol Set TRUE to convert each platform-specific end of line marker to the LabVIEW marker, line feed. Set FALSE (default value) to do nothing.
+convert eol Set TRUE to convert the LabVIEW end of line marker to the platform-specific marker. Set FALSE (default value) to do nothing.
+convert eol? converts the LabVIEW end of line marker to the platform specific marker when set to TRUE. When set to false (the default value), no conversion occurs.
+creates a new file. Error 8 occurs if the file already exists.
+default name is the initial file name that appears in the selection box of the file dialog.
+displays a dialog box with buttons allowing the user to either continue or stop. If the user cancels, the VI calls the Stop function to halt execution.
+driver opened
+driver opened(
+driver openedH
+driver openedPTH0
+eaCompares 2 real numbers X and Y. If they are within about 0.1% of each other a TRUE is returned.
+fConnect the UUT and/or DVM leads to
+file cannot be openedH
+file opened successfullyH
+force re-open
+force re-open@p
+force re-openQ
+function (open:0)
+function (open:0)"@2
+function (open:0)2
+function (open:0)H
+hOutput XON/XOFF. See the Common Serial Port VI Parameters section of this chapter for more information.
+irefnum is the reference number of the open file. The value is Not A Refnum if the file cannot be opened.
+is calibrated first.HD
+kReturns in byte count the number of bytes in the input buffer of the serial port indicated in port number.
+lprompt is the message that appears below the list of files and directories (or folders) in the file dialog.
+of rings specified on the cal box.
+offset of matchL
+offset past match
+offset past number
+offset past number"@!
+offset past number&
+offset past number@
+offset past numbert
+okReturns in byte count the number of bytes in the input buffer of the serial port indicated in port number.
+open mode (0)
+open mode (0)N
+open or create
+open or create file
+open or create fileHD
+opens an existing file or creates a new file if one does not exist.
+opens an existing file. Error 7 occurs if the file cannot be found.
+port select<
+port selectH
+port selectPTH0
+pos offset (0)
+pos offset (0)4
+pos offset (0)F
+pos offset (bytes:0)
+pos offset (bytes:0)"
+pos offset (bytes:0)(
+pos offset (bytes:0).
+pos offset (bytes:0)H
+pos offset specifies in characters how far from the location specified by pos mode that the operation begins. The default value is 0.
+prompt is the message that appears below the list of files and directories in the file dialog.
+qReads the number of characters specified by requested byte count from the serial port indicated in port number.
+qTCP ncSysConnAbortedErr: The system caused the connection to be aborted.
+rTCP ncConnRefusedErr: The connection was refused by the server.
+refnum is the reference number of the open file.
+refnum is the reference number of the open file. The value is Not A Refnum if the file cannot be opened.
+relative to current mark
+relative to current mark@
+removes all calibration from
+return count
+return count"
+return count2@P
+return count4
+return count@
+return count[
+return string
+return string6@P
+return stringF
+return stringH
+return stringx0
+rrsFile Dialog cancelled; set error out code to Cancelled By User; set refnum to NotaRefnum and file path to NotAPath.
+select mode (2)
+serpOpen.viSE
+serpOpen.viW
+serpOpen.vie
+set error on match"
+shortvalue @
+shortvalue M
+source. In case of an error, most VIs that use the error in and error out clusters set source to the name of the VI or function that produced the error.
+specific reset ?
+specific reset ?"
+specific reset ?H
+start of read offset (chars.:0 )
+start of read offset (chars.:0 )*
+start of read offset (chars.:0 ),@
+start of read offset (chars.:0 )0@2
+start of read offset (chars.:0 )8
+start of read offset (chars.:0 )H
+start of read offset is the position in the file, measured in characters (or bytes), at which the VI begins reading.
+start path (Not A Path)
+start path (Not A Path)"
+start path (Not A Path)$
+start path (Not A Path)2
+start path (Not A Path)H
+start path (Not A Path)p2
+start path is the path name to the initially displayed directory in a file dialog. The default value is Not A Path, which is the path to the last directory shown in a file dialog.
+the LC103 Final Test Box.
+to the UUT leads.
+try to open the file
+try to open the fileH
+uqReads the number of characters specified by requested byte count from the serial port indicated in port number.
+ustart of read offset is the position in the file, measured in characters (or bytes), at which the VI begins reading.
+with the leads. Check the leads
+xxxxRCouldn't open the Software Rev. file. Place the flopply disk in the computer NOW.'Last known LC103 Software Rev. is: VER

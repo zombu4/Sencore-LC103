@@ -1,0 +1,60 @@
+47399:160922 JExecutable version doesn't match resource file.  Check your configuration.
+52983:1cac00 opens an existing file or creates a new file if one does not exist.
+52996:1cb269 advisory dialog? Set TRUE (default) if you want a dialog if function=0 and the file does not exist, or if function=2 or 3 and the file exists.
+54003:1dbabd 1 (open or create) opens an existing file or creates a new file if one does not exist.
+54006:1dbc55 advisory dialog?  Set TRUE (default) if you want a dialog if function=0 and the file does not exist, or if function=2 or 3 and the file exists.
+54494:1e3da2 *Writes a string of characters to a byte stream file at the specified location; the default location is at the end of file.  The VI does incoming and internal error checking and does not write if an incoming error occurs.
+99477:491541 YUadvisory dialog? Set TRUE (default) if you want a dialog if the file does not exist.
+100016:49a163 advisory dialog?  Set TRUE (default) if you want a dialog if the file does not exist.
+101388:4af7d2 Reads a string of characters from a byte stream file at the specified location; the default location is at the current mark.  The VI does incoming and internal error checking and does not read if an incoming error occurs.
+223240:982c opens an existing file or creates a new file if one does not exist.
+223253:9e95 advisory dialog? Set TRUE (default) if you want a dialog if function=0 and the file does not exist, or if function=2 or 3 and the file exists.
+224260:1a6e9 1 (open or create) opens an existing file or creates a new file if one does not exist.
+224263:1a881 advisory dialog?  Set TRUE (default) if you want a dialog if function=0 and the file does not exist, or if function=2 or 3 and the file exists.
+224496:1d3f5 1 (open or create) opens an existing file or creates a new file if one does not exist.
+224499:1d58d advisory dialog?  Set TRUE (default) if you want a dialog if function=0 and the file does not exist, or if function=2 or 3 and the file exists.
+224787:23882 *Writes a string of characters to a byte stream file at the specified location; the default location is at the end of file.  The VI does incoming and internal error checking and does not write if an incoming error occurs.
+224952:2506b *Writes a string of characters to a byte stream file at the specified location; the default location is at the end of file.  The VI does incoming and internal error checking and does not write if an incoming error occurs.
+257807:207e6d YUadvisory dialog? Set TRUE (default) if you want a dialog if the file does not exist.
+258346:210a8f advisory dialog?  Set TRUE (default) if you want a dialog if the file does not exist.
+258529:212819 advisory dialog?  Set TRUE (default) if you want a dialog if the file does not exist.
+259785:227882 Reads a string of characters from a byte stream file at the specified location; the default location is at the current mark.  The VI does incoming and internal error checking and does not read if an incoming error occurs.
+259959:229360 Reads a string of characters from a byte stream file at the specified location; the default location is at the current mark.  The VI does incoming and internal error checking and does not read if an incoming error occurs.
+372335:192b26 Reads a string of characters from a byte stream file at the specified location; the default location is at the current mark.  The VI does incoming and internal error checking and does not read if an incoming error occurs.
+374016:1ad548 advisory dialog?  Set TRUE (default) if you want a dialog if the file does not exist.
+374033:1ae159 YUadvisory dialog? Set TRUE (default) if you want a dialog if the file does not exist.
+394243:30c629 1 (open or create) opens an existing file or creates a new file if one does not exist.
+394246:30c7c1 advisory dialog?  Set TRUE (default) if you want a dialog if function=0 and the file does not exist, or if function=2 or 3 and the file exists.
+394256:30cf67 *Writes a string of characters to a byte stream file at the specified location; the default location is at the end of file.  The VI does incoming and internal error checking and does not write if an incoming error occurs.
+404022:3a3e99 advisory dialog?  Set TRUE (default) if you want a dialog if the file does not exist.
+404043:3a4f48 Reads a string of characters from a byte stream file at the specified location; the default location is at the current mark.  The VI does incoming and internal error checking and does not read if an incoming error occurs.
+405279:3b9da8 *Writes a string of characters to a byte stream file at the specified location; the default location is at the end of file.  The VI does incoming and internal error checking and does not write if an incoming error occurs.
+406179:3cb8f9 1 (open or create) opens an existing file or creates a new file if one does not exist.
+406182:3cba91 advisory dialog?  Set TRUE (default) if you want a dialog if function=0 and the file does not exist, or if function=2 or 3 and the file exists.
+406201:3cc71f opens an existing file or creates a new file if one does not exist.
+406205:3cc8de advisory dialog? Set TRUE (default) if you want a dialog if function=0 and the file does not exist, or if function=2 or 3 and the file exists.
+504744:1f31e7 Reads a string of characters from a byte stream file at the specified location; the default location is at the current mark.  The VI does incoming and internal error checking and does not read if an incoming error occurs.
+505862:207c3d advisory dialog?  Set TRUE (default) if you want a dialog if the file does not exist.
+506089:20aecd Uadvisory dialog? Set TRUE (default) if you want a dialog if the file does not exist.
+520835:33bf21 1 (open or create) opens an existing file or creates a new file if one does not exist.
+520838:33c0b9 advisory dialog?  Set TRUE (default) if you want a dialog if function=0 and the file does not exist, or if function=2 or 3 and the file exists.
+520848:33c85f *Writes a string of characters to a byte stream file at the specified location; the default location is at the end of file.  The VI does incoming and internal error checking and does not write if an incoming error occurs.
+527359:3b2ae5 advisory dialog?  Set TRUE (default) if you want a dialog if the file does not exist.
+527380:3b3b94 Reads a string of characters from a byte stream file at the specified location; the default location is at the current mark.  The VI does incoming and internal error checking and does not read if an incoming error occurs.
+527675:3ba71a *Writes a string of characters to a byte stream file at the specified location; the default location is at the end of file.  The VI does incoming and internal error checking and does not write if an incoming error occurs.
+528193:3c8060 1 (open or create) opens an existing file or creates a new file if one does not exist.
+528196:3c81f8 advisory dialog?  Set TRUE (default) if you want a dialog if function=0 and the file does not exist, or if function=2 or 3 and the file exists.
+528605:3cca1b opens an existing file or creates a new file if one does not exist.
+528612:3ccdef advisory dialog? Set TRUE (default) if you want a dialog if function=0 and the file does not exist, or if function=2 or 3 and the file exists.
+595369:d5299 1 (open or create) opens an existing file or creates a new file if one does not exist.
+595372:d5431 advisory dialog?  Set TRUE (default) if you want a dialog if function=0 and the file does not exist, or if function=2 or 3 and the file exists.
+595858:e227c 1 (open or create) opens an existing file or creates a new file if one does not exist.
+595861:e2414 advisory dialog?  Set TRUE (default) if you want a dialog if function=0 and the file does not exist, or if function=2 or 3 and the file exists.
+596270:e6c37 opens an existing file or creates a new file if one does not exist.
+596277:e700b advisory dialog? Set TRUE (default) if you want a dialog if function=0 and the file does not exist, or if function=2 or 3 and the file exists.
+596714:f1b67 *Writes a string of characters to a byte stream file at the specified location; the default location is at the end of file.  The VI does incoming and internal error checking and does not write if an incoming error occurs.
+596758:f3d45 advisory dialog?  Set TRUE (default) if you want a dialog if the file does not exist.
+596779:f4df4 Reads a string of characters from a byte stream file at the specified location; the default location is at the current mark.  The VI does incoming and internal error checking and does not read if an incoming error occurs.
+597617:ff243 *Writes a string of characters to a byte stream file at the specified location; the default location is at the end of file.  The VI does incoming and internal error checking and does not write if an incoming error occurs.
+607058:19f6ad advisory dialog?  Set TRUE (default) if you want a dialog if the file does not exist.
+607652:1a9938 Reads a string of characters from a byte stream file at the specified location; the default location is at the current mark.  The VI does incoming and internal error checking and does not read if an incoming error occurs.

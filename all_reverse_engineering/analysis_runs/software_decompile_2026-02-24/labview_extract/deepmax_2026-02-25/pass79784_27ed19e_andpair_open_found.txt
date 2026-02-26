@@ -1,0 +1,19 @@
+52982:1cabb8 opens an existing file. Error 7 occurs if the file cannot be found.
+54002:1dba6c 0 (open) opens an existing file.  Error 7 occurs if the file cannot be found.
+54033:1dc745 [report file not found if function=0 (open); set file path to empty and refnum to NotARefnumMD
+223239:97e4 opens an existing file. Error 7 occurs if the file cannot be found.
+224259:1a698 0 (open) opens an existing file.  Error 7 occurs if the file cannot be found.
+224290:1b371 [report file not found if function=0 (open); set file path to empty and refnum to NotARefnumMD
+224495:1d3a4 0 (open) opens an existing file.  Error 7 occurs if the file cannot be found.
+394242:30c5d8 0 (open) opens an existing file.  Error 7 occurs if the file cannot be found.
+406178:3cb8a8 0 (open) opens an existing file.  Error 7 occurs if the file cannot be found.
+406200:3cc6d7 opens an existing file. Error 7 occurs if the file cannot be found.
+406298:3cda70 [[[report file not found if function=0 (open); set file path to empty and refnum to NotARefnumMD
+520834:33bed0 0 (open) opens an existing file.  Error 7 occurs if the file cannot be found.
+528192:3c800f 0 (open) opens an existing file.  Error 7 occurs if the file cannot be found.
+528292:3c970a [[[report file not found if function=0 (open); set file path to empty and refnum to NotARefnumHDt
+528604:3cc9d3 opens an existing file. Error 7 occurs if the file cannot be found.
+595368:d5248 0 (open) opens an existing file.  Error 7 occurs if the file cannot be found.
+595857:e222b 0 (open) opens an existing file.  Error 7 occurs if the file cannot be found.
+595957:e3926 [[[report file not found if function=0 (open); set file path to empty and refnum to NotARefnumHDt
+596269:e6bef opens an existing file. Error 7 occurs if the file cannot be found.

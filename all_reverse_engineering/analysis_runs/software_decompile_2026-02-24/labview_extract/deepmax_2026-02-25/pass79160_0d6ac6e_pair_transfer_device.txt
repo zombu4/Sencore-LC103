@@ -1,0 +1,85 @@
+55639:1f6afb Transfer aborted - Device not DOR
+55723:1f85e5 Transfers the specified number of data bytes from a Message-Based device into a specified local memory buffer, using the VXIbus Byte Transfer Protocol.$
+55862:1f9e2c Transfer aborted - Device not DIR
+55949:1fb703 Transfers the specified number of data bytes from a specified local memory buffer to a Message-Based device, using the VXIbus Byte Transfer Protocol.$
+62461:25a870 Transfers the specified number of data bytes from a specified local memory buffer to a device, using either the VXIbus Byte Transfer Protocol (in the case of VXIbus message-based devices), or IEEE 488.2 bus Protocol (in the case of GPIB devices).$
+225998:3743b Transfer aborted - Device not DOR
+226082:38f25 Transfers the specified number of data bytes from a Message-Based device into a specified local memory buffer, using the VXIbus Byte Transfer Protocol.$
+226187:39c0c Transfers the specified number of data bytes from a Message-Based device into a specified local memory buffer, using the VXIbus Byte Transfer Protocol.
+226226:3a8f4 Transfer aborted - Device not DIR
+226313:3c1cb Transfers the specified number of data bytes from a specified local memory buffer to a Message-Based device, using the VXIbus Byte Transfer Protocol.$
+226408:3ce38 Transfers the specified number of data bytes from a specified local memory buffer to a Message-Based device, using the VXIbus Byte Transfer Protocol.
+232964:9cc2c Transfers the specified number of data bytes from a specified local memory buffer to a device, using either the VXIbus Byte Transfer Protocol (in the case of VXIbus message-based devices), or IEEE 488.2 bus Protocol (in the case of GPIB devices).$
+233228:9ec1c Transfers the specified number of data bytes from a specified local memory buffer to a device, using either the VXIbus Byte Transfer Protocol (in the case of VXIbus message-based devices), or IEEE 488.2 bus Protocol (in the case of GPIB devices).
+292474:47a4 Transfer aborted - Device not DOR
+292558:628e Transfers the specified number of data bytes from a Message-Based device into a specified local memory buffer, using the VXIbus Byte Transfer Protocol.$
+292664:6fdc Transfers the specified number of data bytes from a Message-Based device into a specified local memory buffer, using the VXIbus Byte Transfer Protocol.
+292703:7cc1 Transfer aborted - Device not DIR
+292789:959a Transfers the specified number of data bytes from a specified local memory buffer to a Message-Based device, using the VXIbus Byte Transfer Protocol.$
+292880:a208 Transfers the specified number of data bytes from a specified local memory buffer to a Message-Based device, using the VXIbus Byte Transfer Protocol.
+299507:69ee2 Transfers the specified number of data bytes from a specified local memory buffer to a device, using either the VXIbus Byte Transfer Protocol (in the case of VXIbus message-based devices), or IEEE 488.2 bus Protocol (in the case of GPIB devices).$
+299776:6bea8 Transfers the specified number of data bytes from a specified local memory buffer to a device, using either the VXIbus Byte Transfer Protocol (in the case of VXIbus message-based devices), or IEEE 488.2 bus Protocol (in the case of GPIB devices).
+324536:2ce4 Transfers the specified number of data bytes from a Message-Based device into a specified local memory buffer, using the VXIbus Byte Transfer Protocol.
+324595:3bb4 Transfer aborted - Device not DOR
+324683:569f Transfers the specified number of data bytes from a Message-Based device into a specified local memory buffer, using the VXIbus Byte Transfer Protocol.$
+324790:6470 Transfers the specified number of data bytes from a specified local memory buffer to a Message-Based device, using the VXIbus Byte Transfer Protocol.
+324825:7065 Transfer aborted - Device not DIR
+324915:893f Transfers the specified number of data bytes from a specified local memory buffer to a Message-Based device, using the VXIbus Byte Transfer Protocol.$
+330868:5d688 Transfers the specified number of data bytes from a specified local memory buffer to a device, using either the VXIbus Byte Transfer Protocol (in the case of VXIbus message-based devices), or IEEE 488.2 bus Protocol (in the case of GPIB devices).
+331771:6922a Transfers the specified number of data bytes from a specified local memory buffer to a device, using either the VXIbus Byte Transfer Protocol (in the case of VXIbus message-based devices), or IEEE 488.2 bus Protocol (in the case of GPIB devices).$
+347443:26fb Transfer aborted - Device not DOR
+347527:41e5 Transfers the specified number of data bytes from a Message-Based device into a specified local memory buffer, using the VXIbus Byte Transfer Protocol.$
+347632:4ecc Transfers the specified number of data bytes from a Message-Based device into a specified local memory buffer, using the VXIbus Byte Transfer Protocol.
+347671:5bb4 Transfer aborted - Device not DIR
+347758:748b Transfers the specified number of data bytes from a specified local memory buffer to a Message-Based device, using the VXIbus Byte Transfer Protocol.$
+347853:80f8 Transfers the specified number of data bytes from a specified local memory buffer to a Message-Based device, using the VXIbus Byte Transfer Protocol.
+354409:67eec Transfers the specified number of data bytes from a specified local memory buffer to a device, using either the VXIbus Byte Transfer Protocol (in the case of VXIbus message-based devices), or IEEE 488.2 bus Protocol (in the case of GPIB devices).$
+354673:69edc Transfers the specified number of data bytes from a specified local memory buffer to a device, using either the VXIbus Byte Transfer Protocol (in the case of VXIbus message-based devices), or IEEE 488.2 bus Protocol (in the case of GPIB devices).
+418103:2618 Transfer aborted - Device not DOR
+418187:4102 Transfers the specified number of data bytes from a Message-Based device into a specified local memory buffer, using the VXIbus Byte Transfer Protocol.$
+418293:4e50 Transfers the specified number of data bytes from a Message-Based device into a specified local memory buffer, using the VXIbus Byte Transfer Protocol.
+418332:5b35 Transfer aborted - Device not DIR
+418418:740e Transfers the specified number of data bytes from a specified local memory buffer to a Message-Based device, using the VXIbus Byte Transfer Protocol.$
+418509:807c Transfers the specified number of data bytes from a specified local memory buffer to a Message-Based device, using the VXIbus Byte Transfer Protocol.
+425136:67d56 Transfers the specified number of data bytes from a specified local memory buffer to a device, using either the VXIbus Byte Transfer Protocol (in the case of VXIbus message-based devices), or IEEE 488.2 bus Protocol (in the case of GPIB devices).$
+425405:69d1c Transfers the specified number of data bytes from a specified local memory buffer to a device, using either the VXIbus Byte Transfer Protocol (in the case of VXIbus message-based devices), or IEEE 488.2 bus Protocol (in the case of GPIB devices).
+452835:130 Transfers the specified number of data bytes from a Message-Based device into a specified local memory buffer, using the VXIbus Byte Transfer Protocol.
+452894:1000 Transfer aborted - Device not DOR
+452982:2aeb Transfers the specified number of data bytes from a Message-Based device into a specified local memory buffer, using the VXIbus Byte Transfer Protocol.$
+453089:38bc Transfers the specified number of data bytes from a specified local memory buffer to a Message-Based device, using the VXIbus Byte Transfer Protocol.
+453124:44b1 Transfer aborted - Device not DIR
+453214:5d8b Transfers the specified number of data bytes from a specified local memory buffer to a Message-Based device, using the VXIbus Byte Transfer Protocol.$
+459167:5aad4 Transfers the specified number of data bytes from a specified local memory buffer to a device, using either the VXIbus Byte Transfer Protocol (in the case of VXIbus message-based devices), or IEEE 488.2 bus Protocol (in the case of GPIB devices).
+460070:66676 Transfers the specified number of data bytes from a specified local memory buffer to a device, using either the VXIbus Byte Transfer Protocol (in the case of VXIbus message-based devices), or IEEE 488.2 bus Protocol (in the case of GPIB devices).$
+476659:26fb Transfer aborted - Device not DOR
+476743:41e5 Transfers the specified number of data bytes from a Message-Based device into a specified local memory buffer, using the VXIbus Byte Transfer Protocol.$
+476848:4ecc Transfers the specified number of data bytes from a Message-Based device into a specified local memory buffer, using the VXIbus Byte Transfer Protocol.
+476887:5bb4 Transfer aborted - Device not DIR
+476974:748b Transfers the specified number of data bytes from a specified local memory buffer to a Message-Based device, using the VXIbus Byte Transfer Protocol.$
+477069:80f8 Transfers the specified number of data bytes from a specified local memory buffer to a Message-Based device, using the VXIbus Byte Transfer Protocol.
+483625:67eec Transfers the specified number of data bytes from a specified local memory buffer to a device, using either the VXIbus Byte Transfer Protocol (in the case of VXIbus message-based devices), or IEEE 488.2 bus Protocol (in the case of GPIB devices).$
+483889:69edc Transfers the specified number of data bytes from a specified local memory buffer to a device, using either the VXIbus Byte Transfer Protocol (in the case of VXIbus message-based devices), or IEEE 488.2 bus Protocol (in the case of GPIB devices).
+530571:2618 Transfer aborted - Device not DOR
+530655:4102 Transfers the specified number of data bytes from a Message-Based device into a specified local memory buffer, using the VXIbus Byte Transfer Protocol.$
+530761:4e50 Transfers the specified number of data bytes from a Message-Based device into a specified local memory buffer, using the VXIbus Byte Transfer Protocol.
+530800:5b35 Transfer aborted - Device not DIR
+530886:740e Transfers the specified number of data bytes from a specified local memory buffer to a Message-Based device, using the VXIbus Byte Transfer Protocol.$
+530977:807c Transfers the specified number of data bytes from a specified local memory buffer to a Message-Based device, using the VXIbus Byte Transfer Protocol.
+537604:67d56 Transfers the specified number of data bytes from a specified local memory buffer to a device, using either the VXIbus Byte Transfer Protocol (in the case of VXIbus message-based devices), or IEEE 488.2 bus Protocol (in the case of GPIB devices).$
+537873:69d1c Transfers the specified number of data bytes from a specified local memory buffer to a device, using either the VXIbus Byte Transfer Protocol (in the case of VXIbus message-based devices), or IEEE 488.2 bus Protocol (in the case of GPIB devices).
+560751:130 Transfers the specified number of data bytes from a Message-Based device into a specified local memory buffer, using the VXIbus Byte Transfer Protocol.
+560810:1000 Transfer aborted - Device not DOR
+560898:2aeb Transfers the specified number of data bytes from a Message-Based device into a specified local memory buffer, using the VXIbus Byte Transfer Protocol.$
+561005:38bc Transfers the specified number of data bytes from a specified local memory buffer to a Message-Based device, using the VXIbus Byte Transfer Protocol.
+561040:44b1 Transfer aborted - Device not DIR
+561130:5d8b Transfers the specified number of data bytes from a specified local memory buffer to a Message-Based device, using the VXIbus Byte Transfer Protocol.$
+567083:5aad4 Transfers the specified number of data bytes from a specified local memory buffer to a device, using either the VXIbus Byte Transfer Protocol (in the case of VXIbus message-based devices), or IEEE 488.2 bus Protocol (in the case of GPIB devices).
+567986:66676 Transfers the specified number of data bytes from a specified local memory buffer to a device, using either the VXIbus Byte Transfer Protocol (in the case of VXIbus message-based devices), or IEEE 488.2 bus Protocol (in the case of GPIB devices).$
+581382:2673 Transfer aborted - Device not DOR
+581466:415d Transfers the specified number of data bytes from a Message-Based device into a specified local memory buffer, using the VXIbus Byte Transfer Protocol.$
+581571:4e44 Transfers the specified number of data bytes from a Message-Based device into a specified local memory buffer, using the VXIbus Byte Transfer Protocol.
+581610:5b2c Transfer aborted - Device not DIR
+581697:7403 Transfers the specified number of data bytes from a specified local memory buffer to a Message-Based device, using the VXIbus Byte Transfer Protocol.$
+581792:8070 Transfers the specified number of data bytes from a specified local memory buffer to a Message-Based device, using the VXIbus Byte Transfer Protocol.
+588348:67e64 Transfers the specified number of data bytes from a specified local memory buffer to a device, using either the VXIbus Byte Transfer Protocol (in the case of VXIbus message-based devices), or IEEE 488.2 bus Protocol (in the case of GPIB devices).$
+588612:69e54 Transfers the specified number of data bytes from a specified local memory buffer to a device, using either the VXIbus Byte Transfer Protocol (in the case of VXIbus message-based devices), or IEEE 488.2 bus Protocol (in the case of GPIB devices).

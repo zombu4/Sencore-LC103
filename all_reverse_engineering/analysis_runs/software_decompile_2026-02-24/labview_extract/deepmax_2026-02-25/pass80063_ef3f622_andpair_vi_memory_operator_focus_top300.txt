@@ -1,0 +1,2 @@
+52435:1bcb0f The VI %p has changed on disk since last saved or loaded by LabVIEW. If you load its %p, it will probably be inconsistent with the parts of the VI already in memory, resulting in a corrupt VI.
+52509:1bd712 'An error occurred in compiling this VI.TYou need to make more memory available for LabVIEW to generate the code for this VI.

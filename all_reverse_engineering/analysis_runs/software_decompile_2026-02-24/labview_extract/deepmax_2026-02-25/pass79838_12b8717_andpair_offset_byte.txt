@@ -1,0 +1,133 @@
+54273:1e0758 pos offset (bytes:0)*
+54274:1e0773 pos offset (bytes:0).
+54437:1e3908 pos offset (bytes:0)
+54472:1e3acd pos offset (bytes:0)
+54473:1e3ae5 pos offset (bytes:0)
+54474:1e3afd pos offset (bytes:0)
+54475:1e3b15 pos offset (bytes:0)
+54476:1e3b2d pos offset (bytes:0)
+54551:1e4aef pos offset (bytes:0)
+54570:1e4c4f pos offset (bytes:0)0@
+54576:1e4cf1 pos offset (bytes:0)'
+54595:1e4ed1 pos offset (bytes:0)
+101051:4ab05f pos offset (bytes:0)*
+101052:4ab07a pos offset (bytes:0)(
+101313:4af22c pos offset (bytes:0)
+101353:4af485 pos offset (bytes:0)
+101354:4af49d pos offset (bytes:0)
+101355:4af4b5 pos offset (bytes:0)
+101356:4af4cd pos offset (bytes:0)
+101357:4af4e5 pos offset (bytes:0)
+101461:4b087a pos offset (bytes:0)
+101483:4b0a05 pos offset (bytes:0)0@
+101494:4b0b22 pos offset (bytes:0)
+101512:4b0cb3 pos offset (bytes:0)
+102740:4d3ebe pos offset (bytes:0)
+102797:4d4437 pos offset (bytes:0).
+102950:4d607c pos offset (bytes:0)
+103098:4d71fb pos offset (bytes:0)
+111777:565068 yustart of read offset is the position in the file, measured in characters (or bytes), at which the VI begins reading.
+111913:5674a9 pos offset (bytes:0)
+111962:5678bd pos offset (bytes:0)
+112000:567dd6 pos offset (bytes:0)
+112018:567f09 pos offset (bytes:0)
+112344:56c1ac *Reads a specified number of lines from a byte stream file beginning at a specified character offset.  The VI opens the file beforehand and closes it afterwards.
+112347:56c4a9 start of read offset is the position in the file, measured in characters (or bytes), at which the VI begins reading.
+112706:56e18e pos offset (bytes:0)
+224566:20238 pos offset (bytes:0)*
+224567:20253 pos offset (bytes:0).
+224730:233e8 pos offset (bytes:0)
+224765:235ad pos offset (bytes:0)
+224766:235c5 pos offset (bytes:0)
+224767:235dd pos offset (bytes:0)
+224768:235f5 pos offset (bytes:0)
+224769:2360d pos offset (bytes:0)
+224844:245cf pos offset (bytes:0)
+224863:2472f pos offset (bytes:0)0@
+224869:247d1 pos offset (bytes:0)'
+224888:249b1 pos offset (bytes:0)
+224949:25023 pos offset (bytes:0)
+259373:2201f3 pos offset (bytes:0)
+259448:22310f pos offset (bytes:0)*
+259449:22312a pos offset (bytes:0)(
+259710:2272dc pos offset (bytes:0)
+259750:227535 pos offset (bytes:0)
+259751:22754d pos offset (bytes:0)
+259752:227565 pos offset (bytes:0)
+259753:22757d pos offset (bytes:0)
+259754:227595 pos offset (bytes:0)
+259858:22892a pos offset (bytes:0)
+259880:228ab5 pos offset (bytes:0)0@
+259891:228bd2 pos offset (bytes:0)
+259909:228d63 pos offset (bytes:0)
+261179:24ce1e pos offset (bytes:0)
+261236:24d397 pos offset (bytes:0).
+261389:24efdc pos offset (bytes:0)
+261537:25015b pos offset (bytes:0)
+270306:2df7bc yustart of read offset is the position in the file, measured in characters (or bytes), at which the VI begins reading.
+270442:2e1bfd pos offset (bytes:0)
+270491:2e2011 pos offset (bytes:0)
+270529:2e252a pos offset (bytes:0)
+270547:2e265d pos offset (bytes:0)
+270873:2e6900 *Reads a specified number of lines from a byte stream file beginning at a specified character offset.  The VI opens the file beforehand and closes it afterwards.
+270876:2e6bfd start of read offset is the position in the file, measured in characters (or bytes), at which the VI begins reading.
+271235:2e88e2 pos offset (bytes:0)
+271320:2e9103 *Reads a specified number of lines from a byte stream file beginning at a specified character offset.  The VI opens the file beforehand and closes it afterwards.
+271323:2e9400 start of read offset is the position in the file, measured in characters (or bytes), at which the VI begins reading.
+366265:12c7f1 pos offset (bytes:0)
+366630:130572 *Reads a specified number of lines from a byte stream file beginning at a specified character offset.  The VI opens the file beforehand and closes it afterwards.
+366633:13086f start of read offset is the position in the file, measured in characters (or bytes), at which the VI begins reading.
+366639:130b9d yustart of read offset is the position in the file, measured in characters (or bytes), at which the VI begins reading.
+366679:1314ba pos offset (bytes:0).
+366698:131603 pos offset (bytes:0)
+368825:151457 pos offset (bytes:0)
+370234:166796 pos offset (bytes:0)
+370432:168683 pos offset (bytes:0)
+370508:169464 pos offset (bytes:0)
+370551:16978e pos offset (bytes:0).
+372245:192048 pos offset (bytes:0)
+372261:19229f pos offset (bytes:0)
+372300:19270f pos offset (bytes:0)(@
+372327:192a85 pos offset (bytes:0)
+372386:193df1 pos offset (bytes:0)(
+372404:193fd5 pos offset (bytes:0)M
+392547:2ee1e3 pos offset (bytes:0)
+404095:3a6707 *Reads a specified number of lines from a byte stream file beginning at a specified character offset.  The VI opens the file beforehand and closes it afterwards.
+404098:3a6a04 start of read offset is the position in the file, measured in characters (or bytes), at which the VI begins reading.
+405208:3b948b pos offset (bytes:0)
+405224:3b96e0 pos offset (bytes:0)
+405249:3b99ed pos offset (bytes:0)(@
+405273:3b9d19 pos offset (bytes:0)
+405322:3bacd4 pos offset (bytes:0).
+405342:3baf0b pos offset (bytes:0)M
+496062:147976 pos offset (bytes:0)
+496229:149a0e *Reads a specified number of lines from a byte stream file beginning at a specified character offset.  The VI opens the file beforehand and closes it afterwards.
+496232:149d0b start of read offset is the position in the file, measured in characters (or bytes), at which the VI begins reading.
+496270:14a3b9 pos offset (bytes:0).
+496289:14a502 pos offset (bytes:0)
+496402:14bbae ustart of read offset is the position in the file, measured in characters (or bytes), at which the VI begins reading.
+503249:1ce5c7 pos offset (bytes:0)
+503394:1cfe8f pos offset (bytes:0)
+503437:1d01b9 pos offset (bytes:0).
+503613:1d269f pos offset (bytes:0)
+504632:1f1cfc pos offset (bytes:0)
+504647:1f1f64 pos offset (bytes:0)
+504684:1f23dd pos offset (bytes:0)"
+504736:1f3146 pos offset (bytes:0)
+504775:1f3c15 pos offset (bytes:0)(
+504793:1f3df9 pos offset (bytes:0)H
+520223:33260f pos offset (bytes:0)
+527432:3b5353 *Reads a specified number of lines from a byte stream file beginning at a specified character offset.  The VI opens the file beforehand and closes it afterwards.
+527435:3b5650 start of read offset is the position in the file, measured in characters (or bytes), at which the VI begins reading.
+527583:3b964a pos offset (bytes:0)
+527598:3b98b0 pos offset (bytes:0)
+527622:3b9bb5 pos offset (bytes:0)"
+527669:3ba68b pos offset (bytes:0)
+527700:3baf63 pos offset (bytes:0).
+527720:3bb19b pos offset (bytes:0)H
+596831:f65b3 *Reads a specified number of lines from a byte stream file beginning at a specified character offset.  The VI opens the file beforehand and closes it afterwards.
+596834:f68b0 start of read offset is the position in the file, measured in characters (or bytes), at which the VI begins reading.
+597072:fa0cc pos offset (bytes:0)
+597410:fc3e9 pos offset (bytes:0)
+610293:1d4dcb *Reads a specified number of lines from a byte stream file beginning at a specified character offset.  The VI opens the file beforehand and closes it afterwards.
+610296:1d50c8 start of read offset is the position in the file, measured in characters (or bytes), at which the VI begins reading.

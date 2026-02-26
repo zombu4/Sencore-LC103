@@ -1,0 +1,1 @@
+52556:1bfe3f There is less than %ldK of disk space available on volume %z. LabVIEW can run, but we recommend that you make more disk space available.GCould not determine the amount of disk space on volume %z. Error = %ld.

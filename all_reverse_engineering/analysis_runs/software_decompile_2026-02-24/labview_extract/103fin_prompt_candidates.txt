@@ -1,0 +1,545 @@
+DoubleClickSelect
+DlgGetDoubleClickListItem
+HandleSRampClassAttr
+  doubleClick=%d, topItem=%d\n
+editor with a double-click on a control.
+This list box contains the errors and warnings for the selected VI.  If an error is associated with an object, you can double-click on the error to highlight the object on the VI's front panel or block diagram.  You can also press return or click on the 'Find' button.
+doubleClickToEditControltotalMemSize
+Choose a VI from the list of names to see its errors. Click on any error in the list to display more details about it here. Double-click on any front panel or block diagram error, or click on the Find button, to highlight the object causing the error.
+ESR_CAL.VI
+LEAK_VLT.VI
+LEAK_I.VI
+Leak_CAL.VI
+Continue Button 
+Continue Button0
+Continue Button
+Continue Button
+Continue Button
+Continue Button
+Continue Button
+Continue Button
+Continue Button
+CPlease choose the file containing the capacitance calibration data.O
+BPlease choose the file containing the inductance calibration data.
+*.calCPlease choose the file containing the capacitance calibration data.PTH0
+*.calBPlease choose the file containing the inductance calibration data.gencode.cGenDispatchEntry
+driver namesR
+Software Rev. Check
+Calibration Reset
+Current Source Calibration
+Gain Calibration
+Capacitance Calibration
+ESR Calibration
+Inductance Calibration
+Leakage Voltage Calibration
+Leakage Voltage Test
+Leakage Current Test
+Calibration Stamp
+Capacitance Calibrationb
+Inductance CalibrationW
+Capacitance Calibration
+Inductance Calibration
+Continue Button 
+Continue Button0
+Continue ButtonH
+Continue Button
+Continue Button
+Continue Button
+Continue ButtonH
+Continue Button
+Continue Button
+,,-Make sure the UUT leads are shorted together.W
+ESRMD
+Lead Zero Short Test/ESR
+BBKSomething seems to be wrong.  Make sure the UUT leads are shorted together.QD
+ESRO
+KSomething seems to be wrong.  Make sure the UUT leads are shorted together.
+IND-Make sure the UUT leads are shorted together.
+Lead Zero Short Test/ESR
+,Make sure the red UUT lead is not connected.RD
+,Make sure the red UUT lead is not connected.W
+'q,Make sure the red UUT lead is not connected.
+CAP,Make sure the red UUT lead is not connected.
+===Short the UUT leads to the
+BBBNow connect the red lead to the
+===Short the UUT leads to the
+BBBNow connect the red lead to the
+333Short the UUT leads to the
+333Short the UUT leads to the
+333Short the UUT leads to the
+333Short the UUT leads to the
+===Short the UUT leads to the
+BBBNow connect the red lead to the
+===Short the UUT leads to the
+BBBNow connect the red lead to the
+===Short the UUT leads to the
+BBBNow connect the red lead to the
+===Short the UUT leads to the
+BBBNow connect the red lead to the
+IND-6BNow connect the red lead to the
+Inductance Decade Box (H Terminal)=Short the UUT leads to the
+IND3Short the UUT leads to the
+IND3Short the UUT leads to the
+FMELDKCJBI@GAHBNow connect the red lead to the
+Inductance Decade Box (H Terminal)=Short the UUT leads to the
+IND=Short the UUT leads to the
+Inductance Decade Box (L Terminal)BNow connect the red lead to the
+Inductance Decade Box (H Terminal)=Short the UUT leads to the
+Inductance Decade Box (L Terminal)BNow connect the red lead to the
+Inductance Decade Box (H Terminal)=Short the UUT leads to the
+Inductance Decade Box (L Terminal)BNow connect the red lead to the
+Inductance Decade Box (H Terminal)=Short the UUT leads to the
+Inductance Decade Box (L Terminal)BNow connect the red lead to the
+Inductance Decade Box (H Terminal)3Short the UUT leads to the
+IND3Short the UUT leads to the
+GNow connect the red lead to the
+GNow connect the red lead to the
+CAPGNow connect the red lead to the
+CAPGNow connect the red lead to the
+Calibration ResetY
+Calibration ResetW
+Calibration ResetT
+Calibration ResetY
+Calibration ResetW
+Calibration ResetT
+Current Source Calibration
+            Press 'Enter' when ready._
+Capacitance Calibration]
+Calibration Resetf
+Current Source Calibration\
+Gain Calibrationb
+Inductance Calibration^
+Leakage Voltage CalibrationT
+Leakage Voltage Test`
+Leakage Current Test`
+Calibration Stamp\
+Gain CalibrationV
+Calibration Reset]
+Calibration ResetW
+            Press 'Enter' when ready.V
+Capacitance CalibrationV
+Gain CalibrationV
+            Press 'Enter' when ready.g
+Leakage Voltage Calibration
+            Press 'Enter' when ready.T
+            Press 'Enter' when ready.W
+Leakage Voltage TestV
+            Press 'Enter' when ready.W
+Leakage Current TestV
+Calibration StampW
+ESR CalibrationV
+Inductance Calibration[
+ESR CalibrationV
+Warning:  Choosing 'Calibration Reset'   
+         Press 'Enter' when ready.W
+Current Source CalibrationW
+Capacitance CalibrationW
+ESR CalibrationW
+Inductance CalibrationW
+Leakage Voltage CalibrationW
+Leakage Voltage TestW
+Leakage Current TestW
+Calibration StampW
+Software Rev. CheckW
+Software Rev. Check_
+Software Rev. CheckW
+Calibration ResetW
+Software Rev. Check
+ESR Calibration
+Calibration Stamp
+Leakage Current Test
+Leakage Voltage Test
+Leakage Voltage Calibration
+Inductance Calibration
+Capacitance Calibration
+Gain Calibration
+Current Source Calibration
+Calibration Reset
+Software Rev. Check
+Software Rev. Check
+Calibration Reset
+Calibration Reset
+Warning:  Choosing 'Calibration Reset'   
+         Press 'Enter' when ready.
+Calibration Reset
+Current Source Calibration
+Current Source CalibrationfConnect the UUT and/or DVM leads to
+            Press 'Enter' when ready.
+Gain Calibration
+Gain CalibrationfConnect the UUT and/or DVM leads to
+            Press 'Enter' when ready.
+Capacitance Calibration
+Capacitance Calibration
+ESR Calibration
+ESR Calibration22
+Inductance Calibration
+Inductance Calibration@M
+Leakage Voltage Calibration
+Leakage Voltage CalibrationfConnect the UUT and/or DVM leads to
+            Press 'Enter' when ready.
+            Press 'Enter' when ready.
+Leakage Voltage Test
+Leakage Voltage TestfConnect the UUT and/or DVM leads to
+            Press 'Enter' when ready.
+Leakage Current Test
+Leakage Current TestfConnect the UUT and/or DVM leads to
+            Press 'Enter' when ready.
+Calibration Stamp
+Calibration Stamp
+Software Rev."
+Software Rev.L
+Software Rev.4!
+Software Rev.
+Software Rev.
+Software Rev.
+Software Rev.
+Software Rev. Check`
+Software Rev.
+Software Rev. Check
+Software Rev. Check
+Software Rev.
+Software Rev.
+Software Rev. Check
+Software Rev.
+Calibration Reset
+Calibration Reset
+          Press 'Enter' when finished.
+          Press 'Enter' when finished.d
+---Switch the cal box to
+of rings specified on the cal box.-Switch the cal box to
+Calibration Stamp
+Calibration Stamp
+Set Cal Date`
+Set Cal Date
+         Press 'Enter' when ready.PD
+and press 'Enter' when ready.
+         Press 'Enter' when ready.
+and press 'Enter' when ready.
+ESR_CAL.VII
+ESR CalibrationX
+ESR Calibration PassedV
+ESR_CAL.VIX
+ESR CalibrationH
+ESR_CAL.VIV
+ESR_CAL.VIH
+Now connect the red UUT to the H  Terminal of the decade box and set the  box to 0.022uF(.0219).
+         Press 'Enter' when ready.
+@@cShort the UUT leads to the Capacitance Decade box(LTerminal).
+         Press 'Enter' when ready.MD
+ESRSD
+delay that causes ESR error.MD
+ESROD
+ESRW
+ESR Calibration`
+ESR_CAL.VIV
+ESR_CAL.VIV
+ESR_CAL.VIU
+         Press 'Enter' when ready.MD
+ESR_CAL.VI
+ESR_CAL.VI
+ESR_CAL.VI
+ESR Calibration
+CLRPARcShort the UUT leads to the Capacitance Decade box(LTerminal).
+         Press 'Enter' when ready.
+ESR>W
+ESR2
+Now connect the red UUT to the H  Terminal of the decade box and set the  box to 0.022uF(.0219).
+         Press 'Enter' when ready.
+         Press 'Enter' when ready.
+ESR Calibration
+ESR Calibration Passed
+ESR Calibration
+ESR Calibration'
+ESR Calibration Passed
+ESR_CAL.VI
+ESR_CAL.VI
+ESR_CAL.VI
+ESR_CAL.VI
+ESR_CAL.VI
+ESR_CAL.VI
+ESR_CAL.VI
+ESR_CAL.VI
+ESR_CAL.VI
+ESR_CAL.VI
+ESR_CAL.VI
+ESR_CAL.VI
+ESR_CAL.VI
+ESR_CAL.VI
+ESR_CAL.VI
+ESR_CAL.VI
+ESR_CAL.VI
+ESR_CAL.VI
+DSP MEM_HARDWARE_ERR:  The onboard hardware diagnostic software found a memory hardware error.  Running functions on the board is unreliable.fDSP NotPowerOfTwo:  The size of the input array must be a valid power of two:  size = 2^m, 0 < m < 14.HDSP RankErr:  The rank of the filter must meet:  1 <= (2rank+1) <= size.ODSP LenGEOne:  The number of coefficients must be greater than or equal to one.XDSP FilterDesignErr:  The filter cannot be designed with the specified input parameters.lDSP LeakErr:  The leakage coefficient, Leak, must meet:  0 <= Leak <= u, where u is the step-size parameter.FDSP StepSizeErr:  The step-size parameter u must meet:  0 <= u <= 0.1.NDSP AttenGTRipple:  The attenuation must be greater than the ripple amplitude.NDSP NullVectorErr:  The input vector is null.  The unit vector does not exist.JDSP SizeGTZero:  The size of the input sequence must be greater than zero.6DSP WidthGTZero:  The width must be greater than zero.<DSP AttenGTZero:  The attenuation must be greater than zero.ADSP RippleGTZero:  The ripple ampltude must be greater than zero.UDSP Nyquist2Err:  The following conditions must be met: 0 <= f_low <= f_high <= fs/2.GDSP NyquistErr:  The cutoff frequency, fc, must meet:  0 <= fc <= fs/2.YDSP ConvSizeErr:  The number of elements of convolved arrays should be greater than zero.6DSP OrderGTZero:  The order must be greater than zero.@DSP SizeGTOrder:  The array size must be greater than the order.JDSP MixedSignErr:  The sign of y in Ax=y must be all positive or negative.HDSP Interval NumErr:  The number of intervals must be greater than zero.TDSP UpperGELower:  The upper value must be greater than or equal to the lower value.nDSP CyclesErr:  The number of cycles must be greater than zero and less than or equal to the number of samplesEDSP DutyCycleErr:  The duty cycle must meet:  0 <= duty cycle <= 100.,DSP dtGTZero:  dt must be greater than zero.ODSP WinDutyCyclesErr:  The window duty cycle value must be between 0.0 and 1.0.YDSP DelayWidthErr:  The following condition must be met:  0 <= (delay + width) < samples.BDSP WidthGEZero:  The width must be greater than or equal to zero.BDSP DelayGEZero:  The delay must be greater than or equal to zero.@DSP IndexLTSamples:  The index must meet:  0 <= index < samples.?DSP WidthLTSamples:  The width must meet:  0 < width < samples.TDSP DecFactErr:  The decimating factor must meet:  0 < decimating factor <= samples.VDSP OutOfMem:  There is not enough space left on the DSP board for onboard processing.^OutSizeGEInSize:  The output array size must be greater than or equal to the input array size.PDSP xSizeGEySize:  The size of x must be greater than or equal to the size of y.MDSP SizesGTZero:  The sizes of the input sequences must be greater than zero.ODSP Samples GETwo:  The number of samples must be greater than or equal to two.PDSP SamplesGEZero:  The number of samples must be greater than or equal to zero.DDSP SamplesGTZero:  The number of samples must be greater than zero.4Analysis InvSelectionErr:  The selection is invalid.@Analysis TableErr:  The contingency table has a negative number.TAnalysis CategoryErr:  The number of categories or samples must be greater than one.^Analysis InvProbErr:  The probability must be greater than or equal to zero and less than one.GAnalysis ProbabilityErr:  The probability must be between zero and one.AAnalysis FreedomErr:  The degrees of freedom must be one or more.LAnalysis ColumnErr:  All values in the first column of X matrix must be one.PAnalysis PoleErr:  The interpolating function has a pole at the requested value.5Analysis DistinctErr:  The x-values must be distinct.bAnalysis ModelErr:  The Random Effect model was requested when the Fixed Effect model is required.fAnalysis BalanceErr:  The data is unbalanced.  All cells must contain the same number of observations.[Analysis OverflowErr:  There is an overflow in the calculated F-value for the ANOVA Fit VI.zAnalysis DataErr:  The total number of data points must be equal to the product of levels/each factor * observations/cell.SAnalysis:  ObservationsErr:  Zero observations were made at some level of a factor.VAnalysis FactorErr:  The level of factors is outside the allowable range of some data.;Analysis LevelsErr:  The number of levels is out of range .kAnalysis SingularMatrixErr:  The system of equations cannot be solved because the input matrix is singular.DAnalysis SquareMatrixErr:  The input matrix must be a square matrix.
+Analysis MatrixMulErr:  The number of columns in the first matrix is not equal to the number of rows in the second matrix or vector.<Analysis IntervalsErr:  The number of intervals must be > 0.iAnalysis SizeGTOrderErr:  The number of data points in the Y Values array must be greater than the order.sAnalysis MixedSignErr:  The elements of the Y Values array must be nonzero and either all positive or all negative.XAnalysis StdDevErr:  The standard deviation must be greater than zero for normalization.NAnalysis OddSizeErr:  The number of coefficients must be even for this filter.NAnalysis EvenSizeErr:  The number of coefficients must be odd for this filter.PAnalysis RankErr:  The rank of the filter must meet:  1 <= (2*rank + 1) <= size.XAnalysis EqRplDesignErr:  The filter cannot be designed with the specified input values.iAnalysis LeakErr:  The leakage coefficient, leak, and step-size parameter, u, must meet:  0 <= leak <= u.CAnalysis StepSizeErr:  The step-size, u, must meet:  0 <= u <= 0.1.ZAnalysis:  AttenGTRippleErr:  The attenuation must be greater than the ripple attenuation.8Analysis:  FinalGTZeroErr:  The final value must be > 0.0Analysis WidthGTZeroErr:  The width must be > 0.6Analysis AttenGTZeroErr:  The attenuation must be > 0.<Analysis RippleGTZeroErr:  The ripple amplitude must be > 0.[Analysis BandSpecErr:  The following conditions must be met:  0 <= f_low <= f_high <= fs/2.YAnalysis DecFactErr:  The decimating factor must meet:  0 < decimating factor <= samples.1Analysis: OrderGTZeroErr:  The order must be > 0.MAnalysis NyquistErr:  The cut-off frequency, fc, must meet:  0 <= fc <= fs/2.FAnalysis UpperGELowerErr:  The upper value must be >= the lower value.`Analysis IndexLengthErr:  The following condition must be met:  0 <= (index + length) < samples.XAnalysis IndexLTSamplesErr:  The following condition must be met:  0 <= index < samples.&Analysis DtGTZeroErr:  dt must be > 0.'Analysis DtGEZeroErr:  dt must be >= 0._Analysis DelayWidthErr:  The following conditions must be met:  0 <= (delay + width) < samples.FAnalysis WidthLTSamplesErr:  The width must meet: 0 < width < samples.SAnalysis CyclesErr:  The number of cycles must be > 0 and <= the number of samples.IAnalysis DutyCycleErr:  The duty cycle must meet: 0 <= duty cycle <= 100.RAnalysis MaxXformSizeErr:  The maximum allowable transform size has been exceeded.aAnalysis PowerOfTwoErr:  The size of the input array must be a power of two:  size = 2^m, 0<m<23.eAnalysis ArraySizeErr: The input arrays do not contain the correct number of data values for this VI.@Analysis SamplesGEThreeErr:  The number of samples must be >= 3.>Analysis SamplesGETwoErr:  The number of samples must be >= 2.>Analysis SamplesGEOneErr:  The number of samples must be >= 1.?Analysis SamplesGEZeroErr:  The number of samples must be >= 0.=Analysis SamplesGTZeroErr:  The number of samples must be >0.BAnalysis EqSamplesErr:  The input sequences must be the same size.SAnalysis OutOfMemErr:  There is not enough memory to perform the specified routine.
+GPIB ESRG:  SRQ stuck on.?LabVIEW:  Image memory error.
+Choose file to write._
+Choose file to write.
+100k (V/I  leakage)
+!Gain Calibration Failed
+Gain Calibrationn
+" Failed Calibration. Adjusted >10%R
+!Gain Calibration Failed
+Gain CalibrationV
+Gain CalibrationU
+Gain Calibration
+Gain Calibration" Failed Calibration. Adjusted >10%
+Range !Gain Calibration Failed
+on Range !Gain Calibration Failed
+0Leakage Data(
+0Leakage Data
+0Leakage Data
+0Leakage DataH)
+0Leakage Data(H
+0Leakage Data(H
+0Leakage Data4H
+0Leakage Data
+0Leakage Data
+0Leakage Data
+0Leakage Data
+0Leakage Data
+0Leakage Data
+LEAK_VLT.VI
+LEAK_VLT.VIW
+ Setup Relays for Leak. Vlt. Test`
+Leakage Voltage TestH
+LEAK_VLT.VIZ
+Leakage Voltage TestY
+LEAK_VLT.VIW
+LEAK_VLT.VIH
+LEAK_VLT.VIV
+LEAK_VLT.VIW
+LEAK_VLT.VIU
+LEAK_VLT.VIS
+LEAK_VLT.VI
+LEAK_VLT.VI
+Leakage DataX
+LEAK_VLT.VI
+Leakage Voltage Test
+Leakage Voltage Test
+0Leakage Data
+Leakage Voltage Test'
+LEAK_VLT.VI
+LEAK_VLT.VI
+LEAK_VLT.VI
+LEAK_VLT.VI
+LEAK_VLT.VI
+LEAK_VLT.VI
+LEAK_VLT.VI
+LEAK_VLT.VI
+LEAK_VLT.VI
+LEAK_VLT.VI
+LEAK_VLT.VI
+LEAK_VLT.VI
+LEAK_VLT.VI
+LEAK_VLT.VI
+LEAK_VLT.VI
+LEAK_VLT.VI
+LEAK_VLT.VI
+LEAK_VLT.VI
+Leakage I Data2
+Leakage I Data0
+Leakage I Data23
+Leakage I Data23
+Leakage I Data23
+Leakage I Data23
+Leakage I Data23
+Leakage I Data 3
+Leakage I Data"`@
+Leakage I Data"@@
+Leakage I Data
+Leakage I Data"@@
+Leakage I Data"P@
+Leakage I Data
+LEAK_I.VIVI
+Leakage Current TestW
+LEAK_I.VI`
+Leakage Current TestPD
+LEAK_I.VIMD
+Leakage Current TestY
+LEAK_I.VIMD
+LEAK_I.VIU
+LEAK_I.VIH
+LEAK_I.VIO
+LEAK_I.VIU
+LEAK_I.VIW
+LEAK_I.VI
+LEAK_I.VI
+LEAK_I.VI
+Leakage Current Test
+Leakage Current Test
+Leakage I Data0@
+LEAK_I.VI
+Leakage I Data
+LEAK_I.VI
+LEAK_I.VI
+LEAK_I.VI
+LEAK_I.VI
+LEAK_I.VI
+LEAK_I.VI
+LEAK_I.VI
+LEAK_I.VI
+LEAK_I.VI
+LEAK_I.VI
+LEAK_I.VI
+LEAK_I.VI
+LEAK_I.VI
+LEAK_I.VI
+LEAK_I.VI
+LEAK_I.VI
+LEAK_I.VI
+Current Source CalibrationW
+Current Source Calibration`
+ Failed Calibration.R
++Current Source Calibration Passed
+Current Source CalibrationH
+Current Source Calibration?
++Current Source Calibration Passed
+Current Source Calibration
+ Failed Calibration.
+Leak_CAL.VI
+Leakage Voltage CalibrationW
+Leakage Calibrationt
+( Failed Calibration. Gain Adjustment>10%U
+Leakage Voltage CalibrationV
+Leak_CAL.VIW
+Leak_CAL.VIO
+Leak_CAL.VIH
+Leak_CAL.VIMD
+Leak_CAL.VIOD
+0 Failed Calibration. Offset Adjustment too high.W
+Leak_CAL.VIV
+Leak_CAL.VIW
+Leak_CAL.VIU
+Leak_CAL.VI
+Leak_CAL.VI
+Leak_CAL.VI
+Leakage Voltage Calibration
+Leakage Calibration
+Communication Error.0 Failed Calibration. Offset Adjustment too high.( Failed Calibration. Gain Adjustment>10%
+Leak_CAL.VI
+Leak_CAL.VI
+Leak_CAL.VI
+Leak_CAL.VI
+Leak_CAL.VI
+Leak_CAL.VI
+Leak_CAL.VI
+Leak_CAL.VI
+Leak_CAL.VI
+Leak_CAL.VI
+Leak_CAL.VI
+Leak_CAL.VI
+Leak_CAL.VI
+Leak_CAL.VI
+Leak_CAL.VI
+Leak_CAL.VI
+Leak_CAL.VI
+Leak_CAL.VI
+Choose file to read.RD
+Choose file to read.
+`Couldn't retrieve the proper Software Rev. number.  Please set this manually on the front panel.
+Couldn't open the Software Rev. file.  Please set the Software Rev. manually on the front panel.  Place the flopply disk in the computer NOW.MD
+RCouldn't open the Software Rev. file.  Place the flopply disk in the computer NOW.s
+'Last known LC103 Software Rev. is:  VERg
+'Last known LC103 Software Rev. is:  VERMD
+PAn invalid Software Rev. number was specified.  Please fix this after cal fails.
+PAn invalid Software Rev. number was specified.  Please fix this after cal fails.
+'Last known LC103 Software Rev. is:  VERRCouldn't open the Software Rev. file.  Place the flopply disk in the computer NOW.
+Couldn't open the Software Rev. file.  Please set the Software Rev. manually on the front panel.  Place the flopply disk in the computer NOW.
+'Last known LC103 Software Rev. is:  VER
+`Couldn't retrieve the proper Software Rev. number.  Please set this manually on the front panel.
+Inductance CalibrationW
+Perform Inductance CalibrationV
+BPlease choose the file containing the inductance calibration data.V
+Inductance Calibration
+*.calBPlease choose the file containing the inductance calibration data.
+Capacitance CalibrationW
+CPlease choose the file containing the capacitance calibration data.V
+Capacitance Calibration
+*.calCPlease choose the file containing the capacitance calibration data.
+@ Start Button"
+@ Start Button
+Software Rev.4
+Software Rev.
+@ Start Buttone4,
+Double-Click
+Double-Click
+Double-Click
+Double-Click
+Double-ClickL
+Double-Click0
+Double-Click
+Double-Click
+Double-Click
+Double-Click
+Software Rev.@
+Software Rev.
+Software Rev. 
+Software Rev.ss4
+Software Rev.ss4
+Software Rev.
+Software Rev.
+P Start Button
+` Start Button
+Software Rev.
+Software Rev.
+Software Rev.
+Software Rev.
+Software Rev.
+Software Rev.
+Double-Click
+P Start Button
+Software Rev.
+Software Rev.P
+LEAK_I.VIW
+LEAK_VLT.VIV
+Calibration Successful!!W
+Leak_CAL.VIV
+ESR_CAL.VIU
+Start ButtonMD
+CCCPlease choose the file containing the capacitance calibration data.W
+++BPlease choose the file containing the inductance calibration data.W
+Capacitance CalibrationW
+Inductance CalibrationMD
+Software Rev.Y
+Software Rev.W
+Start ButtonW
+Leak_CAL.VI
+LEAK_I.VI
+LEAK_VLT.VI
+ESR_CAL.VI
+LEAK_VLT.VI
+LEAK_I.VI
+Leak_CAL.VI
+ESR_CAL.VI
+Software Rev. Check
+Calibration Reset
+Current Source Calibration
+Gain Calibration
+Capacitance Calibration
+ESR Calibration
+Inductance Calibration
+Leakage Voltage Calibration
+Leakage Voltage Test
+Leakage Current Test
+Calibration Stamp
+Capacitance Calibration
+Inductance Calibration
+*.calCPlease choose the file containing the capacitance calibration data.PTH0
+*.calBPlease choose the file containing the inductance calibration data.
+Calibration Successful!!
+ @Start Button&@@
+Software Rev.
+Start ButtonL
+Leak_CAL.VI
+Leak_CAL.VI
+LEAK_I.VI
+LEAK_I.VI
+LEAK_VLT.VI
+LEAK_VLT.VI
+ESR_CAL.VI
+ESR_CAL.VI
+Software Rev.PTH0
+ESR_CAL.VI
+LEAK_VLT.VI
+LEAK_I.VI
+Leak_CAL.VI

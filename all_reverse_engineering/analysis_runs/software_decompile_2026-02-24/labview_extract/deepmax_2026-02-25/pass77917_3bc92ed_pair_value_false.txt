@@ -1,0 +1,37 @@
+53009:1cb61a EAstatus is TRUE if an error occurred; the default value is FALSE.
+54250:1e0000 EAstatus is TRUE if an error occurred; the default value is FALSE.
+100604:4a38b8 EAstatus is TRUE if an error occurred; the default value is FALSE.
+101014:4aa54a EAstatus is TRUE if an error occurred; the default value is FALSE.
+101598:4b7731 status is TRUE if an error occurred. If this value is FALSE, then the error handler assumes that no error occurred according to the error in, and then checks the error code.
+101605:4b7949 status is TRUE if an error occurred. If this value is FALSE, then the error handler assumes that no error occurred according to the error in, and then checks the error code.
+223266:a246 EAstatus is TRUE if an error occurred; the default value is FALSE.
+224543:1fae0 EAstatus is TRUE if an error occurred; the default value is FALSE.
+258975:21b10c EAstatus is TRUE if an error occurred; the default value is FALSE.
+259411:2225fa EAstatus is TRUE if an error occurred; the default value is FALSE.
+260031:230309 status is TRUE if an error occurred. If this value is FALSE, then the error handler assumes that no error occurred according to the error in, and then checks the error code.
+260038:230521 status is TRUE if an error occurred. If this value is FALSE, then the error handler assumes that no error occurred according to the error in, and then checks the error code.
+314019:14df26 status is TRUE if an error occurred. If this value is FALSE, then the error handler assumes that no error occurred according to the error in, and then checks the error code.
+314026:14e13e status is TRUE if an error occurred. If this value is FALSE, then the error handler assumes that no error occurred according to the error in, and then checks the error code.
+340502:ed509 status is TRUE if an error occurred. If this value is FALSE, then the error handler assumes that no error occurred according to the error in, and then checks the error code.
+340509:ed721 status is TRUE if an error occurred. If this value is FALSE, then the error handler assumes that no error occurred according to the error in, and then checks the error code.
+371471:1840b2 status is TRUE if an error occurred. If this value is FALSE, then the error handler assumes that no error occurred according to the error in, and then checks the error code.
+371475:1842aa status is TRUE if an error occurred. If this value is FALSE, then the error handler assumes that no error occurred according to the error in, and then checks the error code.
+372365:193a75 EAstatus is TRUE if an error occurred; the default value is FALSE.
+372950:19ba2a EAstatus is TRUE if an error occurred; the default value is FALSE.
+405306:3baaaf EAstatus is TRUE if an error occurred; the default value is FALSE.
+406210:3ccc41 EAstatus is TRUE if an error occurred; the default value is FALSE.
+434172:f7cd5 status is TRUE if an error occurred. If this value is FALSE, then the error handler assumes that no error occurred according to the error in, and then checks the error code.
+434176:f7ecd status is TRUE if an error occurred. If this value is FALSE, then the error handler assumes that no error occurred according to the error in, and then checks the error code.
+470151:107256 status is TRUE if an error occurred. If this value is FALSE, then the error handler assumes that no error occurred according to the error in, and then checks the error code.
+470155:10744e status is TRUE if an error occurred. If this value is FALSE, then the error handler assumes that no error occurred according to the error in, and then checks the error code.
+504218:1ea345 status is TRUE if an error occurred. If this value is FALSE, then the error handler assumes that no error occurred according to the error in, and then checks the error code.
+504222:1ea596 status is TRUE if an error occurred. If this value is FALSE, then the error handler assumes that no error occurred according to the error in, and then checks the error code.
+504902:1f56f6 Astatus is TRUE if an error occurred; the default value is FALSE.
+505280:1fb668 Astatus is TRUE if an error occurred; the default value is FALSE.
+527762:3bc292 Astatus is TRUE if an error occurred; the default value is FALSE.
+528595:3cc4f2 Astatus is TRUE if an error occurred; the default value is FALSE.
+546547:f6be5 status is TRUE if an error occurred. If this value is FALSE, then the error handler assumes that no error occurred according to the error in, and then checks the error code.
+546551:f6ddd status is TRUE if an error occurred. If this value is FALSE, then the error handler assumes that no error occurred according to the error in, and then checks the error code.
+579637:16e208 status is TRUE if an error occurred. If this value is FALSE, then the error handler assumes that no error occurred according to the error in, and then checks the error code.
+579641:16e459 status is TRUE if an error occurred. If this value is FALSE, then the error handler assumes that no error occurred according to the error in, and then checks the error code.
+596260:e670e Astatus is TRUE if an error occurred; the default value is FALSE.

@@ -1,0 +1,320 @@
+
+===== PAGE 1 OCR =====
+| CAPACITOR & INDUCTOR ANALYZER a
+Simplified Operating Instructions lad
+* Pinpoints bad capacitors and inductors “in-circuit’ ee oe
+» Analyzes capacitors for all 4 failures out-of-circuit Soe A
++ Test surface mount components with special probe boos
++ Analyze inductors with exclusive, patented tests Be
++ Automatic GOOD/BAD test results to EIA standards Bea:
++ Tests SCRs and Triacs with SCR250 optional accessory oe y
+E Table Of Contents be
+| 4, Zeroing Test Leads and Adjustable Probe be
+2, Entering Capacitor Parameters og
+|. Performing In-Circuit Capacitor Test a
+| __ 4, Performing Out-of-Circuit Capacitor Tests bo
+ee 5. Entering Inductor Parameters aA
+| __ 6. Performing In-Circuit Inductor Test oe
+pe 7. Performing Out-of-Circuit Inductor Tests Le
+|_ 8. Interpreting Error Messages baie
+BE 9. Maximum ESR Chart (for Alum Lytics) a:
+E 40. Maximum Leakage Chart (for Alum Lytics) ee
+| 44. Maximum ESR Chart (for Tantalum) Bae
+12. Maximum Leakage Ghar (for Tantalum) ;
+a 13. RS232 Commands
+Ee Form #6809
+i Printed US.A.
+
+
+===== PAGE 2 OCR =====
+1. Zeroing Test Leads and Adjustable Probe a4
+1. a.Open Test Clips b. Adjust Probe to Open 2s 3
+2. Press Lead Zero Open Button |
+nae AD BERO |
+8. a.Short Test Clips b. Adjust Probe to Short F :
+>> 4
+4. Press Lead Zero Short Button
+fo) fro aa
+2. Entering Capacitor Parameters
+1. Enter Capacitor Type
+Regptmnildpiad COMPONENT SETUP
+2. Enter Capacitor Value and Multiplier
+ces es TS COMPONENT SETUP
+Joy) rao
+EAST oof}
+3. Enter “+" and “~” Tolerance
+Sage ARETE] | Sear nares ——
+Z COMPONENT SETUP
+088 el :
+AAA AR VOSA
+4. Enier Operating Voltage
+we oere| aera
+DEBGC| VOGCEC peters
+
+
+===== PAGE 3 OCR =====
+3. Performing In-Circuit Capacitor Test a
+- REMOVE CIRCUIT POWER! - aA
+1. Press Probe Tips to Capacitor Leads & ae
+: i 4
+ee | Vg ea
+2.Press Test Activation Button Press In-Circuit Test Button
+Freer ia
+p |
+or RQ XS) a
+ie Sai) -
+3. Read Test Results Display
+Leto3 RéGiver CAPACITOR & INDUCTOR ANALYZER aa
+4. Performing Out-of-Circuit Capacitor Tests —
+1. Value Test
+a. Press and Hold CAPACITOR VALUE Button _b. Read Test Results Display
+a Let03 ‘épiver CAPACITOR & INDUCTOR ANALYZER
+(ee — ee
+as
+2, ESR Test
+a. Press and Hold ESR Button b. Read Test Results Display
+Le103, ‘RéSver CAPACITOR & INDUCTOR ANALYZER|
+o>
+—~ farsa SSS al Seneca racel
+3. Dielectric Absorption Test
+a. Press and Hold b. Read Test Results Display
+DIELECTRIC ABSORPTION Button
+pose) Teies diver CAPAGTOR & INDUCTOR ANALYZER
+4. Leakage Test
+a. Press and Hold LEAKAGE Button b. Read Test Results Display
+(exex L103 ‘Régiver CAPACITOR & INDUCTOR ANALYZER
+foeectnc} {cxprcro| :
+osonrnon | teariae courone sev sag MPONENT TEST ESAS
+LTOSE = —
+
+
+===== PAGE 4 OCR =====
+5. Entering Inductor Parameters 28
+1. Enter Inductor Type bee
+COMPONENT SETUP ee a
+wy restusad Be
+F
+2. Enter Inductor Value and Multiplier 4
+3. Enter “+” Tolerance Value 4
+Semen eT mare NMAMETERS ogy 4
+=| GS eae (m} COMPONENT SETUP E
+YaBB peseu a
+aéseal ) an a
+4, Enter “-” Tolerance Value a
+PE Sgueonenr Pana] PONENT PRANETERS—— ae
+FIOSES |BGL00| peice |
+désag |//x>,| = a
+6. Performing In-Circuit Inductor Test 2
+- REMOVE CIRCUIT POWER! -
+1. Connect To Inductor
+9 Nee
+a.
+2.Press Test Activation Button Press In-Circuit Test Button
+ncn WONT
+or fas (ta)
+C
+S500 | (neuen
+‘BS
+3. Read Test Results Display
+Lc103 AGiver CAPACITOR & INDUCTOR ANALYZER
+comPonexr seruP Ccouponenr Test RESULTS
+
+
+===== PAGE 5 OCR =====
+7. Performing Out-of-Circuit Inductor Tests a
+1. Inductor Value Test a
+a. Connect Test Clips To Inductor b, Press And Hold INDUCTOR VALUE button oh
+y = le
+eit. |
+c. Read Test Results Display rt | |
+L103 gin CAPACITOR & NOUCTOR ANALYZER |
+couronent serve corn TEST REBATS
+|
+2. Inductor Ringer Test F
+a. Connect Test Clips To Inductor b. Press And Hold INDUCTOR RINGER button =|
+oa ("sa (
+c. Read Test Results Display
+Bea
+Letos éBiver CAPACITOR & INDUCTOR ANALYZER ei
+cays comers RaURTY
+>PPrrrrrrrrrr ea
+8. Interpreting Error Messages -_
+Error Message Corrective Action
+* Component Type Selection Error * Select Proper
+Component Type
+¢ Entered Value Beyond Range Of Unit | * Check Entered Value
+* Entered Value Beyond Range Of Test | ¢ Compare Entered Value
+With Range Of Test
+° Value Beyond Zeroing Limit © Check Test Leads
+* No Voltage Entered ° Enter Voltage
+© Invalid Computer Interface Command | * Check Command Code
+¢ Component Out Of Test Range * Check Range Of Tests
+
+
+===== PAGE 6 OCR =====
+9. Maximum Allowable ESR a
+Standard Aluminum Electrolytic Capacitors ae
+RE A A
+["3a_paor | aoi_[2o1_[2or [tar] raf sar [tox [vor [eo [eo [eo | eo [eo [eo [eo | jo
+[rar [ar [va [ia [sat [ee [oe [oo [7 [mt [ss [se [se 56 [se [55 | 56 | :
+a
+[-io[os [sss [os |e [ae [ae | a3 [os [er [ev |e fer fer [er fer | |
+a 0
+OT
+[~33[-20-|-20_[-20 [20 |1¢_| 14 | 14 [10 | 10 [aoe [a.0¢ Jace | eoe [804 [eos [aoe | |
+[Tar [Pia [ia [1a [14 908 [aes [o08 [7.06 7.06 [505 [5.05 | 505 | ses [505 [ses [ses | |
+[s8 [o7e |a76 [576 [9.76 [60a [6.09 [eas [40s [eas [390 [3.90 [390 [seo [390 [390 [3.90 |
+[100 fess [s4s_|603 [sca [ace [aoe | a6a [a2 [392 [aes [05 [265 [aes [es |265 [265 |
+[150 [eae [ase [aae [442 [310 [oto [aso [22s [eas Purr for [or [ar [err [or [a7 |
+[220 “foe aos [ace [oe feu fas fan [usr [ose (a2 [ozs [rar [iat [oar [s20 [oar |
+[sat feo feo Teor fam tia tier fiat [ro for [oo {aoe | oo foo [ane co Late |
+[680 [-o76_[-s76_[-s7s_[-s76 | 603_| 605 | 609 | 488 | 400 | 390 { 00 | 390 | s00 | 00 | 300. | 900 |
+[ooo [-sss|-e63 [ 063 | 663 | 464 | 464 | 464 | 200 | 292 | 205 | 205 | 255 | p05 | 205 255 | 265 | |
+a
+[x20 [soe |s0e [302 [soe [ent [ets _[ on ts [iss [sar [sar [sar [vay | ser {ar [21 |
+[-zao0[-2orf-zot_[eot_[-2ot_[ sar [sar [sar] sor |.101 [080 [080 [ceo t-o80 080 [080 [oso] F
+[4700 [iat [-1a1_[ 141_| 141 | 098 | 098 [099 ors | ars | 056 [056 | 056 | 086 [086 | ose |.oss |
+[6800 [096-098 | 096 | 098 [068 [068 |-068 |.049 | 04 | 030 | 039 [039 |.030 [090 | 030 [09] f
+10. Maximum Allowable Leakage a
+Standard Aluminum Electrolytic Capacitors
+
+pee SPST T STO]
+Lis
+fits petspsrststsisistspofsfo ts lots]
+faspepststspsts|sisistels [alo te {es [eet
+[z2tstspstststs}s>s te [ute |e [a | io fam far]
+[ss ps tetspetsts|s|] ee | {ss [so | ae | om | or [oss |
+tarts psps ts fs | s | 6] 3 | 2 {es [a [ms | oso | om [oe [aI
+tests ps ps ps)s |? «|| | 3 |e | en | oro | oso [oes [as |
+[pss ts ts | = | w|i |e | es | so | aes | oes [oro | aes | aes [ooo |
+eps ss pe pit [is | 19 | 26 [38 | ase [aoa [ 402 [aes [a0 see 738 |
+Capes 7 a | 2] a8 | -99_| 108 | a0r_[s80 [487 | sea | cao [600 | 600 |
+[sss sp io [7 | 2s | ss | a aoe eae [ots | aor [507 | 000 [rm | oat | 7080 |
+a
+[ee [-s [to [20 [a0 192 | zor | ar] 200 | a50_| a05 | 700 | 57_[ 900 | v10s | vzte | ise |
+[Caoo[Ts [1s [30 [so | 22 | a88| 300 [ass _[ 424 | e00 | ea0 | 1038 | v200 | tase [1470 | 1ee7 |
+[-is0—[ 11-23 |a5| a2 205 | e20_ | abr [ass [520 | 795 [rose | vars | 1470 {ross | 1200 [ast |
+[rao [7 [ss | ere | 26r_| ons | soe | as | see_| 600 e00 | vase | sat | 17e0 | so00 | 2160 [2ete |
+[Caan [25 [50] aor | aes | aee | aar | eas | o46 | 771 [1000 | soet | toes {2100 | aaa | 2670 [447 |
+[ravo—|-a [eas [sig [ att | 504 | see | 600 | 770_| 920 | vaor | 1e40 [2289 | 2002 | 200s | stee | 4118 |
+[seo] rea7] a7] aea_[ 495 | 60s [ 700 | 7e2_| 900.1109 | 165_| 2213 | e710 | s1ae | aspe | soe | 4098 |
+[i000 232 | azo | 205 | o00-| 735 | ef0 | 040. | 1122 | rosz | ve0r | anes | oeee | S705 | 4205 [4606 | 6000 |
+[soo [285 | a02 | seo | 735 | 00. | toss | 1162 [1075 | teas | 224 | oaee | 402s | sexe | ies | S802 | 7308 |
+[ aa00~[ sae] ae7 | 600 | 00 | 1000 | 1050 | 1407 | 1665 | 1990 | 2614 | 9000 | 4574 | soae_| cava | 680s | 3808 |
+["sa00 aaa -s07 | eat | 1000 | ross | 1501 | 1723 | 20a0 | 2es7 | sear | ars | s970 [evs | 7707 [ees ||
+[aroo | goa | 712 | 1008 | 1201 | 1505 | vea0 | 2osr | 2404 | 2000 | ats | ser7 | 7125 | ezar [ores | ||
+[-ssoo” | 06] as7_| rt2]| 150s | 016 | ots | 2474 | 20a7 | oano | woas | over |asvo feeas | | ||
+[0000 | 725 | 102s] v470-| 1e97 | 2320 | 2600 | 2000,| s560 | e2sa |eooo teas | [|
+[soo0-| 200 | t2r2_| re00 | ane [zoe |sexé | sera [aaar [e106 [rove | [TT
+[22000 [1000 | tet |21a0-| 2674 | sear | 3080 | 4480 | sees [zea [esse [fT
+{ se000 | 295°] ieee [2670 | oaa7 [azen [aera [easo fos |r| [TPP Pt
+[arooo-| 1868 [22s | 3106 | 4115 | coon | sat? [esoe |ve0s [ove ff
+| se000 | a7a9 | 2458 | oe7e | aa00 | 5290 [oso | vows fewol |p
+[roo00 | sae | szoe [asse | cooo | rosa [ewes four] tft
+[is0o00 | 2046 [4025 [seve | 7o40 [e000 [| tf Pt
+lesonoo [ear Taare Teno Tomo T1111 | 1 {TT 1 5
+
+
+===== PAGE 7 OCR =====
+11. Maximum Allowable ESR ea
+
+Dipped Solid Tantalum Capacitors oe
+ee
+[is aes [ees [oss [oat [sor [51 [sai |ssi [asi [asi [ssi [ssi [ssi [sar [ssi [esr] |
+[22 [ens | 609 | 60s [ a62 [sez | 902 | sez | 302 | se2 | sea | 302 | 362 [asa |e | sea face| |
+PO ee
+| #7 [20a [20a [aca [1.00 [180 | 169 [1.69 | 159 | 1.69 [169 [169 | 169 | 169 | 1.69 | 169 | 169 |
+ce RE RE RE TS BT A A
+[100 [133138 [135 [oso [080 | 080 [oxo | o20 | 000 | 020 | 080 | 080 | 080 | 0.90 | 080 | 0.20 |
+[iso [oe [oae [oe [088 | cae [08s [oss [oss [oss [oss | oss | oss | 083 | os | 059 | 059 |
+[220 [o.60 [060 [060 [060 | 060 | 0.60 | 060 | 036 [036 | 026 | 096 | 098 | 036 | 0.6 | 036 | 0.56 |
+[-ss0"['oso [040 [0.40 [0.40 [0.40 | 0.40 [o40 [028 [026 024 | o24 [0.24 [ozs | 024 | 024 | 026 | fe
+[aro [ozs [028 [028 [ozs | 028 [ozs [ozs | ox | or | 017 [our [ot | on | or | oar | os | ‘
+[s20_[020 |'o20 [020 [020 | 020 | 020 [020 [ox [ose | o12 | 012 | ova | ore [oie | 012 | 012 |
+[2200 [0.06 | 006 | 0.05 {0.06 {0.05 | 0.06 | 006 [008 [00s [0s [00s [aos [00s [oo | 000 foo] |
+
+com
+
+12. Maximum Allowable Leakage
+
+Dipped Solid Tantalum Capacitors
+Pees vav [sav [oov [sev [sev [aov [av | ev [ov [sev [ane [sv [soov [soov [sev [toon |
+(aero a ee oe Po ie ee fas Pas Per oe Pee)
+A EE
+(as_[r0 [40 [10-10 | 0 [9 [14 [9 [20 | 4s [or [7a [as [os [i | ie
+[22 [10 [10 [10 [40 [10 [10 [18 [12 [20 [52 [75 [90 | io [2 [13 | 16 |
+[sa_[10 [40 [10 [19 [40 [is 122 [20 [30 [4 [90 |i [is [ie [16 [20 |
+[a7 [io [io [10 [0 [is [20 [268 [26 [as Pro fs is fo fo fa |
+[ee [io [40 [40 [is [20 [2s [30 [so [es [os |e | ie | ie | 20 | 22 | 29 |
+[io Pre Tis [16 [20 [25 [30 [ao [so [7s [|e | ie | | as [a7 ss |
+[38 [ea [aa [o2 [es [a0 | a0 [70 [so [os [uu | [a fa [ope pa |
+[22 [es [as [ee | so | so [es | io | to | 2 | ie | 23 | ae | es [a7 | ao [se |
+[ssa [aa [oa [so [7s fs [io [|e [20 [a8 [os [ao [as [ao fo |
+[a7 40 [40 [40 [10 [to | ts [as | 16 [17 [2a | a4 | a2 | ae [sa | 50 [76 |
+[e_[s0-[s0 [so [ [ss | | is | 7 | 20 [20 [a [so | se [os [71 [or |
+Ce
+[150 | 15_[ 1s [15 [20 | 20 | to | a1 [2s [90 | 4a | er | 74 | 06 | 98 | 105 [196 |
+[220 [20 [20 [20 | 20 | 20 [2s [a6 [at [a7 [se | 73 | 90 | 04 | 116 | 127 | 164 |
+EO
+[ravo_[-2a [24 [24 [ae [20 oe [a8 as | 56 | 76 [or | at | 152 | 170 | 185 | 200 |
+[seo [20 [29 [29 [29 [as [a1 [a6 [ss [es | or | 120 | 58 | se | 00 | 924 | 0 |
+[yo00- 95 [as [-35_[es_[aa [ao os [es _[ ve [ant | sor | ge | 2a a7 [art | 950 |
+[ss00-[~43[-3_[ <3 [a3 | s_[ or | oe | 00 | 06 | 196 | soe | 205 | 27s | sos | soa | 9 |
+[zeo0-|~s2 [se se [se | 6s_[ 73 [02 [or | 6 | 1e8_| ase | ee | 328 | 307 | 02 | 19 |
+[-sa00[ ee [ea [ oa _[ es [ve [oo vor | v9 | saa [201 | aoe [oa | aoe | aso | a0z | o06_|
+| azo |"76_| 76 _|"76_[ 76 | 93 _| ior | 420 | 42 | vo | 240 | as0 | aie | 4a0 | ss7_[ see | 759 |
+[-ee00 [ei [ 9-91 | oi [asa [29 [144 [71 | 208 | 2g [aoe [S00 | s77_| o4s | 7o7_| 213 |
+[0000 [ae (aa fan [oss | 196 | ss7_| ts_[ 2or_| ear [960 | a05 | 608 | 700 | 7as_[ esr [1107 |
+[ssooo [136 | vas" [ 196 [196 | ae6 | 102 [ate | 250 | sos | 420 | 606 | 742 | ao7 | e59 | 1050 | 1956 |
+[22000 | sos | ves | tes | 164 | 201 [exe | 200 | s07 | 67 | 519 | 794 | ooo [1008 | Tier | v272 [ree |
+[s3000| 201 | 201_| 201 | 201 | 2as | 204 | ate [sre | 4s0_| a6 | e090 | vor [272 | 122 | 1557 | 20rt |
+[#7000 | aio" | 240 [ato avo | 208 [S50 | 379 [aso [sar | 7s9_| sora | rors | vete | 1697 | va59 [2569 |
+[s0000 | 280 | zee | 280 | 00 | ass [408 | 456 | s10_| c4s | 1a | 1201 | 1581 | 102s | 20st | 226 | 2006 |
+[ra0000) 50 | 250 | 950 aso] 420 [405 | sso [ ess | res] v107 | 1565 [torr | eata [247s [ari [500 |
+[150000] 429 | 428 | 420 | 429 | sas | 606 | 076 | e02 | 969 | 1966 [i917 | aeie | 2711 | 90st | se20 | aee7 |
+[2oooo0} 405 | 495 | 495 | 495 | 606 [734 | 7a3 | 971 | 1100 | 1570 | 2010 | 2710 [3130 | 3500 | 3830 | 6191 |
+
+
+===== PAGE 8 OCR =====
+13. RS232 Commands ;
+(ALM Aluminum Electrolytics a
+, DBL Double Layer pees
+| TAN Tantalum Caps poe
+| CER Ceramic Caps bee
+| AOC All Other Caps oe
+_HIR ____ High Resistance Double Layer Lytics lee
+| cou Coils ee
+| YFB Yokes and Fiybacks by
+
+SWX ‘Switching Transformers ae
+VALUE MULTIPLIERS '
+oF PicoFaraa es
+ae Fosiive meanos ¢ neces bee
+TEST FUNCTION COMMANDS ‘
+CAP : __Capacitorvalue '
+Aki Leakage current I
+LKR Leakage resistance /
+DIA _ Dielectric Absorption |
+
+ESR - _ _.______ Equivalent series resistance
+
+IND Inductance oo
+
+RIN, sCORinger —
+
+cic «Capacitor in circuit oe
+
+EIC ESR in circuit
+
+IC Inductance in circuit ;
+
+GENERAL COMMANDS
+
+LDO ___Leadzeroopen — :
+NEC NoFunction
+
+(CPO ____Gontrol panel on Yront panel operation)
+
+CtriR Continue taking/sending testdata__|
+
+CtrlO. Return a single reading, (default)

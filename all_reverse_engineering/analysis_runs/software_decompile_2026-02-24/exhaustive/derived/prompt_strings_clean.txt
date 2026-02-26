@@ -1,0 +1,3223 @@
+DAQDRV: return value from LoadLibrary is %d
+SetCINArraySize, elmtNum %ld out of range 0 <= elmtNum < %ld
+oKJM
+:Kok
+okKht
+oKgy
+`OKyO
+ok~Y
+E}uypQOkE=2
+Mokz
+v`OK
+okR-
+8OKG
+)r9JOk
+k+uxok
+?f7ok
+Fh6OK+
+OK"V_
+lNi,LOkI
+oK[}h
+/oks
+/22ok
+ROK.
+ONOK^"
+oKNX
+QZV^OK
+68-OK,
+UMVOk
+^OK[=
+\oK-
+jjoK
+)OK (
+uOka%
+nSUOK
+RxoK
+`<bOk_
+pOK3K_
+gNoK{
+8Gok0
+okJR
+okz^Zc
+/rok
+Nvjok
+coKlvz
+Azok
+lDsP#iok
+RzOKB
+FOKu
+DdeConnect
+DdeConnectList
+DdeDisconnect
+DdeDisconnectList
+DdeGetLastError
+DdeQueryNextServer
+DdeReconnect
+CommDlgExtendedError
+ChooseColor
+ChooseFont
+OleRevokeClientDoc
+OleQueryReleaseError
+OleReconnect
+OleRevokeServerDoc
+OleRevokeServer
+OleRevokeObject
+BeginEnumStrokes
+GetPenDataStroke
+SetPenHook
+SetRecogHook
+LZStart
+joyGetThreshold
+joySetThreshold
+mciGetErrorString
+midiInGetErrorText
+midiInStart
+midiInStop
+midiOutGetErrorText
+midiOutShortMsg
+waveInGetErrorText
+waveInStart
+waveInStop
+waveOutGetErrorText
+waveOutRestart
+ClassNext
+GlobalNext
+LocalNext
+ModuleNext
+StackTraceNext
+TaskNext
+TaskSwitch
+LZDone
+Error opening file
+Allocation error
+Error
+Read error
+Relocation read error
+CDBError
+StartDBGToFile
+FFmtOK
+HObjListInsert
+CatchBusError
+WStartTrack
+MultiClickMods
+IsDblClick
+WStartTimer
+RemoveChildFromTree
+InsertChildIntoTree
+WNextSubWindow
+HostSelectNormPen
+HostSelectPen
+TGetSelection
+TSelectText
+RemoveCaret
+InsertText
+TInsert
+DoubleClickSelect
+InsertHexDump
+TSelectLine
+FRemove
+FLockOrUnlockRange
+InsertObjHeap
+RRemove
+RError
+CmpMToken
+NextToLastMenu
+IDrawBitsToPrinter
+CfgRemove
+ChooseRGBColor
+DStartColorAlloc
+SelectWindowsFont
+CPStrRemoveDuplicates
+TNextChar
+TXPrevNextChar
+LItemSelectable
+LMHasTopArrow
+LMenuChoose
+LMNextItem
+MInsertLSeparator
+MInsertLItem
+PMNextItem
+PMenuChoose
+AZInsertHandleBytes
+WRemoveWindEvents
+FinishConnect
+NCConnectTo
+NCConnect
+NCConnectLow
+WSAStartup
+select
+WSAGetLastError
+connect
+WSAAsyncSelect
+CPStrInsert
+CPStrRemove
+CenterRect
+DSelectNormPen
+&DSelectPen
+LVDrawable_SelectNormPen
+LVDrawable_SelectPen
+LVHostDrawable_SelectNormPen
+1LVHostDrawable_SelectPen
+LVPSDrawable_SelectNormPen
+LVPSDrawable_SelectPen
+CfgToken
+NonExistingLVRTError
+ObjListInsert
+MapInRange
+InvMapInRange
+Power10
+CompleteDS
+Done
+StopStep
+VIErrorNotify
+CodeErrorStopMsg
+SubVIStartUp
+LookupEnum
+ClustTDInsert
+MaybeClustTDInsert
+SelectOStandardizeMethod
+RemovePascals
+CompleteTempCode
+ReadSelectedCursors
+WriteSelectedCursors
+SelectCurrentArrayDDO
+GCPostEditSelection
+InsertOffset
+RemoveOffset
+StopLoading
+InsertMultiPublic
+ErrorMethod
+ReserveErrorMethod
+ReleaseErrorMethod
+ScrListInsert
+TestSetInsert
+TestSetRemove
+GetEnterTextButton
+EnterTextSlotClick
+ResetSlotClick
+RunSlotClick
+SuspSlotClick
+FRunSlotClick
+LoggingSlotClick
+PrintingSlotClick
+UpDownSlotClick
+VIContentClick
+NumTypeOK
+InsertAttrNames
+StdListboxODrawSelectionMethod
+ListboxSelect
+ListboxNextSelectableItem
+ListboxNumSelectItems
+StdListSelect
+FindNextSelectableItem
+StdClustOPopUpMethod
+StdListOPopUpMethod
+CosmOEmptySelectionMethod
+DDOOEmptySelectionMethod
+StdClustOEmptySelectionMethod
+IndArrOEmptySelectionMethod
+StdRefNumOEmptySelectionMethod
+CosmDrawSelection
+CosmODrawSelectionMethod
+-LScaleODrawSelectionMethod
+RScaleODrawSelectionMethod
+StdBoolODrawSelectionMethod
+StdListODrawSelectionMethod
+StdGraphODrawSelectionMethod
+DDOODrawSelectionMethod
+SupCOEditSelectionMethod
+LabelOEditSelectionMethod
+StdNumOEditSelectionMethod
+StdStringOEditSelectionMethod
+StdPathOEditSelectionMethod
+StdListOEditSelectionMethod
+LScaleOEditSelectionMethod
+RScaleOEditSelectionMethod
+AnnexOEditSelectionMethod
+CosmOEditSelectionMethod
+FPDCOOEditSelectionMethod
+DDOOEditSelectionMethod
+StdSlideOEditSelectionMethod
+StdGraphOEditSelectionMethod
+StdClustOEditSelectionMethod
+IndArrOEditSelectionMethod
+StdTableOEditSelectionMethod
+StdListboxOEditSelectionMethod
+StdRefNumOEditSelectionMethod
+TypeDefOEditSelectionMethod
+SelectConcat
+SelectStrip
+InsertObjMenuItem
+IsSortaSelected
+ChooseNewKbdFocus
+RemovePict
+ShowMemError
+HeapListClick
+ObjListClick
+ObjectClick
+VIClick
+GetSelectableObj
+DoKey
+EnterText
+PiccSwitch
+DrawUDSwitch
+DrawLRSwitch
+SelectHilitePen
+ColorMenuChoose
+DlgDisableTextSelection
+DlgInsertListItem
+DlgGetDoubleClickListItem
+DlgGetSelectedListItem
+DlgSetSelectedListItem
+GetFocusAndSelection
+FDChooseImages
+FDSelect
+FDPathExistsOK
+FDSetOKButton
+NeedOpenAndSelectButtons
+PrVIPartListOPrBuildPageMethod
+PrNodeListOPrBuildPageMethod
+PrFrameListOPrBuildPageMethod
+PrVIPartListOPrPageMethod
+PrNodeListOPrPageMethod
+PrFrameListOPrPageMethod
+AdvanceToNextPage
+PrVIPartListOPrDFLayoutMethod
+PrNodeListOPrDFLayoutMethod
+PrFrameListOPrDFLayoutMethod
+PrNodeListOPrGetCWidthMethod
+PrFrameListOPrGetCWidthMethod
+FPLockRange
+CompressFile
+UncompressFile
+ArchiveRemoveFile
+RemoveLLBFile
+ChkRange
+Set by
+ScaleEditSelection
+DrawCellSelection
+InTableSelection
+UpdateTableSelection
+NoProxyVICompleteCP
+SaveLoadErrorAlert
+ShowNameErrorDlg
+RemoveLVSB
+LoadErrorProc
+RTThreshold
+InArrSelection
+DisplaySelectedPage
+EmptySelection
+AppendToSelection
+RemoveFromSelection
+ToggleSelection
+CopySelection
+IsDataPasteOK
+IsPasteOK
+PasteSelection
+DrawSelectRect
+EditSelectionModifyFont
+LineStyleMenuChoose
+Out of memory.  Please free some memory, then choose retry.
+connect.c
+fpselect.c
+bdselect.c
+rangebox.c
+MEM_INTERNAL_ERROR
+MEM_LOCK_ERROR
+Error #%ld: %s "%s" line %ld\n\nRecord this information and contact National Instruments for Technical Support.
+stack crawl? (set edx to 1 and continue...)
+couldn't open coredump.lv with initialized path...
+couldn't open coredump.lv with simple string...
+can't open coredump.lv with string %s
+epb chain hopelessly broken...
+more? (set edx to 1 and continue...)
+wePopupClick
+weMenuSelect
+vkEnter
+vkInsert
+Unable to start the application because you do not have at least %ld bytes of memory available.
+MEnableItem: %ld out of range [1..%ld]
+MDisableItem: %ld out of range [1..%ld]
+Enter
+error adding resource! err = %ld
+error calling IAdd (2)! err = %ld
+error calling IAdd (3)! err = %ld
+IIsSolid ERROR!!!!!!!!!!:%ld
+IMG_decompress_bitmap
+IGetFile: decompress failed w/error=%d
+LoadExternalFunction: LoadLibrary: error = %ld
+EError loading lvdevice.dll.  The one loaded is either corrupt or old.
+Trying to completely dispose of %s font ######
+********** Completely disposing a font %ld while collecting ref counts
+Error in TLoadFontReference !!!!! %ld
+Error loading text !!!!! %ld
+DSelectPen
+MInsertLItem: %ld out of range [1..%ld], (%p)
+WSAStartup failed. err=%d, vers=%d
+FinishConnect: what indication??
+FinishConnect: error on connect, wsaerr = %ld
+ncConnectCompleted
+ncNewConnection
+ncReadCompleted
+ncWriteCompleted
+%s: %s: conn=0x%08lx, err=%ld, amtDone=0x%lx, nc=0x%08lx
+NCConnectLow: connect returned err =%ld
+%2d: magic=0x%04x, next=%d, ncp=0x%08lx
+XTYP_ERROR
+XTYP_ADVSTART
+XTYP_ADVSTOP
+XTYP_CONNECT
+XTYP_CONNECT_CONFIRM
+XTYP_XACT_COMPLETE
+XTYP_POKE
+XTYP_DISCONNECT
+XTYP_WILDCONNECT
+path to open :%z
+accepted connection
+connection refused!!!
+selectpatd
+C%ld.48 %ld.48 %ld.52 %ld.52 rect stroke  \%SetPixel%s
+newpath %.2{fS}f %.2{fS}f moveto %.2{fS}f %.2{fS}f lineto stroke%s
+?%.2{fS}f %.2{fS}f %.2{fS}f %.2{fS}f rect stroke%s
+closepath stroke
+arcStroke
+true arcStrokeClip
+false arcStrokeClip
+arcnStroke
+newcenturyschoolbook
+bookman
+-Book
+-BookOblique
+ptsArray {aload pop /v xdf /h xdf h v lineto} forall stroke
+/arcNeg xdf /endAngle xdf /startAngle xdf /htRad xdf /wtRad xdf
+/yCenter xdf /xCenter xdf /savematrix matrix currentmatrix def
+newpath  xCenter yCenter translate wtRad htRad scale 0 0 1 startAngle endAngle
+/arcStroke {false arcguts stroke} bdf
+/arcnStroke {true arcguts stroke} bdf
+/arcStrokeClip {
+/arcNeg xdf /halfW xdf /endAngle xdf /startAngle xdf /htRad xdf /wtRad xdf
+xCenter yCenter translate wtRad halfW add htRad halfW add scale
+0 0 1 startAngle endAngle arcNeg{arcn}{arc}ifelse  savematrix setmatrix
+xCenter yCenter translate wtRad halfW sub htRad halfW sub scale
+0 0 1 endAngle startAngle arcNeg{arc}{arcn}ifelse  savematrix setmatrix
+/selectpatd <3355aacc3355aacc> def
+/tCenter 32 def
+/strokewidth xdf
+outfontdict /StrokeWidth strokewidth put
+{/dw rectW w sub def justify tCenter eq {/dw dw 2 div def}if}
+{false charpath gsave stroke grestore}{show}ifelse
+{rLeft dw add currentpoint 1 add 2 copy moveto exch pop lineto stroke}if
+{rLeft dw add rTop totalHt 2 div add 2 copy moveto exch w add exch lineto stroke}if
+PSClose: FGetEOF &/or FMSeek error
+PSClose: Escape return pc err=%d
+PSClose: NewFrame escape call error!
+grestore   %% reset the section scale
+@@@ error trying to change log file
+error from CleanUpArchive: %d
+error closing tmp resfile: %d
+error deleting tmp resfile: %d
+error closing tmp lvsb resfile: %d
+error deleting tmp lvsb resfile: %d
+Click in window to continue.
+return early from LabelCalc
+really bad start
+DoRunCommand: "%p" can not be run. fp control error
+VI "%p" was stopped at %p %p 0x%lx of subVI "%p"
+AZSetHandleSize error in MakeNonMacString
+STR size error
+lvrt patch out of range: ofst=0x%lx
+lvrt index out of range: idx=%ld
+!!! not enough memory for oDisplayVal to complete
+ErrorMethod: "%p" in "%p" %4c+%lx
+Removed it
+Remove all from list
+rangeProcIdx=%d\n
+selectItem=0x%lx\n
+numSelect=0x%lx\n
+doubleClick=%d, topItem=%d\n
+hist->insert=%ld\n
+startSel indices= %ld\n
+select start: row=%ld,col=%ld\n
+select end:   row=%ld,col=%ld\n
+select color: %lx\n
+dStart=%{fD}f\n
+center= %Q\n
+next = 0x%lx, useCount = 0x%x\n
+next: %p(%ld)\n
+No next item\n
+ropen failed
+S  print net connection table
+Unable to open 'lvrt.rsc' file.
+error %lx creating temporary resource file
+error %lx creating temporary LVSB resource file
+?not done yet
+Not enough memory to complete this operation.
+Error %ld in CheckDatalogPath.
+Error %ld in PurgeData.
+ProgRetrieveRun failed w/ error %ld.
+Error %ld in OpenLogFile.
+Open FP
+Will be removed
+Overlap warnings
+PropTypes warnings other than SE warnings
+SE Warnings: object not available in SE
+nextInstr=0x%lx\nfp=0x%lx\n
+prDflts=0x%lx\nlvVers=0x%lx (%p)\nnextQVI=0x%lx\nerrRec=0x%lx\nrf=0x%lx\n
+vi=0x%lx\ncodePtr=0x%lx\ndsTMap=0x%lx\ndsHandle=0x%lx\nfpHeap=0x%lx\nnextDS=0x%lx\n
+bad return val for %lx^+%lx with args %lx(idx%ld)--returned %lx
+what the heck was selected
+DrawUDSwitch empty rect
+DrawLRSwitch empty rect
+Error in creating %ld
+Don't support multiple selection yet!!
+Unable to resolve error in SetDir!!!
+Unspecified error occurred.
+POpen failed!
+error removing archive.vi: %ld
+error removing archive.ctl: %ld
+error removing archive.lsb: %ld
+error removing $temp.llb: %ld
+STARTDOC failed.
+PCloseWind: FRemove returned err = %ld  p=%z
+NewFrame escape call error!
+?return early from ScaleCalcBBox
+min %{fD}f, max %{fD}f, inc %{fD}f, start %{fD}f
+stop the press
+pressure
+power
+capacitance
+inductance
+US short ton
+horse power
+lens power
+error %ld on unit conversion:%s at #%s
+Front Panel of "%p" not open for call.
+From posting open event
+Internal error: Not enough parameters?
+Couldn't open front panel
+NoProxyComplete
+Close VI Window
+Done Completing
+Error Loading Front Panel
+Set Abort for:%p
+Done Aborting
+Done Releasing
+error calling LoadVIHeap(1) in LoadInstrument
+can't load vi:%p, gLVLoadErrorCode = 0x%lx
+RGetNamed error
+memory error
+FCtrlLibDir error
+SmartHeap error handler recursively re-entered.
+Domain error
+Overflow range error
+Underflow range error
+Close the specified VI
+This ring displays the currently selected part.  The size and position of the current part are displayed below.  You can select a different part by clicking on the increment and decrement arrows, or by clicking on the part.
+This is the position of the top of the currently selected part (shown in the parts ring).  You can change the position by changing this number, or by moving the part.
+This is the position of the left side of the currently selected part (shown in the parts ring).  You can change the position by changing this number, or by moving the part.
+This is the height of the currently selected part (shown in the parts ring).  You can change the height by changing this number, or by resizing the part.
+This is the width of the currently selected part (shown in the parts ring).  You can change the width by changing this number, or by resizing the part.
+This button will add the comment from the comment box to the history and close the dialog.  It is the same as hitting the Add button and then closing the dialog.
+xThis button will erase the history.  You will be prompted for whether or not you want to reset the revision number to 0.
+This box displays the history of the VI.  You can not edit it directly, but you can add entries to it by typing a comment into the comment box and clicking on the Add button.
+This is the name that will be included in new history entries.  You can change the User Name by selecting "User Name" from the Edit Menu.
+This box is where you enter a comment describing the changes you have made to the VI.  When you are ready to add the comment to the history, press the Add button or select Add from the History menu.
+If you check this box, you will not be prompted for a comment on the rest of the VIs in this hierarchy that are being closed at this time, even if they have one of the prompt for comment options set.
+This menu selects one of the
+If you check this box, LabVIEW will deallocate a VI's data memory as soon as the VI completes.  Selecting this option will slow execution, but may help with memory-intensive applications.
+This is the preferred minimum amount of disk space.  If you check this box, LabVIEW will issues a warning during launch if less than this amount of
+hThis menu selects which path to configure.  The paths are:
+This box displays the current value for the path that is selected in the path menu.  You can not change the current path is "Use Default" is checked.
+vThis button lets you select a directory with the file dialog box.  The selected directory is placed in the
+vThe directory shown in this string box will be put into the path list when you click on the Insert or Replace buttons.
+lThis button inserts the directory shown in the string box before the highlighted directory in the path list.
+kThis button inserts the directory shown in the string box
+_This button removes the highlighted directory in the path list and places it in the string box.
+color menu.  Changes to this value will take effect the next time LabVIEW is launched.
+cThis menu selects which font to configure.  The fonts are:
+TThe text in this box shows a sample of the selected font using current font setting.
+VThis button brings up the font selection dialog to alter the currently displayed font.
+This is the default for the VI Setup of new VIs.  If a VI has this option set, LabVIEW will add an entry to the VI's history every time it is saved, even if you do not enter a comment.
+This is the default for the VI Setup of new VIs.  If a VI has this option set, LabVIEW will prompt you for a comment to add to the history whenever the VI is closed.
+This is the default for the VI Setup of new VIs.  If a VI has this option set, LabVIEW will prompt you for a comment to add to the history whenever the VI is saved.
+If this option is set, LabVIEW will not prompt for a user name when launched.  The user name will be set to the name entered in the LabVIEW Registration.
+If this option is set, LabVIEW will not prompt for a user name when launched.  The user name will be set to the system user name.
+RIf this option is set, LabVIEW will show the login prompt when LabVIEW is started.
+HThis option toggles the display of warnings in the error
+dThis option toggles warnings about object which are unavailable in the education version of LabVIEW.
+editor with a double-click on a control.
+This list box contains the errors and warnings for the selected VI.  If an error is associated with an object, you can double-click on the error to highlight the object on the VI's front panel or block diagram.  You can also press return or click on the 'Find' button.
+`This box shows you more details about the error or warning currently selected in the Error List.
+This ring contains the names of all VIs in memory that have errors or warnings.  The VIs are ordered such that subVIs are listed before their calling VIs.  Therefore, when fixing problems with a hierarchy of VIs, you should fix those VIs that are at the top of this ring first.
+When the selected error or warning is associated with an object, clicking on this button will highlight that object on the VI's front panel or block diagram.
+65An error occurred loading the front panel of VI '%p'.
+87An error occurred loading the block diagram of VI '%p'.
+#"An error occurred loading VI '%p'.
+87An error occurred loading the external subroutine '%p'.
+54An error occurred loading the external control '%p'.
+21An error occurred loading the external node '%p'.
+,+"%p" was disconnected to prevent recursion.
+KPOKE
+~HPOK
+Prompt
+Select Item
+Complete Documentation
+Select a format:
+VI Connector and Icon
+connected controls
+Next
+Remove diagram(s)
+#To current location(s) - no prompts
+To new location - single prompt$To new location(s) - prompt for each
+Selected Options
+Show Open Menu Item
+SReset will erase the VI history.  Do you want to reset the revision number as well?
+Next Revision:
+Please enter a user name.
+OK button
+Panel Chooser
+Path Chooser
+Insert Before
+Insert After
+Remove
+%Show warnings in error box by default
+)Open the control editor with double click
+2End text entry with Return key (same as Enter key)
+Font Chooser
+$Prompt for comment when VI is closed
+#Prompt for comment when VI is saved
+-Show the login prompt at LabVIEW startup time
+Educational warning
+Open VIs in run mode
+Stop...
+Error List
+Error Details
+Show Warnings
+return value
+STOP
+No error
+Argument error
+Generic file I/O error
+File permission error
+Image memory error
+Config token not found
+Config parse error
+Config memory error
+Destroy window error
+Print driver error
+Windows error during printing
+Memory error during printing
+Print dialog error
+Generic print error
+Device parameter error
+Device unit error
+Cannot open device
+Generic error
+Message out of range
+Connection is busy
+Network error
+Connection aborted
+Connection refused
+Not connected
+Already connected
+Connection closed/Initialization error (interapplication manager)
+Unknown error code
+_Remove Bad Wires:B
+_Stop:.
+Show Error _List:L
+Bring to Center
+Insert
+Data Range...
+Remove Dimension
+Remove Slider
+Remove Input
+Remove Element
+Remove All
+Remove Case
+Remove Frame
+Remove Parameter
+List Errors
+Set Breakpoint
+Open Front Panel
+Set Data Type...
+Remove Item
+Show Connector
+Disconnect
+Disconnect All
+Select Items
+Remove Output
+Data Range
+Start Selection
+End Selection
+Lock Text in Center
+Show Selection
+Remove Element Gap
+Remove Needle
+Disconnect from Type Def.
+Select All
+Selection Mode
+Remove For Loop
+Remove While Loop
+Remove Case Structure
+Remove Sequence
+Selection Scrolling
+Connector Pane
+Do you want to continue?aRemoving this Case Structure will delete all objects in the other cases.
+Do you want to continue?
+Out of Range Box
+Set to Default
+Select Button
+Click to set to
+$There is no front panel data to log.#Cannot log front panel of VI "%p". RVI's log file no longer has any records.  Do you want to delete the VI's log file?2Error changing VI's log file to selected log file.0Error logging front panel data to VI's log file.
+-Not enough memory to complete this operation.)Not enough memory to open control editor..Not enough memory to change to customize mode."Not enough memory to update probe.(Not enough memory to create this object.
+File is already open. Generic file I/O error occurred.
+File permission error occurred.
+Duplicate path error.
+Too many files open.<Some system capacity necessary for operation is not enabled.
+Configuration token not found.,Error occurred parsing configuration string.(Configuration allocation error occurred.$External code format error occurred.$External code offset error occurred.
+Mixup error destroying window.
+Print driver error occurred.$Windows error occurred during print.#Memory error occurred during print.
+Print dialog error occurred.
+Generic print error occurred.#Device reference number is invalid.
+Device not found. Device parameter error occurred.
+Device unit error occurred.
+Cannot open device.
+Generic error occurred.
+Capability not supported.#Incorrectly formed network address.&Network operation is not yet finished.&Network operation time limit exceeded.HAn operation is already in progress on the specified network connection.1Network operation is not supported by the system.
+Network is down or unreachable.$Network address is currently in use.;Not enough system memory to complete the network operation.3System caused the network connection to be aborted.
+Unused error code.-AppMsg Mgr. encountered an unrecognized type.
+No error.
+Cannot load connector pane.
+Variant tag out of range.
+Linker error.4Printer not responding. Check printer configuration.
+Select Swap to exchange minimum and maximum, or Cancel to enter new values.
+,Replace the original control "%p" with "%p"?;Disconnect the control "%p" from its Type Definition, "%p"?
+doubleClickToEditControl
+showWarnings
+history.promptAtClose
+history.promptAtSave
+studentWarning
+Compress >>.%p exists already.  Do you want to replace it?
+GIt starts with "." and may be incorrectly interpreted as a device name.9LabVIEW cannot create new directories or libraries in %p.&LabVIEW cannot create new files in %p.
+Error accessing %p.
+%p is an existing %p.3An error occurred while listing the contents of %p..You must select something in the directory %p.ULabVIEW cannot save to path %p because it is not an existing directory or VI library.
+Choose a VI library:
+Choose a code resource .c file:
+Choose a code resource file:
+Choose a script:
+Choose the VI to open:
+Name the VI:3Choose a directory of VIs or VI library to compile:+Please find the file of type %4c named "%p"CChoose a picture file to open (it will be placed on the clipboard):
+Name the VI library:1Choose the VI library to build as an application: Choose a custom control to open:"Choose a file of type %4c to open:
+Choose a replacement file:
+Name the VI history file:!Choose a directory or VI library:
+Select a library:,Choose a directory in which to save %p "%p":
+Error #%ld %s: \"%s\", line %ld\nLabVIEW version %p\nPlease record the preceding information and contact National Instruments for technical support
+There are currently %ld VIs with unsaved changes remaining to be removed from memory. To avoid this dialog for these VIs, select either Yes to All or No to All.
+This copy of LabVIEW has not been properly registered.  You must enter a name and a valid serial number.  The registration dialog will continue to appear at launch time until you properly register this copy of LabVIEW.
+network connection
+Remember this application may require some of the libraries in the Shared Libraries folder in order to run.%The VI Library you selected is empty.
+return type
+Choose a VI from the list of names to see its errors. Click on any error in the list to display more details about it here. Double-click on any front panel or block diagram error, or click on the Find button, to highlight the object causing the error.
+VI Errors
+VI Warnings
+Front Panel Errors
+Front Panel Warnings
+Block Diagram Errors
+Block Diagram Warnings
+No VIs with errors)Error when loading, unable to list errors
+More errors...
+This version of LabVIEW is built to be run on a Macintosh with a Motorola 680x0 processor. It can be run on a Power Macintosh but requires software 68881/68882 floating point emulation.
+This version of LabVIEW is built to be run on a Macintosh with a Motorola 680x0 processor. National Instruments recommends that you run the native Power Macintosh version on this machine.
+Continue
+The "%p" VI's log file binding is corrupt and has been cleared.  To restore the VI's log file binding, open the VI and select the File->Data Logging->Change Log File Binding... menu item.
+LabVIEW Save error code %ld: %p
+Could not open temporary file.
+Connector pane type map.
+Error saving 'LVSB' resource.
+Error saving LVSB link info.
+Error saving ID resource. Error saving demo time resource. Could not save runonly resource.
+LabVIEW load error code %ld: %p,Could not load front panel link information.
+Could not load front panel.%Front panel load detected link error..Could not load block diagram link information.
+Could not load block diagram.'Block diagram load detected link error.
+Could not load VI resource.,Version of VI is newer than LabVIEW version.?Version of VI is too old to convert to current LabVIEW version.JVI cannot be converted to current version because it has no block diagram."Could not load connector type map.
+JThe VI "%p" cannot be saved without a diagram because it still has errors.
+Broken wire
+Can't allocate new path.$Can't open VI library resource file."Can't remove file from VI library.%Can't open file system resource file.
+Unknown VI Library file type.!Palette position is out of range.
+Can't overwrite a VI library.%Error listing contents of VI library.
+Cannot find the VI.VSome subVIs or controls have not been loaded yet. Do you want to open %p without them?
+Continue Loading
+!Attempt to use bad index for wire9Segment with index out of range will be deleted from wire"Bad edge will not be added to wire%Cannot find terminal hotpoint in wire
+Stretched and broke wire.Negative segment count will be cleared in wire/Excessive segment count will be reduced in wire
+LabVIEW subroutine link error
+unwired selector,too many diagrams for Boolean Case structure6wrong number of diagrams for enumerated case structure:subroutine priority VI cannot contain an asynchronous nodeBsubroutine priority VI cannot call a non-subroutine priority subVI
+invalid return type
+syntax error
+bad token
+'An error occurred in compiling this VI.TYou need to make more memory available for LabVIEW to generate the code for this VI.
+This VI has a bad connection to or cannot find a subVI or external routine, but it has no block diagram to show or fix the error. You must find or correct the subVI or external routine. Check for more information in the Explain... dialog in Get Info.
+{There are extra controls on the front panel that do not belong to the custom control. You must delete these extra controls.wThere must be one control on the front panel for a custom control to be valid. Select a control from the Controls menu.
+If a Boolean control has associated local variables, it may not use Latch mechanical action.  The first local variable to read a Boolean control with Latch action would reset its value to the default.
+This wire segment is not connected to anything. Select Remove Bad Wires from the Edit menu to delete all wires that are disconnected or bad.
+A wire must be connected to one and only one data source, such as a control's terminal or a function output. This wire is not connected to any source. Find the source of this data and make sure it is a control (not indicator) or an output (not input).
+The connector pane connections of the subVI do not match the way it is wired on this diagram. Show the Help window to see what the connections to this subVI should be.
+One or more required inputs to this function are not wired or are wired incorrectly. Show the Help window to see what the connections to this function should be.
+A wire can be connected to only one data source, such as a control's terminal or a function output. This wire is connected to more than one source. Make sure that all connections except one are to indicators (not controls) or inputs (not outputs).
+The connector pane connections of the subVI do not match the way it is wired on this diagram. Show the Help window to see what the connections to this subVI should be.[This sequence local has never been assigned a value in any frame of the Sequence structure.
+A Case structure with a Boolean value wired to its selector terminal (the '?') must have exactly two subdiagrams, one for True and one for False. Pop up on the Case structure border and select Add Case or Remove Case as needed.
+A Case structure with an enumerated value wired to its selector terminal must have one subdiagram per item in the enumeration. Pop up on the Case structure border and select Add Case or Remove Case as needed.
+The subVI is currently in interactive retrieval mode for datalogging, so this VI cannot use it to run. Open the subVI's front panel and change back to edit or run mode.
+There is no library specified for this node. Pop up on the Call Library Function node and select Configure..., then choose a library name or path.
+There is no function name specified for this node. Pop up on the Call Library Function node and select Configure..., then choose a function name.
+The library specified for this node cannot be found. Pop up on the Call Library Function node and select Configure..., then choose the correct library name or path.
+This platform does not support the current return type. For example, the return type of a 16-bit DLL function may not be a floating point number. Pop up on the Call Library Function node and select Configure... to set the return type.
+This platform does not support the type of one of the function parameters. Pop up on the Call Library Function node and select Configure... to set a valid type.
+There is less than %ldK of disk space available on volume %z.  LabVIEW can run, but we recommend that you make more disk space available.GCould not determine the amount of disk space on volume %z. Error = %ld.
+Open GPIB Driver.vi
+GetDevInfoShort.vi
+Instr Error Out Cluster.ctl
+Instr Error In Cluster.ctl
+STARTCHK.vi
+Open Serial Driver.vi
+LEADSHRT.vi
+LEADOPEN.vi
+Ringer.vi
+Open File+.vi
+Find First Error.vi
+Close File+.vi
+General Error Handler.vi
+SetCINArraySize, elmtNum %ld out of range 0 <= elmtNum < %ldnon-array detected
+Continue Button
+Continue Button0
+Error\FC In
+Error\FC In"
+Error\FC Out"
+Error\FC Out
+Error\FC In4
+gencode.cGenRangeCheck
+Error\FC Out'
+opens an existing file. Error 7 occurs if the file cannot be found.
+creates a new file or replaces a file if it exists and you give permission. Replacement is done by opening the file and setting EOF to 0. Error 43 occurs if the user elects to disallow the replacement using dialog.
+creates a new file. Error 8 occurs if the file already exists.
+open or create
+createmirefnum is the reference number of the open file. The value is Not A Refnum if the file cannot be opened.
+plprompt is the message that appears below the list of files and directories (or folders) in the file dialog.
+start path is the path name to the initially displayed directory (or folder) in a file dialog. The default value is Not A Path, which is the path to the last directory (or folder) shown in a file dialog.
+`\default name is the initial file name that appears in the selection box of the file dialog.
+new file path is the path of the file opened or created. You can use this output to determine the path of a file that you open or create using dialog. new file path returns Not A Path if the user selects Cancel from the dialog box.
+advisory dialog? Set TRUE (default) if you want a dialog if function=0 and the file does not exist, or if function=2 or 3 and the file exists.
+TPsource is in most cases the name of the VI or function that produced the error.
+)%status is TRUE if an error occurred.
+EAstatus is TRUE if an error occurred; the default value is FALSE.
+ERROR40code is the error code; the default value is 0.
+zvsource is in most cases the name of the VI or function that produced the error; the default value is an empty string.
+code is the error code.
+prompt0
+prompt"
+error outL
+error in (not an error)&
+start path  (Not A Path).!
+start path  (Not A Path)0!
+error out4%
+error in (not an error)
+Manager Argument Error
+Generic File IO Error
+Windows Error During Print
+Memory Error During Print
+Can't Open Device
+Connection In progress
+Connection timed out!Connection is already in progress
+Connection is not connected
+Connection is already connected
+Connection closed+Initialize error (interapplication manager)
+error in (not an error)Dxc
+error in (not an error)0
+error out
+prompt@@P
+start path  (Not A Path)
+error in (not an error)@`P
+error in (not an error)@@P
+error out2`P
+error out2@P
+file path is the path name of the file.  If file path is empty (default value) or is Not A Path, the VI displays a File dialog box from which you can select a file.  Error 43 occurs if the user cancels the dialog.
+0 (open) opens an existing file.  Error 7 occurs if the file cannot be found.
+1 (open or create) opens an existing file or creates a new file if one does not exist.
+2 (create or replace) creates a new file or replaces a file if it exists and you give permission.  Replacement is done by opening the file and setting EOF to 0.  Error 43 occurs if the user elects to disallow the replacement using dialog.
+3 (create) creates a new file.  Error 8 occurs if the file already exists.
+advisory dialog?  Set TRUE (default) if you want a dialog if function=0 and the file does not exist, or if function=2 or 3 and the file exists.
+prompt is the message that appears below the list of files and directories in the file dialog.
+default name is the initial file name that appears in the selection box of the file dialog.
+start path is the path name to the initially displayed directory in a file dialog.  The default value is Not A Path, which is the path to the last directory shown in a file dialog.
+new file path is the path of the file opened or created.  You can use this output to determine the path of a file that you open or create using dialog.  new file path returns Not A Path if the user selects Cancel from the dialog box.
+refnum is the reference number of the open file.  The value is Not A Refnum if the file cannot be opened.
+try to open the file
+[report file not found if function=0 (open); set file path to empty and refnum to NotARefnumMD
+Open FileU
+Open File
+8file is now open; proceed if function=1 (open or create){D
+/user denies permission to overwrite; close filea
+Open FileM
+Open FileND
+2create a new file if function=1-3 (open or create)
+herror is other than file not found; set error flag TRUE, file path to NotAPath, and refnum to NotARefnummD
+!user OKs the overwrite explicitlyiD
+an input error does not existU
+set EOF=0i
+on an input error, do nothingzD
+sFile Dialog cancelled; set error out code to Cancelled By User; set refnum to NotaRefnum and file path to NotAPath.
+!Open or Create File (function=%d)a
+function out of ranged
+error in (not an error)H
+Open FilePTH0
+Open File+
+!Open or Create File (function=%d)
+prompt@P@
+start path  (Not A Path)L
+51refnum is the reference number of the open file.
+pos offset specifies in characters how far from the location specified by pos mode that the operation begins. The default value is 0.
+convert eol? converts the LabVIEW end of line marker to the platform specific marker when set to TRUE. When set to false (the default value), no conversion occurs.
+error in (no error)
+pos offset (bytes:0)*
+pos offset (bytes:0).
+error out4
+error in (no error)4!
+error in (no error)D<c
+error in (no error)0=-
+error in (no error)4>
+error in (no error)H>
+pos offset (bytes:0)
+error in (no error)<`P
+error in (no error)<@P
+*Writes a string of characters to a byte stream file at the specified location; the default location is at the end of file.  The VI does incoming and internal error checking and does not write if an incoming error occurs.
+refnum is the reference number of the open file.
+pos offset specifies in characters how far from the location specified by pos mode that the operation begins.  The default value is 0.
+convert eol  Set TRUE to convert the LabVIEW end of line marker to the platform-specific marker.  Set FALSE (default value) to do nothing.
+error outR
+error in (no error)R
+no incoming errorH
+incoming error occurredH
+local error occurredZ
+no local errorH
+error in (no error)2P@
+pos offset (bytes:0)'
+Capacitance Box Cal Data File0
+Inductance Box Cal Data File
+Capacitance Box Cal Data File4
+Inductance Box Cal Data File"@2
+Capacitance Box Cal Data File
+Capacitance Box Cal Data File"`2
+Capacitance Box Cal Data File"@2
+Inductance Box Cal Data File"`2
+CPlease choose the file containing the capacitance calibration data.O
+BPlease choose the file containing the inductance calibration data.
+*.calCPlease choose the file containing the capacitance calibration data.PTH0
+*.calBPlease choose the file containing the inductance calibration data.gencode.cGenDispatchEntry
+Capacitance Box Cal Data File"2@
+Inductance Box Cal Data FileL
+stop bits
+parity error byte
+parity error byteM
+errorM
+stop bits$
+error0
+This version of Set Serial Port Buffer Size.vi is to be used on the SPARC or Windows version of LabVIEW as a subVI to OpenSerialDriver and Serial Port Init.vi.$
+error*
+Error Conditions (Bit 15 = 1)
+Read protocol error
+Bus error occurred during transfer
+Multiple query error occurred during transfer
+1 = Set END bit on the last byte of transfer
+GPIB error
+system error"
+system errorX
+error&0
+errorL5
+system error
+GPIB errorM
+system errorM
+errorPTH0
+status is a Boolean array in which each bit describes a state of the GPIB Controller. If an error occurs, the GPIB VIs set bit 15. GPIB error is valid only if bit 15 of status is set.
+status[8] - I/O Completed
+status[15]- GPIB error detected
+GPIB error is valid only if bit 15 of status is set.
+GPIB Error:
+-No error
+-DMA error
+-file system error
+-GPIB bus error (commands)
+status[15]- GPIB error detectedA=data string contains count data bytes from the GPIB device.
+GPIB error,
+GPIB error&$
+GPIB errorN
+GPIB errorgencode.cGenDispatchEntry
+system error$
+error(5
+error"6
+Open GPIB DriverPD
+Open GPIB Driver.viv
+0 NULLend - Do nothing at end of transfer.OKdata string contains the data bytes that the VI sends to the GPIB device.
+shortvalue
+shortvalue M
+A unique reference to an instrument I/O session.  It identifies which device to communicate with and all configuration information to perform the I/O.  An instr handle is returned from the Instr Open VI or the Initialize VI of an instrument driver.
+(bool) status: TRUE if an error has occurred.
+(i32) code: the error code associated with an error.
+A value of 0 means no error, a negative value is an
+error, and a positive value is a warning.
+error occurred, usually the name of the VI.
+1-(bool) status: TRUE if an error has occurred."
+(i32) The error code associated with an error.  Possible values:
+-1201  Error finding instruments
+-1210  Parameter out of range
+-1220  Error getting attribute
+-1221  Error setting attribute
+-1224  Error clearing instrument
+-1225  Error triggering instrument
+-1226  Error polling instrument
+-1230  Error writing to instrument
+-1231  Error reading from instrument
+-1250  Error mapping VXI address
+-1251  Error unmapping VXI address
+-1252  Error accessing VXIbus
+[W(string) source:  an indication of where an error occurred, usually the name of the VI.
+error out<
+Instr Error Out Cluster.ctl2@P
+Instr Error Out Cluster.ctl`
+Instr Error Out Cluster.ctl*
+f(cluster) error in:  a cluster describing any error conditions prior to this VI's execution.  The default input of this cluster is no error.  If an error has already occurred, this VI does nothing.  The error in cluster contains the following parameters:
+ZV(bool) status: TRUE if an error has occurred. If status is TRUE, this VI does nothing."
+(i32) code: the error code associated with an error.  A value of 0 means no error, a negative value is an error, and a positive value is a warning.[W(string) source:  an indication of where an error occurred, usually the name of the VI.
+error in (no error)4
+Instr Error In Cluster.ctl<@P
+Instr Error In Cluster.ctl/
+The name of the VI that is calling this VI.  If an error occurs during the operation of this VI, the value in source will be placed in the source element of the error out cluster.
+[W(string) source:  an indication of where an error occurred, usually the name of the VI."
+(i32) code: the error code associated with an error.  A value of 0 means no error, a negative value is an error, and a positive value is a warning.
+error outH
+error in (no error)@
+return count4
+return count
+error out4+
+error in (no error)HG
+error in (no error),G
+error in (no error) L
+error in (no error)DNc
+error in (no error)HP
+return count2@P
+error out\D
+error in (no error)RD
+No error ini
+Error inQD
+no errorM
+errorQ
+error in (no error)\
+return count[
+error out<P@
+error in (no error)PTH0
+error outPTH0!
+return count"
+return count@
+error out4(
+GPIB error4A
+error in (no error)HF
+error in (no error)0F-
+error in (no error)DIc
+error in (no error)HL
+error in (no error)[
+Error inMD
+errorQD
+error in (no error)M
+return count2P@
+Select measurement function.  :
+mA AC1-9.99990E9 is reported on overrange error.
+Range selection has no effect in the mA DC and mA AC functions since all measurements in these functions are made in the 20000 mA range.             If the chosen range is not valid for selected function, the nearest valid range is selected.  k
+autorange
+ZV(bool) status: TRUE if an error has occurred. If status is TRUE, this VI does nothing.
+[W(string) source:  an indication of where an error occurred, usually the name of the VI.'8@
+range (auto:0)
+error out0
+error out@
+error in (no error)0
+error in (no error)<
+error in (no error)4"
+error out@.P
+0gcreading rates: S0 - slow,  S1 - medium,  S2 - fast SRQ mode: Assert SRQ on completion of a reading.73Range codes: R0 - R7 ( see front panel for details)84Trigger modes: T0 - T4 (see front panel for details)hdFunction Codes: F1 - DC Volts, F2 - AC Volts, F3 - 2 wire k
+range (auto:0)*M
+error out0R
+error out4S
+range (auto:0)<@P
+Measure volts, amps, or ohms.  Select one of 6 functions.  Select range or use auto range.  Select trigger mode.  Slow reading rate is used for accuracy.                                         version a.0  $
+error in (no error)H
+error in (no error)U
+error out[
+range (auto:0)H
+range (auto:0)<P@
+error outgencode.cGenDispatchEntry
+error outPTH0
+True if either primary or secondary addresses are outside ot the range 0-31.  address error indicates whether a range error has occurred.
+address error"
+address error
+Range: 0 to 30 (31 NONE)
+[W(string) source:  an indication of where an error occurred, usually the name of the VI.1-(bool) status: TRUE if an error has occurred."
+error in (no error)4.O
+error in (no error)01-
+error in (no error)41
+GetDevInfoShort.viND
+GetDevInfoShort.vi`
+GetDevInfoShort.viMD
+GetDevInfoShort.viQD
+error in (no error)o
+error outM
+error outw
+error in (no error)4bO
+error in (no error)<e
+[W(string) source:  an indication of where an error occurred, usually the name of the VI.1-(bool) status: TRUE if an error has occurred.
+error in (no error)B
+error outD.c
+error out$@0
+Establishes a communication session with a remote instrument based on the instrument descriptor.  Instr Open creates an instr handle that is used by all other VISA Transition Library VIs to perform operations on that session.
+error in (no error)L
+error outUD
+error in (no error)'
+1-(bool) status: TRUE if an error has occurred.[W(string) source:  an indication of where an error occurred, usually the name of the VI."
+error out&
+error in (no error)&
+Open instrument_D
+error outP
+Rangeio4
+Rangeio0
+Error\FC In4$
+Error\FC In4%
+Error\FC Outng4&
+Range
+RangeM
+Error\FC InX
+Error\FC OutHD"
+(cluster) error in:  a cluster describing any error conditions prior to this VI's execution.  The default input of this cluster is no error.  The error in cluster contains the following parameters:
+error in (no error)H.
+error in (no error)0.-
+error in (no error)H/
+VFor most applications, you only need to connect wires to the controls and indicators displayed in bold.
+See the Data Acquisition VI Reference Manual for your platform for tables listing the default settings and ranges for this VI for the boards with which it will work.$
+error in (no error)PD
+LV_DIG_PORT_WRITESetCINArraySize, elmtNum %ld out of range 0 <= elmtNum < %ldnon-array detected
+xt(bool) status: TRUE if an error has occurred. Regardless of the value of status, this VI clears the input operation."
+error outX$L
+error in (no error)0--
+ZFor most applications, you only need to connect wires to the controls and indicators displayed in bold.
+CINStartLoad: loaderror= %d, error=%ldLV_DIG_PORT_READSetCINArraySize, elmtNum %ld out of range 0 <= elmtNum < %ldnon-array detected
+xt(bool) status: TRUE if an error has occurred. Regardless of the value of status, this VI clears the input operation.
+error out,(
+error in (no error)H1
+For most applications, you only need to connect wires to the controls and indicators displayed in bold.
+Error\FC Outs4
+Error\FC InM
+error - ignored
+error - ignoredX
+error - ignored @
+error - ignoredM
+error - ignoredgencode.cGenDispatchEntry
+Error Flag4
+Error Message4
+Test Leads?4
+Error Flag
+Error Message
+Test Leads?
+# Cap Ranges"
+# Cap RangesH R
+# Ind Ranges4.
+# Ind Ranges80U
+# Cap Ranges
+# Ind Ranges
+Test Leads?X
+All  (Not Ringer)W
+# Cap RangesM
+# Ind RangesM
+Error MessageL
+All  (Not Ringer)
+10V Ref Calibration
+Calibration Unstamp
+Calibration Reset
+Current Source Calibration
+Gain Calibration
+Capacitance Calibration
+ESR Calibration
+Inductance Calibration
+Ringer Calibration
+Leakage Voltage Calibration
+Set Calibration Date
+Calibration Stamp
+Set Serial Number
+Range 0:  0 - 2000pF
+Range 1:  2000 - 0.02uF
+Range 2:  0.02 - 0.2uF
+Range 3:  0.2 - 2.0uF
+Range 4:  2.0 - 20.0uF
+Range 5:  20.0 - 200uF
+Range 6:  200 - 2000uF
+Range 0:  20 - 1.80H
+Range 1:  1.80 - 0.18H
+Range 2:  180 - 18.0mH
+Range 3:  18.0 - 1.80mH
+Range 4:  1.80 - 0.180mH
+Range 5:  180 - 18.0uH
+Range 6:  18.0 - 0.0uH
+Error FlagZ
+Start Disable?
+Tests Selected@
+Tests Selected<
+Tests Selected4
+Tests Selected
+STARTCHK.vil
+STARTCHK.viW
+Doub Click Numm
+Doub Click NummH
+Capacitance Calibrationb
+Inductance CalibrationW
+Doub Click Num
+Error\FC Out4
+"Cause an error for abort to occur.U
+Error\FC Ingencode.cGenDispatchEntry
+Continue,
+Continue ButtonH
+Error\FC In,
+Error\FC InD
+Error\FC Outgencode.cGenDispatchEntry
+Error\FC InPTH0
+errorX
+errorP
+errorgencode.cGenDispatchEntry
+errorgencode.cGenCopyProcs3
+specific reset ?&
+specific reset ?"
+specific reset ?
+specific reset ?'
+input error
+input error"
+output error"
+output error0
+output error
+Open Serial Driver.vier.vi
+output errorN
+input errorT
+input errorgencode.cGenDispatchEntry
+Open Serial Driver.vi5
+>:stop bits is 0 for one stop bit, or 1 for two stop bits.
+Refer to Appendix C, Error Codes, for a list of error codes.
+Some error codes returned by the serial port VIs are platform-specific. Please refer to your system documentation for a list of error codes.
+Parity Error Byte. If the high byte is non-zero, the low byte is the character that is used to replace any parity errors found when parity is enabled.
+Output alt HW Handshake. On the PC, this parameter corresponds to Data Set Ready (DSR) handshaking. On the SPARCstation, this parameter is ignored.
+error code
+error code$0
+input error";
+errord;
+D@Initializes the selected serial port to the specified settings.
+error codeM
+Open Serial Driver]
+stop bits'
+output errorPTH0
+.error code. If error code is non-zero, an error occurred. Refer to Appendix C, Error Codes, for a list of error codes.
+error codeX
+output error>
+Open Serial DriverY
+error codeL
+output errorgencode.cGenDispatchEntry
+output error*
+input error4
+error code~
+Open Serial Driver.vii
+input error>
+okReturns in byte count the number of bytes in the input buffer of the serial port indicated in port number.
+Open Serial DriverMD
+status is TRUE if an error occurred, or FALSE if not. If status is TRUE, code is a non-zero error code. If status is FALSE, code can be zero or a warning code."
+code is the number identifying an error or warning. If status is TRUE, code is a non-zero error code. If status is FALSE, code can be zero or a warning code. Use the error handler VIs to look up the meaning of this code and to display the corresponding error message.
+source is a string that indicates the origin of the error, if any. Usually source is the name of the VI in which the error occurred.
+port select
+port select4
+error code4
+error code0
+Check for ErrorW
+Write ErrorW
+Write ErrorMD
+No Error_
+Write Error
+error codePTH0
+return string"
+return string0
+error out,
+return string
+No errorY
+Receive Error^
+Read Error OccuredMD
+Receive Error
+return string2P@
+status is TRUE if an error occurred before this VI was called, or FALSE if not. If status is TRUE, code is a non-zero error code. If status is FALSE, code can be zero or a warning code."
+Return Stringro"
+Return StringroX
+Port Select0
+Return Terminator&
+error in (n4
+error in (n0
+error outH%W
+Port Select0)
+port select :
+error outD=c
+error in DFc
+port select4F
+error in
+return string4F
+error outBG
+Port Select.G
+Port Select4G/
+Port Select.@
+Return Terminator2@P
+Return Terminator
+error in 2`P
+error in 2@P
+return string2@P
+Port Select:
+Port SelectM
+Write Error - No Read Performed\
+error inS
+Port Select.
+return stringgencode.cGenDispatchEntry
+error in 2P@
+error out.
+port selectPTH0
+Return String4
+Error\FC Out(F)
+Error\FC In(F)
+error outD
+error out8
+Error\FC Out(F)4
+Error\FC Out(F)@
+Error\FC In(F) !
+Error\FC In(F)L
+Error\FC Out(F)'
+Error\FC Out(F)\
+Error\FC Out(F)gencode.cGenDispatchEntry
+Error Flag"D
+Error MessageHD
+Error\FC In4K
+Error\FC Out(F)@P1
+Error\FC Out(F)4T
+Error\FC Out(F)4T/
+Error Flag4[
+Error\FC OutND4[
+Error\FC Out(F)0]-<
+Error\FC Out(F)@]1
+LEADSHRT.vi0%$
+LEADSHRT.viND
+LEADSHRT.viW
+LEADSHRT.viO
+,,-Make sure the UUT leads are shorted together.W
+LEADSHRT.vi`
+Lead Zero Short Testa
+LEADSHRT.viH
+LEADSHRT.viS
+Lead Zero Short Test/Inductanced
+Lead Zero Short Test/ESR
+BBKSomething seems to be wrong.  Make sure the UUT leads are shorted together.QD
+LEADSHRT.viPD
+Comm Error?\
+Communication Error.`
+Lead Zero Short TestW
+LEADSHRT.viMD
+Error\FC InU
+KSomething seems to be wrong.  Make sure the UUT leads are shorted together.
+IND-Make sure the UUT leads are shorted together.
+Lead Zero Short Test
+Lead Zero Short Test/Inductance
+Communication Error.
+Lead Zero Short Test[
+LEADSHRT.vi4
+Error\FC In43
+Error\FC In(F)04
+Error\FC In(F)05
+Error\FC In(F)06
+Error\FC In46
+Error\FC OutAP47
+Error\FC In(F)09
+Error\FC In(F)0:
+Error\FC In(F)0;
+Error\FC In(F)0<
+Error\FC In(F)0=
+Error\FC In(F)0>
+Error\FC OutAP4>
+Error\FC OutAP4?
+Error\FC In4@
+Error\FC Out4@
+Error\FC Out(F)4A
+Error\FC Out(F) A
+LEADOPEN.viX<$
+LEADOPEN.viH
+LEADOPEN.vix
+,Make sure the red UUT lead is not connected.RD
+LEADOPEN.viOD
+Lead Open Test/Capsa
+LEADOPEN.viW
+LEADOPEN.viTD
+,Make sure the red UUT lead is not connected.W
+LEADOPEN.viO
+'q,Make sure the red UUT lead is not connected.
+CAP,Make sure the red UUT lead is not connected.
+Lead Open Test/Caps
+Error\FC Out(F)gencode.cGenCopyProcs3
+LEADOPEN.vi4
+Comm Error In"
+Comm Error In
+Comm Error Out
+Comm Error Out"
+Comm Error In@
+Error\FC In(F)0
+Comm Error Out4
+Comm Error In4
+Comm Error OutY
+Comm Error InD
+Error\FC Outut"
+Error\FC Outut
+Comm Error In$
+Error\FC Outut4
+Error\FC Outu
+Error\FC OutW
+Comm Error Outgencode.cGenDispatchEntry
+Comm Error InPTH0
+Last Range Cal'd&
+Last Range Cal'd@
+Next Range to cal&
+Next Range to cal
+Done?
+Done?|
+Last Range Cal'd4
+# Ind Rangesla
+Last Range Cal'd,%
+Error\FC In$+
+Error\FC In$,
+Error\FC In -
+Error\FC In4/
+Error\FC In 0
+Error\FC In42
+Error\FC Out"2
+Error\FC Outz2
+Error\FC Out(F)4;
+Error\FC In$<
+Error\FC In$=
+Error\FC In4>
+Error\FC Out4?
+Error\FC Outu4[
+Error\FC Out(F)4]
+Error\FC Outu"o
+Error\FC Out(F)4o
+Error\FC Out"o
+Last Range Cal'd
+===Short the UUT leads to the
+Inductance Decade Box (L Terminal)
+BBBNow connect the red lead to the
+Inductance Decade Box (H Terminal)W
+Inductance Decade Box (H Terminal)ND
+333Short the UUT leads to the
+Low Value Inductance Box
+Low Value Inductance BoxO
+Low Value Inductance BoxW
+Inductance Decade Box (L Terminal)W
+Inductance Decade Box (H Terminal)
+Done?M
+IND-6BNow connect the red lead to the
+Inductance Decade Box (H Terminal)=Short the UUT leads to the
+IND3Short the UUT leads to the
+FMELDKCJBI@GAHBNow connect the red lead to the
+IND=Short the UUT leads to the
+Inductance Decade Box (L Terminal)BNow connect the red lead to the
+Inductance Decade Box (H Terminal)3Short the UUT leads to the
+Last Range Cal'dX
+Error\FC Out0
+# Cap Rangesla
+Error\FC In$&
+Error\FC In$'
+Error\FC In(F)0(
+Error\FC In(F)0)
+Error\FC Out")
+Error\FC Outz)
+Error\FC Out4*
+Error\FC In$-
+Error\FC In$.
+Error\FC In$/
+Error\FC In$0
+Error\FC In(F)01
+Error\FC In41
+Error\FC Outu"2
+Error\FC Out42
+Error\FC Out44
+Error\FC Out45/
+Error\FC In45
+Error\FC Out45
+Error\FC In@<2
+HConnect the black UUT lead to the
+Capacitance Decade Box (Low Terminal).
+GNow connect the red lead to the
+Capacitance Decade Box (High Terminal).W
+Capacitance Decade Box (High Terminal).OD
+Capacitance Decade Box (Low Terminal).OD
+CAPGNow connect the red lead to the
+Capacitance Decade Box (High Terminal).HConnect the black UUT lead to the
+Start Cal Factor(0)$
+Start Cal Factor(0)
+Error\FC In<
+Error Flag4!
+Error Message4$
+Test Leads?4.
+Error\FC Out"4
+Error\FC Out44O;$}
+Error\FC In|5
+Start Cal Factor(0)@H2
+Start Cal Factor(0)4H
+Start Cal Factor(0)4I
+Error Flag4M
+Error\FC In(F)0b
+Error\FC In(F)0c
+Error\FC In(F)0d
+Error\FC In(F)0e
+Error\FC OutF)@e1
+Error\FC In(F)0f
+Error\FC In(F)0g
+Error\FC In(F)0h
+Error\FC In$i
+Comm Error In$j
+Error\FC In4l
+Error\FC In4m
+Error\FC In4o
+Error\FC In4p
+Error\FC In4q
+Error\FC OutTq!
+Start Cal Factor(0)M
+ERow 0: Default Calibration Factors
+Error FlagW
+Calibration ResetY
+Error MessageZ
+Reset Aborted.Y
+Calibration ResetW
+Calibration ResetT
+Error\FC InH
+EEPROM Write Error!U
+Communications Error^
+EEPROM Write Error!
+Communications Error
+Error\FC Out\
+Test Leads?45
+Test Leads?47b
+Error\FC In4B
+Error FlagDVc
+Error Message4YO
+Error\FC In4kO
+Error\FC In(
+Error Flag,
+Error\FC Out@
+Error\FC In@
+Test Leads?"
+Test Leads?@
+Error\FC In9
+fConnect the UUT and/or DVM leads to
+Press 'Enter' when ready._
+Calibration Unstamp]
+All  (Not Ringer)_
+10V Ref Calibrationc
+Capacitance Calibration]
+Calibration Resetf
+Current Source Calibration\
+Gain Calibrationb
+Inductance Calibration^
+Ringer Calibrationg
+Leakage Voltage CalibrationT
+Set Calibration Date]
+Calibration Stamp\
+Gain CalibrationV
+10V Ref CalibrationV
+Calibration UnstampV
+Calibration Reset]
+Press 'Enter' when ready.V
+Capacitance CalibrationV
+Ringer Calibration\
+Press 'Enter' when ready.g
+Press 'Enter' when ready.T
+Press 'Enter' when ready.W
+Set Calibration DateV
+Calibration StampW
+ESR CalibrationV
+Inductance Calibration[
+Set Serial NumberV
+Warning:  Choosing 'Calibration Reset'
+removes all calibration from
+10V Ref CalibrationW
+Calibration UnstampW
+Current Source CalibrationW
+Capacitance CalibrationW
+ESR CalibrationW
+Ringer CalibrationW
+Leakage Voltage CalibrationW
+Set Calibration DateW
+Set Serial NumberW
+Reset Aborted.V
+Error\FC InL
+Press 'Enter' when ready.
+Reset Aborted.
+Current Source CalibrationfConnect the UUT and/or DVM leads to
+Gain CalibrationfConnect the UUT and/or DVM leads to
+ESR Calibration22
+Inductance Calibration@M
+Leakage Voltage CalibrationfConnect the UUT and/or DVM leads to
+D/A TestfConnect the UUT and/or DVM leads to
+Leakage Voltage TestfConnect the UUT and/or DVM leads to
+Leakage Current TestfConnect the UUT and/or DVM leads to
+Error\FC Ingencode.cGenCopyProcs3
+Error\FC In(F)0!
+Error\FC OutF)"!
+Error\FC In4#
+Error\FC Out4$
+Error\FC Out"&
+Error\FC Out4&
+Error\FC In,(
+Error\FC In )
+Communications ErrorS
+Error\FC In_
+Error\FC In4<
+Error\FC In4=
+Error\FC In4?
+Error\FC In B
+Error\FC Out4C
+Error\FC OutO
+Set Serial Number`
+Error\FC Outgencode.cGenCopyProcs3
+Error\FC In]
+Error\FC In"!
+Error\FC Out@!2
+Error\FC In4!
+Error\FC In,%
+Error\FC In '
+Connect the '+' DVM lead to TP1006
+and the '-' lead to TP1020.  Adjust
+Press 'Enter' when finished.
+Press 'Enter' when finished.d
+Error\FC In"-
+Error\FC OutF)
+Error\FC Out@-2
+Error\FC In4-
+Error\FC In@.1
+Error\FC In /
+Error\FC Out@51
+Ringer.vi2
+---Switch the cal box to
+Switching Transformers.O
+Ringer.viU
+Ringer.viH
+Ringer.viW
+Ringer Calibration`
+Communications ErrorW
+Ringer.viV
+KKLConnect the UUT leads to the
+Small Ringer Cal Box set to
+Yolks and Flybacks.
+YFBLConnect the UUT leads to the
+of rings specified on the cal box.-Switch the cal box to
+Switching Transformers.
+Error\FC In^
+Error\FC In"#
+Error\FC Out4#
+Error\FC Out4'
+UUT Validate Calibration`
+UUT Validate Calibration
+Error\FC In(F)0"
+Error\FC In(F)0#
+Error\FC Out@#2
+Error\FC In,'
+Error\FC In (
+UUT Calibration Unstamp`
+UUT Calibration Unstamp
+Error\FC In $
+Error\FC Out4(
+Set Cal Date`
+Set Cal Date
+Error\FC In`
+Error\FC Inp
+Press 'Enter' when ready.PD
+with the leads.  Check the leads
+and press 'Enter' when ready.
+error4(
+Error\FC In G
+Error\FC OuthG
+Error\FC In K
+Error\FC Out(F)@K2
+Error\FC Out4S
+Error\FC In4U
+Error\FC In4V
+Error\FC In4W
+Error\FC In4X
+Set Min # samples
+Set the max. # of readings takenH
+Error\FC In0-
+Error\FC In0.
+Error\FC Out"0
+Error\FC In$1
+Error\FC Outz5
+Error\FC In4=/
+Error\FC Out@=2
+Error\FC In ?
+Error\FC Out4F"
+Error\FC Out4O
+ESR CalibrationX
+ESR Calibration PassedV
+ESR CalibrationH
+Now connect the red UUT to the H  Terminal of the decade box and set the  box to 0.022uF(.0219).
+@@cShort the UUT leads to the Capacitance Decade box(LTerminal).
+Press 'Enter' when ready.MD
+delay that causes ESR error.MD
+ESR Calibration`
+HEY!! I said:  "Connect the red UUT to the H  Terminal of the decade box and set the  box to 0.022uF(.0219)".  Please do this now!
+CLRPARcShort the UUT leads to the Capacitance Decade box(LTerminal).
+ESR Calibration Passed
+ESR Calibration'
+LEADSHRT.vir
+mirefnum is the reference number of the open file. The value is Not A Refnum if the file cannot be opened.
+new file path is the path of the file opened. You can use this output to determine the path of a file that you open using dialog. new file path returns Not A Path if the user selects Cancel from the dialog box.
+YUadvisory dialog? Set TRUE (default) if you want a dialog if the file does not exist.
+wscode is the identification number of the error. Use the General Error Handler.vi to get a description of the error.vrsource identifies where the error occurred and is usually the name of the function or VI that produced the error.
+ERROR"
+start path (Not A Path)(
+start path (Not A Path)4
+error in (not an error)40O
+error in (not an error)DOc
+start path (Not A Path)
+advisory dialog?  Set TRUE (default) if you want a dialog if the file does not exist.
+new file path is the path of the file opened.  You can use this output to determine the path of a file that you open using dialog.  new file path returns Not A Path if the user selects Cancel from the dialog box.
+Open File+.vie File
+try to open the fileM
+Open File+.vi:File DialogiD
+an input error does not exist
+cFile Dialog cancelled; set Error to Cancelled By User; empty File Path; set Refnum to Not a Refnum.
+Open File+.vi:File Dialogc
+Open File+.vi:Open File]
+Open File+.vi:EOFH
+error in (not an error)L
+Open File+.vi:File DialogPTH0
+Open File+.vi:Open File
+Open File+.vi:EOF
+start path (Not A Path)L
+^Zerror status is TRUE if the error in cluster or any of the error codes reflects an error.
+source messages contains the source message you want to appear in the error out cluster if the VI finds an error in error codes. Place each message on a separate line in a string constant or control.
+error out is a cluster that reflects the status of the first error input that tests TRUE. It has the same elements as error in.
+($status is TRUE if an error occurred."
+error in is a cluster of elements that describes any previous error you want to check. If it is unwired or indicates no error, the VI checks the error codes array instead. See Simple Error Handler for additional information.
+error?s
+error?sB
+error codes*
+error codes<
+error codes*,
+error codes,,
+error in (no error)D,c
+error in (no error)4,
+error codes
+This subVI tests the error status output of one or more low-level functions or subVIs that output a numeric error code, and creates an error out cluster that can be wired to the Simple or General Error Handler in order to identify the error and describe it to the user.
+You can optionally use the source messages string to pass on the source of the error. Enter one line of text for each element of the error codes array.
+The error? status  is TRUE on any error.
+If the error in cluster has a status of no-error, then test each element of error codes array, stopping on the first non-zero value or after all are tested; pick the selected line from the optional source messages as the error out source.
+\If the error in cluster has a status of ERROR, pass it through without test for local errorsH
+error out"
+error?sgencode.cGenDispatchEntry
+error codes'
+Find First Error.vi_
+error?
+051refnum is the reference number of the open file.
+close on error in
+close now
+close nowIEdup refnum is a flow-though parameter with the same value as refnum.
+error in (no error)$
+close when? (now:T)
+error out$
+error in (no error) '
+error in (no error)$*
+error?s(,
+QCloses the file on command or when in incoming error occurs and returns the file size at closure.
+Close File+.viror)ileg
+error outRD
+Cno incoming error exists and mode is FALSE;
+Find First Error.vix
+,Close File+.vi:EOF
+Close File+.vi:Close FileR
+Close File+.vi:Close File<P@
+Close File+.vik
+error?sPTH0
+EOF reached40code is the error code; the default value is 0.
+error in (no error).
+pos offset (bytes:0)(
+error in (no error)4'
+error out4/
+error in (no error),L
+error in (no error)DMc
+error in (no error)HM
+Reads a string of characters from a byte stream file at the specified location; the default location is at the current mark.  The VI does incoming and internal error checking and does not read if an incoming error occurs.
+convert eol  Set TRUE to convert each platform-specific end of line marker to the LabVIEW marker, line feed.  Set FALSE (default value) to do nothing.
+no incoming errorc
+HDcode out is the error code indicated by the error in or error code.
+=type of dialog determines what type dialog box will be displayed, if any. Regardless of its value, the VI outputs error information and message describing the error.
+displays no dialog box. This is useful if you want to have programmatic control over how the error is handled.
+(the default value) displays a dialog box with a single OK button. After the user responds, the VI returns control to the main VI.
+displays a dialog box with buttons allowing the user to either continue or stop. If the user cancels, the VI calls the Stop function to halt execution.
+OK message
+continue or stop message
+exception action is a way for you to create exceptions to error handling. You can treat what is normally an error as no error, or treat a no error condition as an error using this parameter.
+(the default value) performs no error exception handling.
+cancels error under the following conditions:
+sets error under the following conditions:
+b^exception code is the error code that you want to treat as an exception. By default, it is 0.
+error code is a numeric error code. If error in indicates an error, the VI ignores error code. If not, the VI tests it. A non-zero value signifies an error.
+cancel error on match
+set error on match
+user-defined codes is an array of the numeric error codes you define in your VIs. The VI searches this array after searching the internal list of error codes. Codes in the range of 5000 to 9999 are reserved for users.
+user-defined descriptions is an array of descriptions of user-defined codes. If an incoming error matches one in user-defined codes, the VI uses the corresponding description from user-defined descriptions in message.
+2.source out indicates the source of the error.
+}yexception source is the error message that you want to use to test for an exception. By default, it is an empty string.
+error source is an optional string you can use to describe the source of error code. The VI uses the string in message if there is an error.
+jferror in describes an error that you want to check. If unwired, this VI checks error code for errors.
+status is TRUE if an error occurred. If this value is FALSE, then the error handler assumes that no error occurred according to the error in, and then checks the error code.
+ERROR51code is the error code associated with an error.
+source. In case of an error, most VIs that use the error in and error out clusters set source to the name of the VI or function that produced the error.
+|xerror out contains the same information as status out, code out, and source out. It has the same structure as error in.
+mimessage describes the error code that occurred, the source of the error, and a description of the error.
+error outst:
+error? *3
+[error source] (" ")*3
+[error source] (" ")&3
+[error code] (0)&3
+[error code] (0),3
+error in (no error),3
+error in (no error)44
+error out4@
+type of dialog (OK msg:1)nt@P
+type of dialog (OK msg:1)XPL%
+error codes (hidden):P
+error codes (hidden)FP
+error descriptions (hidden)FP
+error descriptions (hidden)
+[error code] (0)*l
+[error source] (" ")
+error in (no error)Dlc
+type of dialog (OK msg:1)nt
+error codes (hidden)
+[error code] (0)$@@
+type of dialog (OK msg:1)
+error in (no error) @
+[error code] (0)
+error descriptions (hidden)6`@
+error descriptions (hidden)6@@
+error codes (hidden)*`@
+error codes (hidden)*@@
+Added several Instr. Driver errors; they are now handled like DAQ errors (either negative or positive value is recognized); delted four Analysis errors (-20057 through -20060) and corrected descriptions of several others.
+monnie#Hid error arrays; cosmetic changes.
+monnie)Additions and changes to DAQ error codes.
+monnie Correction to error description.
+monnie+Corrected description for errors 69 and 71.
+General Error Handler.vi7ST
+user-defined codes.  The error handler has tables of error codes and descriptions for all LabVIEW I/O operations (file, GPIB, DAQ, etc.).  You can augment the tables with the user-defined arrays.  Codes from 5000 to 9999 are reserved for user assignments.
+No Error\D
+Error\sPD
+StopTD
+ContinueH
+#check for DAQ/Instr Driver warningsPD
+6Windows GetCommError:  The hex value of this code is xH
+This error code is not listed in the internal database, or you have wired a number that is not an error code (such as a DAQ task ID) to the error code input.PD
+error descriptions (hidden)O
+[error code] (0)L
+[error source] (" ")L
+type of dialog (OK msg:1)H
+DAQ overFlowErr:  Because of system limitations, the driver could not read data from the device fast enough to keep up with the device throughput; the onboard device memory reported an overflow error.
+DAQ firmwareErr:  The firmware does not support the specified operation, or the firmware operation could not complete due to a data-integrity problem.mDAQ softwareErr:  The contents or the location of the driver file was changed between accesses to the driver.
+DAQ sc2040InputModeErr: When you have an SC2040 attached to your device, all analog input channels must be configured for differential input mode.
+DAQ badChanErr:  A channel is out of range for the board type or input configuration; or the combination of channels is not allowed; or the scan order must be reversed (0 last).%DAQ badLineErr:  The line is invalid.0DAQ or DSP badDeviceErr:  The device is invalid.
+DAQ semanticsErr:  An error was detected in the input string; the syntax of the string is correct, but certain values specified in the string are inconsistent with other values specified in the string.
+LabVIEW: Argument error; that is, an input parameter is invalid.
+GPIB ESAC:  Command requries GPIB Controller to be System Controller.FLabVIEW:  Generic file I/O error.
+GPIB ENEB:  Non-existent board.ILabVIEW:  File permission error.
+GPIB EDMA:  DMA hardware error detected.=LabVIEW:  Disk full.
+GPIB EFSO:  File system operation error.PLabVIEW:  Resource file not found.
+GPIB EBUS:  GPIB bus error.JLabVIEW:  Resource not found.
+GPIB ESRG:  SRQ stuck on.?LabVIEW:  Image memory error.
+GPIB EBNP:  Board not present.ALabVIEW:  Configuration token not found.
+GPIB ETAB:  Table error.$LabVIEW:  Configuration parse error.%LabVIEW:  Configuration memory error.#LabVIEW:  Bad external code format.#LabVIEW:  Bad external code offset.$LabVIEW:  External code not present.
+LabVIEW:  Destroy window error.
+GPIB NADDR:  No GPIB address input.CLabVIEW:  Print driver error.
+GPIB NSTRG:  No string input (write).QLabVIEW:  Operating system error during print.
+GPIB NCNT:  No count input (read).$LabVIEW:  Memory error during print.
+LabVIEW:  Print dialog error.
+LabVIEW:  Generic print error. LabVIEW:  Invalid device refnum.
+LabVIEW:  Device not found.!LabVIEW:  Device parameter error.
+LabVIEW:  Device unit error.NLabVIEW:  Can't open device.
+LabVIEW:  Generic error.%LabVIEW:  Operation canceled by user.
+LabVIEW:  Message out of range.
+GPIB EPAR:  Serial port parity error.
+qTCP ncSysConnAbortedErr:  The system caused the connection to be aborted.
+GPIB EORN:  Serial port overrun error.
+rTCP ncConnRefusedErr:  The connection was refused by the server.
+aTCP ncNotConnectedErr:  The connection is not established.
+GPIB EFRM:  Serial port framing error.
+TCP ncAlreadyConnectedErr: The connection is already established.
+<TCP ncConnClosedErr:  The connection was closed by the peer.6Interapplication Mgr amInitErr:  Initialization error.
+LabVIEW:  Bad occurrence.<LabVIEW:  Handler does not know what occurrence to wait for.$LabVIEW:  Occurrence queue overflow.%LabVIEW:  File datalog type conflict.!LabVIEW:  Semaphore not signaled.BInterapplication Mgr amUnrecognizedType:  Unrecognized type error.
+DDE DMLERR_UNFOUND_QUEUED_ID:  An invalid transaction identifier was passed to a DDEML function.  Once the application has returned from an XTYP_XACT_COMPLETE callback, the transaction identifier for that callback is no longer valid.
+DDE:  Invalid command code.GDDE: Occurrence timeout; the transaction timed out before it completed.
+This error code is not listed in the internal database, or you have wired a number that is not an error code (such as a DAQ task ID) to the error code input.6Windows GetCommError:  The hex value of this code is x
+type of dialog (OK msg:1)<P@
+error out$@@
+error descriptions (hidden)*@@
+error?'
+file path is the path name of the file. If file path is empty (default value) or is Not A Path, the VI displays a File dialog box from which you can select a file. Error 43 occurs if the user cancels the dialog.
+new file path is the path of the file to which the VI wrote data. You can use this output to determine the path of a file that you open using dialog. new file path returns Not A Path if the user selects Cancel from the dialog box.
+append to file. Set to TRUE if you want to append the data to a existing file; you can also set it TRUE to write to a new file. Set to FALSE (default value) if you want to write the data to a new file or to replace an existing file.
+open or create file4
+$continue or stop message on an error:
+$continue or stop message on an error
+prompt$
+open or create file$
+open or create file
+error in (no error)*
+error out o
+prompt*`
+type of dialog (OK msg:1) @
+append to file?  Set to TRUE if you want to append the data to a existing file; you can also set it TRUE to write to a new file.  Set to FALSE (default value) if you want to write the data to a new file or to replace an existing file.
+new file path is the path of the file to which the VI wrote data.  You can use this output to determine the path of a file that you open using dialog.  new file path returns Not A Path if the user selects Cancel from the dialog box.
+promptMD
+$continue or stop message on an errorRD
+error`
+General Error Handler.vig
+Close File+.viaD
+Choose file to write._
+open or create fileMD
+Choose file to write.
+error out o@
+[error code] (0)0
+error in (no error),
+Most applications need only connect wires to the controls and indicators displayed in bold.  Connections to other controls and indicators are useful only if specifically needed.
+General Error HandlerMD
+no errorMD
+no errorH
+Load Select
+Load Select* P
+--------------LOAD SELECT--------------------------------------
+0=1.1MOhm connected to UUT leads; Same as '9'.
+Error\FC Out &
+Error\FC Out '
+Error\FC Out ,
+Error\FC Out -
+Error\FC In84
+Error\FC IndB
+Load SelectdB
+Load Select"B
+Error\FC OutPB
+Error\FC Out"B
+Error\FC In(F)0I
+Error\FC OutF)4I
+Error\FC In(F)0J
+Error\FC In(F)0K
+Error\FC In(F)0L
+Error\FC OutF)"M
+Error\FC OutF)4M
+Error\FC In4N
+Error\FC In4O/
+Error\FC In<O
+Error\FC In Q
+!Gain Calibration Failed
+on Range S
+Gain Calibrationn
+" Failed Calibration. Adjusted >10%R
+Range X
+on Range W
+Error\FC In\
+Gain CalibrationU
+Gain Calibration" Failed Calibration. Adjusted >10%
+Range !Gain Calibration Failed
+on Range !Gain Calibration Failed
+on Range
+Load SelectPTH0
+Error\FC OutH
+Error\FC In8
+Error\FC Ind/
+Load Select"/
+Error\FC Out4;
+Error\FC Out\;
+Error\FC OutF)4;
+Error\FC In4;
+Error\FC In"<
+Error\FC Out4<
+Error\FC In =
+Reset UUTX
+Error\FC OutWD
+Error\FC OutF),
+Error\FC OutF)L4,
+Error\FC In0=
+Error\FC Ind=
+Load Selectd=
+Load Select"=
+Return String4B3
+Error\FC Out(F)4B3
+Error\FC Out(F)4C
+Error\FC OutF)4I/
+Error\FC In"I
+Error\FC Out4I
+Error\FC In J
+Error\FC Out(F)LO
+Communications ErrorV
+Error\FC Out +
+Error\FC In,>
+Error\FC In$K
+Error\FC In(F)0M
+Error\FC In(F)0N
+Error\FC IndN
+Load Select"N
+Error\FC Out"N
+Error\FC OutPN
+Error\FC Out4N
+Error\FC In(F)0O
+Error\FC In(F)0P
+Error\FC In(F)0Q
+Error\FC Out"Q
+Error\FC In"R
+Error\FC Out4R/
+Error\FC In<R
+Error\FC In<S
+Error\FC Out@T1
+Error\FC In V
+)Lowest Current Range
+Current Source Calibration`
+Failed Calibration.R
++Current Source Calibration Passed
+Current Source CalibrationH
+Communications Error.U
+Current Source Calibration?
+Failed Calibration.
+Communications Error.
+Error\FC In"@@
+Error\FC In,#
+Error\FC Out<)
+Error\FC In@/1
+Error\FC In<4D
+Error\FC In,7
+Error\FC In4A/
+Error\FC In@AP
+Error\FC IndO
+Load SelectdO
+Load Select"O
+Error\FC OutPO
+Error\FC In$Y
+Error\FC In$Z
+Error\FC In$[
+Error\FC Out"_
+Error\FC In4_
+Error\FC In"`
+Error\FC OutH`
+Error\FC In a
+Error\FC Out@h1
+Leakage Calibrationt
+( Failed Calibration. Gain Adjustment>10%U
+Low RangeX
+Leakage Voltage CalibrationV
+High RangeOD
+0 Failed Calibration. Offset Adjustment too high.W
+Communication Error.W
+Leakage Calibration
+Low Range
+High Range
+Communication Error.0 Failed Calibration. Offset Adjustment too high.( Failed Calibration. Gain Adjustment>10%
+Error\FC Ind2
+Load Selectd2
+Error\FC In44
+Return String473
+Error\FC Out(F)473
+Error\FC Out(F)49"
+Error\FC OutF)">
+Error\FC OutF)4>
+Error\FC In">
+Error\FC Out4>/
+Switch in D/A StandardV
+Reset UUTO
+yustart of read offset is the position in the file, measured in characters (or bytes), at which the VI begins reading.
+new file path is the path of the file from which the VI read data. You can use this output to determine the path of a file that you open using dialog. new file path returns Not A Path if the user selects Cancel from the dialog box.
+start of read offset (chars.:0 )6
+start of read offset (chars.:0 )8
+start of read offset (chars.:0 )4(
+error out4,
+)type of dialog (continue or stop message)>1
+)type of dialog (continue or stop message)
+error out@11
+error outD2c
+error out 6
+start of read offset (chars.:0 )07-W
+start of read offset (chars.:0 )
+start of read offset (chars.:0 )p8
+start of read offset (chars.:0 ),9
+error? 4<3
+start of read offset (chars.:0 )B<
+start of read offset (chars.:0 ),@
+start of read offset (chars.:0 )&`
+prompt.`
+start of read offset is the position in the file, measured in characters (or bytes), at which the VI begins reading.
+new file path is the path of the file from which the VI read data.  You can use this output to determine the path of a file that you open using dialog.  new file path returns Not A Path if the user selects Cancel from the dialog box.
+Choose file to read.RD
+promptUD
+)type of dialog (continue or stop message)QD
+errorMD
+Close File+.vid
+General Error Handler.viH
+Choose file to read.
+@ start of read offset (chars.:0 ),
+@ start of read offset (chars.:0 ),2@'new file path (Not A Path if cancelled)
+start of read offset (chars.:0 )z
+`Couldn't retrieve the proper Software Rev. number.  Please set this manually on the front panel.
+Couldn't open the Software Rev. file.  Please set the Software Rev. manually on the front panel.  Place the flopply disk in the computer NOW.MD
+RCouldn't open the Software Rev. file.  Place the flopply disk in the computer NOW.s
+'Last known LC103 Software Rev. is:  VERRCouldn't open the Software Rev. file.  Place the flopply disk in the computer NOW.
+Couldn't open the Software Rev. file.  Please set the Software Rev. manually on the front panel.  Place the flopply disk in the computer NOW.
+Error\FC In(`
+Next Range to cal4`
+Error\FC In0b
+Error\FC In0c
+Error\FC Out"c
+Error\FC OutF)4f
+Error\FC Out|i
+Error\FC In$j
+Error\FC Out"r
+Error\FC In"s
+Error\FC Out4s/
+Error\FC In4s
+Error\FC OutF)4t
+Error\FC Outf
+Set the Inductance
+Perform Inductance CalibrationV
+Inductor CalibrationY
+General Errora
+Ind Cal Failed Range S
+*Highest Inductance Range
+BPlease choose the file containing the inductance calibration data.V
+*.calBPlease choose the file containing the inductance calibration data.
+Inductor Calibration
+General Error
+Ind Cal Failed Range
+Error\FC Outu4d
+Error Flag4o/?<
+Error\FC Out(p
+Next Range to cal&q
+Next Range to cal4q
+Error\FC In0t
+Error\FC In0u
+Error\FC In0w
+Error\FC In0x
+Error\FC Out4x
+Error\FC In4y
+Return String4|3
+Error\FC OutF) }
+Error\FC In@}1
+Error\FC In$~
+Error\FC In$
+Error\FC Out,
+Error\FC OutF)4
+Perform Capacitance Cal.H
+Capacitor CalibrationX
+Cap Cal Failed Range X
+Lowest Cap Range is Cal'd FirstOD
+to the UUT leads.MD
+ADD-ON RANGE
+CPlease choose the file containing the capacitance calibration data.V
+*.calCPlease choose the file containing the capacitance calibration data.
+to the UUT leads.
+Capacitor Calibration
+Cap Cal Failed Range
+Press to
+Start
+Start Button"
+Start Button
+Error Flag4*/
+Error FlagT,!
+Start Buttone4,
+Error Message4/
+Error Message0/
+Error\FC Out,2
+Selection Mode@
+Double-Click
+Error\FC Out(F)LK)
+Error Flag<UD
+Error\FC In@X2
+Error\FC In0Y
+Selection Start
+Selection End
+Selection
+SelectionDlc
+SelectionDmc
+SelectionDnc
+SelectionDoc
+SelectionDrc
+SelectionDsc
+Double-ClickL
+Double-Click0
+Doub Click Numm0
+Error\FC Out(F)"
+Error\FC Out>
+Error\FC OutN
+Error\FC OutT
+Error\FC OutL
+Start Disable?&@@
+Press F1 to change paths.Y
+Calibration Successful!!W
+Communication Error.V
+Start ButtonMD
+CCCPlease choose the file containing the capacitance calibration data.W
+++BPlease choose the file containing the inductance calibration data.W
+Inductance CalibrationMD
+STARTCHK.vi\
+Start ButtonW
+Calibration Successful!!
+Start Button&@@
+Start ButtonL
+Capacitance Box Cal Data FilePTH0
+Doub Click NummPTH0
+Tests SelectedPTH0
+Error Window help
+FPLoadError
+BDLoadError
+LoadError
+LVSBLoadError
+LVCTLoadError
+LVNDLoadError
+SaveError
+LVSBSaveError
+SaveChgsPrompt
+Error Loading Dialog Script"Overwriting existing dialog script
+VILibSaveError
+Single Selection Listbox
+Multiple Selection Listbox
+Reset Dialog
+errors window
+Bool: Stop Button Text
+Ring_ringText (Errors)
+PPalSelection
+Stop Boolean Label
+Ring_numText (Error)
+Ring_select (Menu)
+ErrorRing_frame
+Bool: Vert Switch
+Bool: Horiz Switch
+OutOfRange
+Bool: Horiz Slide Switch
+Bool: Vert Slide Switch
+Bool: Round Stop Button
+Bool: Rect Stop Button
+insertion I beam
+Open hand
+Enclose with Sequence
+Enclose with case structure
+Enclose with for loop start
+Enclose with While loop
+Ring (Error)
+Range Dialog
+RO VI Errors
+Error Window Messages
+ContinueOrQuit
+shortVIErrorStrings
+shortVIWarningStrings
+shortFPErrorStrings
+shortFBoxSyntaxErrorStrings
+longVIWarningStrings
+shortFPWarningStrings
+longFPWarningStrings
+Lib Func Return Types
+Lib Func Return Num Types
+Enclose Strings
+App Error Strings
+longFPErrorStrings
+longBDWarningStrings
+loadErrors
+shortBDErrorStrings
+shortBDWarningStrings
+longVIErrorStrings
+longBDErrorStrings
+FilePrompts
+saveErrors
+LLB tools errors
+loadWarnings
+ConfigTokenStrings
+ROUTE_CONFIGNPOKE
+<<NMSG>>C RUNTIME ERROR
+run-time error
+windows\winstart.asm
+_GETNEXTSELECTORINCREMENT"
+_PAGELOCKUNLOCKMEMRANGE0
+There are 7 cal ranges.  The values listed above are grouped in two's; the first one
+OKP;
+I/O connector
+SetErrorMode
+GetLastError
+StartServiceA
+?unassignExternalPointer@tMemBlockReferenceBase@@QAEXPAJ@Z
+?assignExternalPointer@tMemBlockReferenceBase@@QAEXKPAXPAJ0@Z
+?unassignExternalPointer@tPIMMblockReferenceBase@@QAEJXZ
+?assignExternalPointer@tPIMMblockReferenceBase@@QAEJKPAX0@Z
+_tPIMMblockReference_unassignExternalPointer@4
+_tPIMMblockReference_assignExternalPointer@16
+_removeScale@8
+?AIStart_TheVirtualThing@daqDevice@@UAEFFKPAUsAnalogInputStruct@@PAUsAnalogInputParam@@PAUsAIGroupConfigStruct@@PAUsAIGroupParam@@KKKFPAM@Z
+?AIStop_TheVirtualThing@daqDevice@@UAEFFKPAUsAIBoardStruct@@PAUsScanConfigStruct@@F@Z
+?CTR_Restart_TheVirtualThing@daqDevice@@UAEFFF@Z
+?CTR_Stop_TheVirtualThing@daqDevice@@UAEFFF@Z
+?DAQ_Start_TheVirtualThing@daqDevice@@UAEFFFFPAFKFG@Z
+?DAQ_StopTrigger_Config_TheVirtualThing@daqDevice@@UAEFFFK@Z
+?HighRes_SetCalibrationMode_TheVirtualThing@daqDevice@@UAEJFK@Z
+?HighRes_SetCalibrationPassword_TheVirtualThing@daqDevice@@UAEJFKPAE0@Z
+?LV_SelectSignal_TheVirtualThing@daqDevice@@UAEFKKKKKK@Z
+?LV_TioSelectSignal_TheVirtualThing@daqDevice@@UAEFKKKKKK@Z
+?LV_get_next_lvOccurrence_TheVirtualThing@daqDevice@@UAEFFPAK@Z
+?Lab_ISCAN_Start_TheVirtualThing@daqDevice@@UAEFFFFPAFKFGG@Z
+?MDAQ_Start_TheVirtualThing@daqDevice@@UAEFFK@Z
+?MDAQ_Stop_TheVirtualThing@daqDevice@@UAEFF@Z
+?MDAQ_Trig_Select_TheVirtualThing@daqDevice@@UAEFFFFFFFF@Z
+?NIScope_ProbeCompensationSignalStart_TheVirtualThing@daqDevice@@UAEJF@Z
+?NIScope_ProbeCompensationSignalStop_TheVirtualThing@daqDevice@@UAEJF@Z
+?SCAN_Start_TheVirtualThing@daqDevice@@UAEFFPAFKFGFG@Z
+?SCXIConnect_TheVirtualThing@daqDevice@@UAEFF@Z
+?SCXIDisconnect_TheVirtualThing@daqDevice@@UAEFF@Z
+?Select_Signal_TheVirtualThing@daqDevice@@UAEFFKKK@Z
+?Tio_Select_Signal_TheVirtualThing@daqDevice@@UAEFFKKK@Z
+?_ChWizScaleSensorReadingsToPhysicalReadings_TheVirtualThing@daqDevice@@UAEFKPADJJPAMJJ1J1@Z
+?_downconverter_setTestRange_TheVirtualThing@daqDevice@@UAEFFKKK@Z
+?dmm_CalStart_TheVirtualThing@daqDevice@@UAEJKPADPAK@Z
+?getLastCalibrationState_TheVirtualThing@daqDevice@@UAEJFPAK00000@Z
+?ni62xx_CalStart_TheVirtualThing@daqDevice@@UAEFFPAD@Z
+CTR_Restart
+CTR_Stop
+DAQ_Start
+DAQ_StopTrigger_Config
+HighRes_SetCalibrationMode
+HighRes_SetCalibrationPassword
+Indep_Switch_Control
+LV_SelectSignal
+LV_TioSelectSignal
+LV_get_next_lvOccurrence
+Lab_ISCAN_Start
+Lab_SCAN_Start
+MDAQ_Start
+MDAQ_Stop
+MDAQ_Trig_Select
+Matrix_Switch_Control
+MrCleanRemoveHandler
+MrCleanRemoveHandlerRedirect
+NIScope_ProbeCompensationSignalStart
+NIScope_ProbeCompensationSignalStop
+Read_Switch_Calibration
+RemoveSCXIChassis
+SCAN_Start
+SCXIConnect
+SCXIDisconnect
+SCXI_Configure_Connection
+SCXI_Set_Threshold
+SCXI_Slot_Select
+SCXI_Track_Hold_Control
+SCXI_Track_Hold_Setup
+Select_Signal
+Switch_Op_Wrapper
+Tio_Select_Signal
+WF_Start
+WaitUntilDebounceComplete
+Write_Switch_Calibration
+_ChWizScaleSensorReadingsToPhysicalReadings
+_downconverter_setTestRange
+dmm_CalStart
+getLastCalibrationState
+ni62xx_CalStart
+removeLibraryDevices
+sim_AIStop
+sim_AIStart
+sim_LV_get_next_lvOccurrence
+sim__ChWizScaleSensorReadingsToPhysicalReadings
+ND_START_TRIGGER_POLARITY
+ND_START_TRIGGER
+ND_TRACK_AND_HOLD
+ND_OUT_START_TRIGGER_POL
+ND_OUT_START_TRIGGER
+ND_IN_STOP_TRIGGER_POL
+ND_IN_STOP_TRIGGER
+ND_IN_START_TRIGGER_POL
+ND_IN_START_TRIGGER
+ND_IN_SCAN_START_POL
+ND_IN_SCAN_START
+ND_DONE
+AOStartTrigger
+AIScanStart
+AIStopTrigger
+AIStartTrigger
+Error #%d set: File: %s Line: %d
+inputRangeWW
+CTR_RestartW
+startTrigWWW
++DAQ_StartWWW
+DAQ_StopTrigger_ConfigWW
+oldDataStopW
+Lab_ISCAN_StartW
+connectW
+ASCAN_StartWW
+rangeCodeWWW
+mconnectionTypeWW
+SCXI_Configure_ConnectionWWW
+startChansWW
+SCXI_Track_Hold_ControlW
+SCXI_Track_Hold_SetupWWW
+holdCntW
+Select_SignalWWW
+7GitersDoneWWW
+pointsDoneWW
+startPts
+startPol
+stopTrig
+stopPolW
+ptsAfterStopTrig
+SCXI_Set_ThresholdWW
+threshHoldWW
+Tio_Select_SignalWWW
+}logicalExpressionWWW
+5ni62xx_CalStartW
+CTR_RestartWWW
+CTR_StopWW
+DAQ_StartW
+Lab_ISCAN_StartWWW
+SCXI_Configure_ConnectionW
+SCXI_Track_Hold_ControlWWW
+SCXI_Track_Hold_SetupW
+Select_SignalW
+Tio_Select_SignalW
+ni62xx_CalStartWWW
+;Capacitors
+[C Range0]
+[C Range1]
+[C Range2]
+[C Range3]
+[C Range4]
+[C Range5]
+[C Range6]
+;Inductors
+[L Range0]
+[L Range1]
+[L Range2]
+[L Range3]
+[L Range4]
+[L Range5]
+[L Range6]
+OK\'a
+BnXdok|
+cok:S
+6okyb
+voKEb
+xl/_rels/workbook.xml.rels
+xl/workbook.xml
+xl/_rels/workbook.xml.relsPK
+xl/workbook.xmlPK
+Mokn
+/ProcSet [ /PDF /ImageC /ImageB /ImageI ]
+j<ok
+}OK}V[
+Eoksup
+SEok
+;aok
+3okq
+n<#iokx
+uok)
+j0Ok}4V
+Ok4%U
+='Ok
+OKmB0
+k7-ok
+<okk
+]koK
+OkO)
+Iok)i
+Ok\5
+prEss|/
+k-ok<M
+kmok
+Mokc
+Qok2G4[
+kOK=v
+oKmJ
+\Okoq2
+rsOk
+ok$qD
+Cokv
+4vok
+jOk%
+bok;
+igok
++xoK
+2xOK
+Ok8{
+okqnq.
+ok"(
+okT-
+kokv
+m/OK
+ok41#K
+oK[Ht
+OK(Qm.g
+Okuk6
+Okka1
+aOKX
++iok.
+Ok+WR
+=f}oK
+|okq
+x+OK/
+<<Ok
+5+-oK
+Gooko,
+xOKY`
+Okp#
+kOKk{]
+Ok$v
+;Ok1
+]Ok$~Y
+okm13
+|OK[T
+Q\xoK
+3yOk
+r0Ok
+XEok
+;$sokh
+Okk,;
+#xoK
+MR;-OK
+ZxoK
+4ok3
+quok
+Cwok`
+P-OK
++}oOK
+Ok{m
+zdoke
+X-oK
+[k6okp
+4}Ok+n1
+Okq7
+Ecgok
+startxref
+This version of Set Serial Port Buffer Size.vi is to be used on the SPARC or Windows version of LabVIEW as a subVI to OpenSerialDriver and Serial Port Init.vi.
+Measure volts, amps, or ohms.  Select one of 6 functions.  Select range or use auto range.  Select trigger mode.  Slow reading rate is used for accuracy.                                         version a.0
+See the Data Acquisition VI Reference Manual for your platform for tables listing the default settings and ranges for this VI for the boards with which it will work.
+@Initializes the selected serial port to the specified settings.
+last range
+last rangeH
+Next range
+Next range4
+Error\FC Out4#3c
+last range4W
+Next range4X
+Error\FC Out"Y
+Next rangej
+range 0
+range 1
+range 2
+range 3
+range 4
+range 5
+range 6
+IND-6FMELDKCJBI@GAHBNow connect the red lead to the
+Instr Error Out Cluster.ctl:
+Instr Error Out Cluster.ctls
+Instr Error Out Cluster.ctlN
+Error\FC OutHD"t
+1) Plug in and turn on LC103 Mainboard test box.
+2) Attach power adapter and RS-232 cable to LC103
+3) Connect Fluke 8840A to DVM plugs on front panel of test box.
+4) Connect Lo Capacity leads to UUT plugs on front of test box.
+5) Connect 50 pin ribbon cable from PC to right side of test box.
+6) Press ENTER when ready, choose test to perform and press START.S
+Open Serial Driver.vil
+Press 'Enter' when ready.OD
+Error\FC In H
+Error\FC OuthH
+Error\FC Out4R
+Error\FC In4R
+Error\FC In4T
+666Windows GetCommError:  The hex value of this code is xH
+Capacitance testII.vi
+Set Status MessageN
+Reset UUTp
+$$$Do next test if previous test passeda
+Set Voltage on UUTV
+Apply voltage to leadsW
+$$$Do next test if previous test passedb
+Set UUT to test Aluminum LyticsW
+$$$Do next test if previous test passedn
+Set Voltage on UUTH
+Inductance test.vi
+Inductor Value ary@
+Inductor Value aryH
+Inductor Range ary4
+Inductor Range ary
+Inductor Value ary0#-+
+Inductor Range ary8&><TM
+Inductor Value ary"`@
+Inductor Value ary"@@
+Inductor Value ary
+Inductor Range ary"`@
+Inductor Range ary"@@
+Inductor Value aryM
+Inductor Range aryM
+This is the fudged range??-->H
+InductanceND
+%<- number of inductor values in arrayH
+Set Status Message
+$$$Do next test if previous test passedW
+Reset UUTT
+Inductor Value S
+Inductor Value
+Inductance test.vi-
+lead zero short/open.vi
+Lead Zero MSGG"
+Lead Zero MSGG,
+Lead Zero MSG
+Lead Zero MSGt 4&
+Return String,-
+Error\FC Out(F)40
+Return String,2
+Error\FC Out(F)47
+Lead Zero N
+aaaLeads zero, open                Cap must read 0, IND must read "OPEN" and ESR must read "ERROR 7"W
+Short LeadsO
+MMMLead zero, shorted            CAP must read "SHORT",  IND and ESR must read 0l
+Open LeadsO
+Lead Zero Short/OpenND
+ShortZ
+lead zero short/open.viZ
+ERROR 7W
+lead zero short/open.viO
+Reset Unitl
+Lead Zero
+Lead Zero Short/Open
+Short
+ERROR 7
+Lead Zero Short & Open  VIM
+lead zero short/open.vi-
+Inductance testII.vi
+Capacitor Value ary@
+Capacitor Value aryH
+Capacitor Range ary4
+Capacitor Range ary@
+Capacitor Value ary0"-+
+Capacitor Range ary8%><
+Error\FC Out<F
+Capacitor Value ary"`@
+Capacitor Value ary"@@
+Capacitor Value ary
+Capacitor Range ary"`@
+Capacitor Range ary"@@
+Capacitor Range ary
+Capacitor Value aryM
+Capacitor Range aryM
+CapacitanceND
+&<- number of capacitor values in arrayH
+Reset UUTMD
+cap range b/c
+Capacitor Value S
+Capacitor Value
+Capacitance testII.vi-
+Inductor Range ary8&><LK
+$Do next test if previous test passedW
+Inductance testII.vi-
+Start Button4
+Start Buttont 45
+Start ButtonH
+lead zero short/open.via
+Capacitance testII.viH
+Zero Leadsc
+Reset Start Buttono
+#Wait for start button to be clickedb
+Reset Global Variables
+tests then start watching
+StatusGlobal and reset start buttonm
+!Set Pass/Fail Button to invisibled
+RS-232 Connection FailedZ
+Set "Pass or Fail Global" to "Fail"W
+ShortP
+iReset variable that ends the while loop
+6) Press ENTER when ready, choose test to perform and press START.H
+-Set Pass/ Fail Indicator and make it visible V
+!Set Pass/Fail button to invisibleW
+Beep when tests completeMD
+Inductance testII.viH
+6) Press ENTER when ready, choose test to perform and press START.
+RS-232 Connection Failed
+Capacitance testII.vin
+Press READY when previous step is complete.
+Instr Error Out Cluster.ctl<<$
+Instr Error Out Cluster.ctl@
+Instr Error Out Cluster.ctlp
+Instr Error Out Cluster.ctlt
+stop@
+Power Board test Version.
+Power Board test Version
+Range0
+stop4
+stopge4
+stop0
+Unit StartQ
+Power Up Unit w/ PA vlt.]
+Low RangeOD
+Set Low LS to 0VM
+)Turn on Active Load
+High RangeH
+Set Low LS to 1VO
+Low Range_
+Set Low LS to 4VOD
+Power Up Unit w/ Batt. vlt.W
+Set Low LS to 16VPD
+INSERT ACTIVE LOAD TEST HERE!V
+Set Low LS to 28VPD
+Set Low LS to 32VPD
+Set High LS to 33.0VPD
+High RangeV
+Set High LS to 125VPD
+Set High LS to 500VQD
+Set High LS to 875VQD
+Set High LS to 1000VQD
+Turn Safety switch ON
+High RangeMD
+Set High LS to 0VOD
+Unit StartMD
+power up with
+Check Power Up
+with Unit StarterX
+Set Low LS to 0VMD
+INITIAL STEP:  Attach DVM and computer cable
+--TURN SAFETY OFF--
+--TURN TESTER POWER ON--
+Make sure tester POWER is ON
+Short TP4 with the cathode
+--Remove UUT from tester, Proceed to next UUT
+Low RangeW
+stopL
+Instr Error Out Cluster.ctlo
+range (auto:0)@@P
+offset past number"@!
+d:\automated\lv51\lvsource\gencode.cGenRangeCheck
+error out@@P
+Select measurement function.
+Range selection has no effect in the mA DC and mA AC functions since all measurements in these functions are made in the 20000 mA range.             If the chosen range is not valid for selected function, the nearest valid range is selected.
+The status boolean is either TRUE (X) for an error, or FALSE (checkmark) for no error or a warning.
+The pop-up option Explain Error (or Explain Warning) gives more information about the error displayed.
+The source string describes the origin of the error or warning.
+The code input identifies the error or warning.
+error out*
+error in (no error)"
+offset past number
+range (auto:0)W
+select mode (2)
+Cap Cal Failed Range ?
+error - ignored,
+Error\FC In(F)&
+start path
+Return String>
+Error\FC Out(F)p
+Lowest Cap Range is Cal'd FirstQE
+CCCPlease choose the file containing the capacitance calibration data.V
+offset past numbert
+Done?$
+Error\FC Out(F)&
+Return String|
+Error\FC Inb
+***Highest Inductance Range
+++BPlease choose the file containing the inductance calibration data.V
+Error\FC In6@P
+VER`Couldn't retrieve the proper Software Rev. number.  Please set this manually on the front panel.
+xxxxRCouldn't open the Software Rev. file.  Place the flopply disk in the computer NOW.'Last known LC103 Software Rev. is:  VER
+`V`E`Rd:\automated\lv51\lvsource\gencode.cGenRangeCheck
+error inL
+''RCouldn't open the Software Rev. file.  Place the flopply disk in the computer NOW.s
+promptD@P
+Open File+.vio
+type of dialog (OK msg:1)D@P
+start of read offset (chars.:0 )0@2
+[error source] (" ").
+error in (not an error),
+start path (Not A Path)$
+error?.
+start of read offset (chars.:0 )M
+General Error Handler.vi2
+Error\FC Out&
+Load Select&
+Load SelectL
+Error\FC Out]
+type of dialog (OK msg:1)6@P
+no errord:\automated\lv51\lvsource\gencode.cGenRangeCheck
+start path  (Not A Path)(
+prompt&
+start path  (Not A Path)"
+open or create fileaD
+Choose file to write.RD
+promptMDY
+Close File+.vi6
+[error code] (0)"
+@6Windows GetCommError:  The hex value of this code is x
+This error code is not listed in the internal database, or you have wired a number that is not an error code (such as a DAQ task ID) to the error code input.
+[error code] (0) @
+error in (no error)6@P
+51code is the error code associated with an error.
+error out>
+[error source] (" ")&
+[error code] (0),
+type of dialog (OK msg:1):
+error codes (hidden)J
+error?H
+type of dialog (OK msg:1)M
+[error code] (0)M
+error codes (hidden)O
+error descriptions (hidden)M
+No ErrorRE
+#check for DAQ/Instr Driver warningsQE
+This error code is not listed in the internal database, or you have wired a number that is not an error code (such as a DAQ task ID) to the error code input.QE
+ERROR2
+continue or stop message:
+set error on match"
+ERROR(
+pos offset (bytes:0)(@
+6d:\automated\lv51\lvsource\gencode.cGenRangeCheck
+=9EOF? is true if you try to read past the end of the file.40code is the error code; the default value is 0.
+pos offset (0)F
+error in"
+pos offset (bytes:0)M
+incoming error occurredSE
+error?PTH0
+error in6@P
+pos offset (0)(@
+Close File+.vi:Close Filed:\automated\lv51\lvsource\gencode.cGenRangeCheck
+40code is the error code; the default value is 0.
+error?$
+error?8
+pos offset (0)4
+close when? (now:T)H
+CCCno incoming error exists and mode is FALSE;
+Find First Error.viRE
+,,,Close File+.vi:EOF
+Close File+.vi:Close File<
+close now"
+($status is TRUE if an error occurred.
+error?F
+error?HD"*O
+error codesM
+\\\If the error in cluster has a status of ERROR, pass it through without test for local errorsSE
+open mode (0)>`
+Open File+.vi:File Dialog
+prompt @2
+error in (not an error)$
+start path (Not A Path)2
+error inN
+open mode (0)
+promptL
+start path (Not A Path)X
+error in (not an error)P
+Open File+.vi:Open FileSE
+LEADSHRT.vie
+Press 'Enter' when ready.cShort the UUT leads to the Capacitance Decade box(LTerminal).
+dd:\automated\lv51\lvsource\gencode.cGenRangeCheck
+ESR Calibration PassedU
+offset past number>
+Error\FC In&
+Error\FC OutY
+Error\FC Out[
+Press 'Enter' when ready.RE
+Error\FC OutMDX
+ddd:\automated\lv51\lvsource\gencode.cGenRangeCheck
+Error\FC OutS
+Error\FC In>
+Error\FC OutR
+J4ok
+Ringer CalibrationLConnect the UUT leads to the
+NFC-Switch the cal box to
+Yolks and Flybacks.H
+Press 'Enter' when finished.H
+Error Message(
+Test Leads?&
+Set Serial NumberY
+Error\FC InZ
+Error\FC OutRE
+Error\FC InTTTTP
+GPRFd:\automated\lv51\lvsource\gencode.cGenRangeCheck
+Error Flag0
+Start Cal Factor(0)>
+Error\FC OutSE
+10V Ref CalibrationRE
+Calibration UnstampRE
+Error\FC In6
+DDERow 0: Default Calibration Factors
+Error\FC InSE
+Capacitance Decade Box (Low Terminal).GNow connect the red lead to the
+Capacitance Decade Box (High Terminal).
+Capacitance Decade Box (Low Terminal).?
+Done?"
+Last Range Cal'dM
+Next Range to calM
+Done?SE
+99HConnect the black UUT lead to the
+77GNow connect the red lead to the
+=Short the UUT leads to the
+Inductance Decade Box (H Terminal)FMELDKCJBI@GAH
+Low Value Inductance Box3Short the UUT leads to the
+Inductance Decade Box (L Terminal)=Short the UUT leads to the
+Inductance Decade Box (H Terminal)BNow connect the red lead to the
+Inductance Decade Box (H Terminal)QE
+LEADSHRT.viQE
+CALONd:\automated\lv51\lvsource\gencode.cGenRangeCheck
+Comm Error InZ
+Comm Error OutW
+CPO,Make sure the red UUT lead is not connected.
+Error\FC OutV
+++,Make sure the red UUT lead is not connected.RD
+++,Make sure the red UUT lead is not connected.W
+Communication Error.RE
+:-Make sure the UUT leads are shorted together.
+Lead Zero Short Test/ESRKSomething seems to be wrong.  Make sure the UUT leads are shorted together.?
+Error Flag&
+LEADSHRT.viNDz
+CPOd:\automated\lv51\lvsource\gencode.cGenRangeCheck
+Return Terminator6@P
+Error\FC Out(F)6@P
+Port Select>
+error in*
+error codeN
+Error\FC Out(F)Y
+Return StringL
+Error\FC In(F)P
+return string6@P
+error out.@
+status is TRUE if an error occurred before this VI was called, or FALSE if not. If status is TRUE, code is a non-zero error code. If status is FALSE, code can be zero or a warning code.
+status is TRUE if an error occurred, or FALSE if not. If status is TRUE, code is a non-zero error code. If status is FALSE, code can be zero or a warning code.
+Return String&
+Port Select*
+Return Terminator*
+port select<
+Return TerminatorN
+error inR
+error code"P
+return stringF
+error code*
+source is a string that indicates the origin of the error, if any. Usually source is the name of the VI in which the error occurred."
+error code$
+Open Serial Driver.vir
+output error&
+Open Serial Driver.vit
+stop bitsM
+Open Serial DriverRE
+input errorN
+specific reset ?H
+errord:\automated\lv51\lvsource\gencode.cGenRangeCheck
+errorL
+Continue Button(
+"""Cause an error for abort to occur.U
+STARTCHK.vit
+Back Upd:\automated\lv51\lvsource\gencode.cGenRangeCheck
+Start Disable?Z
+Tests SelectedM
+# Cap Ranges.
+# Ind Ranges&
+error - ignored"
+OKlVVp
+See the Data Acquisition VI Reference Manual for your platform for tables listing the default settings and ranges for this VI for the boards with which it will work.gc(i16) device: the device number you assigned to the data acquisition device when you configured it.
+1-(bool) status: TRUE if an error has occurred.
+error in (no error)F
+FL 884XX Initialized:\automated\lv51\lvsource\gencode.cGenRangeCheck
+parity error byte"
+,d:\automated\lv51\lvsource\gencode.cGenRangeCheck
+Inductance Box Cal Data File&@2
+*.calBPlease choose the file containing the inductance calibration data.d:\automated\lv51\lvsource\gencode.cGenRangeCheck
+Capacitance Box Cal Data File&@2
+Capacitance Box Cal Data File6
+Capacitance Box Cal Data FileL
+CCCPlease choose the file containing the capacitance calibration data.O
+++BPlease choose the file containing the inductance calibration data.
+local error occurredRE
+no local errorS
+ERROR&
+prompt"@2
+pos offset (0)
+open mode (0)N
+start path  (Not A Path)X
+error in (not an error)R
+[[[report file not found if function=0 (open); set file path to empty and refnum to NotARefnumMD
+778file is now open; proceed if function=1 (open or create){D
+///user denies permission to overwrite; close filea
+112create a new file if function=1-3 (open or create)
+NNherror is other than file not found; set error flag TRUE, file path to NotAPath, and refnum to NotARefnummD
+!!!user OKs the overwrite explicitlyiD
+rrsFile Dialog cancelled; set error out code to Cancelled By User; set refnum to NotaRefnum and file path to NotAPath.
+}d:\automated\lv51\lvsource\gencode.cGenRangeCheck
+error out(
+range (auto:0)*
+Error\FC OutHD"PEO
+CALON!Gain Calibration Failed
+" Failed Calibration. Adjusted >10%
+offset past number&
+Range"
+Load SelectP
+Gain CalibrationW
+!!" Failed Calibration. Adjusted >10%R
+Communications Errord@i?
+Error Message$
+Error\FC OutX
+Range +Current Source Calibration Passed
+Communications Error.dd:\automated\lv51\lvsource\gencode.cGenRangeCheck
+)))Lowest Current Range
+!!+Current Source Calibration Passed
+Doub Click NumPTH0
+STARTCHK.vi<
+*.calBPlease choose the file containing the inductance calibration data.PTH0
+Error Message&
+Load Select"
+Selection0@P
+Inductance Box Cal Data File6
+Capacitance Box Cal Data File.
+Start Disable?.
+Doub Click Num.
+Error\FC InN
+( Failed Calibration. Gain Adjustment>10%
+@0@i0 Failed Calibration. Offset Adjustment too high.
+Error\FC Out"@@
+000 Failed Calibration. Offset Adjustment too high.W
+Communications ErrorSE
+GenRangeCheck
+-9.99990E9 is reported on overrange error.
+3Range codes: R0 - R7 ( see front panel for details)
+GetDevInfoShort.vi.
+Error\FC Out(F)$
+Error\FC Out(F)"@!
+Press 'Enter' when ready.SE
+Open Serial Driver.vid
+6) Press ENTER when ready, choose test to perform and press START.[
+Start Button&
+###Wait for start button to be clickedb
+!!!Set Pass/Fail Button to invisibled
+,,-Set Pass/ Fail Indicator and make it visible V
+!!!Set Pass/Fail button to invisibleW
+Inductor Value ary&@@
+Error\FC Out*
+Inductor Value N
+InductanceND|
+lead zero short/open.vi4
+Error\FC Out(F).
+Lead Zero Short & Open  VIY
+Lead Zero MSGV
+range (auto:0)&
+Set Voltage on UUTPD
+Capacitor Value ary&@@
+Capacitor Value N
+CapacitanceND|
+GetDevInfoShort.vi.;
+Instr Error In Cluster.ctll
+Ok/6O
+stopH
+Power Board test VersionP
+)))Turn on Active Load
+offset past match
+Error\FC Out(F)0
+start path&
+Double-Click,
+STARTCHK.viHD
+Start Buttonb
+Error\FC In @
+offset of matchL
+Open File+.vie
+start of read offset (chars.:0 )*
+prompt(
+start of read offset (chars.:0 )H
+errorHD
+Open File+.viH
+ustart of read offset is the position in the file, measured in characters (or bytes), at which the VI begins reading.
+Reset UUTH
+Error\FC In"@!
+Communications Error.d
+Load Select2
+Return String"@!
+General Error HandlerHD
+General Error HandlerHD o3
+open or create fileHD
+promptHD0
+error codes (hidden)@@P
+[error source] (" ")D
+[error source] (" ")H
+[error code] (0)H
+error codes (hidden)H
+error descriptions (hidden)H
+.source out indicates the source of the error.
+^exception code is the error code that you want to treat as an exception. By default, it is 0.
+Dcode out is the error code indicated by the error in or error code.
+yexception source is the error message that you want to use to test for an exception. By default, it is an empty string.
+ferror in describes an error that you want to check. If unwired, this VI checks error code for errors.
+1code is the error code associated with an error.
+xerror out contains the same information as status out, code out, and source out. It has the same structure as error in.
+imessage describes the error code that occurred, the source of the error, and a description of the error.
+pos offset (bytes:0)"
+pos offset (bytes:0)H
+Astatus is TRUE if an error occurred; the default value is FALSE.
+0code is the error code; the default value is 0.
+vsource is in most cases the name of the VI or function that produced the error; the default value is an empty string.
+%status is TRUE if an error occurred.
+Psource is in most cases the name of the VI or function that produced the error.
+1refnum is the reference number of the open file.
+Close File+.vi:Close File
+error?HD$
+error codesH
+$status is TRUE if an error occurred.,
+code is the error code.d
+Zerror status is TRUE if the error in cluster or any of the error codes reflects an error.
+promptH
+start path (Not A Path)H
+try to open the fileH
+lprompt is the message that appears below the list of files and directories (or folders) in the file dialog.
+\default name is the initial file name that appears in the selection box of the file dialog.
+rsource identifies where the error occurred and is usually the name of the function or VI that produced the error.
+scode is the identification number of the error. Use the General Error Handler.vi to get a description of the error.4#O
+file path is the path name of the file. If file path is empty (default value) or is Not A Path, the VI displays a File dialog box from which you can select a file. Error 43 occurs if the user cancels the dialog.   <#
+irefnum is the reference number of the open file. The value is Not A Refnum if the file cannot be opened.
+Uadvisory dialog? Set TRUE (default) if you want a dialog if the file does not exist.
+delay that causes ESR error.HD
+Error\FC OutHD
+>tB$ok
+Error MessageH
+Error\FC InY
+Start Cal Factor(0)H
+Last Range Cal'dH
+Next Range to calH
+LEADSHRT.vid
+LEADOPEN.viHD
+LEADOPEN.viHDHh3
+LEADSHRT.viHD
+LEADSHRT.viHD\
+Return StringH
+Return TerminatorH
+Port SelectH
+status is TRUE if an error occurred before this VI was called, or FALSE if not. If status is TRUE, code is a non-zero error code. If status is FALSE, code can be zero or a warning code.L%
+Read Error OccuredHD
+status is TRUE if an error occurred, or FALSE if not. If status is TRUE, code is a non-zero error code. If status is FALSE, code can be zero or a warning code.,
+Check for ErrorH
+Write ErrorHD8S3
+error codeH
+Open Serial DriverHDdP3
+stop bitsH
+parity error byteH
+:stop bits is 0 for one stop bit, or 1 for two stop bits.
+input errorH
+output errorH
+Doub Click NumH
+Tests SelectedH
+# Cap RangesH
+# Ind RangesH
+error - ignoredH
+t(bool) status: TRUE if an error has occurred. Regardless of the value of status, this VI clears the input operation.
+(i32) code: the error code associated with an error.  A value of 0 means no error, a negative value is an error, and a positive value is a warning.l
+W(string) source:  an indication of where an error occurred, usually the name of the VI.
+-(bool) status: TRUE if an error has occurred.L
+-(bool) status: TRUE if an error has occurred.,
+W(string) source:  an indication of where an error occurred, usually the name of the VI.L
+RangeH
+Error\FC OutHD$
+Open instrumentHD
+The pop-up option Explain Error (or Explain Warning) gives more information about the error displayed.,
+The pop-up option Explain Error (or Explain Warning) gives more information about the error displayed.p
+Select measurement function.   -
+Range selection has no effect in the mA DC and mA AC functions since all measurements in these functions are made in the 20000 mA range.             If the chosen range is not valid for selected function, the nearest valid range is selected.  L-
+-9.99990E9 is reported on overrange error.    p.
+A unique reference to an instrument I/O session.  It identifies which device to communicate with and all configuration information to perform the I/O.  An instr handle is returned from the Instr Open VI or the Initialize VI of an instrument driver.p0
+A unique reference to an instrument I/O session.  It identifies which device to communicate with and all configuration information to perform the I/O.  An instr handle is returned from the Instr Open VI or the Initialize VI of an instrument driver.,1
+The pop-up option Explain Error (or Explain Warning) gives more information about the error displayed.,1
+The pop-up option Explain Error (or Explain Warning) gives more information about the error displayed.L1
+3Range codes: R0 - R7 ( see front panel for details)HA
+errorH
+Capacitance Box Cal Data FileH
+Inductance Box Cal Data FileH
+start path  (Not A Path)H
+[[[report file not found if function=0 (open); set file path to empty and refnum to NotARefnumHDt
+Lead Zero MSGH
+Short LeadsH
+Open LeadsH
+lead zero short/open.viH
+Inductor Range aryH
+Set Status MessageH
+Set Voltage on UUTHD4Z3
+Capacitor Range aryH
+Reset UUTHD
+Return String8
+Read Error OccuredHDXL3
+Write ErrorHD
+Open Serial DriverHD
+Return String@@P
+!!!Set Pass/Fail Button to invisibleH
+,,-Set Pass/ Fail Indicator and make it visible m
+Beep when tests completeHD
+Inductance testII.viV
+error in (no error)|
+LC103 Power Board Test
+Unit StartH
+Low RangeHD
+Set Low LS to 0VH
+Set Low LS to 1VH
+Set Low LS to 4VHD
+Power Up Unit w/ Batt. vlt.H
+Set Low LS to 16VHD`p3
+Set Low LS to 28VHD
+Set Low LS to 32VHDHq3
+Set High LS to 33.0VHD
+Set High LS to 125VHD
+Set High LS to 500VHD t3
+Set High LS to 875VHD
+Set High LS to 1000VHD u3
+High RangeHDxu3
+Set High LS to 0VHD
+Unit StartHD
+Set Low LS to 0VHD@y3
+General Error HandlerHDP23
+Jok9
+Open Serial Driver.viPTH0
+6y\oKu
+rooK
+,Yok;Gt[
+LEADSHRT.viPTH0
+=oK{i
+LEADOPEN.viPTH0
+OkPM
+OKOZ
+W$Ok/
+8OOK
+Find First Error.viPTH0
+#Hid error arrays; cosmetic changes.
+)Additions and changes to DAQ error codes.
+Correction to error description.
++Corrected description for errors 69 and 71.
+okKj
+Open File+.viPTH0
+_ok\f
+jOKm'j
+}c~OK
+okFp
+Ringer.viPTH0
+STARTCHK.viPTH0
+- The File Dialog function now outputs an error cluster.  An Unbundle function was inserted to maintain compatibility.
+\\Atlas\Shared\Cal-Test\LC103\Source\lv8\103f_cal.llb\Open File+.vi (Open File+.vi)
+Q-$oKE
+ok=\
+Ok7r
+1OKC
+"mOKYE
+uOK.
+*OKPIj
+P\oK
+xnOK
+n"hokpJJ:;u^
+OKo`
+J1Ok1
+oKEz
+VxLOKIm
+xNOKI
+>OkW
+Pjok
+You can fix any missing DLL error in a flash with this fast, simple and trusted solution.
+Join more than 30 million users from around the world and get DLL-files.com Client to protect your PC from DLL errors. It's easy to use, No Technical knowledge required, and works with every Windows PC, 32-bit and 64-bit, from Windows 10 all the way back to Windows XP.
+The Following Refers to all Files with the Extension of "dll" or dlls compressed as "zip".

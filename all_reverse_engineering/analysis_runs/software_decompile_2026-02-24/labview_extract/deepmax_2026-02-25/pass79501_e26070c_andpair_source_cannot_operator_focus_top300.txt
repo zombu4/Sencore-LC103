@@ -1,0 +1,72 @@
+51095:18ca01 Cannot add resource
+52006:1b8ac3 Cannot add resource.
+52404:1bbf2d Adding log path resource.#Cannot find 'LVSB' resource to save
+52412:1bc147 Could not load VI resource.,Version of VI is newer than LabVIEW version.?Version of VI is too old to convert to current LabVIEW version.JVI cannot be converted to current version because it has no block diagram."Could not load connector type map.
+52414:1bc277 Could not load default data.+Could not load data space link information.%Could not load VI's link information.&Could not load LVSB platform resource.6Demonstration versions of LabVIEW cannot load this VI.
+53087:1cc8ff Cannot Add Resource
+53131:1ccc2a Cannot Add Resource
+53175:1ccf55 Cannot Add Resource
+53219:1cd280 Cannot Add Resource
+53263:1cd5a3 Cannot Add Resource
+99562:492a83 Cannot Add Resource
+99606:492dae Cannot Add Resource
+101096:4ab9d8 Cannot Add Resource
+102424:4c9187 DAQ polarityConflictErr: You cannot use this combination of scan and sample clock source polarities for this operation and board.kDAQ timebaseConflictErr: You cannot use this combination of scan and sample clock timebases for this board.
+102437:4cadd8 DAQ memPageErr: The transfer buffer contains a page break; system resources may require reprogramming when the page break is encountered.KDAQ memLockErr: The transfer buffer cannot be locked into physical memory.
+102477:4cdcdf GPIB EOWN: Sharable board exclusively owned.:LabVIEW: Cannot add resource.
+223344:b52b Cannot Add Resource
+223388:b856 Cannot Add Resource
+223432:bb81 Cannot Add Resource
+223476:beac Cannot Add Resource
+223520:c1cf Cannot Add Resource
+257892:2093af Cannot Add Resource
+257936:2096da Cannot Add Resource
+259493:223a88 Cannot Add Resource
+260857:241d5f DAQ polarityConflictErr: You cannot use this combination of scan and sample clock source polarities for this operation and board.kDAQ timebaseConflictErr: You cannot use this combination of scan and sample clock timebases for this board.
+260870:2439b0 DAQ memPageErr: The transfer buffer contains a page break; system resources may require reprogramming when the page break is encountered.KDAQ memLockErr: The transfer buffer cannot be locked into physical memory.
+260910:2468b7 GPIB EOWN: Sharable board exclusively owned.:LabVIEW: Cannot add resource.
+314865:15f930 DAQ polarityConflictErr: You cannot use this combination of scan and sample clock source polarities for this operation and board.kDAQ timebaseConflictErr: You cannot use this combination of scan and sample clock timebases for this board.
+314878:161581 DAQ memPageErr: The transfer buffer contains a page break; system resources may require reprogramming when the page break is encountered.KDAQ memLockErr: The transfer buffer cannot be locked into physical memory.
+314918:164488 GPIB EOWN: Sharable board exclusively owned.:LabVIEW: Cannot add resource.
+341342:fef00 DAQ polarityConflictErr: You cannot use this combination of scan and sample clock source polarities for this operation and board.kDAQ timebaseConflictErr: You cannot use this combination of scan and sample clock timebases for this board.
+341355:100b51 DAQ memPageErr: The transfer buffer contains a page break; system resources may require reprogramming when the page break is encountered.KDAQ memLockErr: The transfer buffer cannot be locked into physical memory.
+341395:103a58 GPIB EOWN: Sharable board exclusively owned.:LabVIEW: Cannot add resource.
+371295:17b781 DAQ polarityConflictErr: You cannot use this combination of scan and sample clock source polarities for this operation and board.kDAQ timebaseConflictErr: You cannot use this combination of scan and sample clock timebases for this board.
+371308:17d3d2 DAQ memPageErr: The transfer buffer contains a page break; system resources may require reprogramming when the page break is encountered.KDAQ memLockErr: The transfer buffer cannot be locked into physical memory.
+371348:1802d9 GPIB EOWN: Sharable board exclusively owned.:LabVIEW: Cannot add resource.
+372462:19470c Cannot Add Resource
+374162:1af47e Cannot Add Resource
+374206:1af7a9 Cannot Add Resource
+406372:3ce5f9 Cannot Add Resource
+406416:3ce924 Cannot Add Resource
+406460:3cec4f Cannot Add Resource
+406504:3cef7a Cannot Add Resource
+406548:3cf29d Cannot Add Resource
+433996:ef3a4 DAQ polarityConflictErr: You cannot use this combination of scan and sample clock source polarities for this operation and board.kDAQ timebaseConflictErr: You cannot use this combination of scan and sample clock timebases for this board.
+434009:f0ff5 DAQ memPageErr: The transfer buffer contains a page break; system resources may require reprogramming when the page break is encountered.KDAQ memLockErr: The transfer buffer cannot be locked into physical memory.
+434049:f3efc GPIB EOWN: Sharable board exclusively owned.:LabVIEW: Cannot add resource.
+469975:fe925 DAQ polarityConflictErr: You cannot use this combination of scan and sample clock source polarities for this operation and board.kDAQ timebaseConflictErr: You cannot use this combination of scan and sample clock timebases for this board.
+469988:100576 DAQ memPageErr: The transfer buffer contains a page break; system resources may require reprogramming when the page break is encountered.KDAQ memLockErr: The transfer buffer cannot be locked into physical memory.
+470028:10347d GPIB EOWN: Sharable board exclusively owned.:LabVIEW: Cannot add resource.
+503805:1dc722 DAQ polarityConflictErr: You cannot use this combination of scan and sample clock source polarities for this operation and board.kDAQ timebaseConflictErr: You cannot use this combination of scan and sample clock timebases for this board.
+503818:1de373 DAQ memPageErr: The transfer buffer contains a page break; system resources may require reprogramming when the page break is encountered.KDAQ memLockErr: The transfer buffer cannot be locked into physical memory.
+503858:1e127a GPIB EOWN: Sharable board exclusively owned.:LabVIEW: Cannot add resource.
+504851:1f4531 Cannot Add Resource
+505991:20921e Cannot Add Resource
+506035:209549 Cannot Add Resource
+528349:3ca22b Cannot Add Resource
+528393:3ca556 Cannot Add Resource
+528437:3ca881 Cannot Add Resource
+528481:3cabac Cannot Add Resource
+528525:3caecf Cannot Add Resource
+546371:ee2b4 DAQ polarityConflictErr: You cannot use this combination of scan and sample clock source polarities for this operation and board.kDAQ timebaseConflictErr: You cannot use this combination of scan and sample clock timebases for this board.
+546384:eff05 DAQ memPageErr: The transfer buffer contains a page break; system resources may require reprogramming when the page break is encountered.KDAQ memLockErr: The transfer buffer cannot be locked into physical memory.
+546424:f2e0c GPIB EOWN: Sharable board exclusively owned.:LabVIEW: Cannot add resource.
+579224:1605e6 DAQ polarityConflictErr: You cannot use this combination of scan and sample clock source polarities for this operation and board.kDAQ timebaseConflictErr: You cannot use this combination of scan and sample clock timebases for this board.
+579237:162237 DAQ memPageErr: The transfer buffer contains a page break; system resources may require reprogramming when the page break is encountered.KDAQ memLockErr: The transfer buffer cannot be locked into physical memory.
+579277:16513e GPIB EOWN: Sharable board exclusively owned.:LabVIEW: Cannot add resource.
+596014:e4447 Cannot Add Resource
+596058:e4772 Cannot Add Resource
+596102:e4a9d Cannot Add Resource
+596146:e4dc8 Cannot Add Resource
+596190:e50eb Cannot Add Resource

@@ -1,0 +1,13 @@
+79451:35fd60 Lead Zero Short Test/ESR
+79526:36044d Lead Zero Short Test/ESR
+276861:35b480 Lead Zero Short Test/ESR
+276936:35bb6d Lead Zero Short Test/ESR
+320787:1c3894 aaaLeads zero, open                Cap must read 0, IND must read "OPEN" and ESR must read "ERROR 7"W
+320789:1c3953 MMMLead zero, shorted            CAP must read "SHORT",  IND and ESR must read 0l
+393270:2fb902 Lead Zero Short Test/ESRKSomething seems to be wrong.  Make sure the UUT leads are shorted together.?
+393403:2fcd3e Lead Zero Short Test/ESR
+447600:1ca0c0 aaaLeads zero, open                Cap must read 0, IND must read "OPEN" and ESR must read "ERROR 7"W
+447602:1ca17f MMMLead zero, shorted            CAP must read "SHORT",  IND and ESR must read 0l
+518664:318210 Lead Zero Short Test/ESRKSomething seems to be wrong.  Make sure the UUT leads are shorted together.?
+550708:13e26b aaaLeads zero, open                Cap must read 0, IND must read "OPEN" and ESR must read "ERROR 7"W
+550710:13e32a MMMLead zero, shorted            CAP must read "SHORT",  IND and ESR must read 0l

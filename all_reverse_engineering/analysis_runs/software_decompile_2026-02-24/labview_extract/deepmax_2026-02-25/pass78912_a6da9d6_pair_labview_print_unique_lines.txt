@@ -1,0 +1,60 @@
+102489:4cdfb2 LabVIEW: Print aborted.?LabVIEW: Bad print record.
+102490:4cdfe7 GPIB NADDR: No GPIB address input.CLabVIEW: Print driver error.
+102491:4ce029 GPIB NSTRG: No string input (write).QLabVIEW: Operating system error during print.
+102492:4ce07e GPIB NCNT: No count input (read).$LabVIEW: Memory error during print.
+102493:4ce0c6 LabVIEW: Print dialog error.
+102494:4ce0e4 LabVIEW: Generic print error. LabVIEW: Invalid device refnum.
+260922:246b8a LabVIEW: Print aborted.?LabVIEW: Bad print record.
+260923:246bbf GPIB NADDR: No GPIB address input.CLabVIEW: Print driver error.
+260924:246c01 GPIB NSTRG: No string input (write).QLabVIEW: Operating system error during print.
+260925:246c56 GPIB NCNT: No count input (read).$LabVIEW: Memory error during print.
+260926:246c9e LabVIEW: Print dialog error.
+260927:246cbc LabVIEW: Generic print error. LabVIEW: Invalid device refnum.
+314930:16475b LabVIEW: Print aborted.?LabVIEW: Bad print record.
+314931:164790 GPIB NADDR: No GPIB address input.CLabVIEW: Print driver error.
+314932:1647d2 GPIB NSTRG: No string input (write).QLabVIEW: Operating system error during print.
+314933:164827 GPIB NCNT: No count input (read).$LabVIEW: Memory error during print.
+314934:16486f LabVIEW: Print dialog error.
+314935:16488d LabVIEW: Generic print error. LabVIEW: Invalid device refnum.
+341407:103d2b LabVIEW: Print aborted.?LabVIEW: Bad print record.
+341408:103d60 GPIB NADDR: No GPIB address input.CLabVIEW: Print driver error.
+341409:103da2 GPIB NSTRG: No string input (write).QLabVIEW: Operating system error during print.
+341410:103df7 GPIB NCNT: No count input (read).$LabVIEW: Memory error during print.
+341411:103e3f LabVIEW: Print dialog error.
+341412:103e5d LabVIEW: Generic print error. LabVIEW: Invalid device refnum.
+371360:1805ac LabVIEW: Print aborted.?LabVIEW: Bad print record.
+371361:1805e1 GPIB NADDR: No GPIB address input.CLabVIEW: Print driver error.
+371362:180623 GPIB NSTRG: No string input (write).QLabVIEW: Operating system error during print.
+371363:180678 GPIB NCNT: No count input (read).$LabVIEW: Memory error during print.
+371364:1806c0 LabVIEW: Print dialog error.
+371365:1806de LabVIEW: Generic print error. LabVIEW: Invalid device refnum.
+434061:f41cf LabVIEW: Print aborted.?LabVIEW: Bad print record.
+434062:f4204 GPIB NADDR: No GPIB address input.CLabVIEW: Print driver error.
+434063:f4246 GPIB NSTRG: No string input (write).QLabVIEW: Operating system error during print.
+434064:f429b GPIB NCNT: No count input (read).$LabVIEW: Memory error during print.
+434065:f42e3 LabVIEW: Print dialog error.
+434066:f4301 LabVIEW: Generic print error. LabVIEW: Invalid device refnum.
+470040:103750 LabVIEW: Print aborted.?LabVIEW: Bad print record.
+470041:103785 GPIB NADDR: No GPIB address input.CLabVIEW: Print driver error.
+470042:1037c7 GPIB NSTRG: No string input (write).QLabVIEW: Operating system error during print.
+470043:10381c GPIB NCNT: No count input (read).$LabVIEW: Memory error during print.
+470044:103864 LabVIEW: Print dialog error.
+470045:103882 LabVIEW: Generic print error. LabVIEW: Invalid device refnum.
+503870:1e154d LabVIEW: Print aborted.?LabVIEW: Bad print record.
+503871:1e1582 GPIB NADDR: No GPIB address input.CLabVIEW: Print driver error.
+503872:1e15c4 GPIB NSTRG: No string input (write).QLabVIEW: Operating system error during print.
+503873:1e1619 GPIB NCNT: No count input (read).$LabVIEW: Memory error during print.
+503874:1e1661 LabVIEW: Print dialog error.
+503875:1e167f LabVIEW: Generic print error. LabVIEW: Invalid device refnum.
+546436:f30df LabVIEW: Print aborted.?LabVIEW: Bad print record.
+546437:f3114 GPIB NADDR: No GPIB address input.CLabVIEW: Print driver error.
+546438:f3156 GPIB NSTRG: No string input (write).QLabVIEW: Operating system error during print.
+546439:f31ab GPIB NCNT: No count input (read).$LabVIEW: Memory error during print.
+546440:f31f3 LabVIEW: Print dialog error.
+546441:f3211 LabVIEW: Generic print error. LabVIEW: Invalid device refnum.
+579289:165411 LabVIEW: Print aborted.?LabVIEW: Bad print record.
+579290:165446 GPIB NADDR: No GPIB address input.CLabVIEW: Print driver error.
+579291:165488 GPIB NSTRG: No string input (write).QLabVIEW: Operating system error during print.
+579292:1654dd GPIB NCNT: No count input (read).$LabVIEW: Memory error during print.
+579293:165525 LabVIEW: Print dialog error.
+579294:165543 LabVIEW: Generic print error. LabVIEW: Invalid device refnum.

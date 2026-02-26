@@ -1,0 +1,187 @@
+Final_Cal_103FIN.EXE.txt	162735	bad plot type
+Final_Cal_103FIN.EXE.txt	163681	Front panel not open
+Final_Cal_103FIN.EXE.txt	210795	Core GPIB Read.vi
+Final_Cal_103FIN.EXE.txt	212661	-Serial Poll Byte Lost
+Final_Cal_103FIN.EXE.txt	215787	Core GPIB Read.vi.
+Final_Cal_103FIN.EXE.txt	252015	(ABC) source: an indication of where an
+Final_Cal_103FIN.EXE.txt	252322	(string) source: an indication of where an
+Final_Cal_103FIN.EXE.txt	264110	Fluke 8840A.vi
+Final_Cal_103FIN.EXE.txt	264213	Instr Read.vi
+Final_Cal_103FIN.EXE.txt	310070	force re-open
+Final_Cal_103FIN.EXE.txt	310141	force re-open"
+Final_Cal_103FIN.EXE.txt	320012	Serial Port Write.vi
+Final_Cal_103FIN.EXE.txt	321180	9When you use the serial port VIs under Windows, the port number parameter can have the following values:
+Final_Cal_103FIN.EXE.txt	321257	When you use the serial port VIs on a Sun SPARCstation, the port number parameter is 0 for /dev/ttya, 1 for /dev/ttyb, and so on.
+Final_Cal_103FIN.EXE.txt	321590	You can connect error code to one of the error handler VIs. These VIs furnish you with a description of the error, and give you options on how to proceed when an error occurs. For more information on using the error handler VIs, refer to Chapter 18, Error Handler VIs, of your LabVIEW user manual.
+Final_Cal_103FIN.EXE.txt	321747	@<string read. The VI returns the bytes read in string read.
+Final_Cal_103FIN.EXE.txt	324291	Serial Port Read.vi
+Final_Cal_103FIN.EXE.txt	325275	UQbyte count is the number of bytes currently queued up in the serial port buffer.
+Final_Cal_103FIN.EXE.txt	327803	Bytes At Serial Port.vi
+Final_Cal_103FIN.EXE.txt	333731	String Read.vith$
+Final_Cal_103FIN.EXE.txt	333823	Bytes At Serial Port.vi_
+Final_Cal_103FIN.EXE.txt	334728	String Read.vi
+Final_Cal_103FIN.EXE.txt	344305	Mode 2 - Read only.
+Final_Cal_103FIN.EXE.txt	344530	Bytes At Serial Port.viMD
+Final_Cal_103FIN.EXE.txt	344572	Serial Port Read.viMD
+Final_Cal_103FIN.EXE.txt	425938	Serial Number4+
+Final_Cal_103FIN.EXE.txt	445214	RINBNow adjust R1005 for the number
+Final_Cal_103FIN.EXE.txt	491411	file path is the path name of the file. If file path is empty (default value) or is Not A Path, the VI displays a File dialog box from which you can select a file. Error 43 occurs if the user cancels the dialog. \Xfile size is the size of the file in bytes; it is also the location of the end of file.
+Final_Cal_103FIN.EXE.txt	572358	mark after read (chars.)
+Final_Cal_103FIN.EXE.txt	595333	Read Lines From File.vi
+Final_Cal_nidaq.dll.txt	202857	?read@tDMAIterator@@UAEJPAXPAUtimeStruct@@@Z
+Final_Cal_nidaq.dll.txt	202884	?read@tIterator@@UAEJAAEPAUtimeStruct@@@Z
+Final_Cal_nidaq.dll.txt	202902	?read@tIterator@@UAEJPAXPAUtimeStruct@@@Z
+LC103_simplified_operating_instructions_(pull_chart).pdf.txt	18	<< /Type /XObject
+LC103_simplified_operating_instructions_(pull_chart).pdf.txt	299282	<< /Type /Page
+Source_LV3_1_103f_cal.llb.txt	4067	Open/Create/Replace File.vi
+Source_LV3_1_103f_cal.llb.txt	23993	pos mode specifies where the write begins relative to pos offset:
+Source_LV3_1_103f_cal.llb.txt	28883	Serial Port Reset.vi
+Source_LV3_1_103f_cal.llb.txt	32345	QMThis verison of Serial Port Reset.vi is for the Windows 3 version of LabVIEW.$
+Source_LV3_1_103f_cal.llb.txt	33513	MThis verison of Serial Port Reset.vi is for the Windows 3 version of LabVIEW.
+Source_LV3_1_103f_cal.llb.txt	36049	Serial Port Buffer Size.vi+
+Source_LV3_1_103f_cal.llb.txt	36316	Serial Port Buffer Size.vi
+Source_LV3_1_103f_cal.llb.txt	53031	Termination mode specifies how the GPIB driver should determine when the read is finished. All values from 0-255 (0x0-0xFF) will be taken to be an eos byte which wll stop the read when it is recieved in the data stream or when end is detected. STOPend 256 (0x100) (the default) indicates to stop the read when end is detected. The read will always stop when the requested count has been read.
+Source_LV3_1_103f_cal.llb.txt	80789	Instr Source.ctl
+Source_LV3_1_103f_cal.llb.txt	80875	Instr Source.ctl(
+Source_LV3_1_103f_cal.llb.txt	90923	source ("")PTH0
+Source_LV3_1_103f_cal.llb.txt	94077	A unique reference to an instrument I/O session. It identifies which device to communicate with and all configuration information to perform the I/O. An instr handle is returned from the Instr Open VI or the Initialize VI of an instrument driver.ZV(bool) status: TRUE if an error has occurred. If status is TRUE, this VI does nothing.
+Source_LV3_1_103f_cal.llb.txt	105492	Fluke 8840A.viH
+Source_LV3_1_103f_cal.llb.txt	107793	x(i32) line mask: determines which lines in the port the write affects. If you set line mask to -1, the VI writes to the entire port and sets all the lines in the port to the states specified by the bits in pattern. If you set only bit n in line mask, the VI changes only line n in the port to the state that bit n of pattern specifies. The default setting for line mask is -1.51(u32) task ID out: has the same value as task ID.
+Source_LV3_1_103f_cal.llb.txt	112388	DIO Port Read.vi
+Source_LV3_1_103f_cal.llb.txt	113104	DIO Port Read.vim
+Source_LV3_1_103f_cal.llb.txt	113695	This VI reads the port identified by task ID and returns the pattern read.
+Source_LV3_1_103f_cal.llb.txt	162361	uqReads the number of characters specified by requested byte count from the serial port indicated in port number.
+Source_LV3_1_103f_cal.llb.txt	173037	String Read.vi@
+Source_LV3_1_103f_cal.llb.txt	209311	File Already Open
+Source_LV3_1_103f_cal.llb.txt	209377	Too Many Files Open
+Source_LV3_1_103f_cal.llb.txt	209473	Bad External Code Offset
+Source_LV3_1_103f_cal.llb.txt	209737	Config Bad Type
+Source_LV3_1_103f_cal.llb.txt	210895	GOpens an existing file programmatically or interactively using dialog. You can optionally specify a dialog prompt, default file name, start path, or filter pattern. Error 7 occurs if the file does not exist. Use this VI with the intermediate level Read File+ VIs described below.
+Source_LV3_1_103f_cal.llb.txt	214831	If you want to test for an error from three local functions (for example, Open File, Read File, and Close File), wire their error outputs to a Build Array function, as elements 0-2 respectively. If an error occurs at Read File, the VI picks the second line for the source message of the error out cluster. Use of this input is optional.
+Source_LV3_1_103f_cal.llb.txt	215132	source messages
+Source_LV3_1_103f_cal.llb.txt	215148	source messages*
+Source_LV3_1_103f_cal.llb.txt	219190	source messagesHD"
+Source_LV3_1_103f_cal.llb.txt	220133	mark after read (bytes)
+Source_LV3_1_103f_cal.llb.txt	222029	read characters
+Source_LV3_1_103f_cal.llb.txt	222054	read lines*&count is the number of bytes to read.
+Source_LV3_1_103f_cal.llb.txt	222088	pos mode specifies where the reads begins relative to pos offset:
+Source_LV3_1_103f_cal.llb.txt	222195	relative to current mark+'string is the data read from the file.
+Source_LV3_1_103f_cal.llb.txt	222457	*error in is a cluster of three elements (status, code, and source) that describe the upstream error state, that is, the existence of any error proceeding the execution of the VI. The VI executes normally only if no incoming error exists; otherwise it merely passes the error in value to error out.
+Source_LV3_1_103f_cal.llb.txt	222660	)error out is a cluster of three elements (status, code, and source) that describe the error state following the execution of the VI. If an incoming error does not exist, the VI executes normally and error out describes the VI's error state; if an incoming error exists, error out equals error in.
+Source_LV3_1_103f_cal.llb.txt	223145	mark after read (bytes)(
+Source_LV3_1_103f_cal.llb.txt	228301	Read File+ (string).vi
+Source_LV3_1_103f_cal.llb.txt	228858	mark after read (bytes)&
+Source_LV3_1_103f_cal.llb.txt	228892	Read File+ (string): Read File
+Source_LV3_1_103f_cal.llb.txt	229518	at the current file mark plus pos offset. This is the default value.
+Source_LV3_1_103f_cal.llb.txt	236599	[exception source]&l
+Source_LV3_1_103f_cal.llb.txt	240308	Analysis MatrixMulErr: The number of columns in the first matrix is not equal to the number of rows in the second matrix or vector.<Analysis IntervalsErr: The number of intervals must be > 0.iAnalysis SizeGTOrderErr: The number of data points in the Y Values array must be greater than the order.sAnalysis MixedSignErr: The elements of the Y Values array must be nonzero and either all positive or all negative.XAnalysis StdDevErr: The standard deviation must be greater than zero for normalization.NAnalysis OddSizeErr: The number of coefficients must be even for this filter.NAnalysis EvenSizeErr: The number of coefficients must be odd for this filter.PAnalysis RankErr: The rank of the filter must meet: 1 <= (2*rank + 1) <= size.XAnalysis EqRplDesignErr: The filter cannot be designed with the specified input values.iAnalysis LeakErr: The leakage coefficient, leak, and step-size parameter, u, must meet: 0 <= leak <= u.CAnalysis StepSizeErr: The step-size, u, must meet: 0 <= u <= 0.1.ZAnalysis: AttenGTRippleErr: The attenuation must be greater than the ripple attenuation.8Analysis: FinalGTZeroErr: The final value must be > 0.0Analysis WidthGTZeroErr: The width must be > 0.6Analysis AttenGTZeroErr: The attenuation must be > 0.<Analysis RippleGTZeroErr: The ripple amplitude must be > 0.[Analysis BandSpecErr: The following conditions must be met: 0 <= f_low <= f_high <= fs/2.YAnalysis DecFactErr: The decimating factor must meet: 0 < decimating factor <= samples.1Analysis: OrderGTZeroErr: The order must be > 0.MAnalysis NyquistErr: The cut-off frequency, fc, must meet: 0 <= fc <= fs/2.FAnalysis UpperGELowerErr: The upper value must be >= the lower value.`Analysis IndexLengthErr: The following condition must be met: 0 <= (index + length) < samples.XAnalysis IndexLTSamplesErr: The following condition must be met: 0 <= index < samples.&Analysis DtGTZeroErr: dt must be > 0.'Analysis DtGEZeroErr: dt must be >= 0._Analysis DelayWidthErr: The following conditions must be met: 0 <= (delay + width) < samples.FAnalysis WidthLTSamplesErr: The width must meet: 0 < width < samples.SAnalysis CyclesErr: The number of cycles must be > 0 and <= the number of samples.IAnalysis DutyCycleErr: The duty cycle must meet: 0 <= duty cycle <= 100.RAnalysis MaxXformSizeErr: The maximum allowable transform size has been exceeded.aAnalysis PowerOfTwoErr: The size of the input array must be a power of two: size = 2^m, 0<m<23.eAnalysis ArraySizeErr: The input arrays do not contain the correct number of data values for this VI.@Analysis SamplesGEThreeErr: The number of samples must be >= 3.>Analysis SamplesGETwoErr: The number of samples must be >= 2.>Analysis SamplesGEOneErr: The number of samples must be >= 1.?Analysis SamplesGEZeroErr: The number of samples must be >= 0.=Analysis SamplesGTZeroErr: The number of samples must be >0.BAnalysis EqSamplesErr: The input sequences must be the same size.SAnalysis OutOfMemErr: There is not enough memory to perform the specified routine.
+Source_LV3_1_103f_cal.llb.txt	242268	DAQ noTrigEnabledErr: The number of total scans and pretrigger scans implies that a triggered start is intended, but triggering is not enabled.SDAQ bufferInvalidErr: A configuration change has invalidated the allocated buffer.NDAQ scanListInvalidErr: A configuration change has invalidated the scan list.\DAQ clkExceedsBrdsMaxConvRate: The clock rate exceeds the board's recommended maximum rate.SDAQ badChanInputModeErr: All channels of this board must have the same input mode.PDAQ badChanCouplingErr: All channels of this board must have the same coupling.NDAQ badChanPolarityErr: All channels of this board must be the same polarity.JDAQ badChanRangeErr: All channels of this board must have the same range.IDAQ badChanGainErr: All channels of this board must have the same gain.fDAQ invalidRegenModeErr: The specified analog output regeneration mode is not allowed for this board.sDAQ someInputsIgnoredErr: Certain inputs were ignored because they are not relevant in the current operating mode.kDAQ noInfiniteModeErr: Continuous input or output transfers are not allowed in the current operating mode.
+Source_LV3_1_103f_cal.llb.txt	242924	DAQ delayTrigErr: The delayed trigger mode is not supported or is not available in the current configuration, or no delay source has been assigned.:DAQ postTrigErr: No posttrigger source has been assigned.
+Source_LV3_1_103f_cal.llb.txt	244430	JDAQ badScanListErr: The scan list is invalid; for example, you are mixing AMUX-64T channels and onboard channels or are scanning SCXI channels out of order. Also, the driver attempts to achieve complicated gain distributions over SCXI channels on the same module by manipulating the scan list, and returns this error if it fails.WDAQ DSPInitErr: The DSP driver was unable to load the kernel for its operating system.
+Source_LV3_1_103f_cal.llb.txt	245060	DAQ badIterationsErr: The analog output buffer iterations count is not allowed. It must be 0 (for indefinite iterations) or 1.oDAQ badRPGErr: The individual range, polarity, and gain settings are valid but the combination is not allowed.}DAQ badTotalCountErr: The total count is inconsistent with the buffer size and pretrigger scan count or with the board type.3DAQ badTrigLevelErr: The trigger level is invalid.1DAQ badTrigTypeErr: The trigger type is invalid.6DAQ badExtRefErr: The external reference is invalid.PDAQ badTrigRangeErr: The trigger range or trigger hysteresis window is invalid.3DAQ badTrigCountErr: The trigger count is invalid.1DAQ badTrigModeErr: The trigger mode is invalid.BDAQ badPosttrigCountErr: The posttrigger sample count is invalid.?DAQ badPretrigCountErr: The pretrigger sample count is invalid.%DAQ badGainErr: The gain is invalid.UDAQ badFilterCutoffErr: The cutoff frequency specified is not valid for this device.
+Source_LV3_1_103f_cal.llb.txt	245602	DAQ limitsOutOfRange: The requested input limits exceed the board's capability or configuration. Alternative limits were selected.tDAQ badWriteOffsetErr: Adding the write offset to the write mark places the write mark outside the internal buffer.FDAQ badWriteModeErr: The write mode is out of range or is disallowed.
+Source_LV3_1_103f_cal.llb.txt	245744	DAQ badWriteCountErr: Your data array contains an incomplete update, or you are trying to write past the end of the internal buffer, or your output operation is continuous and the length of your array is not a multiple of one half of the internal buffer size.?DAQ badLimitsErr: The limits are beyond the range of the board.-DAQ badTimebaseErr: The timebase is invalid.2DAQ badClkFrequencyErr. The frequency is invalid.1DAQ badReadOffsetErr: The offset is unreachable..DAQ badReadModeErr: The read mode is invalid.0DAQ badReadCountErr: The read count is invalid.0DAQ badTimeLimitErr: The time limit is invalid.ADAQ groupTooLargeErr: The group size is too large for the board.QDAQ badErrorCodeErr: The driver returned an unrecognized or unlisted error code.gDAQ badRangeErr: The analog input or analog output voltage range is invalid for the specified channel.
+Source_LV3_1_103f_cal.llb.txt	246622	GPIB EARG: Invalid argument or arguments.bLabVIEW: File already open.
+Source_LV3_1_103f_cal.llb.txt	247247	GPIB EOFL: Serial port receive buffer overflow.
+Source_LV3_1_103f_cal.llb.txt	247938	DDE: Invalid string.XDDE DMERRL_ADVACKTIMEOUT: A request for a synchronous advise transaction has timed out.UDDE DMLERR_BUSY: The response to the transaction caused the DDE_FBUSY bit to be set.WDDE DMLERR_DATAACKTIMEOUT: A request for a synchronous data transaction has timed out.
+Source_LV3_1_103f_cal.llb.txt	249126	. Interpret it bit-wise as follows: x4000: serial port VI error; x0001: receiving queue overflowed or character was received after end-of-file character; x0002: character was lost by overwrite; x0004: parity error; x0008: framing error; x0010: break condition; x0020: CTS timeout; x0040: DSR timeout; x0080: RLSD timeout; x0100: transmission queue was full when new character arrived; x0200: parallel device timeout; x0400: parallel device I/O error; x0800: parallel device not selected; x1000: parallel device out of paper; x8000: requested mode is not supported or the idComDev parameter is invalid. Consult the LabVIEW serial port manual for more information.
+Source_LV3_1_103f_cal.llb.txt	249740	[exception source]
+Source_LV3_1_103f_cal.llb.txt	250313	Open/Create/Replace File.vir
+Source_LV3_1_103f_cal.llb.txt	257174	Please read the DAQ VI Reference Manual for descriptions of Digital Port Configure and Digital Port Write for more information.
+Source_LV3_1_103f_cal.llb.txt	257303	Read from Digital Port.vi
+Source_LV3_1_103f_cal.llb.txt	258995	(U32) pattern: contains the binary data read from the port. Bit zero is the least significant bit from the port specified by the port number control.
+Source_LV3_1_103f_cal.llb.txt	262052	Read/Write: Bool., F=Read, T=Write.
+Source_LV3_1_103f_cal.llb.txt	262076	Output: Data written to or read from port.$
+Source_LV3_1_103f_cal.llb.txt	262250	Read from Digital Port.viH
+Source_LV3_1_103f_cal.llb.txt	268790	1k(low voltage / gain)
+Source_LV3_1_103f_cal.llb.txt	330366	Initialize Serial Port
+Source_LV3_1_103f_cal.llb.txt	413330	Serial Number
+Source_LV3_1_103f_cal.llb.txt	447200	Serial Port Init.vi
+Source_LV3_1_MAINB_II.LLB.txt	39815	BDHP#Instr Read Model Code (GPIB-VXI).vi
+Source_LV3_1_MAINB_II.LLB.txt	53729	A unique reference to an instrument I/O session. It identifies which device to communicate with and all configuration information to perform the I/O. An instr handle is returned from the Instr Open VI or the Initialize VI of an instrument driver.1-(bool) status: TRUE if an error has occurred."
+Source_LV3_1_MAINB_II.LLB.txt	105929	Read StringH
+Source_LV3_1_MAINB_II.LLB.txt	105991	String Read.vi[
+Source_LV3_1_MAINB_II.LLB.txt	164945	GPIB EMOM: Out of memory (MacBus read or write).VLabVIEW: Device call aborted.
+Source_LV3_1_MAINB_II.LLB.txt	164996	GPIB EMIM: Insufficient memory (MacBus read or write).
+Source_LV3_1_MAINB_II.LLB.txt	166843	local testing. To test the error code of a subVI or function that does not have the error I/O structure, you can wire its error code and a source string to the local error code and error source inputs. If error in status indicates no error and error code is not equal to 0, the local code and source are substituted for the error in values, and the status is set TRUE (ERROR).
+Source_LV3_1_MAINB_II.LLB.txt	171762	[exception source]2@P
+Source_LV3_1_PWRTEST.LLB.txt	31776	#Instr Read Model Code (GPIB-VXI).vi
+Source_LV3_1_PWRTEST.LLB.txt	38841	!#Instr Read Model Code (GPIB-VXI).vi
+Source_LV3_1_PWRTEST.LLB.txt	39242	LVIN#Instr Read Model Code (GPIB-VXI).vi3
+Source_LV3_1_PWRTEST.LLB.txt	39674	$#Instr Read Model Code (GPIB-VXI).vi#Instr Read Model Code (GPIB-VXI).vi#Instr Read Model Code (GPIB-VXI).vi#Instr Read Model Code (GPIB-VXI).vi#Instr Read Model Code (GPIB-VXI).vi#Instr Read Model Code (GPIB-VXI).vi#Instr Read Model Code (GPIB-VXI).vi#Instr Read Model Code (GPIB-VXI).vi#Instr Read Model Code (GPIB-VXI).vi#Instr Read Model Code (GPIB-VXI).vi#Instr Read Model Code (GPIB-VXI).vi#Instr Read Model Code (GPIB-VXI).vi#Instr Read Model Code (GPIB-VXI).vi#Instr Read Model Code (GPIB-VXI).vi#Instr Read Model Code (GPIB-VXI).vi#Instr Read Model Code (GPIB-VXI).vi#Instr Read Model Code (GPIB-VXI).vi#Instr Read Model Code (GPIB-VXI).vi
+Source_LV3_1_PWRTEST.LLB.txt	52171	The number of bytes to read.)%(ABC)
+Source_LV3_1_PWRTEST.LLB.txt	52196	The data read from the device.3/(U32)
+Source_LV3_1_PWRTEST.LLB.txt	100541	?DAQ interfaceInteractionErr: You have mixed VIs from the DAQ library and the _DAQ compatibility library (LabVIEW 2.2 style VIs). You may switch between the two libraries only by running the DAQ VI Device Reset before calling _DAQ compatibility VIs or by running the compatibility VI Board Reset before calling DAQ VIs.RDAQ or DSP DLLInterfaceErr: The DLL could not be called due to an interface error.
+Source_LV3_1_PWRTEST.LLB.txt	103974	GPIB EOIP: New I/O attempted with old I/O in progress.9LabVIEW: Too many files open.
+Source_LV3_1_PWRTEST.LLB.txt	106090	exception handling. This mechanism is available either to set the error out status FALSE on what is normally an error or to set the status TRUE on what is normally not an error. If exception action > 0, the error in code and source are checked. If they match the exception code and source, the error out status is adjusted accordingly. That is, if the action = 1, the error out status is set to FALSE and code is set to zero and if the action = 2, the error out is set to TRUE and the code is unchanged. An empty exception source matches any error in source.
+Source_LV3_1_PWRTEST.LLB.txt	113092	The Read from Digital Port VI reads a user configured digital port. The reading is displayed as a binary number in [pattern].
+Source_LV3_1_PWRTEST.LLB.txt	113278	Please read the DAQ VI Reference Manual for descriptions of Digital Port Configure and Digital Port Read for more information.$
+Source_LV3_1_PWRTEST.LLB.txt	113585	DIO Port Read.vi(
+Source_LV3_1_PWRTEST.LLB.txt	194213	^#Instr Read Model Code (GPIB-VXI).vi
+Source_LV3_1_PWRTEST.LLB.txt	196248	Instr Open.vi
+Source_LV5_1_103f_cal.llb.txt	37774	FPHP#Instr Read Model Code (GPIB-VXI).vi
+Source_LV5_1_103f_cal.llb.txt	38360	##Instr Read Model Code (GPIB-VXI).vi#Instr Read Model Code (GPIB-VXI).vi#Instr Read Model Code (GPIB-VXI).vi#Instr Read Model Code (GPIB-VXI).vi#Instr Read Model Code (GPIB-VXI).vi#Instr Read Model Code (GPIB-VXI).vi#Instr Read Model Code (GPIB-VXI).vi#Instr Read Model Code (GPIB-VXI).vi#Instr Read Model Code (GPIB-VXI).vi#Instr Read Model Code (GPIB-VXI).vi#Instr Read Model Code (GPIB-VXI).vi#Instr Read Model Code (GPIB-VXI).vi#Instr Read Model Code (GPIB-VXI).vi#Instr Read Model Code (GPIB-VXI).vi#Instr Read Model Code (GPIB-VXI).vi#Instr Read Model Code (GPIB-VXI).vi#Instr Read Model Code (GPIB-VXI).vi#Instr Read Model Code (GPIB-VXI).vi
+Source_LV5_1_103f_cal.llb.txt	92670	VIDS#Instr Read Model Code (GPIB-VXI).vi
+Source_LV5_1_103f_cal.llb.txt	122914	deny read/write
+Source_LV5_1_103f_cal.llb.txt	130070	The read subVI inside the While Loop searches for the last end-of-line, but does not return any data. Once that location is found, the read subVI outside the loop reads the entire string. This method is faster for a large number of lines, because it does not require the use of a string concatentation function in the loop and its associated memory suffling, but this method is slower for a few lines.d:\automated\lv51\lvsource\gencode.cGenRangeCheck
+Source_LV5_1_103f_cal.llb.txt	130572	*Reads a specified number of lines from a byte stream file beginning at a specified character offset. The VI opens the file beforehand and closes it afterwards.
+Source_LV5_1_103f_cal.llb.txt	132363	mark after read (chars.)sD
+Source_LV5_1_103f_cal.llb.txt	132986	read one or more lines[
+Source_LV5_1_103f_cal.llb.txt	155463	Output: Data written to or read from port.
+Source_LV5_1_103f_cal.llb.txt	162369	Please read the DAQ VI Reference Manual for descriptions of Digital Port Configure and Digital Port Write for more information.yudevice is the device number you assigned to the plug-in DAQ board during configuration. This parameter defaults to 1.
+Source_LV5_1_103f_cal.llb.txt	166564	[exception source]6@P
+Source_LV5_1_103f_cal.llb.txt	166968	Open/Create/Replace File.viI
+Source_LV5_1_103f_cal.llb.txt	178104	DSP InvalidArrayType: The array type can only be 32-bit floating point data(0), 16-bit long integer data(1) or 32-bit short integer data(2).:DSP AllocArrayFailed: Failed to allocate a LabVIEW array.2DSP SourceNumErr: You can only select one source.bDSP InvalidBytesSelect: bytes/element selector can only select between 4 bytes(0) and 2 bytes(1).nDSP ErrInGetFunctionHandle: An error occurred when calling the function GetIndirectFunctionHandle in the CIN.TDSP LoadDLLLibErr: An error occurred when loading a function in dsp.dll in the CIN.MDSP NotFindFunctionInDLL: An error occurred when loading dsp.dll in the CIN.
+Source_LV5_1_103f_cal.llb.txt	178647	DSP CoffHdrErr: The file you are attempting to load to the DSP board is not created using the WE DSP32C tools (not an acceptable COFF file).gDSP COFF_FilePathErr: Could not find the DSP Library file in the directory set by the DAQCONF utility.dDSP TimeOutErr: The Kernel did not respond or finish function execution in the selected time limit.GDSP HandleAllocErr: Failed to allocate a handle in the interface code.pDSP HandleSlotErr: The DSP Handle used does not belong to the same board on which the function request is made.vDSP NotDSPHandle: The DSP Handle specified is not valid for this board: it has either been freed or never allocated.tDSP TransferSizeErr: The size of requested block transfer does not have enough space allocated for it on the board.bDSP ParamSizeErr: One of the parameters does not have enough space allocated for it on the board.PDSP PtrNotFound: The DSP address pointer could not be found to free the buffer.
+Source_LV5_1_103f_cal.llb.txt	180360	GPIB ESTB: Serial poll byte queue overflow.4LabVIEW: Image not found.
+Source_LV5_1_103f_cal.llb.txt	182394	Normal Use: When using subVIs that incorporate the error in/error out (or error I/O) structure, place this handler where you want to inform the user of an error, typically at the end of the I/O data path, as the last action of the program. If the error in status is ERROR, the handler creates a message describing the error and its source. If the type of dialog = 1 (default), the message is displayed to the user, who can only acknowedge it. If the type = 2, the user can acknowledge the message or abort execution; aborting a program with active I/O is not recommended. If the type = 0, no message is displayed; this is used to process the error programmatically, and the error out cluster elements are wired to individual terminals for that reason.
+Source_LV5_1_103f_cal.llb.txt	185899	exception handling. This mechanism is available either to set the error out status FALSE on what is normally an error or to set the status TRUE on what is normally not an error. If exception action > 0, the error in code and source are checked. If they match the exception code and source, the error out status is adjusted accordingly. That is, if the action = 1, the error out status is set to FALSE and code is set to zero and if the action = 2, the error out is set to TRUE and the code is unchanged. An empty exception source matches any error in source. H
+Source_LV5_1_103f_cal.llb.txt	193225	mark after read is the location of the file mark after the read; it points to the character in the file following the last character read.
+Source_LV5_1_103f_cal.llb.txt	193592	+'string is the data read from the file.
+Source_LV5_1_103f_cal.llb.txt	193759	End of the file plus pos offset.
+Source_LV5_1_103f_cal.llb.txt	325378	Serial Port Read.via
+Source_LV5_1_103f_cal.llb.txt	340807	Serial Port ResetSE
+Source_LV5_1_103f_cal.llb.txt	405937	DVM Correction
+Source_LV5_1_Fluke_8840A.vi.txt	7073	+Read measurement and
+Source_LV5_1_Mainb_ii.llb.txt	5987	Read Ready protocol violation during transfer
+Source_LV5_1_Mainb_ii.llb.txt	92322	LVIN#Instr Read Model Code (GPIB-VXI).vi
+Source_LV5_1_Mainb_ii.llb.txt	100719	monnie#Added scrollbars to source strings.
+Source_LV5_1_Mainb_ii.llb.txt	115169	(i32) code: the error code associated with an error. A value of 0 means no error, a negative value is an error, and a positive value is a warning.[W(string) source: an indication of where an error occurred, usually the name of the VI.xt(bool) status: TRUE if an error has occurred. Regardless of the value of status, this VI clears the input operation.
+Source_LV5_1_Mainb_ii.llb.txt	142695	Serial Port Read.vi,
+Source_LV5_1_Mainb_ii.llb.txt	145703	Mode 0 - Write then Read.
+Source_LV5_1_Mainb_ii.llb.txt	150226	Wait for UUT to
+Source_LV5_1_Mainb_ii.llb.txt	162407	Bytes At Serial Port.vi{
+Source_LV5_1_Mainb_ii.llb.txt	183162	Fluke 8840A.viSE
+Source_LV5_1_Mainb_ii.llb.txt	185467	qReads the number of characters specified by requested byte count from the serial port indicated in port number.
+Source_LV5_1_Mainb_ii.llb.txt	189291	This VI loads the addressing information about the instrument into the Open VXI Instrument VI and returns the instrument ID. You can reset the instrument by setting the front panel reset control. You must run this VI before using any of the instrument driver VIs for this instrument.
+Source_LV5_1_Mainb_ii.llb.txt	193095	slow read(S0)N
+Source_LV5_1_Mainb_ii.llb.txt	215662	Send.vi#Instr Read Model Code (GPIB-VXI).vi#Instr Read Model Code (GPIB-VXI).vi#Instr Read Model Code (GPIB-VXI).vi#Instr Read Model Code (GPIB-VXI).vi#Instr Read Model Code (GPIB-VXI).vi
+Source_LV5_1_Pwrtest.llb.txt	50525	read buffer<
+Source_LV5_1_Pwrtest.llb.txt	90599	#Instr Read Model Code (GPIB-VXI).viHD"
+Source_LV5_1_Pwrtest.llb.txt	100323	DAQ virtualMemErr: The driver is unable to make the transfer buffer contiguous in virtual memory and therefore cannot lock it into physical memory; thus, the buffer cannot be used for DMA transfers.tDAQ physicalMemErr: A hardware error occurred in physical memory, or no memory is located at the specified address.bDAQ cacheMemErr: A cache-related error occurred, or caching is not supported in the current mode.cDAQ stackMemErr: The driver is unable to continue parsing a string input due to stack limitations.NDAQ memPageLockErr: The operating environment is unable to grant a page lock.
+Source_LV5_1_Pwrtest.llb.txt	106551	1This error handler is used primarily to inform the user if an input error exists, to describe the error, and to identify where it occurred. The information for this is derived from the inputs error in, error code, and error source, and from an internal error description table. The table describes all errors that can be created by LabVIEW or its associated I/O operations. The handler has provisions to take alternative actions, such as to cancel or set an error status, and to test for and describe user-defined errors. See instruction on the front panel.
+Source_LV5_1_Pwrtest.llb.txt	108183	. Interpret it bit-wise as follows: x4000: serial port VI error; x0001: receiving queue overflowed or character was received after end-of-file character; x0002: character was lost by overwrite; x0004: parity error; x0008: framing error; x0010: break condition; x0020: CTS timeout; x0040: DSR timeout; x0080: RLSD timeout; x0100: transmission queue was full when new character arrived; x0200: parallel device timeout; x0400: parallel device I/O error; x0800: parallel device not selected; x1000: parallel device out of paper; x8000: requested mode is not supported or the idComDev parameter is invalid. Consult the LabVIEW serial port manual for more information.SD
+Source_LV6_103f_cal.llb.txt	158186	WAIT.VIHD k3
+Source_LV6_103f_cal.llb.txt	208261	error out is a cluster of three elements (error?, code, and source) that describe the error state following the execution of the VI. If an incoming error does not exist, the VI executes normally and error out describes the VI's error state; if an incoming error exists, error out equals error in.
+Source_LV6_103f_cal.llb.txt	356363	XON/XOFF is a software handshaking protocol you can use to avoid overflowing serial port buffers. When the receive buffer is nearly full, the receiver sends XOFF (<controlS> [decimal 19]) to tell the other device to stop sending data. When the receive buffer is sufficiently empty, the receiver sends XON (<controlQ> [decimal 17]) to indicate that transmission can begin again. When you enable XON/XOFF, the devices always interpret <controlQ> and <controlS> as XON and XOFF characters, never as data. When you disable XON/XOFF, you can send <controlQ> and <controlS> as data. Do not use XON/XOFF with binary data transfers because <controlQ> or <controlS> may be embedded in the data, and the devices will interpret them as XON and XOFF instead of data.
+Source_LV6_103f_cal.llb.txt	356768	hOutput XON/XOFF. See the Common Serial Port VI Parameters section of this chapter for more information.
+Source_LV6_Pwrtest.llb.txt	148788	x(i32) line mask: determines which lines in the port the write affects. If you set line mask to -1, the VI writes to the entire port and sets all the lines in the port to the states specified by the bits in pattern. If you set only bit n in line mask, the VI changes only line n in the port to the state that bit n of pattern specifies. The default setting for line mask is -1.,
+Source_LV6_Pwrtest.llb.txt	153012	DAQ: digprtcf.c: allocation failedDAQ: portNumStr = %s (after truncating)DAQ: back from GET_DIGPORTDESC_DATADIGPRTCF: boardType %dDIGPRTCF: hardwarePortWidth %dDIGPRTCF: logicalPortWidth %dDIGPRTCF: numberOfPorts %dGET_DIGPORTDESC_DATALV_DIG_PORT_CONFIGSetCINArraySize, elmtNum %ld out of range 0 <= elmtNum < %ldnon-array detected
+Source_LV6_Pwrtest.llb.txt	160125	FDAQ overRunErr: The clock source for the input task is faster than the maximum clock rate the device supports. If you are allowing the driver to calculate the analog input channel clock rate, the driver bases the clock rate on the board type; so you should check that your board type is correct in the configuration utility.YDAQ earlyStopErr: The transfer stopped prior to reaching the end of the transfer buffer.^DAQ transferStoppedErr: The transfer has been stopped to prevent regeneration of output data.MDAQ dataNotAvailErr: The requested amount of data has not yet been acquired.FDAQ calibrationErr: An error occurred during the calibration process.GDAQ timeOutErr: The operation could not complete within the time limit.
+Source_LV6_Pwrtest.llb.txt	160496	DAQ SCXITrackHoldErr: A signal has already been assigned to the SCXI track-and-hold trigger line, or a control call was inappropriate because the specified module is not configured for one-channel operation.~DAQ signalConflictErr: You cannot use this combination of scan and convert clock signal sources for this operation and board.
+Source_LV6_Pwrtest.llb.txt	161655	DAQ badDirOnSomeLinesErr: Some of the lines in the specified channel are not configured for the transfer direction specified. For a write transfer, some lines are configured for input. For a read transfer, some lines are configured for output.|DAQ transferPauseErr: A single output channel in a group may not be paused if the output data for the group is interleaved.UDAQ transferInProgErr: A transfer is already in progress for the specified resource.PDAQ noTransferInProgErr: No transfer is in progress for the specified resource.7DAQ armedErr: The specified resource is already armed.6DAQ notArmedErr: The specified resource is not armed.rDAQ endWriteErr: No data was written to the transfer buffer because the final data block has already been loaded.
+Source_LV6_Pwrtest.llb.txt	165290	Configuration type invalid.
+Source_lv8_103f_cal.llb.txt	2219	Logical address to read buffer from-)(U32)
+Source_lv8_103f_cal.llb.txt	134759	Bytes At Serial Port.viPTH0
+Source_lv8_103f_cal.llb.txt	139165	Serial Port Read.viPTH0
+Source_lv8_warnings.txt.txt	0	\\Atlas\Shared\Cal-Test\LC103\Source\lv8\103f_cal.llb\103FINAL.VI (103FINAL.VI)
+Source_lv8_warnings.txt.txt	199	- The File Dialog function no longer supports the datalog file type input.
+Source_lv8_warnings.txt.txt	238	- The VI expected to be at "\\Atlas\Shared\Cal-Test\LC103\Source\lv8\103f_cal.llb\Beep.vi" was loaded from "C:\Program Files\National Instruments\LabVIEW 8.6\vi.lib\Platform\system.llb\Beep.vi".
+Source_lv8_warnings.txt.txt	300	\\Atlas\Shared\Cal-Test\LC103\Source\lv8\103f_cal.llb\CALCLEAR.VI (CALCLEAR.VI)
+Source_lv8_warnings.txt.txt	419	\\Atlas\Shared\Cal-Test\LC103\Source\lv8\103f_cal.llb\Caldate.vi (Caldate.vi)
+Source_lv8_warnings.txt.txt	530	\\Atlas\Shared\Cal-Test\LC103\Source\lv8\103f_cal.llb\CALSET.VI (CALSET.VI)
+Source_lv8_warnings.txt.txt	645	\\Atlas\Shared\Cal-Test\LC103\Source\lv8\103f_cal.llb\CAP_CAL.VI (CAP_CAL.VI)
+Source_lv8_warnings.txt.txt	828	\\Atlas\Shared\Cal-Test\LC103\Source\lv8\103f_cal.llb\DA_TEST.VI (DA_TEST.VI)
+Source_lv8_warnings.txt.txt	1041	\\Atlas\Shared\Cal-Test\LC103\Source\lv8\103f_cal.llb\IND_CAL.VI (IND_CAL.VI)
+Source_lv8_warnings.txt.txt	1224	\\Atlas\Shared\Cal-Test\LC103\Source\lv8\103f_cal.llb\ISRC_CAL.VI (ISRC_CAL.VI)
+Source_lv8_warnings.txt.txt	1456	\\Atlas\Shared\Cal-Test\LC103\Source\lv8\103f_cal.llb\LEAK_I.VI (LEAK_I.VI)

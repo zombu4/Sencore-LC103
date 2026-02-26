@@ -1,0 +1,1 @@
+259794:227c5b convert eol  Set TRUE to convert each platform-specific end of line marker to the LabVIEW marker, line feed.  Set FALSE (default value) to do nothing.

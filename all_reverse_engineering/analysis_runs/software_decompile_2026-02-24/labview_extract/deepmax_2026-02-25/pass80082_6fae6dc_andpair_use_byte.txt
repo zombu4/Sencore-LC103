@@ -1,0 +1,5 @@
+46266:159d12 Unable to start the application because you do not have at least %ld bytes of memory available.
+74843:317181 Parity Error Byte. If the high byte is non-zero, the low byte is the character that is used to replace any parity errors found when parity is enabled.
+245153:155835 Parity Error Byte. If the high byte is non-zero, the low byte is the character that is used to replace any parity errors found when parity is enabled.
+397613:33f74f Parity Error Byte. If the high byte is non-zero, the low byte is the character that is used to replace any parity errors found when parity is enabled.
+522321:3568ac Parity Error Byte. If the high byte is non-zero, the low byte is the character that is used to replace any parity errors found when parity is enabled.

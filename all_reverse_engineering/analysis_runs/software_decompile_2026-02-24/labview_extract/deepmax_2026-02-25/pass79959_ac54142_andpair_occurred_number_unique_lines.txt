@@ -1,0 +1,4 @@
+52020:1b8d0e Generic print error occurred.#Device reference number is invalid.
+99491:4918d4 wscode is the identification number of the error. Use the General Error Handler.vi to get a description of the error.vrsource identifies where the error occurred and is usually the name of the function or VI that produced the error.
+257821:208200 wscode is the identification number of the error. Use the General Error Handler.vi to get a description of the error.vrsource identifies where the error occurred and is usually the name of the function or VI that produced the error.
+374039:1ae49e wscode is the identification number of the error. Use the General Error Handler.vi to get a description of the error.vrsource identifies where the error occurred and is usually the name of the function or VI that produced the error.

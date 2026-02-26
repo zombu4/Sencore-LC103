@@ -1,0 +1,20 @@
+46815:15d25d   newpath  xCenter yCenter translate wtRad htRad scale 0 0 1 startAngle endAngle
+102413:4c8692 DAQ dmaChainingErr:  New buffer information was not available at the time of the DMA chaining interrupt; DMA transfers will terminate at the end of the currently active transfer buffer.
+102958:4d61cb Writes a character string to a new byte stream file or appends the string to an existing file.  The VI opens or creates the file beforehand and closes it afterwards.
+260846:24126a DAQ dmaChainingErr:  New buffer information was not available at the time of the DMA chaining interrupt; DMA transfers will terminate at the end of the currently active transfer buffer.
+261397:24f12b Writes a character string to a new byte stream file or appends the string to an existing file.  The VI opens or creates the file beforehand and closes it afterwards.
+261609:2507dc Writes a character string to a new byte stream file or appends the string to an existing file.  The VI opens or creates the file beforehand and closes it afterwards.
+314854:15ee3b DAQ dmaChainingErr:  New buffer information was not available at the time of the DMA chaining interrupt; DMA transfers will terminate at the end of the currently active transfer buffer.
+341331:fe40b DAQ dmaChainingErr:  New buffer information was not available at the time of the DMA chaining interrupt; DMA transfers will terminate at the end of the currently active transfer buffer.
+370469:168abf Writes a character string to a new byte stream file or appends the string to an existing file.  The VI opens or creates the file beforehand and closes it afterwards.
+371284:17ac8c DAQ dmaChainingErr:  New buffer information was not available at the time of the DMA chaining interrupt; DMA transfers will terminate at the end of the currently active transfer buffer.
+404059:3a5a44 Writes a character string to a new byte stream file or appends the string to an existing file.  The VI opens or creates the file beforehand and closes it afterwards.
+433985:ee8af DAQ dmaChainingErr:  New buffer information was not available at the time of the DMA chaining interrupt; DMA transfers will terminate at the end of the currently active transfer buffer.
+469964:fde30 DAQ dmaChainingErr:  New buffer information was not available at the time of the DMA chaining interrupt; DMA transfers will terminate at the end of the currently active transfer buffer.
+503359:1cf7ce Writes a character string to a new byte stream file or appends the string to an existing file.  The VI opens or creates the file beforehand and closes it afterwards.
+503794:1dbc2d DAQ dmaChainingErr:  New buffer information was not available at the time of the DMA chaining interrupt; DMA transfers will terminate at the end of the currently active transfer buffer.
+527396:3b4690 Writes a character string to a new byte stream file or appends the string to an existing file.  The VI opens or creates the file beforehand and closes it afterwards.
+546360:ed7bf DAQ dmaChainingErr:  New buffer information was not available at the time of the DMA chaining interrupt; DMA transfers will terminate at the end of the currently active transfer buffer.
+579213:15faf1 DAQ dmaChainingErr:  New buffer information was not available at the time of the DMA chaining interrupt; DMA transfers will terminate at the end of the currently active transfer buffer.
+596795:f58f0 Writes a character string to a new byte stream file or appends the string to an existing file.  The VI opens or creates the file beforehand and closes it afterwards.
+608417:1b6db0 Writes a character string to a new byte stream file or appends the string to an existing file.  The VI opens or creates the file beforehand and closes it afterwards.

@@ -1,0 +1,20 @@
+102415:4c87d4 DAQ overFlowErr:  Because of system limitations, the driver could not read data from the device fast enough to keep up with the device throughput; the onboard device memory reported an overflow error.
+102480:4cddae GPIB ESRG:  SRQ stuck on.?LabVIEW:  Image memory error.
+260848:2413ac DAQ overFlowErr:  Because of system limitations, the driver could not read data from the device fast enough to keep up with the device throughput; the onboard device memory reported an overflow error.
+260913:246986 GPIB ESRG:  SRQ stuck on.?LabVIEW:  Image memory error.
+314856:15ef7d DAQ overFlowErr:  Because of system limitations, the driver could not read data from the device fast enough to keep up with the device throughput; the onboard device memory reported an overflow error.
+314921:164557 GPIB ESRG:  SRQ stuck on.?LabVIEW:  Image memory error.
+341333:fe54d DAQ overFlowErr:  Because of system limitations, the driver could not read data from the device fast enough to keep up with the device throughput; the onboard device memory reported an overflow error.
+341398:103b27 GPIB ESRG:  SRQ stuck on.?LabVIEW:  Image memory error.
+371286:17adce DAQ overFlowErr:  Because of system limitations, the driver could not read data from the device fast enough to keep up with the device throughput; the onboard device memory reported an overflow error.
+371351:1803a8 GPIB ESRG:  SRQ stuck on.?LabVIEW:  Image memory error.
+433987:ee9f1 DAQ overFlowErr:  Because of system limitations, the driver could not read data from the device fast enough to keep up with the device throughput; the onboard device memory reported an overflow error.
+434052:f3fcb GPIB ESRG:  SRQ stuck on.?LabVIEW:  Image memory error.
+469966:fdf72 DAQ overFlowErr:  Because of system limitations, the driver could not read data from the device fast enough to keep up with the device throughput; the onboard device memory reported an overflow error.
+470031:10354c GPIB ESRG:  SRQ stuck on.?LabVIEW:  Image memory error.
+503796:1dbd6f DAQ overFlowErr:  Because of system limitations, the driver could not read data from the device fast enough to keep up with the device throughput; the onboard device memory reported an overflow error.
+503861:1e1349 GPIB ESRG:  SRQ stuck on.?LabVIEW:  Image memory error.
+546362:ed901 DAQ overFlowErr:  Because of system limitations, the driver could not read data from the device fast enough to keep up with the device throughput; the onboard device memory reported an overflow error.
+546427:f2edb GPIB ESRG:  SRQ stuck on.?LabVIEW:  Image memory error.
+579215:15fc33 DAQ overFlowErr:  Because of system limitations, the driver could not read data from the device fast enough to keep up with the device throughput; the onboard device memory reported an overflow error.
+579280:16520d GPIB ESRG:  SRQ stuck on.?LabVIEW:  Image memory error.

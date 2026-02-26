@@ -1,0 +1,2 @@
+48162:164718 TEXT8The name of the VI to run. It must already be in memory.
+52435:1bcb0f The VI %p has changed on disk since last saved or loaded by LabVIEW. If you load its %p, it will probably be inconsistent with the parts of the VI already in memory, resulting in a corrupt VI.

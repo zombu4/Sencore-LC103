@@ -1,0 +1,76 @@
+52543:1bf662 This platform does not support the current return type. For example, the return type of a 16-bit DLL function may not be a floating point number. Pop up on the Call Library Function node and select Configure... to set the return type.
+74822:316bf5 9When you use the serial port VIs under Windows, the port number parameter can have the following values:
+74836:316ccc When you use the serial port VIs on a Sun SPARCstation, the port number parameter is 0 for /dev/ttya, 1 for /dev/ttyb, and so on.
+75375:31da87 9When you use the serial port VIs under Windows, the port number parameter can have the following values:
+75389:31db5e When you use the serial port VIs on a Sun SPARCstation, the port number parameter is 0 for /dev/ttya, 1 for /dev/ttyb, and so on.
+75494:31fb85 UQWrites the data in string to write to the serial port indicated in port number. 
+75597:321180 9When you use the serial port VIs under Windows, the port number parameter can have the following values:
+75611:321257 When you use the serial port VIs on a Sun SPARCstation, the port number parameter is 0 for /dev/ttya, 1 for /dev/ttyb, and so on.
+75851:32503b 9When you use the serial port VIs under Windows, the port number parameter can have the following values:
+75865:325112 When you use the serial port VIs on a Sun SPARCstation, the port number parameter is 0 for /dev/ttya, 1 for /dev/ttyb, and so on.
+103595:4def01 =port width is the total width in bits or the number of lines of the port. For example, you can combine two 4bit ports into an 8-bit port on an MIO board by setting port width to 8. 
+245132:1552a9 9When you use the serial port VIs under Windows, the port number parameter can have the following values:
+245146:155380 When you use the serial port VIs on a Sun SPARCstation, the port number parameter is 0 for /dev/ttya, 1 for /dev/ttyb, and so on.
+245690:15c26b 9When you use the serial port VIs under Windows, the port number parameter can have the following values:
+245704:15c342 When you use the serial port VIs on a Sun SPARCstation, the port number parameter is 0 for /dev/ttya, 1 for /dev/ttyb, and so on.
+245809:15e369 UQWrites the data in string to write to the serial port indicated in port number. 
+245907:15ec57 QWrites the data in string to write to the serial port indicated in port number. 
+245918:15fac0 9When you use the serial port VIs under Windows, the port number parameter can have the following values:
+245932:15fb97 When you use the serial port VIs on a Sun SPARCstation, the port number parameter is 0 for /dev/ttya, 1 for /dev/ttyb, and so on.
+246177:163adf 9When you use the serial port VIs under Windows, the port number parameter can have the following values:
+246191:163bb6 When you use the serial port VIs on a Sun SPARCstation, the port number parameter is 0 for /dev/ttya, 1 for /dev/ttyb, and so on.
+262056:258755 =port width is the total width in bits or the number of lines of the port. For example, you can combine two 4bit ports into an 8-bit port on an MIO board by setting port width to 8. 
+307911:e5866 9When you use the serial port VIs under Windows, the port number parameter can have the following values:
+307925:e593d When you use the serial port VIs on a Sun SPARCstation, the port number parameter is 0 for /dev/ttya, 1 for /dev/ttyb, and so on.
+308029:e7965 UQWrites the data in string to write to the serial port indicated in port number. 
+308128:e824f QWrites the data in string to write to the serial port indicated in port number. 
+308139:e90b3 9When you use the serial port VIs under Windows, the port number parameter can have the following values:
+308153:e918a When you use the serial port VIs on a Sun SPARCstation, the port number parameter is 0 for /dev/ttya, 1 for /dev/ttyb, and so on.
+308397:ed0ca 9When you use the serial port VIs under Windows, the port number parameter can have the following values:
+308411:ed1a1 When you use the serial port VIs on a Sun SPARCstation, the port number parameter is 0 for /dev/ttya, 1 for /dev/ttyb, and so on.
+315557:16fd26 =port width is the total width in bits or the number of lines of the port. For example, you can combine two 4bit ports into an 8-bit port on an MIO board by setting port width to 8. 
+342042:10f3c2 =port width is the total width in bits or the number of lines of the port. For example, you can combine two 4bit ports into an 8-bit port on an MIO board by setting port width to 8. 
+369536:15b837 =port width is the total width in bits or the number of lines of the port. For example, you can combine two 4bit ports into an 8-bit port on an MIO board by setting port width to 8. 
+396595:330ae7 9When you use the serial port VIs under Windows, the port number parameter can have the following values:
+396609:330bbe When you use the serial port VIs on a Sun SPARCstation, the port number parameter is 0 for /dev/ttya, 1 for /dev/ttyb, and so on.
+396893:334e31 9When you use the serial port VIs under Windows, the port number parameter can have the following values:
+396907:334f08 When you use the serial port VIs on a Sun SPARCstation, the port number parameter is 0 for /dev/ttya, 1 for /dev/ttyb, and so on.
+397173:338d6a UQWrites the data in string to write to the serial port indicated in port number. 
+397174:338dc0 9When you use the serial port VIs under Windows, the port number parameter can have the following values:
+397188:338e97 When you use the serial port VIs on a Sun SPARCstation, the port number parameter is 0 for /dev/ttya, 1 for /dev/ttyb, and so on.
+397592:33f1c3 9When you use the serial port VIs under Windows, the port number parameter can have the following values:
+397606:33f29a When you use the serial port VIs on a Sun SPARCstation, the port number parameter is 0 for /dev/ttya, 1 for /dev/ttyb, and so on.
+404006:3a39db QWrites the data in string to write to the serial port indicated in port number. 
+432780:d5b98 =port width is the total width in bits or the number of lines of the port. For example, you can combine two 4bit ports into an 8-bit port on an MIO board by setting port width to 8. 
+440784:163e2a 9When you use the serial port VIs under Windows, the port number parameter can have the following values:
+440798:163f01 When you use the serial port VIs on a Sun SPARCstation, the port number parameter is 0 for /dev/ttya, 1 for /dev/ttyb, and so on.
+441084:16817a 9When you use the serial port VIs under Windows, the port number parameter can have the following values:
+441098:168251 When you use the serial port VIs on a Sun SPARCstation, the port number parameter is 0 for /dev/ttya, 1 for /dev/ttyb, and so on.
+441368:16c0b0 UQWrites the data in string to write to the serial port indicated in port number. 
+441369:16c106 9When you use the serial port VIs under Windows, the port number parameter can have the following values:
+441383:16c1dd When you use the serial port VIs on a Sun SPARCstation, the port number parameter is 0 for /dev/ttya, 1 for /dev/ttyb, and so on.
+442989:18540b QWrites the data in string to write to the serial port indicated in port number. 
+471413:11b4dd =port width is the total width in bits or the number of lines of the port. For example, you can combine two 4bit ports into an 8-bit port on an MIO board by setting port width to 8. 
+502759:1c3f45 =port width is the total width in bits or the number of lines of the port. For example, you can combine two 4bit ports into an 8-bit port on an MIO board by setting port width to 8. 
+521548:349f14 9When you use the serial port VIs under Windows, the port number parameter can have the following values:
+521562:349feb When you use the serial port VIs on a Sun SPARCstation, the port number parameter is 0 for /dev/ttya, 1 for /dev/ttyb, and so on.
+521751:34d2fc 9When you use the serial port VIs under Windows, the port number parameter can have the following values:
+521765:34d3d3 When you use the serial port VIs on a Sun SPARCstation, the port number parameter is 0 for /dev/ttya, 1 for /dev/ttyb, and so on.
+521914:34fbe5 UQWrites the data in string to write to the serial port indicated in port number. 
+521941:350284 9When you use the serial port VIs under Windows, the port number parameter can have the following values:
+521955:35035b When you use the serial port VIs on a Sun SPARCstation, the port number parameter is 0 for /dev/ttya, 1 for /dev/ttyb, and so on.
+522293:355c9a 9When you use the serial port VIs under Windows, the port number parameter can have the following values:
+522307:355d71 When you use the serial port VIs on a Sun SPARCstation, the port number parameter is 0 for /dev/ttya, 1 for /dev/ttyb, and so on.
+527343:3b2627 QWrites the data in string to write to the serial port indicated in port number. 
+545155:d4aa8 =port width is the total width in bits or the number of lines of the port. For example, you can combine two 4bit ports into an 8-bit port on an MIO board by setting port width to 8. 
+556362:1a3ebb QWrites the data in string to write to the serial port indicated in port number. 
+558149:1c4042 9When you use the serial port VIs under Windows, the port number parameter can have the following values:
+558163:1c4119 When you use the serial port VIs on a Sun SPARCstation, the port number parameter is 0 for /dev/ttya, 1 for /dev/ttyb, and so on.
+558356:1c7432 9When you use the serial port VIs under Windows, the port number parameter can have the following values:
+558370:1c7509 When you use the serial port VIs on a Sun SPARCstation, the port number parameter is 0 for /dev/ttya, 1 for /dev/ttyb, and so on.
+558522:1c9d1a UQWrites the data in string to write to the serial port indicated in port number. 
+558548:1ca3b8 9When you use the serial port VIs under Windows, the port number parameter can have the following values:
+558562:1ca48f When you use the serial port VIs on a Sun SPARCstation, the port number parameter is 0 for /dev/ttya, 1 for /dev/ttyb, and so on.
+580643:17d141 =port width is the total width in bits or the number of lines of the port. For example, you can combine two 4bit ports into an 8-bit port on an MIO board by setting port width to 8. 
+596742:f3887 QWrites the data in string to write to the serial port indicated in port number. 
+600397:12f417 QWrites the data in string to write to the serial port indicated in port number. 

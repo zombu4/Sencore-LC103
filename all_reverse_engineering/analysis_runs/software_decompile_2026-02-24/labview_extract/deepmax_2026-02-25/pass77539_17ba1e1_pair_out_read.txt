@@ -1,0 +1,41 @@
+53304:1cd8c1 Connection timed out!Connection is already in progress
+55621:1f6984 Data Out Ready protocol violation 
+55844:1f9cb5 Data Out Ready protocol violation 
+74849:3176fa Output alt HW Handshake. On the PC, this parameter corresponds to Data Set Ready (DSR) handshaking. On the SPARCstation, this parameter is ignored.
+102497:4ce19c GPIB EMOM:  Out of memory (MacBus read or write).VLabVIEW:  Device call aborted.
+223561:c4ed Connection timed out!Connection is already in progress
+225980:372c4 Data Out Ready protocol violation 
+226208:3a77d Data Out Ready protocol violation 
+245159:155dae Output alt HW Handshake. On the PC, this parameter corresponds to Data Set Ready (DSR) handshaking. On the SPARCstation, this parameter is ignored.
+260930:246d74 GPIB EMOM:  Out of memory (MacBus read or write).VLabVIEW:  Device call aborted.
+292456:462d Data Out Ready protocol violation 
+292685:7b4a Data Out Ready protocol violation 
+314938:164945 GPIB EMOM:  Out of memory (MacBus read or write).VLabVIEW:  Device call aborted.
+324577:3a3d Data Out Ready protocol violation 
+324807:6eee Data Out Ready protocol violation 
+341415:103f15 GPIB EMOM:  Out of memory (MacBus read or write).VLabVIEW:  Device call aborted.
+347425:2584 Data Out Ready protocol violation 
+347653:5a3d Data Out Ready protocol violation 
+371368:180796 GPIB EMOM:  Out of memory (MacBus read or write).VLabVIEW:  Device call aborted.
+397619:33fcc8 Output alt HW Handshake. On the PC, this parameter corresponds to Data Set Ready (DSR) handshaking. On the SPARCstation, this parameter is ignored.
+406589:3cf5bb Connection timed out!Connection is already in progress
+418085:24a1 Data Out Ready protocol violation 
+418314:59be Data Out Ready protocol violation 
+434069:f43b9 GPIB EMOM:  Out of memory (MacBus read or write).VLabVIEW:  Device call aborted.
+452876:e89 Data Out Ready protocol violation 
+453106:433a Data Out Ready protocol violation 
+470048:10393a GPIB EMOM:  Out of memory (MacBus read or write).VLabVIEW:  Device call aborted.
+476641:2584 Data Out Ready protocol violation 
+476869:5a3d Data Out Ready protocol violation 
+503878:1e1737 GPIB EMOM:  Out of memory (MacBus read or write).VLabVIEW:  Device call aborted.
+522317:3566d0 Output alt HW Handshake. On the PC, this parameter corresponds to Data Set Ready (DSR) handshaking. On the SPARCstation, this parameter is ignored.
+528566:3cb1ed Connection timed out!Connection is already in progress
+530553:24a1 Data Out Ready protocol violation 
+530782:59be Data Out Ready protocol violation 
+546444:f32c9 GPIB EMOM:  Out of memory (MacBus read or write).VLabVIEW:  Device call aborted.
+560792:e89 Data Out Ready protocol violation 
+561022:433a Data Out Ready protocol violation 
+579297:1655fb GPIB EMOM:  Out of memory (MacBus read or write).VLabVIEW:  Device call aborted.
+581364:24fc Data Out Ready protocol violation 
+581592:59b5 Data Out Ready protocol violation 
+596231:e5409 Connection timed out!Connection is already in progress

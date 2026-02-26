@@ -1,0 +1,45 @@
+53014:1cb6af zvsource is in most cases the name of the VI or function that produced the error; the default value is an empty string.
+54255:1e0095 zvsource is in most cases the name of the VI or function that produced the error; the default value is an empty string.
+54494:1e3da2 *Writes a string of characters to a byte stream file at the specified location; the default location is at the end of file.  The VI does incoming and internal error checking and does not write if an incoming error occurs.
+100610:4a3a7b zvsource is in most cases the name of the VI or function that produced the error; the default value is an empty string.
+101013:4aa4d2 zvsource is in most cases the name of the VI or function that produced the error; the default value is an empty string.
+101388:4af7d2 Reads a string of characters from a byte stream file at the specified location; the default location is at the current mark.  The VI does incoming and internal error checking and does not read if an incoming error occurs.
+101595:4b75bd }yexception source is the error message that you want to use to test for an exception. By default, it is an empty string. 
+223271:a2db zvsource is in most cases the name of the VI or function that produced the error; the default value is an empty string.
+224548:1fb75 zvsource is in most cases the name of the VI or function that produced the error; the default value is an empty string.
+224787:23882 *Writes a string of characters to a byte stream file at the specified location; the default location is at the end of file.  The VI does incoming and internal error checking and does not write if an incoming error occurs.
+224952:2506b *Writes a string of characters to a byte stream file at the specified location; the default location is at the end of file.  The VI does incoming and internal error checking and does not write if an incoming error occurs.
+258981:21b2cf zvsource is in most cases the name of the VI or function that produced the error; the default value is an empty string.
+259410:222582 zvsource is in most cases the name of the VI or function that produced the error; the default value is an empty string.
+259785:227882 Reads a string of characters from a byte stream file at the specified location; the default location is at the current mark.  The VI does incoming and internal error checking and does not read if an incoming error occurs.
+259959:229360 Reads a string of characters from a byte stream file at the specified location; the default location is at the current mark.  The VI does incoming and internal error checking and does not read if an incoming error occurs.
+260028:230195 }yexception source is the error message that you want to use to test for an exception. By default, it is an empty string. 
+314016:14ddb2 }yexception source is the error message that you want to use to test for an exception. By default, it is an empty string. 
+340499:ed395 }yexception source is the error message that you want to use to test for an exception. By default, it is an empty string. 
+371462:183b4d }yexception source is the error message that you want to use to test for an exception. By default, it is an empty string. 
+372335:192b26 Reads a string of characters from a byte stream file at the specified location; the default location is at the current mark.  The VI does incoming and internal error checking and does not read if an incoming error occurs.
+372364:1939fd zvsource is in most cases the name of the VI or function that produced the error; the default value is an empty string.
+372953:19bbcd zvsource is in most cases the name of the VI or function that produced the error; the default value is an empty string.
+394256:30cf67 *Writes a string of characters to a byte stream file at the specified location; the default location is at the end of file.  The VI does incoming and internal error checking and does not write if an incoming error occurs.
+404043:3a4f48 Reads a string of characters from a byte stream file at the specified location; the default location is at the current mark.  The VI does incoming and internal error checking and does not read if an incoming error occurs.
+405279:3b9da8 *Writes a string of characters to a byte stream file at the specified location; the default location is at the end of file.  The VI does incoming and internal error checking and does not write if an incoming error occurs.
+405308:3bab24 zvsource is in most cases the name of the VI or function that produced the error; the default value is an empty string.
+406212:3cccb6 zvsource is in most cases the name of the VI or function that produced the error; the default value is an empty string.
+434163:f7770 }yexception source is the error message that you want to use to test for an exception. By default, it is an empty string. 
+470142:106cf1 }yexception source is the error message that you want to use to test for an exception. By default, it is an empty string. 
+504206:1e9c85 yexception source is the error message that you want to use to test for an exception. By default, it is an empty string. 
+504744:1f31e7 Reads a string of characters from a byte stream file at the specified location; the default location is at the current mark.  The VI does incoming and internal error checking and does not read if an incoming error occurs.
+504904:1f57dd vsource is in most cases the name of the VI or function that produced the error; the default value is an empty string.
+505282:1fb74f vsource is in most cases the name of the VI or function that produced the error; the default value is an empty string.
+520848:33c85f *Writes a string of characters to a byte stream file at the specified location; the default location is at the end of file.  The VI does incoming and internal error checking and does not write if an incoming error occurs.
+527380:3b3b94 Reads a string of characters from a byte stream file at the specified location; the default location is at the current mark.  The VI does incoming and internal error checking and does not read if an incoming error occurs.
+527675:3ba71a *Writes a string of characters to a byte stream file at the specified location; the default location is at the end of file.  The VI does incoming and internal error checking and does not write if an incoming error occurs.
+527764:3bc375 vsource is in most cases the name of the VI or function that produced the error; the default value is an empty string.
+528597:3cc6f0 vsource is in most cases the name of the VI or function that produced the error; the default value is an empty string.
+546538:f6680 }yexception source is the error message that you want to use to test for an exception. By default, it is an empty string. 
+579625:16db48 yexception source is the error message that you want to use to test for an exception. By default, it is an empty string. 
+596262:e690c vsource is in most cases the name of the VI or function that produced the error; the default value is an empty string.
+596714:f1b67 *Writes a string of characters to a byte stream file at the specified location; the default location is at the end of file.  The VI does incoming and internal error checking and does not write if an incoming error occurs.
+596779:f4df4 Reads a string of characters from a byte stream file at the specified location; the default location is at the current mark.  The VI does incoming and internal error checking and does not read if an incoming error occurs.
+597617:ff243 *Writes a string of characters to a byte stream file at the specified location; the default location is at the end of file.  The VI does incoming and internal error checking and does not write if an incoming error occurs.
+607652:1a9938 Reads a string of characters from a byte stream file at the specified location; the default location is at the current mark.  The VI does incoming and internal error checking and does not read if an incoming error occurs.

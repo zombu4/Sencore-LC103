@@ -1,0 +1,18 @@
+52543:1bf662 This platform does not support the current return type. For example, the return type of a 16-bit DLL function may not be a floating point number. Pop up on the Call Library Function node and select Configure... to set the return type.
+75867:325275 UQbyte count is the number of bytes currently queued up in the serial port buffer.
+102430:4c9d4c DAQ delayTrigErr: The delayed trigger mode is not supported or is not available in the current configuration, or no delay source has been assigned.:DAQ postTrigErr: No posttrigger source has been assigned.
+246193:163d19 UQbyte count is the number of bytes currently queued up in the serial port buffer.
+260863:242924 DAQ delayTrigErr: The delayed trigger mode is not supported or is not available in the current configuration, or no delay source has been assigned.:DAQ postTrigErr: No posttrigger source has been assigned.
+308413:ed304 UQbyte count is the number of bytes currently queued up in the serial port buffer.
+314871:1604f5 DAQ delayTrigErr: The delayed trigger mode is not supported or is not available in the current configuration, or no delay source has been assigned.:DAQ postTrigErr: No posttrigger source has been assigned.
+341348:ffac5 DAQ delayTrigErr: The delayed trigger mode is not supported or is not available in the current configuration, or no delay source has been assigned.:DAQ postTrigErr: No posttrigger source has been assigned.
+371301:17c346 DAQ delayTrigErr: The delayed trigger mode is not supported or is not available in the current configuration, or no delay source has been assigned.:DAQ postTrigErr: No posttrigger source has been assigned.
+396611:330d21 UQbyte count is the number of bytes currently queued up in the serial port buffer.
+434002:eff69 DAQ delayTrigErr: The delayed trigger mode is not supported or is not available in the current configuration, or no delay source has been assigned.:DAQ postTrigErr: No posttrigger source has been assigned.
+440800:164064 UQbyte count is the number of bytes currently queued up in the serial port buffer.
+469981:ff4ea DAQ delayTrigErr: The delayed trigger mode is not supported or is not available in the current configuration, or no delay source has been assigned.:DAQ postTrigErr: No posttrigger source has been assigned.
+503811:1dd2e7 DAQ delayTrigErr: The delayed trigger mode is not supported or is not available in the current configuration, or no delay source has been assigned.:DAQ postTrigErr: No posttrigger source has been assigned.
+521566:34a1b4 Qbyte count is the number of bytes currently queued up in the serial port buffer.
+546377:eee79 DAQ delayTrigErr: The delayed trigger mode is not supported or is not available in the current configuration, or no delay source has been assigned.:DAQ postTrigErr: No posttrigger source has been assigned.
+558167:1c42e2 Qbyte count is the number of bytes currently queued up in the serial port buffer.
+579230:1611ab DAQ delayTrigErr: The delayed trigger mode is not supported or is not available in the current configuration, or no delay source has been assigned.:DAQ postTrigErr: No posttrigger source has been assigned.

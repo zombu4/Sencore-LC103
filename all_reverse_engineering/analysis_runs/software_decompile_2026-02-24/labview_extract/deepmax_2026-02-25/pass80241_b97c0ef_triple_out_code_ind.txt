@@ -1,0 +1,14 @@
+100209:49d388 source messages contains the source message you want to appear in the error out cluster if the VI finds an error in error codes. Place each message on a separate line in a string constant or control. 
+101569:4b6bd6 HDcode out is the error code indicated by the error in or error code.
+258563:214768 source messages contains the source message you want to appear in the error out cluster if the VI finds an error in error codes. Place each message on a separate line in a string constant or control. 
+260002:22f7ae HDcode out is the error code indicated by the error in or error code.
+313990:14d3cb HDcode out is the error code indicated by the error in or error code.
+340473:ec9ae HDcode out is the error code indicated by the error in or error code.
+371456:183820 HDcode out is the error code indicated by the error in or error code.
+373374:1a228f source messages contains the source message you want to appear in the error out cluster if the VI finds an error in error codes. Place each message on a separate line in a string constant or control. 
+434157:f7443 HDcode out is the error code indicated by the error in or error code.
+470136:1069c4 HDcode out is the error code indicated by the error in or error code.
+504201:1e99ba Dcode out is the error code indicated by the error in or error code.
+505539:200a14 source messages contains the source message you want to appear in the error out cluster if the VI finds an error in error codes. Place each message on a separate line in a string constant or control. 
+546532:f6353 HDcode out is the error code indicated by the error in or error code.
+579620:16d87d Dcode out is the error code indicated by the error in or error code.

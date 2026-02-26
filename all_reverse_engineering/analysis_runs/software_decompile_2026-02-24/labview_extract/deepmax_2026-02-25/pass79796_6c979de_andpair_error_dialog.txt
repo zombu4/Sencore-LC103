@@ -1,0 +1,21 @@
+52510:1bd790 This VI has a bad connection to or cannot find a subVI or external routine, but it has no block diagram to show or fix the error. You must find or correct the subVI or external routine. Check for more information in the Explain... dialog in Get Info.
+101574:4b6c3f =type of dialog determines what type dialog box will be displayed, if any. Regardless of its value, the VI outputs error information and message describing the error.
+102493:4ce0c6 LabVIEW:  Print dialog error.
+260007:22f817 =type of dialog determines what type dialog box will be displayed, if any. Regardless of its value, the VI outputs error information and message describing the error.
+260926:246c9e LabVIEW:  Print dialog error.
+313995:14d434 =type of dialog determines what type dialog box will be displayed, if any. Regardless of its value, the VI outputs error information and message describing the error.
+314934:16486f LabVIEW:  Print dialog error.
+340478:eca17 =type of dialog determines what type dialog box will be displayed, if any. Regardless of its value, the VI outputs error information and message describing the error.
+341411:103e3f LabVIEW:  Print dialog error.
+371364:1806c0 LabVIEW:  Print dialog error.
+371452:1835e2 =type of dialog determines what type dialog box will be displayed, if any. Regardless of its value, the VI outputs error information and message describing the error.
+434065:f42e3 LabVIEW:  Print dialog error.
+434153:f7205 =type of dialog determines what type dialog box will be displayed, if any. Regardless of its value, the VI outputs error information and message describing the error.
+470044:103864 LabVIEW:  Print dialog error.
+470132:106786 =type of dialog determines what type dialog box will be displayed, if any. Regardless of its value, the VI outputs error information and message describing the error.
+503874:1e1661 LabVIEW:  Print dialog error.
+504202:1e9a05 =type of dialog determines what type dialog box will be displayed, if any. Regardless of its value, the VI outputs error information and message describing the error.
+546440:f31f3 LabVIEW:  Print dialog error.
+546528:f6115 =type of dialog determines what type dialog box will be displayed, if any. Regardless of its value, the VI outputs error information and message describing the error.
+579293:165525 LabVIEW:  Print dialog error.
+579621:16d8c8 =type of dialog determines what type dialog box will be displayed, if any. Regardless of its value, the VI outputs error information and message describing the error.

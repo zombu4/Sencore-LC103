@@ -1,0 +1,175 @@
+!Open or Create File (function=%d)
+*Reads a specified number of lines from a byte stream file beginning at a specified character offset. The VI opens the file beforehand and closes it afterwards.
+- User abort occurred during I/O
+--------------LOAD SELECT--------------------------------------
+--.file is now open; proceed if function=0 (open)
+-1 = library initialization failed
+-I/O operation aborted
+-Serial Poll Byte Lost
+-Unrecognized commandEAbyte count refers to the number of bytes that pass over the GPIB.
+0 (open) opens an existing file. Error 7 occurs if the file cannot be found.
+0 = Abort if not DIR
+0 = Abort if not DOR
+0 = The specified information was returned
+0=1.1MOhm connected to UUT leads; Same as '9'.
+1 (open or create) opens an existing file or creates a new file if one does not exist.
+1 = Set END bit on the last byte of transfer
+1 = library already initialized
+112create a new file if function=1-3 (open or create)
+3 (create) creates a new file. Error 8 occurs if the file already exists.
+333Short the UUT leads to the
+5Generalized DIO96 control.
+778file is now open; proceed if function=1 (open or create){D
+8attempt to create file fails because file already existsH
+;Instr Openi
+===Short the UUT leads to the
+@Initializes the selected serial port to the specified settings.
+@return count
+@return count2P@
+ABORT?.viPTH0
+BBBNow connect the red lead to the
+Bytes At Serial Port.vi
+Bytes At Serial Port.viPTH0
+Can't Open Device
+Connection In progress
+Connection aborted
+Connection closed+Initialize error (interapplication manager)
+Connection is already connected
+Connection is not connected
+Connection refused
+Connection timed out!Connection is already in progress
+Current Test
+DIO Port Config.vi
+DIO Port Read.vi
+DIO Port Write.vi
+DIO Port Write.viPTH0
+Data In Ready protocol violation
+Data Out Ready protocol violation
+Device Call Aborted
+File Already Open
+For most applications, you only need to connect wires to the controls and indicators displayed in bold.
+GPIBOpen.viH
+GetDevInfoShort.viMD
+GetDevInfoShort.viND
+GetDevInfoShort.viQD
+GetDevInfoShort.vi`
+HIGH Voltage side:
+IND-6FMELDKCJBI@GAHBNow connect the red lead to the
+IND3Short the UUT leads to the
+IND=Short the UUT leads to the
+Inductance Decade Box (H Terminal)3Short the UUT leads to the
+Inductance Decade Box (H Terminal)=Short the UUT leads to the
+Inductance Decade Box (L Terminal)BNow connect the red lead to the
+Instr Open.viarison.vi
+Instr Open.vig
+LEADOPEN.viPTH0
+LEADSHRT.viPTH0
+LEAK_I.VIPTH0
+LEAK_VLT.VIPTH0
+LOW Voltage side:
+Leak_CAL.VIPTH0
+MThis verison of Serial Port Reset.vi is for the Windows 3 version of LabVIEW.
+Measure volts, amps, or ohms. Select one of 6 functions. Select range or use auto range. Select trigger mode. Slow reading rate is used for accuracy. version a.0
+Most applications need only connect wires to the controls and indicators displayed in bold. Connections to other controls and indicators are useful only if specifically needed.
+NNherror is other than file not found; set error flag TRUE, file path to NotAPath, and refnum to NotARefnummD
+Open File+.vi
+Open File+.viPTH0
+Open FilePTH0
+Open GPIB Driver.viv
+Open GPIB DriverPD
+Open Serial Driver.vi
+Open Serial Driver.viPTH0
+Open/Create/Replace File.vi
+Open_Create_Replace File.vi
+Open_Create_Replace File.viPTH0
+Port Select:
+Port Width for the Lab boards, SCXI-1200, DAQBox-1200, DIO-24, DIO-32F, DIO-96, and AT-MIO-16D ports 2, 3 and 4 should be at least 8.
+Print Aborted
+QCloses the file on command or when in incoming error occurs and returns the file size at closure.
+QWrites the data in string to write to the serial port indicated in port number.
+Read Ready protocol violation during transfer
+Reads data from a device. The data read is stored in the buffer represented by read buffer. This operation returns when the transfer terminates.
+Return String
+Return Terminator
+Ringer.viPTH0
+STARTCHK.viPTH0
+Serial Number
+Serial Port Buffer Size.vi
+Serial Port Init.vi
+Serial Port Init.viPTH0
+Serial Port Read.vi
+Serial Port Read.viPTH0
+Serial Port Reset.vi
+Serial Port Write.vi
+Settling Time: Delay(mS) for relays to settle.
+Software Rev.
+Start Cal Factor(0)
+Start Disable?
+Status state (Passed/Failed, Ready/Not Ready)$ (U16)
+Tests Selected
+This VI establishes a port configuration. You can use the task ID that this VI returns only in digital port VIs.
+This VI reads the port identified by task ID and returns the pattern read.
+This version of Set Serial Port Buffer Size.vi is to be used on the SPARC or Windows version of LabVIEW as a subVI to OpenSerialDriver and Serial Port Init.vi.
+This vi handles the RS-232 communications for a UUT. FC In and FC Out are used for flow control.
+Too Many Files Open
+Transfer aborted - Device not DIR
+Transfer aborted - Device not DOR
+UUT Comm.viPTH0
+UUT_BEEP.viPTH0
+User abort occurred during I/O
+VFor most applications, you only need to connect wires to the controls and indicators displayed in bold.
+Write Ready protocol violation during transfer
+Writes a character string to a new byte stream file or appends the string to an existing file. The VI opens or creates the file beforehand and closes it afterwards.
+You can optionally use the source messages string to pass on the source of the error. Enter one line of text for each element of the error codes array.
+ZFor most applications, you only need to connect wires to the controls and indicators displayed in bold.
+[[[report file not found if function=0 (open); set file path to empty and refnum to NotARefnumHDt
+\default name is the initial file name that appears in the selection box of the file dialog.
+aCompares 2 real numbers X and Y. If they are within about 0.1% of each other a TRUE is returned.
+advisory dialog? Set TRUE (default) if you want a dialog if function=0 and the file does not exist, or if function=2 or 3 and the file exists.
+advisory dialog? Set TRUE (default) if you want a dialog if the file does not exist.
+at the current file mark plus pos offset.
+at the current file mark plus pos offset. This is the default value.
+convert eol Set TRUE to convert each platform-specific end of line marker to the LabVIEW marker, line feed. Set FALSE (default value) to do nothing.
+convert eol Set TRUE to convert the LabVIEW end of line marker to the platform-specific marker. Set FALSE (default value) to do nothing.
+creates a new file. Error 8 occurs if the file already exists.
+default name is the initial file name that appears in the selection box of the file dialog.
+driver opened
+file cannot be openedH
+file opened successfullyH
+function (open:0)
+function (open:0)"@2
+function (open:0)H
+irefnum is the reference number of the open file. The value is Not A Refnum if the file cannot be opened.
+kReturns in byte count the number of bytes in the input buffer of the serial port indicated in port number.
+lprompt is the message that appears below the list of files and directories (or folders) in the file dialog.
+open mode (0)N
+open or create
+opens an existing file or creates a new file if one does not exist.
+opens an existing file. Error 7 occurs if the file cannot be found.
+pos offset (0)
+pos offset (bytes:0)
+pos offset specifies in characters how far from the location specified by pos mode that the operation begins. The default value is 0.
+prompt is the message that appears below the list of files and directories in the file dialog.
+qReads the number of characters specified by requested byte count from the serial port indicated in port number.
+refnum is the reference number of the open file.
+refnum is the reference number of the open file. The value is Not A Refnum if the file cannot be opened.
+return count
+return count"
+return count2@P
+return count4
+return count@
+return count[
+return string
+rrsFile Dialog cancelled; set error out code to Cancelled By User; set refnum to NotaRefnum and file path to NotAPath.
+select mode (2)
+serpOpen.viPTH0
+shortvalue @
+shortvalue M
+specific reset ?
+start of read offset (chars.:0 )
+start of read offset is the position in the file, measured in characters (or bytes), at which the VI begins reading.
+start path (Not A Path)
+start path (Not A Path)H
+start path (Not A Path)p2
+start path is the path name to the initially displayed directory in a file dialog. The default value is Not A Path, which is the path to the last directory shown in a file dialog.
+try to open the file

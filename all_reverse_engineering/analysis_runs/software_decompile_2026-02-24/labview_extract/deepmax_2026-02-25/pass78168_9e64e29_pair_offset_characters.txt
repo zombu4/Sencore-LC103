@@ -1,0 +1,39 @@
+54233:1dfad1 pos offset specifies in characters how far from the location specified by pos mode that the operation begins. The default value is 0.
+54500:1e3fa1 pos offset specifies in characters how far from the location specified by pos mode that the operation begins.  The default value is 0.
+100991:4a9e1c pos offset specifies in characters how far from the location specified by pos mode that the operation begins. The default value is 0.
+101394:4af9d1 pos offset specifies in characters how far from the location specified by pos mode that the operation begins.  The default value is 0.
+111777:565068 yustart of read offset is the position in the file, measured in characters (or bytes), at which the VI begins reading.
+112347:56c4a9 start of read offset is the position in the file, measured in characters (or bytes), at which the VI begins reading.
+224526:1f5b1 pos offset specifies in characters how far from the location specified by pos mode that the operation begins. The default value is 0.
+224793:23a81 pos offset specifies in characters how far from the location specified by pos mode that the operation begins.  The default value is 0.
+224958:2526a pos offset specifies in characters how far from the location specified by pos mode that the operation begins.  The default value is 0.
+259388:221ecc pos offset specifies in characters how far from the location specified by pos mode that the operation begins. The default value is 0.
+259791:227a81 pos offset specifies in characters how far from the location specified by pos mode that the operation begins.  The default value is 0.
+259965:22955f pos offset specifies in characters how far from the location specified by pos mode that the operation begins.  The default value is 0.
+270306:2df7bc yustart of read offset is the position in the file, measured in characters (or bytes), at which the VI begins reading.
+270876:2e6bfd start of read offset is the position in the file, measured in characters (or bytes), at which the VI begins reading.
+271323:2e9400 start of read offset is the position in the file, measured in characters (or bytes), at which the VI begins reading.
+366633:13086f start of read offset is the position in the file, measured in characters (or bytes), at which the VI begins reading.
+366639:130b9d yustart of read offset is the position in the file, measured in characters (or bytes), at which the VI begins reading.
+372341:192d25 pos offset specifies in characters how far from the location specified by pos mode that the operation begins.  The default value is 0.
+372351:193410 pos offset specifies in characters how far from the location specified by pos mode that the operation begins. The default value is 0.
+394262:30d166 pos offset specifies in characters how far from the location specified by pos mode that the operation begins.  The default value is 0.
+404049:3a5147 pos offset specifies in characters how far from the location specified by pos mode that the operation begins.  The default value is 0.
+404098:3a6a04 start of read offset is the position in the file, measured in characters (or bytes), at which the VI begins reading.
+405285:3b9fa7 pos offset specifies in characters how far from the location specified by pos mode that the operation begins.  The default value is 0.
+405293:3ba508 pos offset specifies in characters how far from the location specified by pos mode that the operation begins. The default value is 0.
+496232:149d0b start of read offset is the position in the file, measured in characters (or bytes), at which the VI begins reading.
+496402:14bbae ustart of read offset is the position in the file, measured in characters (or bytes), at which the VI begins reading.
+504750:1f33e6 pos offset specifies in characters how far from the location specified by pos mode that the operation begins.  The default value is 0.
+504915:1f5bdc pos offset specifies in characters how far from the location specified by pos mode that the operation begins. The default value is 0.
+520854:33ca5e pos offset specifies in characters how far from the location specified by pos mode that the operation begins.  The default value is 0.
+527386:3b3d93 pos offset specifies in characters how far from the location specified by pos mode that the operation begins.  The default value is 0.
+527435:3b5650 start of read offset is the position in the file, measured in characters (or bytes), at which the VI begins reading.
+527681:3ba919 pos offset specifies in characters how far from the location specified by pos mode that the operation begins.  The default value is 0.
+527771:3bc672 pos offset specifies in characters how far from the location specified by pos mode that the operation begins. The default value is 0.
+596720:f1d66 pos offset specifies in characters how far from the location specified by pos mode that the operation begins.  The default value is 0.
+596785:f4ff3 pos offset specifies in characters how far from the location specified by pos mode that the operation begins.  The default value is 0.
+596834:f68b0 start of read offset is the position in the file, measured in characters (or bytes), at which the VI begins reading.
+597623:ff442 pos offset specifies in characters how far from the location specified by pos mode that the operation begins.  The default value is 0.
+607658:1a9b37 pos offset specifies in characters how far from the location specified by pos mode that the operation begins.  The default value is 0.
+610296:1d50c8 start of read offset is the position in the file, measured in characters (or bytes), at which the VI begins reading.

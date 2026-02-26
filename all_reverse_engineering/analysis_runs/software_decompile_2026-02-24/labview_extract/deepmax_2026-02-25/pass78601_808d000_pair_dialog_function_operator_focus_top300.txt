@@ -1,0 +1,31 @@
+52996:1cb269 advisory dialog? Set TRUE (default) if you want a dialog if function=0 and the file does not exist, or if function=2 or 3 and the file exists.
+54006:1dbc55 advisory dialog? Set TRUE (default) if you want a dialog if function=0 and the file does not exist, or if function=2 or 3 and the file exists.
+101577:4b6de4 displays a dialog box with buttons allowing the user to either continue or stop. If the user cancels, the VI calls the Stop function to halt execution.
+223253:9e95 advisory dialog? Set TRUE (default) if you want a dialog if function=0 and the file does not exist, or if function=2 or 3 and the file exists.
+224263:1a881 advisory dialog? Set TRUE (default) if you want a dialog if function=0 and the file does not exist, or if function=2 or 3 and the file exists.
+224499:1d58d advisory dialog? Set TRUE (default) if you want a dialog if function=0 and the file does not exist, or if function=2 or 3 and the file exists.
+260010:22f9bc displays a dialog box with buttons allowing the user to either continue or stop. If the user cancels, the VI calls the Stop function to halt execution.
+313998:14d5d9 displays a dialog box with buttons allowing the user to either continue or stop. If the user cancels, the VI calls the Stop function to halt execution.
+340481:ecbbc displays a dialog box with buttons allowing the user to either continue or stop. If the user cancels, the VI calls the Stop function to halt execution.
+371455:183787 displays a dialog box with buttons allowing the user to either continue or stop. If the user cancels, the VI calls the Stop function to halt execution.
+394246:30c7c1 advisory dialog? Set TRUE (default) if you want a dialog if function=0 and the file does not exist, or if function=2 or 3 and the file exists.
+406182:3cba91 advisory dialog? Set TRUE (default) if you want a dialog if function=0 and the file does not exist, or if function=2 or 3 and the file exists.
+406205:3cc8de advisory dialog? Set TRUE (default) if you want a dialog if function=0 and the file does not exist, or if function=2 or 3 and the file exists.
+434156:f73aa displays a dialog box with buttons allowing the user to either continue or stop. If the user cancels, the VI calls the Stop function to halt execution.
+470135:10692b displays a dialog box with buttons allowing the user to either continue or stop. If the user cancels, the VI calls the Stop function to halt execution.
+504205:1e9baa displays a dialog box with buttons allowing the user to either continue or stop. If the user cancels, the VI calls the Stop function to halt execution.
+520838:33c0b9 advisory dialog? Set TRUE (default) if you want a dialog if function=0 and the file does not exist, or if function=2 or 3 and the file exists.
+528196:3c81f8 advisory dialog? Set TRUE (default) if you want a dialog if function=0 and the file does not exist, or if function=2 or 3 and the file exists.
+528612:3ccdef advisory dialog? Set TRUE (default) if you want a dialog if function=0 and the file does not exist, or if function=2 or 3 and the file exists.
+546531:f62ba displays a dialog box with buttons allowing the user to either continue or stop. If the user cancels, the VI calls the Stop function to halt execution.
+579624:16da6d displays a dialog box with buttons allowing the user to either continue or stop. If the user cancels, the VI calls the Stop function to halt execution.
+595372:d5431 advisory dialog? Set TRUE (default) if you want a dialog if function=0 and the file does not exist, or if function=2 or 3 and the file exists.
+595861:e2414 advisory dialog? Set TRUE (default) if you want a dialog if function=0 and the file does not exist, or if function=2 or 3 and the file exists.
+596277:e700b advisory dialog? Set TRUE (default) if you want a dialog if function=0 and the file does not exist, or if function=2 or 3 and the file exists.
+612546:51 - The File Dialog function now outputs an error cluster. An Unbundle function was inserted to maintain compatibility.
+612548:11d - The File Dialog function now outputs an error cluster. An Unbundle function was inserted to maintain compatibility.
+612561:7ac - The File Dialog function now outputs an error cluster. An Unbundle function was inserted to maintain compatibility.
+612575:ea9 - The File Dialog function now outputs an error cluster. An Unbundle function was inserted to maintain compatibility.
+612577:f75 - The File Dialog function now outputs an error cluster. An Unbundle function was inserted to maintain compatibility.
+612582:11a8 - The File Dialog function now outputs an error cluster. An Unbundle function was inserted to maintain compatibility.
+612592:16d9 - The File Dialog function now outputs an error cluster. An Unbundle function was inserted to maintain compatibility.

@@ -1,0 +1,79 @@
+52983:1cac00 opens an existing file or creates a new file if one does not exist.
+54003:1dbabd 1 (open or create) opens an existing file or creates a new file if one does not exist.
+102678:4d2bc5 append to file. Set to TRUE if you want to append the data to a existing file; you can also set it TRUE to write to a new file. Set to FALSE (default value) if you want to write the data to a new file or to replace an existing file.
+102695:4d3100 append to file? (new file:F)2
+102696:4d3123 append to file? (new file:F)X
+102913:4d5ca7 append to file? (new file:F)
+102923:4d5e23 append to file? (new file:F)"`
+102924:4d5e43 append to file? (new file:F)
+102961:4d6387 append to file? Set to TRUE if you want to append the data to a existing file; you can also set it TRUE to write to a new file. Set to FALSE (default value) if you want to write the data to a new file or to replace an existing file.
+103006:4d6a26 append to file? (new file:F)L
+103024:4d6b2b append to file? (new file:F)
+103033:4d6c3a file path (dialog if empty),2@'new file path (Not A Path if cancelled)
+103035:4d6c98 append to file? (new file:F)
+103043:4d6e22 append to file? (new file:F)
+112818:57211c append to file? (new file:F)
+112822:572243 append to file? (new file:F)
+112974:57682b append to file? (new file:F)
+112978:576912 append to file? (new file:F)
+113201:57b9c5 append to file? (new file:F)
+223240:982c opens an existing file or creates a new file if one does not exist.
+224260:1a6e9 1 (open or create) opens an existing file or creates a new file if one does not exist.
+224496:1d3f5 1 (open or create) opens an existing file or creates a new file if one does not exist.
+261103:24a5d1 append to file? (new file:F)
+261117:24bb25 append to file. Set to TRUE if you want to append the data to a existing file; you can also set it TRUE to write to a new file. Set to FALSE (default value) if you want to write the data to a new file or to replace an existing file.
+261134:24c060 append to file? (new file:F)2
+261135:24c083 append to file? (new file:F)X
+261352:24ec07 append to file? (new file:F)
+261362:24ed83 append to file? (new file:F)"`
+261363:24eda3 append to file? (new file:F)
+261400:24f2e7 append to file? Set to TRUE if you want to append the data to a existing file; you can also set it TRUE to write to a new file. Set to FALSE (default value) if you want to write the data to a new file or to replace an existing file.
+261445:24f986 append to file? (new file:F)L
+261463:24fa8b append to file? (new file:F)
+261472:24fb9a file path (dialog if empty),2@'new file path (Not A Path if cancelled)
+261474:24fbf8 append to file? (new file:F)
+261482:24fd82 append to file? (new file:F)
+261612:250998 append to file? Set to TRUE if you want to append the data to a existing file; you can also set it TRUE to write to a new file. Set to FALSE (default value) if you want to write the data to a new file or to replace an existing file.
+271361:2ecf9c append to file? (new file:F)
+271365:2ed0c3 append to file? (new file:F)
+271517:2f16ab append to file? (new file:F)
+271521:2f1792 append to file? (new file:F)
+271744:2f6845 append to file? (new file:F)
+365479:11dddc append to file? (new file:F)
+365941:1233b4 append to file? (new file:F)
+365944:123411 append to file? (new file:F)*
+370379:1681cf append to file? (new file:F)
+370389:1682c3 append to file? (new file:F)
+370441:168771 append to file? (new file:F)
+370468:168a96 append to file? (new file:F)
+370472:168c7b append to file? Set to TRUE if you want to append the data to a existing file; you can also set it TRUE to write to a new file. Set to FALSE (default value) if you want to write the data to a new file or to replace an existing file.
+370477:16904b append to file. Set to TRUE if you want to append the data to a existing file; you can also set it TRUE to write to a new file. Set to FALSE (default value) if you want to write the data to a new file or to replace an existing file.
+370482:16922a append to file? (new file:F)$
+370595:169c0e append to file? (new file:F)H
+392571:2ee459 append to file? (new file:F)
+394243:30c629 1 (open or create) opens an existing file or creates a new file if one does not exist.
+404062:3a5c00 append to file? Set to TRUE if you want to append the data to a existing file; you can also set it TRUE to write to a new file. Set to FALSE (default value) if you want to write the data to a new file or to replace an existing file.
+406179:3cb8f9 1 (open or create) opens an existing file or creates a new file if one does not exist.
+406201:3cc71f opens an existing file or creates a new file if one does not exist.
+495516:13b934 append to file? (new file:F)
+495698:13eee6 append to file? (new file:F)
+495701:13ef43 append to file? (new file:F)*
+503275:1ce7f4 append to file? (new file:F)
+503284:1ce8f2 append to file? (new file:F)
+503310:1ceb95 append to file? (new file:F)
+503358:1cf7a5 append to file? (new file:F)
+503362:1cf98a append to file? Set to TRUE if you want to append the data to a existing file; you can also set it TRUE to write to a new file. Set to FALSE (default value) if you want to write the data to a new file or to replace an existing file.
+503368:1cfc55 append to file? (new file:F)$
+503481:1d0649 append to file? (new file:F)H
+503507:1d0f37 append to file. Set to TRUE if you want to append the data to a existing file; you can also set it TRUE to write to a new file. Set to FALSE (default value) if you want to write the data to a new file or to replace an existing file.
+520247:332885 append to file? (new file:F)
+520835:33bf21 1 (open or create) opens an existing file or creates a new file if one does not exist.
+527399:3b484c append to file? Set to TRUE if you want to append the data to a existing file; you can also set it TRUE to write to a new file. Set to FALSE (default value) if you want to write the data to a new file or to replace an existing file.
+528193:3c8060 1 (open or create) opens an existing file or creates a new file if one does not exist.
+528605:3cca1b opens an existing file or creates a new file if one does not exist.
+595369:d5299 1 (open or create) opens an existing file or creates a new file if one does not exist.
+595858:e227c 1 (open or create) opens an existing file or creates a new file if one does not exist.
+596270:e6c37 opens an existing file or creates a new file if one does not exist.
+596798:f5aac append to file? Set to TRUE if you want to append the data to a existing file; you can also set it TRUE to write to a new file. Set to FALSE (default value) if you want to write the data to a new file or to replace an existing file.
+597431:fc6a5 append to file? (new file:F)
+608420:1b6f6c append to file? Set to TRUE if you want to append the data to a existing file; you can also set it TRUE to write to a new file. Set to FALSE (default value) if you want to write the data to a new file or to replace an existing file.

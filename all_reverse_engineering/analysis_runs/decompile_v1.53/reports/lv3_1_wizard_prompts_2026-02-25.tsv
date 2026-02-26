@@ -1,0 +1,124 @@
+offset_hex	offset_dec	prompt
+0xc4d6	50390	Connection In progress
+0xc4ed	50413	Connection timed out!Connection is already in progress
+0xc59c	50588	Connection is not connected
+0xc5b8	50616	Connection is already connected
+0xc5d8	50648	Connection closed+Initialize error (interapplication manager)
+0x1f70a	128778	convert eol? converts the LabVIEW end of line marker to the platform specific marker when set to TRUE. When set to false (the default value), no conversion occurs.
+0xceac3	846531	Initializes the software connection to the instrument.  In the case of VXI instruments controlled via NI-VXI, initializes the NI-VXI library, reads in the resource manager table, calculates A16 configuration addresses, determines memory requirements, and stores base addresses into A24 or A32 space.  For VXI instruments controlled via GPIB-VXI, performs all of the above except initialization of NI-VXI libraries.  You must run the INSTR Close VI once for every time you run this VI.$
+0xcef1f	847647	GetDevInfoShort.viND
+0xcf49f	849055	GetDevInfoShort.viMD
+0xcf4e6	849126	GetDevInfoShort.viQD
+0xd19bc	858556	Initializes the software connection to the instrument.  In the case of VXI instruments controlled via NI-VXI, initializes the NI-VXI library, reads in the resource manager table, calculates A16 configuration addresses, determines memory requirements, and stores base addresses into A24 or A32 space.  For VXI instruments controlled via GPIB-VXI, performs all of the above except initialization of NI-VXI libraries.  You must run the INSTR Close VI once for every time you run this VI.
+0xfe701	1042177	This VI loads the addressing information about the instrument into the Open VXI Instrument VI and returns the instrument ID.  You can reset the instrument by setting the front panel reset control.  You must run this VI before using any of the instrument driver VIs for this instrument.$
+0xffce4	1047780	This VI loads the addressing information about the instrument into the Open VXI Instrument VI and returns the instrument ID.  You can reset the instrument by setting the front panel reset control.  You must run this VI before using any of the instrument driver VIs for this instrument.
+0x10b467	1094759	VFor most applications, you only need to connect wires to the controls and indicators displayed in bold.
+0x111e26	1121830	ZFor most applications, you only need to connect wires to the controls and indicators displayed in bold.
+0x1196d5	1152725	For most applications, you only need to connect wires to the controls and indicators displayed in bold.
+0x15564d	1398349	You can connect error code to one of the error handler VIs. These VIs can furnish you with a description of the error, and give you options on how to proceed when an error occurs. For more information on using the error handler VIs, refer to Chapter 18, Error Handler VIs, of your LabVIEW user manual.
+0x15c520	1426720	You can connect error code to one of the error handler VIs. These VIs furnish you with a description of the error, and give you options on how to proceed when an error occurs. For more information on using the error handler VIs, refer to Chapter 18, Error Handler VIs, of your LabVIEW user manual.
+0x198fec	1675244	,Make sure the red UUT lead is not connected.RD
+0x1992a8	1675944	,Make sure the red UUT lead is not connected.W
+0x1996ab	1676971	'q,Make sure the red UUT lead is not connected.
+0x1996f1	1677041	CAP,Make sure the red UUT lead is not connected.
+0x1b1b28	1776424	HConnect the black UUT lead to the
+0x1b1b85	1776517	GNow connect the red lead to the
+0x1b23a6	1778598	CAPGNow connect the red lead to the
+0x1b23ca	1778634	Capacitance Decade Box (High Terminal).HConnect the black UUT lead to the
+0x1e889b	2001051	Connect the '+' DVM lead to TP1006
+0x1e88be	2001086	and the '-' lead to TP1020.  Adjust
+0x1e8902	2001154	Press 'Enter' when finished.
+0x1e8ba3	2001827	Press 'Enter' when finished.d
+0x218889	2197641	You can optionally use the source messages string to pass on the source of the error. Enter one line of text for each element of the error codes array.
+0x21aeda	2207450	close when? Set TRUE (default) when you want to close the file when this VI is called. Set to FALSE when you want to close the file only if this VI encounters an incoming error. This input is useful when you use this VI inside a loop and want to close the file only on the last loop iteration or on an upstream error. In that case, set close when? TRUE on the last iteration, and terminate the loop on the last iteration or when this VI returns an error.
+0x21e6c2	2221762	close when?  Set TRUE (default) when you want to close the file when this VI is called.  Set to FALSE when you want to close the file only if this VI encounters an incoming error.  This input is useful when you use this VI inside a loop and want to close the file only on the last loop iteration or on an upstream error.  In that case, set close when? TRUE on the last iteration, and terminate the loop on the last iteration or when this VI returns an error.
+0x23d89f	2349215	exception handling.  This mechanism is available either to set the error out status FALSE on what is normally an error or to set the status TRUE on what is normally not an error.  If exception action > 0, the error in code and source are checked.  If they match the exception code and source, the error out status is adjusted accordingly.  That is, if the action = 1, the error out status is set to FALSE and code is set to zero and if the action = 2, the error out is set to TRUE and the code is unchanged.  An empty exception source matches any error in source.  H
+0x23e6e2	2352866	DSP InvalidArrayType:  The array type can only be 32-bit floating point data(0), 16-bit long integer data(1) or 32-bit short integer data(2).:DSP AllocArrayFailed:  Failed to allocate a LabVIEW array.2DSP SourceNumErr:  You can only select one source.bDSP InvalidBytesSelect:  bytes/element selector can only select between 4 bytes(0) and 2 bytes(1).nDSP ErrInGetFunctionHandle:  An error occurred when calling the function GetIndirectFunctionHandle in the CIN.TDSP LoadDLLLibErr:  An error occurred when loading a function in dsp.dll in the CIN.MDSP NotFindFunctionInDLL:  An error occurred when loading dsp.dll in the CIN.
+0x2433a0	2372512	?DAQ interfaceInteractionErr: You have mixed VIs from the DAQ library and the _DAQ compatibility library (LabVIEW 2.2 style VIs).  You may switch between the two libraries only by running the DAQ VI Device Reset before calling _DAQ compatibility VIs or by running the compatibility VI Board Reset before calling DAQ VIs.RDAQ or DSP DLLInterfaceErr: The DLL could not be called due to an interface error.
+0x243b26	2374438	7DAQ memAlignmentErr:  The transfer buffer is not aligned properly for the current data-transfer mode.  E.g., the buffer is at an odd address, is not aligned to a 32-bit boundary, is not aligned to a 512-bit boundary, etc.  Alternatively, the driver is unable to align the buffer because the buffer is too small.jDAQ memDisabledErr:  The specified memory is disabled or is unavailable given the current addressing mode.
+0x244669	2377321	DAQ multConnectErr:  The specified RTSI signal is already being driven by a RTSI line, or the specified RTSI line is already being driven by a RTSI signal.JDAQ badConnectErr:  The RTSI signal/line cannot be connected as specified.vDAQ noConnectErr:  No RTSI signal/line is connected, or the specified signal and the specified line are not connected.
+0x245422	2380834	-DAQ badDAQEventErr: For DAQEvents 0 and 1 general value A must be greater than 0 and less than the internal buffer size.  If DMA is used for DAQEvent 1 general value A must divide the internal buffer size evenly, with no remainder.  If the TIO-10 is used for DAQEvent 4 general value A must be 1 or 2.
+0x245602	2381314	DAQ limitsOutOfRange:  The requested input limits exceed the board's capability or configuration.  Alternative limits were selected.tDAQ badWriteOffsetErr:  Adding the write offset to the write mark places the write mark outside the internal buffer.FDAQ badWriteModeErr:  The write mode is out of range or is disallowed.
+0x245f19	2383641	DAQ syntaxErr:  An error was detected in the input string; the arrangement or ordering of the characters in the string is not consistent with the expected ordering.*Instr. Driver:  Instrument-specific error.4Instr. Driver:  Function not suported by controller.,Instr. Driver:  Error accessing VXI address.,Instr. Driver:  Error unmapping VXI address.*Instr. Driver:  Error mapping VXI address.%Instr. Driver:  Instrument timed out.-Instr. Driver:  Error in configuring timeout.7Instr. Driver:  Error interpreting instrument response.7Instr. Driver:  Error placing instrument in local mode.+Instr. Driver:  Instrument not initialized..Instr. Driver:  Error reading from instrument.,Instr. Driver:  Error writing to instrument.6Instr. Driver:  Error reading from instrument to file.6Instr. Driver:  Error writing to instrument from file.)Instr. Driver:  Error polling instrument.,Instr. Driver:  Error triggering instrument.*Instr. Driver:  Error clearing instrument.7Instr. Driver:  Instrument identification query failed.+Instr. Driver:  Unable to close instrument.*Instr. Driver:  Unable to open instrument.(Instr. Driver:  Error setting attribute.(Instr. Driver:  Error getting attribute.)Instr. Driver:  Error closing instrument.'Instr. Driver:  Parameter out of range.*Instr. Driver:  Invalid Instrument Handle.=Instr. Driver:  Unable to initialize interface or instrument.*Instr. Driver:  Error finding instruments.&Instr. Driver:  Invalid syntax string.'GPIB EDVR:  Error connecting to device.
+0x246f41	2387777	LabVIEW:  Unknown message.%LabVIEW:  Manager call not supported.8TCP ncBadAddressErr:  The network address is ill-formed.3TCP ncInProgressErr:  The operation is in progress.RTCP ncTimeOutErr:  The operation exceeded the user-specified or system time limit.'TCP ncBusyErr:  The connection is busy.6TCP ncNotSupportedErr:  The function is not supported.CTCP ncNetErr:  The network is down, unreachable, or has been reset.?TCP ncAddrInUseErr:  The specified address is currently in use.nTCP ncSysOutOfMem:  The system could not allocate the necessary memory.
+0x247193	2388371	qTCP ncSysConnAbortedErr:  The system caused the connection to be aborted.
+0x247205	2388485	rTCP ncConnRefusedErr:  The connection was refused by the server.
+0x247278	2388600	aTCP ncNotConnectedErr:  The connection is not established.
+0x2472db	2388699	TCP ncAlreadyConnectedErr: The connection is already established.
+0x247362	2388834	<TCP ncConnClosedErr:  The connection was closed by the peer.6Interapplication Mgr amInitErr:  Initialization error.
+0x24751e	2389278	LabVIEW: Old CIN version.=LabVIEW kLVE_InvalidState:  The VI is not in a runable state.:LabVIEW kLVE_FPNotOpen:  The VI's front panel is not open.`LabVIEW kLVE_CtrlErr:  The VI cannot run because it has a front panel control in an error state..LabVIEW kLVE_VIBad:  The VI is not executable.0LabVIEW kLVE_NotInMem:  The VI is not in memory.ELabVIEW kLVE_GoDisabled:  VI execution has been disabled in VI Setup.FLabVIEW kLVE_NoSaveData: FPDCO on connector pan thinks it is constant.4LabVIEW kLVE_NoIPRecInSummary: No IP Rec in Summary.;LabVIEW kLVE_CantAllocConPane:  Cannot load connector pane.<LabVIEW kLVE_VariantSizeMisMatch:  Variant tag out of range.7LabVIEW kLVE_NoDefaultOrOp: No default or operate data.1LabVIEW kLVE_CantCreateInstr: VI Creation failed.4LabVIEW kLVE_NoBDHP: Cannot load Block Diagram Heap.3LabVIEW kLVE_NoFPHP:  Cannot load Front Panel Heap."LabVIEW kLVE_Linker: Linker error.QLabVIEW kLVE_NoPrinter:  Printer is not responding.  Check printer configuration.,LabVIEW kLVE_NoHistory: Cannot load History.
+0x248eef	2395887	exception handling.  This mechanism is available either to set the error out status FALSE on what is normally an error or to set the status TRUE on what is normally not an error.  If exception action > 0, the error in code and source are checked.  If they match the exception code and source, the error out status is adjusted accordingly.  That is, if the action = 1, the error out status is set to FALSE and code is set to zero and if the action = 2, the error out is set to TRUE and the code is unchanged.  An empty exception source matches any error in source.
+0x24bb25	2407205	append to file. Set to TRUE if you want to append the data to a existing file; you can also set it TRUE to write to a new file. Set to FALSE (default value) if you want to write the data to a new file or to replace an existing file.
+0x24f2e7	2421479	append to file?  Set to TRUE if you want to append the data to a existing file; you can also set it TRUE to write to a new file.  Set to FALSE (default value) if you want to write the data to a new file or to replace an existing file.
+0x255d43	2448707	Most applications need only connect wires to the controls and indicators displayed in bold.  Connections to other controls and indicators are useful only if specifically needed.
+0x26819c	2523548	0=1.1MOhm connected to UUT leads; Same as '9'.
+0x27a750	2598736	" Failed Calibration. Adjusted >10%R
+0x27b216	2601494	Gain Calibration" Failed Calibration. Adjusted >10%
+0x29d9fa	2742778	2          Cal Box Setup #
+0x2ca0e4	2924772	( Failed Calibration. Gain Adjustment>10%U
+0x2ca836	2926646	0 Failed Calibration. Offset Adjustment too high.W
+0x2cb02e	2928686	Communication Error.0 Failed Calibration. Offset Adjustment too high.( Failed Calibration. Gain Adjustment>10%
+0x2db6d7	2995927	Initialize Cal BoxMD
+0x2db815	2996245	Switch in D/A StandardV
+0x2f5b87	3103623	Couldn't open the Software Rev. file.  Please set the Software Rev. manually on the front panel.  Place the flopply disk in the computer NOW.MD
+0x2f6108	3105032	Couldn't open the Software Rev. file.  Please set the Software Rev. manually on the front panel.  Place the flopply disk in the computer NOW.
+0x330940	3344704	to the UUT leads.MD
+0x344d68	3427688	Set the max. # of readings takenH
+0x35b156	3518806	,,-Make sure the UUT leads are shorted together.W
+0x35b1bf	3518911	Lead Zero Short Testa
+0x35b447	3519559	Lead Zero Short Test/Inductanced
+0x35b480	3519616	Lead Zero Short Test/ESR
+0x35b4a8	3519656	BBKSomething seems to be wrong.  Make sure the UUT leads are shorted together.QD
+0x35b845	3520581	Lead Zero Short TestW
+0x35ba5f	3521119	KSomething seems to be wrong.  Make sure the UUT leads are shorted together.
+0x35bad6	3521238	IND-Make sure the UUT leads are shorted together.
+0x35bb38	3521336	Lead Zero Short Test
+0x35bb4d	3521357	Lead Zero Short Test/Inductance
+0x35bb9c	3521436	Lead Zero Short Test[
+0x36ba9b	3586715	Now connect the red UUT to the H  Terminal of the decade box and set the  box to 0.022uF(.0219).
+0x36bafe	3586814	Press 'Enter' when ready.
+0x36bb34	3586868	@@cShort the UUT leads to the Capacitance Decade box(LTerminal).
+0x36bb78	3586936	Press 'Enter' when ready.MD
+0x36c1ee	3588590	HEY!! I said:  "Connect the red UUT to the H  Terminal of the decade box and set the  box to 0.022uF(.0219)".  Please do this now!
+0x36c585	3589509	CLRPARcShort the UUT leads to the Capacitance Decade box(LTerminal).
+0x37e33c	3662652	>>>Adjust R1144 for the number
+0x37e35b	3662683	of rings specified on the cal box.y
+0x37e390	3662736	---Switch the cal box to
+0x37e3a9	3662761	Switching Transformers.O
+0x37e421	3662881	AABNow adjust R1005 for the number
+0x37e444	3662916	of rings specified on the cal box.O
+0x37ea6e	3664494	KKLConnect the UUT leads to the
+0x37ea8e	3664526	Small Ringer Cal Box set to
+0x37eba2	3664802	YFBLConnect the UUT leads to the
+0x37ebfb	3664891	RIN>Adjust R1144 for the number
+0x37ec1b	3664923	of rings specified on the cal box.-Switch the cal box to
+0x37ec54	3664980	Switching Transformers.
+0x37ec74	3665012	RINBNow adjust R1005 for the number
+0x37ec98	3665048	of rings specified on the cal box.
+0x3882b4	3703476	Press 'Enter' when ready.PD
+0x3884cf	3704015	and press 'Enter' when ready.
+0x3e301b	4075547	fConnect the UUT and/or DVM leads to
+0x3e3040	4075584	the LC103 Final Test Box.
+0x3e305d	4075613	Press 'Enter' when ready._
+0x3e35b2	4076978	Press 'Enter' when ready.V
+0x3e37a4	4077476	Press 'Enter' when ready.g
+0x3e3856	4077654	Press 'Enter' when ready.T
+0x3e39b4	4078004	Press 'Enter' when ready.W
+0x3e59ee	4086254	Current Source CalibrationfConnect the UUT and/or DVM leads to
+0x3e5a83	4086403	Gain CalibrationfConnect the UUT and/or DVM leads to
+0x3e5bc6	4086726	Leakage Voltage CalibrationfConnect the UUT and/or DVM leads to
+0x3e5c55	4086869	D/A TestfConnect the UUT and/or DVM leads to
+0x3e5cdb	4087003	Leakage Voltage TestfConnect the UUT and/or DVM leads to
+0x3e5d6d	4087149	Leakage Current TestfConnect the UUT and/or DVM leads to
+0x4110ac	4264108	Press F1 to change paths.Y
+0x42edaf	4386223	===Short the UUT leads to the
+0x42ee00	4386304	BBBNow connect the red lead to the
+0x42f0e2	4387042	333Short the UUT leads to the
+0x42fecc	4390604	IND-6BNow connect the red lead to the
+0x42fef2	4390642	Inductance Decade Box (H Terminal)=Short the UUT leads to the
+0x42ff53	4390739	IND3Short the UUT leads to the
+0x42ffca	4390858	FMELDKCJBI@GAHBNow connect the red lead to the
+0x43005a	4391002	IND=Short the UUT leads to the
+0x430079	4391033	Inductance Decade Box (L Terminal)BNow connect the red lead to the
+0x43023f	4391487	Inductance Decade Box (H Terminal)3Short the UUT leads to the
+0x441a17	4463127	IND-6FMELDKCJBI@GAHBNow connect the red lead to the

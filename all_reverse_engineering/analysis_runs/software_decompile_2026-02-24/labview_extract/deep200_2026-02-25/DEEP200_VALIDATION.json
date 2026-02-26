@@ -1,0 +1,10 @@
+{
+  "pass_count": 200,
+  "unique_names": 200,
+  "unique_patterns": 200,
+  "unique_output_hashes": 200,
+  "min_line_count": 1,
+  "max_line_count": 2,
+  "spec_path": "/Users/<user>/LC103/software_decompile_2026-02-24/labview_extract/deep200_2026-02-25/pass_specs.tsv",
+  "count_path": "/Users/<user>/LC103/software_decompile_2026-02-24/labview_extract/deep200_2026-02-25/DEEP200_PASS_COUNTS.tsv"
+}

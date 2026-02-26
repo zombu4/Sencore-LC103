@@ -1,0 +1,16 @@
+DSP InvalidArrayType:  The array type can only be 32-bit floating point data(0), 16-bit long integer data(1) or 32-bit short integer data(2).:DSP AllocArrayFailed:  Failed to allocate a LabVIEW array.2DSP SourceNumErr:  You can only select one source.bDSP InvalidBytesSelect:  bytes/element selector can only select between 4 bytes(0) and 2 bytes(1).nDSP ErrInGetFunctionHandle:  An error occurred when calling the function GetIndirectFunctionHandle in the CIN.TDSP LoadDLLLibErr:  An error occurred when loading a function in dsp.dll in the CIN.MDSP NotFindFunctionInDLL:  An error occurred when loading dsp.dll in the CIN.
+Remember LVDEVICE.DLL must be in the same directory as this application.  Also SERPDRV, DAQDRV, and/or GPIBDRV may be required depending on the application.uApplication build successful.
+accusoft.dll
+commdlg.dll
+ddeml.dll
+ltoolhelp.dll
+lvdevice.dll
+lzexpand.dll
+mmsystem.dll
+olecli.dll
+olesvr.dll
+penwin.dll
+shell.dll
+stress.dll
+ver.dll
+winsock.dll

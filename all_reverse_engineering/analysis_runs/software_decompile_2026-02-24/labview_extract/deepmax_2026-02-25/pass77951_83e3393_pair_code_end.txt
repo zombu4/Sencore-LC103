@@ -1,0 +1,229 @@
+54724:1e7b2f *.calBPlease choose the file containing the inductance calibration data.gencode.cGenDispatchEntry
+57388:215474 GPIB errorgencode.cGenDispatchEntry
+58210:223761 GPIB errorgencode.cGenDispatchEntry
+63180:2643b9 error outgencode.cGenDispatchEntry
+69560:2c2349 Voltage Readinggencode.cGenDispatchEntry
+71325:2dede0 error - ignoredgencode.cGenDispatchEntry
+73687:30205f Error\FC Ingencode.cGenDispatchEntry
+73918:305e7d  @Error\FC Outgencode.cGenDispatchEntry
+74113:309284 errorgencode.cGenDispatchEntry
+74730:3149f5 input errorgencode.cGenDispatchEntry
+75237:31c4be input errorgencode.cGenDispatchEntry
+75391:31dcc4 .error code. If error code is non-zero, an error occurred. Refer to Appendix C, Error Codes, for a list of error codes.
+75519:31fe67 @output errorgencode.cGenDispatchEntry
+75614:321518 .error code. If error code is non-zero, an error occurred. Refer to Appendix C, Error Codes, for a list of error codes.
+75868:3252cb .error code. If error code is non-zero, an error occurred. Refer to Appendix C, Error Codes, for a list of error codes.
+76007:32790a input errorgencode.cGenDispatchEntry
+78272:34a203 Error\FC Out(F)gencode.cGenDispatchEntry
+81112:37b23b Comm Error Outgencode.cGenDispatchEntry
+94483:4452c8  @Error\FC Outgencode.cGenDispatchEntry
+100508:4a1c02 error?sgencode.cGenDispatchEntry
+106787:5119fa  @Error\FC Outgencode.cGenDispatchEntry
+107888:52441a  @Error\FC Outgencode.cGenDispatchEntry
+109144:537683 Error\FC Ingencode.cGenDispatchEntry
+225048:27f5b *.calBPlease choose the file containing the inductance calibration data.gencode.cGenDispatchEntry
+227779:564cc GPIB errorgencode.cGenDispatchEntry
+228617:64a4d GPIB errorgencode.cGenDispatchEntry
+233699:a6a19 error outgencode.cGenDispatchEntry
+240147:1057f9 Voltage Readinggencode.cGenDispatchEntry
+241977:122e80 error - ignoredgencode.cGenDispatchEntry
+243957:13ff8f Error\FC Ingencode.cGenDispatchEntry
+244192:143e8d  @Error\FC Outgencode.cGenDispatchEntry
+244391:14738c errorgencode.cGenDispatchEntry
+245022:152ead input errorgencode.cGenDispatchEntry
+245547:15ab72 input errorgencode.cGenDispatchEntry
+245706:15c4a8 .error code. If error code is non-zero, an error occurred. Refer to Appendix C, Error Codes, for a list of error codes.
+245834:15e64b @output errorgencode.cGenDispatchEntry
+245935:15fe58 .error code. If error code is non-zero, an error occurred. Refer to Appendix C, Error Codes, for a list of error codes.
+246194:163d6f .error code. If error code is non-zero, an error occurred. Refer to Appendix C, Error Codes, for a list of error codes.
+246333:1663ae input errorgencode.cGenDispatchEntry
+248661:1894bf Error\FC Out(F)gencode.cGenDispatchEntry
+250185:1a3fbf Comm Error Outgencode.cGenDispatchEntry
+258862:218fe2 error?sgencode.cGenDispatchEntry
+265294:28bc2a  @Error\FC Outgencode.cGenDispatchEntry
+266398:29e71a  @Error\FC Outgencode.cGenDispatchEntry
+267657:2b1a57 Error\FC Ingencode.cGenDispatchEntry
+279472:37ed28  @Error\FC Outgencode.cGenDispatchEntry
+294267:23846 GPIB errorgencode.cGenDispatchEntry
+295113:31d84 GPIB errorgencode.cGenDispatchEntry
+300256:73c7f error outgencode.cGenDispatchEntry
+306797:d2952 Voltage Readinggencode.cGenDispatchEntry
+307199:d8b65 errorgencode.cGenDispatchEntry
+307826:e466b input errorgencode.cGenDispatchEntry
+307927:e5aa3 .error code. If error code is non-zero, an error occurred. Refer to Appendix C, Error Codes, for a list of error codes.
+308056:e7c41 @output errorgencode.cGenDispatchEntry
+308156:e944b .error code. If error code is non-zero, an error occurred. Refer to Appendix C, Error Codes, for a list of error codes.
+308414:ed35a .error code. If error code is non-zero, an error occurred. Refer to Appendix C, Error Codes, for a list of error codes.
+308550:ef98d input errorgencode.cGenDispatchEntry
+310881:112a31 Error\FC Out(F)gencode.cGenDispatchEntry
+326441:22b3e GPIB errorgencode.cGenDispatchEntry
+327309:3106d GPIB errorgencode.cGenDispatchEntry
+332525:72f91 error outgencode.cGenDispatchEntry
+339047:d134d Voltage Readinggencode.cGenDispatchEntry
+349224:2178c GPIB errorgencode.cGenDispatchEntry
+350062:2fd0d GPIB errorgencode.cGenDispatchEntry
+361381:d31e0 d:\automated\lv51\lvsource\gencode.cGenDefaultProc
+362994:ecfd2 d:\automated\lv51\lvsource\gencode.cGenDefaultProc
+364704:10d451 d:\automated\lv51\lvsource\gencode.cGenDefaultProc
+365912:122e66 d:\automated\lv51\lvsource\gencode.cGenDefaultProc
+366605:1302cf d:\automated\lv51\lvsource\gencode.cGenDefaultProc
+367877:140e0f d:\automated\lv51\lvsource\gencode.cGenDefaultProc
+368579:14e323 d:\automated\lv51\lvsource\gencode.cGenDefaultProc
+369089:1551af d:\automated\lv51\lvsource\gencode.cGenDefaultProc
+369512:15b308 d:\automated\lv51\lvsource\gencode.cGenDefaultProc
+369972:161f4b d:\automated\lv51\lvsource\gencode.cGenDefaultProc
+370449:1688d3 d:\automated\lv51\lvsource\gencode.cGenDefaultProc
+371422:18304e d:\automated\lv51\lvsource\gencode.cGenDefaultProc
+372312:1928c9 d:\automated\lv51\lvsource\gencode.cGenDefaultProc
+372920:19af7b d:\automated\lv51\lvsource\gencode.cGenDefaultProc
+373353:1a1c9a d:\automated\lv51\lvsource\gencode.cGenDefaultProc
+373993:1ad10b d:\automated\lv51\lvsource\gencode.cGenDefaultProc
+375129:1bf34d d:\automated\lv51\lvsource\gencode.cGenDefaultProc
+376276:1d338b d:\automated\lv51\lvsource\gencode.cGenDefaultProc
+377160:1e2b7b d:\automated\lv51\lvsource\gencode.cGenDefaultProc
+377849:1ed2b6 d:\automated\lv51\lvsource\gencode.cGenDefaultProc
+378594:1f7062 d:\automated\lv51\lvsource\gencode.cGenDefaultProc
+379262:2009c3 d:\automated\lv51\lvsource\gencode.cGenDefaultProc
+380057:20b45a d:\automated\lv51\lvsource\gencode.cGenDefaultProc
+380827:215b84 d:\automated\lv51\lvsource\gencode.cGenDefaultProc
+381375:21c89d d:\automated\lv51\lvsource\gencode.cGenDefaultProc
+382054:225ca8 d:\automated\lv51\lvsource\gencode.cGenDefaultProc
+382907:23117b d:\automated\lv51\lvsource\gencode.cGenDefaultProc
+385937:268193 d:\automated\lv51\lvsource\gencode.cGenDefaultProc
+387662:29a188 d:\automated\lv51\lvsource\gencode.cGenDefaultProc
+388689:2ab80f d:\automated\lv51\lvsource\gencode.cGenDefaultProc
+389879:2c1ddd d:\automated\lv51\lvsource\gencode.cGenDefaultProc
+390756:2d2c0f d:\automated\lv51\lvsource\gencode.cGenDefaultProc
+391123:2d8958 d:\automated\lv51\lvsource\gencode.cGenDefaultProc
+391786:2e4c3b d:\automated\lv51\lvsource\gencode.cGenDefaultProc
+393279:2fbab7 d:\automated\lv51\lvsource\gencode.cGenDefaultProc
+394102:30a0bd d:\automated\lv51\lvsource\gencode.cGenDefaultProc
+394580:312192 d:\automated\lv51\lvsource\gencode.cGenDefaultProc
+395188:31b12c d:\automated\lv51\lvsource\gencode.cGenDefaultProc
+395803:3246ed d:\automated\lv51\lvsource\gencode.cGenDefaultProc
+396234:32b5e1 d:\automated\lv51\lvsource\gencode.cGenDefaultProc
+396580:33094e d:\automated\lv51\lvsource\gencode.cGenDefaultProc
+396612:330d77 .error code. If error code is non-zero, an error occurred. Refer to Appendix C, Error Codes, for a list of error codes.
+396877:334c6d d:\automated\lv51\lvsource\gencode.cGenDefaultProc
+396910:3351c9 .error code. If error code is non-zero, an error occurred. Refer to Appendix C, Error Codes, for a list of error codes.
+397159:338c3d d:\automated\lv51\lvsource\gencode.cGenDefaultProc
+397190:338ffd .error code. If error code is non-zero, an error occurred. Refer to Appendix C, Error Codes, for a list of error codes.
+397557:33ed27 d:\automated\lv51\lvsource\gencode.cGenDefaultProc
+398087:346e5f d:\automated\lv51\lvsource\gencode.cGenDefaultProc
+398396:34afb1 d:\automated\lv51\lvsource\gencode.cGenDefaultProc
+398530:34c2cf d:\automated\lv51\lvsource\gencode.cGenDefaultProc
+398729:34f096 d:\automated\lv51\lvsource\gencode.cGenDefaultProc
+399007:3555ae d:\automated\lv51\lvsource\gencode.cGenDefaultProc
+399287:3593bf d:\automated\lv51\lvsource\gencode.cGenDefaultProc
+399923:363c7b d:\automated\lv51\lvsource\gencode.cGenDefaultProc
+400513:36d117 d:\automated\lv51\lvsource\gencode.cGenDefaultProc
+400900:372891 d:\automated\lv51\lvsource\gencode.cGenDefaultProc
+401173:377585 d:\automated\lv51\lvsource\gencode.cGenDefaultProc
+401383:37ae62 d:\automated\lv51\lvsource\gencode.cGenDefaultProc
+401613:37e345 d:\automated\lv51\lvsource\gencode.cGenDefaultProc
+401831:381655 d:\automated\lv51\lvsource\gencode.cGenDefaultProc
+402147:386bcf d:\automated\lv51\lvsource\gencode.cGenDefaultProc
+402575:38e80f d:\automated\lv51\lvsource\gencode.cGenDefaultProc
+403000:395c23 d:\automated\lv51\lvsource\gencode.cGenDefaultProc
+403369:39bf95 d:\automated\lv51\lvsource\gencode.cGenDefaultProc
+403906:3a1fcd d:\automated\lv51\lvsource\gencode.cGenDefaultProc
+404405:3acbbd d:\automated\lv51\lvsource\gencode.cGenDefaultProc
+404924:3b4495 d:\automated\lv51\lvsource\gencode.cGenDefaultProc
+405260:3b9b9f d:\automated\lv51\lvsource\gencode.cGenDefaultProc
+406153:3cb397 d:\automated\lv51\lvsource\gencode.cGenDefaultProc
+407132:3dc255 d:\automated\lv51\lvsource\gencode.cGenDefaultProc
+407557:3e2ebd d:\automated\lv51\lvsource\gencode.cGenDefaultProc
+408422:3f1133 d:\automated\lv51\lvsource\gencode.cGenDefaultProc
+409527:4041d1 d:\automated\lv51\lvsource\gencode.cGenDefaultProc
+410624:416a63 d:\automated\lv51\lvsource\gencode.cGenDefaultProc
+412999:43c86b d:\automated\lv51\lvsource\gencode.cGenDefaultProc
+414904:45e50e d:\automated\lv51\lvsource\gencode.cGenDefaultProc
+416238:475d28 d:\automated\lv51\lvsource\gencode.cGenDefaultProc
+419896:216ba GPIB errorgencode.cGenDispatchEntry
+420742:2fbf8 GPIB errorgencode.cGenDispatchEntry
+432332:cf51d d:\automated\lv51\lvsource\gencode.cGenDefaultProc
+432757:d5669 d:\automated\lv51\lvsource\gencode.cGenDefaultProc
+433215:dc2a8 d:\automated\lv51\lvsource\gencode.cGenDefaultProc
+434123:f6c71 d:\automated\lv51\lvsource\gencode.cGenDefaultProc
+434920:1051ad d:\automated\lv51\lvsource\gencode.cGenDefaultProc
+435349:10cdec d:\automated\lv51\lvsource\gencode.cGenDefaultProc
+435777:1141fb d:\automated\lv51\lvsource\gencode.cGenDefaultProc
+436086:119190 d:\automated\lv51\lvsource\gencode.cGenDefaultProc
+436371:11d52c d:\automated\lv51\lvsource\gencode.cGenDefaultProc
+437061:12a934 d:\automated\lv51\lvsource\gencode.cGenDefaultProc
+437813:137cc5 d:\automated\lv51\lvsource\gencode.cGenDefaultProc
+438284:13e83d d:\automated\lv51\lvsource\gencode.cGenDefaultProc
+438743:1454cb d:\automated\lv51\lvsource\gencode.cGenDefaultProc
+439361:14e45a d:\automated\lv51\lvsource\gencode.cGenDefaultProc
+439984:157a06 d:\automated\lv51\lvsource\gencode.cGenDefaultProc
+440421:15e8fd d:\automated\lv51\lvsource\gencode.cGenDefaultProc
+440770:163c91 d:\automated\lv51\lvsource\gencode.cGenDefaultProc
+440801:1640ba .error code. If error code is non-zero, an error occurred. Refer to Appendix C, Error Codes, for a list of error codes.
+441068:167fb6 d:\automated\lv51\lvsource\gencode.cGenDefaultProc
+441101:168512 .error code. If error code is non-zero, an error occurred. Refer to Appendix C, Error Codes, for a list of error codes.
+441354:16bf83 d:\automated\lv51\lvsource\gencode.cGenDefaultProc
+441385:16c343 .error code. If error code is non-zero, an error occurred. Refer to Appendix C, Error Codes, for a list of error codes.
+441689:171753 d:\automated\lv51\lvsource\gencode.cGenDefaultProc
+441996:1758a9 d:\automated\lv51\lvsource\gencode.cGenDefaultProc
+442128:176ca2 d:\automated\lv51\lvsource\gencode.cGenDefaultProc
+442325:179a69 d:\automated\lv51\lvsource\gencode.cGenDefaultProc
+442568:17f0bb d:\automated\lv51\lvsource\gencode.cGenDefaultProc
+442800:182833 d:\automated\lv51\lvsource\gencode.cGenDefaultProc
+443215:1890f8 d:\automated\lv51\lvsource\gencode.cGenDefaultProc
+443844:19166f d:\automated\lv51\lvsource\gencode.cGenDefaultProc
+444373:197740 d:\automated\lv51\lvsource\gencode.cGenDefaultProc
+444486:19869d d:\automated\lv51\lvsource\gencode.cGenDefaultProc
+445175:1a5906 d:\automated\lv51\lvsource\gencode.cGenDefaultProc
+446485:1b7ff4 d:\automated\lv51\lvsource\gencode.cGenDefaultProc
+447515:1c9620 d:\automated\lv51\lvsource\gencode.cGenDefaultProc
+448473:1d9014 d:\automated\lv51\lvsource\gencode.cGenDefaultProc
+449228:1e4aa7 d:\automated\lv51\lvsource\gencode.cGenDefaultProc
+450064:1f1147 d:\automated\lv51\lvsource\gencode.cGenDefaultProc
+450849:1fc050 d:\automated\lv51\lvsource\gencode.cGenDefaultProc
+451327:20210a d:\automated\lv51\lvsource\gencode.cGenDefaultProc
+451902:20bf5c d:\automated\lv51\lvsource\gencode.cGenDefaultProc
+454740:1ff8a GPIB errorgencode.cGenDispatchEntry
+455608:2e4b9 GPIB errorgencode.cGenDispatchEntry
+466208:bf1a5 d:\automated\lv51\lvsource\gencode.cGenDefaultProc
+466558:c443c d:\automated\lv51\lvsource\gencode.cGenDefaultProc
+467196:cb67f d:\automated\lv51\lvsource\gencode.cGenDefaultProc
+467669:d2857 d:\automated\lv51\lvsource\gencode.cGenDefaultProc
+468328:dba2b d:\automated\lv51\lvsource\gencode.cGenDefaultProc
+468742:e2c0b d:\automated\lv51\lvsource\gencode.cGenDefaultProc
+469187:ea660 d:\automated\lv51\lvsource\gencode.cGenDefaultProc
+470102:1061f2 d:\automated\lv51\lvsource\gencode.cGenDefaultProc
+470922:1143de d:\automated\lv51\lvsource\gencode.cGenDefaultProc
+471389:11afae d:\automated\lv51\lvsource\gencode.cGenDefaultProc
+471829:121dc4 d:\automated\lv51\lvsource\gencode.cGenDefaultProc
+472257:129bb6 d:\automated\lv51\lvsource\gencode.cGenDefaultProc
+472573:12fccb d:\automated\lv51\lvsource\gencode.cGenDefaultProc
+475223:167db0 d:\automated\lv51\lvsource\gencode.cGenDefaultProc
+478440:2178c GPIB errorgencode.cGenDispatchEntry
+479278:2fd0d GPIB errorgencode.cGenDispatchEntry
+490586:d1b56 d:\automated\lv51\lvsource\gencode.cGenDefaultProc
+521567:34a20c .error code. If error code is non-zero, an error occurred. Refer to Appendix C, Error Codes, for a list of error codes.
+521769:34d710 .error code. If error code is non-zero, an error occurred. Refer to Appendix C, Error Codes, for a list of error codes.
+521958:35051b .error code. If error code is non-zero, an error occurred. Refer to Appendix C, Error Codes, for a list of error codes.
+532364:216ba GPIB errorgencode.cGenDispatchEntry
+533210:2fbf8 GPIB errorgencode.cGenDispatchEntry
+544707:ce42d d:\automated\lv51\lvsource\gencode.cGenDefaultProc
+545132:d4579 d:\automated\lv51\lvsource\gencode.cGenDefaultProc
+545590:db1b8 d:\automated\lv51\lvsource\gencode.cGenDefaultProc
+546498:f5b81 d:\automated\lv51\lvsource\gencode.cGenDefaultProc
+547295:1040bd d:\automated\lv51\lvsource\gencode.cGenDefaultProc
+547724:10bcfc d:\automated\lv51\lvsource\gencode.cGenDefaultProc
+548152:11310b d:\automated\lv51\lvsource\gencode.cGenDefaultProc
+548490:118f55 d:\automated\lv51\lvsource\gencode.cGenDefaultProc
+548743:11eaeb d:\automated\lv51\lvsource\gencode.cGenDefaultProc
+549144:1250ec d:\automated\lv51\lvsource\gencode.cGenDefaultProc
+549773:12d663 d:\automated\lv51\lvsource\gencode.cGenDefaultProc
+558168:1c433a .error code. If error code is non-zero, an error occurred. Refer to Appendix C, Error Codes, for a list of error codes.
+558374:1c7846 .error code. If error code is non-zero, an error occurred. Refer to Appendix C, Error Codes, for a list of error codes.
+558565:1ca64f .error code. If error code is non-zero, an error occurred. Refer to Appendix C, Error Codes, for a list of error codes.
+562656:1ff8a GPIB errorgencode.cGenDispatchEntry
+563524:2e4b9 GPIB errorgencode.cGenDispatchEntry
+574118:bf14d d:\automated\lv51\lvsource\gencode.cGenDefaultProc
+574468:c43e4 d:\automated\lv51\lvsource\gencode.cGenDefaultProc
+583163:21704 GPIB errorgencode.cGenDispatchEntry
+584001:2fc85 GPIB errorgencode.cGenDispatchEntry
+595249:d1562 d:\automated\lv51\lvsource\gencode.cGenDefaultProc

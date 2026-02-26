@@ -1,0 +1,4 @@
+48193:1651e4 This is the revision number that will be included in new history entries. The current number is displayed in the Instrument Information dialog. It is incremented every time you save the VI.
+48198:165560 This is the revision number that will be included in new history entries. The current number is displayed in the Instrument Information dialog. It is incremented every time you save the VI.
+48231:166060 This button sets the currently displayed path to its default value. You can not change the currently displayed path if this box is checked.
+48261:166897 CThis button sets the currently displayed font to its default value.

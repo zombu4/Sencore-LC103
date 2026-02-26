@@ -1,0 +1,34 @@
+37218:2e7da FAppFileCreate
+52983:1cac00 opens an existing file or creates a new file if one does not exist.
+52994:1cb050 new file path is the path of the file opened or created. You can use this output to determine the path of a file that you open or create using dialog. new file path returns Not A Path if the user selects Cancel from the dialog box.
+54012:1dc119 new file path is the path of the file opened or created. You can use this output to determine the path of a file that you open or create using dialog. new file path returns Not A Path if the user selects Cancel from the dialog box.
+54038:1dc888 8file is now open; proceed if function=1 (open or create){D
+102958:4d61cb Writes a character string to a new byte stream file or appends the string to an existing file. The VI opens or creates the file beforehand and closes it afterwards.
+223240:982c opens an existing file or creates a new file if one does not exist.
+223251:9c7c new file path is the path of the file opened or created. You can use this output to determine the path of a file that you open or create using dialog. new file path returns Not A Path if the user selects Cancel from the dialog box.
+224269:1ad45 new file path is the path of the file opened or created. You can use this output to determine the path of a file that you open or create using dialog. new file path returns Not A Path if the user selects Cancel from the dialog box.
+224295:1b4b4 8file is now open; proceed if function=1 (open or create){D
+224505:1da51 new file path is the path of the file opened or created. You can use this output to determine the path of a file that you open or create using dialog. new file path returns Not A Path if the user selects Cancel from the dialog box.
+261397:24f12b Writes a character string to a new byte stream file or appends the string to an existing file. The VI opens or creates the file beforehand and closes it afterwards.
+261609:2507dc Writes a character string to a new byte stream file or appends the string to an existing file. The VI opens or creates the file beforehand and closes it afterwards.
+370469:168abf Writes a character string to a new byte stream file or appends the string to an existing file. The VI opens or creates the file beforehand and closes it afterwards.
+394252:30cc85 new file path is the path of the file opened or created. You can use this output to determine the path of a file that you open or create using dialog. new file path returns Not A Path if the user selects Cancel from the dialog box.
+404059:3a5a44 Writes a character string to a new byte stream file or appends the string to an existing file. The VI opens or creates the file beforehand and closes it afterwards.
+406188:3cbf55 new file path is the path of the file opened or created. You can use this output to determine the path of a file that you open or create using dialog. new file path returns Not A Path if the user selects Cancel from the dialog box.
+406197:3cc4ec new file path is the path of the file opened or created. You can use this output to determine the path of a file that you open or create using dialog. new file path returns Not A Path if the user selects Cancel from the dialog box.
+406201:3cc71f opens an existing file or creates a new file if one does not exist.
+406304:3cdbc5 778file is now open; proceed if function=1 (open or create){D
+503359:1cf7ce Writes a character string to a new byte stream file or appends the string to an existing file. The VI opens or creates the file beforehand and closes it afterwards.
+520844:33c57d new file path is the path of the file opened or created. You can use this output to determine the path of a file that you open or create using dialog. new file path returns Not A Path if the user selects Cancel from the dialog box.
+527396:3b4690 Writes a character string to a new byte stream file or appends the string to an existing file. The VI opens or creates the file beforehand and closes it afterwards.
+528202:3c86bc new file path is the path of the file opened or created. You can use this output to determine the path of a file that you open or create using dialog. new file path returns Not A Path if the user selects Cancel from the dialog box.
+528294:3c9849 778file is now open; proceed if function=1 (open or create){D
+528594:3cc406 new file path is the path of the file opened or created. You can use this output to determine the path of a file that you open or create using dialog. new file path returns Not A Path if the user selects Cancel from the dialog box.
+528605:3cca1b opens an existing file or creates a new file if one does not exist.
+595378:d58f5 new file path is the path of the file opened or created. You can use this output to determine the path of a file that you open or create using dialog. new file path returns Not A Path if the user selects Cancel from the dialog box.
+595867:e28d8 new file path is the path of the file opened or created. You can use this output to determine the path of a file that you open or create using dialog. new file path returns Not A Path if the user selects Cancel from the dialog box.
+595959:e3a65 778file is now open; proceed if function=1 (open or create){D
+596259:e6622 new file path is the path of the file opened or created. You can use this output to determine the path of a file that you open or create using dialog. new file path returns Not A Path if the user selects Cancel from the dialog box.
+596270:e6c37 opens an existing file or creates a new file if one does not exist.
+596795:f58f0 Writes a character string to a new byte stream file or appends the string to an existing file. The VI opens or creates the file beforehand and closes it afterwards.
+608417:1b6db0 Writes a character string to a new byte stream file or appends the string to an existing file. The VI opens or creates the file beforehand and closes it afterwards.

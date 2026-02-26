@@ -1,0 +1,7 @@
+36891:127bb VerFindFile
+44491:125fc9 FindDPFile
+44495:126117 FindVIFile
+47050:15efb5 Calling FindVIFile("%z", "%p", %4c, ...
+47051:15efdd ... FindVIFile returned %ld: found at "%z"
+52228:1ba45f Choose the VI to open:Name the VI:3Choose a directory of VIs or VI library to compile:+Please find the file of type %4c named "%p"CChoose a picture file to open (it will be placed on the clipboard):
+52430:1bc8c1 Can't find file in VI library. Can't get palette menu resource."Palette position already occupied.

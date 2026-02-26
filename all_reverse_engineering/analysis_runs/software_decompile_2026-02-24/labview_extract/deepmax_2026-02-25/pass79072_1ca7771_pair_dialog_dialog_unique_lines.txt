@@ -1,0 +1,150 @@
+48193:1651e4 This is the revision number that will be included in new history entries. The current number is displayed in the Instrument Information dialog. It is incremented every time you save the VI.
+48198:165560 This is the revision number that will be included in new history entries. The current number is displayed in the Instrument Information dialog. It is incremented every time you save the VI.
+52984:1cac48 creates a new file or replaces a file if it exists and you give permission. Replacement is done by opening the file and setting EOF to 0. Error 43 occurs if the user elects to disallow the replacement using dialog.
+52990:1cadfd plprompt is the message that appears below the list of files and directories (or folders) in the file dialog.
+52991:1cae6d start path is the path name to the initially displayed directory (or folder) in a file dialog. The default value is Not A Path, which is the path to the last directory (or folder) shown in a file dialog.
+52992:1caf39 `\default name is the initial file name that appears in the selection box of the file dialog.
+52994:1cb050 new file path is the path of the file opened or created. You can use this output to determine the path of a file that you open or create using dialog. new file path returns Not A Path if the user selects Cancel from the dialog box.
+54004:1dbb16 2 (create or replace) creates a new file or replaces a file if it exists and you give permission. Replacement is done by opening the file and setting EOF to 0. Error 43 occurs if the user elects to disallow the replacement using dialog.
+54007:1dbce6 prompt is the message that appears below the list of files and directories in the file dialog.
+54008:1dbd46 default name is the initial file name that appears in the selection box of the file dialog.
+54009:1dbda3 start path is the path name to the initially displayed directory in a file dialog. The default value is Not A Path, which is the path to the last directory shown in a file dialog.
+54012:1dc119 new file path is the path of the file opened or created. You can use this output to determine the path of a file that you open or create using dialog. new file path returns Not A Path if the user selects Cancel from the dialog box.
+99471:4910e9 plprompt is the message that appears below the list of files and directories (or folders) in the file dialog.
+99472:491159 start path is the path name to the initially displayed directory (or folder) in a file dialog. The default value is Not A Path, which is the path to the last directory (or folder) shown in a file dialog.
+99473:491225 `\default name is the initial file name that appears in the selection box of the file dialog.
+99475:49133c new file path is the path of the file opened. You can use this output to determine the path of a file that you open using dialog. new file path returns Not A Path if the user selects Cancel from the dialog box.
+100017:49a1ba prompt is the message that appears below the list of files and directories in the file dialog.
+100018:49a21a default name is the initial file name that appears in the selection box of the file dialog.
+100019:49a277 start path is the path name to the initially displayed directory in a file dialog. The default value is Not A Path, which is the path to the last directory shown in a file dialog.
+100022:49a5ed new file path is the path of the file opened. You can use this output to determine the path of a file that you open using dialog. new file path returns Not A Path if the user selects Cancel from the dialog box.
+102676:4d2aa2 new file path is the path of the file to which the VI wrote data. You can use this output to determine the path of a file that you open using dialog. new file path returns Not A Path if the user selects Cancel from the dialog box.
+102962:4d6473 new file path is the path of the file to which the VI wrote data. You can use this output to determine the path of a file that you open using dialog. new file path returns Not A Path if the user selects Cancel from the dialog box.
+111786:5654df new file path is the path of the file from which the VI read data. You can use this output to determine the path of a file that you open using dialog. new file path returns Not A Path if the user selects Cancel from the dialog box.
+112349:56c5f9 new file path is the path of the file from which the VI read data. You can use this output to determine the path of a file that you open using dialog. new file path returns Not A Path if the user selects Cancel from the dialog box.
+223241:9874 creates a new file or replaces a file if it exists and you give permission. Replacement is done by opening the file and setting EOF to 0. Error 43 occurs if the user elects to disallow the replacement using dialog.
+223247:9a29 plprompt is the message that appears below the list of files and directories (or folders) in the file dialog.
+223248:9a99 start path is the path name to the initially displayed directory (or folder) in a file dialog. The default value is Not A Path, which is the path to the last directory (or folder) shown in a file dialog.
+223249:9b65 `\default name is the initial file name that appears in the selection box of the file dialog.
+223251:9c7c new file path is the path of the file opened or created. You can use this output to determine the path of a file that you open or create using dialog. new file path returns Not A Path if the user selects Cancel from the dialog box.
+224261:1a742 2 (create or replace) creates a new file or replaces a file if it exists and you give permission. Replacement is done by opening the file and setting EOF to 0. Error 43 occurs if the user elects to disallow the replacement using dialog.
+224264:1a912 prompt is the message that appears below the list of files and directories in the file dialog.
+224265:1a972 default name is the initial file name that appears in the selection box of the file dialog.
+224266:1a9cf start path is the path name to the initially displayed directory in a file dialog. The default value is Not A Path, which is the path to the last directory shown in a file dialog.
+224269:1ad45 new file path is the path of the file opened or created. You can use this output to determine the path of a file that you open or create using dialog. new file path returns Not A Path if the user selects Cancel from the dialog box.
+224497:1d44e 2 (create or replace) creates a new file or replaces a file if it exists and you give permission. Replacement is done by opening the file and setting EOF to 0. Error 43 occurs if the user elects to disallow the replacement using dialog.
+224500:1d61e prompt is the message that appears below the list of files and directories in the file dialog.
+224501:1d67e default name is the initial file name that appears in the selection box of the file dialog.
+224502:1d6db start path is the path name to the initially displayed directory in a file dialog. The default value is Not A Path, which is the path to the last directory shown in a file dialog.
+224505:1da51 new file path is the path of the file opened or created. You can use this output to determine the path of a file that you open or create using dialog. new file path returns Not A Path if the user selects Cancel from the dialog box.
+257801:207a15 plprompt is the message that appears below the list of files and directories (or folders) in the file dialog.
+257802:207a85 start path is the path name to the initially displayed directory (or folder) in a file dialog. The default value is Not A Path, which is the path to the last directory (or folder) shown in a file dialog.
+257803:207b51 `\default name is the initial file name that appears in the selection box of the file dialog.
+257805:207c68 new file path is the path of the file opened. You can use this output to determine the path of a file that you open using dialog. new file path returns Not A Path if the user selects Cancel from the dialog box.
+258347:210ae6 prompt is the message that appears below the list of files and directories in the file dialog.
+258348:210b46 default name is the initial file name that appears in the selection box of the file dialog.
+258349:210ba3 start path is the path name to the initially displayed directory in a file dialog. The default value is Not A Path, which is the path to the last directory shown in a file dialog.
+258352:210f19 new file path is the path of the file opened. You can use this output to determine the path of a file that you open using dialog. new file path returns Not A Path if the user selects Cancel from the dialog box.
+258530:212870 prompt is the message that appears below the list of files and directories in the file dialog.
+258531:2128d0 default name is the initial file name that appears in the selection box of the file dialog.
+258532:21292d start path is the path name to the initially displayed directory in a file dialog. The default value is Not A Path, which is the path to the last directory shown in a file dialog.
+258535:212ca3 new file path is the path of the file opened. You can use this output to determine the path of a file that you open using dialog. new file path returns Not A Path if the user selects Cancel from the dialog box.
+261115:24ba02 new file path is the path of the file to which the VI wrote data. You can use this output to determine the path of a file that you open using dialog. new file path returns Not A Path if the user selects Cancel from the dialog box.
+261401:24f3d3 new file path is the path of the file to which the VI wrote data. You can use this output to determine the path of a file that you open using dialog. new file path returns Not A Path if the user selects Cancel from the dialog box.
+261613:250a84 new file path is the path of the file to which the VI wrote data. You can use this output to determine the path of a file that you open using dialog. new file path returns Not A Path if the user selects Cancel from the dialog box.
+270315:2dfc33 new file path is the path of the file from which the VI read data. You can use this output to determine the path of a file that you open using dialog. new file path returns Not A Path if the user selects Cancel from the dialog box.
+270878:2e6d4d new file path is the path of the file from which the VI read data. You can use this output to determine the path of a file that you open using dialog. new file path returns Not A Path if the user selects Cancel from the dialog box.
+271325:2e9550 new file path is the path of the file from which the VI read data. You can use this output to determine the path of a file that you open using dialog. new file path returns Not A Path if the user selects Cancel from the dialog box.
+366635:1309bf new file path is the path of the file from which the VI read data. You can use this output to determine the path of a file that you open using dialog. new file path returns Not A Path if the user selects Cancel from the dialog box.
+366644:130fe4 new file path is the path of the file from which the VI read data. You can use this output to determine the path of a file that you open using dialog. new file path returns Not A Path if the user selects Cancel from the dialog box.
+370473:168d67 new file path is the path of the file to which the VI wrote data. You can use this output to determine the path of a file that you open using dialog. new file path returns Not A Path if the user selects Cancel from the dialog box.
+370475:168f28 new file path is the path of the file to which the VI wrote data. You can use this output to determine the path of a file that you open using dialog. new file path returns Not A Path if the user selects Cancel from the dialog box.
+374017:1ad59f prompt is the message that appears below the list of files and directories in the file dialog.
+374018:1ad5ff default name is the initial file name that appears in the selection box of the file dialog.
+374019:1ad65c start path is the path name to the initially displayed directory in a file dialog. The default value is Not A Path, which is the path to the last directory shown in a file dialog.
+374022:1ad9d2 new file path is the path of the file opened. You can use this output to determine the path of a file that you open using dialog. new file path returns Not A Path if the user selects Cancel from the dialog box.
+374027:1add01 plprompt is the message that appears below the list of files and directories (or folders) in the file dialog.
+374028:1add71 start path is the path name to the initially displayed directory (or folder) in a file dialog. The default value is Not A Path, which is the path to the last directory (or folder) shown in a file dialog.
+374029:1ade3d `\default name is the initial file name that appears in the selection box of the file dialog.
+374031:1adf54 new file path is the path of the file opened. You can use this output to determine the path of a file that you open using dialog. new file path returns Not A Path if the user selects Cancel from the dialog box.
+394244:30c682 2 (create or replace) creates a new file or replaces a file if it exists and you give permission. Replacement is done by opening the file and setting EOF to 0. Error 43 occurs if the user elects to disallow the replacement using dialog.
+394247:30c852 prompt is the message that appears below the list of files and directories in the file dialog.
+394248:30c8b2 default name is the initial file name that appears in the selection box of the file dialog.
+394249:30c90f start path is the path name to the initially displayed directory in a file dialog. The default value is Not A Path, which is the path to the last directory shown in a file dialog.
+394252:30cc85 new file path is the path of the file opened or created. You can use this output to determine the path of a file that you open or create using dialog. new file path returns Not A Path if the user selects Cancel from the dialog box.
+404023:3a3ef0 prompt is the message that appears below the list of files and directories in the file dialog.
+404024:3a3f50 default name is the initial file name that appears in the selection box of the file dialog.
+404025:3a3fad start path is the path name to the initially displayed directory in a file dialog. The default value is Not A Path, which is the path to the last directory shown in a file dialog.
+404028:3a4323 new file path is the path of the file opened. You can use this output to determine the path of a file that you open using dialog. new file path returns Not A Path if the user selects Cancel from the dialog box.
+404063:3a5cec new file path is the path of the file to which the VI wrote data. You can use this output to determine the path of a file that you open using dialog. new file path returns Not A Path if the user selects Cancel from the dialog box.
+404100:3a6b54 new file path is the path of the file from which the VI read data. You can use this output to determine the path of a file that you open using dialog. new file path returns Not A Path if the user selects Cancel from the dialog box.
+406180:3cb952 2 (create or replace) creates a new file or replaces a file if it exists and you give permission. Replacement is done by opening the file and setting EOF to 0. Error 43 occurs if the user elects to disallow the replacement using dialog.
+406183:3cbb22 prompt is the message that appears below the list of files and directories in the file dialog.
+406184:3cbb82 default name is the initial file name that appears in the selection box of the file dialog.
+406185:3cbbdf start path is the path name to the initially displayed directory in a file dialog. The default value is Not A Path, which is the path to the last directory shown in a file dialog.
+406188:3cbf55 new file path is the path of the file opened or created. You can use this output to determine the path of a file that you open or create using dialog. new file path returns Not A Path if the user selects Cancel from the dialog box.
+406193:3cc299 plprompt is the message that appears below the list of files and directories (or folders) in the file dialog.
+406194:3cc309 start path is the path name to the initially displayed directory (or folder) in a file dialog. The default value is Not A Path, which is the path to the last directory (or folder) shown in a file dialog.
+406195:3cc3d5 `\default name is the initial file name that appears in the selection box of the file dialog.
+406197:3cc4ec new file path is the path of the file opened or created. You can use this output to determine the path of a file that you open or create using dialog. new file path returns Not A Path if the user selects Cancel from the dialog box.
+406202:3cc767 creates a new file or replaces a file if it exists and you give permission. Replacement is done by opening the file and setting EOF to 0. Error 43 occurs if the user elects to disallow the replacement using dialog.
+496234:149e5b new file path is the path of the file from which the VI read data. You can use this output to determine the path of a file that you open using dialog. new file path returns Not A Path if the user selects Cancel from the dialog box.
+496403:14bc40 new file path is the path of the file from which the VI read data. You can use this output to determine the path of a file that you open using dialog. new file path returns Not A Path if the user selects Cancel from the dialog box.
+503363:1cfa76 new file path is the path of the file to which the VI wrote data. You can use this output to determine the path of a file that you open using dialog. new file path returns Not A Path if the user selects Cancel from the dialog box.
+503506:1d0df1 new file path is the path of the file to which the VI wrote data. You can use this output to determine the path of a file that you open using dialog. new file path returns Not A Path if the user selects Cancel from the dialog box.
+505863:207c94 prompt is the message that appears below the list of files and directories in the file dialog.
+505864:207cf4 default name is the initial file name that appears in the selection box of the file dialog.
+505865:207d51 start path is the path name to the initially displayed directory in a file dialog. The default value is Not A Path, which is the path to the last directory shown in a file dialog.
+505868:2080c7 new file path is the path of the file opened. You can use this output to determine the path of a file that you open using dialog. new file path returns Not A Path if the user selects Cancel from the dialog box.
+506072:20a39f lprompt is the message that appears below the list of files and directories (or folders) in the file dialog.
+506073:20a440 start path is the path name to the initially displayed directory (or folder) in a file dialog. The default value is Not A Path, which is the path to the last directory (or folder) shown in a file dialog.
+506074:20a523 \default name is the initial file name that appears in the selection box of the file dialog.
+506077:20a6f9 new file path is the path of the file opened. You can use this output to determine the path of a file that you open using dialog. new file path returns Not A Path if the user selects Cancel from the dialog box.
+520836:33bf7a 2 (create or replace) creates a new file or replaces a file if it exists and you give permission. Replacement is done by opening the file and setting EOF to 0. Error 43 occurs if the user elects to disallow the replacement using dialog.
+520839:33c14a prompt is the message that appears below the list of files and directories in the file dialog.
+520840:33c1aa default name is the initial file name that appears in the selection box of the file dialog.
+520841:33c207 start path is the path name to the initially displayed directory in a file dialog. The default value is Not A Path, which is the path to the last directory shown in a file dialog.
+520844:33c57d new file path is the path of the file opened or created. You can use this output to determine the path of a file that you open or create using dialog. new file path returns Not A Path if the user selects Cancel from the dialog box.
+527360:3b2b3c prompt is the message that appears below the list of files and directories in the file dialog.
+527361:3b2b9c default name is the initial file name that appears in the selection box of the file dialog.
+527362:3b2bf9 start path is the path name to the initially displayed directory in a file dialog. The default value is Not A Path, which is the path to the last directory shown in a file dialog.
+527365:3b2f6f new file path is the path of the file opened. You can use this output to determine the path of a file that you open using dialog. new file path returns Not A Path if the user selects Cancel from the dialog box.
+527400:3b4938 new file path is the path of the file to which the VI wrote data. You can use this output to determine the path of a file that you open using dialog. new file path returns Not A Path if the user selects Cancel from the dialog box.
+527437:3b57a0 new file path is the path of the file from which the VI read data. You can use this output to determine the path of a file that you open using dialog. new file path returns Not A Path if the user selects Cancel from the dialog box.
+528194:3c80b9 2 (create or replace) creates a new file or replaces a file if it exists and you give permission. Replacement is done by opening the file and setting EOF to 0. Error 43 occurs if the user elects to disallow the replacement using dialog.
+528197:3c8289 prompt is the message that appears below the list of files and directories in the file dialog.
+528198:3c82e9 default name is the initial file name that appears in the selection box of the file dialog.
+528199:3c8346 start path is the path name to the initially displayed directory in a file dialog. The default value is Not A Path, which is the path to the last directory shown in a file dialog.
+528202:3c86bc new file path is the path of the file opened or created. You can use this output to determine the path of a file that you open or create using dialog. new file path returns Not A Path if the user selects Cancel from the dialog box.
+528589:3cc0c5 lprompt is the message that appears below the list of files and directories (or folders) in the file dialog.
+528590:3cc166 start path is the path name to the initially displayed directory (or folder) in a file dialog. The default value is Not A Path, which is the path to the last directory (or folder) shown in a file dialog.
+528591:3cc24a \default name is the initial file name that appears in the selection box of the file dialog.
+528594:3cc406 new file path is the path of the file opened or created. You can use this output to determine the path of a file that you open or create using dialog. new file path returns Not A Path if the user selects Cancel from the dialog box.
+528606:3cca63 creates a new file or replaces a file if it exists and you give permission. Replacement is done by opening the file and setting EOF to 0. Error 43 occurs if the user elects to disallow the replacement using dialog.
+595370:d52f2 2 (create or replace) creates a new file or replaces a file if it exists and you give permission. Replacement is done by opening the file and setting EOF to 0. Error 43 occurs if the user elects to disallow the replacement using dialog.
+595373:d54c2 prompt is the message that appears below the list of files and directories in the file dialog.
+595374:d5522 default name is the initial file name that appears in the selection box of the file dialog.
+595375:d557f start path is the path name to the initially displayed directory in a file dialog. The default value is Not A Path, which is the path to the last directory shown in a file dialog.
+595378:d58f5 new file path is the path of the file opened or created. You can use this output to determine the path of a file that you open or create using dialog. new file path returns Not A Path if the user selects Cancel from the dialog box.
+595859:e22d5 2 (create or replace) creates a new file or replaces a file if it exists and you give permission. Replacement is done by opening the file and setting EOF to 0. Error 43 occurs if the user elects to disallow the replacement using dialog.
+595862:e24a5 prompt is the message that appears below the list of files and directories in the file dialog.
+595863:e2505 default name is the initial file name that appears in the selection box of the file dialog.
+595864:e2562 start path is the path name to the initially displayed directory in a file dialog. The default value is Not A Path, which is the path to the last directory shown in a file dialog.
+595867:e28d8 new file path is the path of the file opened or created. You can use this output to determine the path of a file that you open or create using dialog. new file path returns Not A Path if the user selects Cancel from the dialog box.
+596254:e62e1 lprompt is the message that appears below the list of files and directories (or folders) in the file dialog.
+596255:e6382 start path is the path name to the initially displayed directory (or folder) in a file dialog. The default value is Not A Path, which is the path to the last directory (or folder) shown in a file dialog.
+596256:e6466 \default name is the initial file name that appears in the selection box of the file dialog.
+596259:e6622 new file path is the path of the file opened or created. You can use this output to determine the path of a file that you open or create using dialog. new file path returns Not A Path if the user selects Cancel from the dialog box.
+596271:e6c7f creates a new file or replaces a file if it exists and you give permission. Replacement is done by opening the file and setting EOF to 0. Error 43 occurs if the user elects to disallow the replacement using dialog.
+596759:f3d9c prompt is the message that appears below the list of files and directories in the file dialog.
+596760:f3dfc default name is the initial file name that appears in the selection box of the file dialog.
+596761:f3e59 start path is the path name to the initially displayed directory in a file dialog. The default value is Not A Path, which is the path to the last directory shown in a file dialog.
+596764:f41cf new file path is the path of the file opened. You can use this output to determine the path of a file that you open using dialog. new file path returns Not A Path if the user selects Cancel from the dialog box.
+596799:f5b98 new file path is the path of the file to which the VI wrote data. You can use this output to determine the path of a file that you open using dialog. new file path returns Not A Path if the user selects Cancel from the dialog box.
+596836:f6a00 new file path is the path of the file from which the VI read data. You can use this output to determine the path of a file that you open using dialog. new file path returns Not A Path if the user selects Cancel from the dialog box.
+607059:19f704 prompt is the message that appears below the list of files and directories in the file dialog.
+607060:19f764 default name is the initial file name that appears in the selection box of the file dialog.
+607061:19f7c1 start path is the path name to the initially displayed directory in a file dialog. The default value is Not A Path, which is the path to the last directory shown in a file dialog.
+607064:19fb37 new file path is the path of the file opened. You can use this output to determine the path of a file that you open using dialog. new file path returns Not A Path if the user selects Cancel from the dialog box.
+608421:1b7058 new file path is the path of the file to which the VI wrote data. You can use this output to determine the path of a file that you open using dialog. new file path returns Not A Path if the user selects Cancel from the dialog box.
+610298:1d5218 new file path is the path of the file from which the VI read data. You can use this output to determine the path of a file that you open using dialog. new file path returns Not A Path if the user selects Cancel from the dialog box.

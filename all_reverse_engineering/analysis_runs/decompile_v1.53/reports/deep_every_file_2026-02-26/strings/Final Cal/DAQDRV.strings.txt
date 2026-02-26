@@ -1,0 +1,35 @@
+0 RSRC
+8 LVSBLBVW
+36 i386
+388 DRVR
+1769 Vhd
+2587 VSh4
+3552 DAQDRV: 387 control reg is 0x%x before calling LoadLibrary
+3611 NIDAQ.DLL
+3621 DAQDRV: return value from LoadLibrary is %d
+3665 DAQDRV: 387 control reg is 0x%x after calling LoadLibrary
+3723 DAQDRV: 387 control reg is 0x%x after calling FPStatFix
+3779 LV_DESTROY_ALL_AO_GROUPS
+3804 DAQDRV: destroying AO groups ...
+3837 LV_DESTROY_ALL_DIG_PORT_GROUPS
+3868 DAQDRV: destroying DIG PORT groups ...
+3907 LV_DESTROY_ALL_DIG_GROUP_GROUPS
+3939 DAQDRV: destroying DIG GROUP groups ...
+3979 _clear_all_ai
+3993 DAQDRV: destroying AI groups ...
+4026 LV_DESTROY_ALL_CTR_GROUPS
+4052 DAQDRV: destroying CTR groups ...
+4086 _clear_all_boards
+4104 DAQDRV: calling _clear_all_boards ...
+4142 Init_DA_Brds
+4155 DAQDRV: calling Init_DA_Brds for slots 1 through 16 ...
+4211 DAQDRV: in DriverEntry ...
+4238 DAQDRV: leaving DriverEntry ...
+4272 SetCINArraySize, elmtNum %ld out of range 0 <= elmtNum < %ld
+4333 non-array detected
+4360 RSRC
+4368 LVSBLBVW
+4416 PLAT
+4428 LVSB
+4481 daqdrv
+4488 daqdrv

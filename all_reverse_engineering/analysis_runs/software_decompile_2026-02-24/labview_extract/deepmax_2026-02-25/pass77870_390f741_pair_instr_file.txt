@@ -1,0 +1,9 @@
+43276:fd126 PrintInstrFile
+134123:207af4 NationalInstrumentsSCXIHDLCSharedFileName
+134147:207d38 NationalInstrumentsVXIDAQSharedCommFileName
+134151:207e14 NationalInstrumentsVXIDAQSharedBufferFileName
+134418:20ae28 SOFTWARE\National Instruments\NI-DAQ\CurrentVersion\fpgafiles
+639612:207af4 NationalInstrumentsSCXIHDLCSharedFileName
+639636:207d38 NationalInstrumentsVXIDAQSharedCommFileName
+639640:207e14 NationalInstrumentsVXIDAQSharedBufferFileName
+639907:20ae28 SOFTWARE\National Instruments\NI-DAQ\CurrentVersion\fpgafiles

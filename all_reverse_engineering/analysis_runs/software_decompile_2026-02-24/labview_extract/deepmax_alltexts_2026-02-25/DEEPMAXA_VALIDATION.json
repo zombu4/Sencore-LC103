@@ -1,0 +1,18 @@
+{
+  "pass_count": 585580,
+  "unique_output_hashes": 585580,
+  "all_unique_texts": 583121,
+  "high_value_subset": 77440,
+  "mode_counts": {
+    "literal_all": 583121,
+    "token_hv": 276,
+    "pair_hv": 1652,
+    "opair_hv": 486,
+    "triple_hv": 45
+  },
+  "elapsed_sec": 9.79,
+  "spec_path": "/Users/<user>/LC103/software_decompile_2026-02-24/labview_extract/deepmax_alltexts_2026-02-25/pass_specs.tsv",
+  "counts_path": "/Users/<user>/LC103/software_decompile_2026-02-24/labview_extract/deepmax_alltexts_2026-02-25/DEEPMAXA_PASS_COUNTS.tsv",
+  "hashes_path": "/Users/<user>/LC103/software_decompile_2026-02-24/labview_extract/deepmax_alltexts_2026-02-25/DEEPMAXA_PASS_HASHES.tsv",
+  "findings_path": "/Users/<user>/LC103/software_decompile_2026-02-24/labview_extract/deepmax_alltexts_2026-02-25/DEEPMAXA_FINDINGS.md"
+}

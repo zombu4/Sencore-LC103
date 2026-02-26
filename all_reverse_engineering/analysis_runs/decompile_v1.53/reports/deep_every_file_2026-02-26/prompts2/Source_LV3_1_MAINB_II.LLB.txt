@@ -1,0 +1,377 @@
+! DIO table for main board test.vi
+!Set Pass/Fail Button to invisibled
+!Set Pass/Fail button to invisibleW
+"""<- number of leakage current testsH
+#Wait for start button to be clickedb
+$$$Do next test if previous test passedW
+$$$Do next test if previous test passeda
+$$$Do next test if previous test passedb
+$$$Do next test if previous test passedn
+$$5Send DIO setting to tester
+$Do next test if previous test passedW
+%%%Performs test if previous test passedW
+(the default value) displays a dialog box with a single OK button. After the user responds, the VI returns control to the main VI.
+*&data to be written to the serial port
+- User abort occurred during I/O
+---Flow Control = False indicates a passed testy
+---Flow Control = False indicates a passed test}
+-1 = library initialization failed
+-I/O operation aborted
+-Serial Poll Byte Lost
+-Set Pass/ Fail Indicator and make it visible V
+-Unrecognized commandEAbyte count refers to the number of bytes that pass over the GPIB.
+0 = Abort if not DIR
+0 = Abort if not DOR
+0 = The specified information was returned
+1 = Set END bit on the last byte of transfer
+1 = library already initialized
+1) Plug in and turn on LC103 Mainboard test box.
+111Loops until all tests pass or " i " = " Retries "U
+111Loops until all tests pass or " i " = " Retries "y
+3) Connect Fluke 8840A to DVM plugs on front panel of test box.
+4) Connect Lo Capacity leads to UUT plugs on front of test box.
+5) Connect 50 pin ribbon cable from PC to right side of test box.
+5Generalized DIO96 control.
+5Send DIO setting to tester
+6) Press ENTER when ready, choose test to perform and press START.
+6) Press ENTER when ready, choose test to perform and press START.H
+6) Press ENTER when ready, choose test to perform and press START.S
+666Send DIO setting to tester
+9When you use the serial port VIs under Windows, the port number parameter can have the following values:
+;Instr Openi
+<TCP ncConnClosedErr: The connection was closed by the peer.6Interapplication Mgr amInitErr: Initialization error.
+@ Start Button"
+@ Start Button4
+@ Start Buttont 45
+@<string read. The VI returns the bytes read in string read.
+@Start Button
+@return count
+@return count2P@
+AVG_RD.VI DIO table for main board test.vi DIO table for main board test.vi DIO table for main board test.vi DIO table for main board test.vi DIO table for main board test.vi
+Apply voltage to leadsW
+BDHP DIO table for main board test.vi
+Bytes At Serial Port.vi
+Bytes At Serial Port.viD
+Bytes At Serial Port.viMD
+Bytes At Serial Port.viP
+Bytes At Serial Port.vi_
+Bytes At Serial Port.vik
+Bytes At Serial Port.vi{
+CINStartLoad: loaderror= %d, error=%ldLV_DIG_PORT_READSetCINArraySize, elmtNum %ld out of range 0 <= elmtNum < %ldnon-array detected
+Continue Button0
+D/A.vie voltage test.vi
+DAQ SCXIConfigErr: The specified SCXI configuration parameters are invalid, or the function cannot be executed with the current SCXI configuration.
+DDE DMLERR_DLL_NOT_INITIALIZED: The DDEML function was called without first calling the DdeInitialize function or an invalid instance identifier was pass to a DDEML function.
+DIO Port Config
+DIO Port Config.vi
+DIO Port Config.viDIGPRTCF.LSB
+DIO Port Config.vi\
+DIO Port Config.vi]
+DIO Port Config.vigure.vi4
+DIO Port Config.viz
+DIO Port ConfigM
+DIO Port Read.vi
+DIO Port Read.vi(
+DIO Port Read.viDIGPRTRD.LSB
+DIO Port Read.vid.vi
+DIO Port Read.vim
+DIO Port Read<P@
+DIO Port ReadRD
+DIO Port Write.vi
+DIO Port Write.viDIGPRTWR.LSB
+DIO Port Write.vi`
+DIO Port Write.vie.vip
+DIO Port Write.vim
+DIO Port Write<P@
+DIO Port WriteUD
+DIO delay (ms)
+DIO delay (ms) H
+DIO delay (ms)4
+DIO setting0F
+DIO setting4
+DIO setting@
+DIO settingPTH0
+DIO table for main board test.viH
+DIO table for main board test.viN
+DIO table for main board test.viND
+DIO table for main board test.viU
+DIO table for main board test.viV
+DIO table offset
+DIO table offsetO
+DIO table offset^
+DIO table offsetf
+DIO_R-W.VIP`$
+DSP FNC_ERR: The function ID specified does not correspond to a function that is part of the DSP Library currently running on the board.
+DSP GROUP_ERR. The function ID specified does not belong to any group that is part of the DSP Library currently running on the board.
+Data In Ready protocol violation
+Data Out Ready protocol violation
+FPHP DIO table for main board test.vi
+Fail = False
+Fail = Falser
+Failure...Invalid Reading
+Failure...Invalid ReadingU
+Failure...Invalid ReadingZ
+For most applications, you only need to connect wires to the controls and indicators displayed in bold.
+GPIB EARG: Invalid argument or arguments.bLabVIEW: File already open.
+GPIB EFRM: Serial port framing error.
+GPIB EMOM: Out of memory (MacBus read or write).VLabVIEW: Device call aborted.
+GPIB EOFL: Serial port receive buffer overflow.
+GPIB EOIP: New I/O attempted with old I/O in progress.9LabVIEW: Too many files open.
+GPIB EORN: Serial port overrun error.
+GPIB EPAR: Serial port parity error.
+GPIB ESTB: Serial poll byte queue overflow.4LabVIEW: Image not found.
+GPIB SPTMO: Serial port timeout; bytes not received at serial port.
+GPIB: EABO: I/O operation aborted.9LabVIEW: File not found.
+GPIBOpen.viH
+GetDevInfoShort.viMD
+GetDevInfoShort.viND
+GetDevInfoShort.viQD
+GetDevInfoShort.vi`
+Initialize UUT\
+Instr Open.viO
+Instr Open.viP
+Instr Open.viarison.vi
+Instr Open.vig
+LVIN DIO table for main board test.vi#
+LabVIEW: Device unit error.NLabVIEW: Can't open device.
+LabVIEW: Memory corrupt.&LabVIEW: Failed to make temporary DLL.
+LabVIEW: Print aborted.?LabVIEW: Bad print record.
+Lead Zero MSG
+Lead Zero MSGG"
+Lead Zero MSGG,
+Lead Zero MSGt 4&
+Lead Zero Short & Open VIM
+Lead Zero Short/Open
+Lead Zero Short/OpenND
+Leakage Current
+Leakage Current R
+Leakage CurrentND
+Leakage Voltage
+Leakage Voltage R
+Leakage VoltageND
+Leakage current test.vi
+Leakage current test.vi-
+Leakage current test.viR
+Leakage current test.vir
+Leakage voltage test.vi
+Leakage voltage test.vi-
+Leakage voltage test.viN
+Leakage voltage test.viR
+Leakage voltage test.vi^
+Leakage voltage test.vio
+Leakage voltage test.vi|A$
+MMMLead zero, shorted CAP must read "SHORT", IND and ESR must read 0l
+Mainboard tester (#74C216-1).
+Measure volts, amps, or ohms. Select one of 6 functions. Select range or use auto range. Select trigger mode. Slow reading rate is used for accuracy. version a.0
+Measure volts, amps, or ohms. Select one of 6 functions. Select range or use auto range. Select trigger mode. Slow reading rate is used for accuracy. version a.0 $
+Most applications need only connect wires to the controls and indicators displayed in bold. Connections to other controls and indicators are useful only if specifically needed.
+Open GPIB DriverPD
+Open Serial Driver.vi
+Open Serial Driver.vi5
+Open Serial Driver.vier.vi
+Open Serial Driver.vii
+Open Serial Driver.vil
+Open Serial DriverMD
+Open Serial DriverY
+Open instrument_D
+P Start Button
+Pass or Fail Global
+Pass or Fail Global &
+Pass or Fail Global '
+Pass or Fail Global 1
+Pass or Fail Global :
+Pass or Fail Global K
+Pass or Fail Global Q
+Pass or Fail Global$
+Pass or Fail Global4
+Pass or Fail Global4'
+Pass or Fail Global4,/
+Pass or Fail Global4-/
+Pass or Fail Global40/
+Pass or Fail Global46
+Pass or Fail Global47
+Pass or Fail Global49
+Pass or Fail Global4A
+Pass or Fail Global4F/
+Pass or Fail Global8'>9XO
+Pass or Fail Global8(>C
+Pass or Fail Global8(>I
+Pass or Fail Global8,>J
+Pass or Fail Global<8
+Pass or Fail Global<=
+Pass or Fail Global@42
+Pass or Fail GlobalL
+Pass or Fail GlobalPTH0
+Pass or Fail Globalob$'
+Pass or Fail Globalob$,
+Pass or Fail Globalob$-
+Pass or Fail Globalob$0
+Port Select.
+Port Select.@
+Port Select.G
+Port Select0
+Port Select0)
+Port Select4G/
+Port Select:
+Port SelectM
+Port Width for the Lab boards, SCXI-1200, DAQBox-1200, DIO-24, DIO-32F, DIO-96, and AT-MIO-16D ports 2, 3 and 4 should be at least 8.
+Press 'Enter' when ready.
+Press 'Enter' when ready.OD
+QCheck if measured value from DVM is within tolerance
+QWrites the data in string to write to the serial port indicated in port number.
+RS-232 Connection Failed
+RS-232 Connection FailedZ
+Read Ready protocol violation during transfer
+Reads data from a device. The data read is stored in the buffer represented by read buffer. This operation returns when the transfer terminates.
+Reset Global Variables
+Reset Start Buttono
+Return String
+Return String"
+Return String,-
+Return String,2
+Return String4
+Return Stringgencode.cGenDispatchEntry
+Return Stringro"
+Return StringroX
+Return Terminator
+Return Terminator @
+Return Terminator&
+Return Terminator2@P
+Returned Value
+Returned Value,
+Returned ValueM
+Returned Value|
+Select measurement function. :
+Send DIO setting to testerU
+Serial Port Read.vi
+Serial Port Read.vi,
+Serial Port Read.viMD
+Serial Port Read.via
+Serial Port Read.vic
+Serial Port Read.vie
+Serial Port Write.vi
+Serial Port Write.viW
+Set "Pass or Fail Global" to "Fail"W
+Set Min # samples
+Set Status Message
+Set Status MessageN
+Set UUT to test Aluminum LyticsW
+Set Voltage on UUTH
+Set Voltage on UUTV
+Set the max. # of readings takenH
+Short LeadsO
+Some error codes returned by the serial port VIs are platform-specific. Please refer to your system documentation for a list of error codes.
+Start ButtonH
+Status state (Passed/Failed, Ready/Not Ready)$ (U16)
+StatusGlobal and reset start buttonm
+TCP ncAlreadyConnectedErr: The connection is already established.
+Test Voltage Array
+Test Voltage Array"@@
+Test Voltage Array"`@
+Test Voltage Array2
+Test Voltage Array44/yx
+Test Voltage Array<4Dyx
+Test Voltage Array@
+Test Voltage ArrayL8
+Test Voltage ArrayM
+This VI establishes a port configuration. You can use the task ID that this VI returns only in digital port VIs.
+This VI reads the port identified by task ID and returns the pattern read.
+This vi handles the RS-232 communications for a UUT. FC In and FC Out are used for flow control.
+Transfer aborted - Device not DIR
+Transfer aborted - Device not DOR
+UQWrites the data in string to write to the serial port indicated in port number.
+UQbyte count is the number of bytes currently queued up in the serial port buffer.
+UUT Comm.vi&
+UUT Comm.vi-
+UUT Comm.vi.
+UUT Comm.vi0
+UUT Comm.vi2
+UUT Comm.viH
+UUT Comm.viJ
+UUT Comm.viMD
+UUT Comm.viO
+UUT Comm.viU
+UUT Comm.viW
+UUT Comm.vii
+UUT Comm.vio
+UUT Communications Vi
+UUT_BEEP.viL
+UUT_BEEP.viMD
+UUT_BEEP.vid
+User abort occurred during I/O
+VFor most applications, you only need to connect wires to the controls and indicators displayed in bold.
+Voltage Reading46
+Voltage Reading@
+Voltage Readinggencode.cGenDispatchEntry
+Wait for UUT to
+When you use the serial port VIs on a Sun SPARCstation, the port number parameter is 0 for /dev/ttya, 1 for /dev/ttyb, and so on.
+Write Ready protocol violation during transfer
+ZFor most applications, you only need to connect wires to the controls and indicators displayed in bold.
+` Start Button
+aInitialize DIO after each group of
+aTCP ncNotConnectedErr: The connection is not established.
+aaaLeads zero, open Cap must read 0, IND must read "OPEN" and ESR must read "ERROR 7"W
+continue or stop message
+dIf UUT Comm fails, send RS-232
+displays a dialog box with buttons allowing the user to either continue or stop. If the user cancels, the VI calls the Stop function to halt execution.
+driver opened
+driver opened&
+driver opened(
+driver opened4
+driver opened@
+driver openedPTH0
+failure status to "StatusGlobal".
+force re-open
+force re-open"
+force re-openQ
+force re-openp@
+iReset variable that ends the while loop
+kReturns in byte count the number of bytes in the input buffer of the serial port indicated in port number.
+lead zero short/open.vi
+lead zero short/open.vi-
+lead zero short/open.viO
+lead zero short/open.viZ
+lead zero short/open.via
+okReturns in byte count the number of bytes in the input buffer of the serial port indicated in port number.
+port select :
+port select4
+port select4F
+port selectPTH0
+qReads the number of characters specified by requested byte count from the serial port indicated in port number.
+qTCP ncSysConnAbortedErr: The system caused the connection to be aborted.
+rTCP ncConnRefusedErr: The connection was refused by the server.
+rattle relays.vi
+rattle relays.vi5
+rattle relays.viH
+rattle relays.viND
+relays rattle.
+relays to rattle quickly W
+return count
+return count"
+return count2@P
+return count4
+return count@
+return count[
+return string
+return string"
+return string0
+return string2@P
+return string2P@
+return string4F
+return stringgencode.cGenDispatchEntry
+serpOpen.vi$
+serpOpen.viW
+set error on match
+shortvalue @
+shortvalue M
+source. In case of an error, most VIs that use the error in and error out clusters set source to the name of the VI or function that produced the error.
+specific reset ?
+specific reset ?"
+specific reset ?&
+specific reset ?'
+tests then start watching
+then send pass/fail message.N
+then send pass/fail message.O
+then send pass/fail message.U
+then send pass/fail message.W
+uqReads the number of characters specified by requested byte count from the serial port indicated in port number.

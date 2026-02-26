@@ -1,0 +1,4 @@
+37453:370fe WindowWUpdate
+39402:7bfdf HeapUpdateWindowStyle
+41140:b7ff4 UpdateWindMenu
+47530:161622 steppingFlag=0x%04x\nwindowFlag=0x%04x\nsuspendFlag=0x%04x\nupdateFlag=0x%04x\nloggingFlag=0x%04x\nshrunkFlag=0x%04x\nrunningFlag=0x%04x\ndisposedFlag=0x%04x\nrecordingDSFlag=0x%04x\n

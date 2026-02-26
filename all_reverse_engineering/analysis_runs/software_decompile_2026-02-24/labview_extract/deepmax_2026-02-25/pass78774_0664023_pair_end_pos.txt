@@ -1,0 +1,27 @@
+47530:161622 steppingFlag=0x%04x\nwindowFlag=0x%04x\nsuspendFlag=0x%04x\nupdateFlag=0x%04x\nloggingFlag=0x%04x\nshrunkFlag=0x%04x\nrunningFlag=0x%04x\ndisposedFlag=0x%04x\nrecordingDSFlag=0x%04x\n
+54231:1dfa6c End of the file plus pos offset. This is the default value.
+54498:1e3f2d at the end of the file plus pos offset.  This is the default value.
+101000:4aa049 End of the file plus pos offset.
+101392:4af95d at the end of the file plus pos offset.
+224524:1f54c End of the file plus pos offset. This is the default value.
+224791:23a0d at the end of the file plus pos offset.  This is the default value.
+224956:251f6 at the end of the file plus pos offset.  This is the default value.
+259397:2220f9 End of the file plus pos offset.
+259789:227a0d at the end of the file plus pos offset.
+259963:2294eb at the end of the file plus pos offset.
+372339:192cb1 at the end of the file plus pos offset.
+372359:193759 End of the file plus pos offset.
+394260:30d0f2 at the end of the file plus pos offset.  This is the default value.
+404047:3a50d3 at the end of the file plus pos offset.
+405283:3b9f33 at the end of the file plus pos offset.  This is the default value.
+405299:3ba6d2 End of the file plus pos offset. This is the default value.
+504748:1f3372 at the end of the file plus pos offset.
+504913:1f5b36 End of the file plus pos offset.
+520852:33c9ea at the end of the file plus pos offset.  This is the default value.
+527384:3b3d1f at the end of the file plus pos offset.
+527679:3ba8a5 at the end of the file plus pos offset.  This is the default value.
+527777:3bc8ea End of the file plus pos offset. This is the default value.
+596718:f1cf2 at the end of the file plus pos offset.  This is the default value.
+596783:f4f7f at the end of the file plus pos offset.
+597621:ff3ce at the end of the file plus pos offset.  This is the default value.
+607656:1a9ac3 at the end of the file plus pos offset.

@@ -1,0 +1,3 @@
+44534:12721e StdPathOLoadMethod
+46809:15d132 ptsArray {aload pop /v xdf /h xdf h v lineto} forall closepath eoclip
+46811:15d187 ptsArray {aload pop /v xdf /h xdf h v lineto} forall closepath eofill

@@ -1,0 +1,1 @@
+69699:2c497f (i32) code: the error code associated with an error.  A value of 0 means no error, a negative value is an error, and a positive value is a warning.[W(string) source:  an indication of where an error occurred, usually the name of the VI.

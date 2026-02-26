@@ -1,0 +1,48 @@
+62745:25e5ab mA AC1-9.99990E9 is reported on overrange error.
+102415:4c87d4 DAQ overFlowErr: Because of system limitations, the driver could not read data from the device fast enough to keep up with the device throughput; the onboard device memory reported an overflow error.
+102507:4ce595 GPIB EPAR: Serial port parity error.
+102509:4ce606 GPIB EORN: Serial port overrun error.
+102513:4ce6dc GPIB EFRM: Serial port framing error.
+233264:a0c0b mA AC1-9.99990E9 is reported on overrange error.
+260848:2413ac DAQ overFlowErr: Because of system limitations, the driver could not read data from the device fast enough to keep up with the device throughput; the onboard device memory reported an overflow error.
+260940:24716d GPIB EPAR: Serial port parity error.
+260942:2471de GPIB EORN: Serial port overrun error.
+260946:2472b4 GPIB EFRM: Serial port framing error.
+299812:6de94 mA AC1-9.99990E9 is reported on overrange error.
+314856:15ef7d DAQ overFlowErr: Because of system limitations, the driver could not read data from the device fast enough to keep up with the device throughput; the onboard device memory reported an overflow error.
+314948:164d3e GPIB EPAR: Serial port parity error.
+314950:164daf GPIB EORN: Serial port overrun error.
+314954:164e85 GPIB EFRM: Serial port framing error.
+332073:6d1a8 mA AC1-9.99990E9 is reported on overrange error.
+341333:fe54d DAQ overFlowErr: Because of system limitations, the driver could not read data from the device fast enough to keep up with the device throughput; the onboard device memory reported an overflow error.
+341425:10430e GPIB EPAR: Serial port parity error.
+341427:10437f GPIB EORN: Serial port overrun error.
+341431:104455 GPIB EFRM: Serial port framing error.
+371286:17adce DAQ overFlowErr: Because of system limitations, the driver could not read data from the device fast enough to keep up with the device throughput; the onboard device memory reported an overflow error.
+371378:180b8f GPIB EPAR: Serial port parity error.
+371380:180c00 GPIB EORN: Serial port overrun error.
+371384:180cd6 GPIB EFRM: Serial port framing error.
+417594:48ff -9.99990E9 is reported on overrange error.
+433987:ee9f1 DAQ overFlowErr: Because of system limitations, the driver could not read data from the device fast enough to keep up with the device throughput; the onboard device memory reported an overflow error.
+434079:f47b2 GPIB EPAR: Serial port parity error.
+434081:f4823 GPIB EORN: Serial port overrun error.
+434085:f48f9 GPIB EFRM: Serial port framing error.
+469966:fdf72 DAQ overFlowErr: Because of system limitations, the driver could not read data from the device fast enough to keep up with the device throughput; the onboard device memory reported an overflow error.
+470058:103d33 GPIB EPAR: Serial port parity error.
+470060:103da4 GPIB EORN: Serial port overrun error.
+470064:103e7a GPIB EFRM: Serial port framing error.
+503796:1dbd6f DAQ overFlowErr: Because of system limitations, the driver could not read data from the device fast enough to keep up with the device throughput; the onboard device memory reported an overflow error.
+503888:1e1b30 GPIB EPAR: Serial port parity error.
+503890:1e1ba1 GPIB EORN: Serial port overrun error.
+503894:1e1c77 GPIB EFRM: Serial port framing error.
+526554:3a4619 -9.99990E9 is reported on overrange error. p.
+530062:48ff -9.99990E9 is reported on overrange error.
+546362:ed901 DAQ overFlowErr: Because of system limitations, the driver could not read data from the device fast enough to keep up with the device throughput; the onboard device memory reported an overflow error.
+546454:f36c2 GPIB EPAR: Serial port parity error.
+546456:f3733 GPIB EORN: Serial port overrun error.
+546460:f3809 GPIB EFRM: Serial port framing error.
+578012:14239b -9.99990E9 is reported on overrange error. p.
+579215:15fc33 DAQ overFlowErr: Because of system limitations, the driver could not read data from the device fast enough to keep up with the device throughput; the onboard device memory reported an overflow error.
+579307:1659f4 GPIB EPAR: Serial port parity error.
+579309:165a65 GPIB EORN: Serial port overrun error.
+579313:165b3b GPIB EFRM: Serial port framing error.

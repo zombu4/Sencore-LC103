@@ -1,0 +1,34 @@
+37094:1583a Error opening file
+47453:160e9f Error %ld in OpenLogFile.
+52398:1bbe82 Opening old resource file.
+52427:1bc7be Can't allocate new path.$Can't open VI library resource file."Can't remove file from VI library.%Can't open file system resource file.
+52982:1cabb8 opens an existing file. Error 7 occurs if the file cannot be found.
+54002:1dba6c 0 (open) opens an existing file. Error 7 occurs if the file cannot be found.
+113114:57ad07 Couldn't open the Software Rev. file. Please set the Software Rev. manually on the front panel. Place the flopply disk in the computer NOW.MD
+113119:57ae6e RCouldn't open the Software Rev. file. Place the flopply disk in the computer NOW.s
+113157:57b20c 'Last known LC103 Software Rev. is: VERRCouldn't open the Software Rev. file. Place the flopply disk in the computer NOW.
+113158:57b288 Couldn't open the Software Rev. file. Please set the Software Rev. manually on the front panel. Place the flopply disk in the computer NOW.
+223239:97e4 opens an existing file. Error 7 occurs if the file cannot be found.
+224259:1a698 0 (open) opens an existing file. Error 7 occurs if the file cannot be found.
+224495:1d3a4 0 (open) opens an existing file. Error 7 occurs if the file cannot be found.
+271657:2f5b87 Couldn't open the Software Rev. file. Please set the Software Rev. manually on the front panel. Place the flopply disk in the computer NOW.MD
+271662:2f5cee RCouldn't open the Software Rev. file. Place the flopply disk in the computer NOW.s
+271700:2f608c 'Last known LC103 Software Rev. is: VERRCouldn't open the Software Rev. file. Place the flopply disk in the computer NOW.
+271701:2f6108 Couldn't open the Software Rev. file. Please set the Software Rev. manually on the front panel. Place the flopply disk in the computer NOW.
+365904:122be5 Couldn't open the Software Rev. file. Please set the Software Rev. manually on the front panel. Place the flopply disk in the computer NOW.
+365905:122c78 xxxxRCouldn't open the Software Rev. file. Place the flopply disk in the computer NOW.'Last known LC103 Software Rev. is: VER
+366004:123cc3 Couldn't open the Software Rev. file. Please set the Software Rev. manually on the front panel. Place the flopply disk in the computer NOW.MD
+366009:123e1f ''RCouldn't open the Software Rev. file. Place the flopply disk in the computer NOW.s
+370596:169cb7 open or create fileaD
+394242:30c5d8 0 (open) opens an existing file. Error 7 occurs if the file cannot be found.
+406178:3cb8a8 0 (open) opens an existing file. Error 7 occurs if the file cannot be found.
+406200:3cc6d7 opens an existing file. Error 7 occurs if the file cannot be found.
+495584:13c1f5 Couldn't open the Software Rev. file. Please set the Software Rev. manually on the front panel. Place the flopply disk in the computer NOW.
+495585:13c288 xxxxRCouldn't open the Software Rev. file. Place the flopply disk in the computer NOW.'Last known LC103 Software Rev. is: VER
+520834:33bed0 0 (open) opens an existing file. Error 7 occurs if the file cannot be found.
+528192:3c800f 0 (open) opens an existing file. Error 7 occurs if the file cannot be found.
+528604:3cc9d3 opens an existing file. Error 7 occurs if the file cannot be found.
+595368:d5248 0 (open) opens an existing file. Error 7 occurs if the file cannot be found.
+595857:e222b 0 (open) opens an existing file. Error 7 occurs if the file cannot be found.
+596269:e6bef opens an existing file. Error 7 occurs if the file cannot be found.
+612591:1684 \\Atlas\Shared\Cal-Test\LC103\Source\lv8\103f_cal.llb\Open File+.vi (Open File+.vi)

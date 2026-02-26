@@ -1,0 +1,12 @@
+52018:1b8c8b Print driver error occurred.$Windows error occurred during print.#Memory error occurred during print.
+52509:1bd712 'An error occurred in compiling this VI.TYou need to make more memory available for LabVIEW to generate the code for this VI.
+102437:4cadd8 DAQ memPageErr:  The transfer buffer contains a page break; system resources may require reprogramming when the page break is encountered.KDAQ memLockErr:  The transfer buffer cannot be locked into physical memory.
+260870:2439b0 DAQ memPageErr:  The transfer buffer contains a page break; system resources may require reprogramming when the page break is encountered.KDAQ memLockErr:  The transfer buffer cannot be locked into physical memory.
+314878:161581 DAQ memPageErr:  The transfer buffer contains a page break; system resources may require reprogramming when the page break is encountered.KDAQ memLockErr:  The transfer buffer cannot be locked into physical memory.
+341355:100b51 DAQ memPageErr:  The transfer buffer contains a page break; system resources may require reprogramming when the page break is encountered.KDAQ memLockErr:  The transfer buffer cannot be locked into physical memory.
+371308:17d3d2 DAQ memPageErr:  The transfer buffer contains a page break; system resources may require reprogramming when the page break is encountered.KDAQ memLockErr:  The transfer buffer cannot be locked into physical memory.
+434009:f0ff5 DAQ memPageErr:  The transfer buffer contains a page break; system resources may require reprogramming when the page break is encountered.KDAQ memLockErr:  The transfer buffer cannot be locked into physical memory.
+469988:100576 DAQ memPageErr:  The transfer buffer contains a page break; system resources may require reprogramming when the page break is encountered.KDAQ memLockErr:  The transfer buffer cannot be locked into physical memory.
+503818:1de373 DAQ memPageErr:  The transfer buffer contains a page break; system resources may require reprogramming when the page break is encountered.KDAQ memLockErr:  The transfer buffer cannot be locked into physical memory.
+546384:eff05 DAQ memPageErr:  The transfer buffer contains a page break; system resources may require reprogramming when the page break is encountered.KDAQ memLockErr:  The transfer buffer cannot be locked into physical memory.
+579237:162237 DAQ memPageErr:  The transfer buffer contains a page break; system resources may require reprogramming when the page break is encountered.KDAQ memLockErr:  The transfer buffer cannot be locked into physical memory.

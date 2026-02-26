@@ -1,0 +1,6 @@
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+3629465       0x376199        Intel x86 or x64 microcode, sig 0x101e2010, pf_mask 0x20101010, 1E20-10-10, rev 0x0101, size 2048
+4053342       0x3DD95E        Minix filesystem, V1, big endian, 61 zones
+

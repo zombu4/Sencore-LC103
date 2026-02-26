@@ -1,0 +1,16 @@
+52516:1bdd78 A wire must be connected to one and only one data source, such as a control's terminal or a function output. This wire is not connected to any source. Find the source of this data and make sure it is a control (not indicator) or an output (not input).
+52525:1be595 A wire can be connected to only one data source, such as a control's terminal or a function output. This wire is connected to more than one source. Make sure that all connections except one are to indicators (not controls) or inputs (not outputs). 
+99167:48c51b Now connect the red UUT to the H  Terminal of the decade box and set the  box to 0.022uF(.0219).
+99216:48cc6e HEY!! I said:  "Connect the red UUT to the H  Terminal of the decade box and set the  box to 0.022uF(.0219)".  Please do this now!
+99296:48d0c3 Now connect the red UUT to the H  Terminal of the decade box and set the  box to 0.022uF(.0219).
+99298:48d149 HEY!! I said:  "Connect the red UUT to the H  Terminal of the decade box and set the  box to 0.022uF(.0219)".  Please do this now!
+277905:36ba9b Now connect the red UUT to the H  Terminal of the decade box and set the  box to 0.022uF(.0219).
+277954:36c1ee HEY!! I said:  "Connect the red UUT to the H  Terminal of the decade box and set the  box to 0.022uF(.0219)".  Please do this now!
+278034:36c643 Now connect the red UUT to the H  Terminal of the decade box and set the  box to 0.022uF(.0219).
+278036:36c6c9 HEY!! I said:  "Connect the red UUT to the H  Terminal of the decade box and set the  box to 0.022uF(.0219)".  Please do this now!
+375112:1bf03f Now connect the red UUT to the H  Terminal of the decade box and set the  box to 0.022uF(.0219).
+375123:1bf1d9 HEY!! I said:  "Connect the red UUT to the H  Terminal of the decade box and set the  box to 0.022uF(.0219)".  Please do this now!
+375294:1c0544 Now connect the red UUT to the H  Terminal of the decade box and set the  box to 0.022uF(.0219).
+375347:1c0cf9 HEY!! I said:  "Connect the red UUT to the H  Terminal of the decade box and set the  box to 0.022uF(.0219)".  Please do this now!
+506650:213b29 Now connect the red UUT to the H  Terminal of the decade box and set the  box to 0.022uF(.0219).
+506661:213cc3 HEY!! I said:  "Connect the red UUT to the H  Terminal of the decade box and set the  box to 0.022uF(.0219)".  Please do this now!

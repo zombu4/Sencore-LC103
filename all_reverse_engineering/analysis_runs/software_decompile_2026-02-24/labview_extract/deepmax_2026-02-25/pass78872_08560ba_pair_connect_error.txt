@@ -1,0 +1,11 @@
+52510:1bd790 This VI has a bad connection to or cannot find a subVI or external routine, but it has no block diagram to show or fix the error. You must find or correct the subVI or external routine. Check for more information in the Explain... dialog in Get Info.
+102516:4ce78a <TCP ncConnClosedErr:  The connection was closed by the peer.6Interapplication Mgr amInitErr:  Initialization error.
+260949:247362 <TCP ncConnClosedErr:  The connection was closed by the peer.6Interapplication Mgr amInitErr:  Initialization error.
+314957:164f33 <TCP ncConnClosedErr:  The connection was closed by the peer.6Interapplication Mgr amInitErr:  Initialization error.
+341434:104503 <TCP ncConnClosedErr:  The connection was closed by the peer.6Interapplication Mgr amInitErr:  Initialization error.
+371387:180d84 <TCP ncConnClosedErr:  The connection was closed by the peer.6Interapplication Mgr amInitErr:  Initialization error.
+434088:f49a7 <TCP ncConnClosedErr:  The connection was closed by the peer.6Interapplication Mgr amInitErr:  Initialization error.
+470067:103f28 <TCP ncConnClosedErr:  The connection was closed by the peer.6Interapplication Mgr amInitErr:  Initialization error.
+503897:1e1d25 <TCP ncConnClosedErr:  The connection was closed by the peer.6Interapplication Mgr amInitErr:  Initialization error.
+546463:f38b7 <TCP ncConnClosedErr:  The connection was closed by the peer.6Interapplication Mgr amInitErr:  Initialization error.
+579316:165be9 <TCP ncConnClosedErr:  The connection was closed by the peer.6Interapplication Mgr amInitErr:  Initialization error.

@@ -1,0 +1,14 @@
+52212:1ba204 GIt starts with "." and may be incorrectly interpreted as a device name.9LabVIEW cannot create new directories or libraries in %p.&LabVIEW cannot create new files in %p.
+52214:1ba2c3 %p is an existing %p.3An error occurred while listing the contents of %p..You must select something in the directory %p.ULabVIEW cannot save to path %p because it is not an existing directory or VI library.
+52412:1bc147 Could not load VI resource.,Version of VI is newer than LabVIEW version.?Version of VI is too old to convert to current LabVIEW version.JVI cannot be converted to current version because it has no block diagram."Could not load connector type map.
+52414:1bc277 Could not load default data.+Could not load data space link information.%Could not load VI's link information.&Could not load LVSB platform resource.6Demonstration versions of LabVIEW cannot load this VI.
+102477:4cdcdf GPIB EOWN:  Sharable board exclusively owned.:LabVIEW:  Cannot add resource.
+260910:2468b7 GPIB EOWN:  Sharable board exclusively owned.:LabVIEW:  Cannot add resource.
+314918:164488 GPIB EOWN:  Sharable board exclusively owned.:LabVIEW:  Cannot add resource.
+341395:103a58 GPIB EOWN:  Sharable board exclusively owned.:LabVIEW:  Cannot add resource.
+371348:1802d9 GPIB EOWN:  Sharable board exclusively owned.:LabVIEW:  Cannot add resource.
+434049:f3efc GPIB EOWN:  Sharable board exclusively owned.:LabVIEW:  Cannot add resource.
+470028:10347d GPIB EOWN:  Sharable board exclusively owned.:LabVIEW:  Cannot add resource.
+503858:1e127a GPIB EOWN:  Sharable board exclusively owned.:LabVIEW:  Cannot add resource.
+546424:f2e0c GPIB EOWN:  Sharable board exclusively owned.:LabVIEW:  Cannot add resource.
+579277:16513e GPIB EOWN:  Sharable board exclusively owned.:LabVIEW:  Cannot add resource.

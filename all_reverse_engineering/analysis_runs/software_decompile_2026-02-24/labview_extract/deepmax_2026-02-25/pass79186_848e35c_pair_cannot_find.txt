@@ -1,0 +1,3 @@
+52404:1bbf2d Adding log path resource.#Cannot find 'LVSB' resource to save
+52446:1bccf2 !Attempt to use bad index for wire9Segment with index out of range will be deleted from wire"Bad edge will not be added to wire%Cannot find terminal hotpoint in wire
+52510:1bd790 This VI has a bad connection to or cannot find a subVI or external routine, but it has no block diagram to show or fix the error. You must find or correct the subVI or external routine. Check for more information in the Explain... dialog in Get Info.

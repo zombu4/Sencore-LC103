@@ -1,0 +1,30 @@
+101588:4b7300 error code is a numeric error code. If error in indicates an error, the VI ignores error code. If not, the VI tests it. A non-zero value signifies an error.
+101598:4b7731 status is TRUE if an error occurred. If this value is FALSE, then the error handler assumes that no error occurred according to the error in, and then checks the error code.
+101605:4b7949 status is TRUE if an error occurred. If this value is FALSE, then the error handler assumes that no error occurred according to the error in, and then checks the error code.
+260021:22fed8 error code is a numeric error code. If error in indicates an error, the VI ignores error code. If not, the VI tests it. A non-zero value signifies an error.
+260031:230309 status is TRUE if an error occurred. If this value is FALSE, then the error handler assumes that no error occurred according to the error in, and then checks the error code.
+260038:230521 status is TRUE if an error occurred. If this value is FALSE, then the error handler assumes that no error occurred according to the error in, and then checks the error code.
+314009:14daf5 error code is a numeric error code. If error in indicates an error, the VI ignores error code. If not, the VI tests it. A non-zero value signifies an error.
+314019:14df26 status is TRUE if an error occurred. If this value is FALSE, then the error handler assumes that no error occurred according to the error in, and then checks the error code.
+314026:14e13e status is TRUE if an error occurred. If this value is FALSE, then the error handler assumes that no error occurred according to the error in, and then checks the error code.
+340492:ed0d8 error code is a numeric error code. If error in indicates an error, the VI ignores error code. If not, the VI tests it. A non-zero value signifies an error.
+340502:ed509 status is TRUE if an error occurred. If this value is FALSE, then the error handler assumes that no error occurred according to the error in, and then checks the error code.
+340509:ed721 status is TRUE if an error occurred. If this value is FALSE, then the error handler assumes that no error occurred according to the error in, and then checks the error code.
+371458:1838c8 error code is a numeric error code. If error in indicates an error, the VI ignores error code. If not, the VI tests it. A non-zero value signifies an error.
+371471:1840b2 status is TRUE if an error occurred. If this value is FALSE, then the error handler assumes that no error occurred according to the error in, and then checks the error code.
+371475:1842aa status is TRUE if an error occurred. If this value is FALSE, then the error handler assumes that no error occurred according to the error in, and then checks the error code.
+434159:f74eb error code is a numeric error code. If error in indicates an error, the VI ignores error code. If not, the VI tests it. A non-zero value signifies an error.
+434172:f7cd5 status is TRUE if an error occurred. If this value is FALSE, then the error handler assumes that no error occurred according to the error in, and then checks the error code.
+434176:f7ecd status is TRUE if an error occurred. If this value is FALSE, then the error handler assumes that no error occurred according to the error in, and then checks the error code.
+470138:106a6c error code is a numeric error code. If error in indicates an error, the VI ignores error code. If not, the VI tests it. A non-zero value signifies an error.
+470151:107256 status is TRUE if an error occurred. If this value is FALSE, then the error handler assumes that no error occurred according to the error in, and then checks the error code.
+470155:10744e status is TRUE if an error occurred. If this value is FALSE, then the error handler assumes that no error occurred according to the error in, and then checks the error code.
+504209:1e9e3d error code is a numeric error code. If error in indicates an error, the VI ignores error code. If not, the VI tests it. A non-zero value signifies an error.
+504218:1ea345 status is TRUE if an error occurred. If this value is FALSE, then the error handler assumes that no error occurred according to the error in, and then checks the error code.
+504222:1ea596 status is TRUE if an error occurred. If this value is FALSE, then the error handler assumes that no error occurred according to the error in, and then checks the error code.
+546534:f63fb error code is a numeric error code. If error in indicates an error, the VI ignores error code. If not, the VI tests it. A non-zero value signifies an error.
+546547:f6be5 status is TRUE if an error occurred. If this value is FALSE, then the error handler assumes that no error occurred according to the error in, and then checks the error code.
+546551:f6ddd status is TRUE if an error occurred. If this value is FALSE, then the error handler assumes that no error occurred according to the error in, and then checks the error code.
+579628:16dd00 error code is a numeric error code. If error in indicates an error, the VI ignores error code. If not, the VI tests it. A non-zero value signifies an error.
+579637:16e208 status is TRUE if an error occurred. If this value is FALSE, then the error handler assumes that no error occurred according to the error in, and then checks the error code.
+579641:16e459 status is TRUE if an error occurred. If this value is FALSE, then the error handler assumes that no error occurred according to the error in, and then checks the error code.

@@ -1,0 +1,6 @@
+132724:1ef87a ?makeBuffer@tBufferFactory@NIBS100@@UAEPAVtBuffer@2@KKAAJKAAV?$tMemBlockReferenceTemplate@D@@K@Z
+133250:2021ad ?makeMsgDMAIterator@tBufferFactory@@UAEPAVtIterator@@AAVtBuffer@@W4Direction@2@PAV?$tPIMMtemplateBlockReference@D@@P6A?AVu64@@PAX@Z3@Z
+133251:202234 ?makeMsgIterator@tBufferFactory@@UAEPAVtIterator@@AAVtBuffer@@W4Direction@2@PAV?$tPIMMtemplateBlockReference@D@@@Z
+638213:1ef87a ?makeBuffer@tBufferFactory@NIBS100@@UAEPAVtBuffer@2@KKAAJKAAV?$tMemBlockReferenceTemplate@D@@K@Z
+638739:2021ad ?makeMsgDMAIterator@tBufferFactory@@UAEPAVtIterator@@AAVtBuffer@@W4Direction@2@PAV?$tPIMMtemplateBlockReference@D@@P6A?AVu64@@PAX@Z3@Z
+638740:202234 ?makeMsgIterator@tBufferFactory@@UAEPAVtIterator@@AAVtBuffer@@W4Direction@2@PAV?$tPIMMtemplateBlockReference@D@@@Z

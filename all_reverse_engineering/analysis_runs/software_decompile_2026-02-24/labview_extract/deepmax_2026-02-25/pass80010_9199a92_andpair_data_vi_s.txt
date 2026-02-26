@@ -1,0 +1,3 @@
+52365:1bbb43 The "%p" VI's log file binding is corrupt and has been cleared.  To restore the VI's log file binding, open the VI and select the File->Data Logging->Change Log File Binding... menu item.
+52414:1bc277 Could not load default data.+Could not load data space link information.%Could not load VI's link information.&Could not load LVSB platform resource.6Demonstration versions of LabVIEW cannot load this VI.
+52537:1bf15c The subVI is currently in interactive retrieval mode for datalogging, so this VI cannot use it to run. Open the subVI's front panel and change back to edit or run mode.

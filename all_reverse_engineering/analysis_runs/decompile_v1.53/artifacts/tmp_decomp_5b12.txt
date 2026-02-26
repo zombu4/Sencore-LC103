@@ -1,0 +1,33 @@
+===== FUN_CODE_5b12 @CODE:5b12 =====
+
+void FUN_CODE_5b12(undefined1 param_1,undefined1 *param_2,undefined1 param_3)
+
+{
+  byte bVar1;
+  
+  *param_2 = param_1;
+  param_2[1] = param_3;
+  bVar1 = 0x80 - (((~DAT_EXTMEM_8a45 < 8) << 7) >> 7);
+  if ((~DAT_EXTMEM_8a44 ^ 0x80) < bVar1) {
+    FUN_CODE_5601((~DAT_EXTMEM_8a44 ^ 0x80) - bVar1);
+    return;
+  }
+  if (0x80U - (((~DAT_EXTMEM_8a45 < 0x80) << 7) >> 7) <= (~DAT_EXTMEM_8a44 ^ 0x80)) {
+    if (_1_2 != '\x01') {
+      bVar1 = DAT_EXTMEM_8a42;
+      if (DAT_EXTMEM_8a42 == 0) {
+        bVar1 = DAT_EXTMEM_8a43 ^ 1;
+      }
+      if (bVar1 != 0) {
+        return;
+      }
+    }
+    FUN_CODE_5b8b(DAT_EXTMEM_8a43);
+    return;
+  }
+  FUN_CODE_57e8(DAT_EXTMEM_8a43);
+  return;
+}
+
+
+

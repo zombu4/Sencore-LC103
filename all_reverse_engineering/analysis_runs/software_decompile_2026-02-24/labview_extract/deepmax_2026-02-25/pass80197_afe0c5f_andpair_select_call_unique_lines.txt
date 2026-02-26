@@ -1,0 +1,6 @@
+52474:1bd25d unwired selector,too many diagrams for Boolean Case structure6wrong number of diagrams for enumerated case structure:subroutine priority VI cannot contain an asynchronous nodeBsubroutine priority VI cannot call a non-subroutine priority subVI
+52539:1bf374 There is no library specified for this node. Pop up on the Call Library Function node and select Configure..., then choose a library name or path.
+52540:1bf407 There is no function name specified for this node. Pop up on the Call Library Function node and select Configure..., then choose a function name.
+52541:1bf499 The library specified for this node cannot be found. Pop up on the Call Library Function node and select Configure..., then choose the correct library name or path.
+52543:1bf662 This platform does not support the current return type. For example, the return type of a 16-bit DLL function may not be a floating point number. Pop up on the Call Library Function node and select Configure... to set the return type.
+52544:1bf74d This platform does not support the type of one of the function parameters. Pop up on the Call Library Function node and select Configure... to set a valid type.

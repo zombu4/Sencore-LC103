@@ -1,0 +1,20 @@
+!!!Set Pass/Fail Button to invisibleH
+!!!Set Pass/Fail Button to invisibled
+!!!Set Pass/Fail button to invisibleW
+!Set Pass/Fail Button to invisibled
+!Set Pass/Fail button to invisibleW
+###Wait for start button to be clickedb
+#Wait for start button to be clickedb
+$$$Do next test if previous test passedW
+$$$Do next test if previous test passeda
+$$$Do next test if previous test passedb
+$$$Do next test if previous test passedn
+$Do next test if previous test passedW
+,,-Set Pass/ Fail Indicator and make it visible V
+,,-Set Pass/ Fail Indicator and make it visible m
+-Set Pass/ Fail Indicator and make it visible V
+6) Press ENTER when ready, choose test to perform and press START.
+6) Press ENTER when ready, choose test to perform and press START.H
+6) Press ENTER when ready, choose test to perform and press START.S
+6) Press ENTER when ready, choose test to perform and press START.[
+Press READY when previous step is complete.

@@ -1,0 +1,738 @@
+<?xml version='1.0' encoding='utf-8'?>
+<RSRC FormatVersion="3" Type="LVIN" Encoding="mac_roman" Int1="0xEC4E2400" Int2="0x0021C898">
+  <RSID>
+    <!-- Generic block -->
+    <Section Index="0" Name="Capacitance testII.vi" Int5="0x4C172400" Format="bin" File="Capacitance testII_RSID.bin" />
+    </RSID>
+  <TRec>
+    <!-- Type Descriptor Record -->
+    <Section Index="2" Int5="0x301A2400" Format="bin" File="Capacitance testII_TRec2.bin" />
+    <Section Index="3" Int5="0x54172400" Format="bin" File="Capacitance testII_TRec3.bin" />
+    <Section Index="4" Int5="0x60172400" Format="bin" File="Capacitance testII_TRec4.bin" />
+    <Section Index="5" Int5="0x881A2400" Format="bin" File="Capacitance testII_TRec5.bin" />
+    <Section Index="6" Int5="0x5C172400" Format="bin" File="Capacitance testII_TRec6.bin" />
+    <Section Index="7" Int5="0x64172400" Format="bin" File="Capacitance testII_TRec7.bin" />
+    <Section Index="8" Int5="0x841A2400" Format="bin" File="Capacitance testII_TRec8.bin" />
+    <Section Index="9" Int5="0x6C172400" Format="bin" File="Capacitance testII_TRec9.bin" />
+    <Section Index="10" Int5="0xB0182400" Format="bin" File="Capacitance testII_TRec10.bin" />
+    <Section Index="11" Int5="0xB81A2400" Format="bin" File="Capacitance testII_TRec11.bin" />
+    <Section Index="12" Int5="0x68172400" Format="bin" File="Capacitance testII_TRec12.bin" />
+    <Section Index="13" Int5="0x74172400" Format="bin" File="Capacitance testII_TRec13.bin" />
+    <Section Index="14" Int5="0x101B2400" Format="bin" File="Capacitance testII_TRec14.bin" />
+    <Section Index="15" Int5="0x70172400" Format="bin" File="Capacitance testII_TRec15.bin" />
+    <Section Index="16" Int5="0x7C172400" Format="bin" File="Capacitance testII_TRec16.bin" />
+    <Section Index="17" Int5="0x0C1B2400" Format="bin" File="Capacitance testII_TRec17.bin" />
+    <Section Index="18" Int5="0x80172400" Format="bin" File="Capacitance testII_TRec18.bin" />
+    <Section Index="19" Int5="0x78172400" Format="bin" File="Capacitance testII_TRec19.bin" />
+    <Section Index="20" Int5="0x081B2400" Format="bin" File="Capacitance testII_TRec20.bin" />
+    <Section Index="21" Int5="0x88172400" Format="bin" File="Capacitance testII_TRec21.bin" />
+    <Section Index="22" Int5="0x041B2400" Format="bin" File="Capacitance testII_TRec22.bin" />
+    <Section Index="23" Int5="0x94172400" Format="bin" File="Capacitance testII_TRec23.bin" />
+    <Section Index="24" Int5="0x8C172400" Format="bin" File="Capacitance testII_TRec24.bin" />
+    <Section Index="25" Int5="0x001B2400" Format="bin" File="Capacitance testII_TRec25.bin" />
+    <Section Index="26" Int5="0x90172400" Format="bin" File="Capacitance testII_TRec26.bin" />
+    <Section Index="27" Int5="0x9C172400" Format="bin" File="Capacitance testII_TRec27.bin" />
+    <Section Index="28" Int5="0xFC1A2400" Format="bin" File="Capacitance testII_TRec28.bin" />
+    <Section Index="29" Int5="0xA0172400" Format="bin" File="Capacitance testII_TRec29.bin" />
+    <Section Index="30" Int5="0xAC172400" Format="bin" File="Capacitance testII_TRec30.bin" />
+    <Section Index="31" Int5="0x781A2400" Format="bin" File="Capacitance testII_TRec31.bin" />
+    <Section Index="32" Int5="0xA8172400" Format="bin" File="Capacitance testII_TRec32.bin" />
+    <Section Index="33" Int5="0x94152400" Format="bin" File="Capacitance testII_TRec33.bin" />
+    <Section Index="34" Int5="0x0C1A2400" Format="bin" File="Capacitance testII_TRec34.bin" />
+    <Section Index="35" Int5="0x40162400" Format="bin" File="Capacitance testII_TRec35.bin" />
+    <Section Index="36" Int5="0xF4172400" Format="bin" File="Capacitance testII_TRec36.bin" />
+    <Section Index="37" Int5="0xA01A2400" Format="bin" File="Capacitance testII_TRec37.bin" />
+    <Section Index="38" Int5="0x8C152400" Format="bin" File="Capacitance testII_TRec38.bin" />
+    <Section Index="39" Int5="0x98152400" Format="bin" File="Capacitance testII_TRec39.bin" />
+    <Section Index="40" Int5="0x101A2400" Format="bin" File="Capacitance testII_TRec40.bin" />
+    <Section Index="41" Int5="0x9C152400" Format="bin" File="Capacitance testII_TRec41.bin" />
+    <Section Index="42" Int5="0x84152400" Format="bin" File="Capacitance testII_TRec42.bin" />
+    <Section Index="43" Int5="0x141A2400" Format="bin" File="Capacitance testII_TRec43.bin" />
+    <Section Index="44" Int5="0xA4152400" Format="bin" File="Capacitance testII_TRec44.bin" />
+    <Section Index="45" Int5="0xA0152400" Format="bin" File="Capacitance testII_TRec45.bin" />
+    <Section Index="46" Int5="0x181A2400" Format="bin" File="Capacitance testII_TRec46.bin" />
+    <Section Index="47" Int5="0xA8152400" Format="bin" File="Capacitance testII_TRec47.bin" />
+    <Section Index="48" Int5="0xB0172400" Format="bin" File="Capacitance testII_TRec48.bin" />
+    <Section Index="49" Int5="0x1C1A2400" Format="bin" File="Capacitance testII_TRec49.bin" />
+    <Section Index="50" Int5="0xAC152400" Format="bin" File="Capacitance testII_TRec50.bin" />
+    <Section Index="51" Int5="0x30182400" Format="bin" File="Capacitance testII_TRec51.bin" />
+    <Section Index="52" Int5="0x341A2400" Format="bin" File="Capacitance testII_TRec52.bin" />
+    <Section Index="53" Int5="0x54182400" Format="bin" File="Capacitance testII_TRec53.bin" />
+    <Section Index="54" Int5="0xB0152400" Format="bin" File="Capacitance testII_TRec54.bin" />
+    <Section Index="56" Int5="0xA41A2400" Format="bin" File="Capacitance testII_TRec56.bin" />
+    <Section Index="57" Int5="0xB8172400" Format="bin" File="Capacitance testII_TRec57.bin" />
+    <Section Index="58" Int5="0xB8152400" Format="bin" File="Capacitance testII_TRec58.bin" />
+    <Section Index="59" Int5="0x381A2400" Format="bin" File="Capacitance testII_TRec59.bin" />
+    <Section Index="60" Int5="0xE8172400" Format="bin" File="Capacitance testII_TRec60.bin" />
+    <Section Index="61" Int5="0x48182400" Format="bin" File="Capacitance testII_TRec61.bin" />
+    <Section Index="62" Int5="0x281B2400" Format="bin" File="Capacitance testII_TRec62.bin" />
+    <Section Index="63" Int5="0x70182400" Format="bin" File="Capacitance testII_TRec63.bin" />
+    <Section Index="64" Int5="0xC0152400" Format="bin" File="Capacitance testII_TRec64.bin" />
+    <Section Index="65" Int5="0x2C1B2400" Format="bin" File="Capacitance testII_TRec65.bin" />
+    <Section Index="66" Int5="0x3C162400" Format="bin" File="Capacitance testII_TRec66.bin" />
+    <Section Index="67" Int5="0xB4152400" Format="bin" File="Capacitance testII_TRec67.bin" />
+    <Section Index="68" Int5="0x301B2400" Format="bin" File="Capacitance testII_TRec68.bin" />
+    <Section Index="69" Int5="0x50162400" Format="bin" File="Capacitance testII_TRec69.bin" />
+    <Section Index="70" Int5="0xB4172400" Format="bin" File="Capacitance testII_TRec70.bin" />
+    <Section Index="71" Int5="0x341B2400" Format="bin" File="Capacitance testII_TRec71.bin" />
+    <Section Index="72" Int5="0x58162400" Format="bin" File="Capacitance testII_TRec72.bin" />
+    <Section Index="73" Int5="0xE4172400" Format="bin" File="Capacitance testII_TRec73.bin" />
+    <Section Index="74" Int5="0x801A2400" Format="bin" File="Capacitance testII_TRec74.bin" />
+    </TRec>
+  <LIfp>
+    <!-- LinkObj Refs for Front Panel -->
+    <Section Index="0" Name="Capacitance testII.vi" Int5="0x84172400" Format="inline">
+      <FPHP Unk1="Capacitance testII.vi" Unk2="" />
+      </Section>
+    </LIfp>
+  <FPHP>
+    <!-- Front Panel Heap -->
+    <Section Index="0" Name="Capacitance testII.vi" Int5="0x00000000" Format="bin" File="Capacitance testII_FPHP.bin" />
+    </FPHP>
+  <STRG>
+    <!-- String description / descriptions list -->
+    <Section Index="0" Name="Capacitance testII.vi" Int5="0x00000000" Format="inline" />
+    <Section Index="55" Int5="0x00000000" Format="inline">
+      <String EOLN="LF">
+        <Chunk>ass = True</Chunk>
+        <Chunk>Fail = False</Chunk>
+        </String>
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      <String />
+      </Section>
+    </STRG>
+  <LIbd>
+    <!-- LinkObj Refs for Block diagram -->
+    <Section Index="0" Name="Capacitance testII.vi" Int5="0x4C162400" Format="inline">
+      <BDHP Unk1="Capacitance testII.vi" Unk2="">
+        <!--  VI To StdVI Link Object Ref  -->
+        <LVIN LinkSaveFlag="0" VILinkLibVersion="0" VILinkFieldA="0" VILinkField4="1" VILinkFieldB="" VILinkFieldC="" VILinkFieldD="0" TypedLinkFlags="0">
+          <LinkSaveQualName>
+            <String>Status_Glob.vi</String>
+            </LinkSaveQualName>
+          <LinkSavePathRef Ident="PTH0" TpVal="0" ZeroFill="True" />
+          <TypeDesc />
+          <TypedLinkOffsetList>
+            <Offset>0x19F4</Offset>
+            <Offset>0x4660</Offset>
+            <Offset>0xC768</Offset>
+            <Offset>0xD068</Offset>
+            <Offset>0x5104</Offset>
+            <Offset>0x77A4</Offset>
+            </TypedLinkOffsetList>
+          </LVIN>
+        <!--  VI To StdVI Link Object Ref  -->
+        <LVIN LinkSaveFlag="0" VILinkLibVersion="0" VILinkFieldA="0" VILinkField4="1" VILinkFieldB="" VILinkFieldC="" VILinkFieldD="0" TypedLinkFlags="0">
+          <LinkSaveQualName>
+            <String>DIO table for main board test.vi</String>
+            </LinkSaveQualName>
+          <LinkSavePathRef Ident="PTH0" TpVal="0" ZeroFill="True" />
+          <TypeDesc />
+          <TypedLinkOffsetList>
+            <Offset>0x16A4</Offset>
+            </TypedLinkOffsetList>
+          </LVIN>
+        <!--  VI To StdVI Link Object Ref  -->
+        <LVIN LinkSaveFlag="0" VILinkLibVersion="0" VILinkFieldA="0" VILinkField4="1" VILinkFieldB="" VILinkFieldC="" VILinkFieldD="0" TypedLinkFlags="0">
+          <LinkSaveQualName>
+            <String>DIO_R-W.VI</String>
+            </LinkSaveQualName>
+          <LinkSavePathRef Ident="PTH0" TpVal="0" ZeroFill="True" />
+          <TypeDesc />
+          <TypedLinkOffsetList>
+            <Offset>0x3368</Offset>
+            </TypedLinkOffsetList>
+          </LVIN>
+        <!--  VI To StdVI Link Object Ref  -->
+        <LVIN LinkSaveFlag="0" VILinkLibVersion="0" VILinkFieldA="0" VILinkField4="1" VILinkFieldB="" VILinkFieldC="" VILinkFieldD="0" TypedLinkFlags="0">
+          <LinkSaveQualName>
+            <String>P/F_Glob.vi</String>
+            </LinkSaveQualName>
+          <LinkSavePathRef Ident="PTH0" TpVal="0" ZeroFill="True" />
+          <TypeDesc />
+          <TypedLinkOffsetList>
+            <Offset>0x4C00</Offset>
+            <Offset>0x78C8</Offset>
+            <Offset>0x4244</Offset>
+            <Offset>0x8B28</Offset>
+            </TypedLinkOffsetList>
+          </LVIN>
+        <!--  VI To StdVI Link Object Ref  -->
+        <LVIN LinkSaveFlag="0" VILinkLibVersion="0" VILinkFieldA="0" VILinkField4="1" VILinkFieldB="" VILinkFieldC="" VILinkFieldD="0" TypedLinkFlags="0">
+          <LinkSaveQualName>
+            <String>SETLD_RD.VI</String>
+            </LinkSaveQualName>
+          <LinkSavePathRef Ident="PTH0" TpVal="0" ZeroFill="True" />
+          <TypeDesc />
+          <TypedLinkOffsetList>
+            <Offset>0xB814</Offset>
+            </TypedLinkOffsetList>
+          </LVIN>
+        <!--  VI To StdVI Link Object Ref  -->
+        <LVIN LinkSaveFlag="0" VILinkLibVersion="0" VILinkFieldA="0" VILinkField4="1" VILinkFieldB="" VILinkFieldC="" VILinkFieldD="0" TypedLinkFlags="0">
+          <LinkSaveQualName>
+            <String>UUT Comm.vi</String>
+            </LinkSaveQualName>
+          <LinkSavePathRef Ident="PTH0" TpVal="0" ZeroFill="True" />
+          <TypeDesc />
+          <TypedLinkOffsetList>
+            <Offset>0x9094</Offset>
+            </TypedLinkOffsetList>
+          </LVIN>
+        </BDHP>
+      </Section>
+    </LIbd>
+  <BDHP>
+    <!-- Block Diagram Heap -->
+    <Section Index="0" Name="Capacitance testII.vi" Int5="0x00000000" Format="bin" File="Capacitance testII_BDHP.bin" />
+    </BDHP>
+  <VICD>
+    <!-- Virtual Instrument Compiled Data / VI Code -->
+    <Section Index="0" Name="Capacitance testII.vi" Int5="0x00000000" Format="inline">
+      <General CodeID="i386" CodeFlags="0x0" Version="0x0" CompilerOptimizationLevel="0" />
+      <Code InitProcOffset="0x2B17" NumberOfBasicBlocks="0" HostCodeEntryVI="0x0" SignatureName="0x0" Format="bin" File="Capacitance testII_VICD_code.bin" />
+      <Patches PaddedSize="1940" Type="LVRT" Format="inline">
+        <Patch Offset="0x0016" Ident="0xfffffffb" />
+        <Patch Offset="0x0040" Ident="0x0302" />
+        <Patch Offset="0x0056" Ident="0xfffffffb" />
+        <Patch Offset="0x0077" Ident="0x030f" />
+        <Patch Offset="0x00d4" Ident="0x02cb" />
+        <Patch Offset="0x0110" Ident="0x031a" />
+        <Patch Offset="0x01cb" Ident="0x0307" />
+        <Patch Offset="0x020b" Ident="0x030c" />
+        <Patch Offset="0x02d4" Ident="0x030a" />
+        <Patch Offset="0x02f1" Ident="0x0302" />
+        <Patch Offset="0x038c" Ident="0x030a" />
+        <Patch Offset="0x03a9" Ident="0x0302" />
+        <Patch Offset="0x0401" Ident="0x0067" />
+        <Patch Offset="0x0468" Ident="0x030a" />
+        <Patch Offset="0x0485" Ident="0x0302" />
+        <Patch Offset="0x04dd" Ident="0x0067" />
+        <Patch Offset="0x0544" Ident="0x030a" />
+        <Patch Offset="0x0561" Ident="0x0302" />
+        <Patch Offset="0x05b8" Ident="0x030a" />
+        <Patch Offset="0x05d5" Ident="0x0302" />
+        <Patch Offset="0x062c" Ident="0x030a" />
+        <Patch Offset="0x0649" Ident="0x0302" />
+        <Patch Offset="0x068b" Ident="0x030a" />
+        <Patch Offset="0x06a8" Ident="0x0302" />
+        <Patch Offset="0x06ea" Ident="0x030a" />
+        <Patch Offset="0x0707" Ident="0x0302" />
+        <Patch Offset="0x0752" Ident="0x030a" />
+        <Patch Offset="0x076f" Ident="0x0302" />
+        <Patch Offset="0x07ba" Ident="0x030a" />
+        <Patch Offset="0x07d7" Ident="0x0302" />
+        <Patch Offset="0x0824" Ident="0x030a" />
+        <Patch Offset="0x0841" Ident="0x0302" />
+        <Patch Offset="0x088e" Ident="0x030a" />
+        <Patch Offset="0x08ab" Ident="0x0302" />
+        <Patch Offset="0x091e" Ident="0x030a" />
+        <Patch Offset="0x093b" Ident="0x0302" />
+        <Patch Offset="0x09bb" Ident="0x030a" />
+        <Patch Offset="0x09d8" Ident="0x0302" />
+        <Patch Offset="0x0a73" Ident="0x030a" />
+        <Patch Offset="0x0a90" Ident="0x0302" />
+        <Patch Offset="0x0ae7" Ident="0x030a" />
+        <Patch Offset="0x0b04" Ident="0x0302" />
+        <Patch Offset="0x0b5b" Ident="0x030a" />
+        <Patch Offset="0x0b78" Ident="0x0302" />
+        <Patch Offset="0x0bcc" Ident="0x030a" />
+        <Patch Offset="0x0be9" Ident="0x0302" />
+        <Patch Offset="0x0c34" Ident="0x030a" />
+        <Patch Offset="0x0c51" Ident="0x0302" />
+        <Patch Offset="0x0c9e" Ident="0x030a" />
+        <Patch Offset="0x0cbb" Ident="0x0302" />
+        <Patch Offset="0x0ced" Ident="0x031a" />
+        <Patch Offset="0x0d2f" Ident="0x031a" />
+        <Patch Offset="0x0d7f" Ident="0x030a" />
+        <Patch Offset="0x0d9c" Ident="0x0302" />
+        <Patch Offset="0x0dce" Ident="0x031a" />
+        <Patch Offset="0x0e10" Ident="0x031a" />
+        <Patch Offset="0x0e5b" Ident="0x030a" />
+        <Patch Offset="0x0e78" Ident="0x0302" />
+        <Patch Offset="0x0ec5" Ident="0x030a" />
+        <Patch Offset="0x0ee2" Ident="0x0302" />
+        <Patch Offset="0x0f22" Ident="0x030a" />
+        <Patch Offset="0x0f3f" Ident="0x0302" />
+        <Patch Offset="0x101c" Ident="0x030a" />
+        <Patch Offset="0x1039" Ident="0x0302" />
+        <Patch Offset="0x10d4" Ident="0x030a" />
+        <Patch Offset="0x10f1" Ident="0x0302" />
+        <Patch Offset="0x1153" Ident="0x031a" />
+        <Patch Offset="0x1197" Ident="0x031a" />
+        <Patch Offset="0x11df" Ident="0x030a" />
+        <Patch Offset="0x11fc" Ident="0x0302" />
+        <Patch Offset="0x1267" Ident="0x0139" />
+        <Patch Offset="0x1291" Ident="0x013f" />
+        <Patch Offset="0x12e5" Ident="0x030a" />
+        <Patch Offset="0x1302" Ident="0x0302" />
+        <Patch Offset="0x139d" Ident="0x030a" />
+        <Patch Offset="0x13ba" Ident="0x0302" />
+        <Patch Offset="0x13dd" Ident="0x0442" />
+        <Patch Offset="0x1418" Ident="0x030a" />
+        <Patch Offset="0x1435" Ident="0x0302" />
+        <Patch Offset="0x1482" Ident="0x030a" />
+        <Patch Offset="0x149f" Ident="0x0302" />
+        <Patch Offset="0x14e8" Ident="0x030a" />
+        <Patch Offset="0x1505" Ident="0x0302" />
+        <Patch Offset="0x1575" Ident="0x030a" />
+        <Patch Offset="0x1592" Ident="0x0302" />
+        <Patch Offset="0x15f5" Ident="0x030a" />
+        <Patch Offset="0x1612" Ident="0x0302" />
+        <Patch Offset="0x1635" Ident="0x0442" />
+        <Patch Offset="0x1668" Ident="0x030a" />
+        <Patch Offset="0x1685" Ident="0x0302" />
+        <Patch Offset="0x16c0" Ident="0x030a" />
+        <Patch Offset="0x16dd" Ident="0x0302" />
+        <Patch Offset="0x1700" Ident="0x0442" />
+        <Patch Offset="0x17ac" Ident="0x030a" />
+        <Patch Offset="0x17c9" Ident="0x0302" />
+        <Patch Offset="0x1888" Ident="0x030a" />
+        <Patch Offset="0x18a5" Ident="0x0302" />
+        <Patch Offset="0x18f3" Ident="0x030a" />
+        <Patch Offset="0x1910" Ident="0x0302" />
+        <Patch Offset="0x195e" Ident="0x030a" />
+        <Patch Offset="0x197b" Ident="0x0302" />
+        <Patch Offset="0x19c9" Ident="0x030a" />
+        <Patch Offset="0x19e6" Ident="0x0302" />
+        <Patch Offset="0x1a22" Ident="0x031a" />
+        <Patch Offset="0x1a6d" Ident="0x030a" />
+        <Patch Offset="0x1a8a" Ident="0x0302" />
+        <Patch Offset="0x1aef" Ident="0x030a" />
+        <Patch Offset="0x1b0c" Ident="0x0302" />
+        <Patch Offset="0x1b6f" Ident="0x030a" />
+        <Patch Offset="0x1b8c" Ident="0x0302" />
+        <Patch Offset="0x1bd7" Ident="0x030a" />
+        <Patch Offset="0x1bf4" Ident="0x0302" />
+        <Patch Offset="0x1c17" Ident="0x0442" />
+        <Patch Offset="0x1c69" Ident="0x030a" />
+        <Patch Offset="0x1c86" Ident="0x0302" />
+        <Patch Offset="0x1d45" Ident="0x030a" />
+        <Patch Offset="0x1d62" Ident="0x0302" />
+        <Patch Offset="0x1daf" Ident="0x030a" />
+        <Patch Offset="0x1dcc" Ident="0x0302" />
+        <Patch Offset="0x1e67" Ident="0x030a" />
+        <Patch Offset="0x1e84" Ident="0x0302" />
+        <Patch Offset="0x1f1f" Ident="0x030a" />
+        <Patch Offset="0x1f3c" Ident="0x0302" />
+        <Patch Offset="0x1fa7" Ident="0x0139" />
+        <Patch Offset="0x1fd1" Ident="0x013f" />
+        <Patch Offset="0x2025" Ident="0x030a" />
+        <Patch Offset="0x2042" Ident="0x0302" />
+        <Patch Offset="0x20dd" Ident="0x030a" />
+        <Patch Offset="0x20fa" Ident="0x0302" />
+        <Patch Offset="0x211d" Ident="0x0442" />
+        <Patch Offset="0x2150" Ident="0x030a" />
+        <Patch Offset="0x216d" Ident="0x0302" />
+        <Patch Offset="0x2208" Ident="0x030a" />
+        <Patch Offset="0x2225" Ident="0x0302" />
+        <Patch Offset="0x22c0" Ident="0x030a" />
+        <Patch Offset="0x22dd" Ident="0x0302" />
+        <Patch Offset="0x2320" Ident="0x031a" />
+        <Patch Offset="0x2343" Ident="0x031a" />
+        <Patch Offset="0x238e" Ident="0x030a" />
+        <Patch Offset="0x23ab" Ident="0x0302" />
+        <Patch Offset="0x240b" Ident="0x0139" />
+        <Patch Offset="0x2435" Ident="0x013f" />
+        <Patch Offset="0x2489" Ident="0x030a" />
+        <Patch Offset="0x24a6" Ident="0x0302" />
+        <Patch Offset="0x2541" Ident="0x030a" />
+        <Patch Offset="0x255e" Ident="0x0302" />
+        <Patch Offset="0x2581" Ident="0x0442" />
+        <Patch Offset="0x25af" Ident="0x030a" />
+        <Patch Offset="0x25cc" Ident="0x0302" />
+        <Patch Offset="0x25ef" Ident="0x0442" />
+        <Patch Offset="0x2614" Ident="0x031a" />
+        <Patch Offset="0x265f" Ident="0x030a" />
+        <Patch Offset="0x267c" Ident="0x0302" />
+        <Patch Offset="0x26df" Ident="0x030a" />
+        <Patch Offset="0x26fc" Ident="0x0302" />
+        <Patch Offset="0x271f" Ident="0x0442" />
+        <Patch Offset="0x274d" Ident="0x030a" />
+        <Patch Offset="0x276a" Ident="0x0302" />
+        <Patch Offset="0x278d" Ident="0x0442" />
+        <Patch Offset="0x27bb" Ident="0x030a" />
+        <Patch Offset="0x27d8" Ident="0x0302" />
+        <Patch Offset="0x27fb" Ident="0x0442" />
+        <Patch Offset="0x2849" Ident="0x030a" />
+        <Patch Offset="0x2866" Ident="0x0302" />
+        <Patch Offset="0x2889" Ident="0x0442" />
+        <Patch Offset="0x28d7" Ident="0x030a" />
+        <Patch Offset="0x28f4" Ident="0x0302" />
+        <Patch Offset="0x2917" Ident="0x0442" />
+        <Patch Offset="0x2945" Ident="0x030a" />
+        <Patch Offset="0x2962" Ident="0x0302" />
+        <Patch Offset="0x29a8" Ident="0x0307" />
+        <Patch Offset="0x29d9" Ident="0x030c" />
+        <Patch Offset="0x2a5c" Ident="0x0306" />
+        <Patch Offset="0x2a85" Ident="0x0310" />
+        <Patch Offset="0x2aa7" Ident="0xfffffffb" />
+        <Patch Offset="0x2ab8" Ident="0x0300" />
+        <Patch Offset="0x2b03" Ident="0x0301" />
+        <Patch Offset="0x2bb4" Ident="0x0411" />
+        <Patch Offset="0x2c01" Ident="0x0305" />
+        <Patch Offset="0x2c73" Ident="0x0303" />
+        <Patch Offset="0x2c84" Ident="0x030b" />
+        <Patch Offset="0x2cd8" Ident="0x0312" />
+        <Patch Offset="0x2d22" Ident="0x0312" />
+        <Patch Offset="0x2d6c" Ident="0x0312" />
+        <Patch Offset="0x2db6" Ident="0x0312" />
+        <Patch Offset="0x2dc6" Ident="0x0304" />
+        <Patch Offset="0x2de5" Ident="0x0300" />
+        <Patch Offset="0x2e2b" Ident="0x0301" />
+        <Patch Offset="0x2eb6" Ident="0x0309" />
+        <Patch Offset="0x2ec5" Ident="0x037d" />
+        <Patch Offset="0x2ff0" Ident="0x0411" />
+        <Patch Offset="0x3063" Ident="0x0411" />
+        <Patch Offset="0x307e" Ident="0x02cb" />
+        <Patch Offset="0x30ba" Ident="0x031a" />
+        <Patch Offset="0x30f7" Ident="0x02cb" />
+        <Patch Offset="0x3133" Ident="0x031a" />
+        <Patch Offset="0x3168" Ident="0x031a" />
+        <Patch Offset="0x3189" Ident="0x02cd" />
+        <Patch Offset="0x31c7" Ident="0x013f" />
+        <Patch Offset="0x31f4" Ident="0x02cb" />
+        <Patch Offset="0x3230" Ident="0x031a" />
+        <Patch Offset="0x32cd" Ident="0x0411" />
+        <Patch Offset="0x3325" Ident="0x0308" />
+        <Patch Offset="0x334c" Ident="0x02cb" />
+        <Patch Offset="0x3388" Ident="0x031a" />
+        <Patch Offset="0x33d4" Ident="0x02cb" />
+        <Patch Offset="0x3432" Ident="0x0308" />
+        <Patch Offset="0x3459" Ident="0x02cb" />
+        <Patch Offset="0x3495" Ident="0x031a" />
+        <Patch Offset="0x34e1" Ident="0x02cb" />
+        <Patch Offset="0x353f" Ident="0x0308" />
+        <Patch Offset="0x355e" Ident="0x031a" />
+        <Patch Offset="0x3584" Ident="0x031a" />
+        <Patch Offset="0x35e2" Ident="0x0308" />
+        <Patch Offset="0x360b" Ident="0x02cd" />
+        <Patch Offset="0x3649" Ident="0x013f" />
+        <Patch Offset="0x3687" Ident="0x02cd" />
+        <Patch Offset="0x36e5" Ident="0x0308" />
+        <Patch Offset="0x370c" Ident="0x02cb" />
+        <Patch Offset="0x3748" Ident="0x031a" />
+        <Patch Offset="0x3794" Ident="0x02cb" />
+        <Patch Offset="0x37f2" Ident="0x0308" />
+        <Patch Offset="0x3879" Ident="0x0411" />
+        <Patch Offset="0x38b8" Ident="0x02cb" />
+        <Patch Offset="0x38f4" Ident="0x031a" />
+        <Patch Offset="0x394d" Ident="0x02cb" />
+        <Patch Offset="0x3989" Ident="0x031a" />
+        <Patch Offset="0x39ea" Ident="0x02cb" />
+        <Patch Offset="0x3a26" Ident="0x031a" />
+        <Patch Offset="0x3a7f" Ident="0x02cb" />
+        <Patch Offset="0x3abb" Ident="0x031a" />
+        <Patch Offset="0x3b14" Ident="0x031a" />
+        <Patch Offset="0x3b47" Ident="0x031a" />
+        <Patch Offset="0x3b8c" Ident="0x02cd" />
+        <Patch Offset="0x3bca" Ident="0x013f" />
+        <Patch Offset="0x3c15" Ident="0x02cd" />
+        <Patch Offset="0x3c53" Ident="0x013f" />
+        <Patch Offset="0x3ca4" Ident="0x02cb" />
+        <Patch Offset="0x3ce0" Ident="0x031a" />
+        <Patch Offset="0x3d39" Ident="0x02cb" />
+        <Patch Offset="0x3d75" Ident="0x031a" />
+        <Patch Offset="0x3e51" Ident="0x0411" />
+        </Patches>
+      </Section>
+    </VICD>
+  <CPTM>
+    <!-- Connector Pane Type Map -->
+    <Section Index="0" Name="Capacitance testII.vi" Int5="0x00000000" Format="bin" File="Capacitance testII_CPTM.bin" />
+    </CPTM>
+  <LIds>
+    <!-- LinkObj Refs for Data Space -->
+    <Section Index="0" Name="Capacitance testII.vi" Int5="0x40182400" Format="inline">
+      <VIDS Unk1="Capacitance testII.vi" Unk2="">
+        <!--  DS To DS Link Object Ref  -->
+        <VIDS LinkSaveFlag="0" VILinkLibVersion="0" VILinkFieldA="0" VILinkField4="1" VILinkFieldB="" VILinkFieldC="" VILinkFieldD="0" TypedLinkFlags="0">
+          <LinkSaveQualName>
+            <String>UUT Comm.vi</String>
+            </LinkSaveQualName>
+          <LinkSavePathRef Ident="PTH0" TpVal="0" ZeroFill="True" />
+          <TypeDesc />
+          <TypedLinkOffsetList>
+            <Offset>0x0471</Offset>
+            </TypedLinkOffsetList>
+          <LinkOffsetList />
+          <DSOffsetList />
+          </VIDS>
+        <!--  DS To DS Link Object Ref  -->
+        <VIDS LinkSaveFlag="0" VILinkLibVersion="0" VILinkFieldA="0" VILinkField4="1" VILinkFieldB="" VILinkFieldC="" VILinkFieldD="0" TypedLinkFlags="0">
+          <LinkSaveQualName>
+            <String>Status_Glob.vi</String>
+            </LinkSaveQualName>
+          <LinkSavePathRef Ident="PTH0" TpVal="0" ZeroFill="True" />
+          <TypeDesc />
+          <TypedLinkOffsetList>
+            <Offset>0x0425</Offset>
+            <Offset>0x041D</Offset>
+            <Offset>0x0419</Offset>
+            <Offset>0x0411</Offset>
+            <Offset>0x0339</Offset>
+            <Offset>0x0335</Offset>
+            </TypedLinkOffsetList>
+          <LinkOffsetList />
+          <DSOffsetList />
+          </VIDS>
+        <!--  DS To DS Link Object Ref  -->
+        <VIDS LinkSaveFlag="0" VILinkLibVersion="0" VILinkFieldA="0" VILinkField4="1" VILinkFieldB="" VILinkFieldC="" VILinkFieldD="0" TypedLinkFlags="0">
+          <LinkSaveQualName>
+            <String>SETLD_RD.VI</String>
+            </LinkSaveQualName>
+          <LinkSavePathRef Ident="PTH0" TpVal="0" ZeroFill="True" />
+          <TypeDesc />
+          <TypedLinkOffsetList>
+            <Offset>0x040D</Offset>
+            </TypedLinkOffsetList>
+          <LinkOffsetList />
+          <DSOffsetList />
+          </VIDS>
+        <!--  DS To DS Link Object Ref  -->
+        <VIDS LinkSaveFlag="0" VILinkLibVersion="0" VILinkFieldA="0" VILinkField4="1" VILinkFieldB="" VILinkFieldC="" VILinkFieldD="0" TypedLinkFlags="0">
+          <LinkSaveQualName>
+            <String>P/F_Glob.vi</String>
+            </LinkSaveQualName>
+          <LinkSavePathRef Ident="PTH0" TpVal="0" ZeroFill="True" />
+          <TypeDesc />
+          <TypedLinkOffsetList>
+            <Offset>0x0421</Offset>
+            <Offset>0x0415</Offset>
+            <Offset>0x0331</Offset>
+            <Offset>0x032D</Offset>
+            </TypedLinkOffsetList>
+          <LinkOffsetList />
+          <DSOffsetList />
+          </VIDS>
+        <!--  DS To DS Link Object Ref  -->
+        <VIDS LinkSaveFlag="0" VILinkLibVersion="0" VILinkFieldA="0" VILinkField4="1" VILinkFieldB="" VILinkFieldC="" VILinkFieldD="0" TypedLinkFlags="0">
+          <LinkSaveQualName>
+            <String>DIO_R-W.VI</String>
+            </LinkSaveQualName>
+          <LinkSavePathRef Ident="PTH0" TpVal="0" ZeroFill="True" />
+          <TypeDesc />
+          <TypedLinkOffsetList>
+            <Offset>0x03C1</Offset>
+            </TypedLinkOffsetList>
+          <LinkOffsetList />
+          <DSOffsetList />
+          </VIDS>
+        <!--  DS To DS Link Object Ref  -->
+        <VIDS LinkSaveFlag="0" VILinkLibVersion="0" VILinkFieldA="0" VILinkField4="1" VILinkFieldB="" VILinkFieldC="" VILinkFieldD="0" TypedLinkFlags="0">
+          <LinkSaveQualName>
+            <String>DIO table for main board test.vi</String>
+            </LinkSaveQualName>
+          <LinkSavePathRef Ident="PTH0" TpVal="0" ZeroFill="True" />
+          <TypeDesc />
+          <TypedLinkOffsetList>
+            <Offset>0x0375</Offset>
+            </TypedLinkOffsetList>
+          <LinkOffsetList />
+          <DSOffsetList />
+          </VIDS>
+        </VIDS>
+      </Section>
+    </LIds>
+  <DFDS>
+    <!-- Default Fill of Data Space -->
+    <Section Index="0" Name="Capacitance testII.vi" Int5="0x401A2400" Format="bin" File="Capacitance testII_DFDS.bin" />
+    </DFDS>
+  <DSTM>
+    <!-- Data Space Type Map -->
+    <Section Index="0" Name="Capacitance testII.vi" Int5="0x00000000" Format="bin" File="Capacitance testII_DSTM.bin" />
+    </DSTM>
+  <vers>
+    <!-- Version block -->
+    <Section Index="4" Int5="0xB01A2400" Format="inline">
+      <Version Major="3" Minor="1" Bugfix="0" Stage="beta" Build="4" Language="0" Info="3.1b4" Comment="Oldest compatible LabVIEW." />
+      </Section>
+    </vers>
+  <HIST>
+    <!-- Changes History -->
+    <Section Index="0" Name="Capacitance testII.vi" Int5="0x00000000" Format="bin" File="Capacitance testII_HIST.bin" />
+    </HIST>
+  <ICON>
+    <!-- Icon 32x32 1bpp -->
+    <Section Index="0" Name="Capacitance testII.vi" Int5="0xC8182400" Format="png" File="Capacitance testII_ICON.png" />
+    </ICON>
+  <LIvi>
+    <!-- LinkObj Refs for VI -->
+    <Section Index="0" Name="Capacitance testII.vi" Int5="0x18192400" Format="inline">
+      <LVIN Unk1="Capacitance testII.vi" Unk2="03f0000600500000000005050000000002000004000000040000001c40400001ffffffff000400300d546573742064617461206f75740004000000040000001c40400001ffffffff000400300c54657374206461746120696e00">
+        <!--  VI To StdVI Link Object Ref  -->
+        <LVIN LinkSaveFlag="0" VILinkLibVersion="0" VILinkFieldA="0" VILinkField4="1" VILinkFieldB="" VILinkFieldC="" VILinkFieldD="0" TypedLinkFlags="0">
+          <LinkSaveQualName>
+            <String>Status_Glob.vi</String>
+            </LinkSaveQualName>
+          <LinkSavePathRef Ident="PTH0" TpVal="1">
+            <String />
+            <String>Status_Glob.vi</String>
+            </LinkSavePathRef>
+          <TypeDesc TypeID="-1"><![CDATA[&#x00;&#x0B;&#x00;P&#x00;&#x01;&#x00;&#x12;@0&#x0C;StatusGlobalg]]></TypeDesc>
+          <TypedLinkOffsetList>
+            <Offset>0xFFFFFFFF</Offset>
+            </TypedLinkOffsetList>
+          </LVIN>
+        <!--  VI To StdVI Link Object Ref  -->
+        <LVIN LinkSaveFlag="0" VILinkLibVersion="0" VILinkFieldA="0" VILinkField4="1" VILinkFieldB="" VILinkFieldC="" VILinkFieldD="0" TypedLinkFlags="0">
+          <LinkSaveQualName>
+            <String>DIO table for main board test.vi</String>
+            </LinkSaveQualName>
+          <LinkSavePathRef Ident="PTH0" TpVal="1">
+            <String />
+            <String>DIO table for main board test.vi</String>
+            </LinkSavePathRef>
+          <TypeDesc TypeID="-1"><![CDATA[&#x00;#&#x02;&#x00;&#x06;&#x00;P&#x00;&#x00;&#x00;&#x00;&#x01;&#x00;&#x00;&#x00;&#x00;&#x00;&#x00;&#x00;&#x00;&#x04;&#x00;&#x00;&#x00;&#x04;&#x00;&#x00;&#x00;&#x14;@&#x03;&#x0E;Returned Value&#x00;&#x00;&#x04;&#x00;&#x00;&#x00;&#x04;&#x00;&#x00;&#x00;&#x10;@&#x03;&#x0B;Array Index]]></TypeDesc>
+          <TypedLinkOffsetList>
+            <Offset>0xFFFFFFFF</Offset>
+            </TypedLinkOffsetList>
+          </LVIN>
+        <!--  VI To StdVI Link Object Ref  -->
+        <LVIN LinkSaveFlag="0" VILinkLibVersion="0" VILinkFieldA="0" VILinkField4="1" VILinkFieldB="" VILinkFieldC="" VILinkFieldD="0" TypedLinkFlags="0">
+          <LinkSaveQualName>
+            <String>DIO_R-W.VI</String>
+            </LinkSaveQualName>
+          <LinkSavePathRef Ident="PTH0" TpVal="1">
+            <String />
+            <String>DIO_R-W.VI</String>
+            </LinkSavePathRef>
+          <TypeDesc TypeID="-1"><![CDATA[&#x00;D&#x03;&#x00;&#x08;&#x00;‡&#x00;&#x00;&#x05;&#x03;&#x02;&#x00;&#x02;&#x00;&#x00;&#x00;&#x00;&#x00;&#x00;&#x00;&#x00;&#x00;&#x00;&#x10;@&#x03;&#x0B;Delay in ms&#x00;&#x0C;@&#x07;&#x06;Outputi&#x00;&#x10;@ 
+Write/Read&#x00;&#x00;
+@&#x07;&#x05;Input&#x00;&#x10;@&#x07;&#x0B;Initialize?&#x00;&#x10;@&#x05;
+Port Width&#x00;&#x00;&#x10;@&#x05;&#x0B;Port Number&#x00;&#x0C;@&#x05;&#x06;Devicei]]></TypeDesc>
+          <TypedLinkOffsetList>
+            <Offset>0xFFFFFFFF</Offset>
+            </TypedLinkOffsetList>
+          </LVIN>
+        <!--  VI To StdVI Link Object Ref  -->
+        <LVIN LinkSaveFlag="0" VILinkLibVersion="0" VILinkFieldA="0" VILinkField4="1" VILinkFieldB="" VILinkFieldC="" VILinkFieldD="0" TypedLinkFlags="0">
+          <LinkSaveQualName>
+            <String>P/F_Glob.vi</String>
+            </LinkSaveQualName>
+          <LinkSavePathRef Ident="PTH0" TpVal="1">
+            <String />
+            <String>P/F_Glob.vi</String>
+            </LinkSavePathRef>
+          <TypeDesc TypeID="-1"><![CDATA[&#x00;&#x0E;&#x00;P&#x00;&#x01;&#x00;&#x18;@ &#x13;Pass or Fail Global]]></TypeDesc>
+          <TypedLinkOffsetList>
+            <Offset>0xFFFFFFFF</Offset>
+            </TypedLinkOffsetList>
+          </LVIN>
+        <!--  VI To StdVI Link Object Ref  -->
+        <LVIN LinkSaveFlag="0" VILinkLibVersion="0" VILinkFieldA="0" VILinkField4="1" VILinkFieldB="" VILinkFieldC="" VILinkFieldD="0" TypedLinkFlags="0">
+          <LinkSaveQualName>
+            <String>SETLD_RD.VI</String>
+            </LinkSaveQualName>
+          <LinkSavePathRef Ident="PTH0" TpVal="1">
+            <String />
+            <String>SETLD_RD.VI</String>
+            </LinkSavePathRef>
+          <TypeDesc TypeID="-1"><![CDATA[&#x00;P&#x03;&#x00;&#x08;&#x00;ê&#x02;&#x00;&#x02;&#x00;&#x00;&#x00;&#x00;&#x00;&#x02;&#x00;&#x05;&#x00;&#x03;&#x00;&#x00;&#x00;&#x00;&#x10;@ &#x0B;Error\FC In&#x00;&#x14;@0&#x0F;Reading Command&#x00;&#x0E;@ 	1st Rdng?&#x00;&#x0E;@
+&#x08;Max NSTD&#x00;&#x00;&#x0C;@&#x03;&#x06;# Smpl&#x00;&#x00;&#x12;@ &#x0C;Error\FC Out&#x00;&#x00;&#x12;@
+&#x0D;Settled Value&#x00;&#x1A;@
+&#x14;Optional Expec. Val.&#x00;]]></TypeDesc>
+          <TypedLinkOffsetList>
+            <Offset>0xFFFFFFFF</Offset>
+            </TypedLinkOffsetList>
+          </LVIN>
+        <!--  VI To StdVI Link Object Ref  -->
+        <LVIN LinkSaveFlag="0" VILinkLibVersion="0" VILinkFieldA="0" VILinkField4="1" VILinkFieldB="" VILinkFieldC="" VILinkFieldD="0" TypedLinkFlags="0">
+          <LinkSaveQualName>
+            <String>UUT Comm.vi</String>
+            </LinkSaveQualName>
+          <LinkSavePathRef Ident="PTH0" TpVal="1">
+            <String />
+            <String>UUT Comm.vi</String>
+            </LinkSavePathRef>
+          <TypeDesc TypeID="-1"><![CDATA[&#x00;J&#x03;&#x00;&#x08;&#x00;‡&#x03;&#x00;&#x01;&#x00;&#x00;&#x00;&#x00;&#x00;&#x00;&#x00;&#x00;&#x00;&#x02;&#x00;&#x02;&#x00;&#x00;&#x14;@ &#x0F;Error\FC Out(F)&#x00;&#x12;@0&#x0D;Return String&#x00;&#x0E;@ &#x08;Enabled?&#x00;&#x00;&#x0E;@ &#x08;Clr Buf?&#x00;&#x00;&#x0C;@&#x07;&#x07;Timeout&#x00;
+@&#x06;&#x04;Mode&#x00;&#x00;&#x14;@ &#x0E;Error\FC In(F)&#x00;&#x00;&#x12;@0&#x0C;Input String&#x00;]]></TypeDesc>
+          <TypedLinkOffsetList>
+            <Offset>0xFFFFFFFF</Offset>
+            </TypedLinkOffsetList>
+          </LVIN>
+        </LVIN>
+      </Section>
+    </LIvi>
+  <PRT>
+    <!-- Print settings -->
+    <Section Index="0" Name="Capacitance testII.vi" Int5="0x00000000" Format="bin" File="Capacitance testII_PRT.bin" />
+    </PRT>
+  <DLDR>
+    <!-- DataLog Data Record -->
+    <Section Index="0" Name="Capacitance testII.vi" Int5="0x00000000" Prop1="2373960" Prop2="0" Prop3="00000521000005d70000000000000000000005f9" Format="inline" />
+    </DLDR>
+  <LVIN>
+    <!-- LabView Instrument -->
+    <Section Index="0" Name="Capacitance testII.vi" Int5="0x00000000" Format="bin" File="Capacitance testII_LVIN.bin" />
+    </LVIN>
+  <FTAB>
+    <!-- Font Table -->
+    <Section Index="128" Int5="0x94162400" Prop1="0x10000" Prop3="3" Format="inline">
+      <Font Prop2="12" Prop3="8192" Prop4="0" Prop6="13" Prop7="199" Prop8="202">
+        <Name>MS Sans Serif</Name>
+        </Font>
+      <Font Prop2="16" Prop3="8192" Prop4="500" Prop6="16" Prop7="274" Prop8="259">
+        <Name>System</Name>
+        </Font>
+      <Font Prop2="12" Prop3="0" Prop4="1000" Prop6="13" Prop7="240" Prop8="230">
+        <Name>MS Sans Serif</Name>
+        </Font>
+      <Font Prop2="32768" Prop3="32768" Prop4="32768" Prop6="13" Prop7="199" Prop8="202">
+        <Name>0</Name>
+        </Font>
+      <Font Prop2="0" Prop3="0" Prop4="0" Prop6="0" Prop7="0" Prop8="0" />
+      <Font Prop2="0" Prop3="0" Prop4="0" Prop6="0" Prop7="0" Prop8="0" />
+      <Font Prop2="0" Prop3="0" Prop4="0" Prop6="0" Prop7="0" Prop8="0" />
+      <Font Prop2="0" Prop3="0" Prop4="0" Prop6="0" Prop7="0" Prop8="0" />
+      <Font Prop2="0" Prop3="0" Prop4="0" Prop6="0" Prop7="0" Prop8="0" />
+      <Font Prop2="0" Prop3="0" Prop4="0" Prop6="0" Prop7="0" Prop8="0" />
+      <Font Prop2="0" Prop3="0" Prop4="0" Prop6="0" Prop7="0" Prop8="0" />
+      <Font Prop2="0" Prop3="0" Prop4="0" Prop6="0" Prop7="0" Prop8="0" />
+      <Font Prop2="0" Prop3="0" Prop4="0" Prop6="0" Prop7="0" Prop8="0" />
+      </Section>
+    </FTAB>
+  <SpecialOrder>
+    <!-- Provides information on how items were ordered in the RSRC file -->
+    <Names>
+      <RSID Index="0" />
+      <LIfp Index="0" />
+      <FPHP Index="0" />
+      <LIbd Index="0" />
+      <BDHP Index="0" />
+      <VICD Index="0" />
+      <CPTM Index="0" />
+      <LIds Index="0" />
+      <DFDS Index="0" />
+      <DSTM Index="0" />
+      <STRG Index="0" />
+      <HIST Index="0" />
+      <ICON Index="0" />
+      <LIvi Index="0" />
+      <PRT Index="0" />
+      <DLDR Index="0" />
+      <LVIN Index="0" />
+      </Names>
+    </SpecialOrder>
+  </RSRC>

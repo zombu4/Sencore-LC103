@@ -1,0 +1,4 @@
+48232:1660f0 This box displays the current value for the path that is selected in the path menu. You can not change the current path is "Use Default" is checked.
+51503:1b6412 _Make Current Values Default
+51625:1b6cb8 Make Current Value Default
+52513:1bdbd4 If a Boolean control has associated local variables, it may not use Latch mechanical action. The first local variable to read a Boolean control with Latch action would reset its value to the default.

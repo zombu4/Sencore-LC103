@@ -1,0 +1,1 @@
+467694:d2d4a Range selection has no effect in the mA DC and mA AC functions since all measurements in these functions are made in the 20000 mA range.             If the chosen range is not valid for selected function, the nearest valid range is selected.  

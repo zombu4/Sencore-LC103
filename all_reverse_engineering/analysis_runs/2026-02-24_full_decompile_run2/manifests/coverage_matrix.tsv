@@ -1,0 +1,44 @@
+rel_path	strings	binwalk_scan	binwalk_extract_dir	file_type
+.DS_Store	1	1	1	Apple Desktop Services Store 
+DAQDRV	1	1	1	National Instruments, LabVIEW File, Code Resource File, data 
+Final Cal.zip	1	1	1	Zip archive data, at least v2.0 to extract, compression method=deflate 
+Final Cal/103FIN.EXE	1	1	1	MS-DOS executable, NE for MS Windows 3.x (EXE) 
+Final Cal/DAQDRV	1	1	1	National Instruments, LabVIEW File, Code Resource File, data 
+Final Cal/GPIBDRV	1	1	1	National Instruments, LabVIEW File, Code Resource File, data 
+Final Cal/LVDEVICE.DLL	1	1	1	MS-DOS executable, NE for MS Windows 3.x (DLL or font) 
+Final Cal/P071_03.CAL	1	1	1	ASCII text, with CRLF line terminators 
+Final Cal/P072_1.cal	1	1	1	ASCII text, with CRLF line terminators 
+Final Cal/SERPDRV	1	1	1	National Instruments, LabVIEW File, Code Resource File, data 
+Final Cal/VERSION.DAT	1	1	1	ASCII text, with CRLF line terminators 
+Final Cal/nidaq.dll	1	1	1	PE32 executable (DLL) (GUI) Intel 80386, for MS Windows 
+GPIBDRV	1	1	1	National Instruments, LabVIEW File, Code Resource File, data 
+LC103 Final Cal/LC103 Cal Data.ini	1	1	1	Generic INItialization configuration [C Range0] 
+LC103 Final Cal/LC103 Final Cal.aliases	1	1	1	ASCII text, with CRLF line terminators 
+LC103 Final Cal/LC103 Final Cal.ini	1	1	1	ASCII text, with CRLF line terminators 
+LC103 Final Cal/LC103 configData.nce	1	1	1	data 
+LC103 fixes.xlsx	1	1	1	Microsoft Excel 2007+ 
+LC103 simplified operating instructions (pull chart).pdf	1	1	1	PDF document, version 1.3 
+Old Cal Files/P071_03.CAL	1	1	1	ASCII text, with CRLF line terminators 
+Old Cal Files/P072_10.CAL	1	1	1	ASCII text, with CRLF line terminators 
+P071_03.CAL	1	1	1	ASCII text, with CRLF line terminators 
+P072_1.cal	1	1	1	ASCII text, with CRLF line terminators 
+SERPDRV	1	1	1	National Instruments, LabVIEW File, Code Resource File, data 
+Source/.DS_Store	1	1	1	Apple Desktop Services Store 
+Source/LV3_1/103f_cal.llb	1	1	1	National Instruments, LabVIEW File, VI Library, data 
+Source/LV3_1/MAINB_II.LLB	1	1	1	National Instruments, LabVIEW File, VI Library, data 
+Source/LV3_1/PWRTEST.LLB	1	1	1	National Instruments, LabVIEW File, VI Library, data 
+Source/LV5_1/103f_cal.llb	1	1	1	National Instruments, LabVIEW File, VI Library, data 
+Source/LV5_1/Fluke 8840A.vi	1	1	1	National Instruments, LabVIEW File, Virtual Instrument Program, data 
+Source/LV5_1/Mainb_ii.llb	1	1	1	National Instruments, LabVIEW File, VI Library, data 
+Source/LV5_1/Pwrtest.llb	1	1	1	National Instruments, LabVIEW File, VI Library, data 
+Source/LV6/103f_cal.llb	1	1	1	National Instruments, LabVIEW File, VI Library, data 
+Source/LV6/Fluke 8840A.vi	1	1	1	National Instruments, LabVIEW File, Virtual Instrument Program, data 
+Source/LV6/Mainb_ii.llb	1	1	1	National Instruments, LabVIEW File, VI Library, data 
+Source/LV6/Pwrtest.llb	1	1	1	National Instruments, LabVIEW File, VI Library, data 
+Source/lv8/103f_cal.llb	1	1	1	National Instruments, LabVIEW File, VI Library, data 
+Source/lv8/warnings.txt	1	1	1	ASCII text, with CRLF line terminators 
+VERSION.DAT	1	1	1	ASCII text, with CRLF line terminators 
+configData.nce	1	1	1	data 
+nidaq32.zip	1	1	1	Zip archive data, at least v2.0 to extract, compression method=deflate 
+nidaq32/README.txt	1	1	1	Unicode text, UTF-8 (with BOM) text, with very long lines (640), with CRLF line terminators 
+nidaq32/nidaq32.dll	1	1	1	PE32 executable (DLL) (GUI) Intel 80386, for MS Windows 

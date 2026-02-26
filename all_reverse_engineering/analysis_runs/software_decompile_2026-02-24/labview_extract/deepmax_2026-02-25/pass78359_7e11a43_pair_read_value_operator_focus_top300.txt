@@ -1,0 +1,2 @@
+52513:1bdbd4 If a Boolean control has associated local variables, it may not use Latch mechanical action. The first local variable to read a Boolean control with Latch action would reset its value to the default.
+372362:193862 =9EOF? is true if you try to read past the end of the file.40code is the error code; the default value is 0.

@@ -1,0 +1,1 @@
+341596:1075f6 You can control the number of lines in a port by the parameter port width.  You also have the option of not reconfiguring the port as an output port with each iteration of the VI by setting the iteration control to a non-zero value.

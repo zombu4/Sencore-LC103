@@ -1,0 +1,8 @@
+FILE: nidaq32.zip
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+0             0x0             Zip archive data, at least v2.0 to extract, compressed size: 956519, uncompressed size: 2818048, name: nidaq32.dll
+956560        0xE9890         Zip archive data, at least v2.0 to extract, compressed size: 1025, uncompressed size: 1983, name: README.txt
+957738        0xE9D2A         End of Zip archive, footer length: 22
+

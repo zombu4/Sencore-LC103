@@ -1,0 +1,1 @@
+595368:d5248 0 (open) opens an existing file. Error 7 occurs if the file cannot be found.

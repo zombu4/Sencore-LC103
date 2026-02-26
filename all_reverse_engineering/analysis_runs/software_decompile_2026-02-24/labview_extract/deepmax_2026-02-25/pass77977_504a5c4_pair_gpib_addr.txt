@@ -1,0 +1,31 @@
+68018:2b09a9 GPIB-VXI:   INSTR{GPIB-VXI[bd]::logical addr[prim addr]}
+102467:4cd9fe GPIB EADR:  GPIB Controller not addressed correctly.ALabVIEW:  End of file.
+102490:4cdfe7 GPIB NADDR:  No GPIB address input.CLabVIEW:  Print driver error.
+238581:f3985 GPIB-VXI:   INSTR{GPIB-VXI[bd]::logical addr[prim addr]}
+260900:2465d6 GPIB EADR:  GPIB Controller not addressed correctly.ALabVIEW:  End of file.
+260923:246bbf GPIB NADDR:  No GPIB address input.CLabVIEW:  Print driver error.
+305211:c0b2a GPIB-VXI:   INSTR{GPIB-VXI[bd]::logical addr[prim addr]}
+314908:1641a7 GPIB EADR:  GPIB Controller not addressed correctly.ALabVIEW:  End of file.
+314931:164790 GPIB NADDR:  No GPIB address input.CLabVIEW:  Print driver error.
+337485:bfe16 GPIB-VXI:   INSTR{GPIB-VXI[bd]::logical addr[prim addr]}
+341385:103777 GPIB EADR:  GPIB Controller not addressed correctly.ALabVIEW:  End of file.
+341408:103d60 GPIB NADDR:  No GPIB address input.CLabVIEW:  Print driver error.
+359411:b5fbd GPIB-VXI:   INSTR{GPIB-VXI[bd]::logical addr[prim addr]}
+371338:17fff8 GPIB EADR:  GPIB Controller not addressed correctly.ALabVIEW:  End of file.
+371361:1805e1 GPIB NADDR:  No GPIB address input.CLabVIEW:  Print driver error.
+430210:b5d36 GPIB-VXI:   INSTR{GPIB-VXI[bd]::logical addr[prim addr]}
+434039:f3c1b GPIB EADR:  GPIB Controller not addressed correctly.ALabVIEW:  End of file.
+434062:f4204 GPIB NADDR:  No GPIB address input.CLabVIEW:  Print driver error.
+465151:b4606 GPIB-VXI:   INSTR{GPIB-VXI[bd]::logical addr[prim addr]}
+470018:10319c GPIB EADR:  GPIB Controller not addressed correctly.ALabVIEW:  End of file.
+470041:103785 GPIB NADDR:  No GPIB address input.CLabVIEW:  Print driver error.
+488627:b5fbd GPIB-VXI:   INSTR{GPIB-VXI[bd]::logical addr[prim addr]}
+503848:1e0f99 GPIB EADR:  GPIB Controller not addressed correctly.ALabVIEW:  End of file.
+503871:1e1582 GPIB NADDR:  No GPIB address input.CLabVIEW:  Print driver error.
+542678:b5d36 GPIB-VXI:   INSTR{GPIB-VXI[bd]::logical addr[prim addr]}
+546414:f2b2b GPIB EADR:  GPIB Controller not addressed correctly.ALabVIEW:  End of file.
+546437:f3114 GPIB NADDR:  No GPIB address input.CLabVIEW:  Print driver error.
+573067:b4606 GPIB-VXI:   INSTR{GPIB-VXI[bd]::logical addr[prim addr]}
+579267:164e5d GPIB EADR:  GPIB Controller not addressed correctly.ALabVIEW:  End of file.
+579290:165446 GPIB NADDR:  No GPIB address input.CLabVIEW:  Print driver error.
+593349:b5f1d GPIB-VXI:   INSTR{GPIB-VXI[bd]::logical addr[prim addr]}

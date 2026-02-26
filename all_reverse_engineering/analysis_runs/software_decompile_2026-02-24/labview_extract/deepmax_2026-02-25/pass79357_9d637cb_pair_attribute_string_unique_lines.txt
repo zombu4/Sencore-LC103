@@ -1,0 +1,8 @@
+133129:20053d ?NIScope_SetAttributeViString_TheVirtualThing@daqDevice@@UAEJFPADK0@Z
+133220:201af2 ?_get_attribute_strings_TheVirtualThing@daqDevice@@UAEFKKPAKPADJ1J@Z
+133753:20560a NIScope_SetAttributeViString
+133967:2065c2 _get_attribute_strings
+638618:20053d ?NIScope_SetAttributeViString_TheVirtualThing@daqDevice@@UAEJFPADK0@Z
+638709:201af2 ?_get_attribute_strings_TheVirtualThing@daqDevice@@UAEFKKPAKPADJ1J@Z
+639242:20560a NIScope_SetAttributeViString
+639456:2065c2 _get_attribute_strings

@@ -1,0 +1,147 @@
+52350:1bb7d7 Choose a VI from the list of names to see its errors. Click on any error in the list to display more details about it here. Double-click on any front panel or block diagram error, or click on the Find button, to highlight the object causing the error.
+52510:1bd790 This VI has a bad connection to or cannot find a subVI or external routine, but it has no block diagram to show or fix the error. You must find or correct the subVI or external routine. Check for more information in the Explain... dialog in Get Info.
+52744:1c1145 Find First Error.vi
+100479:4a1719 Find First Error.vi
+100490:4a1ab3 Find First Error.vi
+100493:4a1aed Find First Error.vi
+100495:4a1b49 Find First Error.vi
+100530:4a1e46 Find First Error.vi_
+100572:4a21f3 Find First Error.vi
+100573:4a2207 Find First Error.vi
+100574:4a221b Find First Error.vi
+100575:4a222f Find First Error.vi
+100576:4a2243 Find First Error.vi
+100577:4a2257 Find First Error.vi
+100578:4a226b Find First Error.vi
+100579:4a227f Find First Error.vi
+100580:4a2293 Find First Error.vi
+100581:4a22a7 Find First Error.vi
+100582:4a22bb Find First Error.vi
+100583:4a22cf Find First Error.vi
+100584:4a22e3 Find First Error.vi
+100585:4a22f7 Find First Error.vi
+100586:4a230b Find First Error.vi
+100587:4a231f Find First Error.vi
+100588:4a2333 Find First Error.vi
+100589:4a2347 Find First Error.vi
+100853:4a77f4 Find First Error.vix
+100864:4a78f4 Find First Error.vi
+100870:4a7972 Find First Error.vi
+100919:4a7d4f Find First Error.vi
+100931:4a7e10 Find First Error.vi
+101588:4b7300 error code is a numeric error code. If error in indicates an error, the VI ignores error code. If not, the VI tests it. A non-zero value signifies an error.
+101594:4b758d 2.source out indicates the source of the error.
+102487:4cdf7d LabVIEW: Destroy window error.
+120231:5ed58b Find First Error.vi
+258550:2130b7 Find First Error.vi
+258833:218af9 Find First Error.vi
+258844:218e93 Find First Error.vi
+258847:218ecd Find First Error.vi
+258849:218f29 Find First Error.vi
+258884:219226 Find First Error.vi_
+258926:2195d3 Find First Error.vi
+258927:2195e7 Find First Error.vi
+258928:2195fb Find First Error.vi
+258929:21960f Find First Error.vi
+258930:219623 Find First Error.vi
+258931:219637 Find First Error.vi
+258932:21964b Find First Error.vi
+258933:21965f Find First Error.vi
+258934:219673 Find First Error.vi
+258935:219687 Find First Error.vi
+258936:21969b Find First Error.vi
+258937:2196af Find First Error.vi
+258938:2196c3 Find First Error.vi
+258939:2196d7 Find First Error.vi
+258940:2196eb Find First Error.vi
+258941:2196ff Find First Error.vi
+258942:219713 Find First Error.vi
+258943:219727 Find First Error.vi
+259224:21f048 Find First Error.vix
+259235:21f148 Find First Error.vi
+259241:21f1c6 Find First Error.vi
+259290:21f5a3 Find First Error.vi
+259302:21f664 Find First Error.vi
+260021:22fed8 error code is a numeric error code. If error in indicates an error, the VI ignores error code. If not, the VI tests it. A non-zero value signifies an error.
+260027:230165 2.source out indicates the source of the error.
+260920:246b55 LabVIEW: Destroy window error.
+291623:4434f1 Find First Error.vi
+292031:447840 Find First Error.vi
+292032:447854 Find First Error.vi
+292033:447868 Find First Error.vi
+292034:44787c Find First Error.vi
+292035:447890 Find First Error.vi
+314009:14daf5 error code is a numeric error code. If error in indicates an error, the VI ignores error code. If not, the VI tests it. A non-zero value signifies an error.
+314015:14dd82 2.source out indicates the source of the error.
+314928:164726 LabVIEW: Destroy window error.
+340492:ed0d8 error code is a numeric error code. If error in indicates an error, the VI ignores error code. If not, the VI tests it. A non-zero value signifies an error.
+340498:ed365 2.source out indicates the source of the error.
+341405:103cf6 LabVIEW: Destroy window error.
+360296:bd40b Find First Error.vi
+371358:180577 LabVIEW: Destroy window error.
+371458:1838c8 error code is a numeric error code. If error in indicates an error, the VI ignores error code. If not, the VI tests it. A non-zero value signifies an error.
+371461:183b1d 2.source out indicates the source of the error.
+372693:198cb3 Find First Error.vi
+372705:198d7b Find First Error.vi
+372924:19b00f Find First Error.vi
+373016:19c484 Find First Error.viRE
+373044:19ceb9 Find First Error.vi
+373151:19f9e6 Find First Error.vi
+373153:19fa70 Find First Error.vi
+373355:1a1d09 Find First Error.vi
+373427:1a2da9 Find First Error.vi
+373436:1a37b9 Find First Error.vi
+373545:1a4f41 Find First Error.vi
+416890:47f259 Find First Error.vi
+417119:482898 Find First Error.vi
+417331:48355d Find First Error.vi
+417332:483571 Find First Error.vi
+417333:483585 Find First Error.vi
+417334:483599 Find First Error.vi
+434059:f419a LabVIEW: Destroy window error.
+434159:f74eb error code is a numeric error code. If error in indicates an error, the VI ignores error code. If not, the VI tests it. A non-zero value signifies an error.
+434162:f7740 2.source out indicates the source of the error.
+470038:10371b LabVIEW: Destroy window error.
+470138:106a6c error code is a numeric error code. If error in indicates an error, the VI ignores error code. If not, the VI tests it. A non-zero value signifies an error.
+470141:106cc1 2.source out indicates the source of the error.
+489512:bd40b Find First Error.vi
+503868:1e1518 LabVIEW: Destroy window error.
+504199:1e98e6 .source out indicates the source of the error.
+504209:1e9e3d error code is a numeric error code. If error in indicates an error, the VI ignores error code. If not, the VI tests it. A non-zero value signifies an error.
+505082:1f8e0c Find First Error.vi
+505094:1f8ed4 Find First Error.vi
+505145:1f9523 Find First Error.vi
+505261:1fabfa Find First Error.viRE
+505294:1fbca5 Find First Error.vi
+505393:1fe34f Find First Error.vi
+505434:1fe90f Find First Error.vi
+505525:1ffd16 Find First Error.vi
+505543:200d69 Find First Error.vi
+505626:202410 Find First Error.vi
+529317:3d9245 Find First Error.vi
+529581:3de9d4 Find First Error.vi
+529796:3df6ba Find First Error.vi
+529797:3df6ce Find First Error.vi
+529798:3df6e2 Find First Error.vi
+529799:3df6f6 Find First Error.vi
+546434:f30aa LabVIEW: Destroy window error.
+546534:f63fb error code is a numeric error code. If error in indicates an error, the VI ignores error code. If not, the VI tests it. A non-zero value signifies an error.
+546537:f6650 2.source out indicates the source of the error.
+579287:1653dc LabVIEW: Destroy window error.
+579618:16d7a9 .source out indicates the source of the error.
+579628:16dd00 error code is a numeric error code. If error in indicates an error, the VI ignores error code. If not, the VI tests it. A non-zero value signifies an error.
+597005:f83b9 Find First Error.vi
+607268:1a3183 Find First Error.vi
+607274:1a3397 Find First Error.vi
+607299:1a3ec7 Find First Error.vi
+607347:1a493f Find First Error.vi
+607444:1a5c21 Find First Error.vi
+607450:1a5d49 Find First Error.viPTH0
+607451:1a5d6a Find First Error.vi
+607459:1a5fe9 Find First Error.viPTH0
+607478:1a6721 Find First Error.vi
+607518:1a7839 Find First Error.viPTH0
+607519:1a785a Find First Error.vi
+612480:1f751c Find First Error.vi
+612481:1f7530 Find First Error.vi
+612482:1f7544 Find First Error.vi

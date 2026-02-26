@@ -1,0 +1,4 @@
+111788:5655f5 B>EOF? is TRUE if you attempt to read past the end of the file.
+270317:2dfd49 B>EOF? is TRUE if you attempt to read past the end of the file.
+366646:1310fa B>EOF? is TRUE if you attempt to read past the end of the file.
+496404:14be1a >EOF? is TRUE if you attempt to read past the end of the file.

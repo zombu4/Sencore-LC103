@@ -1,0 +1,20 @@
+101604:4b78cd |xerror out contains the same information as status out, code out, and source out. It has the same structure as error in.
+102437:4cadd8 DAQ memPageErr:  The transfer buffer contains a page break; system resources may require reprogramming when the page break is encountered.KDAQ memLockErr:  The transfer buffer cannot be locked into physical memory.
+260037:2304a5 |xerror out contains the same information as status out, code out, and source out. It has the same structure as error in.
+260870:2439b0 DAQ memPageErr:  The transfer buffer contains a page break; system resources may require reprogramming when the page break is encountered.KDAQ memLockErr:  The transfer buffer cannot be locked into physical memory.
+314025:14e0c2 |xerror out contains the same information as status out, code out, and source out. It has the same structure as error in.
+314878:161581 DAQ memPageErr:  The transfer buffer contains a page break; system resources may require reprogramming when the page break is encountered.KDAQ memLockErr:  The transfer buffer cannot be locked into physical memory.
+340508:ed6a5 |xerror out contains the same information as status out, code out, and source out. It has the same structure as error in.
+341355:100b51 DAQ memPageErr:  The transfer buffer contains a page break; system resources may require reprogramming when the page break is encountered.KDAQ memLockErr:  The transfer buffer cannot be locked into physical memory.
+371308:17d3d2 DAQ memPageErr:  The transfer buffer contains a page break; system resources may require reprogramming when the page break is encountered.KDAQ memLockErr:  The transfer buffer cannot be locked into physical memory.
+371474:18422e |xerror out contains the same information as status out, code out, and source out. It has the same structure as error in.
+434009:f0ff5 DAQ memPageErr:  The transfer buffer contains a page break; system resources may require reprogramming when the page break is encountered.KDAQ memLockErr:  The transfer buffer cannot be locked into physical memory.
+434175:f7e51 |xerror out contains the same information as status out, code out, and source out. It has the same structure as error in.
+469988:100576 DAQ memPageErr:  The transfer buffer contains a page break; system resources may require reprogramming when the page break is encountered.KDAQ memLockErr:  The transfer buffer cannot be locked into physical memory.
+470154:1073d2 |xerror out contains the same information as status out, code out, and source out. It has the same structure as error in.
+503818:1de373 DAQ memPageErr:  The transfer buffer contains a page break; system resources may require reprogramming when the page break is encountered.KDAQ memLockErr:  The transfer buffer cannot be locked into physical memory.
+504219:1ea3f7 xerror out contains the same information as status out, code out, and source out. It has the same structure as error in.
+546384:eff05 DAQ memPageErr:  The transfer buffer contains a page break; system resources may require reprogramming when the page break is encountered.KDAQ memLockErr:  The transfer buffer cannot be locked into physical memory.
+546550:f6d61 |xerror out contains the same information as status out, code out, and source out. It has the same structure as error in.
+579237:162237 DAQ memPageErr:  The transfer buffer contains a page break; system resources may require reprogramming when the page break is encountered.KDAQ memLockErr:  The transfer buffer cannot be locked into physical memory.
+579638:16e2ba xerror out contains the same information as status out, code out, and source out. It has the same structure as error in.

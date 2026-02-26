@@ -1,0 +1,14 @@
+102462:4cd277 DAQ semanticsErr:  An error was detected in the input string; the syntax of the string is correct, but certain values specified in the string are inconsistent with other values specified in the string.
+133129:20053d ?NIScope_SetAttributeViString_TheVirtualThing@daqDevice@@UAEJFPADK0@Z
+133220:201af2 ?_get_attribute_strings_TheVirtualThing@daqDevice@@UAEFKKPAKPADJ1J@Z
+260895:245e4f DAQ semanticsErr:  An error was detected in the input string; the syntax of the string is correct, but certain values specified in the string are inconsistent with other values specified in the string.
+314903:163a20 DAQ semanticsErr:  An error was detected in the input string; the syntax of the string is correct, but certain values specified in the string are inconsistent with other values specified in the string.
+341380:102ff0 DAQ semanticsErr:  An error was detected in the input string; the syntax of the string is correct, but certain values specified in the string are inconsistent with other values specified in the string.
+371333:17f871 DAQ semanticsErr:  An error was detected in the input string; the syntax of the string is correct, but certain values specified in the string are inconsistent with other values specified in the string.
+434034:f3494 DAQ semanticsErr:  An error was detected in the input string; the syntax of the string is correct, but certain values specified in the string are inconsistent with other values specified in the string.
+470013:102a15 DAQ semanticsErr:  An error was detected in the input string; the syntax of the string is correct, but certain values specified in the string are inconsistent with other values specified in the string.
+503843:1e0812 DAQ semanticsErr:  An error was detected in the input string; the syntax of the string is correct, but certain values specified in the string are inconsistent with other values specified in the string.
+546409:f23a4 DAQ semanticsErr:  An error was detected in the input string; the syntax of the string is correct, but certain values specified in the string are inconsistent with other values specified in the string.
+579262:1646d6 DAQ semanticsErr:  An error was detected in the input string; the syntax of the string is correct, but certain values specified in the string are inconsistent with other values specified in the string.
+638618:20053d ?NIScope_SetAttributeViString_TheVirtualThing@daqDevice@@UAEJFPADK0@Z
+638709:201af2 ?_get_attribute_strings_TheVirtualThing@daqDevice@@UAEFKKPAKPADJ1J@Z

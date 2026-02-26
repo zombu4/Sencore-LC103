@@ -1,0 +1,33 @@
+75739:323a21 uqReads the number of characters specified by requested byte count from the serial port indicated in port number. 
+101388:4af7d2 Reads a string of characters from a byte stream file at the specified location; the default location is at the current mark.  The VI does incoming and internal error checking and does not read if an incoming error occurs.
+112344:56c1ac *Reads a specified number of lines from a byte stream file beginning at a specified character offset.  The VI opens the file beforehand and closes it afterwards.
+246060:162361 uqReads the number of characters specified by requested byte count from the serial port indicated in port number. 
+246164:162d03 qReads the number of characters specified by requested byte count from the serial port indicated in port number. 
+259785:227882 Reads a string of characters from a byte stream file at the specified location; the default location is at the current mark.  The VI does incoming and internal error checking and does not read if an incoming error occurs.
+259959:229360 Reads a string of characters from a byte stream file at the specified location; the default location is at the current mark.  The VI does incoming and internal error checking and does not read if an incoming error occurs.
+270873:2e6900 *Reads a specified number of lines from a byte stream file beginning at a specified character offset.  The VI opens the file beforehand and closes it afterwards.
+271320:2e9103 *Reads a specified number of lines from a byte stream file beginning at a specified character offset.  The VI opens the file beforehand and closes it afterwards.
+308282:eb956 uqReads the number of characters specified by requested byte count from the serial port indicated in port number. 
+308384:ec2f3 qReads the number of characters specified by requested byte count from the serial port indicated in port number. 
+366630:130572 *Reads a specified number of lines from a byte stream file beginning at a specified character offset.  The VI opens the file beforehand and closes it afterwards.
+372335:192b26 Reads a string of characters from a byte stream file at the specified location; the default location is at the current mark.  The VI does incoming and internal error checking and does not read if an incoming error occurs.
+396892:334dbb uqReads the number of characters specified by requested byte count from the serial port indicated in port number. 
+404007:3a3a37 qReads the number of characters specified by requested byte count from the serial port indicated in port number. 
+404043:3a4f48 Reads a string of characters from a byte stream file at the specified location; the default location is at the current mark.  The VI does incoming and internal error checking and does not read if an incoming error occurs.
+404095:3a6707 *Reads a specified number of lines from a byte stream file beginning at a specified character offset.  The VI opens the file beforehand and closes it afterwards.
+441083:168104 uqReads the number of characters specified by requested byte count from the serial port indicated in port number. 
+442990:185467 qReads the number of characters specified by requested byte count from the serial port indicated in port number. 
+496229:149a0e *Reads a specified number of lines from a byte stream file beginning at a specified character offset.  The VI opens the file beforehand and closes it afterwards.
+504744:1f31e7 Reads a string of characters from a byte stream file at the specified location; the default location is at the current mark.  The VI does incoming and internal error checking and does not read if an incoming error occurs.
+521719:34caa8 uqReads the number of characters specified by requested byte count from the serial port indicated in port number. 
+527344:3b2683 qReads the number of characters specified by requested byte count from the serial port indicated in port number. 
+527380:3b3b94 Reads a string of characters from a byte stream file at the specified location; the default location is at the current mark.  The VI does incoming and internal error checking and does not read if an incoming error occurs.
+527432:3b5353 *Reads a specified number of lines from a byte stream file beginning at a specified character offset.  The VI opens the file beforehand and closes it afterwards.
+556363:1a3f17 qReads the number of characters specified by requested byte count from the serial port indicated in port number. 
+558323:1c6bdd uqReads the number of characters specified by requested byte count from the serial port indicated in port number. 
+596743:f38e3 qReads the number of characters specified by requested byte count from the serial port indicated in port number. 
+596779:f4df4 Reads a string of characters from a byte stream file at the specified location; the default location is at the current mark.  The VI does incoming and internal error checking and does not read if an incoming error occurs.
+596831:f65b3 *Reads a specified number of lines from a byte stream file beginning at a specified character offset.  The VI opens the file beforehand and closes it afterwards.
+600529:131143 qReads the number of characters specified by requested byte count from the serial port indicated in port number. 
+607652:1a9938 Reads a string of characters from a byte stream file at the specified location; the default location is at the current mark.  The VI does incoming and internal error checking and does not read if an incoming error occurs.
+610293:1d4dcb *Reads a specified number of lines from a byte stream file beginning at a specified character offset.  The VI opens the file beforehand and closes it afterwards.

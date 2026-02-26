@@ -1,0 +1,132 @@
+54056:1dccdc sFile Dialog cancelled; set error out code to Cancelled By User; set refnum to NotaRefnum and file path to NotAPath.
+100053:49acc7 cFile Dialog cancelled; set Error to Cancelled By User; empty File Path; set Refnum to Not a Refnum.
+102690:4d2fc8 ,@2'new file path (Not A Path if cancelled)8
+102691:4d2ff6 ,@2'new file path (Not A Path if cancelled)&
+102912:4d5c78 ,@2'new file path (Not A Path if cancelled)"@
+102919:4d5d5e ,P2'new file path (Not A Path if cancelled),`2'new file path (Not A Path if cancelled),@2'new file path (Not A Path if cancelled)
+103033:4d6c3a file path (dialog if empty),2@'new file path (Not A Path if cancelled)
+103039:4d6d23 'new file path (Not A Path if cancelled)L
+103042:4d6df3 ,@2'new file path (Not A Path if cancelled)"@
+111797:565e5d ,@2'new file path (Not A Path if cancelled)8
+111798:565e8b ,@2'new file path (Not A Path if cancelled)
+112261:56b86c ,@2'new file path (Not A Path if cancelled)
+112277:56ba77 ,P2'new file path (Not A Path if cancelled),`2'new file path (Not A Path if cancelled),@2'new file path (Not A Path if cancelled)
+112644:56db5f @ start of read offset (chars.:0 ),2@'new file path (Not A Path if cancelled)
+112651:56dc5d 'new file path (Not A Path if cancelled)'
+112658:56ddd0 ,@2'new file path (Not A Path if cancelled)
+112816:571fef ,@2'new file path (Not A Path if cancelled)
+112817:5720ed ,@2'new file path (Not A Path if cancelled)"@
+112821:5721eb ,@2'new file path (Not A Path if cancelled)
+112831:572483 ,@2'new file path (Not A Path if cancelled)
+112973:5767d1 ,@2'new file path (Not A Path if cancelled)
+112977:5768e3 ,@2'new file path (Not A Path if cancelled)"@
+113094:57a7f6 line string,@2'new file path (Not A Path if cancelled)
+113098:57a8a0 ,@2'new file path (Not A Path if cancelled)
+113101:57a90e ,@2'new file path (Not A Path if cancelled)
+113189:57b85b ,@2'new file path (Not A Path if cancelled)
+113200:57b996 ,@2'new file path (Not A Path if cancelled)"@
+113297:582dc9 ,@2'new file path (Not A Path if cancelled)
+113305:582ee5 ,@2'new file path (Not A Path if cancelled)
+114223:593ed8 line string,@2'new file path (Not A Path if cancelled)
+114510:595da1 ,@2'new file path (Not A Path if cancelled)
+114699:59f4e6 ,@2'new file path (Not A Path if cancelled)
+114718:59f76e ,@2'new file path (Not A Path if cancelled)
+115846:5b4d87 line string,@2'new file path (Not A Path if cancelled)
+116113:5b6d64 ,@2'new file path (Not A Path if cancelled)
+224313:1b908 sFile Dialog cancelled; set error out code to Cancelled By User; set refnum to NotaRefnum and file path to NotAPath.
+258383:2115f3 cFile Dialog cancelled; set Error to Cancelled By User; empty File Path; set Refnum to Not a Refnum.
+261102:24a5a1 ,@2'new file path (Not A Path if cancelled)
+261129:24bf28 ,@2'new file path (Not A Path if cancelled)8
+261130:24bf56 ,@2'new file path (Not A Path if cancelled)&
+261351:24ebd8 ,@2'new file path (Not A Path if cancelled)"@
+261358:24ecbe ,P2'new file path (Not A Path if cancelled),`2'new file path (Not A Path if cancelled),@2'new file path (Not A Path if cancelled)
+261472:24fb9a file path (dialog if empty),2@'new file path (Not A Path if cancelled)
+261478:24fc83 'new file path (Not A Path if cancelled)L
+261481:24fd53 ,@2'new file path (Not A Path if cancelled)"@
+270289:2dd041 ,@2'new file path (Not A Path if cancelled)
+270326:2e05b1 ,@2'new file path (Not A Path if cancelled)8
+270327:2e05df ,@2'new file path (Not A Path if cancelled)
+270790:2e5fc0 ,@2'new file path (Not A Path if cancelled)
+270806:2e61cb ,P2'new file path (Not A Path if cancelled),`2'new file path (Not A Path if cancelled),@2'new file path (Not A Path if cancelled)
+271173:2e82b3 @ start of read offset (chars.:0 ),2@'new file path (Not A Path if cancelled)
+271180:2e83b1 'new file path (Not A Path if cancelled)'
+271187:2e8524 ,@2'new file path (Not A Path if cancelled)
+271359:2ece6f ,@2'new file path (Not A Path if cancelled)
+271360:2ecf6d ,@2'new file path (Not A Path if cancelled)"@
+271364:2ed06b ,@2'new file path (Not A Path if cancelled)
+271374:2ed303 ,@2'new file path (Not A Path if cancelled)
+271516:2f1651 ,@2'new file path (Not A Path if cancelled)
+271520:2f1763 ,@2'new file path (Not A Path if cancelled)"@
+271637:2f5676 line string,@2'new file path (Not A Path if cancelled)
+271641:2f5720 ,@2'new file path (Not A Path if cancelled)
+271644:2f578e ,@2'new file path (Not A Path if cancelled)
+271732:2f66db ,@2'new file path (Not A Path if cancelled)
+271743:2f6816 ,@2'new file path (Not A Path if cancelled)"@
+271844:2fdd35 ,@2'new file path (Not A Path if cancelled)
+271852:2fde51 ,@2'new file path (Not A Path if cancelled)
+272770:30ee44 line string,@2'new file path (Not A Path if cancelled)
+273057:310d0d ,@2'new file path (Not A Path if cancelled)
+273250:31a53e ,@2'new file path (Not A Path if cancelled)
+273269:31a7c6 ,@2'new file path (Not A Path if cancelled)
+274397:32fddf line string,@2'new file path (Not A Path if cancelled)
+274664:331dbc ,@2'new file path (Not A Path if cancelled)
+361969:e160b 'new file path (Not A Path if cancelled)
+362916:ec876 'new file path (Not A Path if cancelled)
+363050:ed5ea 'new file path (Not A Path if cancelled)
+363058:ed700 'new file path (Not A Path if cancelled)
+363831:1037be 'new file path (Not A Path if cancelled)
+364599:10cb75 'new file path (Not A Path if cancelled)
+364766:10dab2 'new file path (Not A Path if cancelled)
+364774:10dbaa 'new file path (Not A Path if cancelled)
+365467:11dc69 'new file path (Not A Path if cancelled)
+365478:11ddb0 'new file path (Not A Path if cancelled)"@!
+365854:12278d 'new file path (Not A Path if cancelled)
+365859:12284b 'new file path (Not A Path if cancelled)
+365884:1229ca 'new file path (Not A Path if cancelled)
+365939:123349 'new file path (Not A Path if cancelled)
+365940:123388 'new file path (Not A Path if cancelled)"@!
+365951:1234f8 'new file path (Not A Path if cancelled)
+366505:12f5ed 'new file path (Not A Path if cancelled)
+366521:12f7e6 'new file path (Not A Path if cancelled) p2
+366623:1304a5 'new file path (Not A Path if cancelled)
+366649:1311ee 'new file path (Not A Path if cancelled)
+366772:131d60 'new file path (Not A Path if cancelled)z
+370378:1681a3 'new file path (Not A Path if cancelled)"@!
+370391:168325 'new file path (Not A Path if cancelled) p2
+370466:168a52 'new file path (Not A Path if cancelled)
+370480:1691e2 'new file path (Not A Path if cancelled)*
+370593:169b93 'new file path (Not A Path if cancelled)L
+374125:1af0c6 cFile Dialog cancelled; set Error to Cancelled By User; empty File Path; set Refnum to Not a Refnum.
+392570:2ee42c 'new file path (Not A Path if cancelled)
+393862:306718 'new file path (Not A Path if cancelled)
+406323:3ce01a rrsFile Dialog cancelled; set error out code to Cancelled By User; set refnum to NotaRefnum and file path to NotAPath.
+493011:109002 'new file path (Not A Path if cancelled)
+493287:10a8b2 'new file path (Not A Path if cancelled)
+493622:11094c 'new file path (Not A Path if cancelled)
+493630:110a62 'new file path (Not A Path if cancelled)
+494340:1259c0 'new file path (Not A Path if cancelled)
+494484:1268b5 'new file path (Not A Path if cancelled)
+494884:12c249 'new file path (Not A Path if cancelled)
+494892:12c341 'new file path (Not A Path if cancelled)
+495504:13b7c2 'new file path (Not A Path if cancelled)
+495515:13b908 'new file path (Not A Path if cancelled)"@!
+495696:13ee7b 'new file path (Not A Path if cancelled)
+495697:13eeba 'new file path (Not A Path if cancelled)"@!
+495708:13f02a 'new file path (Not A Path if cancelled)
+496101:147c31 'new file path (Not A Path if cancelled)
+496117:147e34 'new file path (Not A Path if cancelled) x2
+496222:149941 'new file path (Not A Path if cancelled)
+496240:14a0ed 'new file path (Not A Path if cancelled)
+496362:14ac3a 'new file path (Not A Path if cancelled)H
+503274:1ce7c8 'new file path (Not A Path if cancelled)"@!
+503286:1ce955 'new file path (Not A Path if cancelled) x2
+503356:1cf761 'new file path (Not A Path if cancelled)
+503366:1cfc0d 'new file path (Not A Path if cancelled)*
+503479:1d05c6 'new file path (Not A Path if cancelled)H
+505957:208ea3 cFile Dialog cancelled; set Error to Cancelled By User; empty File Path; set Refnum to Not a Refnum.
+520246:332858 'new file path (Not A Path if cancelled)
+520285:332c4c 'new file path (Not A Path if cancelled)
+528305:3c9c77 rrsFile Dialog cancelled; set error out code to Cancelled By User; set refnum to NotaRefnum and file path to NotAPath.
+595970:e3e93 rrsFile Dialog cancelled; set error out code to Cancelled By User; set refnum to NotaRefnum and file path to NotAPath.
+597430:fc678 'new file path (Not A Path if cancelled)
+597469:fcb4c 'new file path (Not A Path if cancelled)

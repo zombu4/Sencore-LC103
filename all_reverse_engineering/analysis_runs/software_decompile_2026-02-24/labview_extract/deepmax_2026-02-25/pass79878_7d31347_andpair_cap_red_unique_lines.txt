@@ -1,0 +1,9 @@
+80487:370b7d CAP,Make sure the red UUT lead is not connected.
+83633:3a570e CAPGNow connect the red lead to the
+83637:3a57b4 CAPGNow connect the red lead to the
+249548:1996f1 CAP,Make sure the red UUT lead is not connected.
+251085:1b23a6 CAPGNow connect the red lead to the
+251089:1b244c CAPGNow connect the red lead to the
+388680:2ab5ec Capacitance Decade Box (Low Terminal).GNow connect the red lead to the
+515840:2d9289 Capacitance Decade Box (Low Terminal).GNow connect the red lead to the
+612558:645 \\Atlas\Shared\Cal-Test\LC103\Source\lv8\103f_cal.llb\CAP_CAL.VI (CAP_CAL.VI)

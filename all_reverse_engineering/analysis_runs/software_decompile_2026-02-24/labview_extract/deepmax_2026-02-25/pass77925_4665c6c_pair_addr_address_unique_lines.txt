@@ -1,0 +1,721 @@
+46368:15a8ff IGetFile: getprocaddress failed
+46371:15a953 IGetFile: getprocaddress failed for bitmapInfo
+46374:15a9c7 IGetFile: getprocaddress failed for deletebitmap
+52037:1b8fa2 Network is down or unreachable.$Network address is currently in use.;Not enough system memory to complete the network operation.3System caused the network connection to be aborted.
+55593:1f66a1 Logical address to read buffer from-)(U32)
+55835:1f9bbb VXI logical address to write buffer to.*(U32)
+58301:225bee logical address
+58302:225c04 logical address@
+58361:227293 logical address
+58362:2272a9 logical address
+58363:2272d3 logical address4
+58396:227bd0 logical address0
+58401:227cb0 logical address
+58412:227e57 logical address
+58433:228285 logical address
+58552:22a9f3 logical address
+58553:22aa11 logical address
+58554:22aa24 logical address
+58555:22aa37 logical address
+58556:22aa4a logical address
+58557:22aa5d logical address
+58637:22b20e logical address
+58644:22b2cc logical address
+58673:22b8a9 logical address
+58696:22b9de logical address
+58733:22c5fc Logical address of device to get information aboutYU(U16)
+58904:22ec2b Logical address of device to get information about
+58907:22ec85 Commander's logical address
+59866:23a622 -1250 Error mapping VXI address
+59867:23a643 -1251 Error unmapping VXI address
+60473:244602 -1250 Error mapping VXI address
+60474:244623 -1251 Error unmapping VXI address
+61649:25282b -1250 Error mapping VXI address
+61650:25284c -1251 Error unmapping VXI address
+62798:25f1fa -1250 Error mapping VXI address
+62799:25f21b -1251 Error unmapping VXI address
+63333:2663ca True if either primary or secondary addresses are outside ot the range 0-31. address error indicates whether a range error has occurred.
+63342:2668e4 address error"
+63343:2668f8 address error
+63395:2684a4 address error
+63414:268623 address error
+63415:268634 address error
+63425:2689cc address error
+63443:268b79 address error
+63450:268c81 address error
+63556:2719e9 -1250 Error mapping VXI address
+63557:271a0a -1251 Error unmapping VXI address
+63936:277064 address error
+63941:2770d5 address error
+65161:2846ca logical address$|
+65169:284815 logical address
+65725:28bbff address error
+66008:28e1e3 address error
+66071:28e676 logical addressPTH0)
+66183:296579 -1250 Error mapping VXI address
+66184:29659a -1251 Error unmapping VXI address
+66597:29f5cb address error
+66602:29f643 address error
+66612:29fc4a address error
+66617:29fd47 address error
+67629:2abbf5 address error
+67639:2abcef address error
+67909:2ade8f address error
+68023:2b0a74 logical addr - VXI logical address
+68063:2b12bf -1250 Error mapping VXI address
+68064:2b12e0 -1251 Error unmapping VXI address
+68884:2b8d1f -1250 Error mapping VXI address
+68885:2b8d40 -1251 Error unmapping VXI address
+102467:4cd9fe GPIB EADR: GPIB Controller not addressed correctly.ALabVIEW: End of file.
+102490:4cdfe7 GPIB NADDR: No GPIB address input.CLabVIEW: Print driver error.
+120443:1b56 _SetSegmentBaseAddress&
+225952:36fe1 Logical address to read buffer from-)(U32)
+226199:3a683 VXI logical address to write buffer to.*(U32)
+228703:650e5 logical address
+228715:6702a logical address
+228716:67040 logical address@
+228775:686cf logical address
+228776:686e5 logical address
+228777:6870f logical address4
+228810:6900c logical address0
+228815:690ec logical address
+228826:69293 logical address
+228847:696c1 logical address
+228966:6be2f logical address
+228967:6be4d logical address
+228968:6be60 logical address
+228969:6be73 logical address
+228970:6be86 logical address
+228971:6be99 logical address
+229051:6c64a logical address
+229058:6c708 logical address
+229087:6cce5 logical address
+229110:6ce1a logical address
+229151:6db1c Logical address of device to get information aboutYU(U16)
+229327:702bf Logical address of device to get information about
+229330:70319 Commander's logical address
+230327:7c342 -1250 Error mapping VXI address
+230328:7c363 -1251 Error unmapping VXI address
+230961:86796 -1250 Error mapping VXI address
+230962:867b7 -1251 Error unmapping VXI address
+232152:94be7 -1250 Error mapping VXI address
+232153:94c08 -1251 Error unmapping VXI address
+233317:a185a -1250 Error mapping VXI address
+233318:a187b -1251 Error unmapping VXI address
+233845:a79cd address error
+233858:a8bfe True if either primary or secondary addresses are outside ot the range 0-31. address error indicates whether a range error has occurred.
+233867:a9118 address error"
+233868:a912c address error
+233920:aacd8 address error
+233939:aae57 address error
+233940:aae68 address error
+233950:ab200 address error
+233968:ab3ad address error
+233975:ab4b5 address error
+234093:b4421 -1250 Error mapping VXI address
+234094:b4442 -1251 Error unmapping VXI address
+234473:b9a9c address error
+234478:b9b0d address error
+235698:c7102 logical address$|
+235706:c724d logical address
+236262:ce637 address error
+236545:d0c1b address error
+236608:d10ae logical addressPTH0)
+236733:d9319 -1250 Error mapping VXI address
+236734:d933a -1251 Error unmapping VXI address
+237147:e236b address error
+237152:e23e3 address error
+237162:e29ea address error
+237167:e2ae7 address error
+238179:ee995 address error
+238189:eea8f address error
+238459:f0c2f address error
+238586:f3a50 logical addr - VXI logical address
+238626:f429b -1250 Error mapping VXI address
+238627:f42bc -1251 Error unmapping VXI address
+239459:fbf3f -1250 Error mapping VXI address
+239460:fbf60 -1251 Error unmapping VXI address
+260900:2465d6 GPIB EADR: GPIB Controller not addressed correctly.ALabVIEW: End of file.
+260923:246bbf GPIB NADDR: No GPIB address input.CLabVIEW: Print driver error.
+292428:434a Logical address to read buffer from-)(U32)
+292676:7a50 VXI logical address to write buffer to.*(U32)
+295198:32421 logical address
+295210:34363 logical address
+295211:34379 logical address@
+295273:35a08 logical address
+295274:35a1e logical address
+295275:35a48 logical address4
+295308:36345 logical address0
+295313:36425 logical address
+295324:365cc logical address
+295345:369fa logical address
+295466:39168 logical address
+295467:39186 logical address
+295468:39199 logical address
+295469:391ac logical address
+295470:391bf logical address
+295471:391d2 logical address
+295551:39967 logical address
+295558:39a25 logical address
+295587:39fff logical address
+295610:3a133 logical address
+295651:3ae39 Logical address of device to get information aboutYU(U16)
+295832:3d5dc Logical address of device to get information about
+295835:3d636 Commander's logical address
+296842:4962f -1250 Error mapping VXI address
+296843:49650 -1251 Error unmapping VXI address
+297487:53a73 -1250 Error mapping VXI address
+297488:53a94 -1251 Error unmapping VXI address
+298690:61e98 -1250 Error mapping VXI address
+298691:61eb9 -1251 Error unmapping VXI address
+299865:6eae3 -1250 Error mapping VXI address
+299866:6eb04 -1251 Error unmapping VXI address
+300408:74c39 address error
+300421:75e67 True if either primary or secondary addresses are outside ot the range 0-31. address error indicates whether a range error has occurred.
+300430:76381 address error"
+300431:76395 address error
+300483:77f42 address error
+300502:780c1 address error
+300503:780d2 address error
+300514:7845e address error
+300532:78608 address error
+300539:7870e address error
+300658:8167e -1250 Error mapping VXI address
+300659:8169f -1251 Error unmapping VXI address
+301044:86cfb address error
+301049:86d6c address error
+302277:94362 logical address$|
+302285:944ad logical address
+302841:9b896 address error
+303129:9de1b address error
+303192:9e2ad logical addressPTH0)
+303332:a6516 -1250 Error mapping VXI address
+303333:a6537 -1251 Error unmapping VXI address
+303755:af56b address error
+303760:af5e3 address error
+303770:afbea address error
+303775:afce7 address error
+304788:bbb97 address error
+304798:bbc91 address error
+305073:bddd1 address error
+305216:c0bf5 logical addr - VXI logical address
+305256:c1440 -1250 Error mapping VXI address
+305257:c1461 -1251 Error unmapping VXI address
+306098:c90c8 -1250 Error mapping VXI address
+306099:c90e9 -1251 Error unmapping VXI address
+314908:1641a7 GPIB EADR: GPIB Controller not addressed correctly.ALabVIEW: End of file.
+314931:164790 GPIB NADDR: No GPIB address input.CLabVIEW: Print driver error.
+324549:375a Logical address to read buffer from-)(U32)
+324798:6df4 VXI logical address to write buffer to.*(U32)
+327396:316dd logical address
+327410:33617 logical address
+327411:3362d logical address@
+327472:34cbc logical address
+327473:34cd2 logical address
+327474:34cfc logical address4
+327507:355f9 logical address0
+327512:356d9 logical address
+327523:35880 logical address
+327544:35cae logical address
+327665:3841c logical address
+327666:3843a logical address
+327667:3844d logical address
+327668:38460 logical address
+327669:38473 logical address
+327670:38486 logical address
+327750:38c1c logical address
+327757:38cda logical address
+327786:392b4 logical address
+327809:393e9 logical address
+327855:3a16d Logical address of device to get information aboutYU(U16)
+328038:3c908 Logical address of device to get information about
+328041:3c962 Commander's logical address
+329060:488af -1250 Error mapping VXI address
+329061:488d0 -1251 Error unmapping VXI address
+329724:52d5f -1250 Error mapping VXI address
+329725:52d80 -1251 Error unmapping VXI address
+330940:611e0 -1250 Error mapping VXI address
+330941:61201 -1251 Error unmapping VXI address
+332126:6ddf7 -1250 Error mapping VXI address
+332127:6de18 -1251 Error unmapping VXI address
+332672:73f15 address error
+332685:7513b True if either primary or secondary addresses are outside ot the range 0-31. address error indicates whether a range error has occurred.
+332696:75655 address error"
+332697:75669 address error
+332750:77216 address error
+332769:77395 address error
+332770:773a6 address error
+332783:77732 address error
+332801:778dc address error
+332808:779e2 address error
+332927:80a8e -1250 Error mapping VXI address
+332928:80aaf -1251 Error unmapping VXI address
+333321:86106 address error
+333326:86177 address error
+334561:9376d logical address$|
+334569:938b8 logical address
+335125:9aca6 address error
+335409:9d22a address error
+335472:9d6bc logical addressPTH0)
+335606:a57fe -1250 Error mapping VXI address
+335607:a581f -1251 Error unmapping VXI address
+336035:ae852 address error
+336040:ae8ca address error
+336050:aeed0 address error
+336055:aefcd address error
+337070:bae74 address error
+337080:baf6e address error
+337356:bd0ae address error
+337490:bfee1 logical addr - VXI logical address
+337530:c072c -1250 Error mapping VXI address
+337531:c074d -1251 Error unmapping VXI address
+338375:c83e5 -1250 Error mapping VXI address
+338376:c8406 -1251 Error unmapping VXI address
+341385:103777 GPIB EADR: GPIB Controller not addressed correctly.ALabVIEW: End of file.
+341408:103d60 GPIB NADDR: No GPIB address input.CLabVIEW: Print driver error.
+347397:22a1 Logical address to read buffer from-)(U32)
+347644:5943 VXI logical address to write buffer to.*(U32)
+350148:303a5 logical address
+350160:322ea logical address
+350161:32300 logical address@
+350220:3398f logical address
+350221:339a5 logical address
+350222:339cf logical address4
+350255:342cc logical address0
+350260:343ac logical address
+350271:34553 logical address
+350292:34981 logical address
+350411:370ef logical address
+350412:3710d logical address
+350413:37120 logical address
+350414:37133 logical address
+350415:37146 logical address
+350416:37159 logical address
+350496:3790a logical address
+350503:379c8 logical address
+350532:37fa5 logical address
+350555:380da logical address
+350596:38ddc Logical address of device to get information aboutYU(U16)
+350772:3b57f Logical address of device to get information about
+350775:3b5d9 Commander's logical address
+351772:47602 -1250 Error mapping VXI address
+351773:47623 -1251 Error unmapping VXI address
+352406:51a56 -1250 Error mapping VXI address
+352407:51a77 -1251 Error unmapping VXI address
+353597:5fea7 -1250 Error mapping VXI address
+353598:5fec8 -1251 Error unmapping VXI address
+354675:6a005 address error
+354688:6b236 True if either primary or secondary addresses are outside ot the range 0-31. address error indicates whether a range error has occurred.
+354697:6b750 address error"
+354698:6b764 address error
+354750:6d310 address error
+354769:6d48f address error
+354770:6d4a0 address error
+354780:6d838 address error
+354798:6d9e5 address error
+354805:6daed address error
+354923:76a59 -1250 Error mapping VXI address
+354924:76a7a -1251 Error unmapping VXI address
+355303:7c0d4 address error
+355308:7c145 address error
+356528:8973a logical address$|
+356536:89885 logical address
+357092:90c6f address error
+357375:93253 address error
+357438:936e6 logical addressPTH0)
+357563:9b951 -1250 Error mapping VXI address
+357564:9b972 -1251 Error unmapping VXI address
+357977:a49a3 address error
+357982:a4a1b address error
+357992:a5022 address error
+357997:a511f address error
+359009:b0fcd address error
+359019:b10c7 address error
+359289:b3267 address error
+359416:b6088 logical addr - VXI logical address
+359456:b68d3 -1250 Error mapping VXI address
+359457:b68f4 -1251 Error unmapping VXI address
+371338:17fff8 GPIB EADR: GPIB Controller not addressed correctly.ALabVIEW: End of file.
+371361:1805e1 GPIB NADDR: No GPIB address input.CLabVIEW: Print driver error.
+418057:21be Logical address to read buffer from-)(U32)
+418305:58c4 VXI logical address to write buffer to.*(U32)
+420827:30295 logical address
+420839:321d7 logical address
+420840:321ed logical address@
+420902:3387c logical address
+420903:33892 logical address
+420904:338bc logical address4
+420937:341b9 logical address0
+420942:34299 logical address
+420953:34440 logical address
+420974:3486e logical address
+421095:36fdc logical address
+421096:36ffa logical address
+421097:3700d logical address
+421098:37020 logical address
+421099:37033 logical address
+421100:37046 logical address
+421180:377db logical address
+421187:37899 logical address
+421216:37e73 logical address
+421239:37fa7 logical address
+421280:38cad Logical address of device to get information aboutYU(U16)
+421461:3b450 Logical address of device to get information about
+421464:3b4aa Commander's logical address
+422471:474a3 -1250 Error mapping VXI address
+422472:474c4 -1251 Error unmapping VXI address
+423116:518e7 -1250 Error mapping VXI address
+423117:51908 -1251 Error unmapping VXI address
+424319:5fd0c -1250 Error mapping VXI address
+424320:5fd2d -1251 Error unmapping VXI address
+425407:69e45 address error
+425420:6b073 True if either primary or secondary addresses are outside ot the range 0-31. address error indicates whether a range error has occurred.
+425429:6b58d address error"
+425430:6b5a1 address error
+425482:6d14e address error
+425501:6d2cd address error
+425502:6d2de address error
+425513:6d66a address error
+425531:6d814 address error
+425538:6d91a address error
+425657:7688a -1250 Error mapping VXI address
+425658:768ab -1251 Error unmapping VXI address
+426043:7bf07 address error
+426048:7bf78 address error
+427276:8956e logical address$|
+427284:896b9 logical address
+427840:90aa2 address error
+428128:93027 address error
+428191:934b9 logical addressPTH0)
+428331:9b722 -1250 Error mapping VXI address
+428332:9b743 -1251 Error unmapping VXI address
+428754:a4777 address error
+428759:a47ef address error
+428769:a4df6 address error
+428774:a4ef3 address error
+429787:b0da3 address error
+429797:b0e9d address error
+430072:b2fdd address error
+430215:b5e01 logical addr - VXI logical address
+430255:b664c -1250 Error mapping VXI address
+430256:b666d -1251 Error unmapping VXI address
+434039:f3c1b GPIB EADR: GPIB Controller not addressed correctly.ALabVIEW: End of file.
+434062:f4204 GPIB NADDR: No GPIB address input.CLabVIEW: Print driver error.
+452848:ba6 Logical address to read buffer from-)(U32)
+453097:4240 VXI logical address to write buffer to.*(U32)
+455695:2eb29 logical address
+455709:30a63 logical address
+455710:30a79 logical address@
+455771:32108 logical address
+455772:3211e logical address
+455773:32148 logical address4
+455806:32a45 logical address0
+455811:32b25 logical address
+455822:32ccc logical address
+455843:330fa logical address
+455964:35868 logical address
+455965:35886 logical address
+455966:35899 logical address
+455967:358ac logical address
+455968:358bf logical address
+455969:358d2 logical address
+456049:36068 logical address
+456056:36126 logical address
+456085:36700 logical address
+456108:36835 logical address
+456154:375b9 Logical address of device to get information aboutYU(U16)
+456337:39d54 Logical address of device to get information about
+456340:39dae Commander's logical address
+457359:45cfb -1250 Error mapping VXI address
+457360:45d1c -1251 Error unmapping VXI address
+458023:501ab -1250 Error mapping VXI address
+458024:501cc -1251 Error unmapping VXI address
+459239:5e62c -1250 Error mapping VXI address
+459240:5e64d -1251 Error unmapping VXI address
+460338:68705 address error
+460351:6992b True if either primary or secondary addresses are outside ot the range 0-31. address error indicates whether a range error has occurred.
+460362:69e45 address error"
+460363:69e59 address error
+460416:6ba06 address error
+460435:6bb85 address error
+460436:6bb96 address error
+460449:6bf22 address error
+460467:6c0cc address error
+460474:6c1d2 address error
+460593:7527e -1250 Error mapping VXI address
+460594:7529f -1251 Error unmapping VXI address
+460987:7a8f6 address error
+460992:7a967 address error
+462227:87f5d logical address$|
+462235:880a8 logical address
+462791:8f496 address error
+463075:91a1a address error
+463138:91eac logical addressPTH0)
+463272:99fee -1250 Error mapping VXI address
+463273:9a00f -1251 Error unmapping VXI address
+463701:a3042 address error
+463706:a30ba address error
+463716:a36c0 address error
+463721:a37bd address error
+464736:af664 address error
+464746:af75e address error
+465022:b189e address error
+465156:b46d1 logical addr - VXI logical address
+465196:b4f1c -1250 Error mapping VXI address
+465197:b4f3d -1251 Error unmapping VXI address
+470018:10319c GPIB EADR: GPIB Controller not addressed correctly.ALabVIEW: End of file.
+470041:103785 GPIB NADDR: No GPIB address input.CLabVIEW: Print driver error.
+476613:22a1 Logical address to read buffer from-)(U32)
+476860:5943 VXI logical address to write buffer to.*(U32)
+479364:303a5 logical address
+479376:322ea logical address
+479377:32300 logical address@
+479436:3398f logical address
+479437:339a5 logical address
+479438:339cf logical address4
+479471:342cc logical address0
+479476:343ac logical address
+479487:34553 logical address
+479508:34981 logical address
+479627:370ef logical address
+479628:3710d logical address
+479629:37120 logical address
+479630:37133 logical address
+479631:37146 logical address
+479632:37159 logical address
+479712:3790a logical address
+479719:379c8 logical address
+479748:37fa5 logical address
+479771:380da logical address
+479812:38ddc Logical address of device to get information aboutYU(U16)
+479988:3b57f Logical address of device to get information about
+479991:3b5d9 Commander's logical address
+480988:47602 -1250 Error mapping VXI address
+480989:47623 -1251 Error unmapping VXI address
+481622:51a56 -1250 Error mapping VXI address
+481623:51a77 -1251 Error unmapping VXI address
+482813:5fea7 -1250 Error mapping VXI address
+482814:5fec8 -1251 Error unmapping VXI address
+483891:6a005 address error
+483904:6b236 True if either primary or secondary addresses are outside ot the range 0-31. address error indicates whether a range error has occurred.
+483913:6b750 address error"
+483914:6b764 address error
+483966:6d310 address error
+483985:6d48f address error
+483986:6d4a0 address error
+483996:6d838 address error
+484014:6d9e5 address error
+484021:6daed address error
+484139:76a59 -1250 Error mapping VXI address
+484140:76a7a -1251 Error unmapping VXI address
+484519:7c0d4 address error
+484524:7c145 address error
+485744:8973a logical address$|
+485752:89885 logical address
+486308:90c6f address error
+486591:93253 address error
+486654:936e6 logical addressPTH0)
+486779:9b951 -1250 Error mapping VXI address
+486780:9b972 -1251 Error unmapping VXI address
+487193:a49a3 address error
+487198:a4a1b address error
+487208:a5022 address error
+487213:a511f address error
+488225:b0fcd address error
+488235:b10c7 address error
+488505:b3267 address error
+488632:b6088 logical addr - VXI logical address
+488672:b68d3 -1250 Error mapping VXI address
+488673:b68f4 -1251 Error unmapping VXI address
+503848:1e0f99 GPIB EADR: GPIB Controller not addressed correctly.ALabVIEW: End of file.
+503871:1e1582 GPIB NADDR: No GPIB address input.CLabVIEW: Print driver error.
+530525:21be Logical address to read buffer from-)(U32)
+530773:58c4 VXI logical address to write buffer to.*(U32)
+533295:30295 logical address
+533307:321d7 logical address
+533308:321ed logical address@
+533370:3387c logical address
+533371:33892 logical address
+533372:338bc logical address4
+533405:341b9 logical address0
+533410:34299 logical address
+533421:34440 logical address
+533442:3486e logical address
+533563:36fdc logical address
+533564:36ffa logical address
+533565:3700d logical address
+533566:37020 logical address
+533567:37033 logical address
+533568:37046 logical address
+533648:377db logical address
+533655:37899 logical address
+533684:37e73 logical address
+533707:37fa7 logical address
+533748:38cad Logical address of device to get information aboutYU(U16)
+533929:3b450 Logical address of device to get information about
+533932:3b4aa Commander's logical address
+534939:474a3 -1250 Error mapping VXI address
+534940:474c4 -1251 Error unmapping VXI address
+535584:518e7 -1250 Error mapping VXI address
+535585:51908 -1251 Error unmapping VXI address
+536787:5fd0c -1250 Error mapping VXI address
+536788:5fd2d -1251 Error unmapping VXI address
+537875:69e45 address error
+537888:6b073 True if either primary or secondary addresses are outside ot the range 0-31. address error indicates whether a range error has occurred.
+537897:6b58d address error"
+537898:6b5a1 address error
+537950:6d14e address error
+537969:6d2cd address error
+537970:6d2de address error
+537981:6d66a address error
+537999:6d814 address error
+538006:6d91a address error
+538125:7688a -1250 Error mapping VXI address
+538126:768ab -1251 Error unmapping VXI address
+538511:7bf07 address error
+538516:7bf78 address error
+539744:8956e logical address$|
+539752:896b9 logical address
+540308:90aa2 address error
+540596:93027 address error
+540659:934b9 logical addressPTH0)
+540799:9b722 -1250 Error mapping VXI address
+540800:9b743 -1251 Error unmapping VXI address
+541222:a4777 address error
+541227:a47ef address error
+541237:a4df6 address error
+541242:a4ef3 address error
+542255:b0da3 address error
+542265:b0e9d address error
+542540:b2fdd address error
+542683:b5e01 logical addr - VXI logical address
+542723:b664c -1250 Error mapping VXI address
+542724:b666d -1251 Error unmapping VXI address
+546414:f2b2b GPIB EADR: GPIB Controller not addressed correctly.ALabVIEW: End of file.
+546437:f3114 GPIB NADDR: No GPIB address input.CLabVIEW: Print driver error.
+560764:ba6 Logical address to read buffer from-)(U32)
+561013:4240 VXI logical address to write buffer to.*(U32)
+563611:2eb29 logical address
+563625:30a63 logical address
+563626:30a79 logical address@
+563687:32108 logical address
+563688:3211e logical address
+563689:32148 logical address4
+563722:32a45 logical address0
+563727:32b25 logical address
+563738:32ccc logical address
+563759:330fa logical address
+563880:35868 logical address
+563881:35886 logical address
+563882:35899 logical address
+563883:358ac logical address
+563884:358bf logical address
+563885:358d2 logical address
+563965:36068 logical address
+563972:36126 logical address
+564001:36700 logical address
+564024:36835 logical address
+564070:375b9 Logical address of device to get information aboutYU(U16)
+564253:39d54 Logical address of device to get information about
+564256:39dae Commander's logical address
+565275:45cfb -1250 Error mapping VXI address
+565276:45d1c -1251 Error unmapping VXI address
+565939:501ab -1250 Error mapping VXI address
+565940:501cc -1251 Error unmapping VXI address
+567155:5e62c -1250 Error mapping VXI address
+567156:5e64d -1251 Error unmapping VXI address
+568254:68705 address error
+568267:6992b True if either primary or secondary addresses are outside ot the range 0-31. address error indicates whether a range error has occurred.
+568278:69e45 address error"
+568279:69e59 address error
+568332:6ba06 address error
+568351:6bb85 address error
+568352:6bb96 address error
+568365:6bf22 address error
+568383:6c0cc address error
+568390:6c1d2 address error
+568509:7527e -1250 Error mapping VXI address
+568510:7529f -1251 Error unmapping VXI address
+568903:7a8f6 address error
+568908:7a967 address error
+570143:87f5d logical address$|
+570151:880a8 logical address
+570707:8f496 address error
+570991:91a1a address error
+571054:91eac logical addressPTH0)
+571188:99fee -1250 Error mapping VXI address
+571189:9a00f -1251 Error unmapping VXI address
+571617:a3042 address error
+571622:a30ba address error
+571632:a36c0 address error
+571637:a37bd address error
+572652:af664 address error
+572662:af75e address error
+572938:b189e address error
+573072:b46d1 logical addr - VXI logical address
+573112:b4f1c -1250 Error mapping VXI address
+573113:b4f3d -1251 Error unmapping VXI address
+579267:164e5d GPIB EADR: GPIB Controller not addressed correctly.ALabVIEW: End of file.
+579290:165446 GPIB NADDR: No GPIB address input.CLabVIEW: Print driver error.
+581336:2219 Logical address to read buffer from-)(U32)
+581583:58bb VXI logical address to write buffer to.*(U32)
+584087:3031d logical address
+584099:32262 logical address
+584100:32278 logical address@
+584159:33907 logical address
+584160:3391d logical address
+584161:33947 logical address4
+584194:34244 logical address0
+584199:34324 logical address
+584210:344cb logical address
+584231:348f9 logical address
+584350:37067 logical address
+584351:37085 logical address
+584352:37098 logical address
+584353:370ab logical address
+584354:370be logical address
+584355:370d1 logical address
+584435:37882 logical address
+584442:37940 logical address
+584471:37f1d logical address
+584494:38052 logical address
+584535:38d54 Logical address of device to get information aboutYU(U16)
+584711:3b4f7 Logical address of device to get information about
+584714:3b551 Commander's logical address
+585711:4757a -1250 Error mapping VXI address
+585712:4759b -1251 Error unmapping VXI address
+586345:519ce -1250 Error mapping VXI address
+586346:519ef -1251 Error unmapping VXI address
+587536:5fe1f -1250 Error mapping VXI address
+587537:5fe40 -1251 Error unmapping VXI address
+588613:69f65 address error
+588626:6b196 True if either primary or secondary addresses are outside ot the range 0-31. address error indicates whether a range error has occurred.
+588635:6b6b0 address error"
+588636:6b6c4 address error
+588688:6d270 address error
+588707:6d3ef address error
+588708:6d400 address error
+588718:6d798 address error
+588736:6d945 address error
+588743:6da4d address error
+588861:769b9 -1250 Error mapping VXI address
+588862:769da -1251 Error unmapping VXI address
+589241:7c034 address error
+589246:7c0a5 address error
+590466:8969a logical address$|
+590474:897e5 logical address
+591030:90bcf address error
+591313:931b3 address error
+591376:93646 logical addressPTH0)
+591501:9b8b1 -1250 Error mapping VXI address
+591502:9b8d2 -1251 Error unmapping VXI address
+591915:a4903 address error
+591920:a497b address error
+591930:a4f82 address error
+591935:a507f address error
+592947:b0f2d address error
+592957:b1027 address error
+593227:b31c7 address error
+593354:b5fe8 logical addr - VXI logical address
+593394:b6833 -1250 Error mapping VXI address
+593395:b6854 -1251 Error unmapping VXI address

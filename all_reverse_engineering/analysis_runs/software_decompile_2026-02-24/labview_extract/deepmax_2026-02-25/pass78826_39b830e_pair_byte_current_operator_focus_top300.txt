@@ -1,0 +1,16 @@
+75867:325275 UQbyte count is the number of bytes currently queued up in the serial port buffer.
+101388:4af7d2 Reads a string of characters from a byte stream file at the specified location; the default location is at the current mark. The VI does incoming and internal error checking and does not read if an incoming error occurs.
+246193:163d19 UQbyte count is the number of bytes currently queued up in the serial port buffer.
+259785:227882 Reads a string of characters from a byte stream file at the specified location; the default location is at the current mark. The VI does incoming and internal error checking and does not read if an incoming error occurs.
+259959:229360 Reads a string of characters from a byte stream file at the specified location; the default location is at the current mark. The VI does incoming and internal error checking and does not read if an incoming error occurs.
+308413:ed304 UQbyte count is the number of bytes currently queued up in the serial port buffer.
+372335:192b26 Reads a string of characters from a byte stream file at the specified location; the default location is at the current mark. The VI does incoming and internal error checking and does not read if an incoming error occurs.
+396611:330d21 UQbyte count is the number of bytes currently queued up in the serial port buffer.
+404043:3a4f48 Reads a string of characters from a byte stream file at the specified location; the default location is at the current mark. The VI does incoming and internal error checking and does not read if an incoming error occurs.
+440800:164064 UQbyte count is the number of bytes currently queued up in the serial port buffer.
+504744:1f31e7 Reads a string of characters from a byte stream file at the specified location; the default location is at the current mark. The VI does incoming and internal error checking and does not read if an incoming error occurs.
+521566:34a1b4 Qbyte count is the number of bytes currently queued up in the serial port buffer.
+527380:3b3b94 Reads a string of characters from a byte stream file at the specified location; the default location is at the current mark. The VI does incoming and internal error checking and does not read if an incoming error occurs.
+558167:1c42e2 Qbyte count is the number of bytes currently queued up in the serial port buffer.
+596779:f4df4 Reads a string of characters from a byte stream file at the specified location; the default location is at the current mark. The VI does incoming and internal error checking and does not read if an incoming error occurs.
+607652:1a9938 Reads a string of characters from a byte stream file at the specified location; the default location is at the current mark. The VI does incoming and internal error checking and does not read if an incoming error occurs.

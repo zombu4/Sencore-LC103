@@ -1,0 +1,8 @@
+47530:161622 steppingFlag=0x%04x\nwindowFlag=0x%04x\nsuspendFlag=0x%04x\nupdateFlag=0x%04x\nloggingFlag=0x%04x\nshrunkFlag=0x%04x\nrunningFlag=0x%04x\ndisposedFlag=0x%04x\nrecordingDSFlag=0x%04x\n
+54724:1e7b2f *.calBPlease choose the file containing the inductance calibration data.gencode.cGenDispatchEntry
+225048:27f5b *.calBPlease choose the file containing the inductance calibration data.gencode.cGenDispatchEntry
+319689:1b1756 InductanceND
+322350:1df98a InductanceND
+431556:c76c6 InductanceND
+446590:1b8b32 InductanceND|
+544024:c76c6 InductanceND

@@ -1,0 +1,220 @@
+53020:1cbd2e file size (bytes)&
+53021:1cbd46 file size (bytes)4
+53919:1db04a file size (bytes)
+53988:1db467 file size (bytes)
+53989:1db47c file size (bytes)
+53990:1db491 file size (bytes)
+53991:1db4a6 file size (bytes)
+53992:1db4bb file size (bytes)
+54014:1dc26f file size is the size of the file in bytes; it is also the location of the end of file.
+54075:1dd2a3 file size (bytes)R
+54148:1dd7b9 file size (bytes)" @
+54161:1dd95f file size (bytes)
+99519:4921cc file size (bytes)&
+99520:4921e4 file size (bytes)(
+99941:49996a file size (bytes)
+100004:499d0b file size (bytes)
+100005:499d20 file size (bytes)
+100006:499d35 file size (bytes)
+100007:499d4a file size (bytes)
+100008:499d5f file size (bytes)
+100024:49a72e file size is the size of the file in bytes; it is also the location of the end of file.
+100068:49b0c3 file size (bytes)R
+100125:49b4d8 file size (bytes)" @
+100138:49b66f file size (bytes)
+100603:4a384e lhfile size is the size of the file in bytes at the time the file is closed; the value is zero otherwise.
+100635:4a4120 file size (bytes)&
+100636:4a4138 file size (bytes)0
+100766:4a6a74 file size (bytes)
+100804:4a6c64 file size (bytes)
+100805:4a6c79 file size (bytes)
+100806:4a6c8e file size (bytes)
+100807:4a6ca3 file size (bytes)
+100808:4a6cb8 file size (bytes)
+100819:4a703b file size is the size of the file in bytes at the time the file is closed; the value is zero otherwise.
+100898:4a7b5c file size (bytes)
+100899:4a7b88 file size (bytes)'
+100916:4a7d2b file size (bytes)
+102747:4d3f75 file size (bytes)
+102768:4d40eb file size (bytes)
+102813:4d457d file size (bytes)
+102830:4d4738 file size (bytes)
+102945:4d600a file size (bytes)
+102952:4d60b0 file size (bytes)"@
+103081:4d70e2 file size (bytes)
+103108:4d72be file size (bytes)
+111777:565068 yustart of read offset is the position in the file, measured in characters (or bytes), at which the VI begins reading.
+112027:56800a file size (bytes)
+112047:568170 file size (bytes)
+112115:568b30 file size (bytes)47
+112157:56951c file size (bytes)
+112170:5696e7 file size (bytes)
+112320:56bf1f file size (bytes)
+112325:56bf79 file size (bytes)
+112347:56c4a9 start of read offset is the position in the file, measured in characters (or bytes), at which the VI begins reading.
+112722:56e299 file size (bytes)
+112731:56e325 file size (bytes)
+223277:a95a file size (bytes)&
+223278:a972 file size (bytes)4
+224176:19c76 file size (bytes)
+224245:1a093 file size (bytes)
+224246:1a0a8 file size (bytes)
+224247:1a0bd file size (bytes)
+224248:1a0d2 file size (bytes)
+224249:1a0e7 file size (bytes)
+224271:1ae9b file size is the size of the file in bytes; it is also the location of the end of file.
+224332:1becf file size (bytes)R
+224405:1c3e5 file size (bytes)" @
+224418:1c58b file size (bytes)
+224478:1cffb file size (bytes)
+224507:1dba7 file size is the size of the file in bytes; it is also the location of the end of file.
+257779:2049bb file size (bytes)
+257849:208af8 file size (bytes)&
+257850:208b10 file size (bytes)(
+258271:210296 file size (bytes)
+258334:210637 file size (bytes)
+258335:21064c file size (bytes)
+258336:210661 file size (bytes)
+258337:210676 file size (bytes)
+258338:21068b file size (bytes)
+258354:21105a file size is the size of the file in bytes; it is also the location of the end of file.
+258398:2119ef file size (bytes)R
+258455:211e04 file size (bytes)" @
+258468:211f9b file size (bytes)
+258537:212de4 file size is the size of the file in bytes; it is also the location of the end of file.
+258958:219af5 file size (bytes)
+258974:21b0a2 lhfile size is the size of the file in bytes at the time the file is closed; the value is zero otherwise.
+259006:21b974 file size (bytes)&
+259007:21b98c file size (bytes)0
+259137:21e2c8 file size (bytes)
+259175:21e4b8 file size (bytes)
+259176:21e4cd file size (bytes)
+259177:21e4e2 file size (bytes)
+259178:21e4f7 file size (bytes)
+259179:21e50c file size (bytes)
+259190:21e88f file size is the size of the file in bytes at the time the file is closed; the value is zero otherwise.
+259269:21f3b0 file size (bytes)
+259270:21f3dc file size (bytes)'
+259287:21f57f file size (bytes)
+259354:21fce6 file size is the size of the file in bytes at the time the file is closed; the value is zero otherwise.
+261186:24ced5 file size (bytes)
+261207:24d04b file size (bytes)
+261252:24d4dd file size (bytes)
+261269:24d698 file size (bytes)
+261384:24ef6a file size (bytes)
+261391:24f010 file size (bytes)"@
+261520:250042 file size (bytes)
+261547:25021e file size (bytes)
+270306:2df7bc yustart of read offset is the position in the file, measured in characters (or bytes), at which the VI begins reading.
+270556:2e275e file size (bytes)
+270576:2e28c4 file size (bytes)
+270644:2e3284 file size (bytes)47
+270686:2e3c70 file size (bytes)
+270699:2e3e3b file size (bytes)
+270849:2e6673 file size (bytes)
+270854:2e66cd file size (bytes)
+270876:2e6bfd start of read offset is the position in the file, measured in characters (or bytes), at which the VI begins reading.
+271251:2e89ed file size (bytes)
+271260:2e8a79 file size (bytes)
+271323:2e9400 start of read offset is the position in the file, measured in characters (or bytes), at which the VI begins reading.
+366281:12c8fe file size (bytes)
+366290:12c98b file size (bytes)
+366566:12fcfb file size (bytes)
+366590:12ff10 file size (bytes)
+366633:13086f start of read offset is the position in the file, measured in characters (or bytes), at which the VI begins reading.
+366639:130b9d yustart of read offset is the position in the file, measured in characters (or bytes), at which the VI begins reading.
+366705:131686 file size (bytes)
+366718:131780 file size (bytes)"
+366740:13191f file size (bytes)
+368799:151243 file size (bytes)
+370217:166677 file size (bytes)
+370244:16685a file size (bytes)
+370426:1685f6 file size (bytes)
+370434:1686ba file size (bytes)"@!
+370515:1694e7 file size (bytes)
+370533:169623 file size (bytes)&
+370564:16987b file size (bytes)
+372873:19a9c4 file size (bytes)
+372889:19ac40 file size (bytes)
+372938:19b109 file size (bytes)
+372942:19b38b file size is the size of the file in bytes at the time the file is closed; the value is zero otherwise.
+372949:19b9c0 lhfile size is the size of the file in bytes at the time the file is closed; the value is zero otherwise.
+372969:19bf18 file size (bytes)
+373005:19c1f6 file size (bytes)M
+373863:1ac3cd file size (bytes)
+373917:1ac8c5 file size (bytes)
+374012:1ad30c file size (bytes)"@!
+374024:1adb13 file size is the size of the file in bytes; it is also the location of the end of file.
+374056:1ae712 file size (bytes),
+374104:1aec6f file size (bytes)M
+392496:2eddfb file size (bytes)
+392530:2ee09d file size (bytes)
+394254:30cddb file size is the size of the file in bytes; it is also the location of the end of file.
+404030:3a4464 file size is the size of the file in bytes; it is also the location of the end of file.
+404039:3a4b4e file size is the size of the file in bytes at the time the file is closed; the value is zero otherwise.
+404098:3a6a04 start of read offset is the position in the file, measured in characters (or bytes), at which the VI begins reading.
+405978:3ca0c3 file size (bytes)
+406034:3ca641 file size (bytes)
+406173:3cb5c6 file size (bytes)"@!
+406190:3cc0ab file size is the size of the file in bytes; it is also the location of the end of file.
+406204:3cc882 \Xfile size is the size of the file in bytes; it is also the location of the end of file.
+406216:3ccde1 file size (bytes)&
+406281:3cd620 file size (bytes)M
+496078:147a83 file size (bytes)
+496087:147b10 file size (bytes)
+496163:1483f4 file size (bytes)
+496232:149d0b start of read offset is the position in the file, measured in characters (or bytes), at which the VI begins reading.
+496296:14a585 file size (bytes)
+496309:14a67f file size (bytes)"
+496331:14a81e file size (bytes)
+496402:14bbae ustart of read offset is the position in the file, measured in characters (or bytes), at which the VI begins reading.
+503232:1ce4a8 file size (bytes)
+503259:1ce68b file size (bytes)
+503401:1cff12 file size (bytes)
+503419:1d004e file size (bytes)&
+503450:1d02a6 file size (bytes)
+503587:1d248b file size (bytes)
+505105:1f8f83 file size (bytes)
+505120:1f9214 file size (bytes)
+505194:1f9efc file size (bytes)
+505198:1fa17e file size is the size of the file in bytes at the time the file is closed; the value is zero otherwise.
+505213:1fa680 file size (bytes)
+505249:1fa95e file size (bytes)H
+505290:1fbc1f hfile size is the size of the file in bytes at the time the file is closed; the value is zero otherwise.
+505652:20529d file size (bytes)
+505706:2057a5 file size (bytes)
+505858:207a01 file size (bytes)"@!
+505870:208208 file size is the size of the file in bytes; it is also the location of the end of file.
+505887:2084ef file size (bytes),
+505934:208a50 file size (bytes)H
+506088:20ae70 Xfile size is the size of the file in bytes; it is also the location of the end of file.
+520172:332227 file size (bytes)
+520206:3324c9 file size (bytes)
+520846:33c6d3 file size is the size of the file in bytes; it is also the location of the end of file.
+527367:3b30b0 file size is the size of the file in bytes; it is also the location of the end of file.
+527376:3b379a file size is the size of the file in bytes at the time the file is closed; the value is zero otherwise.
+527435:3b5650 start of read offset is the position in the file, measured in characters (or bytes), at which the VI begins reading.
+527890:3c3a1e file size (bytes)
+527945:3c3fb1 file size (bytes)
+528187:3c7d2d file size (bytes)"@!
+528204:3c8812 file size is the size of the file in bytes; it is also the location of the end of file.
+528208:3c8a2e file size (bytes)&
+528274:3c92ad file size (bytes)H
+528611:3ccd91 Xfile size is the size of the file in bytes; it is also the location of the end of file.
+595347:d4dff file size (bytes)
+595380:d5a4b file size is the size of the file in bytes; it is also the location of the end of file.
+595555:ddc3a file size (bytes)
+595610:de1cd file size (bytes)
+595852:e1f49 file size (bytes)"@!
+595869:e2a2e file size is the size of the file in bytes; it is also the location of the end of file.
+595873:e2c4a file size (bytes)&
+595939:e34c9 file size (bytes)H
+596276:e6fad Xfile size is the size of the file in bytes; it is also the location of the end of file.
+596766:f4310 file size is the size of the file in bytes; it is also the location of the end of file.
+596775:f49fa file size is the size of the file in bytes at the time the file is closed; the value is zero otherwise.
+596834:f68b0 start of read offset is the position in the file, measured in characters (or bytes), at which the VI begins reading.
+597372:fc01b file size (bytes)
+597397:fc2b1 file size (bytes)
+607066:19fc78 file size is the size of the file in bytes; it is also the location of the end of file.
+607482:1a69de file size is the size of the file in bytes at the time the file is closed; the value is zero otherwise.
+610296:1d50c8 start of read offset is the position in the file, measured in characters (or bytes), at which the VI begins reading.

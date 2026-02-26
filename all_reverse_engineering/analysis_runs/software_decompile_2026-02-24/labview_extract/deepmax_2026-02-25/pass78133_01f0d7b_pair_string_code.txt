@@ -1,0 +1,20 @@
+52011:1b8b50 Configuration token not found.,Error occurred parsing configuration string.(Configuration allocation error occurred.$External code format error occurred.$External code offset error occurred.
+100461:4a14a9 You can optionally use the source messages string to pass on the source of the error. Enter one line of text for each element of the error codes array.  
+101596:4b763a error source is an optional string you can use to describe the source of error code. The VI uses the string in message if there is an error.
+258815:218889 You can optionally use the source messages string to pass on the source of the error. Enter one line of text for each element of the error codes array.  
+258946:219972 You can optionally use the source messages string to pass on the source of the error. Enter one line of text for each element of the error codes array.  
+260029:230212 error source is an optional string you can use to describe the source of error code. The VI uses the string in message if there is an error.
+314017:14de2f error source is an optional string you can use to describe the source of error code. The VI uses the string in message if there is an error.
+340500:ed412 error source is an optional string you can use to describe the source of error code. The VI uses the string in message if there is an error.
+371463:183bca error source is an optional string you can use to describe the source of error code. The VI uses the string in message if there is an error.
+373370:1a203c You can optionally use the source messages string to pass on the source of the error. Enter one line of text for each element of the error codes array.  
+404034:3a481e You can optionally use the source messages string to pass on the source of the error. Enter one line of text for each element of the error codes array.  
+434164:f77ed error source is an optional string you can use to describe the source of error code. The VI uses the string in message if there is an error.
+470143:106d6e error source is an optional string you can use to describe the source of error code. The VI uses the string in message if there is an error.
+504207:1e9d40 error source is an optional string you can use to describe the source of error code. The VI uses the string in message if there is an error.
+505478:1ff5af You can optionally use the source messages string to pass on the source of the error. Enter one line of text for each element of the error codes array.  
+527371:3b346a You can optionally use the source messages string to pass on the source of the error. Enter one line of text for each element of the error codes array.  
+546539:f66fd error source is an optional string you can use to describe the source of error code. The VI uses the string in message if there is an error.
+579626:16dc03 error source is an optional string you can use to describe the source of error code. The VI uses the string in message if there is an error.
+596770:f46ca You can optionally use the source messages string to pass on the source of the error. Enter one line of text for each element of the error codes array.  
+607296:1a3d6a You can optionally use the source messages string to pass on the source of the error. Enter one line of text for each element of the error codes array.  

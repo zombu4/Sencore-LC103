@@ -1,0 +1,85 @@
+{
+  "schema_version": 1,
+  "scenarios": [
+    {
+      "id": "start_do_next_current_source",
+      "description": "Start gate, software rev, current source pass, and do-next auto-advance.",
+      "selected_stage_ids": ["software_rev", "current_source"],
+      "rx_lines": [
+        "Wait for start button to be clicked",
+        "Press ENTER when ready, choose test to perform and press START.",
+        "All  (Not Ringer)",
+        "Software Rev. Check",
+        "Press 'Enter' when ready.",
+        "Current Source Calibration",
+        "Press 'Enter' when ready.",
+        "Current Source Calibration Passed",
+        "$$$Do next test if previous test passed"
+      ],
+      "expect_start_gate_passed": true,
+      "expect_done_contains": ["startup_select", "software_rev", "current_source"],
+      "expect_final_step_id": "finish"
+    },
+    {
+      "id": "cap_next_range_sync",
+      "description": "Capacitance high-point to next-range low-point handoff.",
+      "selected_stage_ids": ["capacitance"],
+      "rx_lines": [
+        "Press to start",
+        "all  (not ringer)",
+        "capacitance calibration",
+        "press 'enter' when ready",
+        "capacitance calibration",
+        "and press 'enter' when ready",
+        "next range to cal"
+      ],
+      "expect_start_gate_passed": true,
+      "expect_done_contains": ["cap_r0_high"],
+      "expect_final_step_id": "cap_r1_low"
+    },
+    {
+      "id": "rs232_fail_blocks_stage",
+      "description": "Communication failure marks current step as failed.",
+      "selected_stage_ids": ["software_rev", "current_source"],
+      "rx_lines": [
+        "Press to start",
+        "all  (not ringer)",
+        "Software Rev. Check",
+        "Current Source Calibration",
+        "RS-232 Connection Failed"
+      ],
+      "expect_start_gate_passed": true,
+      "expect_failed_contains": ["current_source"],
+      "expect_final_step_id": "current_source"
+    },
+    {
+      "id": "future_prompt_autosync",
+      "description": "Future-step prompt can sync wizard index forward when enabled.",
+      "selected_stage_ids": ["software_rev", "current_source", "gain", "leakage_v_cal"],
+      "rx_lines": [
+        "Press to start",
+        "all  (not ringer)",
+        "Leakage Voltage Calibration"
+      ],
+      "expect_start_gate_passed": true,
+      "expect_done_contains": ["startup_select"],
+      "expect_final_step_id": "leakage_v_cal"
+    },
+    {
+      "id": "do_next_without_pass_does_not_advance",
+      "description": "Do-next marker without PASS should not skip pass-gated stage.",
+      "selected_stage_ids": ["software_rev", "current_source"],
+      "rx_lines": [
+        "Press to start",
+        "all  (not ringer)",
+        "Software Rev. Check",
+        "Press 'Enter' when ready.",
+        "Current Source Calibration",
+        "$$$Do next test if previous test passed"
+      ],
+      "expect_start_gate_passed": true,
+      "expect_done_contains": ["startup_select", "software_rev"],
+      "expect_final_step_id": "current_source"
+    }
+  ]
+}

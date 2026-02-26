@@ -1,0 +1,69 @@
+52993:1caf99 pattern is the match pattern specification to display only certain types of files or directories (or folders). See the description of the File Dialog function for more information.
+54010:1dbe59 pattern is the match pattern specification to display only certain types of files or directories.  See the description of the File Dialog function for more information.
+54033:1dc745 [report file not found if function=0 (open); set file path to empty and refnum to NotARefnumMD
+54038:1dc888 8file is now open; proceed if function=1 (open or create){D
+54049:1dcb0e 2create a new file if function=1-3 (open or create)
+54055:1dcc98 .file is now open; proceed if function=0 (open)
+54058:1dce5a !Open or Create File (function=%d)a
+54109:1dd511 !Open or Create File (function=%d)
+99474:491285 pattern is the match pattern specification to display only certain types of files or directories (or folders). See the description of the File Dialog function for more information.
+100020:49a32d pattern is the match pattern specification to display only certain types of files or directories.  See the description of the File Dialog function for more information.
+223250:9bc5 pattern is the match pattern specification to display only certain types of files or directories (or folders). See the description of the File Dialog function for more information.
+224267:1aa85 pattern is the match pattern specification to display only certain types of files or directories.  See the description of the File Dialog function for more information.
+224290:1b371 [report file not found if function=0 (open); set file path to empty and refnum to NotARefnumMD
+224295:1b4b4 8file is now open; proceed if function=1 (open or create){D
+224306:1b73a 2create a new file if function=1-3 (open or create)
+224312:1b8c4 .file is now open; proceed if function=0 (open)
+224315:1ba86 !Open or Create File (function=%d)a
+224366:1c13d !Open or Create File (function=%d)
+224503:1d791 pattern is the match pattern specification to display only certain types of files or directories.  See the description of the File Dialog function for more information.
+257804:207bb1 pattern is the match pattern specification to display only certain types of files or directories (or folders). See the description of the File Dialog function for more information.
+258350:210c59 pattern is the match pattern specification to display only certain types of files or directories.  See the description of the File Dialog function for more information.
+258533:2129e3 pattern is the match pattern specification to display only certain types of files or directories.  See the description of the File Dialog function for more information.
+374020:1ad712 pattern is the match pattern specification to display only certain types of files or directories.  See the description of the File Dialog function for more information.
+374030:1ade9d pattern is the match pattern specification to display only certain types of files or directories (or folders). See the description of the File Dialog function for more information.
+394250:30c9c5 pattern is the match pattern specification to display only certain types of files or directories.  See the description of the File Dialog function for more information.
+404026:3a4063 pattern is the match pattern specification to display only certain types of files or directories.  See the description of the File Dialog function for more information.
+406144:3cb1ff !Open or Create File (function=%d)
+406186:3cbc95 pattern is the match pattern specification to display only certain types of files or directories.  See the description of the File Dialog function for more information.
+406196:3cc435 pattern is the match pattern specification to display only certain types of files or directories (or folders). See the description of the File Dialog function for more information.
+406298:3cda70 [[[report file not found if function=0 (open); set file path to empty and refnum to NotARefnumMD
+406304:3cdbc5 778file is now open; proceed if function=1 (open or create){D
+406316:3cde53 112create a new file if function=1-3 (open or create)
+406322:3cdfd7 --.file is now open; proceed if function=0 (open)
+406325:3ce193 !Open or Create File (function=%d)a
+505866:207e07 pattern is the match pattern specification to display only certain types of files or directories.  See the description of the File Dialog function for more information.
+506075:20a5fe pattern is the match pattern specification to display only certain types of files or directories (or folders). See the description of the File Dialog function for more information.
+520842:33c2bd pattern is the match pattern specification to display only certain types of files or directories.  See the description of the File Dialog function for more information.
+527363:3b2caf pattern is the match pattern specification to display only certain types of files or directories.  See the description of the File Dialog function for more information.
+528023:3c49fe !Open or Create File (function=%d)
+528200:3c83fc pattern is the match pattern specification to display only certain types of files or directories.  See the description of the File Dialog function for more information.
+528292:3c970a [[[report file not found if function=0 (open); set file path to empty and refnum to NotARefnumHDt
+528294:3c9849 778file is now open; proceed if function=1 (open or create){D
+528298:3c9ab0 112create a new file if function=1-3 (open or create)
+528304:3c9c34 --.file is now open; proceed if function=0 (open)
+528592:3cc325 pattern is the match pattern specification to display only certain types of files or directories (or folders). See the description of the File Dialog function for more information.
+595376:d5635 pattern is the match pattern specification to display only certain types of files or directories.  See the description of the File Dialog function for more information.
+595688:dec1a !Open or Create File (function=%d)
+595865:e2618 pattern is the match pattern specification to display only certain types of files or directories.  See the description of the File Dialog function for more information.
+595957:e3926 [[[report file not found if function=0 (open); set file path to empty and refnum to NotARefnumHDt
+595959:e3a65 778file is now open; proceed if function=1 (open or create){D
+595963:e3ccc 112create a new file if function=1-3 (open or create)
+595969:e3e50 --.file is now open; proceed if function=0 (open)
+596257:e6541 pattern is the match pattern specification to display only certain types of files or directories (or folders). See the description of the File Dialog function for more information.
+596762:f3f0f pattern is the match pattern specification to display only certain types of files or directories.  See the description of the File Dialog function for more information.
+607062:19f877 pattern is the match pattern specification to display only certain types of files or directories.  See the description of the File Dialog function for more information.
+612546:51     - The File Dialog function now outputs an error cluster.  An Unbundle function was inserted to maintain compatibility.
+612547:cd     - The File Dialog function no longer supports the datalog file type input.
+612548:11d     - The File Dialog function now outputs an error cluster.  An Unbundle function was inserted to maintain compatibility.
+612549:199     - The File Dialog function no longer supports the datalog file type input.
+612559:694     - The File Dialog function no longer supports the datalog file type input.
+612561:7ac     - The File Dialog function now outputs an error cluster.  An Unbundle function was inserted to maintain compatibility.
+612575:ea9     - The File Dialog function now outputs an error cluster.  An Unbundle function was inserted to maintain compatibility.
+612576:f25     - The File Dialog function no longer supports the datalog file type input.
+612577:f75     - The File Dialog function now outputs an error cluster.  An Unbundle function was inserted to maintain compatibility.
+612578:ff1     - The File Dialog function no longer supports the datalog file type input.
+612580:1090     - The File Dialog function no longer supports the datalog file type input.
+612582:11a8     - The File Dialog function now outputs an error cluster.  An Unbundle function was inserted to maintain compatibility.
+612592:16d9     - The File Dialog function now outputs an error cluster.  An Unbundle function was inserted to maintain compatibility.
+612593:1755     - The File Dialog function no longer supports the datalog file type input.

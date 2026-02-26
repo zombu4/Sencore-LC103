@@ -1,0 +1,35 @@
+74841:3170c7 Some error codes returned by the serial port VIs are platform-specific. Please refer to your system documentation for a list of error codes.
+75393:31de66 Some error codes returned by the serial port VIs are platform-specific. Please refer to your system documentation for a list of error codes.
+75616:3216ba Some error codes returned by the serial port VIs are platform-specific. Please refer to your system documentation for a list of error codes.
+75870:32546d Some error codes returned by the serial port VIs are platform-specific. Please refer to your system documentation for a list of error codes.
+102415:4c87d4 DAQ overFlowErr: Because of system limitations, the driver could not read data from the device fast enough to keep up with the device throughput; the onboard device memory reported an overflow error.
+245151:15577b Some error codes returned by the serial port VIs are platform-specific. Please refer to your system documentation for a list of error codes.
+245708:15c64a Some error codes returned by the serial port VIs are platform-specific. Please refer to your system documentation for a list of error codes.
+245937:15fffa Some error codes returned by the serial port VIs are platform-specific. Please refer to your system documentation for a list of error codes.
+246196:163f11 Some error codes returned by the serial port VIs are platform-specific. Please refer to your system documentation for a list of error codes.
+260848:2413ac DAQ overFlowErr: Because of system limitations, the driver could not read data from the device fast enough to keep up with the device throughput; the onboard device memory reported an overflow error.
+307929:e5c45 Some error codes returned by the serial port VIs are platform-specific. Please refer to your system documentation for a list of error codes.
+308158:e95ed Some error codes returned by the serial port VIs are platform-specific. Please refer to your system documentation for a list of error codes.
+308416:ed4fc Some error codes returned by the serial port VIs are platform-specific. Please refer to your system documentation for a list of error codes.
+314856:15ef7d DAQ overFlowErr: Because of system limitations, the driver could not read data from the device fast enough to keep up with the device throughput; the onboard device memory reported an overflow error.
+341333:fe54d DAQ overFlowErr: Because of system limitations, the driver could not read data from the device fast enough to keep up with the device throughput; the onboard device memory reported an overflow error.
+371286:17adce DAQ overFlowErr: Because of system limitations, the driver could not read data from the device fast enough to keep up with the device throughput; the onboard device memory reported an overflow error.
+396614:330f19 Some error codes returned by the serial port VIs are platform-specific. Please refer to your system documentation for a list of error codes.
+396912:33536b Some error codes returned by the serial port VIs are platform-specific. Please refer to your system documentation for a list of error codes.
+397192:33919f Some error codes returned by the serial port VIs are platform-specific. Please refer to your system documentation for a list of error codes.
+397611:33f695 Some error codes returned by the serial port VIs are platform-specific. Please refer to your system documentation for a list of error codes.
+433987:ee9f1 DAQ overFlowErr: Because of system limitations, the driver could not read data from the device fast enough to keep up with the device throughput; the onboard device memory reported an overflow error.
+440803:16425c Some error codes returned by the serial port VIs are platform-specific. Please refer to your system documentation for a list of error codes.
+441103:1686b4 Some error codes returned by the serial port VIs are platform-specific. Please refer to your system documentation for a list of error codes.
+441387:16c4e5 Some error codes returned by the serial port VIs are platform-specific. Please refer to your system documentation for a list of error codes.
+469966:fdf72 DAQ overFlowErr: Because of system limitations, the driver could not read data from the device fast enough to keep up with the device throughput; the onboard device memory reported an overflow error.
+503796:1dbd6f DAQ overFlowErr: Because of system limitations, the driver could not read data from the device fast enough to keep up with the device throughput; the onboard device memory reported an overflow error.
+521569:34a3ae Some error codes returned by the serial port VIs are platform-specific. Please refer to your system documentation for a list of error codes.
+521771:34d8b2 Some error codes returned by the serial port VIs are platform-specific. Please refer to your system documentation for a list of error codes.
+521960:3506bd Some error codes returned by the serial port VIs are platform-specific. Please refer to your system documentation for a list of error codes.
+522313:356221 Some error codes returned by the serial port VIs are platform-specific. Please refer to your system documentation for a list of error codes.
+546362:ed901 DAQ overFlowErr: Because of system limitations, the driver could not read data from the device fast enough to keep up with the device throughput; the onboard device memory reported an overflow error.
+558170:1c44dc Some error codes returned by the serial port VIs are platform-specific. Please refer to your system documentation for a list of error codes.
+558376:1c79e8 Some error codes returned by the serial port VIs are platform-specific. Please refer to your system documentation for a list of error codes.
+558567:1ca7f1 Some error codes returned by the serial port VIs are platform-specific. Please refer to your system documentation for a list of error codes.
+579215:15fc33 DAQ overFlowErr: Because of system limitations, the driver could not read data from the device fast enough to keep up with the device throughput; the onboard device memory reported an overflow error.

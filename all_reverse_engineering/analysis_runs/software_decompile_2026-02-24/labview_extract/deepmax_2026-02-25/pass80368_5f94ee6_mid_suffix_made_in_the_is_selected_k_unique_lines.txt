@@ -1,0 +1,4 @@
+62746:25e5e1 Range selection has no effect in the mA DC and mA AC functions since all measurements in these functions are made in the 20000 mA range. If the chosen range is not valid for selected function, the nearest valid range is selected. k
+233265:a0c41 Range selection has no effect in the mA DC and mA AC functions since all measurements in these functions are made in the 20000 mA range. If the chosen range is not valid for selected function, the nearest valid range is selected. k
+299813:6deca Range selection has no effect in the mA DC and mA AC functions since all measurements in these functions are made in the 20000 mA range. If the chosen range is not valid for selected function, the nearest valid range is selected. k
+332074:6d1de Range selection has no effect in the mA DC and mA AC functions since all measurements in these functions are made in the 20000 mA range. If the chosen range is not valid for selected function, the nearest valid range is selected. k

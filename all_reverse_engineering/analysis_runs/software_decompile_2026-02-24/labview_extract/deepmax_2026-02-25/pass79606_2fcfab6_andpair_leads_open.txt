@@ -1,0 +1,6 @@
+320787:1c3894 aaaLeads zero, open                Cap must read 0, IND must read "OPEN" and ESR must read "ERROR 7"W
+320792:1c3a28 Open LeadsO
+447600:1ca0c0 aaaLeads zero, open                Cap must read 0, IND must read "OPEN" and ESR must read "ERROR 7"W
+447605:1ca253 Open LeadsO
+550708:13e26b aaaLeads zero, open                Cap must read 0, IND must read "OPEN" and ESR must read "ERROR 7"W
+550713:13e3ff Open LeadsH

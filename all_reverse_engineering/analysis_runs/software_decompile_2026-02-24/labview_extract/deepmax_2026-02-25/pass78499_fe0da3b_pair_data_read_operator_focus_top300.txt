@@ -1,0 +1,52 @@
+55621:1f6984 Data Out Ready protocol violation
+55623:1f69b0 Data In Ready protocol violation
+55844:1f9cb5 Data Out Ready protocol violation
+55846:1f9ce1 Data In Ready protocol violation
+74846:317584 Input alt HW Handshake. On the PC, this parameter corresponds to Data Terminal Ready (DTR) handshaking. On the SPARCstation, this parameter is ignored.
+74849:3176fa Output alt HW Handshake. On the PC, this parameter corresponds to Data Set Ready (DSR) handshaking. On the SPARCstation, this parameter is ignored.
+225980:372c4 Data Out Ready protocol violation
+225982:372f0 Data In Ready protocol violation
+226208:3a77d Data Out Ready protocol violation
+226210:3a7a9 Data In Ready protocol violation
+245156:155c38 Input alt HW Handshake. On the PC, this parameter corresponds to Data Terminal Ready (DTR) handshaking. On the SPARCstation, this parameter is ignored.
+245159:155dae Output alt HW Handshake. On the PC, this parameter corresponds to Data Set Ready (DSR) handshaking. On the SPARCstation, this parameter is ignored.
+292456:462d Data Out Ready protocol violation
+292458:4659 Data In Ready protocol violation
+292685:7b4a Data Out Ready protocol violation
+292687:7b76 Data In Ready protocol violation
+324577:3a3d Data Out Ready protocol violation
+324579:3a69 Data In Ready protocol violation
+324807:6eee Data Out Ready protocol violation
+324809:6f1a Data In Ready protocol violation
+347425:2584 Data Out Ready protocol violation
+347427:25b0 Data In Ready protocol violation
+347653:5a3d Data Out Ready protocol violation
+347655:5a69 Data In Ready protocol violation
+397616:33fb52 Input alt HW Handshake. On the PC, this parameter corresponds to Data Terminal Ready (DTR) handshaking. On the SPARCstation, this parameter is ignored.
+397619:33fcc8 Output alt HW Handshake. On the PC, this parameter corresponds to Data Set Ready (DSR) handshaking. On the SPARCstation, this parameter is ignored.
+418085:24a1 Data Out Ready protocol violation
+418087:24cd Data In Ready protocol violation
+418314:59be Data Out Ready protocol violation
+418316:59ea Data In Ready protocol violation
+452876:e89 Data Out Ready protocol violation
+452878:eb5 Data In Ready protocol violation
+453106:433a Data Out Ready protocol violation
+453108:4366 Data In Ready protocol violation
+476641:2584 Data Out Ready protocol violation
+476643:25b0 Data In Ready protocol violation
+476869:5a3d Data Out Ready protocol violation
+476871:5a69 Data In Ready protocol violation
+522314:3562b4 Input alt HW Handshake. On the PC, this parameter corresponds to Data Terminal Ready (DTR) handshaking. On the SPARCstation, this parameter is ignored.
+522317:3566d0 Output alt HW Handshake. On the PC, this parameter corresponds to Data Set Ready (DSR) handshaking. On the SPARCstation, this parameter is ignored.
+530553:24a1 Data Out Ready protocol violation
+530555:24cd Data In Ready protocol violation
+530782:59be Data Out Ready protocol violation
+530784:59ea Data In Ready protocol violation
+560792:e89 Data Out Ready protocol violation
+560794:eb5 Data In Ready protocol violation
+561022:433a Data Out Ready protocol violation
+561024:4366 Data In Ready protocol violation
+581364:24fc Data Out Ready protocol violation
+581366:2528 Data In Ready protocol violation
+581592:59b5 Data Out Ready protocol violation
+581594:59e1 Data In Ready protocol violation

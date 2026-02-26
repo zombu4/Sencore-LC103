@@ -1,0 +1,8 @@
+47043:15ee60 The vi %p calls Unflatten from String or Type Cast to a type containing an extended float. If the input data to these functions comes from a file, you must convert extended floats in the file to LV 3.0 format.
+612547:cd - The File Dialog function no longer supports the datalog file type input.
+612549:199 - The File Dialog function no longer supports the datalog file type input.
+612559:694 - The File Dialog function no longer supports the datalog file type input.
+612576:f25 - The File Dialog function no longer supports the datalog file type input.
+612578:ff1 - The File Dialog function no longer supports the datalog file type input.
+612580:1090 - The File Dialog function no longer supports the datalog file type input.
+612593:1755 - The File Dialog function no longer supports the datalog file type input.

@@ -1,0 +1,1 @@
+226408:3ce38 Transfers the specified number of data bytes from a specified local memory buffer to a Message-Based device, using the VXIbus Byte Transfer Protocol.

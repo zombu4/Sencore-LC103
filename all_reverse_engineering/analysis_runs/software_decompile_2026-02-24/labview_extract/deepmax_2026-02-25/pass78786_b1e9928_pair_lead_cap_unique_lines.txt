@@ -1,0 +1,20 @@
+80424:3705a0 Lead Open Test/Capsa
+80488:370baf Lead Open Test/Caps
+99169:48c5b4 @@cShort the UUT leads to the Capacitance Decade box(LTerminal).
+99289:48d005 CLRPARcShort the UUT leads to the Capacitance Decade box(LTerminal).
+249485:199114 Lead Open Test/Capsa
+249549:199723 Lead Open Test/Caps
+277907:36bb34 @@cShort the UUT leads to the Capacitance Decade box(LTerminal).
+278027:36c585 CLRPARcShort the UUT leads to the Capacitance Decade box(LTerminal).
+320787:1c3894 aaaLeads zero, open Cap must read 0, IND must read "OPEN" and ESR must read "ERROR 7"W
+320789:1c3953 MMMLead zero, shorted CAP must read "SHORT", IND and ESR must read 0l
+375113:1bf0a2 Press 'Enter' when ready.cShort the UUT leads to the Capacitance Decade box(LTerminal).
+375296:1c05dd @@cShort the UUT leads to the Capacitance Decade box(LTerminal).
+391776:2e4ac2 Lead Open Test/Caps
+391888:2e5a86 Lead Open Test/Capsa
+447600:1ca0c0 aaaLeads zero, open Cap must read 0, IND must read "OPEN" and ESR must read "ERROR 7"W
+447602:1ca17f MMMLead zero, shorted CAP must read "SHORT", IND and ESR must read 0l
+506651:213b8c Press 'Enter' when ready.cShort the UUT leads to the Capacitance Decade box(LTerminal).
+517980:307e39 Lead Open Test/Caps
+550708:13e26b aaaLeads zero, open Cap must read 0, IND must read "OPEN" and ESR must read "ERROR 7"W
+550710:13e32a MMMLead zero, shorted CAP must read "SHORT", IND and ESR must read 0l

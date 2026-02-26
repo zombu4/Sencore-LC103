@@ -1,0 +1,1 @@
+76866:3371bd source is a string that indicates the origin of the error, if any. Usually source is the name of the VI in which the error occurred.

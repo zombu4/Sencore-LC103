@@ -1,0 +1,21 @@
+52011:1b8b50 Configuration token not found.,Error occurred parsing configuration string.(Configuration allocation error occurred.$External code format error occurred.$External code offset error occurred.
+101598:4b7731 status is TRUE if an error occurred. If this value is FALSE, then the error handler assumes that no error occurred according to the error in, and then checks the error code.
+101605:4b7949 status is TRUE if an error occurred. If this value is FALSE, then the error handler assumes that no error occurred according to the error in, and then checks the error code.
+260031:230309 status is TRUE if an error occurred. If this value is FALSE, then the error handler assumes that no error occurred according to the error in, and then checks the error code.
+260038:230521 status is TRUE if an error occurred. If this value is FALSE, then the error handler assumes that no error occurred according to the error in, and then checks the error code.
+314019:14df26 status is TRUE if an error occurred. If this value is FALSE, then the error handler assumes that no error occurred according to the error in, and then checks the error code.
+314026:14e13e status is TRUE if an error occurred. If this value is FALSE, then the error handler assumes that no error occurred according to the error in, and then checks the error code.
+340502:ed509 status is TRUE if an error occurred. If this value is FALSE, then the error handler assumes that no error occurred according to the error in, and then checks the error code.
+340509:ed721 status is TRUE if an error occurred. If this value is FALSE, then the error handler assumes that no error occurred according to the error in, and then checks the error code.
+371471:1840b2 status is TRUE if an error occurred. If this value is FALSE, then the error handler assumes that no error occurred according to the error in, and then checks the error code.
+371475:1842aa status is TRUE if an error occurred. If this value is FALSE, then the error handler assumes that no error occurred according to the error in, and then checks the error code.
+434172:f7cd5 status is TRUE if an error occurred. If this value is FALSE, then the error handler assumes that no error occurred according to the error in, and then checks the error code.
+434176:f7ecd status is TRUE if an error occurred. If this value is FALSE, then the error handler assumes that no error occurred according to the error in, and then checks the error code.
+470151:107256 status is TRUE if an error occurred. If this value is FALSE, then the error handler assumes that no error occurred according to the error in, and then checks the error code.
+470155:10744e status is TRUE if an error occurred. If this value is FALSE, then the error handler assumes that no error occurred according to the error in, and then checks the error code.
+504218:1ea345 status is TRUE if an error occurred. If this value is FALSE, then the error handler assumes that no error occurred according to the error in, and then checks the error code.
+504222:1ea596 status is TRUE if an error occurred. If this value is FALSE, then the error handler assumes that no error occurred according to the error in, and then checks the error code.
+546547:f6be5 status is TRUE if an error occurred. If this value is FALSE, then the error handler assumes that no error occurred according to the error in, and then checks the error code.
+546551:f6ddd status is TRUE if an error occurred. If this value is FALSE, then the error handler assumes that no error occurred according to the error in, and then checks the error code.
+579637:16e208 status is TRUE if an error occurred. If this value is FALSE, then the error handler assumes that no error occurred according to the error in, and then checks the error code.
+579641:16e459 status is TRUE if an error occurred. If this value is FALSE, then the error handler assumes that no error occurred according to the error in, and then checks the error code.

@@ -1,0 +1,5 @@
+52011:1b8b50 Configuration token not found.,Error occurred parsing configuration string.(Configuration allocation error occurred.$External code format error occurred.$External code offset error occurred.
+68888:2b8dad 1-(bool) status: TRUE if an error has occurred.[W(string) source:  an indication of where an error occurred, usually the name of the VI."
+239463:fbfcd 1-(bool) status: TRUE if an error has occurred.[W(string) source:  an indication of where an error occurred, usually the name of the VI."
+306102:c9156 1-(bool) status: TRUE if an error has occurred.[W(string) source:  an indication of where an error occurred, usually the name of the VI."
+338379:c8473 1-(bool) status: TRUE if an error has occurred.[W(string) source:  an indication of where an error occurred, usually the name of the VI."

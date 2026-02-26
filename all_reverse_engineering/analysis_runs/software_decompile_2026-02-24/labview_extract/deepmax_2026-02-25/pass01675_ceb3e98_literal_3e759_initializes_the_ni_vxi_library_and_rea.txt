@@ -1,0 +1,1 @@
+584951:3e759 Initializes the NI-VXI library and reads in the resource manager table. The library is automatically initialized when any VXI VI is used in a diagram. If you initialize the library with this VI, you must call CloseVXIlibrary later in your diagram.$

@@ -1,0 +1,300 @@
+46153:1593db Error #%ld: %s "%s" line %ld\n\nRecord this information and contact National Instruments for Technical Support.
+46154:15944b Failure %s: "%s" line %ld\n\nRecord this information and contact National Instruments for Technical Support.
+48020:1638da error calling LoadVIHeap(1) in LoadInstrument
+48193:1651e4 This is the revision number that will be included in new history entries. The current number is displayed in the Instrument Information dialog. It is incremented every time you save the VI.
+48198:165560 This is the revision number that will be included in new history entries. The current number is displayed in the Instrument Information dialog. It is incremented every time you save the VI.
+52240:1ba753 Error #%ld %s: \"%s\", line %ld\nLabVIEW version %p\nPlease record the preceding information and contact National Instruments for technical support
+52241:1ba7e7 Failure %s: \"%s\", line %ld\nLabVIEW version %p\nPlease record the preceding information and contact National Instruments for technical support
+59854:23a48d -1201 Error finding instruments
+59860:23a55a -1224 Error clearing instrument
+59861:23a57b -1225 Error triggering instrument
+59862:23a59e -1226 Error polling instrument
+59863:23a5be -1230 Error writing to instrument
+59864:23a5e1 -1231 Error reading from instrument
+60461:24446d -1201 Error finding instruments
+60467:24453a -1224 Error clearing instrument
+60468:24455b -1225 Error triggering instrument
+60469:24457e -1226 Error polling instrument
+60470:24459e -1230 Error writing to instrument
+60471:2445c1 -1231 Error reading from instrument
+61637:252696 -1201 Error finding instruments
+61643:252763 -1224 Error clearing instrument
+61644:252784 -1225 Error triggering instrument
+61645:2527a7 -1226 Error polling instrument
+61646:2527c7 -1230 Error writing to instrument
+61647:2527ea -1231 Error reading from instrument
+62786:25f065 -1201 Error finding instruments
+62792:25f132 -1224 Error clearing instrument
+62793:25f153 -1225 Error triggering instrument
+62794:25f176 -1226 Error polling instrument
+62795:25f196 -1230 Error writing to instrument
+62796:25f1b9 -1231 Error reading from instrument
+63544:271854 -1201 Error finding instruments
+63550:271921 -1224 Error clearing instrument
+63551:271942 -1225 Error triggering instrument
+63552:271965 -1226 Error polling instrument
+63553:271985 -1230 Error writing to instrument
+63554:2719a8 -1231 Error reading from instrument
+66171:2963e4 -1201 Error finding instruments
+66177:2964b1 -1224 Error clearing instrument
+66178:2964d2 -1225 Error triggering instrument
+66179:2964f5 -1226 Error polling instrument
+66180:296515 -1230 Error writing to instrument
+66181:296538 -1231 Error reading from instrument
+68015:2b0875 (ABC) Uniquely identifies the instrument to establish communications with. The grammar for the instrument descriptor is shown below. Parameters are shown in lower-case and optional parameters are shown in square brackets ([]).
+68051:2b112a -1201 Error finding instruments
+68057:2b11f7 -1224 Error clearing instrument
+68058:2b1218 -1225 Error triggering instrument
+68059:2b123b -1226 Error polling instrument
+68060:2b125b -1230 Error writing to instrument
+68061:2b127e -1231 Error reading from instrument
+68608:2b5eba Establishes a communication session with a remote instrument based on the instrument descriptor. Instr Open creates an instr handle that is used by all other VISA Transition Library VIs to perform operations on that session.
+68872:2b8b8a -1201 Error finding instruments
+68878:2b8c57 -1224 Error clearing instrument
+68879:2b8c78 -1225 Error triggering instrument
+68880:2b8c9b -1226 Error polling instrument
+68881:2b8cbb -1230 Error writing to instrument
+68882:2b8cde -1231 Error reading from instrument
+134148:207d64 NationalInstrumentsVXIDAQDriverEvent
+134149:207d8c NationalInstrumentsVXIDAQServerEvent
+230315:7c1ad -1201 Error finding instruments
+230321:7c27a -1224 Error clearing instrument
+230322:7c29b -1225 Error triggering instrument
+230323:7c2be -1226 Error polling instrument
+230324:7c2de -1230 Error writing to instrument
+230325:7c301 -1231 Error reading from instrument
+230949:86601 -1201 Error finding instruments
+230955:866ce -1224 Error clearing instrument
+230956:866ef -1225 Error triggering instrument
+230957:86712 -1226 Error polling instrument
+230958:86732 -1230 Error writing to instrument
+230959:86755 -1231 Error reading from instrument
+232140:94a52 -1201 Error finding instruments
+232146:94b1f -1224 Error clearing instrument
+232147:94b40 -1225 Error triggering instrument
+232148:94b63 -1226 Error polling instrument
+232149:94b83 -1230 Error writing to instrument
+232150:94ba6 -1231 Error reading from instrument
+233305:a16c5 -1201 Error finding instruments
+233311:a1792 -1224 Error clearing instrument
+233312:a17b3 -1225 Error triggering instrument
+233313:a17d6 -1226 Error polling instrument
+233314:a17f6 -1230 Error writing to instrument
+233315:a1819 -1231 Error reading from instrument
+234081:b428c -1201 Error finding instruments
+234087:b4359 -1224 Error clearing instrument
+234088:b437a -1225 Error triggering instrument
+234089:b439d -1226 Error polling instrument
+234090:b43bd -1230 Error writing to instrument
+234091:b43e0 -1231 Error reading from instrument
+236721:d9184 -1201 Error finding instruments
+236727:d9251 -1224 Error clearing instrument
+236728:d9272 -1225 Error triggering instrument
+236729:d9295 -1226 Error polling instrument
+236730:d92b5 -1230 Error writing to instrument
+236731:d92d8 -1231 Error reading from instrument
+238578:f3851 (ABC) Uniquely identifies the instrument to establish communications with. The grammar for the instrument descriptor is shown below. Parameters are shown in lower-case and optional parameters are shown in square brackets ([]).
+238614:f4106 -1201 Error finding instruments
+238620:f41d3 -1224 Error clearing instrument
+238621:f41f4 -1225 Error triggering instrument
+238622:f4217 -1226 Error polling instrument
+238623:f4237 -1230 Error writing to instrument
+238624:f425a -1231 Error reading from instrument
+239171:f8e96 Establishes a communication session with a remote instrument based on the instrument descriptor. Instr Open creates an instr handle that is used by all other VISA Transition Library VIs to perform operations on that session.
+239418:fa8f4 Establishes a communication session with a remote instrument based on the instrument descriptor. Instr Open creates an instr handle that is used by all other VISA Transition Library VIs to perform operations on that session.
+239447:fbdaa -1201 Error finding instruments
+239453:fbe77 -1224 Error clearing instrument
+239454:fbe98 -1225 Error triggering instrument
+239455:fbebb -1226 Error polling instrument
+239456:fbedb -1230 Error writing to instrument
+239457:fbefe -1231 Error reading from instrument
+296830:4949a -1201 Error finding instruments
+296836:49567 -1224 Error clearing instrument
+296837:49588 -1225 Error triggering instrument
+296838:495ab -1226 Error polling instrument
+296839:495cb -1230 Error writing to instrument
+296840:495ee -1231 Error reading from instrument
+297475:538de -1201 Error finding instruments
+297481:539ab -1224 Error clearing instrument
+297482:539cc -1225 Error triggering instrument
+297483:539ef -1226 Error polling instrument
+297484:53a0f -1230 Error writing to instrument
+297485:53a32 -1231 Error reading from instrument
+298678:61d03 -1201 Error finding instruments
+298684:61dd0 -1224 Error clearing instrument
+298685:61df1 -1225 Error triggering instrument
+298686:61e14 -1226 Error polling instrument
+298687:61e34 -1230 Error writing to instrument
+298688:61e57 -1231 Error reading from instrument
+299853:6e94e -1201 Error finding instruments
+299859:6ea1b -1224 Error clearing instrument
+299860:6ea3c -1225 Error triggering instrument
+299861:6ea5f -1226 Error polling instrument
+299862:6ea7f -1230 Error writing to instrument
+299863:6eaa2 -1231 Error reading from instrument
+300646:814e9 -1201 Error finding instruments
+300652:815b6 -1224 Error clearing instrument
+300653:815d7 -1225 Error triggering instrument
+300654:815fa -1226 Error polling instrument
+300655:8161a -1230 Error writing to instrument
+300656:8163d -1231 Error reading from instrument
+303320:a6381 -1201 Error finding instruments
+303326:a644e -1224 Error clearing instrument
+303327:a646f -1225 Error triggering instrument
+303328:a6492 -1226 Error polling instrument
+303329:a64b2 -1230 Error writing to instrument
+303330:a64d5 -1231 Error reading from instrument
+305208:c09f6 (ABC) Uniquely identifies the instrument to establish communications with. The grammar for the instrument descriptor is shown below. Parameters are shown in lower-case and optional parameters are shown in square brackets ([]).
+305244:c12ab -1201 Error finding instruments
+305250:c1378 -1224 Error clearing instrument
+305251:c1399 -1225 Error triggering instrument
+305252:c13bc -1226 Error polling instrument
+305253:c13dc -1230 Error writing to instrument
+305254:c13ff -1231 Error reading from instrument
+305806:c603a Establishes a communication session with a remote instrument based on the instrument descriptor. Instr Open creates an instr handle that is used by all other VISA Transition Library VIs to perform operations on that session.
+306057:c7a80 Establishes a communication session with a remote instrument based on the instrument descriptor. Instr Open creates an instr handle that is used by all other VISA Transition Library VIs to perform operations on that session.
+306086:c8f33 -1201 Error finding instruments
+306092:c9000 -1224 Error clearing instrument
+306093:c9021 -1225 Error triggering instrument
+306094:c9044 -1226 Error polling instrument
+306095:c9064 -1230 Error writing to instrument
+306096:c9087 -1231 Error reading from instrument
+329048:4871a -1201 Error finding instruments
+329054:487e7 -1224 Error clearing instrument
+329055:48808 -1225 Error triggering instrument
+329056:4882b -1226 Error polling instrument
+329057:4884b -1230 Error writing to instrument
+329058:4886e -1231 Error reading from instrument
+329712:52bca -1201 Error finding instruments
+329718:52c97 -1224 Error clearing instrument
+329719:52cb8 -1225 Error triggering instrument
+329720:52cdb -1226 Error polling instrument
+329721:52cfb -1230 Error writing to instrument
+329722:52d1e -1231 Error reading from instrument
+330928:6104b -1201 Error finding instruments
+330934:61118 -1224 Error clearing instrument
+330935:61139 -1225 Error triggering instrument
+330936:6115c -1226 Error polling instrument
+330937:6117c -1230 Error writing to instrument
+330938:6119f -1231 Error reading from instrument
+332114:6dc62 -1201 Error finding instruments
+332120:6dd2f -1224 Error clearing instrument
+332121:6dd50 -1225 Error triggering instrument
+332122:6dd73 -1226 Error polling instrument
+332123:6dd93 -1230 Error writing to instrument
+332124:6ddb6 -1231 Error reading from instrument
+332915:808f9 -1201 Error finding instruments
+332921:809c6 -1224 Error clearing instrument
+332922:809e7 -1225 Error triggering instrument
+332923:80a0a -1226 Error polling instrument
+332924:80a2a -1230 Error writing to instrument
+332925:80a4d -1231 Error reading from instrument
+335594:a5669 -1201 Error finding instruments
+335600:a5736 -1224 Error clearing instrument
+335601:a5757 -1225 Error triggering instrument
+335602:a577a -1226 Error polling instrument
+335603:a579a -1230 Error writing to instrument
+335604:a57bd -1231 Error reading from instrument
+337452:bddb8 Establishes a communication session with a remote instrument based on the instrument descriptor. Instr Open creates an instr handle that is used by all other VISA Transition Library VIs to perform operations on that session.
+337482:bfce2 (ABC) Uniquely identifies the instrument to establish communications with. The grammar for the instrument descriptor is shown below. Parameters are shown in lower-case and optional parameters are shown in square brackets ([]).
+337518:c0597 -1201 Error finding instruments
+337524:c0664 -1224 Error clearing instrument
+337525:c0685 -1225 Error triggering instrument
+337526:c06a8 -1226 Error polling instrument
+337527:c06c8 -1230 Error writing to instrument
+337528:c06eb -1231 Error reading from instrument
+338085:c5328 Establishes a communication session with a remote instrument based on the instrument descriptor. Instr Open creates an instr handle that is used by all other VISA Transition Library VIs to perform operations on that session.
+338363:c8250 -1201 Error finding instruments
+338369:c831d -1224 Error clearing instrument
+338370:c833e -1225 Error triggering instrument
+338371:c8361 -1226 Error polling instrument
+338372:c8381 -1230 Error writing to instrument
+338373:c83a4 -1231 Error reading from instrument
+351760:4746d -1201 Error finding instruments
+351766:4753a -1224 Error clearing instrument
+351767:4755b -1225 Error triggering instrument
+351768:4757e -1226 Error polling instrument
+351769:4759e -1230 Error writing to instrument
+351770:475c1 -1231 Error reading from instrument
+352394:518c1 -1201 Error finding instruments
+352400:5198e -1224 Error clearing instrument
+352401:519af -1225 Error triggering instrument
+352402:519d2 -1226 Error polling instrument
+352403:519f2 -1230 Error writing to instrument
+352404:51a15 -1231 Error reading from instrument
+353585:5fd12 -1201 Error finding instruments
+353591:5fddf -1224 Error clearing instrument
+353592:5fe00 -1225 Error triggering instrument
+353593:5fe23 -1226 Error polling instrument
+353594:5fe43 -1230 Error writing to instrument
+353595:5fe66 -1231 Error reading from instrument
+354911:768c4 -1201 Error finding instruments
+354917:76991 -1224 Error clearing instrument
+354918:769b2 -1225 Error triggering instrument
+354919:769d5 -1226 Error polling instrument
+354920:769f5 -1230 Error writing to instrument
+354921:76a18 -1231 Error reading from instrument
+357551:9b7bc -1201 Error finding instruments
+357557:9b889 -1224 Error clearing instrument
+357558:9b8aa -1225 Error triggering instrument
+357559:9b8cd -1226 Error polling instrument
+357560:9b8ed -1230 Error writing to instrument
+357561:9b910 -1231 Error reading from instrument
+359408:b5e89 (ABC) Uniquely identifies the instrument to establish communications with. The grammar for the instrument descriptor is shown below. Parameters are shown in lower-case and optional parameters are shown in square brackets ([]).
+359444:b673e -1201 Error finding instruments
+359450:b680b -1224 Error clearing instrument
+359451:b682c -1225 Error triggering instrument
+359452:b684f -1226 Error polling instrument
+359453:b686f -1230 Error writing to instrument
+359454:b6892 -1231 Error reading from instrument
+360001:bb4ce Establishes a communication session with a remote instrument based on the instrument descriptor. Instr Open creates an instr handle that is used by all other VISA Transition Library VIs to perform operations on that session.
+360248:bcf2c Establishes a communication session with a remote instrument based on the instrument descriptor. Instr Open creates an instr handle that is used by all other VISA Transition Library VIs to perform operations on that session.
+422459:4730e -1201 Error finding instruments
+422465:473db -1224 Error clearing instrument
+422466:473fc -1225 Error triggering instrument
+422467:4741f -1226 Error polling instrument
+422468:4743f -1230 Error writing to instrument
+422469:47462 -1231 Error reading from instrument
+423104:51752 -1201 Error finding instruments
+423110:5181f -1224 Error clearing instrument
+423111:51840 -1225 Error triggering instrument
+423112:51863 -1226 Error polling instrument
+423113:51883 -1230 Error writing to instrument
+423114:518a6 -1231 Error reading from instrument
+424307:5fb77 -1201 Error finding instruments
+424313:5fc44 -1224 Error clearing instrument
+424314:5fc65 -1225 Error triggering instrument
+424315:5fc88 -1226 Error polling instrument
+424316:5fca8 -1230 Error writing to instrument
+424317:5fccb -1231 Error reading from instrument
+425645:766f5 -1201 Error finding instruments
+425651:767c2 -1224 Error clearing instrument
+425652:767e3 -1225 Error triggering instrument
+425653:76806 -1226 Error polling instrument
+425654:76826 -1230 Error writing to instrument
+425655:76849 -1231 Error reading from instrument
+428319:9b58d -1201 Error finding instruments
+428325:9b65a -1224 Error clearing instrument
+428326:9b67b -1225 Error triggering instrument
+428327:9b69e -1226 Error polling instrument
+428328:9b6be -1230 Error writing to instrument
+428329:9b6e1 -1231 Error reading from instrument
+430207:b5c02 (ABC) Uniquely identifies the instrument to establish communications with. The grammar for the instrument descriptor is shown below. Parameters are shown in lower-case and optional parameters are shown in square brackets ([]).
+430243:b64b7 -1201 Error finding instruments
+430249:b6584 -1224 Error clearing instrument
+430250:b65a5 -1225 Error triggering instrument
+430251:b65c8 -1226 Error polling instrument
+430252:b65e8 -1230 Error writing to instrument
+430253:b660b -1231 Error reading from instrument
+430805:bb246 Establishes a communication session with a remote instrument based on the instrument descriptor. Instr Open creates an instr handle that is used by all other VISA Transition Library VIs to perform operations on that session.
+431056:bcc8c Establishes a communication session with a remote instrument based on the instrument descriptor. Instr Open creates an instr handle that is used by all other VISA Transition Library VIs to perform operations on that session.
+457347:45b66 -1201 Error finding instruments
+457353:45c33 -1224 Error clearing instrument
+457354:45c54 -1225 Error triggering instrument
+457355:45c77 -1226 Error polling instrument
+457356:45c97 -1230 Error writing to instrument
+457357:45cba -1231 Error reading from instrument
+458011:50016 -1201 Error finding instruments
+458017:500e3 -1224 Error clearing instrument
+458018:50104 -1225 Error triggering instrument
+458019:50127 -1226 Error polling instrument

@@ -1,0 +1,8 @@
+320787:1c3894 aaaLeads zero, open Cap must read 0, IND must read "OPEN" and ESR must read "ERROR 7"W
+323324:1ef8cd Zero Leadsc
+393270:2fb902 Lead Zero Short Test/ESRKSomething seems to be wrong. Make sure the UUT leads are shorted together.?
+445378:1a6c0f Zero Leadsc
+447600:1ca0c0 aaaLeads zero, open Cap must read 0, IND must read "OPEN" and ESR must read "ERROR 7"W
+518664:318210 Lead Zero Short Test/ESRKSomething seems to be wrong. Make sure the UUT leads are shorted together.?
+550708:13e26b aaaLeads zero, open Cap must read 0, IND must read "OPEN" and ESR must read "ERROR 7"W
+559774:1de69d Zero Leadsc

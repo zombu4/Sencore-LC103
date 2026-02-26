@@ -1,0 +1,1 @@
+528597:3cc6f0 vsource is in most cases the name of the VI or function that produced the error; the default value is an empty string.

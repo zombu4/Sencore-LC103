@@ -1,0 +1,1 @@
+505198:1fa17e file size is the size of the file in bytes at the time the file is closed; the value is zero otherwise.

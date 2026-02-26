@@ -1,0 +1,9 @@
+52516:1bdd78 A wire must be connected to one and only one data source, such as a control's terminal or a function output. This wire is not connected to any source. Find the source of this data and make sure it is a control (not indicator) or an output (not input).
+52525:1be595 A wire can be connected to only one data source, such as a control's terminal or a function output. This wire is connected to more than one source. Make sure that all connections except one are to indicators (not controls) or inputs (not outputs). 
+612547:cd     - The File Dialog function no longer supports the datalog file type input.
+612549:199     - The File Dialog function no longer supports the datalog file type input.
+612559:694     - The File Dialog function no longer supports the datalog file type input.
+612576:f25     - The File Dialog function no longer supports the datalog file type input.
+612578:ff1     - The File Dialog function no longer supports the datalog file type input.
+612580:1090     - The File Dialog function no longer supports the datalog file type input.
+612593:1755     - The File Dialog function no longer supports the datalog file type input.

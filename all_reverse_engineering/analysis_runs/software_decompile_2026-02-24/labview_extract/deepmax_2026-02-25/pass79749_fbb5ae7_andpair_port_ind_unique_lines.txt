@@ -1,0 +1,89 @@
+55237:1f1cfd QMThis verison of Serial Port Reset.vi is for the Windows 3 version of LabVIEW.$
+55495:1f53ca This version of Set Serial Port Buffer Size.vi is to be used on the SPARC or Windows version of LabVIEW as a subVI to OpenSerialDriver and Serial Port Init.vi.$
+74822:316bf5 9When you use the serial port VIs under Windows, the port number parameter can have the following values:
+75375:31da87 9When you use the serial port VIs under Windows, the port number parameter can have the following values:
+75494:31fb85 UQWrites the data in string to write to the serial port indicated in port number.
+75597:321180 9When you use the serial port VIs under Windows, the port number parameter can have the following values:
+75739:323a21 uqReads the number of characters specified by requested byte count from the serial port indicated in port number.
+75851:32503b 9When you use the serial port VIs under Windows, the port number parameter can have the following values:
+75980:3275e3 okReturns in byte count the number of bytes in the input buffer of the serial port indicated in port number.
+225583:32345 QMThis verison of Serial Port Reset.vi is for the Windows 3 version of LabVIEW.$
+225741:33513 MThis verison of Serial Port Reset.vi is for the Windows 3 version of LabVIEW.
+225848:35b6e This version of Set Serial Port Buffer Size.vi is to be used on the SPARC or Windows version of LabVIEW as a subVI to OpenSerialDriver and Serial Port Init.vi.$
+225934:36464 This version of Set Serial Port Buffer Size.vi is to be used on the SPARC or Windows version of LabVIEW as a subVI to OpenSerialDriver and Serial Port Init.vi.
+245132:1552a9 9When you use the serial port VIs under Windows, the port number parameter can have the following values:
+245690:15c26b 9When you use the serial port VIs under Windows, the port number parameter can have the following values:
+245809:15e369 UQWrites the data in string to write to the serial port indicated in port number.
+245907:15ec57 QWrites the data in string to write to the serial port indicated in port number.
+245918:15fac0 9When you use the serial port VIs under Windows, the port number parameter can have the following values:
+246060:162361 uqReads the number of characters specified by requested byte count from the serial port indicated in port number.
+246164:162d03 qReads the number of characters specified by requested byte count from the serial port indicated in port number.
+246177:163adf 9When you use the serial port VIs under Windows, the port number parameter can have the following values:
+246306:166087 okReturns in byte count the number of bytes in the input buffer of the serial port indicated in port number.
+246407:1669fb kReturns in byte count the number of bytes in the input buffer of the serial port indicated in port number.
+307911:e5866 9When you use the serial port VIs under Windows, the port number parameter can have the following values:
+308029:e7965 UQWrites the data in string to write to the serial port indicated in port number.
+308128:e824f QWrites the data in string to write to the serial port indicated in port number.
+308139:e90b3 9When you use the serial port VIs under Windows, the port number parameter can have the following values:
+308282:eb956 uqReads the number of characters specified by requested byte count from the serial port indicated in port number.
+308384:ec2f3 qReads the number of characters specified by requested byte count from the serial port indicated in port number.
+308397:ed0ca 9When you use the serial port VIs under Windows, the port number parameter can have the following values:
+308525:ef672 okReturns in byte count the number of bytes in the input buffer of the serial port indicated in port number.
+308623:effdf kReturns in byte count the number of bytes in the input buffer of the serial port indicated in port number.
+394269:30d69b MThis verison of Serial Port Reset.vi is for the Windows 3 version of LabVIEW.
+394270:30d6f4 This version of Set Serial Port Buffer Size.vi is to be used on the SPARC or Windows version of LabVIEW as a subVI to OpenSerialDriver and Serial Port Init.vi.
+396594:330a77 okReturns in byte count the number of bytes in the input buffer of the serial port indicated in port number.
+396595:330ae7 9When you use the serial port VIs under Windows, the port number parameter can have the following values:
+396892:334dbb uqReads the number of characters specified by requested byte count from the serial port indicated in port number.
+396893:334e31 9When you use the serial port VIs under Windows, the port number parameter can have the following values:
+397173:338d6a UQWrites the data in string to write to the serial port indicated in port number.
+397174:338dc0 9When you use the serial port VIs under Windows, the port number parameter can have the following values:
+397592:33f1c3 9When you use the serial port VIs under Windows, the port number parameter can have the following values:
+403915:3a20f9 This version of Set Serial Port Buffer Size.vi is to be used on the SPARC or Windows version of LabVIEW as a subVI to OpenSerialDriver and Serial Port Init.vi.
+404006:3a39db QWrites the data in string to write to the serial port indicated in port number.
+404007:3a3a37 qReads the number of characters specified by requested byte count from the serial port indicated in port number.
+404008:3a3ab3 kReturns in byte count the number of bytes in the input buffer of the serial port indicated in port number.
+404430:3acdfb QMThis verison of Serial Port Reset.vi is for the Windows 3 version of LabVIEW.
+440783:163dba okReturns in byte count the number of bytes in the input buffer of the serial port indicated in port number.
+440784:163e2a 9When you use the serial port VIs under Windows, the port number parameter can have the following values:
+441083:168104 uqReads the number of characters specified by requested byte count from the serial port indicated in port number.
+441084:16817a 9When you use the serial port VIs under Windows, the port number parameter can have the following values:
+441368:16c0b0 UQWrites the data in string to write to the serial port indicated in port number.
+441369:16c106 9When you use the serial port VIs under Windows, the port number parameter can have the following values:
+442989:18540b QWrites the data in string to write to the serial port indicated in port number.
+442990:185467 qReads the number of characters specified by requested byte count from the serial port indicated in port number.
+442991:1854e3 kReturns in byte count the number of bytes in the input buffer of the serial port indicated in port number.
+520861:33cf93 MThis verison of Serial Port Reset.vi is for the Windows 3 version of LabVIEW.
+520862:33cfec This version of Set Serial Port Buffer Size.vi is to be used on the SPARC or Windows version of LabVIEW as a subVI to OpenSerialDriver and Serial Port Init.vi.
+521514:349828 okReturns in byte count the number of bytes in the input buffer of the serial port indicated in port number.
+521548:349f14 9When you use the serial port VIs under Windows, the port number parameter can have the following values:
+521719:34caa8 uqReads the number of characters specified by requested byte count from the serial port indicated in port number.
+521751:34d2fc 9When you use the serial port VIs under Windows, the port number parameter can have the following values:
+521914:34fbe5 UQWrites the data in string to write to the serial port indicated in port number.
+521941:350284 9When you use the serial port VIs under Windows, the port number parameter can have the following values:
+522293:355c9a 9When you use the serial port VIs under Windows, the port number parameter can have the following values:
+526719:3a7979 This version of Set Serial Port Buffer Size.vi is to be used on the SPARC or Windows version of LabVIEW as a subVI to OpenSerialDriver and Serial Port Init.vi.
+526960:3ad0f2 QMThis verison of Serial Port Reset.vi is for the Windows 3 version of LabVIEW.
+527343:3b2627 QWrites the data in string to write to the serial port indicated in port number.
+527344:3b2683 qReads the number of characters specified by requested byte count from the serial port indicated in port number.
+527345:3b26ff kReturns in byte count the number of bytes in the input buffer of the serial port indicated in port number.
+556362:1a3ebb QWrites the data in string to write to the serial port indicated in port number.
+556363:1a3f17 qReads the number of characters specified by requested byte count from the serial port indicated in port number.
+556364:1a3f93 kReturns in byte count the number of bytes in the input buffer of the serial port indicated in port number.
+558118:1c3956 okReturns in byte count the number of bytes in the input buffer of the serial port indicated in port number.
+558149:1c4042 9When you use the serial port VIs under Windows, the port number parameter can have the following values:
+558323:1c6bdd uqReads the number of characters specified by requested byte count from the serial port indicated in port number.
+558356:1c7432 9When you use the serial port VIs under Windows, the port number parameter can have the following values:
+558522:1c9d1a UQWrites the data in string to write to the serial port indicated in port number.
+558548:1ca3b8 9When you use the serial port VIs under Windows, the port number parameter can have the following values:
+596727:f229b MThis verison of Serial Port Reset.vi is for the Windows 3 version of LabVIEW.
+596728:f22f4 This version of Set Serial Port Buffer Size.vi is to be used on the SPARC or Windows version of LabVIEW as a subVI to OpenSerialDriver and Serial Port Init.vi.
+596742:f3887 QWrites the data in string to write to the serial port indicated in port number.
+596743:f38e3 qReads the number of characters specified by requested byte count from the serial port indicated in port number.
+596744:f395f kReturns in byte count the number of bytes in the input buffer of the serial port indicated in port number.
+597917:1041bf MThis verison of Serial Port Reset.vi is for the Windows 3 version of LabVIEW.
+598059:106584 This version of Set Serial Port Buffer Size.vi is to be used on the SPARC or Windows version of LabVIEW as a subVI to OpenSerialDriver and Serial Port Init.vi.
+600397:12f417 QWrites the data in string to write to the serial port indicated in port number.
+600529:131143 qReads the number of characters specified by requested byte count from the serial port indicated in port number.
+600676:13317f kReturns in byte count the number of bytes in the input buffer of the serial port indicated in port number.
+626103:3df For individual DLL file installation instructions, please see: https://www.dll-files.com/support/#208335895

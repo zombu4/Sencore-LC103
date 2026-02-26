@@ -1,0 +1,42 @@
+70067:2cabd9 xt(bool) status: TRUE if an error has occurred. Regardless of the value of status, this VI clears the input operation."
+70482:2d1b57 xt(bool) status: TRUE if an error has occurred. Regardless of the value of status, this VI clears the input operation.
+101598:4b7731 status is TRUE if an error occurred. If this value is FALSE, then the error handler assumes that no error occurred according to the error in, and then checks the error code.
+101605:4b7949 status is TRUE if an error occurred. If this value is FALSE, then the error handler assumes that no error occurred according to the error in, and then checks the error code.
+240683:10e4e9 xt(bool) status: TRUE if an error has occurred. Regardless of the value of status, this VI clears the input operation."
+241115:115767 xt(bool) status: TRUE if an error has occurred. Regardless of the value of status, this VI clears the input operation.
+260031:230309 status is TRUE if an error occurred. If this value is FALSE, then the error handler assumes that no error occurred according to the error in, and then checks the error code.
+260038:230521 status is TRUE if an error occurred. If this value is FALSE, then the error handler assumes that no error occurred according to the error in, and then checks the error code.
+313127:13ac6e xt(bool) status: TRUE if an error has occurred. Regardless of the value of status, this VI clears the input operation."
+313561:141ee0 xt(bool) status: TRUE if an error has occurred. Regardless of the value of status, this VI clears the input operation.
+314019:14df26 status is TRUE if an error occurred. If this value is FALSE, then the error handler assumes that no error occurred according to the error in, and then checks the error code.
+314026:14e13e status is TRUE if an error occurred. If this value is FALSE, then the error handler assumes that no error occurred according to the error in, and then checks the error code.
+339594:da146 xt(bool) status: TRUE if an error has occurred. Regardless of the value of status, this VI clears the input operation."
+340039:e1408 xt(bool) status: TRUE if an error has occurred. Regardless of the value of status, this VI clears the input operation.
+340502:ed509 status is TRUE if an error occurred. If this value is FALSE, then the error handler assumes that no error occurred according to the error in, and then checks the error code.
+340509:ed721 status is TRUE if an error occurred. If this value is FALSE, then the error handler assumes that no error occurred according to the error in, and then checks the error code.
+371471:1840b2 status is TRUE if an error occurred. If this value is FALSE, then the error handler assumes that no error occurred according to the error in, and then checks the error code.
+371475:1842aa status is TRUE if an error occurred. If this value is FALSE, then the error handler assumes that no error occurred according to the error in, and then checks the error code.
+402198:388079 xt(bool) status: TRUE if an error has occurred. Regardless of the value of status, this VI clears the input operation.
+402632:38f9f7 xt(bool) status: TRUE if an error has occurred. Regardless of the value of status, this VI clears the input operation.
+434172:f7cd5 status is TRUE if an error occurred. If this value is FALSE, then the error handler assumes that no error occurred according to the error in, and then checks the error code.
+434176:f7ecd status is TRUE if an error occurred. If this value is FALSE, then the error handler assumes that no error occurred according to the error in, and then checks the error code.
+434971:106657 xt(bool) status: TRUE if an error has occurred. Regardless of the value of status, this VI clears the input operation.
+435406:10dfd4 xt(bool) status: TRUE if an error has occurred. Regardless of the value of status, this VI clears the input operation.
+468799:e3df4 xt(bool) status: TRUE if an error has occurred. Regardless of the value of status, this VI clears the input operation.
+469238:ebb0a xt(bool) status: TRUE if an error has occurred. Regardless of the value of status, this VI clears the input operation.
+470151:107256 status is TRUE if an error occurred. If this value is FALSE, then the error handler assumes that no error occurred according to the error in, and then checks the error code.
+470155:10744e status is TRUE if an error occurred. If this value is FALSE, then the error handler assumes that no error occurred according to the error in, and then checks the error code.
+504218:1ea345 status is TRUE if an error occurred. If this value is FALSE, then the error handler assumes that no error occurred according to the error in, and then checks the error code.
+504222:1ea596 status is TRUE if an error occurred. If this value is FALSE, then the error handler assumes that no error occurred according to the error in, and then checks the error code.
+525021:3887b0 t(bool) status: TRUE if an error has occurred. Regardless of the value of status, this VI clears the input operation.
+525327:38e66d t(bool) status: TRUE if an error has occurred. Regardless of the value of status, this VI clears the input operation.
+525606:393db8 t(bool) status: TRUE if an error has occurred. Regardless of the value of status, this VI clears the input operation.
+546547:f6be5 status is TRUE if an error occurred. If this value is FALSE, then the error handler assumes that no error occurred according to the error in, and then checks the error code.
+546551:f6ddd status is TRUE if an error occurred. If this value is FALSE, then the error handler assumes that no error occurred according to the error in, and then checks the error code.
+547346:105567 xt(bool) status: TRUE if an error has occurred. Regardless of the value of status, this VI clears the input operation.
+547781:10cee4 xt(bool) status: TRUE if an error has occurred. Regardless of the value of status, this VI clears the input operation.
+578366:14870d t(bool) status: TRUE if an error has occurred. Regardless of the value of status, this VI clears the input operation.
+578659:14e5a6 t(bool) status: TRUE if an error has occurred. Regardless of the value of status, this VI clears the input operation.
+578950:154a9b t(bool) status: TRUE if an error has occurred. Regardless of the value of status, this VI clears the input operation.
+579637:16e208 status is TRUE if an error occurred. If this value is FALSE, then the error handler assumes that no error occurred according to the error in, and then checks the error code.
+579641:16e459 status is TRUE if an error occurred. If this value is FALSE, then the error handler assumes that no error occurred according to the error in, and then checks the error code.

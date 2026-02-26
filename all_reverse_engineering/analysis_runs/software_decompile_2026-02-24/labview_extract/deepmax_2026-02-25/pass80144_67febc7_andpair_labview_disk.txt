@@ -1,0 +1,13 @@
+48220:165c84 This is the minimum amount of disk space to run LabVIEW.  LabVIEW will abort the launch if less than this amount of disk space
+52435:1bcb0f The VI %p has changed on disk since last saved or loaded by LabVIEW.  If you load its %p, it will probably be inconsistent with the parts of the VI already in memory, resulting in a corrupt VI.
+52556:1bfe3f There is less than %ldK of disk space available on volume %z.  LabVIEW can run, but we recommend that you make more disk space available.GCould not determine the amount of disk space on volume %z. Error = %ld.
+102472:4cdb7a GPIB EDMA:  DMA hardware error detected.=LabVIEW:  Disk full.
+260905:246752 GPIB EDMA:  DMA hardware error detected.=LabVIEW:  Disk full.
+314913:164323 GPIB EDMA:  DMA hardware error detected.=LabVIEW:  Disk full.
+341390:1038f3 GPIB EDMA:  DMA hardware error detected.=LabVIEW:  Disk full.
+371343:180174 GPIB EDMA:  DMA hardware error detected.=LabVIEW:  Disk full.
+434044:f3d97 GPIB EDMA:  DMA hardware error detected.=LabVIEW:  Disk full.
+470023:103318 GPIB EDMA:  DMA hardware error detected.=LabVIEW:  Disk full.
+503853:1e1115 GPIB EDMA:  DMA hardware error detected.=LabVIEW:  Disk full.
+546419:f2ca7 GPIB EDMA:  DMA hardware error detected.=LabVIEW:  Disk full.
+579272:164fd9 GPIB EDMA:  DMA hardware error detected.=LabVIEW:  Disk full.

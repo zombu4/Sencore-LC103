@@ -1,0 +1,1 @@
+503359:1cf7ce Writes a character string to a new byte stream file or appends the string to an existing file.  The VI opens or creates the file beforehand and closes it afterwards.

@@ -1,0 +1,8 @@
+132883:1fc9e5 ?CTR_Reset_TheVirtualThing@daqDevice@@UAEFFFF@Z
+132993:1fe2bc ?ICTR_Reset_TheVirtualThing@daqDevice@@UAEFFFF@Z
+133124:2003ff ?NIScope_Reset_TheVirtualThing@daqDevice@@UAEJF@Z
+133204:2016eb ?_downconverter_reset_TheVirtualThing@daqDevice@@UAEFF@Z
+638372:1fc9e5 ?CTR_Reset_TheVirtualThing@daqDevice@@UAEFFFF@Z
+638482:1fe2bc ?ICTR_Reset_TheVirtualThing@daqDevice@@UAEFFFF@Z
+638613:2003ff ?NIScope_Reset_TheVirtualThing@daqDevice@@UAEJF@Z
+638693:2016eb ?_downconverter_reset_TheVirtualThing@daqDevice@@UAEFF@Z

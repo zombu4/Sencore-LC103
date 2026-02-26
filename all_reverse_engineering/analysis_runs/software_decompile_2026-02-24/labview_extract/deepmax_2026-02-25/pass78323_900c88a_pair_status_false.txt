@@ -1,0 +1,93 @@
+53009:1cb61a EAstatus is TRUE if an error occurred; the default value is FALSE.
+54250:1e0000 EAstatus is TRUE if an error occurred; the default value is FALSE.
+76089:32933c status is TRUE if an error occurred, or FALSE if not. If status is TRUE, code is a non-zero error code. If status is FALSE, code can be zero or a warning code."
+76436:32f246 status is TRUE if an error occurred, or FALSE if not. If status is TRUE, code is a non-zero error code. If status is FALSE, code can be zero or a warning code."
+76852:336b7a status is TRUE if an error occurred before this VI was called, or FALSE if not. If status is TRUE, code is a non-zero error code. If status is FALSE, code can be zero or a warning code."
+76860:336fed status is TRUE if an error occurred, or FALSE if not. If status is TRUE, code is a non-zero error code. If status is FALSE, code can be zero or a warning code."
+100604:4a38b8 EAstatus is TRUE if an error occurred; the default value is FALSE.
+101014:4aa54a EAstatus is TRUE if an error occurred; the default value is FALSE.
+101598:4b7731 status is TRUE if an error occurred. If this value is FALSE, then the error handler assumes that no error occurred according to the error in, and then checks the error code.
+101605:4b7949 status is TRUE if an error occurred. If this value is FALSE, then the error handler assumes that no error occurred according to the error in, and then checks the error code.
+223266:a246 EAstatus is TRUE if an error occurred; the default value is FALSE.
+224543:1fae0 EAstatus is TRUE if an error occurred; the default value is FALSE.
+246424:167f68 status is TRUE if an error occurred, or FALSE if not. If status is TRUE, code is a non-zero error code. If status is FALSE, code can be zero or a warning code."
+246780:16df9e status is TRUE if an error occurred, or FALSE if not. If status is TRUE, code is a non-zero error code. If status is FALSE, code can be zero or a warning code."
+247217:175aae status is TRUE if an error occurred before this VI was called, or FALSE if not. If status is TRUE, code is a non-zero error code. If status is FALSE, code can be zero or a warning code."
+247225:175f21 status is TRUE if an error occurred, or FALSE if not. If status is TRUE, code is a non-zero error code. If status is FALSE, code can be zero or a warning code."
+258975:21b10c EAstatus is TRUE if an error occurred; the default value is FALSE.
+259411:2225fa EAstatus is TRUE if an error occurred; the default value is FALSE.
+260031:230309 status is TRUE if an error occurred. If this value is FALSE, then the error handler assumes that no error occurred according to the error in, and then checks the error code.
+260038:230521 status is TRUE if an error occurred. If this value is FALSE, then the error handler assumes that no error occurred according to the error in, and then checks the error code.
+308640:f1547 status is TRUE if an error occurred, or FALSE if not. If status is TRUE, code is a non-zero error code. If status is FALSE, code can be zero or a warning code."
+308999:f7561 status is TRUE if an error occurred, or FALSE if not. If status is TRUE, code is a non-zero error code. If status is FALSE, code can be zero or a warning code."
+309443:ff055 status is TRUE if an error occurred before this VI was called, or FALSE if not. If status is TRUE, code is a non-zero error code. If status is FALSE, code can be zero or a warning code."
+309451:ff4c8 status is TRUE if an error occurred, or FALSE if not. If status is TRUE, code is a non-zero error code. If status is FALSE, code can be zero or a warning code."
+314019:14df26 status is TRUE if an error occurred. If this value is FALSE, then the error handler assumes that no error occurred according to the error in, and then checks the error code.
+314026:14e13e status is TRUE if an error occurred. If this value is FALSE, then the error handler assumes that no error occurred according to the error in, and then checks the error code.
+340502:ed509 status is TRUE if an error occurred. If this value is FALSE, then the error handler assumes that no error occurred according to the error in, and then checks the error code.
+340509:ed721 status is TRUE if an error occurred. If this value is FALSE, then the error handler assumes that no error occurred according to the error in, and then checks the error code.
+361416:d3b61 The status boolean is either TRUE (X) for an error, or FALSE (checkmark) for no error or a warning.
+361430:d3fda The status boolean is either TRUE (X) for an error, or FALSE (checkmark) for no error or a warning.
+371471:1840b2 status is TRUE if an error occurred. If this value is FALSE, then the error handler assumes that no error occurred according to the error in, and then checks the error code.
+371475:1842aa status is TRUE if an error occurred. If this value is FALSE, then the error handler assumes that no error occurred according to the error in, and then checks the error code.
+372365:193a75 EAstatus is TRUE if an error occurred; the default value is FALSE.
+372950:19ba2a EAstatus is TRUE if an error occurred; the default value is FALSE.
+395225:31b6a6 status is TRUE if an error occurred before this VI was called, or FALSE if not. If status is TRUE, code is a non-zero error code. If status is FALSE, code can be zero or a warning code.
+395229:31baf9 status is TRUE if an error occurred, or FALSE if not. If status is TRUE, code is a non-zero error code. If status is FALSE, code can be zero or a warning code.
+395892:325661 status is TRUE if an error occurred, or FALSE if not. If status is TRUE, code is a non-zero error code. If status is FALSE, code can be zero or a warning code.
+396326:32c56d status is TRUE if an error occurred, or FALSE if not. If status is TRUE, code is a non-zero error code. If status is FALSE, code can be zero or a warning code.
+403397:39c5b9 The status boolean is either TRUE (X) for an error, or FALSE (checkmark) for no error or a warning.
+403410:39ca5f The status boolean is either TRUE (X) for an error, or FALSE (checkmark) for no error or a warning.
+405306:3baaaf EAstatus is TRUE if an error occurred; the default value is FALSE.
+406210:3ccc41 EAstatus is TRUE if an error occurred; the default value is FALSE.
+417605:4dd8 The status boolean is either TRUE (X) for an error, or FALSE (checkmark) for no error or a warning.
+417619:526c The status boolean is either TRUE (X) for an error, or FALSE (checkmark) for no error or a warning.
+434172:f7cd5 status is TRUE if an error occurred. If this value is FALSE, then the error handler assumes that no error occurred according to the error in, and then checks the error code.
+434176:f7ecd status is TRUE if an error occurred. If this value is FALSE, then the error handler assumes that no error occurred according to the error in, and then checks the error code.
+439398:14e9d4 status is TRUE if an error occurred before this VI was called, or FALSE if not. If status is TRUE, code is a non-zero error code. If status is FALSE, code can be zero or a warning code.
+439402:14ee27 status is TRUE if an error occurred, or FALSE if not. If status is TRUE, code is a non-zero error code. If status is FALSE, code can be zero or a warning code.
+440074:15897b status is TRUE if an error occurred, or FALSE if not. If status is TRUE, code is a non-zero error code. If status is FALSE, code can be zero or a warning code.
+440513:15f889 status is TRUE if an error occurred, or FALSE if not. If status is TRUE, code is a non-zero error code. If status is FALSE, code can be zero or a warning code.
+443243:18971c The status boolean is either TRUE (X) for an error, or FALSE (checkmark) for no error or a warning.
+443256:189bc2 The status boolean is either TRUE (X) for an error, or FALSE (checkmark) for no error or a warning.
+443879:191ff0 The status boolean is either TRUE (X) for an error, or FALSE (checkmark) for no error or a warning.
+443893:192469 The status boolean is either TRUE (X) for an error, or FALSE (checkmark) for no error or a warning.
+466586:c4a60 The status boolean is either TRUE (X) for an error, or FALSE (checkmark) for no error or a warning.
+466599:c4f06 The status boolean is either TRUE (X) for an error, or FALSE (checkmark) for no error or a warning.
+467704:d31d8 The status boolean is either TRUE (X) for an error, or FALSE (checkmark) for no error or a warning.
+467718:d3651 The status boolean is either TRUE (X) for an error, or FALSE (checkmark) for no error or a warning.
+470151:107256 status is TRUE if an error occurred. If this value is FALSE, then the error handler assumes that no error occurred according to the error in, and then checks the error code.
+470155:10744e status is TRUE if an error occurred. If this value is FALSE, then the error handler assumes that no error occurred according to the error in, and then checks the error code.
+504218:1ea345 status is TRUE if an error occurred. If this value is FALSE, then the error handler assumes that no error occurred according to the error in, and then checks the error code.
+504222:1ea596 status is TRUE if an error occurred. If this value is FALSE, then the error handler assumes that no error occurred according to the error in, and then checks the error code.
+504902:1f56f6 Astatus is TRUE if an error occurred; the default value is FALSE.
+505280:1fb668 Astatus is TRUE if an error occurred; the default value is FALSE.
+520647:338dd6 status is TRUE if an error occurred before this VI was called, or FALSE if not. If status is TRUE, code is a non-zero error code. If status is FALSE, code can be zero or a warning code.L%
+520651:33928c status is TRUE if an error occurred, or FALSE if not. If status is TRUE, code is a non-zero error code. If status is FALSE, code can be zero or a warning code.
+521063:341014 status is TRUE if an error occurred, or FALSE if not. If status is TRUE, code is a non-zero error code. If status is FALSE, code can be zero or a warning code.,
+521372:346919 status is TRUE if an error occurred, or FALSE if not. If status is TRUE, code is a non-zero error code. If status is FALSE, code can be zero or a warning code.,
+526214:39e249 The status boolean is either TRUE (X) for an error, or FALSE (checkmark) for no error or a warning.
+526230:39e7d2 The status boolean is either TRUE (X) for an error, or FALSE (checkmark) for no error or a warning.
+526560:3a4887 The status boolean is either TRUE (X) for an error, or FALSE (checkmark) for no error or a warning.
+526571:3a4d32 The status boolean is either TRUE (X) for an error, or FALSE (checkmark) for no error or a warning.
+527762:3bc292 Astatus is TRUE if an error occurred; the default value is FALSE.
+528595:3cc4f2 Astatus is TRUE if an error occurred; the default value is FALSE.
+530073:4dd8 The status boolean is either TRUE (X) for an error, or FALSE (checkmark) for no error or a warning.
+530087:526c The status boolean is either TRUE (X) for an error, or FALSE (checkmark) for no error or a warning.
+546547:f6be5 status is TRUE if an error occurred. If this value is FALSE, then the error handler assumes that no error occurred according to the error in, and then checks the error code.
+546551:f6ddd status is TRUE if an error occurred. If this value is FALSE, then the error handler assumes that no error occurred according to the error in, and then checks the error code.
+549172:125710 The status boolean is either TRUE (X) for an error, or FALSE (checkmark) for no error or a warning.
+549185:125bb6 The status boolean is either TRUE (X) for an error, or FALSE (checkmark) for no error or a warning.
+549808:12dfe4 The status boolean is either TRUE (X) for an error, or FALSE (checkmark) for no error or a warning.
+549822:12e45d The status boolean is either TRUE (X) for an error, or FALSE (checkmark) for no error or a warning.
+557268:1b4351 status is TRUE if an error occurred before this VI was called, or FALSE if not. If status is TRUE, code is a non-zero error code. If status is FALSE, code can be zero or a warning code.L%
+557272:1b4807 status is TRUE if an error occurred, or FALSE if not. If status is TRUE, code is a non-zero error code. If status is FALSE, code can be zero or a warning code.
+557653:1bb118 status is TRUE if an error occurred, or FALSE if not. If status is TRUE, code is a non-zero error code. If status is FALSE, code can be zero or a warning code.,
+557966:1c0a21 status is TRUE if an error occurred, or FALSE if not. If status is TRUE, code is a non-zero error code. If status is FALSE, code can be zero or a warning code.,
+574496:c4a08 The status boolean is either TRUE (X) for an error, or FALSE (checkmark) for no error or a warning.
+574509:c4eae The status boolean is either TRUE (X) for an error, or FALSE (checkmark) for no error or a warning.
+578018:142609 The status boolean is either TRUE (X) for an error, or FALSE (checkmark) for no error or a warning.
+578029:142ab4 The status boolean is either TRUE (X) for an error, or FALSE (checkmark) for no error or a warning.
+579637:16e208 status is TRUE if an error occurred. If this value is FALSE, then the error handler assumes that no error occurred according to the error in, and then checks the error code.
+579641:16e459 status is TRUE if an error occurred. If this value is FALSE, then the error handler assumes that no error occurred according to the error in, and then checks the error code.
+596260:e670e Astatus is TRUE if an error occurred; the default value is FALSE.

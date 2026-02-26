@@ -1,0 +1,14 @@
+52983:1cac00 opens an existing file or creates a new file if one does not exist.
+102958:4d61cb Writes a character string to a new byte stream file or appends the string to an existing file.  The VI opens or creates the file beforehand and closes it afterwards.
+223240:982c opens an existing file or creates a new file if one does not exist.
+261397:24f12b Writes a character string to a new byte stream file or appends the string to an existing file.  The VI opens or creates the file beforehand and closes it afterwards.
+261609:2507dc Writes a character string to a new byte stream file or appends the string to an existing file.  The VI opens or creates the file beforehand and closes it afterwards.
+370469:168abf Writes a character string to a new byte stream file or appends the string to an existing file.  The VI opens or creates the file beforehand and closes it afterwards.
+404059:3a5a44 Writes a character string to a new byte stream file or appends the string to an existing file.  The VI opens or creates the file beforehand and closes it afterwards.
+406201:3cc71f opens an existing file or creates a new file if one does not exist.
+503359:1cf7ce Writes a character string to a new byte stream file or appends the string to an existing file.  The VI opens or creates the file beforehand and closes it afterwards.
+527396:3b4690 Writes a character string to a new byte stream file or appends the string to an existing file.  The VI opens or creates the file beforehand and closes it afterwards.
+528605:3cca1b opens an existing file or creates a new file if one does not exist.
+596270:e6c37 opens an existing file or creates a new file if one does not exist.
+596795:f58f0 Writes a character string to a new byte stream file or appends the string to an existing file.  The VI opens or creates the file beforehand and closes it afterwards.
+608417:1b6db0 Writes a character string to a new byte stream file or appends the string to an existing file.  The VI opens or creates the file beforehand and closes it afterwards.

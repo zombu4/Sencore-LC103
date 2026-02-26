@@ -1,0 +1,10 @@
+
+Scan Time:     2026-02-24 15:48:28
+Target File:   /Users/<user>/Downloads/LC103/Final Cal/103FIN.EXE
+MD5 Checksum:  556772fe3530a7fdd43c9e049fdb9cc5
+Signatures:    411
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+1791880       0x1B5788        bix header, header size: 64 bytes, header CRC: 0xBC85, created: 1997-08-31 05:30:40, image size: 80480 bytes, Data Address: 0x6920C31E, Entry Point: 0x43800000, data CRC: 0xA045, CPU: SuperH, image type: Standalone Program, image name: ""
+

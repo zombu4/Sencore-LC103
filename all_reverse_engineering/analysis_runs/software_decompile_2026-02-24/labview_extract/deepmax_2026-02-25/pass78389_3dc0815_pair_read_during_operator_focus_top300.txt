@@ -1,0 +1,54 @@
+55617:1f6915 Write Ready protocol violation during transfer
+55619:1f694d Read Ready protocol violation during transfer
+55840:1f9c46 Write Ready protocol violation during transfer
+55842:1f9c7e Read Ready protocol violation during transfer
+102492:4ce07e GPIB NCNT: No count input (read).$LabVIEW: Memory error during print.
+225976:37255 Write Ready protocol violation during transfer
+225978:3728d Read Ready protocol violation during transfer
+226204:3a70e Write Ready protocol violation during transfer
+226206:3a746 Read Ready protocol violation during transfer
+260925:246c56 GPIB NCNT: No count input (read).$LabVIEW: Memory error during print.
+292452:45be Write Ready protocol violation during transfer
+292454:45f6 Read Ready protocol violation during transfer
+292681:7adb Write Ready protocol violation during transfer
+292683:7b13 Read Ready protocol violation during transfer
+314933:164827 GPIB NCNT: No count input (read).$LabVIEW: Memory error during print.
+324573:39ce Write Ready protocol violation during transfer
+324575:3a06 Read Ready protocol violation during transfer
+324803:6e7f Write Ready protocol violation during transfer
+324805:6eb7 Read Ready protocol violation during transfer
+341410:103df7 GPIB NCNT: No count input (read).$LabVIEW: Memory error during print.
+347421:2515 Write Ready protocol violation during transfer
+347423:254d Read Ready protocol violation during transfer
+347649:59ce Write Ready protocol violation during transfer
+347651:5a06 Read Ready protocol violation during transfer
+371363:180678 GPIB NCNT: No count input (read).$LabVIEW: Memory error during print.
+418081:2432 Write Ready protocol violation during transfer
+418083:246a Read Ready protocol violation during transfer
+418310:594f Write Ready protocol violation during transfer
+418312:5987 Read Ready protocol violation during transfer
+434064:f429b GPIB NCNT: No count input (read).$LabVIEW: Memory error during print.
+452872:e1a Write Ready protocol violation during transfer
+452874:e52 Read Ready protocol violation during transfer
+453102:42cb Write Ready protocol violation during transfer
+453104:4303 Read Ready protocol violation during transfer
+470043:10381c GPIB NCNT: No count input (read).$LabVIEW: Memory error during print.
+476637:2515 Write Ready protocol violation during transfer
+476639:254d Read Ready protocol violation during transfer
+476865:59ce Write Ready protocol violation during transfer
+476867:5a06 Read Ready protocol violation during transfer
+503873:1e1619 GPIB NCNT: No count input (read).$LabVIEW: Memory error during print.
+530549:2432 Write Ready protocol violation during transfer
+530551:246a Read Ready protocol violation during transfer
+530778:594f Write Ready protocol violation during transfer
+530780:5987 Read Ready protocol violation during transfer
+546439:f31ab GPIB NCNT: No count input (read).$LabVIEW: Memory error during print.
+560788:e1a Write Ready protocol violation during transfer
+560790:e52 Read Ready protocol violation during transfer
+561018:42cb Write Ready protocol violation during transfer
+561020:4303 Read Ready protocol violation during transfer
+579292:1654dd GPIB NCNT: No count input (read).$LabVIEW: Memory error during print.
+581360:248d Write Ready protocol violation during transfer
+581362:24c5 Read Ready protocol violation during transfer
+581588:5946 Write Ready protocol violation during transfer
+581590:597e Read Ready protocol violation during transfer

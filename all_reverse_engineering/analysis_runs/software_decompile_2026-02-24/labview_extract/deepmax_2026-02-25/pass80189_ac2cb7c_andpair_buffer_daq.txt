@@ -1,0 +1,26 @@
+102413:4c8692 DAQ dmaChainingErr:  New buffer information was not available at the time of the DMA chaining interrupt; DMA transfers will terminate at the end of the currently active transfer buffer.
+102437:4cadd8 DAQ memPageErr:  The transfer buffer contains a page break; system resources may require reprogramming when the page break is encountered.KDAQ memLockErr:  The transfer buffer cannot be locked into physical memory.
+132831:1fbca9 ?AICopyAndScaleData_TheVirtualThing@daqDevice@@UAEFFKPAKPAGGPAMGGGPAUbufferInfoStruct@@K000@Z
+133070:1ff663 ?LVdigPassBufferAndIterator_TheVirtualThing@daqDevice@@UAEFFFPAX0@Z
+134151:207e14 NationalInstrumentsVXIDAQSharedBufferFileName
+260846:24126a DAQ dmaChainingErr:  New buffer information was not available at the time of the DMA chaining interrupt; DMA transfers will terminate at the end of the currently active transfer buffer.
+260870:2439b0 DAQ memPageErr:  The transfer buffer contains a page break; system resources may require reprogramming when the page break is encountered.KDAQ memLockErr:  The transfer buffer cannot be locked into physical memory.
+314854:15ee3b DAQ dmaChainingErr:  New buffer information was not available at the time of the DMA chaining interrupt; DMA transfers will terminate at the end of the currently active transfer buffer.
+314878:161581 DAQ memPageErr:  The transfer buffer contains a page break; system resources may require reprogramming when the page break is encountered.KDAQ memLockErr:  The transfer buffer cannot be locked into physical memory.
+341331:fe40b DAQ dmaChainingErr:  New buffer information was not available at the time of the DMA chaining interrupt; DMA transfers will terminate at the end of the currently active transfer buffer.
+341355:100b51 DAQ memPageErr:  The transfer buffer contains a page break; system resources may require reprogramming when the page break is encountered.KDAQ memLockErr:  The transfer buffer cannot be locked into physical memory.
+371284:17ac8c DAQ dmaChainingErr:  New buffer information was not available at the time of the DMA chaining interrupt; DMA transfers will terminate at the end of the currently active transfer buffer.
+371308:17d3d2 DAQ memPageErr:  The transfer buffer contains a page break; system resources may require reprogramming when the page break is encountered.KDAQ memLockErr:  The transfer buffer cannot be locked into physical memory.
+433985:ee8af DAQ dmaChainingErr:  New buffer information was not available at the time of the DMA chaining interrupt; DMA transfers will terminate at the end of the currently active transfer buffer.
+434009:f0ff5 DAQ memPageErr:  The transfer buffer contains a page break; system resources may require reprogramming when the page break is encountered.KDAQ memLockErr:  The transfer buffer cannot be locked into physical memory.
+469964:fde30 DAQ dmaChainingErr:  New buffer information was not available at the time of the DMA chaining interrupt; DMA transfers will terminate at the end of the currently active transfer buffer.
+469988:100576 DAQ memPageErr:  The transfer buffer contains a page break; system resources may require reprogramming when the page break is encountered.KDAQ memLockErr:  The transfer buffer cannot be locked into physical memory.
+503794:1dbc2d DAQ dmaChainingErr:  New buffer information was not available at the time of the DMA chaining interrupt; DMA transfers will terminate at the end of the currently active transfer buffer.
+503818:1de373 DAQ memPageErr:  The transfer buffer contains a page break; system resources may require reprogramming when the page break is encountered.KDAQ memLockErr:  The transfer buffer cannot be locked into physical memory.
+546360:ed7bf DAQ dmaChainingErr:  New buffer information was not available at the time of the DMA chaining interrupt; DMA transfers will terminate at the end of the currently active transfer buffer.
+546384:eff05 DAQ memPageErr:  The transfer buffer contains a page break; system resources may require reprogramming when the page break is encountered.KDAQ memLockErr:  The transfer buffer cannot be locked into physical memory.
+579213:15faf1 DAQ dmaChainingErr:  New buffer information was not available at the time of the DMA chaining interrupt; DMA transfers will terminate at the end of the currently active transfer buffer.
+579237:162237 DAQ memPageErr:  The transfer buffer contains a page break; system resources may require reprogramming when the page break is encountered.KDAQ memLockErr:  The transfer buffer cannot be locked into physical memory.
+638320:1fbca9 ?AICopyAndScaleData_TheVirtualThing@daqDevice@@UAEFFKPAKPAGGPAMGGGPAUbufferInfoStruct@@K000@Z
+638559:1ff663 ?LVdigPassBufferAndIterator_TheVirtualThing@daqDevice@@UAEFFFPAX0@Z
+639640:207e14 NationalInstrumentsVXIDAQSharedBufferFileName

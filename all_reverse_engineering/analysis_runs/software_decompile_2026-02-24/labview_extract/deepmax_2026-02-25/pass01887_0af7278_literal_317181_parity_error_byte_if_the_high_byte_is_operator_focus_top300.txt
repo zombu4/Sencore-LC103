@@ -1,0 +1,1 @@
+74843:317181 Parity Error Byte. If the high byte is non-zero, the low byte is the character that is used to replace any parity errors found when parity is enabled.

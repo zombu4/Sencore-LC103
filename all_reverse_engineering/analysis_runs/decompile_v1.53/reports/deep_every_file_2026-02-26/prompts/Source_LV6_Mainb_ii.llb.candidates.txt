@@ -1,0 +1,250 @@
+return count
+return count"
+return count2@P
+return count4
+return count@
+return count[
+        Press 'Enter' when ready.
+    Failure...Invalid Reading
+  Set Min # samples
+  Set the max. # of readings takenH
+ QCheck if measured value from DVM is within tolerance
+!!!Set Pass/Fail Button to invisibleH
+!!!Set Pass/Fail button to invisibleW
+"""<- number of leakage current testsH
+$$$Do next test if previous test passedW
+$$$Do next test if previous test passeda
+$$$Do next test if previous test passedb
+$$$Do next test if previous test passedn
+%%%Performs test if previous test passedW
+&data to be written  to the serial portL
+(i32) line mask: determines which lines this VI reads. If you set line mask to -1 (all ones), the VI reads the entire port. If you set only bit n in line mask, the VI reads only line n of the port. If the state of line n is high, the VI sets bit n of pattern. The VI sets to 0 the bits of pattern that correspond to lines the VI has not read. The default setting for line mask is -1 which is shown as all ones since the binary representation is the default selection.62(u32) pattern: the data the VI read from the port.51(u32) task ID out: has the same value as task ID.
+(the default value) displays a dialog box with a single OK button. After the user responds, the VI returns control to the main VI.
+,,-Set Pass/ Fail Indicator and make it visible m
+- User abort occurred during I/O
+---Flow Control = False  indicates a passed testy
+---Flow Control = False  indicates a passed test}
+-1 = library initialization failed
+-I/O operation aborted
+-Serial Poll Byte Lost
+-Unrecognized commandEAbyte count refers to the number of bytes that pass over the GPIB.
+/Primary GPIB address ranging from 0 to 30.  Used to form the low order byte of the GPIB address which will be accepted by 488.2 functions.  The value of 31 (default) means return the NOADDR constant (0xFFFF) as the packed address.  The VI places primary address in the lower byte of the packed address.
+0 = Abort if not DIR
+0 = Abort if not DOR
+0 = The specified information was returned
+1 = Set END bit on the last byte of transfer
+1) Plug in and turn on LC103 Mainboard test box.
+111Loops until all tests pass or " i " = " Retries "U
+111Loops until all tests pass or " i " = " Retries "y
+22dIf UUT Comm fails, send RS-232
+3) Connect Fluke 8840A to DVM plugs on front panel of test box.
+3Selects the GPIB bus on which to perform the operation.  The VI addresses the interface indicated by bus as a Talker. If you have only one GPIB interface in your computer, the default bus number is 0. For additional GPIB interfaces, see the software installation instructions included with your GPIB board.
+4) Connect Lo Capacity leads to UUT plugs on front of test box.
+5) Connect 50 pin ribbon cable from PC to right side of test box.
+6) Press ENTER when ready, choose test to perform and press START.
+6) Press ENTER when ready, choose test to perform and press START.H
+6Selects the GPIB bus on which to perform the operation.  The VI addresses the interface indicated by bus as a Listener.  If you have only one GPIB interface in your computer, the default bus number is 0. For additional GPIB interfaces, see the software installation instructions included with your GPIB board.
+9When you use the serial port VIs under Windows, the port number parameter can have the following values:
+;Instr Openi
+<TCP ncConnClosedErr:  The connection was closed by the peer.6Interapplication Mgr amInitErr:  Initialization error.
+<string read. The VI returns the bytes read in string read.
+@return count
+@return count2P@
+Analysis MatrixMulErr:  The number of columns in the first matrix is not equal to the number of rows in the second matrix or vector.<Analysis IntervalsErr:  The number of intervals must be > 0.iAnalysis SizeGTOrderErr:  The number of data points in the Y Values array must be greater than the order.sAnalysis MixedSignErr:  The elements of the Y Values array must be nonzero and either all positive or all negative.XAnalysis StdDevErr:  The standard deviation must be greater than zero for normalization.NAnalysis OddSizeErr:  The number of coefficients must be even for this filter.NAnalysis EvenSizeErr:  The number of coefficients must be odd for this filter.PAnalysis RankErr:  The rank of the filter must meet:  1 <= (2*rank  1) <= size.XAnalysis EqRplDesignErr:  The filter cannot be designed with the specified input values.iAnalysis LeakErr:  The leakage coefficient, leak, and step-size parameter, u, must meet:  0 <= leak <= u.CAnalysis StepSizeErr:  The step-size, u, must meet:  0 <= u <= 0.1.ZAnalysis:  AttenGTRippleErr:  The attenuation must be greater than the ripple attenuation.8Analysis:  FinalGTZeroErr:  The final value must be > 0.0Analysis WidthGTZeroErr:  The width must be > 0.6Analysis AttenGTZeroErr:  The attenuation must be > 0.<Analysis RippleGTZeroErr:  The ripple amplitude must be > 0.[Analysis BandSpecErr:  The following conditions must be met:  0 <= f_low <= f_high <= fs/2.YAnalysis DecFactErr:  The decimating factor must meet:  0 < decimating factor <= samples.1Analysis: OrderGTZeroErr:  The order must be > 0.MAnalysis NyquistErr:  The cut-off frequency, fc, must meet:  0 <= fc <= fs/2.FAnalysis UpperGELowerErr:  The upper value must be >= the lower value.`Analysis IndexLengthErr:  The following condition must be met:  0 <= (index  length) < samples.XAnalysis IndexLTSamplesErr:  The following condition must be met:  0 <= index < samples.&Analysis DtGTZeroErr:  dt must be > 0.'Analysis DtGEZeroErr:  dt must be >= 0._Analysis DelayWidthErr:  The following conditions must be met:  0 <= (delay  width) < samples.FAnalysis WidthLTSamplesErr:  The width must meet: 0 < width < samples.SAnalysis CyclesErr:  The number of cycles must be > 0 and <= the number of samples.IAnalysis DutyCycleErr:  The duty cycle must meet: 0 <= duty cycle <= 100.RAnalysis MaxXformSizeErr:  The maximum allowable transform size has been exceeded.aAnalysis PowerOfTwoErr:  The size of the input array must be a power of two:  size = 2^m, 0<m<23.eAnalysis ArraySizeErr: The input arrays do not contain the correct number of data values for this VI.@Analysis SamplesGEThreeErr:  The number of samples must be >= 3.>Analysis SamplesGETwoErr:  The number of samples must be >= 2.>Analysis SamplesGEOneErr:  The number of samples must be >= 1.?Analysis SamplesGEZeroErr:  The number of samples must be >= 0.=Analysis SamplesGTZeroErr:  The number of samples must be >0.BAnalysis EqSamplesErr:  The input sequences must be the same size.SAnalysis OutOfMemErr:  There is not enough memory to perform the specified routine.
+Apply voltage to leadsW
+Bytes At Serial Port.vi
+Bytes At Serial Port.viE
+Bytes At Serial Port.viRE
+Bytes At Serial Port.vi_
+Bytes At Serial Port.vik
+Continue Button
+Continue ButtonH
+DAQ SCXIConfigErr:  The specified SCXI configuration parameters are invalid, or the function cannot be executed with the current SCXI configuration.
+DAQ activeWriteErr:  Once data generation has started, only the transfer buffers originally written to may be updated.  If DMA is active and a single transfer buffer contains interleaved channel-data, new data must be provided for all output channels currently using the DMA channel.}DAQ groupWriteErr:  The output data associated with a group must be for a single channel or must be for consecutive channels.JDAQ noWriteErr:  No output data has been written into the transfer buffer.]DAQ multSetupErr:  The specified resources have already been configured by a setup operation.SDAQ noSetupErr:  No setup operation has been performed for the specified resources.<DAQ invalidDSPhandleErr: The DSP handle input is not valid .
+DAQ badCountErr:  The count is too small or too large for the specified counter; or the given I/O transfer count is not appropriate for the current buffer or channel configuration.+DAQ badCounterErr:  The counter is invalid.&DAQ badGroupErr: The group is invalid.
+DAQ delayTrigErr: The delayed trigger mode is not supported or is not available in the current configuration, or no delay source has been assigned.:DAQ postTrigErr:  No posttrigger source has been assigned.
+DAQ dmaChainingErr:  New buffer information was not available at the time of the DMA chaining interrupt; DMA transfers will terminate at the end of the currently active transfer buffer.
+DAQ limitsOutOfRange:  The requested input limits exceed the board's capability or configuration.  Alternative limits were selected.tDAQ badWriteOffsetErr:  Adding the write offset to the write mark places the write mark outside the internal buffer.FDAQ badWriteModeErr:  The write mode is out of range or is disallowed.
+DAQ multConnectErr:  The specified RTSI signal is already being driven by a RTSI line, or the specified RTSI line is already being driven by a RTSI signal.JDAQ badConnectErr:  The RTSI signal/line cannot be connected as specified.vDAQ noConnectErr:  No RTSI signal/line is connected, or the specified signal and the specified line are not connected.
+DAQ noTrigEnabledErr:  The number of total scans and pretrigger scans implies that a triggered start is intended, but triggering is not enabled.SDAQ bufferInvalidErr:  A configuration change has invalidated the allocated buffer.NDAQ scanListInvalidErr:  A configuration change has invalidated the scan list.\DAQ clkExceedsBrdsMaxConvRate:  The clock rate exceeds the board's recommended maximum rate.SDAQ badChanInputModeErr:  All channels of this board must have the same input mode.PDAQ badChanCouplingErr:  All channels of this board must have the same coupling.NDAQ badChanPolarityErr:  All channels of this board must be the same polarity.JDAQ badChanRangeErr:  All channels of this board must have the same range.IDAQ badChanGainErr:   All channels of this board must have the same gain.fDAQ invalidRegenModeErr:  The specified analog output regeneration mode is not allowed for this board.sDAQ someInputsIgnoredErr:  Certain inputs were ignored because they are not relevant in the current operating mode.kDAQ noInfiniteModeErr:  Continuous input or output transfers are not allowed in the current operating mode.
+DAQ preTrigErr:  The pretrigger mode is not supported or is not available in the current configuration, or no pretrigger source has been assigned.YDAQ badTrigErr:  The specified trigger signal cannot be assigned to the trigger resource.LDAQ noTrigErr:  No trigger signal has been assigned to the trigger resource.SDAQ multClkSrcErr: A source signal has already been assigned to the clock resource.XDAQ badClkSrcErr:  The specified source signal cannot be assigned to the clock resource.KDAQ noClkSrcErr:  No source signal has been assigned to the clock resource.IDAQ slaveClkErr:  The clock configuration for the clock slave is invalid.JDAQ masterClkErr: The clock configuration for the clock master is invalid.[DAQ badGroupDirErr:  The specified group does not support the specified transfer direction.\DAQ badChanDirErr:  The specified channel does not support the specified transfer direction.YDAQ badLineDirErr:  The specified line does not support the specified transfer direction.
+DAQ rateNotSupportedErr: NI-DAQ was unable to convert your timebase/interval pair to match the actual hardware capabilities of this board.nDAQ multiRateModeErr: Multi-rate scanning cannot be used with the AMUX-64, SCXI, or pretriggered acquisitions.mDAQ DMAnotAllowedErr:  You have set up an operation that requires the use of interrupts.  DMA is not allowed.yDAQ unsafeSamplingFreqErr:  The sample frequency exceeds the safe maximum rate for the hardware, gains, and filters used.iDAQ extScanClockErr:  You cannot use an external scan clock when doing a single scan of a single channel.cDAQ chanClockDisabledErr:  The acquisition cannot be started because the channel clock is disabled.
+DAQ reservedPinErr:  The selected signal requires a pin that is reserved and configured only by NI-DAQ.  You cannot configure this pin yourself.rDAQ groupAssignErr:  A group is already assigned, or the specified line or channel is already assigned to a group.lDAQ noGroupAssignErr:  No group is assigned, or the specified line or channel cannot be assigned to a group.5DAQ counterBusyErr:  The specified counter is in use.
+DAQ syntaxErr:  An error was detected in the input string; the arrangement or ordering of the characters in the string is not consistent with the expected ordering.*Instr. Driver:  Instrument-specific error.4Instr. Driver:  Function not suported by controller.,Instr. Driver:  Error accessing VXI address.,Instr. Driver:  Error unmapping VXI address.*Instr. Driver:  Error mapping VXI address.%Instr. Driver:  Instrument timed out.-Instr. Driver:  Error in configuring timeout.7Instr. Driver:  Error interpreting instrument response.7Instr. Driver:  Error placing instrument in local mode.+Instr. Driver:  Instrument not initialized..Instr. Driver:  Error reading from instrument.,Instr. Driver:  Error writing to instrument.6Instr. Driver:  Error reading from instrument to file.6Instr. Driver:  Error writing to instrument from file.)Instr. Driver:  Error polling instrument.,Instr. Driver:  Error triggering instrument.*Instr. Driver:  Error clearing instrument.7Instr. Driver:  Instrument identification query failed.+Instr. Driver:  Unable to close instrument.*Instr. Driver:  Unable to open instrument.(Instr. Driver:  Error setting attribute.(Instr. Driver:  Error getting attribute.)Instr. Driver:  Error closing instrument.'Instr. Driver:  Parameter out of range.*Instr. Driver:  Invalid Instrument Handle.=Instr. Driver:  Unable to initialize interface or instrument.*Instr. Driver:  Error finding instruments.&Instr. Driver:  Invalid syntax string.'GPIB EDVR:  Error connecting to device.
+DAQ: digprtcf.c: allocation failedDAQ: portNumStr = %s (after truncating)DAQ: back from GET_DIGPORTDESC_DATADIGPRTCF: boardType %dDIGPRTCF: hardwarePortWidth %dDIGPRTCF: logicalPortWidth %dDIGPRTCF: numberOfPorts %dGET_DIGPORTDESC_DATALV_DIG_PORT_CONFIGSetCINArraySize, elmtNum %ld out of range 0 <= elmtNum < %ldnon-array detected
+DDE DMLERR_LOW_MEMORY:  A DDEML application has created a prolonged race condition (where the server application outruns the client), causing large amounts of memory to be consumed.5DDE DMLERR_MEMORY_ERROR:  A memory allocation failed./DDE DMLERR_NOTPROCESSED:  A transaction failed.[DDE DMLERR_NO_CONV_ESTABLISHED:  A client's attempt to establish a conversation has failed.VDDE DMLERR_POKEACKTIMEOUT: A request for a synchronous poke transaction has timed out.TDDE DMLERR_POSTMSG_FAILED:  An internal call to the PostMessage function has failed.
+DDE DMLERR_UNFOUND_QUEUED_ID:  An invalid transaction identifier was passed to a DDEML function.  Once the application has returned from an XTYP_XACT_COMPLETE callback, the transaction identifier for that callback is no longer valid.
+DSP CoffHdrErr:  The file you are attempting to load to the DSP board is not created using the WE DSP32C tools (not an acceptable COFF file).gDSP COFF_FilePathErr:  Could not find the DSP Library file in the directory set by the DAQCONF utility.dDSP TimeOutErr:  The Kernel did not respond or finish function execution in the selected time limit.GDSP HandleAllocErr:  Failed to allocate a handle in the interface code.pDSP HandleSlotErr:  The DSP Handle used does not belong to the same board on which the function request is made.vDSP NotDSPHandle:  The DSP Handle specified is not valid for this board:  it has either been freed or never allocated.tDSP TransferSizeErr:  The size of requested block transfer does not have enough space allocated for it on the board.bDSP ParamSizeErr:  One of the parameters does not have enough space allocated for it on the board.PDSP PtrNotFound:  The DSP address pointer could not be found to free the buffer.
+DSP FNC_ERR:  The function ID specified does not correspond to a function that is part of the DSP Library currently running on the board.
+DSP GROUP_ERR.  The function ID specified does not belong to any group that is part of the DSP Library currently running on the board.
+DSP IndexSizeOffsetErr:  The size+offset should be less than or equal to the size of the DSP Handle Structure which you index into.[DSP IndexSizeGTZero:  The size of the New DSP Handle Structure should be greater than zero.FDSP OffsetGEZero:  The offset should be greater than or equal to zero.KDSP CopyNumGTZero:  The number of data to copy should be greater than zero.uDSP Invalid CopyType:  The entire/partial copy selector can only select between entire copy (0) and partial copy (1).GDSP PathnameTooLong:  The path name should be less than 256 characters.
+DSP MEM_HARDWARE_ERR:  The onboard hardware diagnostic software found a memory hardware error.  Running functions on the board is unreliable.fDSP NotPowerOfTwo:  The size of the input array must be a valid power of two:  size = 2^m, 0 < m < 14.HDSP RankErr:  The rank of the filter must meet:  1 <= (2rank+1) <= size.ODSP LenGEOne:  The number of coefficients must be greater than or equal to one.XDSP FilterDesignErr:  The filter cannot be designed with the specified input parameters.lDSP LeakErr:  The leakage coefficient, Leak, must meet:  0 <= Leak <= u, where u is the step-size parameter.FDSP StepSizeErr:  The step-size parameter u must meet:  0 <= u <= 0.1.NDSP AttenGTRipple:  The attenuation must be greater than the ripple amplitude.NDSP NullVectorErr:  The input vector is null.  The unit vector does not exist.JDSP SizeGTZero:  The size of the input sequence must be greater than zero.6DSP WidthGTZero:  The width must be greater than zero.<DSP AttenGTZero:  The attenuation must be greater than zero.ADSP RippleGTZero:  The ripple ampltude must be greater than zero.UDSP Nyquist2Err:  The following conditions must be met: 0 <= f_low <= f_high <= fs/2.GDSP NyquistErr:  The cutoff frequency, fc, must meet:  0 <= fc <= fs/2.YDSP ConvSizeErr:  The number of elements of convolved arrays should be greater than zero.6DSP OrderGTZero:  The order must be greater than zero.@DSP SizeGTOrder:  The array size must be greater than the order.JDSP MixedSignErr:  The sign of y in Ax=y must be all positive or negative.HDSP Interval NumErr:  The number of intervals must be greater than zero.TDSP UpperGELower:  The upper value must be greater than or equal to the lower value.nDSP CyclesErr:  The number of cycles must be greater than zero and less than or equal to the number of samplesEDSP DutyCycleErr:  The duty cycle must meet:  0 <= duty cycle <= 100.,DSP dtGTZero:  dt must be greater than zero.ODSP WinDutyCyclesErr:  The window duty cycle value must be between 0.0 and 1.0.YDSP DelayWidthErr:  The following condition must be met:  0 <= (delay  width) < samples.BDSP WidthGEZero:  The width must be greater than or equal to zero.BDSP DelayGEZero:  The delay must be greater than or equal to zero.@DSP IndexLTSamples:  The index must meet:  0 <= index < samples.?DSP WidthLTSamples:  The width must meet:  0 < width < samples.TDSP DecFactErr:  The decimating factor must meet:  0 < decimating factor <= samples.VDSP OutOfMem:  There is not enough space left on the DSP board for onboard processing.^OutSizeGEInSize:  The output array size must be greater than or equal to the input array size.PDSP xSizeGEySize:  The size of x must be greater than or equal to the size of y.MDSP SizesGTZero:  The sizes of the input sequences must be greater than zero.ODSP Samples GETwo:  The number of samples must be greater than or equal to two.PDSP SamplesGEZero:  The number of samples must be greater than or equal to zero.DDSP SamplesGTZero:  The number of samples must be greater than zero.4Analysis InvSelectionErr:  The selection is invalid.@Analysis TableErr:  The contingency table has a negative number.TAnalysis CategoryErr:  The number of categories or samples must be greater than one.^Analysis InvProbErr:  The probability must be greater than or equal to zero and less than one.GAnalysis ProbabilityErr:  The probability must be between zero and one.AAnalysis FreedomErr:  The degrees of freedom must be one or more.LAnalysis ColumnErr:  All values in the first column of X matrix must be one.PAnalysis PoleErr:  The interpolating function has a pole at the requested value.5Analysis DistinctErr:  The x-values must be distinct.bAnalysis ModelErr:  The Random Effect model was requested when the Fixed Effect model is required.fAnalysis BalanceErr:  The data is unbalanced.  All cells must contain the same number of observations.[Analysis OverflowErr:  There is an overflow in the calculated F-value for the ANOVA Fit VI.zAnalysis DataErr:  The total number of data points must be equal to the product of levels/each factor * observations/cell.SAnalysis:  ObservationsErr:  Zero observations were made at some level of a factor.VAnalysis FactorErr:  The level of factors is outside the allowable range of some data.;Analysis LevelsErr:  The number of levels is out of range .kAnalysis SingularMatrixErr:  The system of equations cannot be solved because the input matrix is singular.DAnalysis SquareMatrixErr:  The input matrix must be a square matrix.
+Establishes a communication session with a remote instrument based on the instrument descriptor.  Instr Open creates an instr handle that is used by all other VISA Transition Library VIs to perform operations on that session.
+Fail = False
+Fail = FalseLK
+Fail = FalseLN
+Fail = Falsel@
+For most applications, you only need to connect wires to the controls and indicators displayed in bold.
+GPIB EFRM:  Serial port framing error.
+GPIB EOFL:  Serial port receive buffer overflow.
+GPIB EORN:  Serial port overrun error.
+GPIB EPAR:  Serial port parity error.
+GPIB SPTMO:  Serial port timeout; bytes not received at serial port.
+GPIBOpen.viH
+GetDevInfoShort.vi
+GetDevInfoShort.vi.
+GetDevInfoShort.viMD
+GetDevInfoShort.viND
+GetDevInfoShort.viQD
+GetDevInfoShort.vi`
+Initializes the software connection to the instrument.  In the case of VXI instruments controlled via NI-VXI, initializes the NI-VXI library, reads in the resource manager table, calculates A16 configuration addresses, determines memory requirements, and stores base addresses into A24 or A32 space.  For VXI instruments controlled via GPIB-VXI, performs all of the above except initialization of NI-VXI libraries.  You must run the INSTR Close VI once for every time you run this VI.
+Initializes the software connection to the instrument.  In the case of VXI instruments controlled via NI-VXI, initializes the NI-VXI library, reads in the resource manager table, calculates A16 configuration addresses, determines memory requirements, and stores base addresses into A24 or A32 space.  For VXI instruments controlled via GPIB-VXI, performs all of the above except initialization of NI-VXI libraries.  You must run the INSTR Close VI once for every time you run this VI.$
+Instr Open.vi
+Instr Open.viarison.vi
+Instr Open.vig
+Lead Zero MSG
+Lead Zero MSG@
+Lead Zero MSGp0
+Lead Zero MSGH
+Lead Zero Short & Open  VIY
+Lead Zero Short/Open
+Leakage Current
+Leakage Voltage
+Leakage current test.vi
+Leakage current test.viR
+Leakage voltage test.vi
+Leakage voltage test.viH
+Leakage voltage test.viR
+Leakage voltage test.vi^
+MMMLead zero, shorted            CAP must read "SHORT",  IND and ESR must read 0l
+Measure volts, amps, or ohms.  Select one of 6 functions.  Select range or use auto range.  Select trigger mode.  Slow reading rate is used for accuracy.                                         version a.0
+Measure volts, amps, or ohms.  Select one of 6 functions.  Select range or use auto range.  Select trigger mode.  Slow reading rate is used for accuracy.                                         version a.0 
+Most applications need only connect wires to the controls and indicators displayed in bold.  Connections to other controls and indicators are useful only if specifically needed.
+Normal Use:  When using subVIs that incorporate the error in/error out (or error I/O) structure, place this handler where you want to inform the user of an error, typically at the end of the I/O data path, as the last action of the program.  If the error in status is ERROR, the handler creates a message describing the error and its source.  If the type of dialog = 1 (default), the message is displayed to the user, who can only acknowedge it.  If the type = 2, the user can acknowledge the message or abort execution; aborting a program with active I/O is not recommended.  If the type = 0, no message is displayed; this is used to process the error programmatically, and the error out cluster elements are wired to individual terminals for that reason. 
+Open GPIB Driver.vi
+Open GPIB DriverPD
+Open Serial Driver.vi
+Open Serial DriverHD
+Open Serial DriverY
+Open instrument_D
+Pass or Fail Global
+Pass or Fail Global :
+Pass or Fail Global"
+Pass or Fail Global$
+Pass or Fail Global&
+Pass or Fail Global.
+Pass or Fail Global40/
+Pass or Fail Global49
+Pass or Fail GlobalPTH0
+Pass or Fail Globalob$0
+Port Select*
+Port Select.@
+Port Select:
+Port Select>
+Port SelectH
+QWrites the data in string to write to the serial port indicated in port number.
+Qbyte count is the number of bytes currently queued up in the serial port buffer.
+RS-232 Connection Failed
+Range selection has no effect in the mA DC and mA AC functions since all measurements in these functions are made in the 20000 mA range.             If the chosen range is not valid for selected function, the nearest valid range is selected. 
+Reads data from a device.  The data read is stored in the buffer represented by read buffer.  This operation returns when the transfer terminates.
+Reset Global Variables
+Reset Start Buttono
+Return String
+Return Stringx0
+Return String&
+Return String8
+Return String@@P
+Return StringH
+Return Terminator
+Return Terminatorp0
+Return Terminator*
+Return Terminator6@P
+Return TerminatorH
+Returned Value
+Returned Value&
+Returned Value,
+Returned Value<
+Returned ValueH
+Select measurement function. 
+Serial Port Read.vi
+Serial Port Read.viHD4J3
+Serial Port Read.viV
+Serial Port Read.via
+Serial Port Read.vic
+Serial Port Write.vi
+Serial Port Write.viW
+Set "Pass or Fail Global" to "Fail"W
+Set Status Message
+Set Status MessageH
+Set UUT to test Aluminum LyticsW
+Set Voltage on UUTH
+Set Voltage on UUTHD4Z3
+Short LeadsH
+Some error codes returned by the serial port VIs are platform-specific. Please refer to your system documentation for a list of error codes.
+Status state (Passed/Failed, Ready/Not Ready)$ (U16)
+StatusGlobal and reset start buttonm
+TCP ncAlreadyConnectedErr: The connection is already established.
+Test Voltage Array
+Test Voltage ArrayH
+This VI establishes a port configuration. You can use the task ID that this VI returns only in digital port VIs.
+This VI reads the port identified by task ID and returns the pattern read.
+This integer represents a GPIB address.  The low byte is the primary GPIB address (0-30) and the high byte is either 0 or a secondary GPIB address (96-126 or 0x60-0x7E).  Use MakeAddress.vi to construct a GPIB address which uses secondary addressing.RNcount. The VI returns up to count data bytes from the device in data string.
+Transfer aborted - Device not DIR
+Transfer aborted - Device not DOR
+UQWrites the data in string to write to the serial port indicated in port number.
+User abort occurred during I/O
+VFor most applications, you only need to connect wires to the controls and indicators displayed in bold.
+Voltage Reading
+Voltage Reading"
+Voltage ReadingT
+When you use the serial port VIs on a Sun SPARCstation, the port number parameter is 0 for /dev/ttya, 1 for /dev/ttyb, and so on.
+Wrequested byte count specifies the number of characters to be read. If you want to read all of the characters currently at the serial port, first execute the Bytes at Serial Port VI to determine the exact number of bytes ready to be read. Then use the byte count output of that VI as the requested byte count input to the Serial Port Read VI.
+ZFor most applications, you only need to connect wires to the controls and indicators displayed in bold.
+aTCP ncNotConnectedErr:  The connection is not established.
+aaaLeads zero, open                Cap must read 0, IND must read "OPEN" and ESR must read "ERROR 7"W
+continue or stop message:
+displays a dialog box with buttons allowing the user to either continue or stop. If the user cancels, the VI calls the Stop function to halt execution.
+exception handling.  This mechanism is available either to set the error out status FALSE on what is normally an error or to set the status TRUE on what is normally not an error.  If exception action > 0, the error in code and source are checked.  If they match the exception code and source, the error out status is adjusted accordingly.  That is, if the action = 1, the error out status is set to FALSE and code is set to zero and if the action = 2, the error out is set to TRUE and the code is unchanged.  An empty exception source matches any error in source. 
+exception handling.  This mechanism is available either to set the error out status FALSE on what is normally an error or to set the status TRUE on what is normally not an error.  If exception action > 0, the error in code and source are checked.  If they match the exception code and source, the error out status is adjusted accordingly.  That is, if the action = 1, the error out status is set to FALSE and code is set to zero and if the action = 2, the error out is set to TRUE and the code is unchanged.  An empty exception source matches any error in source.  H
+failure status to "StatusGlobal".
+force re-open
+force re-open@p
+force re-openQ
+iReset variable that ends the while loop
+kReturns in byte count the number of bytes in the input buffer of the serial port indicated in port number.
+lead zero short/open.vi
+lead zero short/open.viH
+lead zero short/open.viZ
+lead zero short/open.via
+local testing.  To test the error code of a subVI or function that does not have the error I/O structure, you can wire its error code and a source string to the local error code and error source inputs.  If error in status indicates no error and error code is not equal to 0, the local code and source are substituted for the error in values, and the status is set TRUE (ERROR).
+offset past match
+offset past number
+offset past number"@!
+okReturns in byte count the number of bytes in the input buffer of the serial port indicated in port number.
+port select<
+port selectH
+port selectPTH0
+qReads the number of characters specified by requested byte count from the serial port indicated in port number.
+qTCP ncSysConnAbortedErr:  The system caused the connection to be aborted.
+rTCP ncConnRefusedErr:  The connection was refused by the server.
+return string
+return stringx0
+return string6@P
+return stringF
+return stringH
+serpOpen.viSE
+serpOpen.viW
+set error on match"
+shortvalue @
+shortvalue M
+source. In case of an error, most VIs that use the error in and error out clusters set source to the name of the VI or function that produced the error.
+specific reset ?
+specific reset ?"
+specific reset ?H
+status is a Boolean array in which each bit describes a state of the GPIB Controller. If an error occurs, the GPIB VIs set bit 15. GPIB error is valid only if bit 15 of status is set.
+then send pass/fail message.H
+then send pass/fail message.U
+then send pass/fail message.W
+uqReads the number of characters specified by requested byte count from the serial port indicated in port number.
+x(i32) line mask: determines which lines in the port the write affects. If you set line mask to -1, the VI writes to the entire port and sets all the lines in the port to the states specified by the bits in pattern. If you set only bit n in line mask, the VI changes only line n in the port to the state that bit n of pattern specifies. The default setting for line mask is -1.51(u32) task ID out: has the same value as task ID.
+|error in is a cluster that describes the error status before this VI executes. If error in indicates that an error occurred before this VI was called, this VI may choose not to execute its function, but just pass the error through to its error out cluster. If no error has occurred, then this VI executes normally and sets its own error status in error out. Use the error handler VIs to look up the error code and to display the corresponding error message. Using error in and error out clusters is a convenient way to check errors and to specify execution order by wiring the error output from one subVI to the error input of the next.,%

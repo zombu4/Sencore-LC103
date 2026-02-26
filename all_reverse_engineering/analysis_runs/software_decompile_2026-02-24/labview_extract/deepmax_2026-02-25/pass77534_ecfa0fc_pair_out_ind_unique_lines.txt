@@ -1,0 +1,38 @@
+52350:1bb7d7 Choose a VI from the list of names to see its errors. Click on any error in the list to display more details about it here. Double-click on any front panel or block diagram error, or click on the Find button, to highlight the object causing the error.
+52516:1bdd78 A wire must be connected to one and only one data source, such as a control's terminal or a function output. This wire is not connected to any source. Find the source of this data and make sure it is a control (not indicator) or an output (not input).
+52525:1be595 A wire can be connected to only one data source, such as a control's terminal or a function output. This wire is connected to more than one source. Make sure that all connections except one are to indicators (not controls) or inputs (not outputs).
+63333:2663ca True if either primary or secondary addresses are outside ot the range 0-31. address error indicates whether a range error has occurred.
+100209:49d388 source messages contains the source message you want to appear in the error out cluster if the VI finds an error in error codes. Place each message on a separate line in a string constant or control.
+101569:4b6bd6 HDcode out is the error code indicated by the error in or error code.
+101594:4b758d 2.source out indicates the source of the error.
+233858:a8bfe True if either primary or secondary addresses are outside ot the range 0-31. address error indicates whether a range error has occurred.
+258563:214768 source messages contains the source message you want to appear in the error out cluster if the VI finds an error in error codes. Place each message on a separate line in a string constant or control.
+260002:22f7ae HDcode out is the error code indicated by the error in or error code.
+260027:230165 2.source out indicates the source of the error.
+300421:75e67 True if either primary or secondary addresses are outside ot the range 0-31. address error indicates whether a range error has occurred.
+313990:14d3cb HDcode out is the error code indicated by the error in or error code.
+314015:14dd82 2.source out indicates the source of the error.
+332685:7513b True if either primary or secondary addresses are outside ot the range 0-31. address error indicates whether a range error has occurred.
+340473:ec9ae HDcode out is the error code indicated by the error in or error code.
+340498:ed365 2.source out indicates the source of the error.
+354688:6b236 True if either primary or secondary addresses are outside ot the range 0-31. address error indicates whether a range error has occurred.
+371456:183820 HDcode out is the error code indicated by the error in or error code.
+371461:183b1d 2.source out indicates the source of the error.
+373374:1a228f source messages contains the source message you want to appear in the error out cluster if the VI finds an error in error codes. Place each message on a separate line in a string constant or control.
+425420:6b073 True if either primary or secondary addresses are outside ot the range 0-31. address error indicates whether a range error has occurred.
+434157:f7443 HDcode out is the error code indicated by the error in or error code.
+434162:f7740 2.source out indicates the source of the error.
+460351:6992b True if either primary or secondary addresses are outside ot the range 0-31. address error indicates whether a range error has occurred.
+470136:1069c4 HDcode out is the error code indicated by the error in or error code.
+470141:106cc1 2.source out indicates the source of the error.
+483904:6b236 True if either primary or secondary addresses are outside ot the range 0-31. address error indicates whether a range error has occurred.
+504199:1e98e6 .source out indicates the source of the error.
+504201:1e99ba Dcode out is the error code indicated by the error in or error code.
+505539:200a14 source messages contains the source message you want to appear in the error out cluster if the VI finds an error in error codes. Place each message on a separate line in a string constant or control.
+537888:6b073 True if either primary or secondary addresses are outside ot the range 0-31. address error indicates whether a range error has occurred.
+546532:f6353 HDcode out is the error code indicated by the error in or error code.
+546537:f6650 2.source out indicates the source of the error.
+568267:6992b True if either primary or secondary addresses are outside ot the range 0-31. address error indicates whether a range error has occurred.
+579618:16d7a9 .source out indicates the source of the error.
+579620:16d87d Dcode out is the error code indicated by the error in or error code.
+588626:6b196 True if either primary or secondary addresses are outside ot the range 0-31. address error indicates whether a range error has occurred.

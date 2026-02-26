@@ -1,0 +1,11 @@
+52543:1bf662 This platform does not support the current return type. For example, the return type of a 16-bit DLL function may not be a floating point number. Pop up on the Call Library Function node and select Configure... to set the return type.
+52544:1bf74d This platform does not support the type of one of the function parameters. Pop up on the Call Library Function node and select Configure... to set a valid type.
+75177:31bd84 D@Initializes the selected serial port to the specified settings.
+245487:15a438 D@Initializes the selected serial port to the specified settings.
+245676:15b68f @Initializes the selected serial port to the specified settings.
+397587:33efaf D@Initializes the selected serial port to the specified settings.
+404005:3a3993 @Initializes the selected serial port to the specified settings.
+522173:3541ec D@Initializes the selected serial port to the specified settings.
+527342:3b25df @Initializes the selected serial port to the specified settings.
+596741:f383f @Initializes the selected serial port to the specified settings.
+600231:12cbab @Initializes the selected serial port to the specified settings.

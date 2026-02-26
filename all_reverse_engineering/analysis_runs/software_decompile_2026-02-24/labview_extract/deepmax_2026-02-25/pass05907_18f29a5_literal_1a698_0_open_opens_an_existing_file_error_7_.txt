@@ -1,0 +1,1 @@
+224259:1a698 0 (open) opens an existing file.  Error 7 occurs if the file cannot be found.

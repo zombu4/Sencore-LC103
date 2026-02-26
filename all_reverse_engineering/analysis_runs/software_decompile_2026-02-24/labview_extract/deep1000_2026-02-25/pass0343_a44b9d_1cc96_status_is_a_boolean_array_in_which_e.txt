@@ -1,0 +1,2 @@
+454512:1cc96 status is a Boolean array in which each bit describes a state of the GPIB Controller. If an error occurs, the GPIB VIs set bit 15. GPIB error is valid only if bit 15 of status is set.
+562428:1cc96 status is a Boolean array in which each bit describes a state of the GPIB Controller. If an error occurs, the GPIB VIs set bit 15. GPIB error is valid only if bit 15 of status is set.

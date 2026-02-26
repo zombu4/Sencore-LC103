@@ -1,0 +1,1 @@
+596271:e6c7f creates a new file or replaces a file if it exists and you give permission. Replacement is done by opening the file and setting EOF to 0. Error 43 occurs if the user elects to disallow the replacement using dialog. 

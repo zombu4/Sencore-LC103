@@ -1,0 +1,3 @@
+45364:13d193 SaveCurrentPath
+48231:166060 This button sets the currently displayed path to its default value. You can not change the currently displayed path if this box is checked.
+48232:1660f0 This box displays the current value for the path that is selected in the path menu. You can not change the current path is "Use Default" is checked.

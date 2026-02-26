@@ -1,0 +1,20 @@
+100461:4a14a9 You can optionally use the source messages string to pass on the source of the error. Enter one line of text for each element of the error codes array.  
+102485:4cde95 GPIB ETAB:  Table error.$LabVIEW:  Configuration parse error.%LabVIEW:  Configuration memory error.#LabVIEW:  Bad external code format.#LabVIEW:  Bad external code offset.$LabVIEW:  External code not present.
+258815:218889 You can optionally use the source messages string to pass on the source of the error. Enter one line of text for each element of the error codes array.  
+258946:219972 You can optionally use the source messages string to pass on the source of the error. Enter one line of text for each element of the error codes array.  
+260918:246a6d GPIB ETAB:  Table error.$LabVIEW:  Configuration parse error.%LabVIEW:  Configuration memory error.#LabVIEW:  Bad external code format.#LabVIEW:  Bad external code offset.$LabVIEW:  External code not present.
+314926:16463e GPIB ETAB:  Table error.$LabVIEW:  Configuration parse error.%LabVIEW:  Configuration memory error.#LabVIEW:  Bad external code format.#LabVIEW:  Bad external code offset.$LabVIEW:  External code not present.
+341403:103c0e GPIB ETAB:  Table error.$LabVIEW:  Configuration parse error.%LabVIEW:  Configuration memory error.#LabVIEW:  Bad external code format.#LabVIEW:  Bad external code offset.$LabVIEW:  External code not present.
+371356:18048f GPIB ETAB:  Table error.$LabVIEW:  Configuration parse error.%LabVIEW:  Configuration memory error.#LabVIEW:  Bad external code format.#LabVIEW:  Bad external code offset.$LabVIEW:  External code not present.
+373370:1a203c You can optionally use the source messages string to pass on the source of the error. Enter one line of text for each element of the error codes array.  
+404034:3a481e You can optionally use the source messages string to pass on the source of the error. Enter one line of text for each element of the error codes array.  
+410620:416981 Communications Error.dd:\automated\lv51\lvsource\gencode.cGenRangeCheck
+434057:f40b2 GPIB ETAB:  Table error.$LabVIEW:  Configuration parse error.%LabVIEW:  Configuration memory error.#LabVIEW:  Bad external code format.#LabVIEW:  Bad external code offset.$LabVIEW:  External code not present.
+470036:103633 GPIB ETAB:  Table error.$LabVIEW:  Configuration parse error.%LabVIEW:  Configuration memory error.#LabVIEW:  Bad external code format.#LabVIEW:  Bad external code offset.$LabVIEW:  External code not present.
+503866:1e1430 GPIB ETAB:  Table error.$LabVIEW:  Configuration parse error.%LabVIEW:  Configuration memory error.#LabVIEW:  Bad external code format.#LabVIEW:  Bad external code offset.$LabVIEW:  External code not present.
+505478:1ff5af You can optionally use the source messages string to pass on the source of the error. Enter one line of text for each element of the error codes array.  
+527371:3b346a You can optionally use the source messages string to pass on the source of the error. Enter one line of text for each element of the error codes array.  
+546432:f2fc2 GPIB ETAB:  Table error.$LabVIEW:  Configuration parse error.%LabVIEW:  Configuration memory error.#LabVIEW:  Bad external code format.#LabVIEW:  Bad external code offset.$LabVIEW:  External code not present.
+579285:1652f4 GPIB ETAB:  Table error.$LabVIEW:  Configuration parse error.%LabVIEW:  Configuration memory error.#LabVIEW:  Bad external code format.#LabVIEW:  Bad external code offset.$LabVIEW:  External code not present.
+596770:f46ca You can optionally use the source messages string to pass on the source of the error. Enter one line of text for each element of the error codes array.  
+607296:1a3d6a You can optionally use the source messages string to pass on the source of the error. Enter one line of text for each element of the error codes array.  

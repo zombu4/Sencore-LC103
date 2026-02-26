@@ -1,0 +1,17 @@
+54237:1dfc2a convert eol? converts the LabVIEW end of line marker to the platform specific marker when set to TRUE. When set to false (the default value), no conversion occurs.
+54494:1e3da2 *Writes a string of characters to a byte stream file at the specified location; the default location is at the end of file.  The VI does incoming and internal error checking and does not write if an incoming error occurs.
+101006:4aa253 convert eol? converts the LabVIEW end of line marker to the platform specific marker when set to TRUE. When set to false (the default value), no conversion occurs.
+224530:1f70a convert eol? converts the LabVIEW end of line marker to the platform specific marker when set to TRUE. When set to false (the default value), no conversion occurs.
+224787:23882 *Writes a string of characters to a byte stream file at the specified location; the default location is at the end of file.  The VI does incoming and internal error checking and does not write if an incoming error occurs.
+224952:2506b *Writes a string of characters to a byte stream file at the specified location; the default location is at the end of file.  The VI does incoming and internal error checking and does not write if an incoming error occurs.
+259403:222303 convert eol? converts the LabVIEW end of line marker to the platform specific marker when set to TRUE. When set to false (the default value), no conversion occurs.
+372361:1937be convert eol? converts the LabVIEW end of line marker to the platform specific marker when set to TRUE. When set to false (the default value), no conversion occurs.
+394256:30cf67 *Writes a string of characters to a byte stream file at the specified location; the default location is at the end of file.  The VI does incoming and internal error checking and does not write if an incoming error occurs.
+405279:3b9da8 *Writes a string of characters to a byte stream file at the specified location; the default location is at the end of file.  The VI does incoming and internal error checking and does not write if an incoming error occurs.
+405301:3ba737 convert eol? converts the LabVIEW end of line marker to the platform specific marker when set to TRUE. When set to false (the default value), no conversion occurs.
+504921:1f5f14 convert eol? converts the LabVIEW end of line marker to the platform specific marker when set to TRUE. When set to false (the default value), no conversion occurs.
+520848:33c85f *Writes a string of characters to a byte stream file at the specified location; the default location is at the end of file.  The VI does incoming and internal error checking and does not write if an incoming error occurs.
+527675:3ba71a *Writes a string of characters to a byte stream file at the specified location; the default location is at the end of file.  The VI does incoming and internal error checking and does not write if an incoming error occurs.
+527774:3bc7d0 convert eol? converts the LabVIEW end of line marker to the platform specific marker when set to TRUE. When set to false (the default value), no conversion occurs.
+596714:f1b67 *Writes a string of characters to a byte stream file at the specified location; the default location is at the end of file.  The VI does incoming and internal error checking and does not write if an incoming error occurs.
+597617:ff243 *Writes a string of characters to a byte stream file at the specified location; the default location is at the end of file.  The VI does incoming and internal error checking and does not write if an incoming error occurs.

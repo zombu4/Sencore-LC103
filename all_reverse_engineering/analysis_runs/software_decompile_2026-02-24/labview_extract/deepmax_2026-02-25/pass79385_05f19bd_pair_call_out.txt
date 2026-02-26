@@ -1,0 +1,77 @@
+46989:15e882 Call to non existant LabVIEW routine!!!
+60182:23df67 The name of the VI that is calling this VI.  If an error occurs during the operation of this VI, the value in source will be placed in the source element of the error out cluster. 
+60450:244165 The name of the VI that is calling this VI.  If an error occurs during the operation of this VI, the value in source will be placed in the source element of the error out cluster. 
+61626:25238e The name of the VI that is calling this VI.  If an error occurs during the operation of this VI, the value in source will be placed in the source element of the error out cluster. 
+63526:271362 The name of the VI that is calling this VI.  If an error occurs during the operation of this VI, the value in source will be placed in the source element of the error out cluster. 
+66153:295ef2 The name of the VI that is calling this VI.  If an error occurs during the operation of this VI, the value in source will be placed in the source element of the error out cluster. 
+68031:2b0b36 The name of the VI that is calling this VI.  If an error occurs during the operation of this VI, the value in source will be placed in the source element of the error out cluster. 
+102522:4cee7d DDE DMLERR_DLL_NOT_INITIALIZED:  The DDEML function was called without first calling the DdeInitialize function or an invalid instance identifier was pass to a DDEML function.
+230652:7fe6f The name of the VI that is calling this VI.  If an error occurs during the operation of this VI, the value in source will be placed in the source element of the error out cluster. 
+230938:862f9 The name of the VI that is calling this VI.  If an error occurs during the operation of this VI, the value in source will be placed in the source element of the error out cluster. 
+232129:9474a The name of the VI that is calling this VI.  If an error occurs during the operation of this VI, the value in source will be placed in the source element of the error out cluster. 
+234063:b3d9a The name of the VI that is calling this VI.  If an error occurs during the operation of this VI, the value in source will be placed in the source element of the error out cluster. 
+236703:d8c92 The name of the VI that is calling this VI.  If an error occurs during the operation of this VI, the value in source will be placed in the source element of the error out cluster. 
+238594:f3b12 The name of the VI that is calling this VI.  If an error occurs during the operation of this VI, the value in source will be placed in the source element of the error out cluster. 
+260955:247a55 DDE DMLERR_DLL_NOT_INITIALIZED:  The DDEML function was called without first calling the DdeInitialize function or an invalid instance identifier was pass to a DDEML function.
+297174:4d153 The name of the VI that is calling this VI.  If an error occurs during the operation of this VI, the value in source will be placed in the source element of the error out cluster. 
+297464:535d6 The name of the VI that is calling this VI.  If an error occurs during the operation of this VI, the value in source will be placed in the source element of the error out cluster. 
+298667:619fb The name of the VI that is calling this VI.  If an error occurs during the operation of this VI, the value in source will be placed in the source element of the error out cluster. 
+300628:80ff7 The name of the VI that is calling this VI.  If an error occurs during the operation of this VI, the value in source will be placed in the source element of the error out cluster. 
+303302:a5e8f The name of the VI that is calling this VI.  If an error occurs during the operation of this VI, the value in source will be placed in the source element of the error out cluster. 
+305224:c0cb7 The name of the VI that is calling this VI.  If an error occurs during the operation of this VI, the value in source will be placed in the source element of the error out cluster. 
+314963:165626 DDE DMLERR_DLL_NOT_INITIALIZED:  The DDEML function was called without first calling the DdeInitialize function or an invalid instance identifier was pass to a DDEML function.
+329405:4c3bc The name of the VI that is calling this VI.  If an error occurs during the operation of this VI, the value in source will be placed in the source element of the error out cluster. 
+329701:528c2 The name of the VI that is calling this VI.  If an error occurs during the operation of this VI, the value in source will be placed in the source element of the error out cluster. 
+330917:60d43 The name of the VI that is calling this VI.  If an error occurs during the operation of this VI, the value in source will be placed in the source element of the error out cluster. 
+332897:80407 The name of the VI that is calling this VI.  If an error occurs during the operation of this VI, the value in source will be placed in the source element of the error out cluster. 
+335576:a5177 The name of the VI that is calling this VI.  If an error occurs during the operation of this VI, the value in source will be placed in the source element of the error out cluster. 
+337498:bffa3 The name of the VI that is calling this VI.  If an error occurs during the operation of this VI, the value in source will be placed in the source element of the error out cluster. 
+341440:104bf6 DDE DMLERR_DLL_NOT_INITIALIZED:  The DDEML function was called without first calling the DdeInitialize function or an invalid instance identifier was pass to a DDEML function.
+352097:4b12f The name of the VI that is calling this VI.  If an error occurs during the operation of this VI, the value in source will be placed in the source element of the error out cluster. 
+352383:515b9 The name of the VI that is calling this VI.  If an error occurs during the operation of this VI, the value in source will be placed in the source element of the error out cluster. 
+353574:5fa0a The name of the VI that is calling this VI.  If an error occurs during the operation of this VI, the value in source will be placed in the source element of the error out cluster. 
+354893:763d2 The name of the VI that is calling this VI.  If an error occurs during the operation of this VI, the value in source will be placed in the source element of the error out cluster. 
+357533:9b2ca The name of the VI that is calling this VI.  If an error occurs during the operation of this VI, the value in source will be placed in the source element of the error out cluster. 
+359424:b614a The name of the VI that is calling this VI.  If an error occurs during the operation of this VI, the value in source will be placed in the source element of the error out cluster. 
+371393:181477 DDE DMLERR_DLL_NOT_INITIALIZED:  The DDEML function was called without first calling the DdeInitialize function or an invalid instance identifier was pass to a DDEML function.
+422803:4afc7 The name of the VI that is calling this VI.  If an error occurs during the operation of this VI, the value in source will be placed in the source element of the error out cluster. 
+423093:5144a The name of the VI that is calling this VI.  If an error occurs during the operation of this VI, the value in source will be placed in the source element of the error out cluster. 
+424296:5f86f The name of the VI that is calling this VI.  If an error occurs during the operation of this VI, the value in source will be placed in the source element of the error out cluster. 
+425627:76203 The name of the VI that is calling this VI.  If an error occurs during the operation of this VI, the value in source will be placed in the source element of the error out cluster. 
+428301:9b09b The name of the VI that is calling this VI.  If an error occurs during the operation of this VI, the value in source will be placed in the source element of the error out cluster. 
+430223:b5ec3 The name of the VI that is calling this VI.  If an error occurs during the operation of this VI, the value in source will be placed in the source element of the error out cluster. 
+434094:f509a DDE DMLERR_DLL_NOT_INITIALIZED:  The DDEML function was called without first calling the DdeInitialize function or an invalid instance identifier was pass to a DDEML function.
+457704:49808 The name of the VI that is calling this VI.  If an error occurs during the operation of this VI, the value in source will be placed in the source element of the error out cluster. 
+458000:4fd0e The name of the VI that is calling this VI.  If an error occurs during the operation of this VI, the value in source will be placed in the source element of the error out cluster. 
+459216:5e18f The name of the VI that is calling this VI.  If an error occurs during the operation of this VI, the value in source will be placed in the source element of the error out cluster. 
+460563:74bf7 The name of the VI that is calling this VI.  If an error occurs during the operation of this VI, the value in source will be placed in the source element of the error out cluster. 
+463242:99967 The name of the VI that is calling this VI.  If an error occurs during the operation of this VI, the value in source will be placed in the source element of the error out cluster. 
+465164:b4793 The name of the VI that is calling this VI.  If an error occurs during the operation of this VI, the value in source will be placed in the source element of the error out cluster. 
+470073:10461b DDE DMLERR_DLL_NOT_INITIALIZED:  The DDEML function was called without first calling the DdeInitialize function or an invalid instance identifier was pass to a DDEML function.
+481313:4b12f The name of the VI that is calling this VI.  If an error occurs during the operation of this VI, the value in source will be placed in the source element of the error out cluster. 
+481599:515b9 The name of the VI that is calling this VI.  If an error occurs during the operation of this VI, the value in source will be placed in the source element of the error out cluster. 
+482790:5fa0a The name of the VI that is calling this VI.  If an error occurs during the operation of this VI, the value in source will be placed in the source element of the error out cluster. 
+484109:763d2 The name of the VI that is calling this VI.  If an error occurs during the operation of this VI, the value in source will be placed in the source element of the error out cluster. 
+486749:9b2ca The name of the VI that is calling this VI.  If an error occurs during the operation of this VI, the value in source will be placed in the source element of the error out cluster. 
+488640:b614a The name of the VI that is calling this VI.  If an error occurs during the operation of this VI, the value in source will be placed in the source element of the error out cluster. 
+503903:1e2418 DDE DMLERR_DLL_NOT_INITIALIZED:  The DDEML function was called without first calling the DdeInitialize function or an invalid instance identifier was pass to a DDEML function.
+535271:4afc7 The name of the VI that is calling this VI.  If an error occurs during the operation of this VI, the value in source will be placed in the source element of the error out cluster. 
+535561:5144a The name of the VI that is calling this VI.  If an error occurs during the operation of this VI, the value in source will be placed in the source element of the error out cluster. 
+536764:5f86f The name of the VI that is calling this VI.  If an error occurs during the operation of this VI, the value in source will be placed in the source element of the error out cluster. 
+538095:76203 The name of the VI that is calling this VI.  If an error occurs during the operation of this VI, the value in source will be placed in the source element of the error out cluster. 
+540769:9b09b The name of the VI that is calling this VI.  If an error occurs during the operation of this VI, the value in source will be placed in the source element of the error out cluster. 
+542691:b5ec3 The name of the VI that is calling this VI.  If an error occurs during the operation of this VI, the value in source will be placed in the source element of the error out cluster. 
+546469:f3faa DDE DMLERR_DLL_NOT_INITIALIZED:  The DDEML function was called without first calling the DdeInitialize function or an invalid instance identifier was pass to a DDEML function.
+565620:49808 The name of the VI that is calling this VI.  If an error occurs during the operation of this VI, the value in source will be placed in the source element of the error out cluster. 
+565916:4fd0e The name of the VI that is calling this VI.  If an error occurs during the operation of this VI, the value in source will be placed in the source element of the error out cluster. 
+567132:5e18f The name of the VI that is calling this VI.  If an error occurs during the operation of this VI, the value in source will be placed in the source element of the error out cluster. 
+568479:74bf7 The name of the VI that is calling this VI.  If an error occurs during the operation of this VI, the value in source will be placed in the source element of the error out cluster. 
+571158:99967 The name of the VI that is calling this VI.  If an error occurs during the operation of this VI, the value in source will be placed in the source element of the error out cluster. 
+573080:b4793 The name of the VI that is calling this VI.  If an error occurs during the operation of this VI, the value in source will be placed in the source element of the error out cluster. 
+579322:1662dc DDE DMLERR_DLL_NOT_INITIALIZED:  The DDEML function was called without first calling the DdeInitialize function or an invalid instance identifier was pass to a DDEML function.
+586036:4b0a7 The name of the VI that is calling this VI.  If an error occurs during the operation of this VI, the value in source will be placed in the source element of the error out cluster. 
+586322:51531 The name of the VI that is calling this VI.  If an error occurs during the operation of this VI, the value in source will be placed in the source element of the error out cluster. 
+587513:5f982 The name of the VI that is calling this VI.  If an error occurs during the operation of this VI, the value in source will be placed in the source element of the error out cluster. 
+588831:76332 The name of the VI that is calling this VI.  If an error occurs during the operation of this VI, the value in source will be placed in the source element of the error out cluster. 
+591471:9b22a The name of the VI that is calling this VI.  If an error occurs during the operation of this VI, the value in source will be placed in the source element of the error out cluster. 
+593362:b60aa The name of the VI that is calling this VI.  If an error occurs during the operation of this VI, the value in source will be placed in the source element of the error out cluster. 

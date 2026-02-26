@@ -1,0 +1,7 @@
+74843:317181 Parity Error Byte. If the high byte is non-zero, the low byte is the character that is used to replace any parity errors found when parity is enabled.
+120561:e7 is the high cal point and the second is the low cal point.
+222942:e7 is the high cal point and the second is the low cal point.
+222972:e7 is the high cal point and the second is the low cal point.
+245153:155835 Parity Error Byte. If the high byte is non-zero, the low byte is the character that is used to replace any parity errors found when parity is enabled.
+397613:33f74f Parity Error Byte. If the high byte is non-zero, the low byte is the character that is used to replace any parity errors found when parity is enabled.
+522321:3568ac Parity Error Byte. If the high byte is non-zero, the low byte is the character that is used to replace any parity errors found when parity is enabled.

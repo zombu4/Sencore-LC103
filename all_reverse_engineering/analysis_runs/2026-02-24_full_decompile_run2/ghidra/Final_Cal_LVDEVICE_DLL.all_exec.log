@@ -1,0 +1,137 @@
+openjdk version "21.0.10" 2026-01-20 LTS
+OpenJDK Runtime Environment Temurin-21.0.10+7 (build 21.0.10+7-LTS)
+OpenJDK 64-Bit Server VM Temurin-21.0.10+7 (build 21.0.10+7-LTS, mixed mode)
+INFO  Using log config file: jar:file:/Users/<user>/Tools/ghidra_12.0.2_PUBLIC/Ghidra/Framework/Generic/lib/Generic.jar!/generic.log4j.xml (LoggingInitialization)  
+INFO  Using log file: /var/<user>/Library/ghidra/ghidra_12.0.2_PUBLIC/application.log (LoggingInitialization)  
+INFO  Loading user preferences: /var/<user>/Library/ghidra/ghidra_12.0.2_PUBLIC/preferences (Preferences)  
+INFO  Searching for classes... (ClassSearcher)  
+INFO  Class search complete (739 ms) (ClassSearcher)  
+INFO  Initializing SSL Context (DefaultSSLContextInitializer)  
+INFO  Initializing Random Number Generator... (SecureRandomFactory)  
+INFO  Random Number Generator initialization complete: NativePRNGNonBlocking (SecureRandomFactory)  
+INFO  Trust manager disabled, cacerts have not been set (DefaultTrustManagerFactory)  
+INFO  Headless startup complete (1391 ms) (AnalyzeHeadless)  
+INFO  Class searcher loaded 58 extension points (18 false positives) (ClassSearcher)  
+INFO  HEADLESS Script Paths:
+    /Users/<user>/Tools/ghidra_12.0.2_PUBLIC/Ghidra/Features/Decompiler/ghidra_scripts
+    /Users/<user>/Tools/ghidra_12.0.2_PUBLIC/Ghidra/Debug/Debugger/ghidra_scripts
+    /Users/<user>/Tools/ghidra_12.0.2_PUBLIC/Ghidra/Features/PDB/ghidra_scripts
+    /Users/<user>/Tools/ghidra_12.0.2_PUBLIC/Ghidra/Features/SystemEmulation/ghidra_scripts
+    /Users/<user>/Tools/ghidra_12.0.2_PUBLIC/Ghidra/Features/WildcardAssembler/ghidra_scripts
+    /Users/<user>/Tools/ghidra_12.0.2_PUBLIC/Ghidra/Processors/8051/ghidra_scripts
+    /Users/<user>/Tools/ghidra_12.0.2_PUBLIC/Ghidra/Features/PyGhidra/ghidra_scripts
+    /Users/<user>/Tools/ghidra_12.0.2_PUBLIC/Ghidra/Features/Base/ghidra_scripts
+    /Users/<user>/Tools/ghidra_12.0.2_PUBLIC/Ghidra/Processors/DATA/ghidra_scripts
+    /Users/<user>/Tools/ghidra_12.0.2_PUBLIC/Ghidra/Features/FileFormats/ghidra_scripts
+    /Users/<user>/Tools/ghidra_12.0.2_PUBLIC/Ghidra/Processors/PIC/ghidra_scripts
+    /Users/<user>/Tools/ghidra_12.0.2_PUBLIC/Ghidra/Features/Jython/ghidra_scripts
+    /Users/<user>/Tools/ghidra_12.0.2_PUBLIC/Ghidra/Features/GnuDemangler/ghidra_scripts
+    /Users/<user>/Tools/ghidra_12.0.2_PUBLIC/Ghidra/Debug/Debugger-rmi-trace/ghidra_scripts
+    /Users/<user>/Tools/ghidra_12.0.2_PUBLIC/Ghidra/Features/BytePatterns/ghidra_scripts
+    /Users/<user>/Tools/ghidra_12.0.2_PUBLIC/Ghidra/Features/FunctionID/ghidra_scripts
+    /Users/<user>/Tools/ghidra_12.0.2_PUBLIC/Ghidra/Processors/JVM/ghidra_scripts
+    /Users/<user>/Tools/ghidra_12.0.2_PUBLIC/Ghidra/Features/BSim/ghidra_scripts
+    /Users/<user>/Tools/ghidra_12.0.2_PUBLIC/Ghidra/Features/MicrosoftCodeAnalyzer/ghidra_scripts
+    /Users/<user>/Tools/ghidra_12.0.2_PUBLIC/Ghidra/Features/VersionTracking/ghidra_scripts
+    /Users/<user>/LC103/software_decompile_2026-02-24/bin
+    /Users/<user>/Tools/ghidra_12.0.2_PUBLIC/Ghidra/Features/DecompilerDependent/ghidra_scripts
+    /Users/<user>/Tools/ghidra_12.0.2_PUBLIC/Ghidra/Processors/Atmel/ghidra_scripts
+    /Users/<user>/Tools/ghidra_12.0.2_PUBLIC/Ghidra/Features/SwiftDemangler/ghidra_scripts (HeadlessAnalyzer)  
+INFO  HEADLESS: execution starts (HeadlessAnalyzer)  
+INFO  Creating temporary project: /Users/<user>/LC103/2026-02-24_full_decompile_run2/ghidra/projects_all_exec/Final_Cal_LVDEVICE_DLL/proj (HeadlessAnalyzer)  
+INFO  Creating project: /Users/<user>/LC103/2026-02-24_full_decompile_run2/ghidra/projects_all_exec/Final_Cal_LVDEVICE_DLL/proj (DefaultProject)  
+INFO  REPORT: Processing input files:  (HeadlessAnalyzer)  
+INFO       project: /Users/<user>/LC103/2026-02-24_full_decompile_run2/ghidra/projects_all_exec/Final_Cal_LVDEVICE_DLL/proj (HeadlessAnalyzer)  
+INFO  IMPORTING: file:///Users/<user>/LC103/2026-02-24_full_decompile_run2/ghidra/sources_all_exec/Final_Cal_LVDEVICE_DLL (HeadlessAnalyzer)  
+INFO  Using Loader: New Executable (NE) (ProgramLoader)  
+INFO  Using Language/Compiler: x86:LE:16:Protected Mode:default (ProgramLoader)  
+INFO  Using Library Search Path: [., /System/Library/dyld/dyld_shared_cache_arm64e, /System/Library/dyld/dyld_shared_cache_x86_64, /System/Library/dyld/dyld_shared_cache_x86_64h, /System/Cryptexes/OS/System/Library/dyld/dyld_shared_cache_arm64e, /System/Cryptexes/OS/System/Library/dyld/dyld_shared_cache_x86_64, /System/Cryptexes/OS/System/Library/dyld/dyld_shared_cache_x86_64h, /var/<user>/Library/Java/Extensions, /Library/Java/Extensions, /Network/Library/Java/Extensions, /System/Library/Java/Extensions, /usr/lib/java] (ProgramLoader)  
+INFO  Removing 2 unused filesystems from cache (FileSystemInstanceManager)  
+INFO  Additional info:
+Loading file:///Users/<user>/LC103/2026-02-24_full_decompile_run2/ghidra/sources_all_exec/Final_Cal_LVDEVICE_DLL?MD5=f275e6f255bbb0a7b68ab2192ef0abcc...
+------------------------------------------------
+
+Searching 4 paths for library GDI...
+Library not found.
+------------------------------------------------
+
+Searching 4 paths for library KERNEL...
+Library not found.
+------------------------------------------------
+
+Searching 4 paths for library system...
+Library not found.
+------------------------------------------------
+
+Searching 4 paths for library USER...
+Library not found.
+------------------------------------------------
+
+Applying /Users/<user>/Tools/ghidra_12.0.2_PUBLIC/Ghidra/Features/Base/data/symbols/win16/kernel.exports
+Applying /Users/<user>/Tools/ghidra_12.0.2_PUBLIC/Ghidra/Features/Base/data/symbols/win16/gdi.exports
+Applying /Users/<user>/Tools/ghidra_12.0.2_PUBLIC/Ghidra/Features/Base/data/symbols/win16/user.exports
+Linking the External Programs of 'Final_Cal_LVDEVICE_DLL' to imported libraries...
+  [system] -> not found in project
+  [KERNEL] -> not found in project
+  [GDI] -> not found in project
+  [USER] -> not found in project
+------------------------------------------------
+
+ (ProgramLoader)  
+INFO  IMPORTING: Loaded 0 additional files (HeadlessAnalyzer)  
+INFO  ANALYZING all memory and code: file:///Users/<user>/LC103/2026-02-24_full_decompile_run2/ghidra/sources_all_exec/Final_Cal_LVDEVICE_DLL (HeadlessAnalyzer)  
+INFO  Packed database cache: /var/tmp/root-ghidra/packed-db-cache (PackedDatabaseCache)  
+INFO  Applied data type archive: generic_clib (ApplyDataArchiveAnalyzer)  
+INFO  -----------------------------------------------------
+    ASCII Strings                              0.187 secs
+    Apply Data Archives                        0.461 secs
+    Call Convention ID                         0.000 secs
+    Call-Fixup Installer                       0.002 secs
+    Create Address Tables                      0.002 secs
+    Create Function                            0.007 secs
+    Data Reference                             0.001 secs
+    Decompiler Switch Analysis                 0.001 secs
+    Demangler GNU                              0.012 secs
+    Disassemble                                0.007 secs
+    Disassemble Entry Points                   0.116 secs
+    Embedded Media                             0.009 secs
+    External Entry References                  0.000 secs
+    Function ID                                0.019 secs
+    Function Start Search                      0.004 secs
+    Non-Returning Functions - Discovered       0.004 secs
+    Reference                                  0.004 secs
+    Scalar Operand References                  0.016 secs
+    Segmented X86 Calling Conventions          0.001 secs
+    Shared Return Calls                        0.003 secs
+    Stack                                      0.068 secs
+    Subroutine References                      0.003 secs
+    X86 Function Callee Purge                  0.007 secs
+    x86 Constant Reference Analyzer            0.086 secs
+-----------------------------------------------------
+     Total Time   1 secs
+-----------------------------------------------------
+ (AutoAnalysisManager)  
+INFO  REPORT: Analysis succeeded for file: file:///Users/<user>/LC103/2026-02-24_full_decompile_run2/ghidra/sources_all_exec/Final_Cal_LVDEVICE_DLL (HeadlessAnalyzer)  
+INFO  REPORT: Execute script: ExportProgramMapFull.java '/Users/<user>/LC103/2026-02-24_full_decompile_run2/ghidra' '0' '60'  (HeadlessAnalyzer)  
+INFO  SCRIPT: /Users/<user>/LC103/software_decompile_2026-02-24/bin/ExportProgramMapFull.java (HeadlessAnalyzer)  
+WARN  Decompiling 1010:0000, pcode error at 1010:0000: Unable to disassemble EXTERNAL block location: 1010:0000 (DecompileCallback)  
+WARN  Decompiling 1010:0004, pcode error at 1010:0004: Unable to disassemble EXTERNAL block location: 1010:0004 (DecompileCallback)  
+WARN  Decompiling 1010:0008, pcode error at 1010:0008: Unable to disassemble EXTERNAL block location: 1010:0008 (DecompileCallback)  
+WARN  Decompiling 1010:000c, pcode error at 1010:000c: Unable to disassemble EXTERNAL block location: 1010:000c (DecompileCallback)  
+WARN  Decompiling 1010:0010, pcode error at 1010:0010: Unable to disassemble EXTERNAL block location: 1010:0010 (DecompileCallback)  
+WARN  Decompiling 1010:0014, pcode error at 1010:0014: Unable to disassemble EXTERNAL block location: 1010:0014 (DecompileCallback)  
+WARN  Decompiling 1010:0018, pcode error at 1010:0018: Unable to disassemble EXTERNAL block location: 1010:0018 (DecompileCallback)  
+WARN  Decompiling 1010:001c, pcode error at 1010:001c: Unable to disassemble EXTERNAL block location: 1010:001c (DecompileCallback)  
+WARN  Decompiling 1010:0020, pcode error at 1010:0020: Unable to disassemble EXTERNAL block location: 1010:0020 (DecompileCallback)  
+WARN  Decompiling 1010:0024, pcode error at 1010:0024: Unable to disassemble EXTERNAL block location: 1010:0024 (DecompileCallback)  
+WARN  Decompiling 1010:0028, pcode error at 1010:0028: Unable to disassemble EXTERNAL block location: 1010:0028 (DecompileCallback)  
+WARN  Decompiling 1010:002c, pcode error at 1010:002c: Unable to disassemble EXTERNAL block location: 1010:002c (DecompileCallback)  
+WARN  Decompiling 1010:0030, pcode error at 1010:0030: Unable to disassemble EXTERNAL block location: 1010:0030 (DecompileCallback)  
+INFO  ExportProgramMapFull.java> Export complete: /Users/<user>/LC103/2026-02-24_full_decompile_run2/ghidra/Final_Cal_LVDEVICE_DLL_functions_full.csv (GhidraScript)  
+INFO  ExportProgramMapFull.java> Export complete: /Users/<user>/LC103/2026-02-24_full_decompile_run2/ghidra/Final_Cal_LVDEVICE_DLL_calls_full.csv (GhidraScript)  
+INFO  ExportProgramMapFull.java> Export complete: /Users/<user>/LC103/2026-02-24_full_decompile_run2/ghidra/Final_Cal_LVDEVICE_DLL_decomp_full.txt (GhidraScript)  
+INFO  ANALYZING changes made by post scripts: file:///Users/<user>/LC103/2026-02-24_full_decompile_run2/ghidra/sources_all_exec/Final_Cal_LVDEVICE_DLL (HeadlessAnalyzer)  
+INFO  REPORT: Post-analysis succeeded for file: file:///Users/<user>/LC103/2026-02-24_full_decompile_run2/ghidra/sources_all_exec/Final_Cal_LVDEVICE_DLL (HeadlessAnalyzer)  
+INFO  /Final_Cal_LVDEVICE_DLL: file created (root) (LocalFileSystem)  
+INFO  REPORT: Save succeeded for: /Final_Cal_LVDEVICE_DLL (proj:/Final_Cal_LVDEVICE_DLL) (HeadlessAnalyzer)  
+INFO  REPORT: Import succeeded (HeadlessAnalyzer)  

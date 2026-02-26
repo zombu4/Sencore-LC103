@@ -1,0 +1,56 @@
+0 RSRC
+8 LVSBLBVW
+24 i386
+164 DRVR
+8ae _^[]
+8e4 F(Pj
+8f0 F(Pj
+939 |6f=
+98e |:f=
+a32 EPR
+ac9 SPf9
+b0a _^[]
+bda _^[]
+c42 URS
+c77 _^[]
+d98 @(P1
+e57 PLf9
+e7a @(P1
+122d _^[]
+1267 F(Pj
+127a F(Pj
+128c F(Ph
+12da F(Pj
+1368 ^Ff9
+1377 .+F\=
+1384 F(Pj
+1392 FZ)FH
+13bc +VH9
+147d F(Pj
+1580 F(Pj
+15b6 F(Pj
+15e7 FH;G tCf
+1667 W +VH1
+1bfc COM1
+1c01 COM2
+1c06 COM3
+1c0b COM4
+1c10 COM5
+1c15 COM6
+1c1a COM7
+1c1f COM8
+1c24 COM9
+1c29 COM10
+1c2f LPT1
+1c34 LPT2
+1c39 LPT3
+1c3e LPT4
+1c44 SerpWatchDogFlag
+1c58 SetCINArraySize, elmtNum %ld out of range 0 <= elmtNum < %ld
+1c95 non-array detected
+1cb0 RSRC
+1cb8 LVSBLBVW
+1ce8 PLAT
+1cf4 LVSB
+1d29 serpdrv
+1d31 serpdrv

@@ -1,0 +1,60 @@
+54093:1dd450 Open FilePTH0
+54108:1dd4ff File DialogPTH0
+54723:1e7add *.calCPlease choose the file containing the capacitance calibration data.PTH0
+100084:49b1f3 Open File+.vi:File DialogPTH0
+100088:49b243 Open File+.vi:File DialogPTH0
+103121:4d73a2 file pathPTH0!
+112743:56e3f0 file path (" ")PTH0
+113203:57b9f9 file path (dialog if empty)PTH0!
+119158:5e39aa *.calCPlease choose the file containing the capacitance calibration data.PTH0
+119353:5e4a25 Capacitance Box Cal Data FilePTH0
+224350:1c07c Open FilePTH0
+224365:1c12b File DialogPTH0
+225047:27f09 *.calCPlease choose the file containing the capacitance calibration data.PTH0
+258414:211b1f Open File+.vi:File DialogPTH0
+258418:211b6f Open File+.vi:File DialogPTH0
+261560:250302 file pathPTH0!
+271272:2e8b44 file path (" ")PTH0
+271746:2f6879 file path (dialog if empty)PTH0!
+288695:4130ae *.calCPlease choose the file containing the capacitance calibration data.PTH0
+288890:414129 Capacitance Box Cal Data FilePTH0
+362986:ece55 *.calCPlease choose the file containing the capacitance calibration data.PTH0
+365481:11de18 file path (dialog if empty)PTH0!
+366302:12ca6f file path (" ")PTH0
+370257:166957 file pathPTH0!
+404919:3b432f *.calCPlease choose the file containing the capacitance calibration data.PTH0
+406132:3cb171 Open FilePTH0
+411424:42a4a4 Capacitance Box Cal Data FilePTH0
+412979:43c601 *.calCPlease choose the file containing the capacitance calibration data.PTH0
+412981:43c65b *.calBPlease choose the file containing the inductance calibration data.PTH0
+490853:df98d Capacitance Box Cal Data FilePTH0
+491351:e289a *.calCPlease choose the file containing the capacitance calibration data.PTH0
+491353:e28f4 *.calBPlease choose the file containing the inductance calibration data.PTH0
+493347:10af1b *.calCPlease choose the file containing the capacitance calibration data.PTH0
+495518:13b970 file path (dialog if empty)PTH0!
+496099:147bf4 file path (" ")PTH0
+503272:1ce788 file pathPTH0!
+527464:3b64bb *.calCPlease choose the file containing the capacitance calibration data.PTH0
+528011:3c4970 Open FilePTH0
+595676:deb8c Open FilePTH0
+608364:1b61a9 Open_Create_Replace File.viPTH0
+608369:1b6235 Write File+ (string).viPTH0
+608386:1b6549 Write File+ (string).viPTH0
+608388:1b65a1 Open_Create_Replace File.viPTH0
+608452:1b7925 Write File+ (string).viPTH0
+608456:1b79a1 Open_Create_Replace File.viPTH0
+610224:1d3b6d Open File+.viPTH0
+610255:1d4189 Open File+.viPTH0
+610347:1d5fc1 Open File+.viPTH0
+610484:1d7e19 Write Characters To File.viPTH0
+610487:1d7e89 Read Lines From File.viPTH0
+610500:1d844d Write Characters To File.viPTH0
+610502:1d84ad Read Lines From File.viPTH0
+610581:1da435 Read Lines From File.viPTH0
+610585:1da4b1 Write Characters To File.viPTH0
+610731:1dcbf1 Read Lines From File.viPTH0
+610792:1dda75 Read Lines From File.viPTH0
+610975:1e0fe9 Read Lines From File.viPTH0
+611204:1e4aad Read Lines From File.viPTH0
+611275:1e5aed Read Lines From File.viPTH0
+611499:1e9799 Read Lines From File.viPTH0

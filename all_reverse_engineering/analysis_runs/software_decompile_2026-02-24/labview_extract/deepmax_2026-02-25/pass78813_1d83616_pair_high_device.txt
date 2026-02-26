@@ -1,0 +1,14 @@
+132985:1fe0ad ?HighRes_GetCalConstant_TheVirtualThing@daqDevice@@UAEJFKKMKMPANPAK@Z
+132986:1fe0f3 ?HighRes_GetCalInfo_TheVirtualThing@daqDevice@@UAEJFKPAKPAG1PAM@Z
+132987:1fe135 ?HighRes_SetCalConstant_TheVirtualThing@daqDevice@@UAEJFKPAEKMKMNK@Z
+132988:1fe17a ?HighRes_SetCalInfo_TheVirtualThing@daqDevice@@UAEJFKPAEKGGM@Z
+132989:1fe1b9 ?HighRes_SetCalibrationMode_TheVirtualThing@daqDevice@@UAEJFK@Z
+132990:1fe1f9 ?HighRes_SetCalibrationPassword_TheVirtualThing@daqDevice@@UAEJFKPAE0@Z
+132991:1fe241 ?HighRes_UpdateCalConstants_TheVirtualThing@daqDevice@@UAEJFKMKMMMKPAE@Z
+638474:1fe0ad ?HighRes_GetCalConstant_TheVirtualThing@daqDevice@@UAEJFKKMKMPANPAK@Z
+638475:1fe0f3 ?HighRes_GetCalInfo_TheVirtualThing@daqDevice@@UAEJFKPAKPAG1PAM@Z
+638476:1fe135 ?HighRes_SetCalConstant_TheVirtualThing@daqDevice@@UAEJFKPAEKMKMNK@Z
+638477:1fe17a ?HighRes_SetCalInfo_TheVirtualThing@daqDevice@@UAEJFKPAEKGGM@Z
+638478:1fe1b9 ?HighRes_SetCalibrationMode_TheVirtualThing@daqDevice@@UAEJFK@Z
+638479:1fe1f9 ?HighRes_SetCalibrationPassword_TheVirtualThing@daqDevice@@UAEJFKPAE0@Z
+638480:1fe241 ?HighRes_UpdateCalConstants_TheVirtualThing@daqDevice@@UAEJFKMKMMMKPAE@Z

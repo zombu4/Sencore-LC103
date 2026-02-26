@@ -1,0 +1,1 @@
+432777:d593a You have the option to not reconfigure the port as an input port by setting the iteration control to a non-zero value. You can also concatenate multiple ports to operate as one large port by using the port width paramter.

@@ -1,0 +1,7 @@
+47635:1620a0 The library "%z" must be converted to the current format. This will prevent earlier versions of LabVIEW from reading it.
+132644:1eeb8c _palGetCurrentVersionForC@0
+134418:20ae28 SOFTWARE\National Instruments\NI-DAQ\CurrentVersion\fpgafiles
+134467:20b940 SOFTWARE\National Instruments\NI-DAQmx\CurrentVersion
+638133:1eeb8c _palGetCurrentVersionForC@0
+639907:20ae28 SOFTWARE\National Instruments\NI-DAQ\CurrentVersion\fpgafiles
+639956:20b940 SOFTWARE\National Instruments\NI-DAQmx\CurrentVersion

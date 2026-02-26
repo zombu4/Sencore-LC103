@@ -1,0 +1,1 @@
+62762:25e9a7 ZV(bool) status: TRUE if an error has occurred. If status is TRUE, this VI does nothing.

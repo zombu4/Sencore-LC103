@@ -1,0 +1,5 @@
+substep,sense_resistor_ohm_literal,approx_current_literal,cal_box_setup_number,dmm_8842_multiplier
+0,1.111E6,9uA,9,10.0
+1,100.0E3,100uA,1,1.0
+2,10.0E3,1mA,2,1.0
+3,1.00E3,10mA,3,1.0

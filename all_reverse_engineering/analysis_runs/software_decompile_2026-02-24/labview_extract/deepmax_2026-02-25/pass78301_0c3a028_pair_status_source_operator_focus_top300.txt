@@ -1,0 +1,18 @@
+68888:2b8dad 1-(bool) status: TRUE if an error has occurred.[W(string) source: an indication of where an error occurred, usually the name of the VI."
+100480:4a17b6 If the error in cluster has a status of no-error, then test each element of error codes array, stopping on the first non-zero value or after all are tested; pick the selected line from the optional source messages as the error out source.
+101604:4b78cd |xerror out contains the same information as status out, code out, and source out. It has the same structure as error in.
+239463:fbfcd 1-(bool) status: TRUE if an error has occurred.[W(string) source: an indication of where an error occurred, usually the name of the VI."
+258834:218b96 If the error in cluster has a status of no-error, then test each element of error codes array, stopping on the first non-zero value or after all are tested; pick the selected line from the optional source messages as the error out source.
+260037:2304a5 |xerror out contains the same information as status out, code out, and source out. It has the same structure as error in.
+306102:c9156 1-(bool) status: TRUE if an error has occurred.[W(string) source: an indication of where an error occurred, usually the name of the VI."
+314025:14e0c2 |xerror out contains the same information as status out, code out, and source out. It has the same structure as error in.
+338379:c8473 1-(bool) status: TRUE if an error has occurred.[W(string) source: an indication of where an error occurred, usually the name of the VI."
+340508:ed6a5 |xerror out contains the same information as status out, code out, and source out. It has the same structure as error in.
+371474:18422e |xerror out contains the same information as status out, code out, and source out. It has the same structure as error in.
+373410:1a2bb5 If the error in cluster has a status of no-error, then test each element of error codes array, stopping on the first non-zero value or after all are tested; pick the selected line from the optional source messages as the error out source.
+434175:f7e51 |xerror out contains the same information as status out, code out, and source out. It has the same structure as error in.
+470154:1073d2 |xerror out contains the same information as status out, code out, and source out. It has the same structure as error in.
+504219:1ea3f7 xerror out contains the same information as status out, code out, and source out. It has the same structure as error in.
+505508:1ffb22 If the error in cluster has a status of no-error, then test each element of error codes array, stopping on the first non-zero value or after all are tested; pick the selected line from the optional source messages as the error out source.
+546550:f6d61 |xerror out contains the same information as status out, code out, and source out. It has the same structure as error in.
+579638:16e2ba xerror out contains the same information as status out, code out, and source out. It has the same structure as error in.

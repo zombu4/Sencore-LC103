@@ -1,0 +1,722 @@
+47398:160902 Unable to open 'lvrt.rsc' file.
+47399:160922 JExecutable version doesn't match resource file. Check your configuration.
+47453:160e9f Error %ld in OpenLogFile.
+47650:1622e7 POpenPage: Creating postscript image/file. . .
+51558:1b6743 Export to File...
+51681:1b7093 Create .c File...
+51993:1b87e1 The log file path associated with this VI refers to an existing directory, VI library or non-datalog file. Do you want to use this path anyway?
+52116:1b991f VI %p has old logged data. To keep the logged data, you must convert it into a separate log file. Do you want to convert the logged data?(Save converted logged data for VI %p as:
+52375:1bbcbb Could not open temporary file.
+52398:1bbe82 Opening old resource file.
+52427:1bc7be Can't allocate new path.$Can't open VI library resource file."Can't remove file from VI library.%Can't open file system resource file.
+52588:1c025d Open/Create/Replace File.vi
+52752:1c121d Write Characters To File.vi
+52774:1c1431 Read Lines From File.vi
+52982:1cabb8 opens an existing file. Error 7 occurs if the file cannot be found.
+52985:1cad24 creates a new file. Error 8 occurs if the file already exists.
+52989:1cad8c createmirefnum is the reference number of the open file. The value is Not A Refnum if the file cannot be opened.
+54000:1db968 file path is the path name of the file. If file path is empty (default value) or is Not A Path, the VI displays a File dialog box from which you can select a file. Error 43 occurs if the user cancels the dialog.
+54002:1dba6c 0 (open) opens an existing file. Error 7 occurs if the file cannot be found.
+54005:1dbc09 3 (create) creates a new file. Error 8 occurs if the file already exists.
+54013:1dc204 refnum is the reference number of the open file. The value is Not A Refnum if the file cannot be opened.
+54014:1dc26f file size is the size of the file in bytes; it is also the location of the end of file.
+54028:1dc52e Open/Create/Replace File.vi
+54081:1dd35e Open/Create/Replace File.vi
+54084:1dd3a3 Open/Create/Replace File.vi
+54087:1dd40a Open/Create/Replace File.vi
+54156:1dd902 Open/Create/Replace File.vi
+54199:1de0f7 Open/Create/Replace File.vi
+54200:1de113 Open/Create/Replace File.vi
+54201:1de12f Open/Create/Replace File.vi
+54202:1de14b Open/Create/Replace File.vi
+54203:1de167 Open/Create/Replace File.vi
+54204:1de183 Open/Create/Replace File.vi
+54205:1de19f Open/Create/Replace File.vi
+54206:1de1bb Open/Create/Replace File.vi
+54207:1de1d7 Open/Create/Replace File.vi
+54208:1de1f3 Open/Create/Replace File.vi
+54209:1de20f Open/Create/Replace File.vi
+54210:1de22b Open/Create/Replace File.vi
+54211:1de247 Open/Create/Replace File.vi
+54212:1de263 Open/Create/Replace File.vi
+54213:1de27f Open/Create/Replace File.vi
+54214:1de29b Open/Create/Replace File.vi
+54215:1de2b7 Open/Create/Replace File.vi
+54216:1de2d3 Open/Create/Replace File.vi
+54225:1df975 51refnum is the reference number of the open file.
+54236:1dfbf8 2.string is the data the VI writes to the file.
+54494:1e3da2 *Writes a string of characters to a byte stream file at the specified location; the default location is at the end of file. The VI does incoming and internal error checking and does not write if an incoming error occurs.
+54495:1e3e81 refnum is the reference number of the open file.
+54501:1e4029 character string is the data the VI writes to the file.
+99470:49107e mirefnum is the reference number of the open file. The value is Not A Refnum if the file cannot be opened.
+100015:49a087 file path is the path name of the file. If file path is empty (default value) or is Not A Path, the VI displays a File dialog box from which you can select a file. Error 43 occurs if the user cancels the dialog.
+100023:49a6c3 refnum is the reference number of the open file. The value is Not A Refnum if the file cannot be opened.
+100024:49a72e file size is the size of the file in bytes; it is also the location of the end of file.
+100597:4a35cd 051refnum is the reference number of the open file.
+100817:4a6e3c refnum is the reference number of the open file.
+100990:4a9de7 51refnum is the reference number of the open file.
+101004:4aa0e5 relative to current mark+'string is the data read from the file.
+101007:4aa304 yes=9EOF? is true if you try to read past the end of the file.2
+101389:4af8b1 refnum is the reference number of the open file.
+101400:4afe9f character string is the data read from the file.
+102405:4c5e8c DSP NoBrdRespToTransfer: The DSP board on which you are trying to load the COFF file is not responding to the transfer of the file. Check if there is a board in the slot desired and verify with the DAQCONF utility.
+102406:4c5f65 DSP AddrSpaceErr: The COFF file you are trying to load is linked with a memory map that exceeds the maximum memory space allowed by the WE DSP32C chip (2^24).GDSP CoffSectErr: Found an unimplemented section flag in the COFF file.
+102467:4cd9fe GPIB EADR: GPIB Controller not addressed correctly.ALabVIEW: End of file.
+102675:4d29cc file path is the path name of the file. If file path is empty (default value) or is Not A Path, the VI displays a File dialog box from which you can select a file. Error 43 occurs if the user cancels the dialog.
+102677:4d2b89 <8character string is the data the VI writes to the file.
+102678:4d2bc5 append to file. Set to TRUE if you want to append the data to a existing file; you can also set it TRUE to write to a new file. Set to FALSE (default value) if you want to write the data to a new file or to replace an existing file.
+102958:4d61cb Writes a character string to a new byte stream file or appends the string to an existing file. The VI opens or creates the file beforehand and closes it afterwards.
+102959:4d6272 file path is the path name of the file. If file path is empty (default value) or is Not A Path, the VI displays a File dialog box from which you can select a file. Error 43 occurs if the user cancels the dialog.
+102960:4d634e character string is the data the VI writes to the file.
+102961:4d6387 append to file? Set to TRUE if you want to append the data to a existing file; you can also set it TRUE to write to a new file. Set to FALSE (default value) if you want to write the data to a new file or to replace an existing file.
+102974:4d6653 Write Characters To File.viM
+102985:4d6834 Open/Create/Replace File.viZ
+102990:4d691a Write Characters To File.vi
+102993:4d6950 Write Characters To File.vi
+103004:4d69d6 Open/Create/Replace File.vi
+103008:4d6a59 Write Characters To File.vi
+103013:4d6a9f Open/Create/Replace File.vi
+103041:4d6dcd Write Characters To File.viO
+103103:4d725c Open/Create/Replace File.vi
+103122:4d73b3 Open/Create/Replace File.vir
+103152:4d767d Write Characters To File.vi
+103153:4d7699 Write Characters To File.vi
+103154:4d76b5 Write Characters To File.vi
+103155:4d76d1 Write Characters To File.vi
+103156:4d76ed Write Characters To File.vi
+103157:4d7709 Write Characters To File.vi
+103158:4d7725 Write Characters To File.vi
+103159:4d7741 Write Characters To File.vi
+103160:4d775d Write Characters To File.vi
+103161:4d7779 Write Characters To File.vi
+103162:4d7795 Write Characters To File.vi
+103163:4d77b1 Write Characters To File.vi
+103164:4d77cd Write Characters To File.vi
+103165:4d77e9 Write Characters To File.vi
+103166:4d7805 Write Characters To File.vi
+103167:4d7821 Write Characters To File.vi
+103168:4d783d Write Characters To File.vi
+103169:4d7859 Write Characters To File.vi
+111785:565409 file path is the path name of the file. If file path is empty (default value) or is Not A Path, the VI displays a File dialog box from which you can select a file. Error 43 occurs if the user cancels the dialog.
+111787:5655c7 0,line string is the data read from the file.
+111788:5655f5 B>EOF? is TRUE if you attempt to read past the end of the file.
+112345:56c24f file path is the path name of the file. If file path is empty (default value) or is Not A Path, the VI displays a File dialog box from which you can select a file. Error 43 occurs if the user cancels the dialog.
+112350:56c6e4 line string is the data read from the file.
+112352:56c79d EOF? is TRUE if you attempt to read past the end of file.
+112373:56c975 Read Lines From File.viosee
+112402:56d0c0 Read Lines From File.vi
+112405:56d10d Read Lines From File.vi
+112613:56d774 Read Lines From File.vi
+112657:56ddae Read Lines From File.vi
+112773:56e7f6 Read Lines From File.vi
+112774:56e80e Read Lines From File.vi
+112775:56e826 Read Lines From File.vi
+112776:56e83e Read Lines From File.vi
+112777:56e856 Read Lines From File.vi
+112778:56e86e Read Lines From File.vi
+112779:56e886 Read Lines From File.vi
+112780:56e89e Read Lines From File.vi
+112781:56e8b6 Read Lines From File.vi
+112782:56e8ce Read Lines From File.vi
+112783:56e8e6 Read Lines From File.vi
+112784:56e8fe Read Lines From File.vi
+112785:56e916 Read Lines From File.vi
+112786:56e92e Read Lines From File.vi
+112787:56e946 Read Lines From File.vi
+112788:56e95e Read Lines From File.vi
+112789:56e976 Read Lines From File.vi
+112790:56e98e Read Lines From File.vi
+113111:57ab4c Read Lines From File.viH
+113112:57ab96 Write Characters To File.viH
+113114:57ad07 Couldn't open the Software Rev. file. Please set the Software Rev. manually on the front panel. Place the flopply disk in the computer NOW.MD
+113119:57ae6e RCouldn't open the Software Rev. file. Place the flopply disk in the computer NOW.s
+113121:57af1c Write Characters To File.vis
+113130:57b05e Read Lines From File.vi
+113133:57b082 Write Characters To File.vi
+113145:57b135 Write Characters To File.vi
+113148:57b15f Read Lines From File.vi
+113157:57b20c 'Last known LC103 Software Rev. is: VERRCouldn't open the Software Rev. file. Place the flopply disk in the computer NOW.
+113158:57b288 Couldn't open the Software Rev. file. Please set the Software Rev. manually on the front panel. Place the flopply disk in the computer NOW.
+113188:57b834 Read Lines From File.vi
+113197:57b94e Read Lines From File.vi
+113199:57b96b Write Characters To File.vi
+113204:57ba1c Write Characters To File.vi
+114277:5945ba Read Lines From File.viMD
+114371:595333 Read Lines From File.vi
+114422:59553d Read Lines From File.vi
+114509:595d7a Read Lines From File.vi
+114518:595e94 Read Lines From File.vi
+115872:5b53d6 Read Lines From File.viV
+115978:5b6305 Read Lines From File.vi
+116032:5b655d Read Lines From File.vi
+116112:5b6d3d Read Lines From File.vi
+116121:5b6e57 Read Lines From File.vi
+120155:5ed0b2 Open/Create/Replace File.vi
+120235:5ed5de Write Characters To File.vi
+120246:5ed68a Read Lines From File.vi
+223230:4067 Open/Create/Replace File.vi
+223239:97e4 opens an existing file. Error 7 occurs if the file cannot be found.
+223242:9950 creates a new file. Error 8 occurs if the file already exists.
+223246:99b8 createmirefnum is the reference number of the open file. The value is Not A Refnum if the file cannot be opened.
+224257:1a594 file path is the path name of the file. If file path is empty (default value) or is Not A Path, the VI displays a File dialog box from which you can select a file. Error 43 occurs if the user cancels the dialog.
+224259:1a698 0 (open) opens an existing file. Error 7 occurs if the file cannot be found.
+224262:1a835 3 (create) creates a new file. Error 8 occurs if the file already exists.
+224270:1ae30 refnum is the reference number of the open file. The value is Not A Refnum if the file cannot be opened.
+224271:1ae9b file size is the size of the file in bytes; it is also the location of the end of file.
+224285:1b15a Open/Create/Replace File.vi
+224338:1bf8a Open/Create/Replace File.vi
+224341:1bfcf Open/Create/Replace File.vi
+224344:1c036 Open/Create/Replace File.vi
+224413:1c52e Open/Create/Replace File.vi
+224456:1cd23 Open/Create/Replace File.vi
+224457:1cd3f Open/Create/Replace File.vi
+224458:1cd5b Open/Create/Replace File.vi
+224459:1cd77 Open/Create/Replace File.vi
+224460:1cd93 Open/Create/Replace File.vi
+224461:1cdaf Open/Create/Replace File.vi
+224462:1cdcb Open/Create/Replace File.vi
+224463:1cde7 Open/Create/Replace File.vi
+224464:1ce03 Open/Create/Replace File.vi
+224465:1ce1f Open/Create/Replace File.vi
+224466:1ce3b Open/Create/Replace File.vi
+224467:1ce57 Open/Create/Replace File.vi
+224468:1ce73 Open/Create/Replace File.vi
+224469:1ce8f Open/Create/Replace File.vi
+224470:1ceab Open/Create/Replace File.vi
+224471:1cec7 Open/Create/Replace File.vi
+224472:1cee3 Open/Create/Replace File.vi
+224473:1ceff Open/Create/Replace File.vi
+224493:1d2a0 file path is the path name of the file. If file path is empty (default value) or is Not A Path, the VI displays a File dialog box from which you can select a file. Error 43 occurs if the user cancels the dialog.
+224495:1d3a4 0 (open) opens an existing file. Error 7 occurs if the file cannot be found.
+224498:1d541 3 (create) creates a new file. Error 8 occurs if the file already exists.
+224506:1db3c refnum is the reference number of the open file. The value is Not A Refnum if the file cannot be opened.
+224507:1dba7 file size is the size of the file in bytes; it is also the location of the end of file.
+224518:1f455 51refnum is the reference number of the open file.
+224529:1f6d8 2.string is the data the VI writes to the file.
+224787:23882 *Writes a string of characters to a byte stream file at the specified location; the default location is at the end of file. The VI does incoming and internal error checking and does not write if an incoming error occurs.
+224788:23961 refnum is the reference number of the open file.
+224794:23b09 character string is the data the VI writes to the file.
+224952:2506b *Writes a string of characters to a byte stream file at the specified location; the default location is at the end of file. The VI does incoming and internal error checking and does not write if an incoming error occurs.
+224953:2514a refnum is the reference number of the open file.
+224959:252f2 character string is the data the VI writes to the file.
+257800:2079aa mirefnum is the reference number of the open file. The value is Not A Refnum if the file cannot be opened.
+258345:2109b3 file path is the path name of the file. If file path is empty (default value) or is Not A Path, the VI displays a File dialog box from which you can select a file. Error 43 occurs if the user cancels the dialog.
+258353:210fef refnum is the reference number of the open file. The value is Not A Refnum if the file cannot be opened.
+258354:21105a file size is the size of the file in bytes; it is also the location of the end of file.
+258528:21273d file path is the path name of the file. If file path is empty (default value) or is Not A Path, the VI displays a File dialog box from which you can select a file. Error 43 occurs if the user cancels the dialog.
+258536:212d79 refnum is the reference number of the open file. The value is Not A Refnum if the file cannot be opened.
+258537:212de4 file size is the size of the file in bytes; it is also the location of the end of file.
+258968:21ae21 051refnum is the reference number of the open file.
+259188:21e690 refnum is the reference number of the open file.
+259352:21fae7 refnum is the reference number of the open file.
+259387:221e97 51refnum is the reference number of the open file.
+259401:222195 relative to current mark+'string is the data read from the file.
+259404:2223b4 yes=9EOF? is true if you try to read past the end of the file.2
+259786:227961 refnum is the reference number of the open file.
+259797:227f4f character string is the data read from the file.
+259960:22943f refnum is the reference number of the open file.
+259971:229a2d character string is the data read from the file.
+260838:23ea64 DSP NoBrdRespToTransfer: The DSP board on which you are trying to load the COFF file is not responding to the transfer of the file. Check if there is a board in the slot desired and verify with the DAQCONF utility.
+260839:23eb3d DSP AddrSpaceErr: The COFF file you are trying to load is linked with a memory map that exceeds the maximum memory space allowed by the WE DSP32C chip (2^24).GDSP CoffSectErr: Found an unimplemented section flag in the COFF file.
+260900:2465d6 GPIB EADR: GPIB Controller not addressed correctly.ALabVIEW: End of file.
+261106:24a6af Write Characters To File.vi
+261114:24b92c file path is the path name of the file. If file path is empty (default value) or is Not A Path, the VI displays a File dialog box from which you can select a file. Error 43 occurs if the user cancels the dialog.
+261116:24bae9 <8character string is the data the VI writes to the file.
+261117:24bb25 append to file. Set to TRUE if you want to append the data to a existing file; you can also set it TRUE to write to a new file. Set to FALSE (default value) if you want to write the data to a new file or to replace an existing file.
+261397:24f12b Writes a character string to a new byte stream file or appends the string to an existing file. The VI opens or creates the file beforehand and closes it afterwards.
+261398:24f1d2 file path is the path name of the file. If file path is empty (default value) or is Not A Path, the VI displays a File dialog box from which you can select a file. Error 43 occurs if the user cancels the dialog.
+261399:24f2ae character string is the data the VI writes to the file.
+261400:24f2e7 append to file? Set to TRUE if you want to append the data to a existing file; you can also set it TRUE to write to a new file. Set to FALSE (default value) if you want to write the data to a new file or to replace an existing file.
+261413:24f5b3 Write Characters To File.viM
+261424:24f794 Open/Create/Replace File.viZ
+261429:24f87a Write Characters To File.vi
+261432:24f8b0 Write Characters To File.vi
+261443:24f936 Open/Create/Replace File.vi
+261447:24f9b9 Write Characters To File.vi
+261452:24f9ff Open/Create/Replace File.vi
+261480:24fd2d Write Characters To File.viO
+261542:2501bc Open/Create/Replace File.vi
+261561:250313 Open/Create/Replace File.vir
+261591:2505dd Write Characters To File.vi
+261592:2505f9 Write Characters To File.vi
+261593:250615 Write Characters To File.vi
+261594:250631 Write Characters To File.vi
+261595:25064d Write Characters To File.vi
+261596:250669 Write Characters To File.vi
+261597:250685 Write Characters To File.vi
+261598:2506a1 Write Characters To File.vi
+261599:2506bd Write Characters To File.vi
+261600:2506d9 Write Characters To File.vi
+261601:2506f5 Write Characters To File.vi
+261602:250711 Write Characters To File.vi
+261603:25072d Write Characters To File.vi
+261604:250749 Write Characters To File.vi
+261605:250765 Write Characters To File.vi
+261606:250781 Write Characters To File.vi
+261607:25079d Write Characters To File.vi
+261608:2507b9 Write Characters To File.vi
+261609:2507dc Writes a character string to a new byte stream file or appends the string to an existing file. The VI opens or creates the file beforehand and closes it afterwards.
+261610:250883 file path is the path name of the file. If file path is empty (default value) or is Not A Path, the VI displays a File dialog box from which you can select a file. Error 43 occurs if the user cancels the dialog.
+261611:25095f character string is the data the VI writes to the file.
+261612:250998 append to file? Set to TRUE if you want to append the data to a existing file; you can also set it TRUE to write to a new file. Set to FALSE (default value) if you want to write the data to a new file or to replace an existing file.
+270297:2dd1c7 Read Lines From File.vi
+270314:2dfb5d file path is the path name of the file. If file path is empty (default value) or is Not A Path, the VI displays a File dialog box from which you can select a file. Error 43 occurs if the user cancels the dialog.
+270316:2dfd1b 0,line string is the data read from the file.
+270317:2dfd49 B>EOF? is TRUE if you attempt to read past the end of the file.
+270874:2e69a3 file path is the path name of the file. If file path is empty (default value) or is Not A Path, the VI displays a File dialog box from which you can select a file. Error 43 occurs if the user cancels the dialog.
+270879:2e6e38 line string is the data read from the file.
+270881:2e6ef1 EOF? is TRUE if you attempt to read past the end of file.
+270902:2e70c9 Read Lines From File.viosee
+270931:2e7814 Read Lines From File.vi
+270934:2e7861 Read Lines From File.vi
+271142:2e7ec8 Read Lines From File.vi
+271186:2e8502 Read Lines From File.vi
+271302:2e8f4a Read Lines From File.vi
+271303:2e8f62 Read Lines From File.vi
+271304:2e8f7a Read Lines From File.vi
+271305:2e8f92 Read Lines From File.vi
+271306:2e8faa Read Lines From File.vi
+271307:2e8fc2 Read Lines From File.vi
+271308:2e8fda Read Lines From File.vi
+271309:2e8ff2 Read Lines From File.vi
+271310:2e900a Read Lines From File.vi
+271311:2e9022 Read Lines From File.vi
+271312:2e903a Read Lines From File.vi
+271313:2e9052 Read Lines From File.vi
+271314:2e906a Read Lines From File.vi
+271315:2e9082 Read Lines From File.vi
+271316:2e909a Read Lines From File.vi
+271317:2e90b2 Read Lines From File.vi
+271318:2e90ca Read Lines From File.vi
+271319:2e90e2 Read Lines From File.vi
+271321:2e91a6 file path is the path name of the file. If file path is empty (default value) or is Not A Path, the VI displays a File dialog box from which you can select a file. Error 43 occurs if the user cancels the dialog.
+271326:2e963b line string is the data read from the file.
+271328:2e96f4 EOF? is TRUE if you attempt to read past the end of file.
+271654:2f59cc Read Lines From File.viH
+271655:2f5a16 Write Characters To File.viH
+271657:2f5b87 Couldn't open the Software Rev. file. Please set the Software Rev. manually on the front panel. Place the flopply disk in the computer NOW.MD
+271662:2f5cee RCouldn't open the Software Rev. file. Place the flopply disk in the computer NOW.s
+271664:2f5d9c Write Characters To File.vis
+271673:2f5ede Read Lines From File.vi
+271676:2f5f02 Write Characters To File.vi
+271688:2f5fb5 Write Characters To File.vi
+271691:2f5fdf Read Lines From File.vi
+271700:2f608c 'Last known LC103 Software Rev. is: VERRCouldn't open the Software Rev. file. Place the flopply disk in the computer NOW.
+271701:2f6108 Couldn't open the Software Rev. file. Please set the Software Rev. manually on the front panel. Place the flopply disk in the computer NOW.
+271731:2f66b4 Read Lines From File.vi
+271740:2f67ce Read Lines From File.vi
+271742:2f67eb Write Characters To File.vi
+271747:2f689c Write Characters To File.vi
+272824:30f526 Read Lines From File.viMD
+272918:31029f Read Lines From File.vi
+272969:3104a9 Read Lines From File.vi
+273056:310ce6 Read Lines From File.vi
+273065:310e00 Read Lines From File.vi
+274423:33042e Read Lines From File.viV
+274529:33135d Read Lines From File.vi
+274583:3315b5 Read Lines From File.vi
+274663:331d95 Read Lines From File.vi
+274672:331eaf Read Lines From File.vi
+291467:442609 Open/Create/Replace File.vi
+291631:4435c9 Write Characters To File.vi
+291653:4437dd Read Lines From File.vi
+291683:446173 Open/Create/Replace File.vi
+291684:44618f Open/Create/Replace File.vi
+291685:4461ab Open/Create/Replace File.vi
+291686:4461c7 Open/Create/Replace File.vi
+291687:4461e3 Open/Create/Replace File.vi
+292051:4479df Write Characters To File.vi
+292052:4479fb Write Characters To File.vi
+292053:447a17 Write Characters To File.vi
+292054:447a33 Write Characters To File.vi
+292055:447a4f Write Characters To File.vi
+292106:447d3b Read Lines From File.vi
+292107:447d53 Read Lines From File.vi
+292108:447d6b Read Lines From File.vi
+292109:447d83 Read Lines From File.vi
+292110:447d9b Read Lines From File.vi
+314846:15c635 DSP NoBrdRespToTransfer: The DSP board on which you are trying to load the COFF file is not responding to the transfer of the file. Check if there is a board in the slot desired and verify with the DAQCONF utility.
+314847:15c70e DSP AddrSpaceErr: The COFF file you are trying to load is linked with a memory map that exceeds the maximum memory space allowed by the WE DSP32C chip (2^24).GDSP CoffSectErr: Found an unimplemented section flag in the COFF file.
+314908:1641a7 GPIB EADR: GPIB Controller not addressed correctly.ALabVIEW: End of file.
+341323:fbc05 DSP NoBrdRespToTransfer: The DSP board on which you are trying to load the COFF file is not responding to the transfer of the file. Check if there is a board in the slot desired and verify with the DAQCONF utility.
+341324:fbcde DSP AddrSpaceErr: The COFF file you are trying to load is linked with a memory map that exceeds the maximum memory space allowed by the WE DSP32C chip (2^24).GDSP CoffSectErr: Found an unimplemented section flag in the COFF file.
+341385:103777 GPIB EADR: GPIB Controller not addressed correctly.ALabVIEW: End of file.
+347375:1733 Open/Create/Replace File.vi
+360300:bd47f Write Characters To File.vi
+360311:bd57f Read Lines From File.vi
+361832:d87dd Open/Create/Replace File.vi
+361968:e15db Read Lines From File.vi
+361977:e1702 Read Lines From File.vi
+363013:ed0fa Read Lines From File.vi
+363226:eea09 Read Lines From File.viV
+363342:f0283 Read Lines From File.vi
+363830:10378e Read Lines From File.vi
+363839:1038b5 Read Lines From File.vi
+364724:10d56e Read Lines From File.vi
+364936:10ed1c Read Lines From File.viMD
+365037:1103b6 Read Lines From File.vi
+365466:11dc39 Read Lines From File.vi
+365475:11dd60 Read Lines From File.vi
+365477:11dd7e Write Characters To File.vi
+365482:11de3b Write Characters To File.vi
+365904:122be5 Couldn't open the Software Rev. file. Please set the Software Rev. manually on the front panel. Place the flopply disk in the computer NOW.
+365905:122c78 xxxxRCouldn't open the Software Rev. file. Place the flopply disk in the computer NOW.'Last known LC103 Software Rev. is: VER
+365916:122ee8 Write Characters To File.vi
+365919:122f12 Read Lines From File.vi
+365998:123ac4 Read Lines From File.viH
+365999:123b0d Write Characters To File.viSE
+366004:123cc3 Couldn't open the Software Rev. file. Please set the Software Rev. manually on the front panel. Place the flopply disk in the computer NOW.MD
+366009:123e1f ''RCouldn't open the Software Rev. file. Place the flopply disk in the computer NOW.s
+366011:123ecd Write Characters To File.vis
+366025:124449 Read Lines From File.vi
+366028:12446d Write Characters To File.vi
+366219:12c3fe Read Lines From File.viosee
+366224:12c4e6 Read Lines From File.vi
+366607:130373 Read Lines From File.vi
+366631:130615 file path is the path name of the file. If file path is empty (default value) or is Not A Path, the VI displays a File dialog box from which you can select a file. Error 43 occurs if the user cancels the dialog.
+366636:130aaa line string is the data read from the file.
+366638:130b63 EOF? is TRUE if you attempt to read past the end of file.
+366643:130f0e file path is the path name of the file. If file path is empty (default value) or is Not A Path, the VI displays a File dialog box from which you can select a file. Error 43 occurs if the user cancels the dialog.
+366645:1310cc 0,line string is the data read from the file.
+366646:1310fa B>EOF? is TRUE if you attempt to read past the end of the file.
+367004:132a89 Read Lines From File.vi
+367007:133344 Read Lines From File.vi
+367269:13640e Read Lines From File.vi
+370177:1662e7 Write Characters To File.viM
+370181:1663cf Write Characters To File.vi
+370239:1667f6 Open/Create/Replace File.vi
+370258:166968 Open/Create/Replace File.viI
+370451:168938 Write Characters To File.vi
+370456:16897e Open/Create/Replace File.vi
+370469:168abf Writes a character string to a new byte stream file or appends the string to an existing file. The VI opens or creates the file beforehand and closes it afterwards.
+370470:168b66 file path is the path name of the file. If file path is empty (default value) or is Not A Path, the VI displays a File dialog box from which you can select a file. Error 43 occurs if the user cancels the dialog.
+370471:168c42 character string is the data the VI writes to the file.
+370472:168c7b append to file? Set to TRUE if you want to append the data to a existing file; you can also set it TRUE to write to a new file. Set to FALSE (default value) if you want to write the data to a new file or to replace an existing file.
+370474:168e52 file path is the path name of the file. If file path is empty (default value) or is Not A Path, the VI displays a File dialog box from which you can select a file. Error 43 occurs if the user cancels the dialog.
+370476:16900f <8character string is the data the VI writes to the file.
+370477:16904b append to file. Set to TRUE if you want to append the data to a existing file; you can also set it TRUE to write to a new file. Set to FALSE (default value) if you want to write the data to a new file or to replace an existing file.
+370606:169e21 Open/Create/Replace File.viZ
+370613:169e99 Write Characters To File.vi
+370620:16a22d Write Characters To File.vi
+370631:16a2b3 Open/Create/Replace File.vi
+370715:16b618 Write Characters To File.vi
+371276:178486 DSP NoBrdRespToTransfer: The DSP board on which you are trying to load the COFF file is not responding to the transfer of the file. Check if there is a board in the slot desired and verify with the DAQCONF utility.
+371277:17855f DSP AddrSpaceErr: The COFF file you are trying to load is linked with a memory map that exceeds the maximum memory space allowed by the WE DSP32C chip (2^24).GDSP CoffSectErr: Found an unimplemented section flag in the COFF file.
+371338:17fff8 GPIB EADR: GPIB Controller not addressed correctly.ALabVIEW: End of file.
+372336:192c05 refnum is the reference number of the open file.
+372347:1931f3 character string is the data read from the file.
+372350:1933db 51refnum is the reference number of the open file.
+372355:193592 +'string is the data read from the file.
+372362:193862 =9EOF? is true if you try to read past the end of the file.40code is the error code; the default value is 0.
+372940:19b18c refnum is the reference number of the open file.
+372946:19b77a 51refnum is the reference number of the open file.
+374015:1ad46c file path is the path name of the file. If file path is empty (default value) or is Not A Path, the VI displays a File dialog box from which you can select a file. Error 43 occurs if the user cancels the dialog.
+374023:1adaa8 refnum is the reference number of the open file. The value is Not A Refnum if the file cannot be opened.
+374024:1adb13 file size is the size of the file in bytes; it is also the location of the end of file.
+374026:1adc96 mirefnum is the reference number of the open file. The value is Not A Refnum if the file cannot be opened.
+394240:30c4d4 file path is the path name of the file. If file path is empty (default value) or is Not A Path, the VI displays a File dialog box from which you can select a file. Error 43 occurs if the user cancels the dialog.
+394242:30c5d8 0 (open) opens an existing file. Error 7 occurs if the file cannot be found.
+394245:30c775 3 (create) creates a new file. Error 8 occurs if the file already exists.
+394253:30cd70 refnum is the reference number of the open file. The value is Not A Refnum if the file cannot be opened.
+394254:30cddb file size is the size of the file in bytes; it is also the location of the end of file.
+394256:30cf67 *Writes a string of characters to a byte stream file at the specified location; the default location is at the end of file. The VI does incoming and internal error checking and does not write if an incoming error occurs.
+394257:30d046 refnum is the reference number of the open file.
+394263:30d1ee character string is the data the VI writes to the file.
+404021:3a3dbd file path is the path name of the file. If file path is empty (default value) or is Not A Path, the VI displays a File dialog box from which you can select a file. Error 43 occurs if the user cancels the dialog.
+404029:3a43f9 refnum is the reference number of the open file. The value is Not A Refnum if the file cannot be opened.
+404030:3a4464 file size is the size of the file in bytes; it is also the location of the end of file.
+404037:3a494f refnum is the reference number of the open file.
+404044:3a5027 refnum is the reference number of the open file.
+404055:3a5615 character string is the data read from the file.
+404059:3a5a44 Writes a character string to a new byte stream file or appends the string to an existing file. The VI opens or creates the file beforehand and closes it afterwards.
+404060:3a5aeb file path is the path name of the file. If file path is empty (default value) or is Not A Path, the VI displays a File dialog box from which you can select a file. Error 43 occurs if the user cancels the dialog.
+404061:3a5bc7 character string is the data the VI writes to the file.
+404062:3a5c00 append to file? Set to TRUE if you want to append the data to a existing file; you can also set it TRUE to write to a new file. Set to FALSE (default value) if you want to write the data to a new file or to replace an existing file.
+404096:3a67aa file path is the path name of the file. If file path is empty (default value) or is Not A Path, the VI displays a File dialog box from which you can select a file. Error 43 occurs if the user cancels the dialog.
+404101:3a6c3f line string is the data read from the file.
+404103:3a6cf8 EOF? is TRUE if you attempt to read past the end of file.
+405279:3b9da8 *Writes a string of characters to a byte stream file at the specified location; the default location is at the end of file. The VI does incoming and internal error checking and does not write if an incoming error occurs.
+405280:3b9e87 refnum is the reference number of the open file.
+405286:3ba02f character string is the data the VI writes to the file.
+405292:3ba4d3 51refnum is the reference number of the open file.
+405296:3ba62f 2.string is the data the VI writes to the file.
+405498:3c3b12 Open/Create/Replace File.vi
+405501:3c3b9e Open/Create/Replace File.vi
+406155:3cb457 Open/Create/Replace File.vi
+406176:3cb7a4 file path is the path name of the file. If file path is empty (default value) or is Not A Path, the VI displays a File dialog box from which you can select a file. Error 43 occurs if the user cancels the dialog.
+406178:3cb8a8 0 (open) opens an existing file. Error 7 occurs if the file cannot be found.
+406181:3cba45 3 (create) creates a new file. Error 8 occurs if the file already exists.
+406189:3cc040 refnum is the reference number of the open file. The value is Not A Refnum if the file cannot be opened.
+406190:3cc0ab file size is the size of the file in bytes; it is also the location of the end of file.
+406192:3cc22e mirefnum is the reference number of the open file. The value is Not A Refnum if the file cannot be opened.
+406198:3cc5d6 file path is the path name of the file. If file path is empty (default value) or is Not A Path, the VI displays a File dialog box from which you can select a file. Error 43 occurs if the user cancels the dialog.
+406200:3cc6d7 opens an existing file. Error 7 occurs if the file cannot be found.
+406203:3cc843 creates a new file. Error 8 occurs if the file already exists.
+406204:3cc882 \Xfile size is the size of the file in bytes; it is also the location of the end of file.
+406604:3cf783 Open/Create/Replace File.vi
+406615:3d05cb Open/Create/Replace File.vi
+406990:3da265 Open/Create/Replace File.vi
+413277:43dc29 Capacitance Box Cal Data File.
+416734:47e371 Open/Create/Replace File.vi
+416898:47f331 Write Characters To File.vi
+416920:47f545 Read Lines From File.vi
+416951:481c73 Open/Create/Replace File.vi
+417123:4828eb Write Characters To File.vi
+417134:482997 Read Lines From File.vi
+417152:482ab5 Open/Create/Replace File.vi
+417153:482ad1 Open/Create/Replace File.vi
+417154:482aed Open/Create/Replace File.vi
+417155:482b09 Open/Create/Replace File.vi
+417347:4836a9 Write Characters To File.vi
+417348:4836c5 Write Characters To File.vi
+417349:4836e1 Write Characters To File.vi
+417350:4836fd Write Characters To File.vi
+417370:483866 Read Lines From File.vi
+417371:48387e Read Lines From File.vi
+417372:483896 Read Lines From File.vi
+417373:4838ae Read Lines From File.vi
+433977:ec0a9 DSP NoBrdRespToTransfer: The DSP board on which you are trying to load the COFF file is not responding to the transfer of the file. Check if there is a board in the slot desired and verify with the DAQCONF utility.
+433978:ec182 DSP AddrSpaceErr: The COFF file you are trying to load is linked with a memory map that exceeds the maximum memory space allowed by the WE DSP32C chip (2^24).GDSP CoffSectErr: Found an unimplemented section flag in the COFF file.
+434039:f3c1b GPIB EADR: GPIB Controller not addressed correctly.ALabVIEW: End of file.
+469956:fb62a DSP NoBrdRespToTransfer: The DSP board on which you are trying to load the COFF file is not responding to the transfer of the file. Check if there is a board in the slot desired and verify with the DAQCONF utility.
+469957:fb703 DSP AddrSpaceErr: The COFF file you are trying to load is linked with a memory map that exceeds the maximum memory space allowed by the WE DSP32C chip (2^24).GDSP CoffSectErr: Found an unimplemented section flag in the COFF file.
+470018:10319c GPIB EADR: GPIB Controller not addressed correctly.ALabVIEW: End of file.
+476591:1733 Open/Create/Replace File.vi
+489516:bd47f Write Characters To File.vi
+489527:bd57f Read Lines From File.vi
+490334:ce699 Open/Create/Replace File.vi
+493010:108fd2 Read Lines From File.vi
+493019:1090f9 Read Lines From File.vi
+493369:10b427 Read Lines From File.vi
+493798:111d60 Read Lines From File.viV
+493891:1135bf Read Lines From File.vi
+494339:125990 Read Lines From File.vi
+494348:125ab7 Read Lines From File.vi
+494656:127905 Read Lines From File.vi
+495049:12d482 Read Lines From File.viHD
+495131:12eb2b Read Lines From File.vi
+495503:13b792 Read Lines From File.vi
+495512:13b8b9 Read Lines From File.vi
+495514:13b8d6 Write Characters To File.vi
+495519:13b993 Write Characters To File.vil
+495584:13c1f5 Couldn't open the Software Rev. file. Please set the Software Rev. manually on the front panel. Place the flopply disk in the computer NOW.
+495585:13c288 xxxxRCouldn't open the Software Rev. file. Place the flopply disk in the computer NOW.'Last known LC103 Software Rev. is: VER
+495592:13c5ab Write Characters To File.vi
+495595:13c5d5 Read Lines From File.vi
+495755:13f62e Read Lines From File.viH
+495756:13f677 Write Characters To File.viSE
+495764:13f8e4 Write Characters To File.viH
+495777:13fe61 Read Lines From File.vi
+495780:13fe85 Write Characters To File.vi
+496021:14766b Read Lines From File.vi
+496170:14880d Read Lines From File.vi
+496230:149ab1 file path is the path name of the file. If file path is empty (default value) or is Not A Path, the VI displays a File dialog box from which you can select a file. Error 43 occurs if the user cancels the dialog.
+496235:149f46 line string is the data read from the file.
+496237:149fff EOF? is TRUE if you attempt to read past the end of file.
+496398:14b24f Read Lines From File.vi
+496400:14ba08 file path is the path name of the file. If file path is empty (default value) or is Not A Path, the VI displays a File dialog box from which you can select a file. Error 43 occurs if the user cancels the dialog.
+496401:14bb01 ,line string is the data read from the file.
+496404:14be1a >EOF? is TRUE if you attempt to read past the end of the file.
+496409:14c19c Read Lines From File.vi
+496698:14f171 Read Lines From File.vi
+503196:1ce200 Write Characters To File.vi
+503254:1ce627 Open/Create/Replace File.vi
+503273:1ce799 Open/Create/Replace File.vi
+503313:1cec8d Write Characters To File.vi
+503318:1cecd3 Open/Create/Replace File.vi
+503359:1cf7ce Writes a character string to a new byte stream file or appends the string to an existing file. The VI opens or creates the file beforehand and closes it afterwards.
+503360:1cf875 file path is the path name of the file. If file path is empty (default value) or is Not A Path, the VI displays a File dialog box from which you can select a file. Error 43 occurs if the user cancels the dialog.
+503361:1cf951 character string is the data the VI writes to the file.
+503362:1cf98a append to file? Set to TRUE if you want to append the data to a existing file; you can also set it TRUE to write to a new file. Set to FALSE (default value) if you want to write the data to a new file or to replace an existing file.
+503491:1d084f Open/Create/Replace File.viZ
+503498:1d08c7 Write Characters To File.vi
+503504:1d0c4f file path is the path name of the file. If file path is empty (default value) or is Not A Path, the VI displays a File dialog box from which you can select a file. Error 43 occurs if the user cancels the dialog.
+503505:1d0db3 8character string is the data the VI writes to the file.
+503507:1d0f37 append to file. Set to TRUE if you want to append the data to a existing file; you can also set it TRUE to write to a new file. Set to FALSE (default value) if you want to write the data to a new file or to replace an existing file.
+503509:1d1029 Write Characters To File.vi
+503520:1d10af Open/Create/Replace File.vi
+503579:1d23cb Write Characters To File.vi
+503786:1d9427 DSP NoBrdRespToTransfer: The DSP board on which you are trying to load the COFF file is not responding to the transfer of the file. Check if there is a board in the slot desired and verify with the DAQCONF utility.
+503787:1d9500 DSP AddrSpaceErr: The COFF file you are trying to load is linked with a memory map that exceeds the maximum memory space allowed by the WE DSP32C chip (2^24).GDSP CoffSectErr: Found an unimplemented section flag in the COFF file.
+503848:1e0f99 GPIB EADR: GPIB Controller not addressed correctly.ALabVIEW: End of file.
+504745:1f32c6 refnum is the reference number of the open file.
+504756:1f38b4 character string is the data read from the file.
+504909:1f5a34 1refnum is the reference number of the open file.
+504910:1f5a98 'string is the data read from the file.
+504919:1f5da7 9EOF? is true if you try to read past the end of the file.
+505196:1f9f7f refnum is the reference number of the open file.
+505288:1fb9e0 1refnum is the reference number of the open file.
+505861:207b61 file path is the path name of the file. If file path is empty (default value) or is Not A Path, the VI displays a File dialog box from which you can select a file. Error 43 occurs if the user cancels the dialog.
+505869:20819d refnum is the reference number of the open file. The value is Not A Refnum if the file cannot be opened.
+505870:208208 file size is the size of the file in bytes; it is also the location of the end of file.
+506082:20ab0d file path is the path name of the file. If file path is empty (default value) or is Not A Path, the VI displays a File dialog box from which you can select a file. Error 43 occurs if the user cancels the dialog. <#
+506085:20ac6d irefnum is the reference number of the open file. The value is Not A Refnum if the file cannot be opened.
+506088:20ae70 Xfile size is the size of the file in bytes; it is also the location of the end of file.
+520832:33bdcc file path is the path name of the file. If file path is empty (default value) or is Not A Path, the VI displays a File dialog box from which you can select a file. Error 43 occurs if the user cancels the dialog.
+520834:33bed0 0 (open) opens an existing file. Error 7 occurs if the file cannot be found.
+520837:33c06d 3 (create) creates a new file. Error 8 occurs if the file already exists.
+520845:33c668 refnum is the reference number of the open file. The value is Not A Refnum if the file cannot be opened.
+520846:33c6d3 file size is the size of the file in bytes; it is also the location of the end of file.
+520848:33c85f *Writes a string of characters to a byte stream file at the specified location; the default location is at the end of file. The VI does incoming and internal error checking and does not write if an incoming error occurs.
+520849:33c93e refnum is the reference number of the open file.
+520855:33cae6 character string is the data the VI writes to the file.
+527358:3b2a09 file path is the path name of the file. If file path is empty (default value) or is Not A Path, the VI displays a File dialog box from which you can select a file. Error 43 occurs if the user cancels the dialog.
+527366:3b3045 refnum is the reference number of the open file. The value is Not A Refnum if the file cannot be opened.
+527367:3b30b0 file size is the size of the file in bytes; it is also the location of the end of file.
+527374:3b359b refnum is the reference number of the open file.
+527381:3b3c73 refnum is the reference number of the open file.
+527392:3b4261 character string is the data read from the file.
+527396:3b4690 Writes a character string to a new byte stream file or appends the string to an existing file. The VI opens or creates the file beforehand and closes it afterwards.
+527397:3b4737 file path is the path name of the file. If file path is empty (default value) or is Not A Path, the VI displays a File dialog box from which you can select a file. Error 43 occurs if the user cancels the dialog.
+527398:3b4813 character string is the data the VI writes to the file.
+527399:3b484c append to file? Set to TRUE if you want to append the data to a existing file; you can also set it TRUE to write to a new file. Set to FALSE (default value) if you want to write the data to a new file or to replace an existing file.
+527433:3b53f6 file path is the path name of the file. If file path is empty (default value) or is Not A Path, the VI displays a File dialog box from which you can select a file. Error 43 occurs if the user cancels the dialog.
+527438:3b588b line string is the data read from the file.
+527440:3b5944 EOF? is TRUE if you attempt to read past the end of file.
+527675:3ba71a *Writes a string of characters to a byte stream file at the specified location; the default location is at the end of file. The VI does incoming and internal error checking and does not write if an incoming error occurs.
+527676:3ba7f9 refnum is the reference number of the open file.
+527682:3ba9a1 character string is the data the VI writes to the file.
+527769:3bc5f8 1refnum is the reference number of the open file.
+527770:3bc62e .string is the data the VI writes to the file.
+527885:3c39bb Open/Create/Replace File.vi
+528029:3c4ef5 Open/Create/Replace File.vi
+528190:3c7f0b file path is the path name of the file. If file path is empty (default value) or is Not A Path, the VI displays a File dialog box from which you can select a file. Error 43 occurs if the user cancels the dialog.
+528192:3c800f 0 (open) opens an existing file. Error 7 occurs if the file cannot be found.
+528195:3c81ac 3 (create) creates a new file. Error 8 occurs if the file already exists.
+528203:3c87a7 refnum is the reference number of the open file. The value is Not A Refnum if the file cannot be opened.
+528204:3c8812 file size is the size of the file in bytes; it is also the location of the end of file.
+528581:3cb3b5 Open/Create/Replace File.vi
+528600:3cc827 file path is the path name of the file. If file path is empty (default value) or is Not A Path, the VI displays a File dialog box from which you can select a file. Error 43 occurs if the user cancels the dialog.
+528601:3cc8fe irefnum is the reference number of the open file. The value is Not A Refnum if the file cannot be opened.
+528604:3cc9d3 opens an existing file. Error 7 occurs if the file cannot be found.
+528607:3ccb3f creates a new file. Error 8 occurs if the file already exists.
+528611:3ccd91 Xfile size is the size of the file in bytes; it is also the location of the end of file.
+528614:3cce86 Open/Create/Replace File.vi
+529048:3d6405 Open/Create/Replace File.vi
+529161:3d835d Open/Create/Replace File.vi
+529325:3d931d Write Characters To File.vi
+529347:3d9531 Read Lines From File.vi
+529413:3dddaf Open/Create/Replace File.vi
+529585:3dea27 Write Characters To File.vi
+529596:3dead3 Read Lines From File.vi
+529613:3debfe Open/Create/Replace File.vi
+529614:3dec1a Open/Create/Replace File.vi
+529615:3dec36 Open/Create/Replace File.vi
+529616:3dec52 Open/Create/Replace File.vi
+529812:3df806 Write Characters To File.vi
+529813:3df822 Write Characters To File.vi
+529814:3df83e Write Characters To File.vi
+529815:3df85a Write Characters To File.vi
+529850:3dfa71 Read Lines From File.vi
+529851:3dfa89 Read Lines From File.vi
+529852:3dfaa1 Read Lines From File.vi
+529853:3dfab9 Read Lines From File.vi
+546352:eafb9 DSP NoBrdRespToTransfer: The DSP board on which you are trying to load the COFF file is not responding to the transfer of the file. Check if there is a board in the slot desired and verify with the DAQCONF utility.
+546353:eb092 DSP AddrSpaceErr: The COFF file you are trying to load is linked with a memory map that exceeds the maximum memory space allowed by the WE DSP32C chip (2^24).GDSP CoffSectErr: Found an unimplemented section flag in the COFF file.
+546414:f2b2b GPIB EADR: GPIB Controller not addressed correctly.ALabVIEW: End of file.
+579205:15d2eb DSP NoBrdRespToTransfer: The DSP board on which you are trying to load the COFF file is not responding to the transfer of the file. Check if there is a board in the slot desired and verify with the DAQCONF utility.
+579206:15d3c4 DSP AddrSpaceErr: The COFF file you are trying to load is linked with a memory map that exceeds the maximum memory space allowed by the WE DSP32C chip (2^24).GDSP CoffSectErr: Found an unimplemented section flag in the COFF file.
+579267:164e5d GPIB EADR: GPIB Controller not addressed correctly.ALabVIEW: End of file.
+581318:171f Open/Create/Replace File.vi
+594997:ce0a5 Open/Create/Replace File.vi
+595366:d5144 file path is the path name of the file. If file path is empty (default value) or is Not A Path, the VI displays a File dialog box from which you can select a file. Error 43 occurs if the user cancels the dialog.
+595368:d5248 0 (open) opens an existing file. Error 7 occurs if the file cannot be found.
+595371:d53e5 3 (create) creates a new file. Error 8 occurs if the file already exists.
+595379:d59e0 refnum is the reference number of the open file. The value is Not A Refnum if the file cannot be opened.
+595380:d5a4b file size is the size of the file in bytes; it is also the location of the end of file.
+595550:ddbd7 Open/Create/Replace File.vi
+595694:df111 Open/Create/Replace File.vi
+595855:e2127 file path is the path name of the file. If file path is empty (default value) or is Not A Path, the VI displays a File dialog box from which you can select a file. Error 43 occurs if the user cancels the dialog.
+595857:e222b 0 (open) opens an existing file. Error 7 occurs if the file cannot be found.
+595860:e23c8 3 (create) creates a new file. Error 8 occurs if the file already exists.
+595868:e29c3 refnum is the reference number of the open file. The value is Not A Refnum if the file cannot be opened.
+595869:e2a2e file size is the size of the file in bytes; it is also the location of the end of file.
+596246:e55d1 Open/Create/Replace File.vi
+596265:e6a43 file path is the path name of the file. If file path is empty (default value) or is Not A Path, the VI displays a File dialog box from which you can select a file. Error 43 occurs if the user cancels the dialog.
+596266:e6b1a irefnum is the reference number of the open file. The value is Not A Refnum if the file cannot be opened.
+596269:e6bef opens an existing file. Error 7 occurs if the file cannot be found.
+596272:e6d5b creates a new file. Error 8 occurs if the file already exists.
+596276:e6fad Xfile size is the size of the file in bytes; it is also the location of the end of file.
+596279:e70a2 Open/Create/Replace File.vi
+596713:f0621 Open/Create/Replace File.vi
+596714:f1b67 *Writes a string of characters to a byte stream file at the specified location; the default location is at the end of file. The VI does incoming and internal error checking and does not write if an incoming error occurs.
+596715:f1c46 refnum is the reference number of the open file.
+596721:f1dee character string is the data the VI writes to the file.
+596757:f3c69 file path is the path name of the file. If file path is empty (default value) or is Not A Path, the VI displays a File dialog box from which you can select a file. Error 43 occurs if the user cancels the dialog.
+596765:f42a5 refnum is the reference number of the open file. The value is Not A Refnum if the file cannot be opened.
+596766:f4310 file size is the size of the file in bytes; it is also the location of the end of file.
+596773:f47fb refnum is the reference number of the open file.
+596780:f4ed3 refnum is the reference number of the open file.
+596791:f54c1 character string is the data read from the file.
+596795:f58f0 Writes a character string to a new byte stream file or appends the string to an existing file. The VI opens or creates the file beforehand and closes it afterwards.
+596796:f5997 file path is the path name of the file. If file path is empty (default value) or is Not A Path, the VI displays a File dialog box from which you can select a file. Error 43 occurs if the user cancels the dialog.
+596797:f5a73 character string is the data the VI writes to the file.
+596798:f5aac append to file? Set to TRUE if you want to append the data to a existing file; you can also set it TRUE to write to a new file. Set to FALSE (default value) if you want to write the data to a new file or to replace an existing file.
+596832:f6656 file path is the path name of the file. If file path is empty (default value) or is Not A Path, the VI displays a File dialog box from which you can select a file. Error 43 occurs if the user cancels the dialog.
+596837:f6aeb line string is the data read from the file.
+596839:f6ba4 EOF? is TRUE if you attempt to read past the end of file.
+596849:f74d1 Open/Create/Replace File.vi
+597013:f8491 Write Characters To File.vi
+597035:f86a5 Read Lines From File.vi
+597617:ff243 *Writes a string of characters to a byte stream file at the specified location; the default location is at the end of file. The VI does incoming and internal error checking and does not write if an incoming error occurs.
+597618:ff322 refnum is the reference number of the open file.
+597624:ff4ca character string is the data the VI writes to the file.
+607057:19f5d1 file path is the path name of the file. If file path is empty (default value) or is Not A Path, the VI displays a File dialog box from which you can select a file. Error 43 occurs if the user cancels the dialog.
+607065:19fc0d refnum is the reference number of the open file. The value is Not A Refnum if the file cannot be opened.
+607066:19fc78 file size is the size of the file in bytes; it is also the location of the end of file.
+607480:1a67df refnum is the reference number of the open file.
+607653:1a9a17 refnum is the reference number of the open file.
+607664:1aa005 character string is the data read from the file.
+608362:1b617b Write Characters To File.vi
+608364:1b61a9 Open_Create_Replace File.viPTH0
+608367:1b61ef Open_Create_Replace File.vi
+608384:1b651b Write Characters To File.vi
+608388:1b65a1 Open_Create_Replace File.viPTH0
+608417:1b6db0 Writes a character string to a new byte stream file or appends the string to an existing file. The VI opens or creates the file beforehand and closes it afterwards.
+608418:1b6e57 file path is the path name of the file. If file path is empty (default value) or is Not A Path, the VI displays a File dialog box from which you can select a file. Error 43 occurs if the user cancels the dialog.
+608419:1b6f33 character string is the data the VI writes to the file.
+608420:1b6f6c append to file? Set to TRUE if you want to append the data to a existing file; you can also set it TRUE to write to a new file. Set to FALSE (default value) if you want to write the data to a new file or to replace an existing file.
+608423:1b71db Write Characters To File.vi
+608440:1b780b Write Characters To File.vi
+608456:1b79a1 Open_Create_Replace File.viPTH0
+608459:1b79e7 Open_Create_Replace File.vi
+608548:1b8bb9 Write Characters To File.vi
+610222:1d3b43 Read Lines From File.vi
+610250:1d4103 Read Lines From File.vi
+610294:1d4e6e file path is the path name of the file. If file path is empty (default value) or is Not A Path, the VI displays a File dialog box from which you can select a file. Error 43 occurs if the user cancels the dialog.
+610299:1d5303 line string is the data read from the file.
+610301:1d53bc EOF? is TRUE if you attempt to read past the end of file.
+610303:1d548f Read Lines From File.vi
+610330:1d5e2b Read Lines From File.vi
+610475:1d7ca1 Read Lines From File.vi
+610484:1d7e19 Write Characters To File.viPTH0
+610485:1d7e42 Write Characters To File.vi
+610487:1d7e89 Read Lines From File.viPTH0
+610488:1d7eae Read Lines From File.vi
+610500:1d844d Write Characters To File.viPTH0
+610502:1d84ad Read Lines From File.viPTH0
+610581:1da435 Read Lines From File.viPTH0
+610582:1da45a Read Lines From File.vi
+610585:1da4b1 Write Characters To File.viPTH0
+610586:1da4da Write Characters To File.vi
+610731:1dcbf1 Read Lines From File.viPTH0
+610732:1dcc16 Read Lines From File.vi
+610792:1dda75 Read Lines From File.viPTH0
+610975:1e0fe9 Read Lines From File.viPTH0
+610976:1e100e Read Lines From File.vi
+611204:1e4aad Read Lines From File.viPTH0
+611205:1e4ad2 Read Lines From File.vi
+611275:1e5aed Read Lines From File.viPTH0
+611499:1e9799 Read Lines From File.viPTH0
+611500:1e97be Read Lines From File.vi
+612231:1f638b Open/Create/Replace File.vi
+612358:1f6da5 Open/Create/Replace File.vi
+612359:1f6dc1 Open/Create/Replace File.vi
+612360:1f6ddd Open/Create/Replace File.vi
+612361:1f6df9 Open/Create/Replace File.vi
+612382:1f6efc Write Characters To File.vi
+612383:1f6f18 Write Characters To File.vi
+612384:1f6f34 Write Characters To File.vi
+612475:1f74bc Read Lines From File.vi
+612476:1f74d4 Read Lines From File.vi
+612477:1f74ec Read Lines From File.vi

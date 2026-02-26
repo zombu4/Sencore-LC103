@@ -1,0 +1,7 @@
+52539:1bf374 There is no library specified for this node. Pop up on the Call Library Function node and select Configure..., then choose a library name or path.
+52541:1bf499 The library specified for this node cannot be found. Pop up on the Call Library Function node and select Configure..., then choose the correct library name or path.
+54033:1dc745 [report file not found if function=0 (open); set file path to empty and refnum to NotARefnumMD
+224290:1b371 [report file not found if function=0 (open); set file path to empty and refnum to NotARefnumMD
+406298:3cda70 [[[report file not found if function=0 (open); set file path to empty and refnum to NotARefnumMD
+528292:3c970a [[[report file not found if function=0 (open); set file path to empty and refnum to NotARefnumHDt
+595957:e3926 [[[report file not found if function=0 (open); set file path to empty and refnum to NotARefnumHDt

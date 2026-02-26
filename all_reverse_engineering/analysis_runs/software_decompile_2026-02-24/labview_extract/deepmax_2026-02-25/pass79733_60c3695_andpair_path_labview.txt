@@ -1,0 +1,15 @@
+48230:165fce VI Search Path:  list of directories where LabVIEW will search for subVIs. This list is searched from top to bottom so the order is important.
+52214:1ba2c3 %p is an existing %p.3An error occurred while listing the contents of %p..You must select something in the directory %p.ULabVIEW cannot save to path %p because it is not an existing directory or VI library.
+102473:4cdbb8 GPIB EBTO:  DMA hardware uP bus timeout.QLabVIEW:  Duplicate path.
+260906:246790 GPIB EBTO:  DMA hardware uP bus timeout.QLabVIEW:  Duplicate path.
+314914:164361 GPIB EBTO:  DMA hardware uP bus timeout.QLabVIEW:  Duplicate path.
+341391:103931 GPIB EBTO:  DMA hardware uP bus timeout.QLabVIEW:  Duplicate path.
+346691:18f410 Sorry, This pathetic mess was my 1st Labview program.
+371344:1801b2 GPIB EBTO:  DMA hardware uP bus timeout.QLabVIEW:  Duplicate path.
+434045:f3dd5 GPIB EBTO:  DMA hardware uP bus timeout.QLabVIEW:  Duplicate path.
+470024:103356 GPIB EBTO:  DMA hardware uP bus timeout.QLabVIEW:  Duplicate path.
+475770:16d8f4 Sorry, This pathetic mess was my 1st Labview program.
+503854:1e1153 GPIB EBTO:  DMA hardware uP bus timeout.QLabVIEW:  Duplicate path.
+546420:f2ce5 GPIB EBTO:  DMA hardware uP bus timeout.QLabVIEW:  Duplicate path.
+576703:fcc93 Sorry, This pathetic mess was my 1st Labview program.
+579273:165017 GPIB EBTO:  DMA hardware uP bus timeout.QLabVIEW:  Duplicate path.

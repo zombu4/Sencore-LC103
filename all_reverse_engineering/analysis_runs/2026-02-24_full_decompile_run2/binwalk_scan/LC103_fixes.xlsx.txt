@@ -1,0 +1,18 @@
+FILE: LC103 fixes.xlsx
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+0             0x0             Zip archive data, at least v2.0 to extract, compressed size: 364, uncompressed size: 1440, name: [Content_Types].xml
+933           0x3A5           Zip archive data, at least v2.0 to extract, compressed size: 245, uncompressed size: 588, name: _rels/.rels
+1739          0x6CB           Zip archive data, at least v2.0 to extract, compressed size: 258, uncompressed size: 980, name: xl/_rels/workbook.xml.rels
+2317          0x90D           Zip archive data, at least v2.0 to extract, compressed size: 352, uncompressed size: 624, name: xl/workbook.xml
+2714          0xA9A           Zip archive data, at least v2.0 to extract, compressed size: 1684, uncompressed size: 7079, name: xl/theme/theme1.xml
+4447          0x115F          Zip archive data, at least v2.0 to extract, compressed size: 352, uncompressed size: 628, name: xl/worksheets/sheet2.xml
+4853          0x12F5          Zip archive data, at least v2.0 to extract, compressed size: 352, uncompressed size: 628, name: xl/worksheets/sheet3.xml
+5259          0x148B          Zip archive data, at least v2.0 to extract, compressed size: 2805, uncompressed size: 15707, name: xl/worksheets/sheet1.xml
+8118          0x1FB6          Zip archive data, at least v2.0 to extract, compressed size: 3104, uncompressed size: 7330, name: xl/sharedStrings.xml
+11272         0x2C08          Zip archive data, at least v2.0 to extract, compressed size: 807, uncompressed size: 2265, name: xl/styles.xml
+12122         0x2F5A          Zip archive data, at least v2.0 to extract, compressed size: 395, uncompressed size: 820, name: docProps/app.xml
+12827         0x321B          Zip archive data, at least v2.0 to extract, compressed size: 325, uncompressed size: 621, name: docProps/core.xml
+14243         0x37A3          End of Zip archive, footer length: 22
+

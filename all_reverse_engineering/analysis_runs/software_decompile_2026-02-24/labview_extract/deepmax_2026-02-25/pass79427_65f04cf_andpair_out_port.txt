@@ -1,0 +1,55 @@
+69987:2c8cfa LV_DIG_PORT_WRITESetCINArraySize, elmtNum %ld out of range 0 <= elmtNum < %ldnon-array detected
+70386:2cf70c CINStartLoad: loaderror= %d, error=%ldLV_DIG_PORT_READSetCINArraySize, elmtNum %ld out of range 0 <= elmtNum < %ldnon-array detected
+74847:31761c lhOutput XON/XOFF. See the Common Serial Port VI Parameters section of this chapter for more information.
+102515:4ce745 GPIB SPTMO:  Serial port timeout; bytes not received at serial port.
+103422:4dca2d You can control the number of lines in a port by the parameter port width.  You also have the option of not reconfiguring the port as an output port with each iteration of the VI by setting the iteration control to a non-zero value.
+240587:10c32e LV_DIG_PORT_WRITESetCINArraySize, elmtNum %ld out of range 0 <= elmtNum < %ldnon-array detected
+241002:11301c CINStartLoad: loaderror= %d, error=%ldLV_DIG_PORT_READSetCINArraySize, elmtNum %ld out of range 0 <= elmtNum < %ldnon-array detected
+245157:155cd0 lhOutput XON/XOFF. See the Common Serial Port VI Parameters section of this chapter for more information.
+260948:24731d GPIB SPTMO:  Serial port timeout; bytes not received at serial port.
+261872:255e51 You can control the number of lines in a port by the parameter port width.  You also have the option of not reconfiguring the port as an output port with each iteration of the VI by setting the iteration control to a non-zero value.
+262040:257002 You can control the number of lines in a port by the parameter port width.  You also have the option of not reconfiguring the port as an output port with each iteration of the VI by setting the iteration control to a non-zero value.
+313030:138aae LV_DIG_PORT_WRITESetCINArraySize, elmtNum %ld out of range 0 <= elmtNum < %ldnon-array detected
+313447:13f792 CINStartLoad: loaderror= %d, error=%ldLV_DIG_PORT_READSetCINArraySize, elmtNum %ld out of range 0 <= elmtNum < %ldnon-array detected
+314956:164eee GPIB SPTMO:  Serial port timeout; bytes not received at serial port.
+315374:16d430 You can control the number of lines in a port by the parameter port width.  You also have the option of not reconfiguring the port as an output port with each iteration of the VI by setting the iteration control to a non-zero value.
+315540:16e5d6 You can control the number of lines in a port by the parameter port width.  You also have the option of not reconfiguring the port as an output port with each iteration of the VI by setting the iteration control to a non-zero value.
+339495:d7f8b LV_DIG_PORT_WRITESetCINArraySize, elmtNum %ld out of range 0 <= elmtNum < %ldnon-array detected
+339919:dec6b CINStartLoad: loaderror= %d, error=%ldLV_DIG_PORT_READSetCINArraySize, elmtNum %ld out of range 0 <= elmtNum < %ldnon-array detected
+341433:1044be GPIB SPTMO:  Serial port timeout; bytes not received at serial port.
+341596:1075f6 You can control the number of lines in a port by the parameter port width.  You also have the option of not reconfiguring the port as an output port with each iteration of the VI by setting the iteration control to a non-zero value.
+341860:10cabd You can control the number of lines in a port by the parameter port width.  You also have the option of not reconfiguring the port as an output port with each iteration of the VI by setting the iteration control to a non-zero value.
+369993:1621f7 You can control the number of lines in a port by the parameter port width.  You also have the option of not reconfiguring the port as an output port with each iteration of the VI by setting the iteration control to a non-zero value.
+371386:180d3f GPIB SPTMO:  Serial port timeout; bytes not received at serial port.
+397617:33fbea lhOutput XON/XOFF. See the Common Serial Port VI Parameters section of this chapter for more information.
+402597:38f281 CINStartLoad: loaderror= %d, error=%ldLV_DIG_PORT_READSetCINArraySize, elmtNum %ld out of range 0 <= elmtNum < %ldnon-array detected
+403012:3963f3 LV_DIG_PORT_WRITESetCINArraySize, elmtNum %ld out of range 0 <= elmtNum < %ldnon-array detected
+404066:3a5eee You can control the number of lines in a port by the parameter port width.  You also have the option of not reconfiguring the port as an output port with each iteration of the VI by setting the iteration control to a non-zero value.
+433235:dc554 You can control the number of lines in a port by the parameter port width.  You also have the option of not reconfiguring the port as an output port with each iteration of the VI by setting the iteration control to a non-zero value.
+434087:f4962 GPIB SPTMO:  Serial port timeout; bytes not received at serial port.
+435371:10d85e CINStartLoad: loaderror= %d, error=%ldLV_DIG_PORT_READSetCINArraySize, elmtNum %ld out of range 0 <= elmtNum < %ldnon-array detected
+435789:1149cb LV_DIG_PORT_WRITESetCINArraySize, elmtNum %ld out of range 0 <= elmtNum < %ldnon-array detected
+443015:185e66 You can control the number of lines in a port by the parameter port width.  You also have the option of not reconfiguring the port as an output port with each iteration of the VI by setting the iteration control to a non-zero value.
+467315:cce46 You can control the number of lines in a port by the parameter port width.  You also have the option of not reconfiguring the port as an output port with each iteration of the VI by setting the iteration control to a non-zero value.
+468340:dc1fb LV_DIG_PORT_WRITESetCINArraySize, elmtNum %ld out of range 0 <= elmtNum < %ldnon-array detected
+468764:e367d CINStartLoad: loaderror= %d, error=%ldLV_DIG_PORT_READSetCINArraySize, elmtNum %ld out of range 0 <= elmtNum < %ldnon-array detected
+470066:103ee3 GPIB SPTMO:  Serial port timeout; bytes not received at serial port.
+470943:11468a You can control the number of lines in a port by the parameter port width.  You also have the option of not reconfiguring the port as an output port with each iteration of the VI by setting the iteration control to a non-zero value.
+502995:1c89b8 You can control the number of lines in a port by the parameter port width.  You also have the option of not reconfiguring the port as an output port with each iteration of the VI by setting the iteration control to a non-zero value.
+503896:1e1ce0 GPIB SPTMO:  Serial port timeout; bytes not received at serial port.
+522318:356768 hOutput XON/XOFF. See the Common Serial Port VI Parameters section of this chapter for more information.
+525247:38d246 CINStartLoad: loaderror= %d, error=%ldLV_DIG_PORT_READSetCINArraySize, elmtNum %ld out of range 0 <= elmtNum < %ldnon-array detected
+525529:392c14 LV_DIG_PORT_WRITESetCINArraySize, elmtNum %ld out of range 0 <= elmtNum < %ldnon-array detected
+527403:3b4b3a You can control the number of lines in a port by the parameter port width.  You also have the option of not reconfiguring the port as an output port with each iteration of the VI by setting the iteration control to a non-zero value.
+545610:db464 You can control the number of lines in a port by the parameter port width.  You also have the option of not reconfiguring the port as an output port with each iteration of the VI by setting the iteration control to a non-zero value.
+546462:f3872 GPIB SPTMO:  Serial port timeout; bytes not received at serial port.
+547746:10c76e CINStartLoad: loaderror= %d, error=%ldLV_DIG_PORT_READSetCINArraySize, elmtNum %ld out of range 0 <= elmtNum < %ldnon-array detected
+548164:1138db LV_DIG_PORT_WRITESetCINArraySize, elmtNum %ld out of range 0 <= elmtNum < %ldnon-array detected
+548944:121e5a You can control the number of lines in a port by the parameter port width.  You also have the option of not reconfiguring the port as an output port with each iteration of the VI by setting the iteration control to a non-zero value.
+577723:13c65e You can control the number of lines in a port by the parameter port width.  You also have the option of not reconfiguring the port as an output port with each iteration of the VI by setting the iteration control to a non-zero value.
+578291:14756b LV_DIG_PORT_WRITESetCINArraySize, elmtNum %ld out of range 0 <= elmtNum < %ldnon-array detected
+578576:14d17e CINStartLoad: loaderror= %d, error=%ldLV_DIG_PORT_READSetCINArraySize, elmtNum %ld out of range 0 <= elmtNum < %ldnon-array detected
+579315:165ba4 GPIB SPTMO:  Serial port timeout; bytes not received at serial port.
+580187:176a2e You can control the number of lines in a port by the parameter port width.  You also have the option of not reconfiguring the port as an output port with each iteration of the VI by setting the iteration control to a non-zero value.
+596802:f5d9a You can control the number of lines in a port by the parameter port width.  You also have the option of not reconfiguring the port as an output port with each iteration of the VI by setting the iteration control to a non-zero value.
+608562:1b9012 You can control the number of lines in a port by the parameter port width.  You also have the option of not reconfiguring the port as an output port with each iteration of the VI by setting the iteration control to a non-zero value.

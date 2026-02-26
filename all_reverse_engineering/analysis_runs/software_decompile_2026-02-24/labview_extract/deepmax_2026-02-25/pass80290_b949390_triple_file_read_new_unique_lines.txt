@@ -1,0 +1,29 @@
+52985:1cad24 creates a new file. Error 8 occurs if the file already exists.
+54005:1dbc09 3 (create) creates a new file. Error 8 occurs if the file already exists.
+111786:5654df new file path is the path of the file from which the VI read data. You can use this output to determine the path of a file that you open using dialog. new file path returns Not A Path if the user selects Cancel from the dialog box.
+112349:56c5f9 new file path is the path of the file from which the VI read data. You can use this output to determine the path of a file that you open using dialog. new file path returns Not A Path if the user selects Cancel from the dialog box.
+112644:56db5f @ start of read offset (chars.:0 ),2@'new file path (Not A Path if cancelled)
+223242:9950 creates a new file. Error 8 occurs if the file already exists.
+224262:1a835 3 (create) creates a new file. Error 8 occurs if the file already exists.
+224498:1d541 3 (create) creates a new file. Error 8 occurs if the file already exists.
+270315:2dfc33 new file path is the path of the file from which the VI read data. You can use this output to determine the path of a file that you open using dialog. new file path returns Not A Path if the user selects Cancel from the dialog box.
+270878:2e6d4d new file path is the path of the file from which the VI read data. You can use this output to determine the path of a file that you open using dialog. new file path returns Not A Path if the user selects Cancel from the dialog box.
+271173:2e82b3 @ start of read offset (chars.:0 ),2@'new file path (Not A Path if cancelled)
+271325:2e9550 new file path is the path of the file from which the VI read data. You can use this output to determine the path of a file that you open using dialog. new file path returns Not A Path if the user selects Cancel from the dialog box.
+366635:1309bf new file path is the path of the file from which the VI read data. You can use this output to determine the path of a file that you open using dialog. new file path returns Not A Path if the user selects Cancel from the dialog box.
+366644:130fe4 new file path is the path of the file from which the VI read data. You can use this output to determine the path of a file that you open using dialog. new file path returns Not A Path if the user selects Cancel from the dialog box.
+394245:30c775 3 (create) creates a new file. Error 8 occurs if the file already exists.
+404100:3a6b54 new file path is the path of the file from which the VI read data. You can use this output to determine the path of a file that you open using dialog. new file path returns Not A Path if the user selects Cancel from the dialog box.
+406181:3cba45 3 (create) creates a new file. Error 8 occurs if the file already exists.
+406203:3cc843 creates a new file. Error 8 occurs if the file already exists.
+496234:149e5b new file path is the path of the file from which the VI read data. You can use this output to determine the path of a file that you open using dialog. new file path returns Not A Path if the user selects Cancel from the dialog box.
+496403:14bc40 new file path is the path of the file from which the VI read data. You can use this output to determine the path of a file that you open using dialog. new file path returns Not A Path if the user selects Cancel from the dialog box.
+520837:33c06d 3 (create) creates a new file. Error 8 occurs if the file already exists.
+527437:3b57a0 new file path is the path of the file from which the VI read data. You can use this output to determine the path of a file that you open using dialog. new file path returns Not A Path if the user selects Cancel from the dialog box.
+528195:3c81ac 3 (create) creates a new file. Error 8 occurs if the file already exists.
+528607:3ccb3f creates a new file. Error 8 occurs if the file already exists.
+595371:d53e5 3 (create) creates a new file. Error 8 occurs if the file already exists.
+595860:e23c8 3 (create) creates a new file. Error 8 occurs if the file already exists.
+596272:e6d5b creates a new file. Error 8 occurs if the file already exists.
+596836:f6a00 new file path is the path of the file from which the VI read data. You can use this output to determine the path of a file that you open using dialog. new file path returns Not A Path if the user selects Cancel from the dialog box.
+610298:1d5218 new file path is the path of the file from which the VI read data. You can use this output to determine the path of a file that you open using dialog. new file path returns Not A Path if the user selects Cancel from the dialog box.

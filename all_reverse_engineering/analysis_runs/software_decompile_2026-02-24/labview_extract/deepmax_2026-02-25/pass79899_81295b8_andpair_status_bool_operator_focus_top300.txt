@@ -1,0 +1,300 @@
+57172:212169 status is a Boolean array in which each bit describes a state of the GPIB Controller. If an error occurs, the GPIB VIs set bit 15. GPIB error is valid only if bit 15 of status is set.
+58011:2206f4 status is a Boolean array in which each bit describes a state of the GPIB Controller. If an error occurs, the GPIB VIs set bit 15. GPIB error is valid only if bit 15 of status is set.
+59840:23a296 (bool) status: TRUE if an error has occurred.
+59846:23a3d0 1-(bool) status: TRUE if an error has occurred."
+60018:23c31f (bool) status: TRUE if an error has occurred.
+60025:23c484 ZV(bool) status: TRUE if an error has occurred. If status is TRUE, this VI does nothing."
+60430:243ce7 (bool) status: TRUE if an error has occurred.
+60443:244022 (bool) status: TRUE if an error has occurred.
+61606:251f10 (bool) status: TRUE if an error has occurred.
+61619:25224b (bool) status: TRUE if an error has occurred.
+62755:25e842 (bool) status: TRUE if an error has occurred.
+62762:25e9a7 ZV(bool) status: TRUE if an error has occurred. If status is TRUE, this VI does nothing.
+62764:25eb5c (bool) status: TRUE if an error has occurred.
+63512:271075 (bool) status: TRUE if an error has occurred.
+63518:2711af [W(string) source: an indication of where an error occurred, usually the name of the VI.1-(bool) status: TRUE if an error has occurred."
+63528:27151b (bool) status: TRUE if an error has occurred.
+63535:271680 ZV(bool) status: TRUE if an error has occurred. If status is TRUE, this VI does nothing."
+66141:295d07 (bool) status: TRUE if an error has occurred.
+66147:295e41 [W(string) source: an indication of where an error occurred, usually the name of the VI.1-(bool) status: TRUE if an error has occurred."
+66155:2960ab (bool) status: TRUE if an error has occurred.
+66162:296210 ZV(bool) status: TRUE if an error has occurred. If status is TRUE, this VI does nothing."
+68008:2b06af (bool) status: TRUE if an error has occurred.
+68014:2b07e9 [W(string) source: an indication of where an error occurred, usually the name of the VI.1-(bool) status: TRUE if an error has occurred.
+68035:2b0df1 (bool) status: TRUE if an error has occurred.
+68042:2b0f56 ZV(bool) status: TRUE if an error has occurred. If status is TRUE, this VI does nothing."
+68863:2b89e2 (bool) status: TRUE if an error has occurred.
+68888:2b8dad 1-(bool) status: TRUE if an error has occurred.[W(string) source: an indication of where an error occurred, usually the name of the VI."
+68894:2b8f5a (bool) status: TRUE if an error has occurred.
+69676:2c4468 (bool) status: TRUE if an error has occurred.
+69682:2c45a3 1-(bool) status: TRUE if an error has occurred."
+69693:2c4842 (bool) status: TRUE if an error has occurred.
+70061:2caa9e (bool) status: TRUE if an error has occurred.
+70067:2cabd9 xt(bool) status: TRUE if an error has occurred. Regardless of the value of status, this VI clears the input operation."
+70074:2caeba (bool) status: TRUE if an error has occurred.
+70080:2caff5 1-(bool) status: TRUE if an error has occurred."
+70476:2d1a1c (bool) status: TRUE if an error has occurred.
+70482:2d1b57 xt(bool) status: TRUE if an error has occurred. Regardless of the value of status, this VI clears the input operation.
+70490:2d1f80 (bool) status: TRUE if an error has occurred.
+70496:2d20bb 1-(bool) status: TRUE if an error has occurred."
+227563:531c1 status is a Boolean array in which each bit describes a state of the GPIB Controller. If an error occurs, the GPIB VIs set bit 15. GPIB error is valid only if bit 15 of status is set.
+228418:619e0 status is a Boolean array in which each bit describes a state of the GPIB Controller. If an error occurs, the GPIB VIs set bit 15. GPIB error is valid only if bit 15 of status is set.
+230301:7bfb6 (bool) status: TRUE if an error has occurred.
+230307:7c0f0 1-(bool) status: TRUE if an error has occurred."
+230485:7e153 (bool) status: TRUE if an error has occurred.
+230492:7e2b8 ZV(bool) status: TRUE if an error has occurred. If status is TRUE, this VI does nothing."
+230918:85e7b (bool) status: TRUE if an error has occurred.
+230931:861b6 (bool) status: TRUE if an error has occurred.
+232109:942cc (bool) status: TRUE if an error has occurred.
+232122:94607 (bool) status: TRUE if an error has occurred.
+233274:a0ea2 (bool) status: TRUE if an error has occurred.
+233281:a1007 ZV(bool) status: TRUE if an error has occurred. If status is TRUE, this VI does nothing.
+233283:a11bc (bool) status: TRUE if an error has occurred.
+234049:b3aad (bool) status: TRUE if an error has occurred.
+234055:b3be7 [W(string) source: an indication of where an error occurred, usually the name of the VI.1-(bool) status: TRUE if an error has occurred."
+234065:b3f53 (bool) status: TRUE if an error has occurred.
+234072:b40b8 ZV(bool) status: TRUE if an error has occurred. If status is TRUE, this VI does nothing."
+236691:d8aa7 (bool) status: TRUE if an error has occurred.
+236697:d8be1 [W(string) source: an indication of where an error occurred, usually the name of the VI.1-(bool) status: TRUE if an error has occurred."
+236705:d8e4b (bool) status: TRUE if an error has occurred.
+236712:d8fb0 ZV(bool) status: TRUE if an error has occurred. If status is TRUE, this VI does nothing."
+238571:f368b (bool) status: TRUE if an error has occurred.
+238577:f37c5 [W(string) source: an indication of where an error occurred, usually the name of the VI.1-(bool) status: TRUE if an error has occurred.
+238598:f3dcd (bool) status: TRUE if an error has occurred.
+238605:f3f32 ZV(bool) status: TRUE if an error has occurred. If status is TRUE, this VI does nothing."
+239438:fbc02 (bool) status: TRUE if an error has occurred.
+239463:fbfcd 1-(bool) status: TRUE if an error has occurred.[W(string) source: an indication of where an error occurred, usually the name of the VI."
+239469:fc17a (bool) status: TRUE if an error has occurred.
+240276:107a9c (bool) status: TRUE if an error has occurred.
+240282:107bd7 1-(bool) status: TRUE if an error has occurred."
+240293:107e76 (bool) status: TRUE if an error has occurred.
+240677:10e3ae (bool) status: TRUE if an error has occurred.
+240683:10e4e9 xt(bool) status: TRUE if an error has occurred. Regardless of the value of status, this VI clears the input operation."
+240690:10e7ca (bool) status: TRUE if an error has occurred.
+240696:10e905 1-(bool) status: TRUE if an error has occurred."
+241109:11562c (bool) status: TRUE if an error has occurred.
+241115:115767 xt(bool) status: TRUE if an error has occurred. Regardless of the value of status, this VI clears the input operation.
+241123:115b90 (bool) status: TRUE if an error has occurred.
+241129:115ccb 1-(bool) status: TRUE if an error has occurred."
+294046:20552 status is a Boolean array in which each bit describes a state of the GPIB Controller. If an error occurs, the GPIB VIs set bit 15. GPIB error is valid only if bit 15 of status is set.
+294913:2ed2d status is a Boolean array in which each bit describes a state of the GPIB Controller. If an error occurs, the GPIB VIs set bit 15. GPIB error is valid only if bit 15 of status is set.
+296816:492a3 (bool) status: TRUE if an error has occurred.
+296822:493dd 1-(bool) status: TRUE if an error has occurred."
+297003:4b43c (bool) status: TRUE if an error has occurred.
+297010:4b5a1 ZV(bool) status: TRUE if an error has occurred. If status is TRUE, this VI does nothing."
+297444:53158 (bool) status: TRUE if an error has occurred.
+297457:53493 (bool) status: TRUE if an error has occurred.
+298647:6157d (bool) status: TRUE if an error has occurred.
+298660:618b8 (bool) status: TRUE if an error has occurred.
+299822:6e12b (bool) status: TRUE if an error has occurred.
+299829:6e290 ZV(bool) status: TRUE if an error has occurred. If status is TRUE, this VI does nothing.
+299831:6e445 (bool) status: TRUE if an error has occurred.
+300614:80d0a (bool) status: TRUE if an error has occurred.
+300620:80e44 [W(string) source: an indication of where an error occurred, usually the name of the VI.1-(bool) status: TRUE if an error has occurred."
+300630:811b0 (bool) status: TRUE if an error has occurred.
+300637:81315 ZV(bool) status: TRUE if an error has occurred. If status is TRUE, this VI does nothing."
+303290:a5ca4 (bool) status: TRUE if an error has occurred.
+303296:a5dde [W(string) source: an indication of where an error occurred, usually the name of the VI.1-(bool) status: TRUE if an error has occurred."
+303304:a6048 (bool) status: TRUE if an error has occurred.
+303311:a61ad ZV(bool) status: TRUE if an error has occurred. If status is TRUE, this VI does nothing."
+305201:c0830 (bool) status: TRUE if an error has occurred.
+305207:c096a [W(string) source: an indication of where an error occurred, usually the name of the VI.1-(bool) status: TRUE if an error has occurred.
+305228:c0f72 (bool) status: TRUE if an error has occurred.
+305235:c10d7 ZV(bool) status: TRUE if an error has occurred. If status is TRUE, this VI does nothing."
+306077:c8d8b (bool) status: TRUE if an error has occurred.
+306102:c9156 1-(bool) status: TRUE if an error has occurred.[W(string) source: an indication of where an error occurred, usually the name of the VI."
+306108:c9303 (bool) status: TRUE if an error has occurred.
+312715:13422a (bool) status: TRUE if an error has occurred.
+312721:134365 1-(bool) status: TRUE if an error has occurred."
+312732:134604 (bool) status: TRUE if an error has occurred.
+313121:13ab33 (bool) status: TRUE if an error has occurred.
+313127:13ac6e xt(bool) status: TRUE if an error has occurred. Regardless of the value of status, this VI clears the input operation."
+313134:13af4f (bool) status: TRUE if an error has occurred.
+313140:13b08a 1-(bool) status: TRUE if an error has occurred."
+313555:141da5 (bool) status: TRUE if an error has occurred.
+313561:141ee0 xt(bool) status: TRUE if an error has occurred. Regardless of the value of status, this VI clears the input operation.
+313569:142309 (bool) status: TRUE if an error has occurred.
+313575:142444 1-(bool) status: TRUE if an error has occurred."
+326213:1f84a status is a Boolean array in which each bit describes a state of the GPIB Controller. If an error occurs, the GPIB VIs set bit 15. GPIB error is valid only if bit 15 of status is set.
+327107:2e015 status is a Boolean array in which each bit describes a state of the GPIB Controller. If an error occurs, the GPIB VIs set bit 15. GPIB error is valid only if bit 15 of status is set.
+329034:48523 (bool) status: TRUE if an error has occurred.
+329040:4865d 1-(bool) status: TRUE if an error has occurred."
+329230:4a6b0 (bool) status: TRUE if an error has occurred.
+329237:4a815 ZV(bool) status: TRUE if an error has occurred. If status is TRUE, this VI does nothing."
+329681:52444 (bool) status: TRUE if an error has occurred.
+329694:5277f (bool) status: TRUE if an error has occurred.
+330897:608c5 (bool) status: TRUE if an error has occurred.
+330910:60c00 (bool) status: TRUE if an error has occurred.
+332083:6d43f (bool) status: TRUE if an error has occurred.
+332090:6d5a4 ZV(bool) status: TRUE if an error has occurred. If status is TRUE, this VI does nothing.
+332092:6d759 (bool) status: TRUE if an error has occurred.
+332883:8011a (bool) status: TRUE if an error has occurred.
+332889:80254 [W(string) source: an indication of where an error occurred, usually the name of the VI.1-(bool) status: TRUE if an error has occurred."
+332899:805c0 (bool) status: TRUE if an error has occurred.
+332906:80725 ZV(bool) status: TRUE if an error has occurred. If status is TRUE, this VI does nothing."
+335564:a4f8c (bool) status: TRUE if an error has occurred.
+335570:a50c6 [W(string) source: an indication of where an error occurred, usually the name of the VI.1-(bool) status: TRUE if an error has occurred."
+335578:a5330 (bool) status: TRUE if an error has occurred.
+335585:a5495 ZV(bool) status: TRUE if an error has occurred. If status is TRUE, this VI does nothing."
+337475:bfb1c (bool) status: TRUE if an error has occurred.
+337481:bfc56 [W(string) source: an indication of where an error occurred, usually the name of the VI.1-(bool) status: TRUE if an error has occurred.
+337502:c025e (bool) status: TRUE if an error has occurred.
+337509:c03c3 ZV(bool) status: TRUE if an error has occurred. If status is TRUE, this VI does nothing."
+338354:c80a8 (bool) status: TRUE if an error has occurred.
+338379:c8473 1-(bool) status: TRUE if an error has occurred.[W(string) source: an indication of where an error occurred, usually the name of the VI."
+338385:c8620 (bool) status: TRUE if an error has occurred.
+339182:d370a (bool) status: TRUE if an error has occurred.
+339188:d3845 1-(bool) status: TRUE if an error has occurred."
+339199:d3ae4 (bool) status: TRUE if an error has occurred.
+339588:da00b (bool) status: TRUE if an error has occurred.
+339594:da146 xt(bool) status: TRUE if an error has occurred. Regardless of the value of status, this VI clears the input operation."
+339601:da427 (bool) status: TRUE if an error has occurred.
+339607:da562 1-(bool) status: TRUE if an error has occurred."
+340033:e12cd (bool) status: TRUE if an error has occurred.
+340039:e1408 xt(bool) status: TRUE if an error has occurred. Regardless of the value of status, this VI clears the input operation.
+340047:e1831 (bool) status: TRUE if an error has occurred.
+340053:e196c 1-(bool) status: TRUE if an error has occurred."
+349008:1e481 status is a Boolean array in which each bit describes a state of the GPIB Controller. If an error occurs, the GPIB VIs set bit 15. GPIB error is valid only if bit 15 of status is set.
+349863:2cca0 status is a Boolean array in which each bit describes a state of the GPIB Controller. If an error occurs, the GPIB VIs set bit 15. GPIB error is valid only if bit 15 of status is set.
+351746:47276 (bool) status: TRUE if an error has occurred.
+351752:473b0 1-(bool) status: TRUE if an error has occurred."
+351930:49413 (bool) status: TRUE if an error has occurred.
+351937:49578 ZV(bool) status: TRUE if an error has occurred. If status is TRUE, this VI does nothing."
+352363:5113b (bool) status: TRUE if an error has occurred.
+352376:51476 (bool) status: TRUE if an error has occurred.
+353554:5f58c (bool) status: TRUE if an error has occurred.
+353567:5f8c7 (bool) status: TRUE if an error has occurred.
+354879:760e5 (bool) status: TRUE if an error has occurred.
+354885:7621f [W(string) source: an indication of where an error occurred, usually the name of the VI.1-(bool) status: TRUE if an error has occurred."
+354895:7658b (bool) status: TRUE if an error has occurred.
+354902:766f0 ZV(bool) status: TRUE if an error has occurred. If status is TRUE, this VI does nothing."
+357521:9b0df (bool) status: TRUE if an error has occurred.
+357527:9b219 [W(string) source: an indication of where an error occurred, usually the name of the VI.1-(bool) status: TRUE if an error has occurred."
+357535:9b483 (bool) status: TRUE if an error has occurred.
+357542:9b5e8 ZV(bool) status: TRUE if an error has occurred. If status is TRUE, this VI does nothing."
+359401:b5cc3 (bool) status: TRUE if an error has occurred.
+359407:b5dfd [W(string) source: an indication of where an error occurred, usually the name of the VI.1-(bool) status: TRUE if an error has occurred.
+359428:b6405 (bool) status: TRUE if an error has occurred.
+359435:b656a ZV(bool) status: TRUE if an error has occurred. If status is TRUE, this VI does nothing."
+361410:d3a25 (bool) status: TRUE if an error has occurred.
+361416:d3b61 The status boolean is either TRUE (X) for an error, or FALSE (checkmark) for no error or a warning.
+361423:d3e73 (bool) status: TRUE if an error has occurred.
+361430:d3fda The status boolean is either TRUE (X) for an error, or FALSE (checkmark) for no error or a warning.
+402192:387f3e (bool) status: TRUE if an error has occurred.
+402198:388079 xt(bool) status: TRUE if an error has occurred. Regardless of the value of status, this VI clears the input operation.
+402202:388482 (bool) status: TRUE if an error has occurred.
+402208:3885bd 1-(bool) status: TRUE if an error has occurred.
+402626:38f8bc (bool) status: TRUE if an error has occurred.
+402632:38f9f7 xt(bool) status: TRUE if an error has occurred. Regardless of the value of status, this VI clears the input operation.
+402635:38fcb8 (bool) status: TRUE if an error has occurred.
+402641:38fdf3 1-(bool) status: TRUE if an error has occurred.
+403031:396a25 (bool) status: TRUE if an error has occurred.
+403037:396b60 1-(bool) status: TRUE if an error has occurred.
+403040:396dbf (bool) status: TRUE if an error has occurred.
+403390:39c452 (bool) status: TRUE if an error has occurred.
+403397:39c5b9 The status boolean is either TRUE (X) for an error, or FALSE (checkmark) for no error or a warning.
+403404:39c923 (bool) status: TRUE if an error has occurred.
+403410:39ca5f The status boolean is either TRUE (X) for an error, or FALSE (checkmark) for no error or a warning.
+417599:4c95 (bool) status: TRUE if an error has occurred.
+417605:4dd8 The status boolean is either TRUE (X) for an error, or FALSE (checkmark) for no error or a warning.
+417612:50fd (bool) status: TRUE if an error has occurred.
+417619:526c The status boolean is either TRUE (X) for an error, or FALSE (checkmark) for no error or a warning.
+419675:1e3c6 status is a Boolean array in which each bit describes a state of the GPIB Controller. If an error occurs, the GPIB VIs set bit 15. GPIB error is valid only if bit 15 of status is set.
+420542:2cba1 status is a Boolean array in which each bit describes a state of the GPIB Controller. If an error occurs, the GPIB VIs set bit 15. GPIB error is valid only if bit 15 of status is set.
+422445:47117 (bool) status: TRUE if an error has occurred.
+422451:47251 1-(bool) status: TRUE if an error has occurred."
+422632:492b0 (bool) status: TRUE if an error has occurred.
+422639:49415 ZV(bool) status: TRUE if an error has occurred. If status is TRUE, this VI does nothing."
+423073:50fcc (bool) status: TRUE if an error has occurred.
+423086:51307 (bool) status: TRUE if an error has occurred.
+424276:5f3f1 (bool) status: TRUE if an error has occurred.
+424289:5f72c (bool) status: TRUE if an error has occurred.
+425613:75f16 (bool) status: TRUE if an error has occurred.
+425619:76050 [W(string) source: an indication of where an error occurred, usually the name of the VI.1-(bool) status: TRUE if an error has occurred."
+425629:763bc (bool) status: TRUE if an error has occurred.
+425636:76521 ZV(bool) status: TRUE if an error has occurred. If status is TRUE, this VI does nothing."
+428289:9aeb0 (bool) status: TRUE if an error has occurred.
+428295:9afea [W(string) source: an indication of where an error occurred, usually the name of the VI.1-(bool) status: TRUE if an error has occurred."
+428303:9b254 (bool) status: TRUE if an error has occurred.
+428310:9b3b9 ZV(bool) status: TRUE if an error has occurred. If status is TRUE, this VI does nothing."
+430200:b5a3c (bool) status: TRUE if an error has occurred.
+430206:b5b76 [W(string) source: an indication of where an error occurred, usually the name of the VI.1-(bool) status: TRUE if an error has occurred.
+430227:b617e (bool) status: TRUE if an error has occurred.
+430234:b62e3 ZV(bool) status: TRUE if an error has occurred. If status is TRUE, this VI does nothing."
+434965:10651c (bool) status: TRUE if an error has occurred.
+434971:106657 xt(bool) status: TRUE if an error has occurred. Regardless of the value of status, this VI clears the input operation.
+434975:106a60 (bool) status: TRUE if an error has occurred.
+434981:106b9b 1-(bool) status: TRUE if an error has occurred.
+435400:10de99 (bool) status: TRUE if an error has occurred.
+435406:10dfd4 xt(bool) status: TRUE if an error has occurred. Regardless of the value of status, this VI clears the input operation.
+435409:10e295 (bool) status: TRUE if an error has occurred.
+435415:10e3d0 1-(bool) status: TRUE if an error has occurred.
+435808:114ffd (bool) status: TRUE if an error has occurred.
+435814:115138 1-(bool) status: TRUE if an error has occurred.
+435817:115397 (bool) status: TRUE if an error has occurred.
+443236:1895b5 (bool) status: TRUE if an error has occurred.
+443243:18971c The status boolean is either TRUE (X) for an error, or FALSE (checkmark) for no error or a warning.
+443250:189a86 (bool) status: TRUE if an error has occurred.
+443256:189bc2 The status boolean is either TRUE (X) for an error, or FALSE (checkmark) for no error or a warning.
+443873:191eb4 (bool) status: TRUE if an error has occurred.
+443879:191ff0 The status boolean is either TRUE (X) for an error, or FALSE (checkmark) for no error or a warning.
+443886:192302 (bool) status: TRUE if an error has occurred.
+443893:192469 The status boolean is either TRUE (X) for an error, or FALSE (checkmark) for no error or a warning.
+454512:1cc96 status is a Boolean array in which each bit describes a state of the GPIB Controller. If an error occurs, the GPIB VIs set bit 15. GPIB error is valid only if bit 15 of status is set.
+455406:2b461 status is a Boolean array in which each bit describes a state of the GPIB Controller. If an error occurs, the GPIB VIs set bit 15. GPIB error is valid only if bit 15 of status is set.
+457333:4596f (bool) status: TRUE if an error has occurred.
+457339:45aa9 1-(bool) status: TRUE if an error has occurred."
+457529:47afc (bool) status: TRUE if an error has occurred.
+457536:47c61 ZV(bool) status: TRUE if an error has occurred. If status is TRUE, this VI does nothing."
+457980:4f890 (bool) status: TRUE if an error has occurred.
+457993:4fbcb (bool) status: TRUE if an error has occurred.
+459196:5dd11 (bool) status: TRUE if an error has occurred.
+459209:5e04c (bool) status: TRUE if an error has occurred.
+460549:7490a (bool) status: TRUE if an error has occurred.
+460555:74a44 [W(string) source: an indication of where an error occurred, usually the name of the VI.1-(bool) status: TRUE if an error has occurred."
+460565:74db0 (bool) status: TRUE if an error has occurred.
+460572:74f15 ZV(bool) status: TRUE if an error has occurred. If status is TRUE, this VI does nothing."
+463230:9977c (bool) status: TRUE if an error has occurred.
+463236:998b6 [W(string) source: an indication of where an error occurred, usually the name of the VI.1-(bool) status: TRUE if an error has occurred."
+463244:99b20 (bool) status: TRUE if an error has occurred.
+463251:99c85 ZV(bool) status: TRUE if an error has occurred. If status is TRUE, this VI does nothing."
+465141:b430c (bool) status: TRUE if an error has occurred.
+465147:b4446 [W(string) source: an indication of where an error occurred, usually the name of the VI.1-(bool) status: TRUE if an error has occurred.
+465168:b4a4e (bool) status: TRUE if an error has occurred.
+465175:b4bb3 ZV(bool) status: TRUE if an error has occurred. If status is TRUE, this VI does nothing."
+466579:c48f9 (bool) status: TRUE if an error has occurred.
+466586:c4a60 The status boolean is either TRUE (X) for an error, or FALSE (checkmark) for no error or a warning.
+466593:c4dca (bool) status: TRUE if an error has occurred.
+466599:c4f06 The status boolean is either TRUE (X) for an error, or FALSE (checkmark) for no error or a warning.
+467698:d309c (bool) status: TRUE if an error has occurred.
+467704:d31d8 The status boolean is either TRUE (X) for an error, or FALSE (checkmark) for no error or a warning.
+467711:d34ea (bool) status: TRUE if an error has occurred.
+467718:d3651 The status boolean is either TRUE (X) for an error, or FALSE (checkmark) for no error or a warning.
+468359:dc82c (bool) status: TRUE if an error has occurred.
+468365:dc967 1-(bool) status: TRUE if an error has occurred.
+468368:dcbc6 (bool) status: TRUE if an error has occurred.
+468793:e3cb9 (bool) status: TRUE if an error has occurred.
+468799:e3df4 xt(bool) status: TRUE if an error has occurred. Regardless of the value of status, this VI clears the input operation.
+468802:e40b5 (bool) status: TRUE if an error has occurred.
+468808:e41f0 1-(bool) status: TRUE if an error has occurred.
+469232:eb9cf (bool) status: TRUE if an error has occurred.
+469238:ebb0a xt(bool) status: TRUE if an error has occurred. Regardless of the value of status, this VI clears the input operation.
+469242:ebf13 (bool) status: TRUE if an error has occurred.
+469248:ec04e 1-(bool) status: TRUE if an error has occurred.
+478224:1e481 status is a Boolean array in which each bit describes a state of the GPIB Controller. If an error occurs, the GPIB VIs set bit 15. GPIB error is valid only if bit 15 of status is set.
+479079:2cca0 status is a Boolean array in which each bit describes a state of the GPIB Controller. If an error occurs, the GPIB VIs set bit 15. GPIB error is valid only if bit 15 of status is set.
+480962:47276 (bool) status: TRUE if an error has occurred.
+480968:473b0 1-(bool) status: TRUE if an error has occurred."
+481146:49413 (bool) status: TRUE if an error has occurred.
+481153:49578 ZV(bool) status: TRUE if an error has occurred. If status is TRUE, this VI does nothing."
+481579:5113b (bool) status: TRUE if an error has occurred.
+481592:51476 (bool) status: TRUE if an error has occurred.
+482770:5f58c (bool) status: TRUE if an error has occurred.
+482783:5f8c7 (bool) status: TRUE if an error has occurred.
+484095:760e5 (bool) status: TRUE if an error has occurred.
+484101:7621f [W(string) source: an indication of where an error occurred, usually the name of the VI.1-(bool) status: TRUE if an error has occurred."
+484111:7658b (bool) status: TRUE if an error has occurred.
+484118:766f0 ZV(bool) status: TRUE if an error has occurred. If status is TRUE, this VI does nothing."
+486737:9b0df (bool) status: TRUE if an error has occurred.
+486743:9b219 [W(string) source: an indication of where an error occurred, usually the name of the VI.1-(bool) status: TRUE if an error has occurred."
+486751:9b483 (bool) status: TRUE if an error has occurred.

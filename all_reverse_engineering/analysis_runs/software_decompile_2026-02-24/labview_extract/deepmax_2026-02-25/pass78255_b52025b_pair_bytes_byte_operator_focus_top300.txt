@@ -1,0 +1,300 @@
+38558:5be83 PCRevBytes
+46266:159d12 Unable to start the application because you do not have at least %ld bytes of memory available.
+49872:1793f8 Abort if less than (KBytes):
+52692:1c0ca5 Bytes At Serial Port.vi
+54273:1e0758 pos offset (bytes:0)*
+54274:1e0773 pos offset (bytes:0).
+54437:1e3908 pos offset (bytes:0)
+54472:1e3acd pos offset (bytes:0)
+54473:1e3ae5 pos offset (bytes:0)
+54474:1e3afd pos offset (bytes:0)
+54475:1e3b15 pos offset (bytes:0)
+54476:1e3b2d pos offset (bytes:0)
+54551:1e4aef pos offset (bytes:0)
+54570:1e4c4f pos offset (bytes:0) 0@
+54576:1e4cf1 pos offset (bytes:0)'
+54595:1e4ed1 pos offset (bytes:0)
+55723:1f85e5 Transfers the specified number of data bytes from a Message-Based device into a specified local memory buffer, using the VXIbus Byte Transfer Protocol.$
+55949:1fb703 Transfers the specified number of data bytes from a specified local memory buffer to a Message-Based device, using the VXIbus Byte Transfer Protocol.$
+57231:212a20 status[15]- GPIB error detectedA=data string contains count data bytes from the GPIB device.
+62461:25a870 Transfers the specified number of data bytes from a specified local memory buffer to a device, using either the VXIbus Byte Transfer Protocol (in the case of VXIbus message-based devices), or IEEE 488.2 bus Protocol (in the case of GPIB devices).$
+75984:32769a Bytes At Serial Port.vi{
+75988:3277d1 Bytes At Serial Port.vi
+75990:327803 Bytes At Serial Port.vi
+75999:32789a Bytes At Serial Port.vi
+76020:327aa9 Bytes At Serial Port.vi
+76065:327dcf Bytes At Serial Port.vi
+76066:327de7 Bytes At Serial Port.vi
+76067:327dff Bytes At Serial Port.vi
+76068:327e17 Bytes At Serial Port.vi
+76069:327e2f Bytes At Serial Port.vi
+76070:327e47 Bytes At Serial Port.vi
+76071:327e5f Bytes At Serial Port.vi
+76072:327e77 Bytes At Serial Port.vi
+76073:327e8f Bytes At Serial Port.vi
+76074:327ea7 Bytes At Serial Port.vi
+76075:327ebf Bytes At Serial Port.vi
+76076:327ed7 Bytes At Serial Port.vi
+76077:327eef Bytes At Serial Port.vi
+76078:327f07 Bytes At Serial Port.vi
+76079:327f1f Bytes At Serial Port.vi
+76080:327f37 Bytes At Serial Port.vi
+76273:32c82f Bytes At Serial Port.vik
+76289:32c98b Bytes At Serial Port.vi
+76302:32ca49 Bytes At Serial Port.vi
+76373:32d3e9 Bytes At Serial Port.vi
+76377:32d43f Bytes At Serial Port.vir
+76697:333823 Bytes At Serial Port.vi_
+76709:3339df Bytes At Serial Port.vi
+76722:333aa4 Bytes At Serial Port.vi
+76783:334361 Bytes At Serial Port.vi
+76787:3343b7 Bytes At Serial Port.vi
+77820:344530 Bytes At Serial Port.viMD
+77835:34467a Bytes At Serial Port.vi
+77851:34476f Bytes At Serial Port.vi
+77928:3451e1 Bytes At Serial Port.vi
+77932:345237 Bytes At Serial Port.vi
+101051:4ab05f pos offset (bytes:0)*
+101052:4ab07a pos offset (bytes:0)(
+101313:4af22c pos offset (bytes:0)
+101353:4af485 pos offset (bytes:0)
+101354:4af49d pos offset (bytes:0)
+101355:4af4b5 pos offset (bytes:0)
+101356:4af4cd pos offset (bytes:0)
+101357:4af4e5 pos offset (bytes:0)
+101461:4b087a pos offset (bytes:0)
+101483:4b0a05 pos offset (bytes:0) 0@
+101494:4b0b22 pos offset (bytes:0)
+101512:4b0cb3 pos offset (bytes:0)
+102515:4ce745 GPIB SPTMO: Serial port timeout; bytes not received at serial port.
+102740:4d3ebe pos offset (bytes:0)
+102797:4d4437 pos offset (bytes:0).
+102950:4d607c pos offset (bytes:0)
+103098:4d71fb pos offset (bytes:0)
+111777:565068 yustart of read offset is the position in the file, measured in characters (or bytes), at which the VI begins reading.
+111913:5674a9 pos offset (bytes:0)
+111962:5678bd pos offset (bytes:0)
+112000:567dd6 pos offset (bytes:0)
+112018:567f09 pos offset (bytes:0)
+112347:56c4a9 start of read offset is the position in the file, measured in characters (or bytes), at which the VI begins reading.
+112706:56e18e pos offset (bytes:0)
+120205:5ed440 Bytes At Serial Port.vi
+224566:20238 pos offset (bytes:0)*
+224567:20253 pos offset (bytes:0).
+224730:233e8 pos offset (bytes:0)
+224765:235ad pos offset (bytes:0)
+224766:235c5 pos offset (bytes:0)
+224767:235dd pos offset (bytes:0)
+224768:235f5 pos offset (bytes:0)
+224769:2360d pos offset (bytes:0)
+224844:245cf pos offset (bytes:0)
+224863:2472f pos offset (bytes:0) 0@
+224869:247d1 pos offset (bytes:0)'
+224888:249b1 pos offset (bytes:0)
+224949:25023 pos offset (bytes:0)
+226082:38f25 Transfers the specified number of data bytes from a Message-Based device into a specified local memory buffer, using the VXIbus Byte Transfer Protocol.$
+226187:39c0c Transfers the specified number of data bytes from a Message-Based device into a specified local memory buffer, using the VXIbus Byte Transfer Protocol.
+226313:3c1cb Transfers the specified number of data bytes from a specified local memory buffer to a Message-Based device, using the VXIbus Byte Transfer Protocol.$
+226408:3ce38 Transfers the specified number of data bytes from a specified local memory buffer to a Message-Based device, using the VXIbus Byte Transfer Protocol.
+227622:53a78 status[15]- GPIB error detectedA=data string contains count data bytes from the GPIB device.
+232964:9cc2c Transfers the specified number of data bytes from a specified local memory buffer to a device, using either the VXIbus Byte Transfer Protocol (in the case of VXIbus message-based devices), or IEEE 488.2 bus Protocol (in the case of GPIB devices).$
+233228:9ec1c Transfers the specified number of data bytes from a specified local memory buffer to a device, using either the VXIbus Byte Transfer Protocol (in the case of VXIbus message-based devices), or IEEE 488.2 bus Protocol (in the case of GPIB devices).
+246168:162e47 Bytes At Serial Port.vi
+246310:16613e Bytes At Serial Port.vi{
+246314:166275 Bytes At Serial Port.vi
+246316:1662a7 Bytes At Serial Port.vi
+246325:16633e Bytes At Serial Port.vi
+246346:16654d Bytes At Serial Port.vi
+246391:166873 Bytes At Serial Port.vi
+246392:16688b Bytes At Serial Port.vi
+246393:1668a3 Bytes At Serial Port.vi
+246394:1668bb Bytes At Serial Port.vi
+246395:1668d3 Bytes At Serial Port.vi
+246396:1668eb Bytes At Serial Port.vi
+246397:166903 Bytes At Serial Port.vi
+246398:16691b Bytes At Serial Port.vi
+246399:166933 Bytes At Serial Port.vi
+246400:16694b Bytes At Serial Port.vi
+246401:166963 Bytes At Serial Port.vi
+246402:16697b Bytes At Serial Port.vi
+246403:166993 Bytes At Serial Port.vi
+246404:1669ab Bytes At Serial Port.vi
+246405:1669c3 Bytes At Serial Port.vi
+246406:1669db Bytes At Serial Port.vi
+246608:16b45b Bytes At Serial Port.vik
+246624:16b5b7 Bytes At Serial Port.vi
+246637:16b675 Bytes At Serial Port.vi
+246708:16c015 Bytes At Serial Port.vi
+246712:16c06b Bytes At Serial Port.vir
+247041:17257b Bytes At Serial Port.vi_
+247053:172737 Bytes At Serial Port.vi
+247066:1727fc Bytes At Serial Port.vi
+247127:1730b9 Bytes At Serial Port.vi
+247131:17310f Bytes At Serial Port.vi
+248200:18364c Bytes At Serial Port.viMD
+248215:183796 Bytes At Serial Port.vi
+248231:18388b Bytes At Serial Port.vi
+248308:1842fd Bytes At Serial Port.vi
+248312:184353 Bytes At Serial Port.vi
+259373:2201f3 pos offset (bytes:0)
+259448:22310f pos offset (bytes:0)*
+259449:22312a pos offset (bytes:0)(
+259710:2272dc pos offset (bytes:0)
+259750:227535 pos offset (bytes:0)
+259751:22754d pos offset (bytes:0)
+259752:227565 pos offset (bytes:0)
+259753:22757d pos offset (bytes:0)
+259754:227595 pos offset (bytes:0)
+259858:22892a pos offset (bytes:0)
+259880:228ab5 pos offset (bytes:0) 0@
+259891:228bd2 pos offset (bytes:0)
+259909:228d63 pos offset (bytes:0)
+260948:24731d GPIB SPTMO: Serial port timeout; bytes not received at serial port.
+261179:24ce1e pos offset (bytes:0)
+261236:24d397 pos offset (bytes:0).
+261389:24efdc pos offset (bytes:0)
+261537:25015b pos offset (bytes:0)
+270306:2df7bc yustart of read offset is the position in the file, measured in characters (or bytes), at which the VI begins reading.
+270442:2e1bfd pos offset (bytes:0)
+270491:2e2011 pos offset (bytes:0)
+270529:2e252a pos offset (bytes:0)
+270547:2e265d pos offset (bytes:0)
+270876:2e6bfd start of read offset is the position in the file, measured in characters (or bytes), at which the VI begins reading.
+271235:2e88e2 pos offset (bytes:0)
+271323:2e9400 start of read offset is the position in the file, measured in characters (or bytes), at which the VI begins reading.
+291571:443051 Bytes At Serial Port.vi
+291929:447309 Bytes At Serial Port.vi
+291930:447321 Bytes At Serial Port.vi
+291931:447339 Bytes At Serial Port.vi
+291932:447351 Bytes At Serial Port.vi
+291933:447369 Bytes At Serial Port.vi
+292558:628e Transfers the specified number of data bytes from a Message-Based device into a specified local memory buffer, using the VXIbus Byte Transfer Protocol.$
+292664:6fdc Transfers the specified number of data bytes from a Message-Based device into a specified local memory buffer, using the VXIbus Byte Transfer Protocol.
+292789:959a Transfers the specified number of data bytes from a specified local memory buffer to a Message-Based device, using the VXIbus Byte Transfer Protocol.$
+292880:a208 Transfers the specified number of data bytes from a specified local memory buffer to a Message-Based device, using the VXIbus Byte Transfer Protocol.
+294105:20e09 status[15]- GPIB error detectedA=data string contains count data bytes from the GPIB device.
+299507:69ee2 Transfers the specified number of data bytes from a specified local memory buffer to a device, using either the VXIbus Byte Transfer Protocol (in the case of VXIbus message-based devices), or IEEE 488.2 bus Protocol (in the case of GPIB devices).$
+299776:6bea8 Transfers the specified number of data bytes from a specified local memory buffer to a device, using either the VXIbus Byte Transfer Protocol (in the case of VXIbus message-based devices), or IEEE 488.2 bus Protocol (in the case of GPIB devices).
+308388:ec437 Bytes At Serial Port.vi
+308527:ef728 Bytes At Serial Port.vi{
+308531:ef858 Bytes At Serial Port.vi
+308533:ef889 Bytes At Serial Port.vi
+308542:ef91d Bytes At Serial Port.vi
+308563:efb2a Bytes At Serial Port.vi
+308607:efe57 Bytes At Serial Port.vi
+308608:efe6f Bytes At Serial Port.vi
+308609:efe87 Bytes At Serial Port.vi
+308610:efe9f Bytes At Serial Port.vi
+308611:efeb7 Bytes At Serial Port.vi
+308612:efecf Bytes At Serial Port.vi
+308613:efee7 Bytes At Serial Port.vi
+308614:efeff Bytes At Serial Port.vi
+308615:eff17 Bytes At Serial Port.vi
+308616:eff2f Bytes At Serial Port.vi
+308617:eff47 Bytes At Serial Port.vi
+308618:eff5f Bytes At Serial Port.vi
+308619:eff77 Bytes At Serial Port.vi
+308620:eff8f Bytes At Serial Port.vi
+308621:effa7 Bytes At Serial Port.vi
+308622:effbf Bytes At Serial Port.vi
+308823:f4a2c Bytes At Serial Port.vik
+308840:f4b81 Bytes At Serial Port.vi
+308853:f4c3c Bytes At Serial Port.vi
+308924:f55db Bytes At Serial Port.vi
+308928:f5631 Bytes At Serial Port.viP
+309264:fbb37 Bytes At Serial Port.vi_
+309277:fbce4 Bytes At Serial Port.vi
+309290:fbda6 Bytes At Serial Port.vi
+309351:fc661 Bytes At Serial Port.vi
+309355:fc6b7 Bytes At Serial Port.viD
+310420:10cbd3 Bytes At Serial Port.viMD
+310435:10cd15 Bytes At Serial Port.vi
+310451:10ce07 Bytes At Serial Port.vi
+310528:10d875 Bytes At Serial Port.vi
+310532:10d8cb Bytes At Serial Port.vi
+314956:164eee GPIB SPTMO: Serial port timeout; bytes not received at serial port.
+323990:1f47ad Bytes At Serial Port.vi
+324231:1f744d Bytes At Serial Port.vi
+324232:1f7465 Bytes At Serial Port.vi
+324233:1f747d Bytes At Serial Port.vi
+324234:1f7495 Bytes At Serial Port.vi
+324235:1f74ad Bytes At Serial Port.vi
+324536:2ce4 Transfers the specified number of data bytes from a Message-Based device into a specified local memory buffer, using the VXIbus Byte Transfer Protocol.
+324683:569f Transfers the specified number of data bytes from a Message-Based device into a specified local memory buffer, using the VXIbus Byte Transfer Protocol.$
+324790:6470 Transfers the specified number of data bytes from a specified local memory buffer to a Message-Based device, using the VXIbus Byte Transfer Protocol.
+324915:893f Transfers the specified number of data bytes from a specified local memory buffer to a Message-Based device, using the VXIbus Byte Transfer Protocol.$
+326272:20101 status[15]- GPIB error detectedA=data string contains count data bytes from the GPIB device.
+330868:5d688 Transfers the specified number of data bytes from a specified local memory buffer to a device, using either the VXIbus Byte Transfer Protocol (in the case of VXIbus message-based devices), or IEEE 488.2 bus Protocol (in the case of GPIB devices).
+331771:6922a Transfers the specified number of data bytes from a specified local memory buffer to a device, using either the VXIbus Byte Transfer Protocol (in the case of VXIbus message-based devices), or IEEE 488.2 bus Protocol (in the case of GPIB devices).$
+341433:1044be GPIB SPTMO: Serial port timeout; bytes not received at serial port.
+347527:41e5 Transfers the specified number of data bytes from a Message-Based device into a specified local memory buffer, using the VXIbus Byte Transfer Protocol.$
+347632:4ecc Transfers the specified number of data bytes from a Message-Based device into a specified local memory buffer, using the VXIbus Byte Transfer Protocol.
+347758:748b Transfers the specified number of data bytes from a specified local memory buffer to a Message-Based device, using the VXIbus Byte Transfer Protocol.$
+347853:80f8 Transfers the specified number of data bytes from a specified local memory buffer to a Message-Based device, using the VXIbus Byte Transfer Protocol.
+349067:1ed38 status[15]- GPIB error detectedA=data string contains count data bytes from the GPIB device.
+354409:67eec Transfers the specified number of data bytes from a specified local memory buffer to a device, using either the VXIbus Byte Transfer Protocol (in the case of VXIbus message-based devices), or IEEE 488.2 bus Protocol (in the case of GPIB devices).$
+354673:69edc Transfers the specified number of data bytes from a specified local memory buffer to a device, using either the VXIbus Byte Transfer Protocol (in the case of VXIbus message-based devices), or IEEE 488.2 bus Protocol (in the case of GPIB devices).
+360270:bd1f3 Bytes At Serial Port.vi
+361877:d8aef Bytes At Serial Port.vi
+366265:12c7f1 pos offset (bytes:0)
+366633:13086f start of read offset is the position in the file, measured in characters (or bytes), at which the VI begins reading.
+366639:130b9d yustart of read offset is the position in the file, measured in characters (or bytes), at which the VI begins reading.
+366679:1314ba pos offset (bytes:0).
+366698:131603 pos offset (bytes:0)
+368825:151457 pos offset (bytes:0)
+370234:166796 pos offset (bytes:0)
+370432:168683 pos offset (bytes:0)
+370508:169464 pos offset (bytes:0)
+370551:16978e pos offset (bytes:0).
+371386:180d3f GPIB SPTMO: Serial port timeout; bytes not received at serial port.
+372245:192048 pos offset (bytes:0)
+372261:19229f pos offset (bytes:0)
+372300:19270f pos offset (bytes:0)(@
+372327:192a85 pos offset (bytes:0)
+372386:193df1 pos offset (bytes:0)(
+372404:193fd5 pos offset (bytes:0)M
+392547:2ee1e3 pos offset (bytes:0)
+394307:30f277 Bytes At Serial Port.vi
+394311:30f2ce Bytes At Serial Port.vi
+394590:312280 Bytes At Serial Port.vi
+394694:313153 Bytes At Serial Port.viMD
+394716:313936 Bytes At Serial Port.vi
+395577:321f4a Bytes At Serial Port.vi
+395581:321fa1 Bytes At Serial Port.vi
+395810:324793 Bytes At Serial Port.vi
+395887:325351 Bytes At Serial Port.vi_
+395915:325f72 Bytes At Serial Port.vi
+396044:3295b5 Bytes At Serial Port.vi
+396048:32960c Bytes At Serial Port.vi
+396244:32b69c Bytes At Serial Port.vi
+396322:32c303 Bytes At Serial Port.vik
+396351:32cdc2 Bytes At Serial Port.vi
+396430:32f0c3 Bytes At Serial Port.vi{
+396433:32f193 Bytes At Serial Port.vi
+396582:3309ab Bytes At Serial Port.vi
+396640:3312fb Bytes At Serial Port.vi
+396649:33167f Bytes At Serial Port.vi
+396716:33254d Bytes At Serial Port.vi
+404098:3a6a04 start of read offset is the position in the file, measured in characters (or bytes), at which the VI begins reading.
+405208:3b948b pos offset (bytes:0)
+405224:3b96e0 pos offset (bytes:0)
+405249:3b99ed pos offset (bytes:0)(@
+405273:3b9d19 pos offset (bytes:0)
+405322:3bacd4 pos offset (bytes:0).
+405342:3baf0b pos offset (bytes:0)M
+416838:47edb9 Bytes At Serial Port.vi
+417093:48274d Bytes At Serial Port.vi
+417245:4830ed Bytes At Serial Port.vi
+417246:483105 Bytes At Serial Port.vi
+417247:48311d Bytes At Serial Port.vi
+417248:483135 Bytes At Serial Port.vi
+418187:4102 Transfers the specified number of data bytes from a Message-Based device into a specified local memory buffer, using the VXIbus Byte Transfer Protocol.$
+418293:4e50 Transfers the specified number of data bytes from a Message-Based device into a specified local memory buffer, using the VXIbus Byte Transfer Protocol.
+418418:740e Transfers the specified number of data bytes from a specified local memory buffer to a Message-Based device, using the VXIbus Byte Transfer Protocol.$
+418509:807c Transfers the specified number of data bytes from a specified local memory buffer to a Message-Based device, using the VXIbus Byte Transfer Protocol.
+419734:1ec7d status[15]- GPIB error detectedA=data string contains count data bytes from the GPIB device.
+425136:67d56 Transfers the specified number of data bytes from a specified local memory buffer to a device, using either the VXIbus Byte Transfer Protocol (in the case of VXIbus message-based devices), or IEEE 488.2 bus Protocol (in the case of GPIB devices).$
+425405:69d1c Transfers the specified number of data bytes from a specified local memory buffer to a device, using either the VXIbus Byte Transfer Protocol (in the case of VXIbus message-based devices), or IEEE 488.2 bus Protocol (in the case of GPIB devices).
+431066:bce57 Bytes At Serial Port.vi
+431820:c8ed7 Bytes At Serial Port.vi
+434087:f4962 GPIB SPTMO: Serial port timeout; bytes not received at serial port.

@@ -1,0 +1,61 @@
+36885:126e6 GetFileResource
+36886:12708 GetFileResourceSize
+47399:160922 JExecutable version doesn't match resource file.  Check your configuration.
+47401:160977 Init tmp resource files
+47415:160a4e error %lx creating temporary resource file
+47416:160a79 error %lx creating temporary LVSB resource file
+48026:1639e9 Couldn't get resource named %p from file %p
+51094:18c9e9 Resource file not found
+52005:1b8aaa Resource file not found.
+52224:1ba400 Choose a code resource .c file:
+52225:1ba420 Choose a code resource file:
+52398:1bbe82 Opening old resource file.
+52427:1bc7be Can't allocate new path.$Can't open VI library resource file."Can't remove file from VI library.%Can't open file system resource file.
+52430:1bc8c1 Can't find file in VI library. Can't get palette menu resource."Palette position already occupied.
+53086:1cc8e7 Resource File Not Found
+53130:1ccc12 Resource File Not Found
+53174:1ccf3d Resource File Not Found
+53218:1cd268 Resource File Not Found
+53262:1cd58b Resource File Not Found
+99561:492a6b Resource File Not Found
+99605:492d96 Resource File Not Found
+101095:4ab9c0 Resource File Not Found
+102476:4cdc93 GPIB EFSO:  File system operation error.PLabVIEW:  Resource file not found.
+223343:b513 Resource File Not Found
+223387:b83e Resource File Not Found
+223431:bb69 Resource File Not Found
+223475:be94 Resource File Not Found
+223519:c1b7 Resource File Not Found
+257891:209397 Resource File Not Found
+257935:2096c2 Resource File Not Found
+259492:223a70 Resource File Not Found
+260909:24686b GPIB EFSO:  File system operation error.PLabVIEW:  Resource file not found.
+314917:16443c GPIB EFSO:  File system operation error.PLabVIEW:  Resource file not found.
+341394:103a0c GPIB EFSO:  File system operation error.PLabVIEW:  Resource file not found.
+371347:18028d GPIB EFSO:  File system operation error.PLabVIEW:  Resource file not found.
+372461:1946f4 Resource File Not Found
+374161:1af466 Resource File Not Found
+374205:1af791 Resource File Not Found
+406371:3ce5e1 Resource File Not Found
+406415:3ce90c Resource File Not Found
+406459:3cec37 Resource File Not Found
+406503:3cef62 Resource File Not Found
+406547:3cf285 Resource File Not Found
+434048:f3eb0 GPIB EFSO:  File system operation error.PLabVIEW:  Resource file not found.
+470027:103431 GPIB EFSO:  File system operation error.PLabVIEW:  Resource file not found.
+503857:1e122e GPIB EFSO:  File system operation error.PLabVIEW:  Resource file not found.
+504850:1f4519 Resource File Not Found
+505990:209206 Resource File Not Found
+506034:209531 Resource File Not Found
+528348:3ca213 Resource File Not Found
+528392:3ca53e Resource File Not Found
+528436:3ca869 Resource File Not Found
+528480:3cab94 Resource File Not Found
+528524:3caeb7 Resource File Not Found
+546423:f2dc0 GPIB EFSO:  File system operation error.PLabVIEW:  Resource file not found.
+579276:1650f2 GPIB EFSO:  File system operation error.PLabVIEW:  Resource file not found.
+596013:e442f Resource File Not Found
+596057:e475a Resource File Not Found
+596101:e4a85 Resource File Not Found
+596145:e4db0 Resource File Not Found
+596189:e50d3 Resource File Not Found

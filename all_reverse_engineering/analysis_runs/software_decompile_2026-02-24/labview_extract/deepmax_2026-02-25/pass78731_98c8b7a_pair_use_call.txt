@@ -1,0 +1,63 @@
+46412:15ae87 useAsyncDeviceCalls
+70474:2d18c5 (u32) task ID: uniquely identifies the group. You use this value as the task ID to refer to this group in subsequent digital port VI calls.
+101577:4b6de4 displays a dialog box with buttons allowing the user to either continue or stop. If the user cancels, the VI calls the Stop function to halt execution. 
+103420:4dc91f Most applications need only connect wires to the controls and indicators displayed in bold.  Connections to other controls and indicators are useful only if specifically needed.
+103842:4e2b1f Most applications need only connect wires to the controls and indicators displayed in bold.  Connections to other controls and indicators are useful only if specifically needed.
+241107:1154d5 (u32) task ID: uniquely identifies the group. You use this value as the task ID to refer to this group in subsequent digital port VI calls.
+260010:22f9bc displays a dialog box with buttons allowing the user to either continue or stop. If the user cancels, the VI calls the Stop function to halt execution. 
+261870:255d43 Most applications need only connect wires to the controls and indicators displayed in bold.  Connections to other controls and indicators are useful only if specifically needed.
+262038:256ef4 Most applications need only connect wires to the controls and indicators displayed in bold.  Connections to other controls and indicators are useful only if specifically needed.
+262303:25c373 Most applications need only connect wires to the controls and indicators displayed in bold.  Connections to other controls and indicators are useful only if specifically needed.
+262468:25d510 Most applications need only connect wires to the controls and indicators displayed in bold.  Connections to other controls and indicators are useful only if specifically needed.
+313553:141c4e (u32) task ID: uniquely identifies the group. You use this value as the task ID to refer to this group in subsequent digital port VI calls.
+313998:14d5d9 displays a dialog box with buttons allowing the user to either continue or stop. If the user cancels, the VI calls the Stop function to halt execution. 
+315372:16d322 Most applications need only connect wires to the controls and indicators displayed in bold.  Connections to other controls and indicators are useful only if specifically needed.
+315538:16e4c8 Most applications need only connect wires to the controls and indicators displayed in bold.  Connections to other controls and indicators are useful only if specifically needed.
+315802:173943 Most applications need only connect wires to the controls and indicators displayed in bold.  Connections to other controls and indicators are useful only if specifically needed.
+315968:174ad8 Most applications need only connect wires to the controls and indicators displayed in bold.  Connections to other controls and indicators are useful only if specifically needed.
+340031:e1176 (u32) task ID: uniquely identifies the group. You use this value as the task ID to refer to this group in subsequent digital port VI calls.
+340481:ecbbc displays a dialog box with buttons allowing the user to either continue or stop. If the user cancels, the VI calls the Stop function to halt execution. 
+341594:1074e8 Most applications need only connect wires to the controls and indicators displayed in bold.  Connections to other controls and indicators are useful only if specifically needed.
+341858:10c9af Most applications need only connect wires to the controls and indicators displayed in bold.  Connections to other controls and indicators are useful only if specifically needed.
+342024:10db54 Most applications need only connect wires to the controls and indicators displayed in bold.  Connections to other controls and indicators are useful only if specifically needed.
+342286:112fdf Most applications need only connect wires to the controls and indicators displayed in bold.  Connections to other controls and indicators are useful only if specifically needed.
+369531:15b4a6 Most applications need only connect wires to the controls and indicators displayed in bold.  Connections to other controls and indicators are useful only if specifically needed.
+369991:1620e9 Most applications need only connect wires to the controls and indicators displayed in bold.  Connections to other controls and indicators are useful only if specifically needed.
+371455:183787 displays a dialog box with buttons allowing the user to either continue or stop. If the user cancels, the VI calls the Stop function to halt execution. 
+402190:387de7 (u32) task ID: uniquely identifies the group. You use this value as the task ID to refer to this group in subsequent digital port VI calls.
+404064:3a5de0 Most applications need only connect wires to the controls and indicators displayed in bold.  Connections to other controls and indicators are useful only if specifically needed.
+404069:3a60e8 Most applications need only connect wires to the controls and indicators displayed in bold.  Connections to other controls and indicators are useful only if specifically needed.
+432775:d5807 Most applications need only connect wires to the controls and indicators displayed in bold.  Connections to other controls and indicators are useful only if specifically needed.
+433233:dc446 Most applications need only connect wires to the controls and indicators displayed in bold.  Connections to other controls and indicators are useful only if specifically needed.
+434156:f73aa displays a dialog box with buttons allowing the user to either continue or stop. If the user cancels, the VI calls the Stop function to halt execution. 
+434963:1063c5 (u32) task ID: uniquely identifies the group. You use this value as the task ID to refer to this group in subsequent digital port VI calls.
+443013:185d58 Most applications need only connect wires to the controls and indicators displayed in bold.  Connections to other controls and indicators are useful only if specifically needed.
+443018:186060 Most applications need only connect wires to the controls and indicators displayed in bold.  Connections to other controls and indicators are useful only if specifically needed.
+467308:cca18 Most applications need only connect wires to the controls and indicators displayed in bold.  Connections to other controls and indicators are useful only if specifically needed.
+467313:ccd38 Most applications need only connect wires to the controls and indicators displayed in bold.  Connections to other controls and indicators are useful only if specifically needed.
+469230:eb878 (u32) task ID: uniquely identifies the group. You use this value as the task ID to refer to this group in subsequent digital port VI calls.
+470135:10692b displays a dialog box with buttons allowing the user to either continue or stop. If the user cancels, the VI calls the Stop function to halt execution. 
+470941:11457c Most applications need only connect wires to the controls and indicators displayed in bold.  Connections to other controls and indicators are useful only if specifically needed.
+471408:11b14c Most applications need only connect wires to the controls and indicators displayed in bold.  Connections to other controls and indicators are useful only if specifically needed.
+502655:1c2c27 Most applications need only connect wires to the controls and indicators displayed in bold.  Connections to other controls and indicators are useful only if specifically needed.
+502993:1c88aa Most applications need only connect wires to the controls and indicators displayed in bold.  Connections to other controls and indicators are useful only if specifically needed.
+504205:1e9baa displays a dialog box with buttons allowing the user to either continue or stop. If the user cancels, the VI calls the Stop function to halt execution. 
+525022:38882a (u32) task ID: uniquely identifies the group. You use this value as the task ID to refer to this group in subsequent digital port VI calls.
+527401:3b4a2c Most applications need only connect wires to the controls and indicators displayed in bold.  Connections to other controls and indicators are useful only if specifically needed.
+527406:3b4d34 Most applications need only connect wires to the controls and indicators displayed in bold.  Connections to other controls and indicators are useful only if specifically needed.
+545150:d4717 Most applications need only connect wires to the controls and indicators displayed in bold.  Connections to other controls and indicators are useful only if specifically needed.
+545608:db356 Most applications need only connect wires to the controls and indicators displayed in bold.  Connections to other controls and indicators are useful only if specifically needed.
+546531:f62ba displays a dialog box with buttons allowing the user to either continue or stop. If the user cancels, the VI calls the Stop function to halt execution. 
+547338:1052d5 (u32) task ID: uniquely identifies the group. You use this value as the task ID to refer to this group in subsequent digital port VI calls.
+548942:121d4c Most applications need only connect wires to the controls and indicators displayed in bold.  Connections to other controls and indicators are useful only if specifically needed.
+548947:122054 Most applications need only connect wires to the controls and indicators displayed in bold.  Connections to other controls and indicators are useful only if specifically needed.
+577716:13c230 Most applications need only connect wires to the controls and indicators displayed in bold.  Connections to other controls and indicators are useful only if specifically needed.
+577721:13c550 Most applications need only connect wires to the controls and indicators displayed in bold.  Connections to other controls and indicators are useful only if specifically needed.
+578951:154b15 (u32) task ID: uniquely identifies the group. You use this value as the task ID to refer to this group in subsequent digital port VI calls.
+579624:16da6d displays a dialog box with buttons allowing the user to either continue or stop. If the user cancels, the VI calls the Stop function to halt execution. 
+580185:176920 Most applications need only connect wires to the controls and indicators displayed in bold.  Connections to other controls and indicators are useful only if specifically needed.
+580538:17be24 Most applications need only connect wires to the controls and indicators displayed in bold.  Connections to other controls and indicators are useful only if specifically needed.
+596800:f5c8c Most applications need only connect wires to the controls and indicators displayed in bold.  Connections to other controls and indicators are useful only if specifically needed.
+596805:f5f94 Most applications need only connect wires to the controls and indicators displayed in bold.  Connections to other controls and indicators are useful only if specifically needed.
+608560:1b8f04 Most applications need only connect wires to the controls and indicators displayed in bold.  Connections to other controls and indicators are useful only if specifically needed.
+608683:1baf60 Most applications need only connect wires to the controls and indicators displayed in bold.  Connections to other controls and indicators are useful only if specifically needed.

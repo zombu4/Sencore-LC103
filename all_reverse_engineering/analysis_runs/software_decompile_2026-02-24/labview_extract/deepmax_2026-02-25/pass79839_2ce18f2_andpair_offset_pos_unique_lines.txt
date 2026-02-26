@@ -1,0 +1,268 @@
+54229:1df9fb pos mode specifies where the write begins relative to pos offset:
+54230:1dfa41 Beginning of the file plus pos offset.
+54231:1dfa6c End of the file plus pos offset. This is the default value.
+54232:1dfaac Current file mark plus pos offset.
+54233:1dfad1 pos offset specifies in characters how far from the location specified by pos mode that the operation begins. The default value is 0.
+54273:1e0758 pos offset (bytes:0)*
+54274:1e0773 pos offset (bytes:0).
+54437:1e3908 pos offset (bytes:0)
+54472:1e3acd pos offset (bytes:0)
+54473:1e3ae5 pos offset (bytes:0)
+54474:1e3afd pos offset (bytes:0)
+54475:1e3b15 pos offset (bytes:0)
+54476:1e3b2d pos offset (bytes:0)
+54496:1e3eb3 pos mode specifies where the write begins relative to pos offset:
+54497:1e3efa at the beginning of the file plus pos offset.
+54498:1e3f2d at the end of the file plus pos offset. This is the default value.
+54499:1e3f76 at the current file mark plus pos offset.
+54500:1e3fa1 pos offset specifies in characters how far from the location specified by pos mode that the operation begins. The default value is 0.
+54551:1e4aef pos offset (bytes:0)
+54570:1e4c4f pos offset (bytes:0) 0@
+54576:1e4cf1 pos offset (bytes:0)'
+54595:1e4ed1 pos offset (bytes:0)
+100991:4a9e1c pos offset specifies in characters how far from the location specified by pos mode that the operation begins. The default value is 0.
+100998:4a9fd8 pos mode specifies where the reads begins relative to pos offset:
+100999:4aa01e Beginning of the file plus pos offset.
+101000:4aa049 End of the file plus pos offset.
+101001:4aa06e Current file mark plus pos offset. This is the default value.
+101051:4ab05f pos offset (bytes:0)*
+101052:4ab07a pos offset (bytes:0)(
+101313:4af22c pos offset (bytes:0)
+101353:4af485 pos offset (bytes:0)
+101354:4af49d pos offset (bytes:0)
+101355:4af4b5 pos offset (bytes:0)
+101356:4af4cd pos offset (bytes:0)
+101357:4af4e5 pos offset (bytes:0)
+101390:4af8e3 pos mode specifies where the reads begins relative to pos offset:
+101391:4af92a at the beginning of the file plus pos offset.
+101392:4af95d at the end of the file plus pos offset.
+101393:4af98a at the current file mark plus pos offset. This is the default value.
+101394:4af9d1 pos offset specifies in characters how far from the location specified by pos mode that the operation begins. The default value is 0.
+101461:4b087a pos offset (bytes:0)
+101483:4b0a05 pos offset (bytes:0) 0@
+101494:4b0b22 pos offset (bytes:0)
+101512:4b0cb3 pos offset (bytes:0)
+102740:4d3ebe pos offset (bytes:0)
+102797:4d4437 pos offset (bytes:0).
+102950:4d607c pos offset (bytes:0)
+103098:4d71fb pos offset (bytes:0)
+111777:565068 yustart of read offset is the position in the file, measured in characters (or bytes), at which the VI begins reading.
+111913:5674a9 pos offset (bytes:0)
+111962:5678bd pos offset (bytes:0)
+112000:567dd6 pos offset (bytes:0)
+112018:567f09 pos offset (bytes:0)
+112347:56c4a9 start of read offset is the position in the file, measured in characters (or bytes), at which the VI begins reading.
+112706:56e18e pos offset (bytes:0)
+224522:1f4db pos mode specifies where the write begins relative to pos offset:
+224523:1f521 Beginning of the file plus pos offset.
+224524:1f54c End of the file plus pos offset. This is the default value.
+224525:1f58c Current file mark plus pos offset.
+224526:1f5b1 pos offset specifies in characters how far from the location specified by pos mode that the operation begins. The default value is 0.
+224566:20238 pos offset (bytes:0)*
+224567:20253 pos offset (bytes:0).
+224730:233e8 pos offset (bytes:0)
+224765:235ad pos offset (bytes:0)
+224766:235c5 pos offset (bytes:0)
+224767:235dd pos offset (bytes:0)
+224768:235f5 pos offset (bytes:0)
+224769:2360d pos offset (bytes:0)
+224789:23993 pos mode specifies where the write begins relative to pos offset:
+224790:239da at the beginning of the file plus pos offset.
+224791:23a0d at the end of the file plus pos offset. This is the default value.
+224792:23a56 at the current file mark plus pos offset.
+224793:23a81 pos offset specifies in characters how far from the location specified by pos mode that the operation begins. The default value is 0.
+224844:245cf pos offset (bytes:0)
+224863:2472f pos offset (bytes:0) 0@
+224869:247d1 pos offset (bytes:0)'
+224888:249b1 pos offset (bytes:0)
+224949:25023 pos offset (bytes:0)
+224954:2517c pos mode specifies where the write begins relative to pos offset:
+224955:251c3 at the beginning of the file plus pos offset.
+224956:251f6 at the end of the file plus pos offset. This is the default value.
+224957:2523f at the current file mark plus pos offset.
+224958:2526a pos offset specifies in characters how far from the location specified by pos mode that the operation begins. The default value is 0.
+259373:2201f3 pos offset (bytes:0)
+259388:221ecc pos offset specifies in characters how far from the location specified by pos mode that the operation begins. The default value is 0.
+259395:222088 pos mode specifies where the reads begins relative to pos offset:
+259396:2220ce Beginning of the file plus pos offset.
+259397:2220f9 End of the file plus pos offset.
+259398:22211e Current file mark plus pos offset. This is the default value.
+259448:22310f pos offset (bytes:0)*
+259449:22312a pos offset (bytes:0)(
+259710:2272dc pos offset (bytes:0)
+259750:227535 pos offset (bytes:0)
+259751:22754d pos offset (bytes:0)
+259752:227565 pos offset (bytes:0)
+259753:22757d pos offset (bytes:0)
+259754:227595 pos offset (bytes:0)
+259787:227993 pos mode specifies where the reads begins relative to pos offset:
+259788:2279da at the beginning of the file plus pos offset.
+259789:227a0d at the end of the file plus pos offset.
+259790:227a3a at the current file mark plus pos offset. This is the default value.
+259791:227a81 pos offset specifies in characters how far from the location specified by pos mode that the operation begins. The default value is 0.
+259858:22892a pos offset (bytes:0)
+259880:228ab5 pos offset (bytes:0) 0@
+259891:228bd2 pos offset (bytes:0)
+259909:228d63 pos offset (bytes:0)
+259961:229471 pos mode specifies where the reads begins relative to pos offset:
+259962:2294b8 at the beginning of the file plus pos offset.
+259963:2294eb at the end of the file plus pos offset.
+259964:229518 at the current file mark plus pos offset. This is the default value.
+259965:22955f pos offset specifies in characters how far from the location specified by pos mode that the operation begins. The default value is 0.
+261179:24ce1e pos offset (bytes:0)
+261236:24d397 pos offset (bytes:0).
+261389:24efdc pos offset (bytes:0)
+261537:25015b pos offset (bytes:0)
+270306:2df7bc yustart of read offset is the position in the file, measured in characters (or bytes), at which the VI begins reading.
+270442:2e1bfd pos offset (bytes:0)
+270491:2e2011 pos offset (bytes:0)
+270529:2e252a pos offset (bytes:0)
+270547:2e265d pos offset (bytes:0)
+270876:2e6bfd start of read offset is the position in the file, measured in characters (or bytes), at which the VI begins reading.
+271235:2e88e2 pos offset (bytes:0)
+271323:2e9400 start of read offset is the position in the file, measured in characters (or bytes), at which the VI begins reading.
+366265:12c7f1 pos offset (bytes:0)
+366633:13086f start of read offset is the position in the file, measured in characters (or bytes), at which the VI begins reading.
+366639:130b9d yustart of read offset is the position in the file, measured in characters (or bytes), at which the VI begins reading.
+366679:1314ba pos offset (bytes:0).
+366698:131603 pos offset (bytes:0)
+368825:151457 pos offset (bytes:0)
+370234:166796 pos offset (bytes:0)
+370432:168683 pos offset (bytes:0)
+370508:169464 pos offset (bytes:0)
+370551:16978e pos offset (bytes:0).
+372245:192048 pos offset (bytes:0)
+372261:19229f pos offset (bytes:0)
+372300:19270f pos offset (bytes:0)(@
+372327:192a85 pos offset (bytes:0)
+372337:192c37 pos mode specifies where the reads begins relative to pos offset:
+372338:192c7e at the beginning of the file plus pos offset.
+372339:192cb1 at the end of the file plus pos offset.
+372340:192cde at the current file mark plus pos offset. This is the default value.
+372341:192d25 pos offset specifies in characters how far from the location specified by pos mode that the operation begins. The default value is 0.
+372351:193410 pos offset specifies in characters how far from the location specified by pos mode that the operation begins. The default value is 0.
+372357:1936e8 pos mode specifies where the reads begins relative to pos offset:
+372358:19372e Beginning of the file plus pos offset.
+372359:193759 End of the file plus pos offset.
+372360:19377e Current file mark plus pos offset. This is the default value.
+372386:193df1 pos offset (bytes:0)(
+372395:193e98 pos offset (0)F
+372404:193fd5 pos offset (bytes:0)M
+372909:19adc2 pos offset (0)(@
+372997:19c0ce pos offset (0)4
+373934:1acc15 pos offset (0)(@
+374091:1ae993 pos offset (0)4
+392547:2ee1e3 pos offset (bytes:0)
+394258:30d078 pos mode specifies where the write begins relative to pos offset:
+394259:30d0bf at the beginning of the file plus pos offset.
+394260:30d0f2 at the end of the file plus pos offset. This is the default value.
+394261:30d13b at the current file mark plus pos offset.
+394262:30d166 pos offset specifies in characters how far from the location specified by pos mode that the operation begins. The default value is 0.
+404045:3a5059 pos mode specifies where the reads begins relative to pos offset:
+404046:3a50a0 at the beginning of the file plus pos offset.
+404047:3a50d3 at the end of the file plus pos offset.
+404048:3a5100 at the current file mark plus pos offset. This is the default value.
+404049:3a5147 pos offset specifies in characters how far from the location specified by pos mode that the operation begins. The default value is 0.
+404098:3a6a04 start of read offset is the position in the file, measured in characters (or bytes), at which the VI begins reading.
+405208:3b948b pos offset (bytes:0)
+405224:3b96e0 pos offset (bytes:0)
+405249:3b99ed pos offset (bytes:0)(@
+405273:3b9d19 pos offset (bytes:0)
+405281:3b9eb9 pos mode specifies where the write begins relative to pos offset:
+405282:3b9f00 at the beginning of the file plus pos offset.
+405283:3b9f33 at the end of the file plus pos offset. This is the default value.
+405284:3b9f7c at the current file mark plus pos offset.
+405285:3b9fa7 pos offset specifies in characters how far from the location specified by pos mode that the operation begins. The default value is 0.
+405293:3ba508 pos offset specifies in characters how far from the location specified by pos mode that the operation begins. The default value is 0.
+405297:3ba661 pos mode specifies where the write begins relative to pos offset:
+405298:3ba6a7 Beginning of the file plus pos offset.
+405299:3ba6d2 End of the file plus pos offset. This is the default value.
+405300:3ba712 Current file mark plus pos offset.
+405322:3bacd4 pos offset (bytes:0).
+405332:3bada0 pos offset (0)F
+405342:3baf0b pos offset (bytes:0)M
+406052:3cabee pos offset (0)(@
+406258:3cd0db pos offset (0)
+496062:147976 pos offset (bytes:0)
+496232:149d0b start of read offset is the position in the file, measured in characters (or bytes), at which the VI begins reading.
+496270:14a3b9 pos offset (bytes:0).
+496289:14a502 pos offset (bytes:0)
+496402:14bbae ustart of read offset is the position in the file, measured in characters (or bytes), at which the VI begins reading.
+503249:1ce5c7 pos offset (bytes:0)
+503394:1cfe8f pos offset (bytes:0)
+503437:1d01b9 pos offset (bytes:0).
+503613:1d269f pos offset (bytes:0)
+504632:1f1cfc pos offset (bytes:0)
+504647:1f1f64 pos offset (bytes:0)
+504684:1f23dd pos offset (bytes:0)"
+504736:1f3146 pos offset (bytes:0)
+504746:1f32f8 pos mode specifies where the reads begins relative to pos offset:
+504747:1f333f at the beginning of the file plus pos offset.
+504748:1f3372 at the end of the file plus pos offset.
+504749:1f339f at the current file mark plus pos offset. This is the default value.
+504750:1f33e6 pos offset specifies in characters how far from the location specified by pos mode that the operation begins. The default value is 0.
+504775:1f3c15 pos offset (bytes:0)(
+504784:1f3cbc pos offset (0)F
+504793:1f3df9 pos offset (bytes:0)H
+504911:1f5ac5 pos mode specifies where the reads begins relative to pos offset:
+504912:1f5b0b Beginning of the file plus pos offset.
+504913:1f5b36 End of the file plus pos offset.
+504914:1f5b5b Current file mark plus pos offset. This is the default value.
+504915:1f5bdc pos offset specifies in characters how far from the location specified by pos mode that the operation begins. The default value is 0.
+505241:1fa836 pos offset (0)4
+505922:208770 pos offset (0)4
+520223:33260f pos offset (bytes:0)
+520850:33c970 pos mode specifies where the write begins relative to pos offset:
+520851:33c9b7 at the beginning of the file plus pos offset.
+520852:33c9ea at the end of the file plus pos offset. This is the default value.
+520853:33ca33 at the current file mark plus pos offset.
+520854:33ca5e pos offset specifies in characters how far from the location specified by pos mode that the operation begins. The default value is 0.
+527382:3b3ca5 pos mode specifies where the reads begins relative to pos offset:
+527383:3b3cec at the beginning of the file plus pos offset.
+527384:3b3d1f at the end of the file plus pos offset.
+527385:3b3d4c at the current file mark plus pos offset. This is the default value.
+527386:3b3d93 pos offset specifies in characters how far from the location specified by pos mode that the operation begins. The default value is 0.
+527435:3b5650 start of read offset is the position in the file, measured in characters (or bytes), at which the VI begins reading.
+527583:3b964a pos offset (bytes:0)
+527598:3b98b0 pos offset (bytes:0)
+527622:3b9bb5 pos offset (bytes:0)"
+527669:3ba68b pos offset (bytes:0)
+527677:3ba82b pos mode specifies where the write begins relative to pos offset:
+527678:3ba872 at the beginning of the file plus pos offset.
+527679:3ba8a5 at the end of the file plus pos offset. This is the default value.
+527680:3ba8ee at the current file mark plus pos offset.
+527681:3ba919 pos offset specifies in characters how far from the location specified by pos mode that the operation begins. The default value is 0.
+527700:3baf63 pos offset (bytes:0).
+527710:3bb02f pos offset (0)F
+527720:3bb19b pos offset (bytes:0)H
+527771:3bc672 pos offset specifies in characters how far from the location specified by pos mode that the operation begins. The default value is 0.
+527775:3bc879 pos mode specifies where the write begins relative to pos offset:
+527776:3bc8bf Beginning of the file plus pos offset.
+527777:3bc8ea End of the file plus pos offset. This is the default value.
+527778:3bc92a Current file mark plus pos offset.
+528251:3c8d3f pos offset (0)
+595916:e2f5b pos offset (0)
+596716:f1c78 pos mode specifies where the write begins relative to pos offset:
+596717:f1cbf at the beginning of the file plus pos offset.
+596718:f1cf2 at the end of the file plus pos offset. This is the default value.
+596719:f1d3b at the current file mark plus pos offset.
+596720:f1d66 pos offset specifies in characters how far from the location specified by pos mode that the operation begins. The default value is 0.
+596781:f4f05 pos mode specifies where the reads begins relative to pos offset:
+596782:f4f4c at the beginning of the file plus pos offset.
+596783:f4f7f at the end of the file plus pos offset.
+596784:f4fac at the current file mark plus pos offset. This is the default value.
+596785:f4ff3 pos offset specifies in characters how far from the location specified by pos mode that the operation begins. The default value is 0.
+596834:f68b0 start of read offset is the position in the file, measured in characters (or bytes), at which the VI begins reading.
+597072:fa0cc pos offset (bytes:0)
+597410:fc3e9 pos offset (bytes:0)
+597619:ff354 pos mode specifies where the write begins relative to pos offset:
+597620:ff39b at the beginning of the file plus pos offset.
+597621:ff3ce at the end of the file plus pos offset. This is the default value.
+597622:ff417 at the current file mark plus pos offset.
+597623:ff442 pos offset specifies in characters how far from the location specified by pos mode that the operation begins. The default value is 0.
+607654:1a9a49 pos mode specifies where the reads begins relative to pos offset:
+607655:1a9a90 at the beginning of the file plus pos offset.
+607656:1a9ac3 at the end of the file plus pos offset.
+607657:1a9af0 at the current file mark plus pos offset. This is the default value.
+607658:1a9b37 pos offset specifies in characters how far from the location specified by pos mode that the operation begins. The default value is 0.
+610296:1d50c8 start of read offset is the position in the file, measured in characters (or bytes), at which the VI begins reading.

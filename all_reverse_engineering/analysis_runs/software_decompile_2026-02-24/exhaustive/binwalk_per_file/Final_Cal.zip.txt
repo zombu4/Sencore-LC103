@@ -1,0 +1,14 @@
+FILE: Final Cal.zip
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+0             0x0             Zip archive data, at least v2.0 to extract, compressed size: 2227, uncompressed size: 4494, name: DAQDRV
+2263          0x8D7           Zip archive data, at least v2.0 to extract, compressed size: 8179, uncompressed size: 16316, name: GPIBDRV
+10479         0x28EF          Zip archive data, at least v2.0 to extract, compressed size: 4891, uncompressed size: 13903, name: LVDEVICE.DLL
+15412         0x3C34          Zip archive data, at least v2.0 to extract, compressed size: 70, uncompressed size: 143, name: P071_03.CAL
+15523         0x3CA3          Zip archive data, at least v2.0 to extract, compressed size: 182, uncompressed size: 289, name: P072_1.cal
+15745         0x3D81          Zip archive data, at least v2.0 to extract, compressed size: 4377, uncompressed size: 7480, name: SERPDRV
+20159         0x4EBF          Zip archive data, at least v1.0 to extract, compressed size: 45, uncompressed size: 45, name: VERSION.DAT
+20245         0x4F15          Zip archive data, at least v2.0 to extract, compressed size: 2796376, uncompressed size: 6215395, name: 103FIN.EXE
+2817103       0x2AFC4F        End of Zip archive, footer length: 22
+

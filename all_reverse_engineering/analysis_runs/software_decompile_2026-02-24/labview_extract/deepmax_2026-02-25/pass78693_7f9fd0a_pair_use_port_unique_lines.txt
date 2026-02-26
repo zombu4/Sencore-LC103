@@ -1,0 +1,70 @@
+70474:2d18c5 (u32) task ID: uniquely identifies the group. You use this value as the task ID to refer to this group in subsequent digital port VI calls.
+74822:316bf5 9When you use the serial port VIs under Windows, the port number parameter can have the following values:
+74836:316ccc When you use the serial port VIs on a Sun SPARCstation, the port number parameter is 0 for /dev/ttya, 1 for /dev/ttyb, and so on.
+75375:31da87 9When you use the serial port VIs under Windows, the port number parameter can have the following values:
+75389:31db5e When you use the serial port VIs on a Sun SPARCstation, the port number parameter is 0 for /dev/ttya, 1 for /dev/ttyb, and so on.
+75597:321180 9When you use the serial port VIs under Windows, the port number parameter can have the following values:
+75611:321257 When you use the serial port VIs on a Sun SPARCstation, the port number parameter is 0 for /dev/ttya, 1 for /dev/ttyb, and so on.
+75851:32503b 9When you use the serial port VIs under Windows, the port number parameter can have the following values:
+75865:325112 When you use the serial port VIs on a Sun SPARCstation, the port number parameter is 0 for /dev/ttya, 1 for /dev/ttyb, and so on.
+102415:4c87d4 DAQ overFlowErr: Because of system limitations, the driver could not read data from the device fast enough to keep up with the device throughput; the onboard device memory reported an overflow error.
+241107:1154d5 (u32) task ID: uniquely identifies the group. You use this value as the task ID to refer to this group in subsequent digital port VI calls.
+245132:1552a9 9When you use the serial port VIs under Windows, the port number parameter can have the following values:
+245146:155380 When you use the serial port VIs on a Sun SPARCstation, the port number parameter is 0 for /dev/ttya, 1 for /dev/ttyb, and so on.
+245690:15c26b 9When you use the serial port VIs under Windows, the port number parameter can have the following values:
+245704:15c342 When you use the serial port VIs on a Sun SPARCstation, the port number parameter is 0 for /dev/ttya, 1 for /dev/ttyb, and so on.
+245918:15fac0 9When you use the serial port VIs under Windows, the port number parameter can have the following values:
+245932:15fb97 When you use the serial port VIs on a Sun SPARCstation, the port number parameter is 0 for /dev/ttya, 1 for /dev/ttyb, and so on.
+246177:163adf 9When you use the serial port VIs under Windows, the port number parameter can have the following values:
+246191:163bb6 When you use the serial port VIs on a Sun SPARCstation, the port number parameter is 0 for /dev/ttya, 1 for /dev/ttyb, and so on.
+260848:2413ac DAQ overFlowErr: Because of system limitations, the driver could not read data from the device fast enough to keep up with the device throughput; the onboard device memory reported an overflow error.
+307911:e5866 9When you use the serial port VIs under Windows, the port number parameter can have the following values:
+307925:e593d When you use the serial port VIs on a Sun SPARCstation, the port number parameter is 0 for /dev/ttya, 1 for /dev/ttyb, and so on.
+308139:e90b3 9When you use the serial port VIs under Windows, the port number parameter can have the following values:
+308153:e918a When you use the serial port VIs on a Sun SPARCstation, the port number parameter is 0 for /dev/ttya, 1 for /dev/ttyb, and so on.
+308397:ed0ca 9When you use the serial port VIs under Windows, the port number parameter can have the following values:
+308411:ed1a1 When you use the serial port VIs on a Sun SPARCstation, the port number parameter is 0 for /dev/ttya, 1 for /dev/ttyb, and so on.
+313553:141c4e (u32) task ID: uniquely identifies the group. You use this value as the task ID to refer to this group in subsequent digital port VI calls.
+314856:15ef7d DAQ overFlowErr: Because of system limitations, the driver could not read data from the device fast enough to keep up with the device throughput; the onboard device memory reported an overflow error.
+340031:e1176 (u32) task ID: uniquely identifies the group. You use this value as the task ID to refer to this group in subsequent digital port VI calls.
+341333:fe54d DAQ overFlowErr: Because of system limitations, the driver could not read data from the device fast enough to keep up with the device throughput; the onboard device memory reported an overflow error.
+371286:17adce DAQ overFlowErr: Because of system limitations, the driver could not read data from the device fast enough to keep up with the device throughput; the onboard device memory reported an overflow error.
+396595:330ae7 9When you use the serial port VIs under Windows, the port number parameter can have the following values:
+396609:330bbe When you use the serial port VIs on a Sun SPARCstation, the port number parameter is 0 for /dev/ttya, 1 for /dev/ttyb, and so on.
+396893:334e31 9When you use the serial port VIs under Windows, the port number parameter can have the following values:
+396907:334f08 When you use the serial port VIs on a Sun SPARCstation, the port number parameter is 0 for /dev/ttya, 1 for /dev/ttyb, and so on.
+397174:338dc0 9When you use the serial port VIs under Windows, the port number parameter can have the following values:
+397188:338e97 When you use the serial port VIs on a Sun SPARCstation, the port number parameter is 0 for /dev/ttya, 1 for /dev/ttyb, and so on.
+397592:33f1c3 9When you use the serial port VIs under Windows, the port number parameter can have the following values:
+397606:33f29a When you use the serial port VIs on a Sun SPARCstation, the port number parameter is 0 for /dev/ttya, 1 for /dev/ttyb, and so on.
+402190:387de7 (u32) task ID: uniquely identifies the group. You use this value as the task ID to refer to this group in subsequent digital port VI calls.
+433987:ee9f1 DAQ overFlowErr: Because of system limitations, the driver could not read data from the device fast enough to keep up with the device throughput; the onboard device memory reported an overflow error.
+434963:1063c5 (u32) task ID: uniquely identifies the group. You use this value as the task ID to refer to this group in subsequent digital port VI calls.
+440784:163e2a 9When you use the serial port VIs under Windows, the port number parameter can have the following values:
+440798:163f01 When you use the serial port VIs on a Sun SPARCstation, the port number parameter is 0 for /dev/ttya, 1 for /dev/ttyb, and so on.
+441084:16817a 9When you use the serial port VIs under Windows, the port number parameter can have the following values:
+441098:168251 When you use the serial port VIs on a Sun SPARCstation, the port number parameter is 0 for /dev/ttya, 1 for /dev/ttyb, and so on.
+441369:16c106 9When you use the serial port VIs under Windows, the port number parameter can have the following values:
+441383:16c1dd When you use the serial port VIs on a Sun SPARCstation, the port number parameter is 0 for /dev/ttya, 1 for /dev/ttyb, and so on.
+469230:eb878 (u32) task ID: uniquely identifies the group. You use this value as the task ID to refer to this group in subsequent digital port VI calls.
+469966:fdf72 DAQ overFlowErr: Because of system limitations, the driver could not read data from the device fast enough to keep up with the device throughput; the onboard device memory reported an overflow error.
+503796:1dbd6f DAQ overFlowErr: Because of system limitations, the driver could not read data from the device fast enough to keep up with the device throughput; the onboard device memory reported an overflow error.
+521548:349f14 9When you use the serial port VIs under Windows, the port number parameter can have the following values:
+521562:349feb When you use the serial port VIs on a Sun SPARCstation, the port number parameter is 0 for /dev/ttya, 1 for /dev/ttyb, and so on.
+521751:34d2fc 9When you use the serial port VIs under Windows, the port number parameter can have the following values:
+521765:34d3d3 When you use the serial port VIs on a Sun SPARCstation, the port number parameter is 0 for /dev/ttya, 1 for /dev/ttyb, and so on.
+521941:350284 9When you use the serial port VIs under Windows, the port number parameter can have the following values:
+521955:35035b When you use the serial port VIs on a Sun SPARCstation, the port number parameter is 0 for /dev/ttya, 1 for /dev/ttyb, and so on.
+522293:355c9a 9When you use the serial port VIs under Windows, the port number parameter can have the following values:
+522307:355d71 When you use the serial port VIs on a Sun SPARCstation, the port number parameter is 0 for /dev/ttya, 1 for /dev/ttyb, and so on.
+525022:38882a (u32) task ID: uniquely identifies the group. You use this value as the task ID to refer to this group in subsequent digital port VI calls.
+546362:ed901 DAQ overFlowErr: Because of system limitations, the driver could not read data from the device fast enough to keep up with the device throughput; the onboard device memory reported an overflow error.
+547338:1052d5 (u32) task ID: uniquely identifies the group. You use this value as the task ID to refer to this group in subsequent digital port VI calls.
+558149:1c4042 9When you use the serial port VIs under Windows, the port number parameter can have the following values:
+558163:1c4119 When you use the serial port VIs on a Sun SPARCstation, the port number parameter is 0 for /dev/ttya, 1 for /dev/ttyb, and so on.
+558356:1c7432 9When you use the serial port VIs under Windows, the port number parameter can have the following values:
+558370:1c7509 When you use the serial port VIs on a Sun SPARCstation, the port number parameter is 0 for /dev/ttya, 1 for /dev/ttyb, and so on.
+558548:1ca3b8 9When you use the serial port VIs under Windows, the port number parameter can have the following values:
+558562:1ca48f When you use the serial port VIs on a Sun SPARCstation, the port number parameter is 0 for /dev/ttya, 1 for /dev/ttyb, and so on.
+578951:154b15 (u32) task ID: uniquely identifies the group. You use this value as the task ID to refer to this group in subsequent digital port VI calls.
+579215:15fc33 DAQ overFlowErr: Because of system limitations, the driver could not read data from the device fast enough to keep up with the device throughput; the onboard device memory reported an overflow error.

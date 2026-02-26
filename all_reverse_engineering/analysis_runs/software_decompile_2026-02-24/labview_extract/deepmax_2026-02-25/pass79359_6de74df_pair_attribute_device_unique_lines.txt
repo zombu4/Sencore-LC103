@@ -1,0 +1,16 @@
+132971:1fdd42 ?Fgen54xx_SetAttribute_TheVirtualThing@daqDevice@@UAEFFFKK@Z
+133027:1feb94 ?LV_CtrSetAttribute_TheVirtualThing@daqDevice@@UAEFKGPADKKK@Z
+133126:20046b ?NIScope_SetAttributeViBoolean_TheVirtualThing@daqDevice@@UAEJFPADKG@Z
+133127:2004b2 ?NIScope_SetAttributeViInt32_TheVirtualThing@daqDevice@@UAEJFPADKJ@Z
+133128:2004f7 ?NIScope_SetAttributeViReal64_TheVirtualThing@daqDevice@@UAEJFPADKN@Z
+133129:20053d ?NIScope_SetAttributeViString_TheVirtualThing@daqDevice@@UAEJFPADK0@Z
+133220:201af2 ?_get_attribute_strings_TheVirtualThing@daqDevice@@UAEFKKPAKPADJ1J@Z
+133320:2030e2 ?setAttribute_TheVirtualThing@daqDevice@@UAEJKKKJNPAX@Z
+638460:1fdd42 ?Fgen54xx_SetAttribute_TheVirtualThing@daqDevice@@UAEFFFKK@Z
+638516:1feb94 ?LV_CtrSetAttribute_TheVirtualThing@daqDevice@@UAEFKGPADKKK@Z
+638615:20046b ?NIScope_SetAttributeViBoolean_TheVirtualThing@daqDevice@@UAEJFPADKG@Z
+638616:2004b2 ?NIScope_SetAttributeViInt32_TheVirtualThing@daqDevice@@UAEJFPADKJ@Z
+638617:2004f7 ?NIScope_SetAttributeViReal64_TheVirtualThing@daqDevice@@UAEJFPADKN@Z
+638618:20053d ?NIScope_SetAttributeViString_TheVirtualThing@daqDevice@@UAEJFPADK0@Z
+638709:201af2 ?_get_attribute_strings_TheVirtualThing@daqDevice@@UAEFKKPAKPADJ1J@Z
+638809:2030e2 ?setAttribute_TheVirtualThing@daqDevice@@UAEJKKKJNPAX@Z

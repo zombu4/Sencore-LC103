@@ -1,0 +1,4 @@
+36763:11701 GetOpenFileName
+37131:15a0a GetOpenFileName
+52228:1ba45f Choose the VI to open: Name the VI:3Choose a directory of VIs or VI library to compile:+Please find the file of type %4c named "%p"CChoose a picture file to open (it will be placed on the clipboard):
+52230:1ba53d Name the VI library:1Choose the VI library to build as an application: Choose a custom control to open:"Choose a file of type %4c to open:

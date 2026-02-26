@@ -1,0 +1,10 @@
+102522:4cee7d DDE DMLERR_DLL_NOT_INITIALIZED: The DDEML function was called without first calling the DdeInitialize function or an invalid instance identifier was pass to a DDEML function.
+260955:247a55 DDE DMLERR_DLL_NOT_INITIALIZED: The DDEML function was called without first calling the DdeInitialize function or an invalid instance identifier was pass to a DDEML function.
+314963:165626 DDE DMLERR_DLL_NOT_INITIALIZED: The DDEML function was called without first calling the DdeInitialize function or an invalid instance identifier was pass to a DDEML function.
+341440:104bf6 DDE DMLERR_DLL_NOT_INITIALIZED: The DDEML function was called without first calling the DdeInitialize function or an invalid instance identifier was pass to a DDEML function.
+371393:181477 DDE DMLERR_DLL_NOT_INITIALIZED: The DDEML function was called without first calling the DdeInitialize function or an invalid instance identifier was pass to a DDEML function.
+434094:f509a DDE DMLERR_DLL_NOT_INITIALIZED: The DDEML function was called without first calling the DdeInitialize function or an invalid instance identifier was pass to a DDEML function.
+470073:10461b DDE DMLERR_DLL_NOT_INITIALIZED: The DDEML function was called without first calling the DdeInitialize function or an invalid instance identifier was pass to a DDEML function.
+503903:1e2418 DDE DMLERR_DLL_NOT_INITIALIZED: The DDEML function was called without first calling the DdeInitialize function or an invalid instance identifier was pass to a DDEML function.
+546469:f3faa DDE DMLERR_DLL_NOT_INITIALIZED: The DDEML function was called without first calling the DdeInitialize function or an invalid instance identifier was pass to a DDEML function.
+579322:1662dc DDE DMLERR_DLL_NOT_INITIALIZED: The DDEML function was called without first calling the DdeInitialize function or an invalid instance identifier was pass to a DDEML function.

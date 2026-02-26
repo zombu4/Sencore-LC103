@@ -1,0 +1,95 @@
+52417:1bc5fa JThe VI "%p" cannot be saved without a diagram because it still has errors.
+52446:1bccf2 !Attempt to use bad index for wire9Segment with index out of range will be deleted from wire"Bad edge will not be added to wire%Cannot find terminal hotpoint in wire
+52994:1cb050 new file path is the path of the file opened or created. You can use this output to determine the path of a file that you open or create using dialog. new file path returns Not A Path if the user selects Cancel from the dialog box.
+54012:1dc119 new file path is the path of the file opened or created.  You can use this output to determine the path of a file that you open or create using dialog.  new file path returns Not A Path if the user selects Cancel from the dialog box.
+54056:1dccdc sFile Dialog cancelled; set error out code to Cancelled By User; set refnum to NotaRefnum and file path to NotAPath.
+77806:344275 This vi handles the RS-232 communications for a UUT. FC In and FC Out are used for flow control.
+99475:49133c new file path is the path of the file opened. You can use this output to determine the path of a file that you open using dialog. new file path returns Not A Path if the user selects Cancel from the dialog box.
+100022:49a5ed new file path is the path of the file opened.  You can use this output to determine the path of a file that you open using dialog.  new file path returns Not A Path if the user selects Cancel from the dialog box.
+101603:4b7834 source. In case of an error, most VIs that use the error in and error out clusters set source to the name of the VI or function that produced the error.
+101610:4b7a4c source. In case of an error, most VIs that use the error in and error out clusters set source to the name of the VI or function that produced the error.
+102676:4d2aa2 new file path is the path of the file to which the VI wrote data. You can use this output to determine the path of a file that you open using dialog. new file path returns Not A Path if the user selects Cancel from the dialog box.
+102962:4d6473 new file path is the path of the file to which the VI wrote data.  You can use this output to determine the path of a file that you open using dialog.  new file path returns Not A Path if the user selects Cancel from the dialog box.
+111786:5654df new file path is the path of the file from which the VI read data. You can use this output to determine the path of a file that you open using dialog. new file path returns Not A Path if the user selects Cancel from the dialog box.
+112349:56c5f9 new file path is the path of the file from which the VI read data.  You can use this output to determine the path of a file that you open using dialog.  new file path returns Not A Path if the user selects Cancel from the dialog box.
+223251:9c7c new file path is the path of the file opened or created. You can use this output to determine the path of a file that you open or create using dialog. new file path returns Not A Path if the user selects Cancel from the dialog box.
+224269:1ad45 new file path is the path of the file opened or created.  You can use this output to determine the path of a file that you open or create using dialog.  new file path returns Not A Path if the user selects Cancel from the dialog box.
+224313:1b908 sFile Dialog cancelled; set error out code to Cancelled By User; set refnum to NotaRefnum and file path to NotAPath.
+224505:1da51 new file path is the path of the file opened or created.  You can use this output to determine the path of a file that you open or create using dialog.  new file path returns Not A Path if the user selects Cancel from the dialog box.
+248186:183391 This vi handles the RS-232 communications for a UUT. FC In and FC Out are used for flow control.
+248365:184788 This vi handles the RS-232 communications for a UUT. FC In and FC Out are used for flow control.
+257805:207c68 new file path is the path of the file opened. You can use this output to determine the path of a file that you open using dialog. new file path returns Not A Path if the user selects Cancel from the dialog box.
+258352:210f19 new file path is the path of the file opened.  You can use this output to determine the path of a file that you open using dialog.  new file path returns Not A Path if the user selects Cancel from the dialog box.
+258535:212ca3 new file path is the path of the file opened.  You can use this output to determine the path of a file that you open using dialog.  new file path returns Not A Path if the user selects Cancel from the dialog box.
+260036:23040c source. In case of an error, most VIs that use the error in and error out clusters set source to the name of the VI or function that produced the error.
+260043:230624 source. In case of an error, most VIs that use the error in and error out clusters set source to the name of the VI or function that produced the error.
+261115:24ba02 new file path is the path of the file to which the VI wrote data. You can use this output to determine the path of a file that you open using dialog. new file path returns Not A Path if the user selects Cancel from the dialog box.
+261401:24f3d3 new file path is the path of the file to which the VI wrote data.  You can use this output to determine the path of a file that you open using dialog.  new file path returns Not A Path if the user selects Cancel from the dialog box.
+261613:250a84 new file path is the path of the file to which the VI wrote data.  You can use this output to determine the path of a file that you open using dialog.  new file path returns Not A Path if the user selects Cancel from the dialog box.
+270315:2dfc33 new file path is the path of the file from which the VI read data. You can use this output to determine the path of a file that you open using dialog. new file path returns Not A Path if the user selects Cancel from the dialog box.
+270878:2e6d4d new file path is the path of the file from which the VI read data.  You can use this output to determine the path of a file that you open using dialog.  new file path returns Not A Path if the user selects Cancel from the dialog box.
+271325:2e9550 new file path is the path of the file from which the VI read data.  You can use this output to determine the path of a file that you open using dialog.  new file path returns Not A Path if the user selects Cancel from the dialog box.
+310408:10c927 This vi handles the RS-232 communications for a UUT. FC In and FC Out are used for flow control.
+310586:10dd08 This vi handles the RS-232 communications for a UUT. FC In and FC Out are used for flow control.
+314024:14e029 source. In case of an error, most VIs that use the error in and error out clusters set source to the name of the VI or function that produced the error.
+314031:14e241 source. In case of an error, most VIs that use the error in and error out clusters set source to the name of the VI or function that produced the error.
+340507:ed60c source. In case of an error, most VIs that use the error in and error out clusters set source to the name of the VI or function that produced the error.
+340514:ed824 source. In case of an error, most VIs that use the error in and error out clusters set source to the name of the VI or function that produced the error.
+366635:1309bf new file path is the path of the file from which the VI read data.  You can use this output to determine the path of a file that you open using dialog.  new file path returns Not A Path if the user selects Cancel from the dialog box.
+366644:130fe4 new file path is the path of the file from which the VI read data. You can use this output to determine the path of a file that you open using dialog. new file path returns Not A Path if the user selects Cancel from the dialog box.
+370473:168d67 new file path is the path of the file to which the VI wrote data.  You can use this output to determine the path of a file that you open using dialog.  new file path returns Not A Path if the user selects Cancel from the dialog box.
+370475:168f28 new file path is the path of the file to which the VI wrote data. You can use this output to determine the path of a file that you open using dialog. new file path returns Not A Path if the user selects Cancel from the dialog box.
+371473:184195 source. In case of an error, most VIs that use the error in and error out clusters set source to the name of the VI or function that produced the error.
+371477:18438d source. In case of an error, most VIs that use the error in and error out clusters set source to the name of the VI or function that produced the error.
+374022:1ad9d2 new file path is the path of the file opened.  You can use this output to determine the path of a file that you open using dialog.  new file path returns Not A Path if the user selects Cancel from the dialog box.
+374031:1adf54 new file path is the path of the file opened. You can use this output to determine the path of a file that you open using dialog. new file path returns Not A Path if the user selects Cancel from the dialog box.
+394252:30cc85 new file path is the path of the file opened or created.  You can use this output to determine the path of a file that you open or create using dialog.  new file path returns Not A Path if the user selects Cancel from the dialog box.
+394601:312369 This vi handles the RS-232 communications for a UUT. FC In and FC Out are used for flow control.
+404015:3a3bdc This vi handles the RS-232 communications for a UUT. FC In and FC Out are used for flow control.
+404028:3a4323 new file path is the path of the file opened.  You can use this output to determine the path of a file that you open using dialog.  new file path returns Not A Path if the user selects Cancel from the dialog box.
+404063:3a5cec new file path is the path of the file to which the VI wrote data.  You can use this output to determine the path of a file that you open using dialog.  new file path returns Not A Path if the user selects Cancel from the dialog box.
+404100:3a6b54 new file path is the path of the file from which the VI read data.  You can use this output to determine the path of a file that you open using dialog.  new file path returns Not A Path if the user selects Cancel from the dialog box.
+406188:3cbf55 new file path is the path of the file opened or created.  You can use this output to determine the path of a file that you open or create using dialog.  new file path returns Not A Path if the user selects Cancel from the dialog box.
+406197:3cc4ec new file path is the path of the file opened or created. You can use this output to determine the path of a file that you open or create using dialog. new file path returns Not A Path if the user selects Cancel from the dialog box.
+406323:3ce01a rrsFile Dialog cancelled; set error out code to Cancelled By User; set refnum to NotaRefnum and file path to NotAPath.
+434174:f7db8 source. In case of an error, most VIs that use the error in and error out clusters set source to the name of the VI or function that produced the error.
+434178:f7fb0 source. In case of an error, most VIs that use the error in and error out clusters set source to the name of the VI or function that produced the error.
+438764:1456a2 This vi handles the RS-232 communications for a UUT. FC In and FC Out are used for flow control.
+442998:18560c This vi handles the RS-232 communications for a UUT. FC In and FC Out are used for flow control.
+470153:107339 source. In case of an error, most VIs that use the error in and error out clusters set source to the name of the VI or function that produced the error.
+470157:107531 source. In case of an error, most VIs that use the error in and error out clusters set source to the name of the VI or function that produced the error.
+496234:149e5b new file path is the path of the file from which the VI read data.  You can use this output to determine the path of a file that you open using dialog.  new file path returns Not A Path if the user selects Cancel from the dialog box.
+496403:14bc40 new file path is the path of the file from which the VI read data. You can use this output to determine the path of a file that you open using dialog. new file path returns Not A Path if the user selects Cancel from the dialog box.
+503363:1cfa76 new file path is the path of the file to which the VI wrote data.  You can use this output to determine the path of a file that you open using dialog.  new file path returns Not A Path if the user selects Cancel from the dialog box.
+503506:1d0df1 new file path is the path of the file to which the VI wrote data. You can use this output to determine the path of a file that you open using dialog. new file path returns Not A Path if the user selects Cancel from the dialog box.
+504220:1ea485 source. In case of an error, most VIs that use the error in and error out clusters set source to the name of the VI or function that produced the error.
+504224:1ea756 source. In case of an error, most VIs that use the error in and error out clusters set source to the name of the VI or function that produced the error.
+505868:2080c7 new file path is the path of the file opened.  You can use this output to determine the path of a file that you open using dialog.  new file path returns Not A Path if the user selects Cancel from the dialog box.
+506077:20a6f9 new file path is the path of the file opened. You can use this output to determine the path of a file that you open using dialog. new file path returns Not A Path if the user selects Cancel from the dialog box.
+519778:32e3c7 This vi handles the RS-232 communications for a UUT. FC In and FC Out are used for flow control.
+520844:33c57d new file path is the path of the file opened or created.  You can use this output to determine the path of a file that you open or create using dialog.  new file path returns Not A Path if the user selects Cancel from the dialog box.
+527352:3b2828 This vi handles the RS-232 communications for a UUT. FC In and FC Out are used for flow control.
+527365:3b2f6f new file path is the path of the file opened.  You can use this output to determine the path of a file that you open using dialog.  new file path returns Not A Path if the user selects Cancel from the dialog box.
+527400:3b4938 new file path is the path of the file to which the VI wrote data.  You can use this output to determine the path of a file that you open using dialog.  new file path returns Not A Path if the user selects Cancel from the dialog box.
+527437:3b57a0 new file path is the path of the file from which the VI read data.  You can use this output to determine the path of a file that you open using dialog.  new file path returns Not A Path if the user selects Cancel from the dialog box.
+528202:3c86bc new file path is the path of the file opened or created.  You can use this output to determine the path of a file that you open or create using dialog.  new file path returns Not A Path if the user selects Cancel from the dialog box.
+528305:3c9c77 rrsFile Dialog cancelled; set error out code to Cancelled By User; set refnum to NotaRefnum and file path to NotAPath.
+528594:3cc406 new file path is the path of the file opened or created. You can use this output to determine the path of a file that you open or create using dialog. new file path returns Not A Path if the user selects Cancel from the dialog box.
+546549:f6cc8 source. In case of an error, most VIs that use the error in and error out clusters set source to the name of the VI or function that produced the error.
+546553:f6ec0 source. In case of an error, most VIs that use the error in and error out clusters set source to the name of the VI or function that produced the error.
+556371:1a40bc This vi handles the RS-232 communications for a UUT. FC In and FC Out are used for flow control.
+556717:1ab510 This vi handles the RS-232 communications for a UUT. FC In and FC Out are used for flow control.
+579639:16e348 source. In case of an error, most VIs that use the error in and error out clusters set source to the name of the VI or function that produced the error.
+579643:16e619 source. In case of an error, most VIs that use the error in and error out clusters set source to the name of the VI or function that produced the error.
+595378:d58f5 new file path is the path of the file opened or created.  You can use this output to determine the path of a file that you open or create using dialog.  new file path returns Not A Path if the user selects Cancel from the dialog box.
+595867:e28d8 new file path is the path of the file opened or created.  You can use this output to determine the path of a file that you open or create using dialog.  new file path returns Not A Path if the user selects Cancel from the dialog box.
+595970:e3e93 rrsFile Dialog cancelled; set error out code to Cancelled By User; set refnum to NotaRefnum and file path to NotAPath.
+596259:e6622 new file path is the path of the file opened or created. You can use this output to determine the path of a file that you open or create using dialog. new file path returns Not A Path if the user selects Cancel from the dialog box.
+596751:f3a88 This vi handles the RS-232 communications for a UUT. FC In and FC Out are used for flow control.
+596764:f41cf new file path is the path of the file opened.  You can use this output to determine the path of a file that you open using dialog.  new file path returns Not A Path if the user selects Cancel from the dialog box.
+596799:f5b98 new file path is the path of the file to which the VI wrote data.  You can use this output to determine the path of a file that you open using dialog.  new file path returns Not A Path if the user selects Cancel from the dialog box.
+596836:f6a00 new file path is the path of the file from which the VI read data.  You can use this output to determine the path of a file that you open using dialog.  new file path returns Not A Path if the user selects Cancel from the dialog box.
+601412:13eff8 This vi handles the RS-232 communications for a UUT. FC In and FC Out are used for flow control.
+607064:19fb37 new file path is the path of the file opened.  You can use this output to determine the path of a file that you open using dialog.  new file path returns Not A Path if the user selects Cancel from the dialog box.
+608421:1b7058 new file path is the path of the file to which the VI wrote data.  You can use this output to determine the path of a file that you open using dialog.  new file path returns Not A Path if the user selects Cancel from the dialog box.
+610298:1d5218 new file path is the path of the file from which the VI read data.  You can use this output to determine the path of a file that you open using dialog.  new file path returns Not A Path if the user selects Cancel from the dialog box.

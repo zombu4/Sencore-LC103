@@ -1,0 +1,213 @@
+offset_hex	offset_dec	text
+0x19e36a	1696618	Cal Factor Command
+0x1a3cda	1719514	Cal Factor Command
+0x1a3ced	1719533	CALF_xx_x.xxxxExx
+0x1b33c5	1782725	End Cal Factor(59)
+0x1b33dd	1782749	Start Cal Factor(0)
+0x1b781d	1800221	Cal Number
+0x1b782e	1800238	Cal Number
+0x1b7a4f	1800783	Start Cal Factor(0)
+0x1b7a69	1800809	Start Cal Factor(0)
+0x1b915f	1806687	End Cal Factor(59)
+0x1b9178	1806712	End Cal Factor(59)
+0x1ba47d	1811581	Start Cal Factor(0)
+0x1ba4ab	1811627	Start Cal Factor(0)
+0x1ba5cd	1811917	Start Cal Factor(0)
+0x1bb32d	1815341	End Cal Factor(59)
+0x1c37e4	1849316	End Cal Factor(59)
+0x1c37fa	1849338	Start Cal Factor(0)
+0x1c38b5	1849525	Cal Number
+0x1c38c3	1849539	Cal Number
+0x1c38d1	1849553	Cal Number
+0x1c38df	1849567	Cal Number
+0x1c38ed	1849581	Cal Number
+0x1c3d96	1850774	End Cal Factor(59)
+0x1c3dac	1850796	End Cal Factor(59)
+0x1c3dc2	1850818	End Cal Factor(59)
+0x1c3dd8	1850840	End Cal Factor(59)
+0x1c3dee	1850862	End Cal Factor(59)
+0x1c3e06	1850886	Start Cal Factor(0)
+0x1c3e1d	1850909	Start Cal Factor(0)
+0x1c3e34	1850932	Start Cal Factor(0)
+0x1c3e4b	1850955	Start Cal Factor(0)
+0x1c3e62	1850978	Start Cal Factor(0)
+0x1c4530	1852720	Start Cal Factor(0)
+0x1c4924	1853732	Start Cal Factor(0)
+0x1c576d	1857389	End Cal Factor(59)
+0x1c57a3	1857443	Cal Number
+0x1c5a8a	1858186	End Cal Factor(59)
+0x1c5aa0	1858208	Start Cal Factor(0)
+0x1c5bae	1858478	Cal Number
+0x1c5d05	1858821	End Cal Factor(59)
+0x1c5d1b	1858843	Start Cal Factor(0)
+0x1c619e	1859998	End Cal Factor(59)
+0x1c61b4	1860020	Start Cal Factor(0)
+0x1de0d9	1958105	End Cal Factor(59)
+0x1de0ef	1958127	Start Cal Factor(0)
+0x1de2ff	1958655	End Cal Factor(59)
+0x1de339	1958713	Start Cal Factor(0)
+0x1dfcbd	1965245	End Cal Factor(59)
+0x1dfcd3	1965267	Start Cal Factor(0)
+0x1e0692	1967762	End Cal Factor(59)
+0x1e06a8	1967784	Start Cal Factor(0)
+0x2681a2	2523554	1.1
+0x26915b	2527579	1.1
+0x27a5cd	2598349	Gain Calibration
+0x27a6b1	2598577	Current MUST be Calibrated First
+0x27a726	2598694	Gain Calibration
+0x27a752	2598738	Failed Calibration.
+0x27a766	2598758	Adjusted >10%
+0x27a7d6	2598870	Gain Calibration
+0x27a9db	2599387	1.1
+0x27a9f9	2599417	0.9
+0x27aaf0	2599664	Gain Calibration
+0x27ab60	2599776	1000.0
+0x27b09a	2601114	Gain Calibration
+0x27b1b8	2601400	Gain Calibration
+0x27b216	2601494	Gain Calibration
+0x27b228	2601512	Failed Calibration.
+0x27b23c	2601532	Adjusted >10%
+0x27b251	2601553	Gain Calibration
+0x27b273	2601587	Gain Calibration
+0x28b290	2667152	0.9
+0x28b290	2667152	0.95
+0x28b8b2	2668722	0.9
+0x28b8b2	2668722	0.99
+0x29da66	2742886	Leakage Current Test
+0x29db82	2743170	Leakage Current Test
+0x29dbce	2743246	0.9
+0x29dbce	2743246	0.937
+0x29dceb	2743531	Leakage Current Test
+0x29e5e4	2745828	1.1
+0x29e5e4	2745828	1.111E6
+0x29e5f7	2745847	100.0E3
+0x29e60b	2745867	10.0E3
+0x29e61c	2745884	1.00E3
+0x29e633	2745907	Leakage Current Test
+0x29e68b	2745995	Leakage Current Test
+0x29e848	2746440	1.1
+0x29e848	2746440	1.111E6
+0x2b04ea	2819306	Current Source Calibration
+0x2b069b	2819739	Lowest Current Range
+0x2b06de	2819806	0.9
+0x2b06de	2819806	0.99
+0x2b06de	2819806	0.9985
+0x2b06fe	2819838	1.0015
+0x2b0753	2819923	Current Source Calibration
+0x2b078a	2819978	Failed Calibration.
+0x2b07fe	2820094	Current Source Calibration
+0x2b0a36	2820662	Current Source Calibration
+0x2b0a82	2820738	Initialize Cal Factor nominally to 1.0
+0x2b1924	2824484	Current Source Calibration
+0x2b1988	2824584	Current Source Calibration
+0x2b19b5	2824629	Current Source Calibration
+0x2b19d8	2824664	Failed Calibration.
+0x2c9fb7	2924471	Leakage Voltage Calibration
+0x2ca0e6	2924774	Failed Calibration.
+0x2ca0fa	2924794	Gain Adjustment>10%
+0x2ca1e9	2925033	1.1
+0x2ca207	2925063	0.75
+0x2ca2d6	2925270	Leakage Voltage Calibration
+0x2ca838	2926648	Failed Calibration.
+0x2ca84c	2926668	Offset Adjustment too high
+0x2cabf8	2927608	0.9
+0x2cabf8	2927608	0.99
+0x2cac35	2927669	0.9
+0x2cac35	2927669	0.99
+0x2caf66	2928486	32.0
+0x2caf78	2928504	1000.0
+0x2caf83	2928515	33.0
+0x2caf90	2928528	Leakage Voltage Calibration
+0x2cb044	2928708	Failed Calibration.
+0x2cb058	2928728	Offset Adjustment too high
+0x2cb075	2928757	Failed Calibration.
+0x2cb089	2928777	Gain Adjustment>10%
+0x2e7981	3045761	1.1
+0x2e798f	3045775	1.1
+0x3301aa	3342762	1.1
+0x373513	3618067	Current Source Calibration
+0x37352e	3618094	Gain Calibration
+0x373591	3618193	Leakage Voltage Calibration
+0x3735cb	3618251	Leakage Current Test
+0x37e393	3662739	Switch the cal box to
+0x37e3a9	3662761	Switching Transformers
+0x37eaaa	3664554	Yolks and Flybacks
+0x37ebdf	3664863	Yolks and Flybacks
+0x37ebfb	3664891	RIN>Adjust R1144 for the number
+0x37ec3e	3664958	Switch the cal box to
+0x37ec54	3664980	Switching Transformers
+0x37ec74	3665012	RINBNow adjust R1005 for the number
+0x3881c9	3703241	0.75
+0x3c6391	3957649	End Cal Factor(59)
+0x3c63a7	3957671	Start Cal Factor(0)
+0x3c65ee	3958254	End Cal Factor(59)
+0x3c6637	3958327	Start Cal Factor(0)
+0x3c6888	3958920	End Cal Factor(59)
+0x3c689e	3958942	Start Cal Factor(0)
+0x3c6ae4	3959524	End Cal Factor(59)
+0x3c6b2c	3959596	Start Cal Factor(0)
+0x3c6dd5	3960277	End Cal Factor(59)
+0x3c6deb	3960299	Start Cal Factor(0)
+0x3c7032	3960882	End Cal Factor(59)
+0x3c707a	3960954	Start Cal Factor(0)
+0x3c7292	3961490	End Cal Factor(59)
+0x3c72a8	3961512	Start Cal Factor(0)
+0x3c74ef	3962095	End Cal Factor(59)
+0x3c7538	3962168	Start Cal Factor(0)
+0x3c778a	3962762	End Cal Factor(59)
+0x3c77a0	3962784	Start Cal Factor(0)
+0x3c79e7	3963367	End Cal Factor(59)
+0x3c7a30	3963440	Start Cal Factor(0)
+0x3c7c82	3964034	End Cal Factor(59)
+0x3c7c98	3964056	Start Cal Factor(0)
+0x3c7ede	3964638	End Cal Factor(59)
+0x3c7f27	3964711	Start Cal Factor(0)
+0x3e0fc6	4067270	End Cal Factor(59)
+0x3e1539	4068665	End Cal Factor(59)
+0x3e18e7	4069607	End Cal Factor(59)
+0x3e1c9e	4070558	End Cal Factor(59)
+0x3e1f9d	4071325	End Cal Factor(59)
+0x3e2380	4072320	End Cal Factor(59)
+0x3e2fea	4075498	Current Source Calibration
+0x3e3040	4075584	the LC103 Final Test Box.
+0x3e3183	4075907	Current Source Calibration
+0x3e31ba	4075962	Gain Calibration
+0x3e3249	4076105	Leakage Voltage Calibration
+0x3e32d7	4076247	Leakage Current Test
+0x3e3365	4076389	Gain Calibration
+0x3e3595	4076949	the LC103 Final Test Box.
+0x3e36c3	4077251	Gain Calibration
+0x3e3787	4077447	the LC103 Final Test Box.
+0x3e37e2	4077538	Leakage Voltage Calibration
+0x3e3839	4077625	the LC103 Final Test Box.
+0x3e3997	4077975	the LC103 Final Test Box.
+0x3e3b1b	4078363	the LC103 Final Test Box.
+0x3e3b99	4078489	Leakage Current Test
+0x3e426f	4080239	Current Source Calibration
+0x3e44f5	4080885	Leakage Voltage Calibration
+0x3e46d8	4081368	Leakage Current Test
+0x3e5774	4085620	Leakage Current Test
+0x3e57a7	4085671	Leakage Voltage Calibration
+0x3e5805	4085765	Gain Calibration
+0x3e5816	4085782	Current Source Calibration
+0x3e59d3	4086227	Current Source Calibration
+0x3e59ee	4086254	Current Source Calibration
+0x3e59ee	4086254	Current Source CalibrationfConnect the UUT and/or DVM leads to
+0x3e5a2d	4086317	the LC103 Final Test Box.
+0x3e5a72	4086386	Gain Calibration
+0x3e5a83	4086403	Gain Calibration
+0x3e5ab8	4086456	the LC103 Final Test Box.
+0x3e5baa	4086698	Leakage Voltage Calibration
+0x3e5bc6	4086726	Leakage Voltage Calibration
+0x3e5c06	4086790	the LC103 Final Test Box.
+0x3e5c82	4086914	the LC103 Final Test Box.
+0x3e5d14	4087060	the LC103 Final Test Box.
+0x3e5d58	4087128	Leakage Current Test
+0x3e5d6d	4087149	Leakage Current Test
+0x3e5da6	4087206	the LC103 Final Test Box.
+0x3e6435	4088885	End Cal Factor(59)
+0x3e644b	4088907	Start Cal Factor(0)
+0x412f16	4271894	Current Source Calibration
+0x412f31	4271921	Gain Calibration
+0x412f96	4272022	Leakage Voltage Calibration
+0x412fd0	4272080	Leakage Current Test

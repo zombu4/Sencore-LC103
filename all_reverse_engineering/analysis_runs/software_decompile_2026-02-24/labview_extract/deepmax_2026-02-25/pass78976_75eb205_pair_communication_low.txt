@@ -1,0 +1,26 @@
+68015:2b0875 (ABC) Uniquely identifies the instrument to establish communications with.  The grammar for the instrument descriptor is shown below.  Parameters are shown in lower-case and optional parameters are shown in square brackets ([]).
+77806:344275 This vi handles the RS-232 communications for a UUT. FC In and FC Out are used for flow control.
+238578:f3851 (ABC) Uniquely identifies the instrument to establish communications with.  The grammar for the instrument descriptor is shown below.  Parameters are shown in lower-case and optional parameters are shown in square brackets ([]).
+248186:183391 This vi handles the RS-232 communications for a UUT. FC In and FC Out are used for flow control.
+248365:184788 This vi handles the RS-232 communications for a UUT. FC In and FC Out are used for flow control.
+305208:c09f6 (ABC) Uniquely identifies the instrument to establish communications with.  The grammar for the instrument descriptor is shown below.  Parameters are shown in lower-case and optional parameters are shown in square brackets ([]).
+310408:10c927 This vi handles the RS-232 communications for a UUT. FC In and FC Out are used for flow control.
+310586:10dd08 This vi handles the RS-232 communications for a UUT. FC In and FC Out are used for flow control.
+337482:bfce2 (ABC) Uniquely identifies the instrument to establish communications with.  The grammar for the instrument descriptor is shown below.  Parameters are shown in lower-case and optional parameters are shown in square brackets ([]).
+359408:b5e89 (ABC) Uniquely identifies the instrument to establish communications with.  The grammar for the instrument descriptor is shown below.  Parameters are shown in lower-case and optional parameters are shown in square brackets ([]).
+394601:312369 This vi handles the RS-232 communications for a UUT. FC In and FC Out are used for flow control.
+404015:3a3bdc This vi handles the RS-232 communications for a UUT. FC In and FC Out are used for flow control.
+430207:b5c02 (ABC) Uniquely identifies the instrument to establish communications with.  The grammar for the instrument descriptor is shown below.  Parameters are shown in lower-case and optional parameters are shown in square brackets ([]).
+438764:1456a2 This vi handles the RS-232 communications for a UUT. FC In and FC Out are used for flow control.
+442998:18560c This vi handles the RS-232 communications for a UUT. FC In and FC Out are used for flow control.
+465148:b44d2 (ABC) Uniquely identifies the instrument to establish communications with.  The grammar for the instrument descriptor is shown below.  Parameters are shown in lower-case and optional parameters are shown in square brackets ([]).
+488624:b5e89 (ABC) Uniquely identifies the instrument to establish communications with.  The grammar for the instrument descriptor is shown below.  Parameters are shown in lower-case and optional parameters are shown in square brackets ([]).
+519778:32e3c7 This vi handles the RS-232 communications for a UUT. FC In and FC Out are used for flow control.
+527352:3b2828 This vi handles the RS-232 communications for a UUT. FC In and FC Out are used for flow control.
+542675:b5c02 (ABC) Uniquely identifies the instrument to establish communications with.  The grammar for the instrument descriptor is shown below.  Parameters are shown in lower-case and optional parameters are shown in square brackets ([]).
+556371:1a40bc This vi handles the RS-232 communications for a UUT. FC In and FC Out are used for flow control.
+556717:1ab510 This vi handles the RS-232 communications for a UUT. FC In and FC Out are used for flow control.
+573064:b44d2 (ABC) Uniquely identifies the instrument to establish communications with.  The grammar for the instrument descriptor is shown below.  Parameters are shown in lower-case and optional parameters are shown in square brackets ([]).
+593346:b5de9 (ABC) Uniquely identifies the instrument to establish communications with.  The grammar for the instrument descriptor is shown below.  Parameters are shown in lower-case and optional parameters are shown in square brackets ([]).
+596751:f3a88 This vi handles the RS-232 communications for a UUT. FC In and FC Out are used for flow control.
+601412:13eff8 This vi handles the RS-232 communications for a UUT. FC In and FC Out are used for flow control.

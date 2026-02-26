@@ -1,0 +1,1 @@
+372361:1937be convert eol? converts the LabVIEW end of line marker to the platform specific marker when set to TRUE. When set to false (the default value), no conversion occurs.

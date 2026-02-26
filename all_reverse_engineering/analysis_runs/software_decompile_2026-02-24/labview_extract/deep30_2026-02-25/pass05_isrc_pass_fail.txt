@@ -1,0 +1,65 @@
+105592:500489 on Range S
+105598:5005f4 " Failed Calibration. Adjusted >10%R
+105602:500692 on Range W
+105715:5010ba Gain Calibration" Failed Calibration. Adjusted >10%
+105717:50110d on Range !Gain Calibration Failed
+105718:50112f on Range 
+108971:5363b5  Failed Calibration.R
+108974:536429 +Current Source Calibration Passed
+108975:53644c on Range W
+109017:536a4f Communications Error.U
+109136:5375b3 +Current Source Calibration Passed
+109137:5375d6 on Range 
+109140:537603  Failed Calibration.
+109141:537618 Communications Error.
+110398:54fc2c ( Failed Calibration. Gain Adjustment>10%U
+110447:55037e 0 Failed Calibration. Offset Adjustment too high.W
+110561:550b76 Communication Error.0 Failed Calibration. Offset Adjustment too high.( Failed Calibration. Gain Adjustment>10%
+115913:5b5abe ADD-ON RANGE
+264096:27a5e5 on Range S
+264102:27a750 " Failed Calibration. Adjusted >10%R
+264106:27a7ee on Range W
+264219:27b216 Gain Calibration" Failed Calibration. Adjusted >10%
+264221:27b269 on Range !Gain Calibration Failed
+264222:27b28b on Range 
+267484:2b0789  Failed Calibration.R
+267487:2b07fd +Current Source Calibration Passed
+267488:2b0820 on Range W
+267530:2b0e23 Communications Error.U
+267649:2b1987 +Current Source Calibration Passed
+267650:2b19aa on Range 
+267653:2b19d7  Failed Calibration.
+267654:2b19ec Communications Error.
+268915:2ca0e4 ( Failed Calibration. Gain Adjustment>10%U
+268964:2ca836 0 Failed Calibration. Offset Adjustment too high.W
+269078:2cb02e Communication Error.0 Failed Calibration. Offset Adjustment too high.( Failed Calibration. Gain Adjustment>10%
+274464:330b16 ADD-ON RANGE
+363272:ef12e ADD-ON RANGE
+408408:3f0fa3 on Range 
+408410:3f0fc1 " Failed Calibration. Adjusted >10%
+408412:3f1004 on Range 
+408565:3f2167 on Range S
+408571:3f22c6 !!" Failed Calibration. Adjusted >10%R
+408575:3f2363 on Range W
+410614:4168fc  Failed Calibration.
+410615:416911 Range +Current Source Calibration Passed
+410616:41693a on Range 
+410620:416981 Communications Error.dd:\automated\lv51\lvsource\gencode.cGenRangeCheck
+410789:417d54  Failed Calibration.R
+410792:417dc3 !!+Current Source Calibration Passed
+410793:417de8 on Range W
+410837:4183ee Communications Error.U
+414892:45e324 ( Failed Calibration. Gain Adjustment>10%
+414898:45e3d1 @0@i0 Failed Calibration. Offset Adjustment too high.
+415075:45f843 ( Failed Calibration. Gain Adjustment>10%U
+415127:45ff98 000 Failed Calibration. Offset Adjustment too high.W
+493830:112451 ADD-ON RANGE
+497769:16493c ( Failed Calibration. Gain Adjustment>10%
+497775:1649e9 @0@i0 Failed Calibration. Offset Adjustment too high.
+498735:179741  Failed Calibration.
+498736:179756 Range +Current Source Calibration Passed
+498737:17977f on Range 
+498741:1797c6 Communications Error.d
+501337:1aa387 on Range 
+501339:1aa3a5 " Failed Calibration. Adjusted >10%
+501341:1aa3e8 on Range 

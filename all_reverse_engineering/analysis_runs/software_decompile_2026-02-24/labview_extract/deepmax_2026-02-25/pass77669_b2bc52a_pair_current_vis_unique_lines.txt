@@ -1,0 +1,3 @@
+49515:174cf0 Current Revision:
+52243:1ba884 There are currently %ld VIs with unsaved changes remaining to be removed from memory. To avoid this dialog for these VIs, select either Yes to All or No to All.
+52251:1bac2b "%p"\nCurrent Revision: %ld\nfThe history information is corrupt. Some information may be lost in an attempt to repair it. Repair?

@@ -1,0 +1,137 @@
+55723:1f85e5 Transfers the specified number of data bytes from a Message-Based device into a specified local memory buffer, using the VXIbus Byte Transfer Protocol.$
+55949:1fb703 Transfers the specified number of data bytes from a specified local memory buffer to a Message-Based device, using the VXIbus Byte Transfer Protocol.$
+59868:23a666 -1252  Error accessing VXIbus
+60475:244646 -1252  Error accessing VXIbus
+61651:25286f -1252  Error accessing VXIbus
+62461:25a870 Transfers the specified number of data bytes from a specified local memory buffer to a device, using either the VXIbus Byte Transfer Protocol (in the case of VXIbus message-based devices), or IEEE 488.2 bus Protocol (in the case of GPIB devices).$
+62800:25f23e -1252  Error accessing VXIbus
+63558:271a2d -1252  Error accessing VXIbus
+66185:2965bd -1252  Error accessing VXIbus
+68065:2b1303 -1252  Error accessing VXIbus
+68886:2b8d63 -1252  Error accessing VXIbus
+226082:38f25 Transfers the specified number of data bytes from a Message-Based device into a specified local memory buffer, using the VXIbus Byte Transfer Protocol.$
+226187:39c0c Transfers the specified number of data bytes from a Message-Based device into a specified local memory buffer, using the VXIbus Byte Transfer Protocol.
+226313:3c1cb Transfers the specified number of data bytes from a specified local memory buffer to a Message-Based device, using the VXIbus Byte Transfer Protocol.$
+226408:3ce38 Transfers the specified number of data bytes from a specified local memory buffer to a Message-Based device, using the VXIbus Byte Transfer Protocol.
+230329:7c386 -1252  Error accessing VXIbus
+230963:867da -1252  Error accessing VXIbus
+232154:94c2b -1252  Error accessing VXIbus
+232964:9cc2c Transfers the specified number of data bytes from a specified local memory buffer to a device, using either the VXIbus Byte Transfer Protocol (in the case of VXIbus message-based devices), or IEEE 488.2 bus Protocol (in the case of GPIB devices).$
+233228:9ec1c Transfers the specified number of data bytes from a specified local memory buffer to a device, using either the VXIbus Byte Transfer Protocol (in the case of VXIbus message-based devices), or IEEE 488.2 bus Protocol (in the case of GPIB devices).
+233319:a189e -1252  Error accessing VXIbus
+234095:b4465 -1252  Error accessing VXIbus
+236735:d935d -1252  Error accessing VXIbus
+238628:f42df -1252  Error accessing VXIbus
+239461:fbf83 -1252  Error accessing VXIbus
+292558:628e Transfers the specified number of data bytes from a Message-Based device into a specified local memory buffer, using the VXIbus Byte Transfer Protocol.$
+292664:6fdc Transfers the specified number of data bytes from a Message-Based device into a specified local memory buffer, using the VXIbus Byte Transfer Protocol.
+292789:959a Transfers the specified number of data bytes from a specified local memory buffer to a Message-Based device, using the VXIbus Byte Transfer Protocol.$
+292880:a208 Transfers the specified number of data bytes from a specified local memory buffer to a Message-Based device, using the VXIbus Byte Transfer Protocol.
+296844:49673 -1252  Error accessing VXIbus
+297489:53ab7 -1252  Error accessing VXIbus
+298692:61edc -1252  Error accessing VXIbus
+299507:69ee2 Transfers the specified number of data bytes from a specified local memory buffer to a device, using either the VXIbus Byte Transfer Protocol (in the case of VXIbus message-based devices), or IEEE 488.2 bus Protocol (in the case of GPIB devices).$
+299776:6bea8 Transfers the specified number of data bytes from a specified local memory buffer to a device, using either the VXIbus Byte Transfer Protocol (in the case of VXIbus message-based devices), or IEEE 488.2 bus Protocol (in the case of GPIB devices).
+299867:6eb27 -1252  Error accessing VXIbus
+300660:816c2 -1252  Error accessing VXIbus
+303334:a655a -1252  Error accessing VXIbus
+305258:c1484 -1252  Error accessing VXIbus
+306100:c910c -1252  Error accessing VXIbus
+324536:2ce4 Transfers the specified number of data bytes from a Message-Based device into a specified local memory buffer, using the VXIbus Byte Transfer Protocol.
+324683:569f Transfers the specified number of data bytes from a Message-Based device into a specified local memory buffer, using the VXIbus Byte Transfer Protocol.$
+324790:6470 Transfers the specified number of data bytes from a specified local memory buffer to a Message-Based device, using the VXIbus Byte Transfer Protocol.
+324915:893f Transfers the specified number of data bytes from a specified local memory buffer to a Message-Based device, using the VXIbus Byte Transfer Protocol.$
+329062:488f3 -1252  Error accessing VXIbus
+329726:52da3 -1252  Error accessing VXIbus
+330868:5d688 Transfers the specified number of data bytes from a specified local memory buffer to a device, using either the VXIbus Byte Transfer Protocol (in the case of VXIbus message-based devices), or IEEE 488.2 bus Protocol (in the case of GPIB devices).
+330942:61224 -1252  Error accessing VXIbus
+331771:6922a Transfers the specified number of data bytes from a specified local memory buffer to a device, using either the VXIbus Byte Transfer Protocol (in the case of VXIbus message-based devices), or IEEE 488.2 bus Protocol (in the case of GPIB devices).$
+332128:6de3b -1252  Error accessing VXIbus
+332929:80ad2 -1252  Error accessing VXIbus
+335608:a5842 -1252  Error accessing VXIbus
+337532:c0770 -1252  Error accessing VXIbus
+338377:c8429 -1252  Error accessing VXIbus
+347527:41e5 Transfers the specified number of data bytes from a Message-Based device into a specified local memory buffer, using the VXIbus Byte Transfer Protocol.$
+347632:4ecc Transfers the specified number of data bytes from a Message-Based device into a specified local memory buffer, using the VXIbus Byte Transfer Protocol.
+347758:748b Transfers the specified number of data bytes from a specified local memory buffer to a Message-Based device, using the VXIbus Byte Transfer Protocol.$
+347853:80f8 Transfers the specified number of data bytes from a specified local memory buffer to a Message-Based device, using the VXIbus Byte Transfer Protocol.
+351774:47646 -1252  Error accessing VXIbus
+352408:51a9a -1252  Error accessing VXIbus
+353599:5feeb -1252  Error accessing VXIbus
+354409:67eec Transfers the specified number of data bytes from a specified local memory buffer to a device, using either the VXIbus Byte Transfer Protocol (in the case of VXIbus message-based devices), or IEEE 488.2 bus Protocol (in the case of GPIB devices).$
+354673:69edc Transfers the specified number of data bytes from a specified local memory buffer to a device, using either the VXIbus Byte Transfer Protocol (in the case of VXIbus message-based devices), or IEEE 488.2 bus Protocol (in the case of GPIB devices).
+354925:76a9d -1252  Error accessing VXIbus
+357565:9b995 -1252  Error accessing VXIbus
+359458:b6917 -1252  Error accessing VXIbus
+418187:4102 Transfers the specified number of data bytes from a Message-Based device into a specified local memory buffer, using the VXIbus Byte Transfer Protocol.$
+418293:4e50 Transfers the specified number of data bytes from a Message-Based device into a specified local memory buffer, using the VXIbus Byte Transfer Protocol.
+418418:740e Transfers the specified number of data bytes from a specified local memory buffer to a Message-Based device, using the VXIbus Byte Transfer Protocol.$
+418509:807c Transfers the specified number of data bytes from a specified local memory buffer to a Message-Based device, using the VXIbus Byte Transfer Protocol.
+422473:474e7 -1252  Error accessing VXIbus
+423118:5192b -1252  Error accessing VXIbus
+424321:5fd50 -1252  Error accessing VXIbus
+425136:67d56 Transfers the specified number of data bytes from a specified local memory buffer to a device, using either the VXIbus Byte Transfer Protocol (in the case of VXIbus message-based devices), or IEEE 488.2 bus Protocol (in the case of GPIB devices).$
+425405:69d1c Transfers the specified number of data bytes from a specified local memory buffer to a device, using either the VXIbus Byte Transfer Protocol (in the case of VXIbus message-based devices), or IEEE 488.2 bus Protocol (in the case of GPIB devices).
+425659:768ce -1252  Error accessing VXIbus
+428333:9b766 -1252  Error accessing VXIbus
+430257:b6690 -1252  Error accessing VXIbus
+452835:130 Transfers the specified number of data bytes from a Message-Based device into a specified local memory buffer, using the VXIbus Byte Transfer Protocol.
+452982:2aeb Transfers the specified number of data bytes from a Message-Based device into a specified local memory buffer, using the VXIbus Byte Transfer Protocol.$
+453089:38bc Transfers the specified number of data bytes from a specified local memory buffer to a Message-Based device, using the VXIbus Byte Transfer Protocol.
+453214:5d8b Transfers the specified number of data bytes from a specified local memory buffer to a Message-Based device, using the VXIbus Byte Transfer Protocol.$
+457361:45d3f -1252  Error accessing VXIbus
+458025:501ef -1252  Error accessing VXIbus
+459167:5aad4 Transfers the specified number of data bytes from a specified local memory buffer to a device, using either the VXIbus Byte Transfer Protocol (in the case of VXIbus message-based devices), or IEEE 488.2 bus Protocol (in the case of GPIB devices).
+459241:5e670 -1252  Error accessing VXIbus
+460070:66676 Transfers the specified number of data bytes from a specified local memory buffer to a device, using either the VXIbus Byte Transfer Protocol (in the case of VXIbus message-based devices), or IEEE 488.2 bus Protocol (in the case of GPIB devices).$
+460595:752c2 -1252  Error accessing VXIbus
+463274:9a032 -1252  Error accessing VXIbus
+465198:b4f60 -1252  Error accessing VXIbus
+476743:41e5 Transfers the specified number of data bytes from a Message-Based device into a specified local memory buffer, using the VXIbus Byte Transfer Protocol.$
+476848:4ecc Transfers the specified number of data bytes from a Message-Based device into a specified local memory buffer, using the VXIbus Byte Transfer Protocol.
+476974:748b Transfers the specified number of data bytes from a specified local memory buffer to a Message-Based device, using the VXIbus Byte Transfer Protocol.$
+477069:80f8 Transfers the specified number of data bytes from a specified local memory buffer to a Message-Based device, using the VXIbus Byte Transfer Protocol.
+480990:47646 -1252  Error accessing VXIbus
+481624:51a9a -1252  Error accessing VXIbus
+482815:5feeb -1252  Error accessing VXIbus
+483625:67eec Transfers the specified number of data bytes from a specified local memory buffer to a device, using either the VXIbus Byte Transfer Protocol (in the case of VXIbus message-based devices), or IEEE 488.2 bus Protocol (in the case of GPIB devices).$
+483889:69edc Transfers the specified number of data bytes from a specified local memory buffer to a device, using either the VXIbus Byte Transfer Protocol (in the case of VXIbus message-based devices), or IEEE 488.2 bus Protocol (in the case of GPIB devices).
+484141:76a9d -1252  Error accessing VXIbus
+486781:9b995 -1252  Error accessing VXIbus
+488674:b6917 -1252  Error accessing VXIbus
+530655:4102 Transfers the specified number of data bytes from a Message-Based device into a specified local memory buffer, using the VXIbus Byte Transfer Protocol.$
+530761:4e50 Transfers the specified number of data bytes from a Message-Based device into a specified local memory buffer, using the VXIbus Byte Transfer Protocol.
+530886:740e Transfers the specified number of data bytes from a specified local memory buffer to a Message-Based device, using the VXIbus Byte Transfer Protocol.$
+530977:807c Transfers the specified number of data bytes from a specified local memory buffer to a Message-Based device, using the VXIbus Byte Transfer Protocol.
+534941:474e7 -1252  Error accessing VXIbus
+535586:5192b -1252  Error accessing VXIbus
+536789:5fd50 -1252  Error accessing VXIbus
+537604:67d56 Transfers the specified number of data bytes from a specified local memory buffer to a device, using either the VXIbus Byte Transfer Protocol (in the case of VXIbus message-based devices), or IEEE 488.2 bus Protocol (in the case of GPIB devices).$
+537873:69d1c Transfers the specified number of data bytes from a specified local memory buffer to a device, using either the VXIbus Byte Transfer Protocol (in the case of VXIbus message-based devices), or IEEE 488.2 bus Protocol (in the case of GPIB devices).
+538127:768ce -1252  Error accessing VXIbus
+540801:9b766 -1252  Error accessing VXIbus
+542725:b6690 -1252  Error accessing VXIbus
+560751:130 Transfers the specified number of data bytes from a Message-Based device into a specified local memory buffer, using the VXIbus Byte Transfer Protocol.
+560898:2aeb Transfers the specified number of data bytes from a Message-Based device into a specified local memory buffer, using the VXIbus Byte Transfer Protocol.$
+561005:38bc Transfers the specified number of data bytes from a specified local memory buffer to a Message-Based device, using the VXIbus Byte Transfer Protocol.
+561130:5d8b Transfers the specified number of data bytes from a specified local memory buffer to a Message-Based device, using the VXIbus Byte Transfer Protocol.$
+565277:45d3f -1252  Error accessing VXIbus
+565941:501ef -1252  Error accessing VXIbus
+567083:5aad4 Transfers the specified number of data bytes from a specified local memory buffer to a device, using either the VXIbus Byte Transfer Protocol (in the case of VXIbus message-based devices), or IEEE 488.2 bus Protocol (in the case of GPIB devices).
+567157:5e670 -1252  Error accessing VXIbus
+567986:66676 Transfers the specified number of data bytes from a specified local memory buffer to a device, using either the VXIbus Byte Transfer Protocol (in the case of VXIbus message-based devices), or IEEE 488.2 bus Protocol (in the case of GPIB devices).$
+568511:752c2 -1252  Error accessing VXIbus
+571190:9a032 -1252  Error accessing VXIbus
+573114:b4f60 -1252  Error accessing VXIbus
+581466:415d Transfers the specified number of data bytes from a Message-Based device into a specified local memory buffer, using the VXIbus Byte Transfer Protocol.$
+581571:4e44 Transfers the specified number of data bytes from a Message-Based device into a specified local memory buffer, using the VXIbus Byte Transfer Protocol.
+581697:7403 Transfers the specified number of data bytes from a specified local memory buffer to a Message-Based device, using the VXIbus Byte Transfer Protocol.$
+581792:8070 Transfers the specified number of data bytes from a specified local memory buffer to a Message-Based device, using the VXIbus Byte Transfer Protocol.
+585713:475be -1252  Error accessing VXIbus
+586347:51a12 -1252  Error accessing VXIbus
+587538:5fe63 -1252  Error accessing VXIbus
+588348:67e64 Transfers the specified number of data bytes from a specified local memory buffer to a device, using either the VXIbus Byte Transfer Protocol (in the case of VXIbus message-based devices), or IEEE 488.2 bus Protocol (in the case of GPIB devices).$
+588612:69e54 Transfers the specified number of data bytes from a specified local memory buffer to a device, using either the VXIbus Byte Transfer Protocol (in the case of VXIbus message-based devices), or IEEE 488.2 bus Protocol (in the case of GPIB devices).
+588863:769fd -1252  Error accessing VXIbus
+591503:9b8f5 -1252  Error accessing VXIbus
+593396:b6877 -1252  Error accessing VXIbus

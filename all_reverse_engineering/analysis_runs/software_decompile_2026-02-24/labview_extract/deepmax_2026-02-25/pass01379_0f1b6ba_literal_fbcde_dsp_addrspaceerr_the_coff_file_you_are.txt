@@ -1,0 +1,1 @@
+341324:fbcde DSP AddrSpaceErr:  The COFF file you are trying to load is linked with a memory map that exceeds the maximum memory space allowed by the WE DSP32C chip (2^24).GDSP CoffSectErr:  Found an unimplemented section flag in the COFF file.

@@ -1,0 +1,26 @@
+46514:15b862 <<fn=%s(%ld), TOOL: already exists. index=%ld
+51878:1b7c29 Could not find directory "%z".CThe VI already exists and you do not have permission to replace it.
+52430:1bc8c1 Can't find file in VI library. Can't get palette menu resource."Palette position already occupied.
+75739:323a21 uqReads the number of characters specified by requested byte count from the serial port indicated in port number.
+132732:1efa6e _setNumReadingsAndSrcIndex@16
+246060:162361 uqReads the number of characters specified by requested byte count from the serial port indicated in port number.
+246164:162d03 qReads the number of characters specified by requested byte count from the serial port indicated in port number.
+308282:eb956 uqReads the number of characters specified by requested byte count from the serial port indicated in port number.
+308384:ec2f3 qReads the number of characters specified by requested byte count from the serial port indicated in port number.
+320787:1c3894 aaaLeads zero, open Cap must read 0, IND must read "OPEN" and ESR must read "ERROR 7"W
+320789:1c3953 MMMLead zero, shorted CAP must read "SHORT", IND and ESR must read 0l
+396892:334dbb uqReads the number of characters specified by requested byte count from the serial port indicated in port number.
+404007:3a3a37 qReads the number of characters specified by requested byte count from the serial port indicated in port number.
+441083:168104 uqReads the number of characters specified by requested byte count from the serial port indicated in port number.
+442990:185467 qReads the number of characters specified by requested byte count from the serial port indicated in port number.
+447600:1ca0c0 aaaLeads zero, open Cap must read 0, IND must read "OPEN" and ESR must read "ERROR 7"W
+447602:1ca17f MMMLead zero, shorted CAP must read "SHORT", IND and ESR must read 0l
+521719:34caa8 uqReads the number of characters specified by requested byte count from the serial port indicated in port number.
+527344:3b2683 qReads the number of characters specified by requested byte count from the serial port indicated in port number.
+550708:13e26b aaaLeads zero, open Cap must read 0, IND must read "OPEN" and ESR must read "ERROR 7"W
+550710:13e32a MMMLead zero, shorted CAP must read "SHORT", IND and ESR must read 0l
+556363:1a3f17 qReads the number of characters specified by requested byte count from the serial port indicated in port number.
+558323:1c6bdd uqReads the number of characters specified by requested byte count from the serial port indicated in port number.
+596743:f38e3 qReads the number of characters specified by requested byte count from the serial port indicated in port number.
+600529:131143 qReads the number of characters specified by requested byte count from the serial port indicated in port number.
+638221:1efa6e _setNumReadingsAndSrcIndex@16

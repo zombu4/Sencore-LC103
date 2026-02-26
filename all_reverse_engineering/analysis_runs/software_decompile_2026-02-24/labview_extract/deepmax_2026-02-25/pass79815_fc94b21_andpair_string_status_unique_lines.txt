@@ -1,0 +1,48 @@
+57231:212a20 status[15]- GPIB error detectedA=data string contains count data bytes from the GPIB device.
+63518:2711af [W(string) source: an indication of where an error occurred, usually the name of the VI.1-(bool) status: TRUE if an error has occurred."
+66147:295e41 [W(string) source: an indication of where an error occurred, usually the name of the VI.1-(bool) status: TRUE if an error has occurred."
+68014:2b07e9 [W(string) source: an indication of where an error occurred, usually the name of the VI.1-(bool) status: TRUE if an error has occurred.
+68888:2b8dad 1-(bool) status: TRUE if an error has occurred.[W(string) source: an indication of where an error occurred, usually the name of the VI."
+227622:53a78 status[15]- GPIB error detectedA=data string contains count data bytes from the GPIB device.
+234055:b3be7 [W(string) source: an indication of where an error occurred, usually the name of the VI.1-(bool) status: TRUE if an error has occurred."
+236697:d8be1 [W(string) source: an indication of where an error occurred, usually the name of the VI.1-(bool) status: TRUE if an error has occurred."
+238577:f37c5 [W(string) source: an indication of where an error occurred, usually the name of the VI.1-(bool) status: TRUE if an error has occurred.
+239463:fbfcd 1-(bool) status: TRUE if an error has occurred.[W(string) source: an indication of where an error occurred, usually the name of the VI."
+294105:20e09 status[15]- GPIB error detectedA=data string contains count data bytes from the GPIB device.
+300620:80e44 [W(string) source: an indication of where an error occurred, usually the name of the VI.1-(bool) status: TRUE if an error has occurred."
+303296:a5dde [W(string) source: an indication of where an error occurred, usually the name of the VI.1-(bool) status: TRUE if an error has occurred."
+305207:c096a [W(string) source: an indication of where an error occurred, usually the name of the VI.1-(bool) status: TRUE if an error has occurred.
+306102:c9156 1-(bool) status: TRUE if an error has occurred.[W(string) source: an indication of where an error occurred, usually the name of the VI."
+326272:20101 status[15]- GPIB error detectedA=data string contains count data bytes from the GPIB device.
+332889:80254 [W(string) source: an indication of where an error occurred, usually the name of the VI.1-(bool) status: TRUE if an error has occurred."
+335570:a50c6 [W(string) source: an indication of where an error occurred, usually the name of the VI.1-(bool) status: TRUE if an error has occurred."
+337481:bfc56 [W(string) source: an indication of where an error occurred, usually the name of the VI.1-(bool) status: TRUE if an error has occurred.
+338379:c8473 1-(bool) status: TRUE if an error has occurred.[W(string) source: an indication of where an error occurred, usually the name of the VI."
+349067:1ed38 status[15]- GPIB error detectedA=data string contains count data bytes from the GPIB device.
+354885:7621f [W(string) source: an indication of where an error occurred, usually the name of the VI.1-(bool) status: TRUE if an error has occurred."
+357527:9b219 [W(string) source: an indication of where an error occurred, usually the name of the VI.1-(bool) status: TRUE if an error has occurred."
+359407:b5dfd [W(string) source: an indication of where an error occurred, usually the name of the VI.1-(bool) status: TRUE if an error has occurred.
+419734:1ec7d status[15]- GPIB error detectedA=data string contains count data bytes from the GPIB device.
+425619:76050 [W(string) source: an indication of where an error occurred, usually the name of the VI.1-(bool) status: TRUE if an error has occurred."
+428295:9afea [W(string) source: an indication of where an error occurred, usually the name of the VI.1-(bool) status: TRUE if an error has occurred."
+430206:b5b76 [W(string) source: an indication of where an error occurred, usually the name of the VI.1-(bool) status: TRUE if an error has occurred.
+454571:1d54d status[15]- GPIB error detectedA=data string contains count data bytes from the GPIB device.
+460555:74a44 [W(string) source: an indication of where an error occurred, usually the name of the VI.1-(bool) status: TRUE if an error has occurred."
+463236:998b6 [W(string) source: an indication of where an error occurred, usually the name of the VI.1-(bool) status: TRUE if an error has occurred."
+465147:b4446 [W(string) source: an indication of where an error occurred, usually the name of the VI.1-(bool) status: TRUE if an error has occurred.
+478283:1ed38 status[15]- GPIB error detectedA=data string contains count data bytes from the GPIB device.
+484101:7621f [W(string) source: an indication of where an error occurred, usually the name of the VI.1-(bool) status: TRUE if an error has occurred."
+486743:9b219 [W(string) source: an indication of where an error occurred, usually the name of the VI.1-(bool) status: TRUE if an error has occurred."
+488623:b5dfd [W(string) source: an indication of where an error occurred, usually the name of the VI.1-(bool) status: TRUE if an error has occurred.
+532202:1ec7d status[15]- GPIB error detectedA=data string contains count data bytes from the GPIB device.
+538087:76050 [W(string) source: an indication of where an error occurred, usually the name of the VI.1-(bool) status: TRUE if an error has occurred."
+540763:9afea [W(string) source: an indication of where an error occurred, usually the name of the VI.1-(bool) status: TRUE if an error has occurred."
+542674:b5b76 [W(string) source: an indication of where an error occurred, usually the name of the VI.1-(bool) status: TRUE if an error has occurred.
+562487:1d54d status[15]- GPIB error detectedA=data string contains count data bytes from the GPIB device.
+568471:74a44 [W(string) source: an indication of where an error occurred, usually the name of the VI.1-(bool) status: TRUE if an error has occurred."
+571152:998b6 [W(string) source: an indication of where an error occurred, usually the name of the VI.1-(bool) status: TRUE if an error has occurred."
+573063:b4446 [W(string) source: an indication of where an error occurred, usually the name of the VI.1-(bool) status: TRUE if an error has occurred.
+583006:1ecb0 status[15]- GPIB error detectedA=data string contains count data bytes from the GPIB device.
+588823:7617f [W(string) source: an indication of where an error occurred, usually the name of the VI.1-(bool) status: TRUE if an error has occurred."
+591465:9b179 [W(string) source: an indication of where an error occurred, usually the name of the VI.1-(bool) status: TRUE if an error has occurred."
+593345:b5d5d [W(string) source: an indication of where an error occurred, usually the name of the VI.1-(bool) status: TRUE if an error has occurred.

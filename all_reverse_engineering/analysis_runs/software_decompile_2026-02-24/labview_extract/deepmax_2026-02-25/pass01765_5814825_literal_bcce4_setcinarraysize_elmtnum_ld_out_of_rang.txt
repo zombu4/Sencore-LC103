@@ -1,0 +1,2 @@
+466037:bcce4 SetCINArraySize, elmtNum %ld out of range 0 <= elmtNum < %ldnon-array detected
+573953:bcce4 SetCINArraySize, elmtNum %ld out of range 0 <= elmtNum < %ldnon-array detected

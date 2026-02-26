@@ -1,0 +1,1 @@
+546535:f649a user-defined codes is an array of the numeric error codes you define in your VIs. The VI searches this array after searching the internal list of error codes. Codes in the range of 5000 to 9999 are reserved for users.

@@ -1,0 +1,3 @@
+52409:1bc043 LabVIEW load error code %ld: %p,Could not load front panel link information.
+52410:1bc090 Could not load front panel.%Front panel load detected link error..Could not load block diagram link information.
+52414:1bc277 Could not load default data.+Could not load data space link information.%Could not load VI's link information.&Could not load LVSB platform resource.6Demonstration versions of LabVIEW cannot load this VI.

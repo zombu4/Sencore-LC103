@@ -1,0 +1,109 @@
+74843:317181 Parity Error Byte. If the high byte is non-zero, the low byte is the character that is used to replace any parity errors found when parity is enabled.
+75391:31dcc4 .error code. If error code is non-zero, an error occurred. Refer to Appendix C, Error Codes, for a list of error codes.
+75614:321518 .error code. If error code is non-zero, an error occurred. Refer to Appendix C, Error Codes, for a list of error codes.
+75868:3252cb .error code. If error code is non-zero, an error occurred. Refer to Appendix C, Error Codes, for a list of error codes.
+76089:32933c status is TRUE if an error occurred, or FALSE if not. If status is TRUE, code is a non-zero error code. If status is FALSE, code can be zero or a warning code."
+76436:32f246 status is TRUE if an error occurred, or FALSE if not. If status is TRUE, code is a non-zero error code. If status is FALSE, code can be zero or a warning code."
+76852:336b7a status is TRUE if an error occurred before this VI was called, or FALSE if not. If status is TRUE, code is a non-zero error code. If status is FALSE, code can be zero or a warning code."
+76860:336fed status is TRUE if an error occurred, or FALSE if not. If status is TRUE, code is a non-zero error code. If status is FALSE, code can be zero or a warning code."
+100480:4a17b6 If the error in cluster has a status of no-error, then test each element of error codes array, stopping on the first non-zero value or after all are tested; pick the selected line from the optional source messages as the error out source.
+101588:4b7300 error code is a numeric error code. If error in indicates an error, the VI ignores error code. If not, the VI tests it. A non-zero value signifies an error.
+103422:4dca2d You can control the number of lines in a port by the parameter port width. You also have the option of not reconfiguring the port as an output port with each iteration of the VI by setting the iteration control to a non-zero value.
+103844:4e2c52 You have the option to not reconfigure the port as an input port by setting the iteration control to a non-zero value. You can also concatenate multiple ports to operate as one large port by using the port width paramter.
+245153:155835 Parity Error Byte. If the high byte is non-zero, the low byte is the character that is used to replace any parity errors found when parity is enabled.
+245706:15c4a8 .error code. If error code is non-zero, an error occurred. Refer to Appendix C, Error Codes, for a list of error codes.
+245935:15fe58 .error code. If error code is non-zero, an error occurred. Refer to Appendix C, Error Codes, for a list of error codes.
+246194:163d6f .error code. If error code is non-zero, an error occurred. Refer to Appendix C, Error Codes, for a list of error codes.
+246424:167f68 status is TRUE if an error occurred, or FALSE if not. If status is TRUE, code is a non-zero error code. If status is FALSE, code can be zero or a warning code."
+246780:16df9e status is TRUE if an error occurred, or FALSE if not. If status is TRUE, code is a non-zero error code. If status is FALSE, code can be zero or a warning code."
+247217:175aae status is TRUE if an error occurred before this VI was called, or FALSE if not. If status is TRUE, code is a non-zero error code. If status is FALSE, code can be zero or a warning code."
+247225:175f21 status is TRUE if an error occurred, or FALSE if not. If status is TRUE, code is a non-zero error code. If status is FALSE, code can be zero or a warning code."
+258834:218b96 If the error in cluster has a status of no-error, then test each element of error codes array, stopping on the first non-zero value or after all are tested; pick the selected line from the optional source messages as the error out source.
+260021:22fed8 error code is a numeric error code. If error in indicates an error, the VI ignores error code. If not, the VI tests it. A non-zero value signifies an error.
+261872:255e51 You can control the number of lines in a port by the parameter port width. You also have the option of not reconfiguring the port as an output port with each iteration of the VI by setting the iteration control to a non-zero value.
+262040:257002 You can control the number of lines in a port by the parameter port width. You also have the option of not reconfiguring the port as an output port with each iteration of the VI by setting the iteration control to a non-zero value.
+262305:25c4a6 You have the option to not reconfigure the port as an input port by setting the iteration control to a non-zero value. You can also concatenate multiple ports to operate as one large port by using the port width paramter.
+262470:25d643 You have the option to not reconfigure the port as an input port by setting the iteration control to a non-zero value. You can also concatenate multiple ports to operate as one large port by using the port width paramter.
+307927:e5aa3 .error code. If error code is non-zero, an error occurred. Refer to Appendix C, Error Codes, for a list of error codes.
+308156:e944b .error code. If error code is non-zero, an error occurred. Refer to Appendix C, Error Codes, for a list of error codes.
+308414:ed35a .error code. If error code is non-zero, an error occurred. Refer to Appendix C, Error Codes, for a list of error codes.
+308640:f1547 status is TRUE if an error occurred, or FALSE if not. If status is TRUE, code is a non-zero error code. If status is FALSE, code can be zero or a warning code."
+308999:f7561 status is TRUE if an error occurred, or FALSE if not. If status is TRUE, code is a non-zero error code. If status is FALSE, code can be zero or a warning code."
+309443:ff055 status is TRUE if an error occurred before this VI was called, or FALSE if not. If status is TRUE, code is a non-zero error code. If status is FALSE, code can be zero or a warning code."
+309451:ff4c8 status is TRUE if an error occurred, or FALSE if not. If status is TRUE, code is a non-zero error code. If status is FALSE, code can be zero or a warning code."
+314009:14daf5 error code is a numeric error code. If error in indicates an error, the VI ignores error code. If not, the VI tests it. A non-zero value signifies an error.
+315374:16d430 You can control the number of lines in a port by the parameter port width. You also have the option of not reconfiguring the port as an output port with each iteration of the VI by setting the iteration control to a non-zero value.
+315540:16e5d6 You can control the number of lines in a port by the parameter port width. You also have the option of not reconfiguring the port as an output port with each iteration of the VI by setting the iteration control to a non-zero value.
+315804:173a76 You have the option to not reconfigure the port as an input port by setting the iteration control to a non-zero value. You can also concatenate multiple ports to operate as one large port by using the port width paramter.
+315970:174c0b You have the option to not reconfigure the port as an input port by setting the iteration control to a non-zero value. You can also concatenate multiple ports to operate as one large port by using the port width paramter.
+340492:ed0d8 error code is a numeric error code. If error in indicates an error, the VI ignores error code. If not, the VI tests it. A non-zero value signifies an error.
+341596:1075f6 You can control the number of lines in a port by the parameter port width. You also have the option of not reconfiguring the port as an output port with each iteration of the VI by setting the iteration control to a non-zero value.
+341860:10cabd You can control the number of lines in a port by the parameter port width. You also have the option of not reconfiguring the port as an output port with each iteration of the VI by setting the iteration control to a non-zero value.
+342026:10dc87 You have the option to not reconfigure the port as an input port by setting the iteration control to a non-zero value. You can also concatenate multiple ports to operate as one large port by using the port width paramter.
+342288:113112 You have the option to not reconfigure the port as an input port by setting the iteration control to a non-zero value. You can also concatenate multiple ports to operate as one large port by using the port width paramter.
+369533:15b5d9 You have the option to not reconfigure the port as an input port by setting the iteration control to a non-zero value. You can also concatenate multiple ports to operate as one large port by using the port width paramter.
+369993:1621f7 You can control the number of lines in a port by the parameter port width. You also have the option of not reconfiguring the port as an output port with each iteration of the VI by setting the iteration control to a non-zero value.
+371458:1838c8 error code is a numeric error code. If error in indicates an error, the VI ignores error code. If not, the VI tests it. A non-zero value signifies an error.
+373410:1a2bb5 If the error in cluster has a status of no-error, then test each element of error codes array, stopping on the first non-zero value or after all are tested; pick the selected line from the optional source messages as the error out source.
+395225:31b6a6 status is TRUE if an error occurred before this VI was called, or FALSE if not. If status is TRUE, code is a non-zero error code. If status is FALSE, code can be zero or a warning code.
+395229:31baf9 status is TRUE if an error occurred, or FALSE if not. If status is TRUE, code is a non-zero error code. If status is FALSE, code can be zero or a warning code.
+395892:325661 status is TRUE if an error occurred, or FALSE if not. If status is TRUE, code is a non-zero error code. If status is FALSE, code can be zero or a warning code.
+396326:32c56d status is TRUE if an error occurred, or FALSE if not. If status is TRUE, code is a non-zero error code. If status is FALSE, code can be zero or a warning code.
+396612:330d77 .error code. If error code is non-zero, an error occurred. Refer to Appendix C, Error Codes, for a list of error codes.
+396910:3351c9 .error code. If error code is non-zero, an error occurred. Refer to Appendix C, Error Codes, for a list of error codes.
+397190:338ffd .error code. If error code is non-zero, an error occurred. Refer to Appendix C, Error Codes, for a list of error codes.
+397613:33f74f Parity Error Byte. If the high byte is non-zero, the low byte is the character that is used to replace any parity errors found when parity is enabled.
+404066:3a5eee You can control the number of lines in a port by the parameter port width. You also have the option of not reconfiguring the port as an output port with each iteration of the VI by setting the iteration control to a non-zero value.
+404071:3a621b You have the option to not reconfigure the port as an input port by setting the iteration control to a non-zero value. You can also concatenate multiple ports to operate as one large port by using the port width paramter.
+432777:d593a You have the option to not reconfigure the port as an input port by setting the iteration control to a non-zero value. You can also concatenate multiple ports to operate as one large port by using the port width paramter.
+433235:dc554 You can control the number of lines in a port by the parameter port width. You also have the option of not reconfiguring the port as an output port with each iteration of the VI by setting the iteration control to a non-zero value.
+434159:f74eb error code is a numeric error code. If error in indicates an error, the VI ignores error code. If not, the VI tests it. A non-zero value signifies an error.
+439398:14e9d4 status is TRUE if an error occurred before this VI was called, or FALSE if not. If status is TRUE, code is a non-zero error code. If status is FALSE, code can be zero or a warning code.
+439402:14ee27 status is TRUE if an error occurred, or FALSE if not. If status is TRUE, code is a non-zero error code. If status is FALSE, code can be zero or a warning code.
+440074:15897b status is TRUE if an error occurred, or FALSE if not. If status is TRUE, code is a non-zero error code. If status is FALSE, code can be zero or a warning code.
+440513:15f889 status is TRUE if an error occurred, or FALSE if not. If status is TRUE, code is a non-zero error code. If status is FALSE, code can be zero or a warning code.
+440801:1640ba .error code. If error code is non-zero, an error occurred. Refer to Appendix C, Error Codes, for a list of error codes.
+441101:168512 .error code. If error code is non-zero, an error occurred. Refer to Appendix C, Error Codes, for a list of error codes.
+441385:16c343 .error code. If error code is non-zero, an error occurred. Refer to Appendix C, Error Codes, for a list of error codes.
+443015:185e66 You can control the number of lines in a port by the parameter port width. You also have the option of not reconfiguring the port as an output port with each iteration of the VI by setting the iteration control to a non-zero value.
+443020:186193 You have the option to not reconfigure the port as an input port by setting the iteration control to a non-zero value. You can also concatenate multiple ports to operate as one large port by using the port width paramter.
+467310:ccb4b You have the option to not reconfigure the port as an input port by setting the iteration control to a non-zero value. You can also concatenate multiple ports to operate as one large port by using the port width paramter.
+467315:cce46 You can control the number of lines in a port by the parameter port width. You also have the option of not reconfiguring the port as an output port with each iteration of the VI by setting the iteration control to a non-zero value.
+470138:106a6c error code is a numeric error code. If error in indicates an error, the VI ignores error code. If not, the VI tests it. A non-zero value signifies an error.
+470943:11468a You can control the number of lines in a port by the parameter port width. You also have the option of not reconfiguring the port as an output port with each iteration of the VI by setting the iteration control to a non-zero value.
+471410:11b27f You have the option to not reconfigure the port as an input port by setting the iteration control to a non-zero value. You can also concatenate multiple ports to operate as one large port by using the port width paramter.
+502657:1c2d5a You have the option to not reconfigure the port as an input port by setting the iteration control to a non-zero value. You can also concatenate multiple ports to operate as one large port by using the port width paramter.
+502995:1c89b8 You can control the number of lines in a port by the parameter port width. You also have the option of not reconfiguring the port as an output port with each iteration of the VI by setting the iteration control to a non-zero value.
+504209:1e9e3d error code is a numeric error code. If error in indicates an error, the VI ignores error code. If not, the VI tests it. A non-zero value signifies an error.
+505508:1ffb22 If the error in cluster has a status of no-error, then test each element of error codes array, stopping on the first non-zero value or after all are tested; pick the selected line from the optional source messages as the error out source.
+520647:338dd6 status is TRUE if an error occurred before this VI was called, or FALSE if not. If status is TRUE, code is a non-zero error code. If status is FALSE, code can be zero or a warning code.L%
+520651:33928c status is TRUE if an error occurred, or FALSE if not. If status is TRUE, code is a non-zero error code. If status is FALSE, code can be zero or a warning code.
+521063:341014 status is TRUE if an error occurred, or FALSE if not. If status is TRUE, code is a non-zero error code. If status is FALSE, code can be zero or a warning code.,
+521372:346919 status is TRUE if an error occurred, or FALSE if not. If status is TRUE, code is a non-zero error code. If status is FALSE, code can be zero or a warning code.,
+521567:34a20c .error code. If error code is non-zero, an error occurred. Refer to Appendix C, Error Codes, for a list of error codes.
+521769:34d710 .error code. If error code is non-zero, an error occurred. Refer to Appendix C, Error Codes, for a list of error codes.
+521958:35051b .error code. If error code is non-zero, an error occurred. Refer to Appendix C, Error Codes, for a list of error codes.
+522321:3568ac Parity Error Byte. If the high byte is non-zero, the low byte is the character that is used to replace any parity errors found when parity is enabled.
+527403:3b4b3a You can control the number of lines in a port by the parameter port width. You also have the option of not reconfiguring the port as an output port with each iteration of the VI by setting the iteration control to a non-zero value.
+527408:3b4e67 You have the option to not reconfigure the port as an input port by setting the iteration control to a non-zero value. You can also concatenate multiple ports to operate as one large port by using the port width paramter.
+545152:d484a You have the option to not reconfigure the port as an input port by setting the iteration control to a non-zero value. You can also concatenate multiple ports to operate as one large port by using the port width paramter.
+545610:db464 You can control the number of lines in a port by the parameter port width. You also have the option of not reconfiguring the port as an output port with each iteration of the VI by setting the iteration control to a non-zero value.
+546534:f63fb error code is a numeric error code. If error in indicates an error, the VI ignores error code. If not, the VI tests it. A non-zero value signifies an error.
+548944:121e5a You can control the number of lines in a port by the parameter port width. You also have the option of not reconfiguring the port as an output port with each iteration of the VI by setting the iteration control to a non-zero value.
+548949:122187 You have the option to not reconfigure the port as an input port by setting the iteration control to a non-zero value. You can also concatenate multiple ports to operate as one large port by using the port width paramter.
+557268:1b4351 status is TRUE if an error occurred before this VI was called, or FALSE if not. If status is TRUE, code is a non-zero error code. If status is FALSE, code can be zero or a warning code.L%
+557272:1b4807 status is TRUE if an error occurred, or FALSE if not. If status is TRUE, code is a non-zero error code. If status is FALSE, code can be zero or a warning code.
+557653:1bb118 status is TRUE if an error occurred, or FALSE if not. If status is TRUE, code is a non-zero error code. If status is FALSE, code can be zero or a warning code.,
+557966:1c0a21 status is TRUE if an error occurred, or FALSE if not. If status is TRUE, code is a non-zero error code. If status is FALSE, code can be zero or a warning code.,
+558168:1c433a .error code. If error code is non-zero, an error occurred. Refer to Appendix C, Error Codes, for a list of error codes.
+558374:1c7846 .error code. If error code is non-zero, an error occurred. Refer to Appendix C, Error Codes, for a list of error codes.
+558565:1ca64f .error code. If error code is non-zero, an error occurred. Refer to Appendix C, Error Codes, for a list of error codes.
+577718:13c363 You have the option to not reconfigure the port as an input port by setting the iteration control to a non-zero value. You can also concatenate multiple ports to operate as one large port by using the port width paramter.
+577723:13c65e You can control the number of lines in a port by the parameter port width. You also have the option of not reconfiguring the port as an output port with each iteration of the VI by setting the iteration control to a non-zero value.
+579628:16dd00 error code is a numeric error code. If error in indicates an error, the VI ignores error code. If not, the VI tests it. A non-zero value signifies an error.
+580187:176a2e You can control the number of lines in a port by the parameter port width. You also have the option of not reconfiguring the port as an output port with each iteration of the VI by setting the iteration control to a non-zero value.
+580540:17bf57 You have the option to not reconfigure the port as an input port by setting the iteration control to a non-zero value. You can also concatenate multiple ports to operate as one large port by using the port width paramter.
+596802:f5d9a You can control the number of lines in a port by the parameter port width. You also have the option of not reconfiguring the port as an output port with each iteration of the VI by setting the iteration control to a non-zero value.
+596807:f60c7 You have the option to not reconfigure the port as an input port by setting the iteration control to a non-zero value. You can also concatenate multiple ports to operate as one large port by using the port width paramter.
+608562:1b9012 You can control the number of lines in a port by the parameter port width. You also have the option of not reconfiguring the port as an output port with each iteration of the VI by setting the iteration control to a non-zero value.
+608685:1bb093 You have the option to not reconfigure the port as an input port by setting the iteration control to a non-zero value. You can also concatenate multiple ports to operate as one large port by using the port width paramter.

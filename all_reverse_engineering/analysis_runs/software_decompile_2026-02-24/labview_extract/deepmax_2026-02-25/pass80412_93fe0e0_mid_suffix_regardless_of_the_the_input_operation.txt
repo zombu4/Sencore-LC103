@@ -1,0 +1,4 @@
+70067:2cabd9 xt(bool) status: TRUE if an error has occurred. Regardless of the value of status, this VI clears the input operation."
+240683:10e4e9 xt(bool) status: TRUE if an error has occurred. Regardless of the value of status, this VI clears the input operation."
+313127:13ac6e xt(bool) status: TRUE if an error has occurred. Regardless of the value of status, this VI clears the input operation."
+339594:da146 xt(bool) status: TRUE if an error has occurred. Regardless of the value of status, this VI clears the input operation."

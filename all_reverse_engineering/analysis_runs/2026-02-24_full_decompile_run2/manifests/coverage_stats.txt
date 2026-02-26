@@ -1,0 +1,6 @@
+files_total=43
+strings_covered=43
+binwalk_scan_covered=43
+binwalk_extract_dirs=43
+zip_inputs=2
+unpack_file_count=14

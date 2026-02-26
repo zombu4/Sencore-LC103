@@ -1,0 +1,109 @@
+CPlease choose the file containing the capacitance calibration data.O
+BPlease choose the file containing the inductance calibration data.
+*.calCPlease choose the file containing the capacitance calibration data.PTH0
+*.calBPlease choose the file containing the inductance calibration data.gencode.cGenDispatchEntry
+Software Rev. Check
+Calibration Reset
+Current Source Calibration
+Gain Calibration
+Capacitance Calibration
+ESR Calibration
+Inductance Calibration
+Leakage Voltage Calibration
+Leakage Voltage Test
+Leakage Current Test
+Calibration Stamp
+Capacitance Calibrationb
+Inductance CalibrationW
+Calibration ResetY
+Calibration ResetW
+Calibration ResetT
+Capacitance Calibration]
+Calibration Resetf
+Current Source Calibration\
+Gain Calibrationb
+Inductance Calibration^
+Leakage Voltage CalibrationT
+Leakage Voltage Test`
+Leakage Current Test`
+Calibration Stamp\
+Gain CalibrationV
+Calibration Reset]
+Capacitance CalibrationV
+Leakage Voltage TestV
+Leakage Current TestV
+Calibration StampW
+ESR CalibrationV
+Inductance Calibration[
+Warning:  Choosing 'Calibration Reset'
+Current Source CalibrationW
+Capacitance CalibrationW
+ESR CalibrationW
+Leakage Voltage CalibrationW
+Leakage Voltage TestW
+Leakage Current TestW
+Software Rev. CheckW
+Software Rev. Check_
+Current Source CalibrationfConnect the UUT and/or DVM leads to
+Gain CalibrationfConnect the UUT and/or DVM leads to
+ESR Calibration22
+Inductance Calibration@M
+Leakage Voltage CalibrationfConnect the UUT and/or DVM leads to
+Leakage Voltage TestfConnect the UUT and/or DVM leads to
+Leakage Current TestfConnect the UUT and/or DVM leads to
+Software Rev. Check`
+ESR CalibrationX
+ESR Calibration PassedV
+ESR CalibrationH
+ESR Calibration`
+ESR Calibration Passed
+ESR Calibration'
+!Gain Calibration Failed
+Gain Calibrationn
+Gain CalibrationU
+Gain Calibration" Failed Calibration. Adjusted >10%
+Range !Gain Calibration Failed
+on Range !Gain Calibration Failed
+Leakage Voltage TestH
+Leakage Voltage TestY
+Leakage Voltage Test'
+Leakage Current TestPD
+Leakage Current TestY
+Current Source Calibration`
++Current Source Calibration Passed
+Current Source CalibrationH
+Current Source Calibration?
+Leakage Voltage CalibrationV
+Perform Inductance CalibrationV
+BPlease choose the file containing the inductance calibration data.V
+*.calBPlease choose the file containing the inductance calibration data.
+CPlease choose the file containing the capacitance calibration data.V
+*.calCPlease choose the file containing the capacitance calibration data.
+CCCPlease choose the file containing the capacitance calibration data.W
+++BPlease choose the file containing the inductance calibration data.W
+Inductance CalibrationMD
+Leakage voltage test.vi
+Leakage voltage test.vi|A$
+Leakage voltage test.vi^
+Leakage voltage test.viN
+Leakage voltage test.vi-
+Leakage current test.vi
+"""<- number of leakage current testsH
+Leakage current test.vi-
+Leakage current test.viR
+Leakage voltage test.viR
+Leakage voltage test.vio
+CCCPlease choose the file containing the capacitance calibration data.V
+++BPlease choose the file containing the inductance calibration data.V
+ESR Calibration PassedU
+*.calBPlease choose the file containing the inductance calibration data.d:\automated\lv51\lvsource\gencode.cGenRangeCheck
+CCCPlease choose the file containing the capacitance calibration data.O
+++BPlease choose the file containing the inductance calibration data.
+CALON!Gain Calibration Failed
+Gain CalibrationW
+Leakage Voltage TestWD
+Range +Current Source Calibration Passed
+!!+Current Source Calibration Passed
+*.calBPlease choose the file containing the inductance calibration data.PTH0
+Leakage Current TestHDl
+Leakage voltage test.viH

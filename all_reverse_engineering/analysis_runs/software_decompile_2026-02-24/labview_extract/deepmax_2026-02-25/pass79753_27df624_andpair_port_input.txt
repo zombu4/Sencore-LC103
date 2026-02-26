@@ -1,0 +1,43 @@
+75980:3275e3 okReturns in byte count the number of bytes in the input buffer of the serial port indicated in port number.
+103844:4e2c52 You have the option to not reconfigure the port as an input port by setting the iteration control to a non-zero value. You can also concatenate multiple ports to operate as one large port by using the port width paramter.
+246306:166087 okReturns in byte count the number of bytes in the input buffer of the serial port indicated in port number.
+246407:1669fb kReturns in byte count the number of bytes in the input buffer of the serial port indicated in port number.
+262305:25c4a6 You have the option to not reconfigure the port as an input port by setting the iteration control to a non-zero value. You can also concatenate multiple ports to operate as one large port by using the port width paramter.
+262470:25d643 You have the option to not reconfigure the port as an input port by setting the iteration control to a non-zero value. You can also concatenate multiple ports to operate as one large port by using the port width paramter.
+308525:ef672 okReturns in byte count the number of bytes in the input buffer of the serial port indicated in port number.
+308623:effdf kReturns in byte count the number of bytes in the input buffer of the serial port indicated in port number.
+315804:173a76 You have the option to not reconfigure the port as an input port by setting the iteration control to a non-zero value. You can also concatenate multiple ports to operate as one large port by using the port width paramter.
+315970:174c0b You have the option to not reconfigure the port as an input port by setting the iteration control to a non-zero value. You can also concatenate multiple ports to operate as one large port by using the port width paramter.
+342026:10dc87 You have the option to not reconfigure the port as an input port by setting the iteration control to a non-zero value. You can also concatenate multiple ports to operate as one large port by using the port width paramter.
+342288:113112 You have the option to not reconfigure the port as an input port by setting the iteration control to a non-zero value. You can also concatenate multiple ports to operate as one large port by using the port width paramter.
+369533:15b5d9 You have the option to not reconfigure the port as an input port by setting the iteration control to a non-zero value. You can also concatenate multiple ports to operate as one large port by using the port width paramter.
+396594:330a77 okReturns in byte count the number of bytes in the input buffer of the serial port indicated in port number.
+404008:3a3ab3 kReturns in byte count the number of bytes in the input buffer of the serial port indicated in port number.
+404071:3a621b You have the option to not reconfigure the port as an input port by setting the iteration control to a non-zero value. You can also concatenate multiple ports to operate as one large port by using the port width paramter.
+432777:d593a You have the option to not reconfigure the port as an input port by setting the iteration control to a non-zero value. You can also concatenate multiple ports to operate as one large port by using the port width paramter.
+440783:163dba okReturns in byte count the number of bytes in the input buffer of the serial port indicated in port number.
+442991:1854e3 kReturns in byte count the number of bytes in the input buffer of the serial port indicated in port number.
+443020:186193 You have the option to not reconfigure the port as an input port by setting the iteration control to a non-zero value. You can also concatenate multiple ports to operate as one large port by using the port width paramter.
+467310:ccb4b You have the option to not reconfigure the port as an input port by setting the iteration control to a non-zero value. You can also concatenate multiple ports to operate as one large port by using the port width paramter.
+471410:11b27f You have the option to not reconfigure the port as an input port by setting the iteration control to a non-zero value. You can also concatenate multiple ports to operate as one large port by using the port width paramter.
+502657:1c2d5a You have the option to not reconfigure the port as an input port by setting the iteration control to a non-zero value. You can also concatenate multiple ports to operate as one large port by using the port width paramter.
+521514:349828 okReturns in byte count the number of bytes in the input buffer of the serial port indicated in port number.
+527345:3b26ff kReturns in byte count the number of bytes in the input buffer of the serial port indicated in port number.
+527408:3b4e67 You have the option to not reconfigure the port as an input port by setting the iteration control to a non-zero value. You can also concatenate multiple ports to operate as one large port by using the port width paramter.
+545152:d484a You have the option to not reconfigure the port as an input port by setting the iteration control to a non-zero value. You can also concatenate multiple ports to operate as one large port by using the port width paramter.
+548949:122187 You have the option to not reconfigure the port as an input port by setting the iteration control to a non-zero value. You can also concatenate multiple ports to operate as one large port by using the port width paramter.
+556364:1a3f93 kReturns in byte count the number of bytes in the input buffer of the serial port indicated in port number.
+558118:1c3956 okReturns in byte count the number of bytes in the input buffer of the serial port indicated in port number.
+577718:13c363 You have the option to not reconfigure the port as an input port by setting the iteration control to a non-zero value. You can also concatenate multiple ports to operate as one large port by using the port width paramter.
+580540:17bf57 You have the option to not reconfigure the port as an input port by setting the iteration control to a non-zero value. You can also concatenate multiple ports to operate as one large port by using the port width paramter.
+596744:f395f kReturns in byte count the number of bytes in the input buffer of the serial port indicated in port number.
+596807:f60c7 You have the option to not reconfigure the port as an input port by setting the iteration control to a non-zero value. You can also concatenate multiple ports to operate as one large port by using the port width paramter.
+600676:13317f kReturns in byte count the number of bytes in the input buffer of the serial port indicated in port number.
+608685:1bb093 You have the option to not reconfigure the port as an input port by setting the iteration control to a non-zero value. You can also concatenate multiple ports to operate as one large port by using the port width paramter.
+612547:cd     - The File Dialog function no longer supports the datalog file type input.
+612549:199     - The File Dialog function no longer supports the datalog file type input.
+612559:694     - The File Dialog function no longer supports the datalog file type input.
+612576:f25     - The File Dialog function no longer supports the datalog file type input.
+612578:ff1     - The File Dialog function no longer supports the datalog file type input.
+612580:1090     - The File Dialog function no longer supports the datalog file type input.
+612593:1755     - The File Dialog function no longer supports the datalog file type input.

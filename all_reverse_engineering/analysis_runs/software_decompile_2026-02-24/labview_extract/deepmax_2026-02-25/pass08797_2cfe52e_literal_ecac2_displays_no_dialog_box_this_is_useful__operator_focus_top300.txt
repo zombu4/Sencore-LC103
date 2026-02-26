@@ -1,0 +1,1 @@
+340479:ecac2 displays no dialog box. This is useful if you want to have programmatic control over how the error is handled.

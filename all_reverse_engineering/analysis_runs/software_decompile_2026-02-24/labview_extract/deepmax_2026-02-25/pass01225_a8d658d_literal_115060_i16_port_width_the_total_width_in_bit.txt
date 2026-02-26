@@ -1,0 +1,1 @@
+241104:115060 /(i16) port width: the total width in bits of the port. For example, you can combine two 4-bit ports into an 8-bit port on an MIO board by setting port width to 8.

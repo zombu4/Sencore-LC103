@@ -1,0 +1,2 @@
+47637:162125 The library "%z" must be converted to the current format, but couldn't be opened. err=%ld
+52537:1bf15c The subVI is currently in interactive retrieval mode for datalogging, so this VI cannot use it to run. Open the subVI's front panel and change back to edit or run mode.

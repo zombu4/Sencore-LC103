@@ -1,0 +1,6 @@
+52510:1bd790 This VI has a bad connection to or cannot find a subVI or external routine, but it has no block diagram to show or fix the error. You must find or correct the subVI or external routine. Check for more information in the Explain... dialog in Get Info.
+52525:1be595 A wire can be connected to only one data source, such as a control's terminal or a function output. This wire is connected to more than one source. Make sure that all connections except one are to indicators (not controls) or inputs (not outputs).
+74847:31761c lhOutput XON/XOFF. See the Common Serial Port VI Parameters section of this chapter for more information.
+245157:155cd0 lhOutput XON/XOFF. See the Common Serial Port VI Parameters section of this chapter for more information.
+397617:33fbea lhOutput XON/XOFF. See the Common Serial Port VI Parameters section of this chapter for more information.
+522318:356768 hOutput XON/XOFF. See the Common Serial Port VI Parameters section of this chapter for more information.

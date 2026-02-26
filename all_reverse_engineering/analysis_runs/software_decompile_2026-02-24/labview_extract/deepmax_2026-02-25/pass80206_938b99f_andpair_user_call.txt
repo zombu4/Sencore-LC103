@@ -1,0 +1,17 @@
+50264:17dc3f -Login automatically with the system user name
+50266:17dcb4 -Login automatically with the system user name
+54057:1dcd65 \if file path is not supplied (empty or NotAPath), call File Dialog to get one from the user.H
+101577:4b6de4 displays a dialog box with buttons allowing the user to either continue or stop. If the user cancels, the VI calls the Stop function to halt execution. 
+224314:1b991 \if file path is not supplied (empty or NotAPath), call File Dialog to get one from the user.H
+260010:22f9bc displays a dialog box with buttons allowing the user to either continue or stop. If the user cancels, the VI calls the Stop function to halt execution. 
+313998:14d5d9 displays a dialog box with buttons allowing the user to either continue or stop. If the user cancels, the VI calls the Stop function to halt execution. 
+340481:ecbbc displays a dialog box with buttons allowing the user to either continue or stop. If the user cancels, the VI calls the Stop function to halt execution. 
+371455:183787 displays a dialog box with buttons allowing the user to either continue or stop. If the user cancels, the VI calls the Stop function to halt execution. 
+406324:3ce0a2 00\if file path is not supplied (empty or NotAPath), call File Dialog to get one from the user.H
+434156:f73aa displays a dialog box with buttons allowing the user to either continue or stop. If the user cancels, the VI calls the Stop function to halt execution. 
+470135:10692b displays a dialog box with buttons allowing the user to either continue or stop. If the user cancels, the VI calls the Stop function to halt execution. 
+504205:1e9baa displays a dialog box with buttons allowing the user to either continue or stop. If the user cancels, the VI calls the Stop function to halt execution. 
+528306:3c9cff 00\if file path is not supplied (empty or NotAPath), call File Dialog to get one from the user.H
+546531:f62ba displays a dialog box with buttons allowing the user to either continue or stop. If the user cancels, the VI calls the Stop function to halt execution. 
+579624:16da6d displays a dialog box with buttons allowing the user to either continue or stop. If the user cancels, the VI calls the Stop function to halt execution. 
+595971:e3f1b 00\if file path is not supplied (empty or NotAPath), call File Dialog to get one from the user.H

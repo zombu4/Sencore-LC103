@@ -1,0 +1,53 @@
+53002:1cb453 TPsource is in most cases the name of the VI or function that produced the error.
+54243:1dfe39 TPsource is in most cases the name of the VI or function that produced the error.
+99489:491754 TPsource is in most cases the name of the VI or function that produced the error.
+99491:4918d4 wscode is the identification number of the error. Use the General Error Handler.vi to get a description of the error.vrsource identifies where the error occurred and is usually the name of the function or VI that produced the error.
+100212:49d625 TPsource is in most cases the name of the VI or function that produced the error.
+100225:49d800 TPsource is in most cases the name of the VI or function that produced the error.
+100618:4a3c81 TPsource is in most cases the name of the VI or function that produced the error.
+101026:4aa73b TPsource is in most cases the name of the VI or function that produced the error.
+101603:4b7834 source. In case of an error, most VIs that use the error in and error out clusters set source to the name of the VI or function that produced the error.
+101610:4b7a4c source. In case of an error, most VIs that use the error in and error out clusters set source to the name of the VI or function that produced the error.
+223259:a07f TPsource is in most cases the name of the VI or function that produced the error.
+224536:1f919 TPsource is in most cases the name of the VI or function that produced the error.
+257819:208080 TPsource is in most cases the name of the VI or function that produced the error.
+257821:208200 wscode is the identification number of the error. Use the General Error Handler.vi to get a description of the error.vrsource identifies where the error occurred and is usually the name of the function or VI that produced the error.
+258566:214a05 TPsource is in most cases the name of the VI or function that produced the error.
+258579:214be0 TPsource is in most cases the name of the VI or function that produced the error.
+258989:21b4d5 TPsource is in most cases the name of the VI or function that produced the error.
+259423:2227eb TPsource is in most cases the name of the VI or function that produced the error.
+260036:23040c source. In case of an error, most VIs that use the error in and error out clusters set source to the name of the VI or function that produced the error.
+260043:230624 source. In case of an error, most VIs that use the error in and error out clusters set source to the name of the VI or function that produced the error.
+314024:14e029 source. In case of an error, most VIs that use the error in and error out clusters set source to the name of the VI or function that produced the error.
+314031:14e241 source. In case of an error, most VIs that use the error in and error out clusters set source to the name of the VI or function that produced the error.
+340507:ed60c source. In case of an error, most VIs that use the error in and error out clusters set source to the name of the VI or function that produced the error.
+340514:ed824 source. In case of an error, most VIs that use the error in and error out clusters set source to the name of the VI or function that produced the error.
+371473:184195 source. In case of an error, most VIs that use the error in and error out clusters set source to the name of the VI or function that produced the error.
+371477:18438d source. In case of an error, most VIs that use the error in and error out clusters set source to the name of the VI or function that produced the error.
+372369:193c26 TPsource is in most cases the name of the VI or function that produced the error.
+372957:19bdb3 TPsource is in most cases the name of the VI or function that produced the error.
+373377:1a252c TPsource is in most cases the name of the VI or function that produced the error.
+373382:1a26c7 TPsource is in most cases the name of the VI or function that produced the error.
+374037:1ae31e TPsource is in most cases the name of the VI or function that produced the error.
+374039:1ae49e wscode is the identification number of the error. Use the General Error Handler.vi to get a description of the error.vrsource identifies where the error occurred and is usually the name of the function or VI that produced the error.
+405303:3ba908 TPsource is in most cases the name of the VI or function that produced the error.
+406207:3cca9a TPsource is in most cases the name of the VI or function that produced the error.
+434174:f7db8 source. In case of an error, most VIs that use the error in and error out clusters set source to the name of the VI or function that produced the error.
+434178:f7fb0 source. In case of an error, most VIs that use the error in and error out clusters set source to the name of the VI or function that produced the error.
+470153:107339 source. In case of an error, most VIs that use the error in and error out clusters set source to the name of the VI or function that produced the error.
+470157:107531 source. In case of an error, most VIs that use the error in and error out clusters set source to the name of the VI or function that produced the error.
+504220:1ea485 source. In case of an error, most VIs that use the error in and error out clusters set source to the name of the VI or function that produced the error.
+504224:1ea756 source. In case of an error, most VIs that use the error in and error out clusters set source to the name of the VI or function that produced the error.
+504908:1f59cf Psource is in most cases the name of the VI or function that produced the error.
+505286:1fb941 Psource is in most cases the name of the VI or function that produced the error.
+505533:200802 Psource is in most cases the name of the VI or function that produced the error.
+505537:200921 Psource is in most cases the name of the VI or function that produced the error.
+506079:20a998 rsource identifies where the error occurred and is usually the name of the function or VI that produced the error.
+506086:20acdb Psource is in most cases the name of the VI or function that produced the error.
+527768:3bc567 Psource is in most cases the name of the VI or function that produced the error.
+528609:3ccbce Psource is in most cases the name of the VI or function that produced the error.
+546549:f6cc8 source. In case of an error, most VIs that use the error in and error out clusters set source to the name of the VI or function that produced the error.
+546553:f6ec0 source. In case of an error, most VIs that use the error in and error out clusters set source to the name of the VI or function that produced the error.
+579639:16e348 source. In case of an error, most VIs that use the error in and error out clusters set source to the name of the VI or function that produced the error.
+579643:16e619 source. In case of an error, most VIs that use the error in and error out clusters set source to the name of the VI or function that produced the error.
+596274:e6dea Psource is in most cases the name of the VI or function that produced the error.

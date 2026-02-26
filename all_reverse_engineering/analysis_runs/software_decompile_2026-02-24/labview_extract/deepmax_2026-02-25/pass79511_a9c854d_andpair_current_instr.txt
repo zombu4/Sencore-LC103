@@ -1,0 +1,6 @@
+48193:1651e4 This is the revision number that will be included in new history entries.  The current number is displayed in the Instrument Information dialog.  It is incremented every time you save the VI.
+48198:165560 This is the revision number that will be included in new history entries.  The current number is displayed in the Instrument Information dialog.  It is incremented every time you save the VI.
+134418:20ae28 SOFTWARE\National Instruments\NI-DAQ\CurrentVersion\fpgafiles
+134467:20b940 SOFTWARE\National Instruments\NI-DAQmx\CurrentVersion
+639907:20ae28 SOFTWARE\National Instruments\NI-DAQ\CurrentVersion\fpgafiles
+639956:20b940 SOFTWARE\National Instruments\NI-DAQmx\CurrentVersion

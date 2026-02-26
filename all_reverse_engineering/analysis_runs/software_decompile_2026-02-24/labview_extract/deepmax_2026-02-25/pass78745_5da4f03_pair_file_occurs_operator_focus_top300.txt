@@ -1,0 +1,85 @@
+52982:1cabb8 opens an existing file. Error 7 occurs if the file cannot be found.
+52985:1cad24 creates a new file. Error 8 occurs if the file already exists.
+54000:1db968 file path is the path name of the file. If file path is empty (default value) or is Not A Path, the VI displays a File dialog box from which you can select a file. Error 43 occurs if the user cancels the dialog.
+54002:1dba6c 0 (open) opens an existing file. Error 7 occurs if the file cannot be found.
+54005:1dbc09 3 (create) creates a new file. Error 8 occurs if the file already exists.
+54494:1e3da2 *Writes a string of characters to a byte stream file at the specified location; the default location is at the end of file. The VI does incoming and internal error checking and does not write if an incoming error occurs.
+100015:49a087 file path is the path name of the file. If file path is empty (default value) or is Not A Path, the VI displays a File dialog box from which you can select a file. Error 43 occurs if the user cancels the dialog.
+102675:4d29cc file path is the path name of the file. If file path is empty (default value) or is Not A Path, the VI displays a File dialog box from which you can select a file. Error 43 occurs if the user cancels the dialog.
+102959:4d6272 file path is the path name of the file. If file path is empty (default value) or is Not A Path, the VI displays a File dialog box from which you can select a file. Error 43 occurs if the user cancels the dialog.
+111785:565409 file path is the path name of the file. If file path is empty (default value) or is Not A Path, the VI displays a File dialog box from which you can select a file. Error 43 occurs if the user cancels the dialog.
+112345:56c24f file path is the path name of the file. If file path is empty (default value) or is Not A Path, the VI displays a File dialog box from which you can select a file. Error 43 occurs if the user cancels the dialog.
+223239:97e4 opens an existing file. Error 7 occurs if the file cannot be found.
+223242:9950 creates a new file. Error 8 occurs if the file already exists.
+224257:1a594 file path is the path name of the file. If file path is empty (default value) or is Not A Path, the VI displays a File dialog box from which you can select a file. Error 43 occurs if the user cancels the dialog.
+224259:1a698 0 (open) opens an existing file. Error 7 occurs if the file cannot be found.
+224262:1a835 3 (create) creates a new file. Error 8 occurs if the file already exists.
+224493:1d2a0 file path is the path name of the file. If file path is empty (default value) or is Not A Path, the VI displays a File dialog box from which you can select a file. Error 43 occurs if the user cancels the dialog.
+224495:1d3a4 0 (open) opens an existing file. Error 7 occurs if the file cannot be found.
+224498:1d541 3 (create) creates a new file. Error 8 occurs if the file already exists.
+224787:23882 *Writes a string of characters to a byte stream file at the specified location; the default location is at the end of file. The VI does incoming and internal error checking and does not write if an incoming error occurs.
+224952:2506b *Writes a string of characters to a byte stream file at the specified location; the default location is at the end of file. The VI does incoming and internal error checking and does not write if an incoming error occurs.
+258345:2109b3 file path is the path name of the file. If file path is empty (default value) or is Not A Path, the VI displays a File dialog box from which you can select a file. Error 43 occurs if the user cancels the dialog.
+258528:21273d file path is the path name of the file. If file path is empty (default value) or is Not A Path, the VI displays a File dialog box from which you can select a file. Error 43 occurs if the user cancels the dialog.
+261114:24b92c file path is the path name of the file. If file path is empty (default value) or is Not A Path, the VI displays a File dialog box from which you can select a file. Error 43 occurs if the user cancels the dialog.
+261398:24f1d2 file path is the path name of the file. If file path is empty (default value) or is Not A Path, the VI displays a File dialog box from which you can select a file. Error 43 occurs if the user cancels the dialog.
+261610:250883 file path is the path name of the file. If file path is empty (default value) or is Not A Path, the VI displays a File dialog box from which you can select a file. Error 43 occurs if the user cancels the dialog.
+270314:2dfb5d file path is the path name of the file. If file path is empty (default value) or is Not A Path, the VI displays a File dialog box from which you can select a file. Error 43 occurs if the user cancels the dialog.
+270874:2e69a3 file path is the path name of the file. If file path is empty (default value) or is Not A Path, the VI displays a File dialog box from which you can select a file. Error 43 occurs if the user cancels the dialog.
+271321:2e91a6 file path is the path name of the file. If file path is empty (default value) or is Not A Path, the VI displays a File dialog box from which you can select a file. Error 43 occurs if the user cancels the dialog.
+366631:130615 file path is the path name of the file. If file path is empty (default value) or is Not A Path, the VI displays a File dialog box from which you can select a file. Error 43 occurs if the user cancels the dialog.
+366643:130f0e file path is the path name of the file. If file path is empty (default value) or is Not A Path, the VI displays a File dialog box from which you can select a file. Error 43 occurs if the user cancels the dialog.
+370470:168b66 file path is the path name of the file. If file path is empty (default value) or is Not A Path, the VI displays a File dialog box from which you can select a file. Error 43 occurs if the user cancels the dialog.
+370474:168e52 file path is the path name of the file. If file path is empty (default value) or is Not A Path, the VI displays a File dialog box from which you can select a file. Error 43 occurs if the user cancels the dialog.
+374015:1ad46c file path is the path name of the file. If file path is empty (default value) or is Not A Path, the VI displays a File dialog box from which you can select a file. Error 43 occurs if the user cancels the dialog.
+394240:30c4d4 file path is the path name of the file. If file path is empty (default value) or is Not A Path, the VI displays a File dialog box from which you can select a file. Error 43 occurs if the user cancels the dialog.
+394242:30c5d8 0 (open) opens an existing file. Error 7 occurs if the file cannot be found.
+394245:30c775 3 (create) creates a new file. Error 8 occurs if the file already exists.
+394256:30cf67 *Writes a string of characters to a byte stream file at the specified location; the default location is at the end of file. The VI does incoming and internal error checking and does not write if an incoming error occurs.
+404021:3a3dbd file path is the path name of the file. If file path is empty (default value) or is Not A Path, the VI displays a File dialog box from which you can select a file. Error 43 occurs if the user cancels the dialog.
+404060:3a5aeb file path is the path name of the file. If file path is empty (default value) or is Not A Path, the VI displays a File dialog box from which you can select a file. Error 43 occurs if the user cancels the dialog.
+404096:3a67aa file path is the path name of the file. If file path is empty (default value) or is Not A Path, the VI displays a File dialog box from which you can select a file. Error 43 occurs if the user cancels the dialog.
+405279:3b9da8 *Writes a string of characters to a byte stream file at the specified location; the default location is at the end of file. The VI does incoming and internal error checking and does not write if an incoming error occurs.
+406176:3cb7a4 file path is the path name of the file. If file path is empty (default value) or is Not A Path, the VI displays a File dialog box from which you can select a file. Error 43 occurs if the user cancels the dialog.
+406178:3cb8a8 0 (open) opens an existing file. Error 7 occurs if the file cannot be found.
+406181:3cba45 3 (create) creates a new file. Error 8 occurs if the file already exists.
+406198:3cc5d6 file path is the path name of the file. If file path is empty (default value) or is Not A Path, the VI displays a File dialog box from which you can select a file. Error 43 occurs if the user cancels the dialog.
+406200:3cc6d7 opens an existing file. Error 7 occurs if the file cannot be found.
+406203:3cc843 creates a new file. Error 8 occurs if the file already exists.
+496230:149ab1 file path is the path name of the file. If file path is empty (default value) or is Not A Path, the VI displays a File dialog box from which you can select a file. Error 43 occurs if the user cancels the dialog.
+496400:14ba08 file path is the path name of the file. If file path is empty (default value) or is Not A Path, the VI displays a File dialog box from which you can select a file. Error 43 occurs if the user cancels the dialog.
+503360:1cf875 file path is the path name of the file. If file path is empty (default value) or is Not A Path, the VI displays a File dialog box from which you can select a file. Error 43 occurs if the user cancels the dialog.
+503504:1d0c4f file path is the path name of the file. If file path is empty (default value) or is Not A Path, the VI displays a File dialog box from which you can select a file. Error 43 occurs if the user cancels the dialog.
+505861:207b61 file path is the path name of the file. If file path is empty (default value) or is Not A Path, the VI displays a File dialog box from which you can select a file. Error 43 occurs if the user cancels the dialog.
+506082:20ab0d file path is the path name of the file. If file path is empty (default value) or is Not A Path, the VI displays a File dialog box from which you can select a file. Error 43 occurs if the user cancels the dialog. <#
+520832:33bdcc file path is the path name of the file. If file path is empty (default value) or is Not A Path, the VI displays a File dialog box from which you can select a file. Error 43 occurs if the user cancels the dialog.
+520834:33bed0 0 (open) opens an existing file. Error 7 occurs if the file cannot be found.
+520837:33c06d 3 (create) creates a new file. Error 8 occurs if the file already exists.
+520848:33c85f *Writes a string of characters to a byte stream file at the specified location; the default location is at the end of file. The VI does incoming and internal error checking and does not write if an incoming error occurs.
+527358:3b2a09 file path is the path name of the file. If file path is empty (default value) or is Not A Path, the VI displays a File dialog box from which you can select a file. Error 43 occurs if the user cancels the dialog.
+527397:3b4737 file path is the path name of the file. If file path is empty (default value) or is Not A Path, the VI displays a File dialog box from which you can select a file. Error 43 occurs if the user cancels the dialog.
+527433:3b53f6 file path is the path name of the file. If file path is empty (default value) or is Not A Path, the VI displays a File dialog box from which you can select a file. Error 43 occurs if the user cancels the dialog.
+527675:3ba71a *Writes a string of characters to a byte stream file at the specified location; the default location is at the end of file. The VI does incoming and internal error checking and does not write if an incoming error occurs.
+528190:3c7f0b file path is the path name of the file. If file path is empty (default value) or is Not A Path, the VI displays a File dialog box from which you can select a file. Error 43 occurs if the user cancels the dialog.
+528192:3c800f 0 (open) opens an existing file. Error 7 occurs if the file cannot be found.
+528195:3c81ac 3 (create) creates a new file. Error 8 occurs if the file already exists.
+528600:3cc827 file path is the path name of the file. If file path is empty (default value) or is Not A Path, the VI displays a File dialog box from which you can select a file. Error 43 occurs if the user cancels the dialog.
+528604:3cc9d3 opens an existing file. Error 7 occurs if the file cannot be found.
+528607:3ccb3f creates a new file. Error 8 occurs if the file already exists.
+595366:d5144 file path is the path name of the file. If file path is empty (default value) or is Not A Path, the VI displays a File dialog box from which you can select a file. Error 43 occurs if the user cancels the dialog.
+595368:d5248 0 (open) opens an existing file. Error 7 occurs if the file cannot be found.
+595371:d53e5 3 (create) creates a new file. Error 8 occurs if the file already exists.
+595855:e2127 file path is the path name of the file. If file path is empty (default value) or is Not A Path, the VI displays a File dialog box from which you can select a file. Error 43 occurs if the user cancels the dialog.
+595857:e222b 0 (open) opens an existing file. Error 7 occurs if the file cannot be found.
+595860:e23c8 3 (create) creates a new file. Error 8 occurs if the file already exists.
+596265:e6a43 file path is the path name of the file. If file path is empty (default value) or is Not A Path, the VI displays a File dialog box from which you can select a file. Error 43 occurs if the user cancels the dialog.
+596269:e6bef opens an existing file. Error 7 occurs if the file cannot be found.
+596272:e6d5b creates a new file. Error 8 occurs if the file already exists.
+596714:f1b67 *Writes a string of characters to a byte stream file at the specified location; the default location is at the end of file. The VI does incoming and internal error checking and does not write if an incoming error occurs.
+596757:f3c69 file path is the path name of the file. If file path is empty (default value) or is Not A Path, the VI displays a File dialog box from which you can select a file. Error 43 occurs if the user cancels the dialog.
+596796:f5997 file path is the path name of the file. If file path is empty (default value) or is Not A Path, the VI displays a File dialog box from which you can select a file. Error 43 occurs if the user cancels the dialog.
+596832:f6656 file path is the path name of the file. If file path is empty (default value) or is Not A Path, the VI displays a File dialog box from which you can select a file. Error 43 occurs if the user cancels the dialog.
+597617:ff243 *Writes a string of characters to a byte stream file at the specified location; the default location is at the end of file. The VI does incoming and internal error checking and does not write if an incoming error occurs.
+607057:19f5d1 file path is the path name of the file. If file path is empty (default value) or is Not A Path, the VI displays a File dialog box from which you can select a file. Error 43 occurs if the user cancels the dialog.
+608418:1b6e57 file path is the path name of the file. If file path is empty (default value) or is Not A Path, the VI displays a File dialog box from which you can select a file. Error 43 occurs if the user cancels the dialog.
+610294:1d4e6e file path is the path name of the file. If file path is empty (default value) or is Not A Path, the VI displays a File dialog box from which you can select a file. Error 43 occurs if the user cancels the dialog.

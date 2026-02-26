@@ -1,0 +1,52 @@
+55949:1fb703 Transfers the specified number of data bytes from a specified local memory buffer to a Message-Based device, using the VXIbus Byte Transfer Protocol.$
+62461:25a870 Transfers the specified number of data bytes from a specified local memory buffer to a device, using either the VXIbus Byte Transfer Protocol (in the case of VXIbus message-based devices), or IEEE 488.2 bus Protocol (in the case of GPIB devices).$
+102497:4ce19c GPIB EMOM:  Out of memory (MacBus read or write).VLabVIEW:  Device call aborted.
+226313:3c1cb Transfers the specified number of data bytes from a specified local memory buffer to a Message-Based device, using the VXIbus Byte Transfer Protocol.$
+226408:3ce38 Transfers the specified number of data bytes from a specified local memory buffer to a Message-Based device, using the VXIbus Byte Transfer Protocol.
+232964:9cc2c Transfers the specified number of data bytes from a specified local memory buffer to a device, using either the VXIbus Byte Transfer Protocol (in the case of VXIbus message-based devices), or IEEE 488.2 bus Protocol (in the case of GPIB devices).$
+233228:9ec1c Transfers the specified number of data bytes from a specified local memory buffer to a device, using either the VXIbus Byte Transfer Protocol (in the case of VXIbus message-based devices), or IEEE 488.2 bus Protocol (in the case of GPIB devices).
+260930:246d74 GPIB EMOM:  Out of memory (MacBus read or write).VLabVIEW:  Device call aborted.
+292789:959a Transfers the specified number of data bytes from a specified local memory buffer to a Message-Based device, using the VXIbus Byte Transfer Protocol.$
+292880:a208 Transfers the specified number of data bytes from a specified local memory buffer to a Message-Based device, using the VXIbus Byte Transfer Protocol.
+299507:69ee2 Transfers the specified number of data bytes from a specified local memory buffer to a device, using either the VXIbus Byte Transfer Protocol (in the case of VXIbus message-based devices), or IEEE 488.2 bus Protocol (in the case of GPIB devices).$
+299776:6bea8 Transfers the specified number of data bytes from a specified local memory buffer to a device, using either the VXIbus Byte Transfer Protocol (in the case of VXIbus message-based devices), or IEEE 488.2 bus Protocol (in the case of GPIB devices).
+314938:164945 GPIB EMOM:  Out of memory (MacBus read or write).VLabVIEW:  Device call aborted.
+324790:6470 Transfers the specified number of data bytes from a specified local memory buffer to a Message-Based device, using the VXIbus Byte Transfer Protocol.
+324915:893f Transfers the specified number of data bytes from a specified local memory buffer to a Message-Based device, using the VXIbus Byte Transfer Protocol.$
+330868:5d688 Transfers the specified number of data bytes from a specified local memory buffer to a device, using either the VXIbus Byte Transfer Protocol (in the case of VXIbus message-based devices), or IEEE 488.2 bus Protocol (in the case of GPIB devices).
+331771:6922a Transfers the specified number of data bytes from a specified local memory buffer to a device, using either the VXIbus Byte Transfer Protocol (in the case of VXIbus message-based devices), or IEEE 488.2 bus Protocol (in the case of GPIB devices).$
+341415:103f15 GPIB EMOM:  Out of memory (MacBus read or write).VLabVIEW:  Device call aborted.
+347758:748b Transfers the specified number of data bytes from a specified local memory buffer to a Message-Based device, using the VXIbus Byte Transfer Protocol.$
+347853:80f8 Transfers the specified number of data bytes from a specified local memory buffer to a Message-Based device, using the VXIbus Byte Transfer Protocol.
+354409:67eec Transfers the specified number of data bytes from a specified local memory buffer to a device, using either the VXIbus Byte Transfer Protocol (in the case of VXIbus message-based devices), or IEEE 488.2 bus Protocol (in the case of GPIB devices).$
+354673:69edc Transfers the specified number of data bytes from a specified local memory buffer to a device, using either the VXIbus Byte Transfer Protocol (in the case of VXIbus message-based devices), or IEEE 488.2 bus Protocol (in the case of GPIB devices).
+371368:180796 GPIB EMOM:  Out of memory (MacBus read or write).VLabVIEW:  Device call aborted.
+418418:740e Transfers the specified number of data bytes from a specified local memory buffer to a Message-Based device, using the VXIbus Byte Transfer Protocol.$
+418509:807c Transfers the specified number of data bytes from a specified local memory buffer to a Message-Based device, using the VXIbus Byte Transfer Protocol.
+425136:67d56 Transfers the specified number of data bytes from a specified local memory buffer to a device, using either the VXIbus Byte Transfer Protocol (in the case of VXIbus message-based devices), or IEEE 488.2 bus Protocol (in the case of GPIB devices).$
+425405:69d1c Transfers the specified number of data bytes from a specified local memory buffer to a device, using either the VXIbus Byte Transfer Protocol (in the case of VXIbus message-based devices), or IEEE 488.2 bus Protocol (in the case of GPIB devices).
+434069:f43b9 GPIB EMOM:  Out of memory (MacBus read or write).VLabVIEW:  Device call aborted.
+453089:38bc Transfers the specified number of data bytes from a specified local memory buffer to a Message-Based device, using the VXIbus Byte Transfer Protocol.
+453214:5d8b Transfers the specified number of data bytes from a specified local memory buffer to a Message-Based device, using the VXIbus Byte Transfer Protocol.$
+459167:5aad4 Transfers the specified number of data bytes from a specified local memory buffer to a device, using either the VXIbus Byte Transfer Protocol (in the case of VXIbus message-based devices), or IEEE 488.2 bus Protocol (in the case of GPIB devices).
+460070:66676 Transfers the specified number of data bytes from a specified local memory buffer to a device, using either the VXIbus Byte Transfer Protocol (in the case of VXIbus message-based devices), or IEEE 488.2 bus Protocol (in the case of GPIB devices).$
+470048:10393a GPIB EMOM:  Out of memory (MacBus read or write).VLabVIEW:  Device call aborted.
+476974:748b Transfers the specified number of data bytes from a specified local memory buffer to a Message-Based device, using the VXIbus Byte Transfer Protocol.$
+477069:80f8 Transfers the specified number of data bytes from a specified local memory buffer to a Message-Based device, using the VXIbus Byte Transfer Protocol.
+483625:67eec Transfers the specified number of data bytes from a specified local memory buffer to a device, using either the VXIbus Byte Transfer Protocol (in the case of VXIbus message-based devices), or IEEE 488.2 bus Protocol (in the case of GPIB devices).$
+483889:69edc Transfers the specified number of data bytes from a specified local memory buffer to a device, using either the VXIbus Byte Transfer Protocol (in the case of VXIbus message-based devices), or IEEE 488.2 bus Protocol (in the case of GPIB devices).
+503878:1e1737 GPIB EMOM:  Out of memory (MacBus read or write).VLabVIEW:  Device call aborted.
+530886:740e Transfers the specified number of data bytes from a specified local memory buffer to a Message-Based device, using the VXIbus Byte Transfer Protocol.$
+530977:807c Transfers the specified number of data bytes from a specified local memory buffer to a Message-Based device, using the VXIbus Byte Transfer Protocol.
+537604:67d56 Transfers the specified number of data bytes from a specified local memory buffer to a device, using either the VXIbus Byte Transfer Protocol (in the case of VXIbus message-based devices), or IEEE 488.2 bus Protocol (in the case of GPIB devices).$
+537873:69d1c Transfers the specified number of data bytes from a specified local memory buffer to a device, using either the VXIbus Byte Transfer Protocol (in the case of VXIbus message-based devices), or IEEE 488.2 bus Protocol (in the case of GPIB devices).
+546444:f32c9 GPIB EMOM:  Out of memory (MacBus read or write).VLabVIEW:  Device call aborted.
+561005:38bc Transfers the specified number of data bytes from a specified local memory buffer to a Message-Based device, using the VXIbus Byte Transfer Protocol.
+561130:5d8b Transfers the specified number of data bytes from a specified local memory buffer to a Message-Based device, using the VXIbus Byte Transfer Protocol.$
+567083:5aad4 Transfers the specified number of data bytes from a specified local memory buffer to a device, using either the VXIbus Byte Transfer Protocol (in the case of VXIbus message-based devices), or IEEE 488.2 bus Protocol (in the case of GPIB devices).
+567986:66676 Transfers the specified number of data bytes from a specified local memory buffer to a device, using either the VXIbus Byte Transfer Protocol (in the case of VXIbus message-based devices), or IEEE 488.2 bus Protocol (in the case of GPIB devices).$
+579297:1655fb GPIB EMOM:  Out of memory (MacBus read or write).VLabVIEW:  Device call aborted.
+581697:7403 Transfers the specified number of data bytes from a specified local memory buffer to a Message-Based device, using the VXIbus Byte Transfer Protocol.$
+581792:8070 Transfers the specified number of data bytes from a specified local memory buffer to a Message-Based device, using the VXIbus Byte Transfer Protocol.
+588348:67e64 Transfers the specified number of data bytes from a specified local memory buffer to a device, using either the VXIbus Byte Transfer Protocol (in the case of VXIbus message-based devices), or IEEE 488.2 bus Protocol (in the case of GPIB devices).$
+588612:69e54 Transfers the specified number of data bytes from a specified local memory buffer to a device, using either the VXIbus Byte Transfer Protocol (in the case of VXIbus message-based devices), or IEEE 488.2 bus Protocol (in the case of GPIB devices).

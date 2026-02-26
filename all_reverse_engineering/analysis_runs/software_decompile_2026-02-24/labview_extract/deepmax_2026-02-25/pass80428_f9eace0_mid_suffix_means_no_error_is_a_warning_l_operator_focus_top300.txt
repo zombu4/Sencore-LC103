@@ -1,0 +1,6 @@
+525031:388ba8 (i32) code: the error code associated with an error. A value of 0 means no error, a negative value is an error, and a positive value is a warning.l
+525335:38e8f1 (i32) code: the error code associated with an error. A value of 0 means no error, a negative value is an error, and a positive value is a warning.L
+525617:3942a8 (i32) code: the error code associated with an error. A value of 0 means no error, a negative value is an error, and a positive value is a warning.l
+578377:148bfd (i32) code: the error code associated with an error. A value of 0 means no error, a negative value is an error, and a positive value is a warning.l
+578667:14e82a (i32) code: the error code associated with an error. A value of 0 means no error, a negative value is an error, and a positive value is a warning.L
+578960:154e93 (i32) code: the error code associated with an error. A value of 0 means no error, a negative value is an error, and a positive value is a warning.l

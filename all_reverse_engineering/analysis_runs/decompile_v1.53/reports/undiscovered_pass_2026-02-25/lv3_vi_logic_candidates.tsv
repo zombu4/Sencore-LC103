@@ -1,0 +1,74 @@
+3	GAIN_CAL.vi	!Gain Calibration Failed
+3	GetDevInfoShort.vi	Status state (Passed/Failed, Ready/Not Ready)
+3	ISRC_CAL.vi	+Current Source Calibration Passed
+3	Leak_CAL.vi	( Failed Calibration. Gain Adjustment>10%
+3	Leak_CAL.vi	0 Failed Calibration. Offset Adjustment too high.
+2	103FINAL.vi	Current Source Calibration
+2	103FINAL.vi	Gain Calibration
+2	103FINAL.vi	Leakage Current Test
+2	103FINAL.vi	Leakage Voltage Calibration
+2	103FINAL.vi	Pass/Fail
+2	103FINAL.vi	Pass/Fail Message
+2	103FINAL.vi	Pass/Fail Messagee
+2	103FINAL.vi	Press F1 to change paths.
+2	103FINAL.vi	Ringer Calibration
+2	1ST_READ.vi	Press 'Enter' when ready.
+2	1ST_READ.vi	and press 'Enter' when ready.
+2	EEPROM.vi	ERow 0: Default Calibration Factors
+2	ESR_CAL.vi	ESR Calibration Passed
+2	ESR_CAL.vi	Press 'Enter' when ready.
+2	ESR_CAL.vi	cShort the UUT leads to the Capacitance Decade box(LTerminal).
+2	GAIN_CAL.vi	" Failed Calibration. Adjusted >10%
+2	GAIN_CAL.vi	Gain Calibration
+2	General Error Handler.vi	JDAQ badScanListErr: The scan list is invalid; for example, you are mixing AMUX-64T channels and onboard channels or are scanning SCXI channels out of order. Also, the driver attempts to achieve complicated gain distributions over SCXI channels on the same module by manipulating the scan list, and returns this error if it fails.
+2	General Error Handler.vi	TDSP DecFactErr: The decimating factor must meet: 0 < decimating factor <= samples.
+2	General Error Handler.vi	YAnalysis DecFactErr: The decimating factor must meet: 0 < decimating factor <= samples.
+2	General Error Handler.vi	bLabVIEW: File already open.
+2	GlobStat.vi	Current Source Calibration
+2	GlobStat.vi	Gain Calibration
+2	GlobStat.vi	Leakage Current Test
+2	GlobStat.vi	Leakage Voltage Calibration
+2	GlobStat.vi	Ringer Calibration
+2	INDSETUP.vi	3Short the UUT leads to the
+2	INDSETUP.vi	=Short the UUT leads to the
+2	ISRC_CAL.vi	Current Source Calibration
+2	ISRC_CAL.vi	Current Source Calibration?
+2	ISRC_CAL.vi	Failed Calibration.
+2	LEADOPEN.vi	Lead Open Test/Caps
+2	LEADSHRT.vi	-Make sure the UUT leads are shorted together.
+2	LEADSHRT.vi	KSomething seems to be wrong. Make sure the UUT leads are shorted together.
+2	LEADSHRT.vi	Lead Zero Short Test
+2	LEADSHRT.vi	Lead Zero Short Test/ESR
+2	LEADSHRT.vi	Lead Zero Short Test/Inductance
+2	LEADSHRT.vi	Lead Zero Short Test[
+2	LEAK_I.vi	Leakage Current Test
+2	Leak_CAL.vi	Leakage Calibration
+2	Leak_CAL.vi	Leakage Voltage Calibration
+2	Open File+.vi	File Already Open
+2	Open File+.vi	GOpens an existing file programmatically or interactively using dialog. You can optionally specify a dialog prompt, default file name, start path, or filter pattern. Error 7 occurs if the file does not exist. Use this VI with the intermediate level Read File+ VIs described below.
+2	Open File+.vi	cFile Dialog cancelled; set Error to Cancelled By User; empty File Path; set Refnum to Not a Refnum.
+2	Open File+.vi	new file path is the path of the file opened. You can use this output to determine the path of a file that you open using dialog. new file path returns Not A Path if the user selects Cancel from the dialog box.
+2	Open-Create-Replace File.vi	&Opens an existing file, creates a new file, or replaces an existing file, programmatically or interactively using dialog. You can optionally specify a dialog prompt, default file name, start path, or filter pattern, and you can specify open and deny modes when opening a file, plus group and permission when creating a new file. Use this VI with the intermediate Write File+ or Read File+ VIs described below.
+2	Open-Create-Replace File.vi	File Already Open
+2	Open-Create-Replace File.vi	[report file not found if function=0 (open); set file path to empty and refnum to NotARefnum
+2	Open-Create-Replace File.vi	new file path is the path of the file opened or created. You can use this output to determine the path of a file that you open or create using dialog. new file path returns Not A Path if the user selects Cancel from the dialog box.
+2	Read File+ (string).vi	Current file mark plus pos offset. This is the default value.
+2	Read File+ (string).vi	File Already Open
+2	Read File+ (string).vi	at the current file mark plus pos offset. This is the default value.
+2	Read Lines From File.vi	*Reads a specified number of lines from a byte stream file beginning at a specified character offset. The VI opens the file beforehand and closes it afterwards.
+2	Read Lines From File.vi	new file path is the path of the file from which the VI read data. You can use this output to determine the path of a file that you open using dialog. new file path returns Not A Path if the user selects Cancel from the dialog box.
+2	Ringer.vi	Ringer Calibration
+2	T_Setup.vi	Current Source Calibration
+2	T_Setup.vi	Gain Calibration
+2	T_Setup.vi	Leakage Current Test
+2	T_Setup.vi	Leakage Voltage Calibration
+2	T_Setup.vi	Press 'Enter' when ready.
+2	T_Setup.vi	Ringer Calibration
+2	VER#_SAV.vi	Couldn't open the Software Rev. file. Please set the Software Rev. manually on the front panel. Place the flopply disk in the computer NOW.
+2	VER#_SAV.vi	PAn invalid Software Rev. number was specified. Please fix this after cal fails.
+2	VER#_SAV.vi	RCouldn't open the Software Rev. file. Place the flopply disk in the computer NOW.
+2	Write Characters To File.vi	new file path is the path of the file to which the VI wrote data. You can use this output to determine the path of a file that you open using dialog. new file path returns Not A Path if the user selects Cancel from the dialog box.
+2	Write File+ (string).vi	Current file mark plus pos offset.
+2	Write File+ (string).vi	at the current file mark plus pos offset.
+2	test.vi	3Short the UUT leads to the
+2	test.vi	=Short the UUT leads to the

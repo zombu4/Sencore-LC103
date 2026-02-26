@@ -1,0 +1,66 @@
+90250:413b7f fConnect the UUT and/or DVM leads to
+90281:4140d4 fConnect the UUT and/or DVM leads to
+90294:4142c6 fConnect the UUT and/or DVM leads to
+90298:414378 fConnect the UUT and/or DVM leads to
+90308:4144d6 fConnect the UUT and/or DVM leads to
+90319:41465a fConnect the UUT and/or DVM leads to
+90556:416552 Current Source CalibrationfConnect the UUT and/or DVM leads to
+90560:4165e7 Gain CalibrationfConnect the UUT and/or DVM leads to
+90572:41672a Leakage Voltage CalibrationfConnect the UUT and/or DVM leads to
+90576:4167b9 D/A TestfConnect the UUT and/or DVM leads to
+90580:41683f Leakage Voltage TestfConnect the UUT and/or DVM leads to
+90584:4168d1 Leakage Current TestfConnect the UUT and/or DVM leads to
+94445:44500e KKLConnect the UUT leads to the
+94471:445142 YFBLConnect the UUT leads to the
+104572:4ee2cc 0=1.1MOhm connected to UUT leads; Same as '9'.
+263060:26819c 0=1.1MOhm connected to UUT leads; Same as '9'.
+263211:269155 0=1.1MOhm connected to UUT leads; Same as '9'.
+279434:37ea6e KKLConnect the UUT leads to the
+279460:37eba2 YFBLConnect the UUT leads to the
+285325:3e301b fConnect the UUT and/or DVM leads to
+285356:3e3570 fConnect the UUT and/or DVM leads to
+285369:3e3762 fConnect the UUT and/or DVM leads to
+285373:3e3814 fConnect the UUT and/or DVM leads to
+285383:3e3972 fConnect the UUT and/or DVM leads to
+285394:3e3af6 fConnect the UUT and/or DVM leads to
+285631:3e59ee Current Source CalibrationfConnect the UUT and/or DVM leads to
+285635:3e5a83 Gain CalibrationfConnect the UUT and/or DVM leads to
+285647:3e5bc6 Leakage Voltage CalibrationfConnect the UUT and/or DVM leads to
+285651:3e5c55 D/A TestfConnect the UUT and/or DVM leads to
+285655:3e5cdb Leakage Voltage TestfConnect the UUT and/or DVM leads to
+285659:3e5d6d Leakage Current TestfConnect the UUT and/or DVM leads to
+307026:d5a7c 4) Connect Lo Capacity leads to UUT plugs on front of test box.
+323374:1f007c 4) Connect Lo Capacity leads to UUT plugs on front of test box.
+323681:1f2cc7 4) Connect Lo Capacity leads to UUT plugs on front of test box.
+368595:14e4a1 0=1.1MOhm connected to UUT leads; Same as '9'.
+380039:20b212 Ringer CalibrationLConnect the UUT leads to the
+380152:20bf5f KKLConnect the UUT leads to the
+385845:267724 Current Source CalibrationfConnect the UUT and/or DVM leads to
+385868:267933 fConnect the UUT and/or DVM leads to
+385874:2679e0 fConnect the UUT and/or DVM leads to
+385877:267a48 Leakage Voltage CalibrationfConnect the UUT and/or DVM leads to
+385880:267acb D/A TestfConnect the UUT and/or DVM leads to
+385883:267b3b Leakage Voltage TestfConnect the UUT and/or DVM leads to
+386060:269850 fConnect the UUT and/or DVM leads to
+386097:269e44 fConnect the UUT and/or DVM leads to
+386112:26a051 fConnect the UUT and/or DVM leads to
+386116:26a103 fConnect the UUT and/or DVM leads to
+386127:26a27a fConnect the UUT and/or DVM leads to
+386139:26a417 fConnect the UUT and/or DVM leads to
+404084:3a6591 0=1.1MOhm connected to UUT leads; Same as '9'.
+442588:17f5d1 4) Connect Lo Capacity leads to UUT plugs on front of test box.
+445166:1a5739 4) Connect Lo Capacity leads to UUT plugs on front of test box.
+445430:1a73c6 4) Connect Lo Capacity leads to UUT plugs on front of test box.
+502085:1b9184 0=1.1MOhm connected to UUT leads; Same as '9'.
+510104:253879 Ringer CalibrationLConnect the UUT leads to the
+513178:28da29 Current Source CalibrationfConnect the UUT and/or DVM leads to
+513201:28dc38 fConnect the UUT and/or DVM leads to
+513207:28dce5 fConnect the UUT and/or DVM leads to
+513210:28dd4d Leakage Voltage CalibrationfConnect the UUT and/or DVM leads to
+513213:28ddd0 D/A TestfConnect the UUT and/or DVM leads to
+513216:28de40 Leakage Voltage TestfConnect the UUT and/or DVM leads to
+527421:3b51dd 0=1.1MOhm connected to UUT leads; Same as '9'.
+559427:1d99aa 4) Connect Lo Capacity leads to UUT plugs on front of test box.
+559822:1dee42 4) Connect Lo Capacity leads to UUT plugs on front of test box.
+596820:f643d 0=1.1MOhm connected to UUT leads; Same as '9'.
+608922:1beb71 0=1.1MOhm connected to UUT leads; Same as '9'.

@@ -1,0 +1,3 @@
+48232:1660f0 This box displays the current value for the path that is selected in the path menu.  You can not change the current path is "Use Default" is checked.
+48239:166313 vThe directory shown in this string box will be put into the path list when you click on the Insert or Replace buttons.
+48240:16638f lThis button inserts the directory shown in the string box before the highlighted directory in the path list.

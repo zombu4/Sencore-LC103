@@ -1,0 +1,8 @@
+320787:1c3894 aaaLeads zero, open                Cap must read 0, IND must read "OPEN" and ESR must read "ERROR 7"W
+320789:1c3953 MMMLead zero, shorted            CAP must read "SHORT",  IND and ESR must read 0l
+375113:1bf0a2          Press 'Enter' when ready.cShort the UUT leads to the Capacitance Decade box(LTerminal).
+447600:1ca0c0 aaaLeads zero, open                Cap must read 0, IND must read "OPEN" and ESR must read "ERROR 7"W
+447602:1ca17f MMMLead zero, shorted            CAP must read "SHORT",  IND and ESR must read 0l
+506651:213b8c          Press 'Enter' when ready.cShort the UUT leads to the Capacitance Decade box(LTerminal).
+550708:13e26b aaaLeads zero, open                Cap must read 0, IND must read "OPEN" and ESR must read "ERROR 7"W
+550710:13e32a MMMLead zero, shorted            CAP must read "SHORT",  IND and ESR must read 0l

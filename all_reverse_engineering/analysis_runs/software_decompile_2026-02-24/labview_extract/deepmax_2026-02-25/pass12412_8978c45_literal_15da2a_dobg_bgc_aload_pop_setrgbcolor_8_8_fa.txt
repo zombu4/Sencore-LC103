@@ -1,0 +1,1 @@
+46866:15da2a       doBG{bgc aload pop setrgbcolor 8 8 false [8 0 0 8 0 0] pat imagemask}if

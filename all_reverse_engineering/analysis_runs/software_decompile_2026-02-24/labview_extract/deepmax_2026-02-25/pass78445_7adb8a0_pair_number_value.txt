@@ -1,0 +1,86 @@
+52989:1cad8c createmirefnum is the reference number of the open file. The value is Not A Refnum if the file cannot be opened.
+54013:1dc204 refnum is the reference number of the open file.  The value is Not A Refnum if the file cannot be opened.
+74822:316bf5 9When you use the serial port VIs under Windows, the port number parameter can have the following values:
+75375:31da87 9When you use the serial port VIs under Windows, the port number parameter can have the following values:
+75597:321180 9When you use the serial port VIs under Windows, the port number parameter can have the following values:
+75851:32503b 9When you use the serial port VIs under Windows, the port number parameter can have the following values:
+99470:49107e mirefnum is the reference number of the open file. The value is Not A Refnum if the file cannot be opened.
+100023:49a6c3 refnum is the reference number of the open file.  The value is Not A Refnum if the file cannot be opened.
+102543:4d083f This error code is not listed in the internal database, or you have wired a number that is not an error code (such as a DAQ task ID) to the error code input.6Windows GetCommError:  The hex value of this code is x
+103422:4dca2d You can control the number of lines in a port by the parameter port width.  You also have the option of not reconfiguring the port as an output port with each iteration of the VI by setting the iteration control to a non-zero value.
+223246:99b8 createmirefnum is the reference number of the open file. The value is Not A Refnum if the file cannot be opened.
+224270:1ae30 refnum is the reference number of the open file.  The value is Not A Refnum if the file cannot be opened.
+224506:1db3c refnum is the reference number of the open file.  The value is Not A Refnum if the file cannot be opened.
+245132:1552a9 9When you use the serial port VIs under Windows, the port number parameter can have the following values:
+245690:15c26b 9When you use the serial port VIs under Windows, the port number parameter can have the following values:
+245918:15fac0 9When you use the serial port VIs under Windows, the port number parameter can have the following values:
+246177:163adf 9When you use the serial port VIs under Windows, the port number parameter can have the following values:
+257800:2079aa mirefnum is the reference number of the open file. The value is Not A Refnum if the file cannot be opened.
+258353:210fef refnum is the reference number of the open file.  The value is Not A Refnum if the file cannot be opened.
+258536:212d79 refnum is the reference number of the open file.  The value is Not A Refnum if the file cannot be opened.
+260976:249417 This error code is not listed in the internal database, or you have wired a number that is not an error code (such as a DAQ task ID) to the error code input.6Windows GetCommError:  The hex value of this code is x
+261872:255e51 You can control the number of lines in a port by the parameter port width.  You also have the option of not reconfiguring the port as an output port with each iteration of the VI by setting the iteration control to a non-zero value.
+262040:257002 You can control the number of lines in a port by the parameter port width.  You also have the option of not reconfiguring the port as an output port with each iteration of the VI by setting the iteration control to a non-zero value.
+307911:e5866 9When you use the serial port VIs under Windows, the port number parameter can have the following values:
+308139:e90b3 9When you use the serial port VIs under Windows, the port number parameter can have the following values:
+308397:ed0ca 9When you use the serial port VIs under Windows, the port number parameter can have the following values:
+314984:166fe8 This error code is not listed in the internal database, or you have wired a number that is not an error code (such as a DAQ task ID) to the error code input.6Windows GetCommError:  The hex value of this code is x
+315374:16d430 You can control the number of lines in a port by the parameter port width.  You also have the option of not reconfiguring the port as an output port with each iteration of the VI by setting the iteration control to a non-zero value.
+315540:16e5d6 You can control the number of lines in a port by the parameter port width.  You also have the option of not reconfiguring the port as an output port with each iteration of the VI by setting the iteration control to a non-zero value.
+319695:1b187f %<- number of inductor values in arrayH
+321606:1d226f &<- number of capacitor values in arrayH
+322356:1dfabe %<- number of inductor values in arrayH
+341461:1065b8 This error code is not listed in the internal database, or you have wired a number that is not an error code (such as a DAQ task ID) to the error code input.6Windows GetCommError:  The hex value of this code is x
+341596:1075f6 You can control the number of lines in a port by the parameter port width.  You also have the option of not reconfiguring the port as an output port with each iteration of the VI by setting the iteration control to a non-zero value.
+341860:10cabd You can control the number of lines in a port by the parameter port width.  You also have the option of not reconfiguring the port as an output port with each iteration of the VI by setting the iteration control to a non-zero value.
+369993:1621f7 You can control the number of lines in a port by the parameter port width.  You also have the option of not reconfiguring the port as an output port with each iteration of the VI by setting the iteration control to a non-zero value.
+374023:1adaa8 refnum is the reference number of the open file.  The value is Not A Refnum if the file cannot be opened.
+374026:1adc96 mirefnum is the reference number of the open file. The value is Not A Refnum if the file cannot be opened.
+394253:30cd70 refnum is the reference number of the open file.  The value is Not A Refnum if the file cannot be opened.
+396595:330ae7 9When you use the serial port VIs under Windows, the port number parameter can have the following values:
+396893:334e31 9When you use the serial port VIs under Windows, the port number parameter can have the following values:
+397174:338dc0 9When you use the serial port VIs under Windows, the port number parameter can have the following values:
+397592:33f1c3 9When you use the serial port VIs under Windows, the port number parameter can have the following values:
+404029:3a43f9 refnum is the reference number of the open file.  The value is Not A Refnum if the file cannot be opened.
+404066:3a5eee You can control the number of lines in a port by the parameter port width.  You also have the option of not reconfiguring the port as an output port with each iteration of the VI by setting the iteration control to a non-zero value.
+406189:3cc040 refnum is the reference number of the open file.  The value is Not A Refnum if the file cannot be opened.
+406192:3cc22e mirefnum is the reference number of the open file. The value is Not A Refnum if the file cannot be opened.
+431562:c77ef %<- number of inductor values in arrayH
+433235:dc554 You can control the number of lines in a port by the parameter port width.  You also have the option of not reconfiguring the port as an output port with each iteration of the VI by setting the iteration control to a non-zero value.
+440784:163e2a 9When you use the serial port VIs under Windows, the port number parameter can have the following values:
+441084:16817a 9When you use the serial port VIs under Windows, the port number parameter can have the following values:
+441369:16c106 9When you use the serial port VIs under Windows, the port number parameter can have the following values:
+443015:185e66 You can control the number of lines in a port by the parameter port width.  You also have the option of not reconfiguring the port as an output port with each iteration of the VI by setting the iteration control to a non-zero value.
+446596:1b8c59 %<- number of inductor values in arrayH
+452011:20cba9 &<- number of capacitor values in arrayH
+467315:cce46 You can control the number of lines in a port by the parameter port width.  You also have the option of not reconfiguring the port as an output port with each iteration of the VI by setting the iteration control to a non-zero value.
+470943:11468a You can control the number of lines in a port by the parameter port width.  You also have the option of not reconfiguring the port as an output port with each iteration of the VI by setting the iteration control to a non-zero value.
+502995:1c89b8 You can control the number of lines in a port by the parameter port width.  You also have the option of not reconfiguring the port as an output port with each iteration of the VI by setting the iteration control to a non-zero value.
+505869:20819d refnum is the reference number of the open file.  The value is Not A Refnum if the file cannot be opened.
+506085:20ac6d irefnum is the reference number of the open file. The value is Not A Refnum if the file cannot be opened.
+520845:33c668 refnum is the reference number of the open file.  The value is Not A Refnum if the file cannot be opened.
+521548:349f14 9When you use the serial port VIs under Windows, the port number parameter can have the following values:
+521751:34d2fc 9When you use the serial port VIs under Windows, the port number parameter can have the following values:
+521941:350284 9When you use the serial port VIs under Windows, the port number parameter can have the following values:
+522293:355c9a 9When you use the serial port VIs under Windows, the port number parameter can have the following values:
+527366:3b3045 refnum is the reference number of the open file.  The value is Not A Refnum if the file cannot be opened.
+527403:3b4b3a You can control the number of lines in a port by the parameter port width.  You also have the option of not reconfiguring the port as an output port with each iteration of the VI by setting the iteration control to a non-zero value.
+528203:3c87a7 refnum is the reference number of the open file.  The value is Not A Refnum if the file cannot be opened.
+528601:3cc8fe irefnum is the reference number of the open file. The value is Not A Refnum if the file cannot be opened.
+544030:c77ef %<- number of inductor values in arrayH
+545610:db464 You can control the number of lines in a port by the parameter port width.  You also have the option of not reconfiguring the port as an output port with each iteration of the VI by setting the iteration control to a non-zero value.
+548944:121e5a You can control the number of lines in a port by the parameter port width.  You also have the option of not reconfiguring the port as an output port with each iteration of the VI by setting the iteration control to a non-zero value.
+551560:14df8d %<- number of inductor values in arrayH
+554620:1822f2 &<- number of capacitor values in arrayH
+558149:1c4042 9When you use the serial port VIs under Windows, the port number parameter can have the following values:
+558356:1c7432 9When you use the serial port VIs under Windows, the port number parameter can have the following values:
+558548:1ca3b8 9When you use the serial port VIs under Windows, the port number parameter can have the following values:
+577723:13c65e You can control the number of lines in a port by the parameter port width.  You also have the option of not reconfiguring the port as an output port with each iteration of the VI by setting the iteration control to a non-zero value.
+580187:176a2e You can control the number of lines in a port by the parameter port width.  You also have the option of not reconfiguring the port as an output port with each iteration of the VI by setting the iteration control to a non-zero value.
+595379:d59e0 refnum is the reference number of the open file.  The value is Not A Refnum if the file cannot be opened.
+595868:e29c3 refnum is the reference number of the open file.  The value is Not A Refnum if the file cannot be opened.
+596266:e6b1a irefnum is the reference number of the open file. The value is Not A Refnum if the file cannot be opened.
+596765:f42a5 refnum is the reference number of the open file.  The value is Not A Refnum if the file cannot be opened.
+596802:f5d9a You can control the number of lines in a port by the parameter port width.  You also have the option of not reconfiguring the port as an output port with each iteration of the VI by setting the iteration control to a non-zero value.
+607065:19fc0d refnum is the reference number of the open file.  The value is Not A Refnum if the file cannot be opened.
+608562:1b9012 You can control the number of lines in a port by the parameter port width.  You also have the option of not reconfiguring the port as an output port with each iteration of the VI by setting the iteration control to a non-zero value.

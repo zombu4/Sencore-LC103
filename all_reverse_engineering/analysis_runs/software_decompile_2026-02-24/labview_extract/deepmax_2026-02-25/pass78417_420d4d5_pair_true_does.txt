@@ -1,0 +1,75 @@
+52996:1cb269 advisory dialog? Set TRUE (default) if you want a dialog if function=0 and the file does not exist, or if function=2 or 3 and the file exists.
+54006:1dbc55 advisory dialog?  Set TRUE (default) if you want a dialog if function=0 and the file does not exist, or if function=2 or 3 and the file exists.
+60025:23c484 ZV(bool) status: TRUE if an error has occurred. If status is TRUE, this VI does nothing."
+62762:25e9a7 ZV(bool) status: TRUE if an error has occurred. If status is TRUE, this VI does nothing.
+63535:271680 ZV(bool) status: TRUE if an error has occurred. If status is TRUE, this VI does nothing."
+66162:296210 ZV(bool) status: TRUE if an error has occurred. If status is TRUE, this VI does nothing."
+68042:2b0f56 ZV(bool) status: TRUE if an error has occurred. If status is TRUE, this VI does nothing."
+99477:491541 YUadvisory dialog? Set TRUE (default) if you want a dialog if the file does not exist.
+100016:49a163 advisory dialog?  Set TRUE (default) if you want a dialog if the file does not exist.
+223253:9e95 advisory dialog? Set TRUE (default) if you want a dialog if function=0 and the file does not exist, or if function=2 or 3 and the file exists.
+224263:1a881 advisory dialog?  Set TRUE (default) if you want a dialog if function=0 and the file does not exist, or if function=2 or 3 and the file exists.
+224499:1d58d advisory dialog?  Set TRUE (default) if you want a dialog if function=0 and the file does not exist, or if function=2 or 3 and the file exists.
+230492:7e2b8 ZV(bool) status: TRUE if an error has occurred. If status is TRUE, this VI does nothing."
+233281:a1007 ZV(bool) status: TRUE if an error has occurred. If status is TRUE, this VI does nothing.
+234072:b40b8 ZV(bool) status: TRUE if an error has occurred. If status is TRUE, this VI does nothing."
+236712:d8fb0 ZV(bool) status: TRUE if an error has occurred. If status is TRUE, this VI does nothing."
+238605:f3f32 ZV(bool) status: TRUE if an error has occurred. If status is TRUE, this VI does nothing."
+257807:207e6d YUadvisory dialog? Set TRUE (default) if you want a dialog if the file does not exist.
+258346:210a8f advisory dialog?  Set TRUE (default) if you want a dialog if the file does not exist.
+258529:212819 advisory dialog?  Set TRUE (default) if you want a dialog if the file does not exist.
+297010:4b5a1 ZV(bool) status: TRUE if an error has occurred. If status is TRUE, this VI does nothing."
+299829:6e290 ZV(bool) status: TRUE if an error has occurred. If status is TRUE, this VI does nothing.
+300637:81315 ZV(bool) status: TRUE if an error has occurred. If status is TRUE, this VI does nothing."
+303311:a61ad ZV(bool) status: TRUE if an error has occurred. If status is TRUE, this VI does nothing."
+305235:c10d7 ZV(bool) status: TRUE if an error has occurred. If status is TRUE, this VI does nothing."
+329237:4a815 ZV(bool) status: TRUE if an error has occurred. If status is TRUE, this VI does nothing."
+332090:6d5a4 ZV(bool) status: TRUE if an error has occurred. If status is TRUE, this VI does nothing.
+332906:80725 ZV(bool) status: TRUE if an error has occurred. If status is TRUE, this VI does nothing."
+335585:a5495 ZV(bool) status: TRUE if an error has occurred. If status is TRUE, this VI does nothing."
+337509:c03c3 ZV(bool) status: TRUE if an error has occurred. If status is TRUE, this VI does nothing."
+351937:49578 ZV(bool) status: TRUE if an error has occurred. If status is TRUE, this VI does nothing."
+354902:766f0 ZV(bool) status: TRUE if an error has occurred. If status is TRUE, this VI does nothing."
+357542:9b5e8 ZV(bool) status: TRUE if an error has occurred. If status is TRUE, this VI does nothing."
+359435:b656a ZV(bool) status: TRUE if an error has occurred. If status is TRUE, this VI does nothing."
+374016:1ad548 advisory dialog?  Set TRUE (default) if you want a dialog if the file does not exist.
+374033:1ae159 YUadvisory dialog? Set TRUE (default) if you want a dialog if the file does not exist.
+394246:30c7c1 advisory dialog?  Set TRUE (default) if you want a dialog if function=0 and the file does not exist, or if function=2 or 3 and the file exists.
+404022:3a3e99 advisory dialog?  Set TRUE (default) if you want a dialog if the file does not exist.
+406182:3cba91 advisory dialog?  Set TRUE (default) if you want a dialog if function=0 and the file does not exist, or if function=2 or 3 and the file exists.
+406205:3cc8de advisory dialog? Set TRUE (default) if you want a dialog if function=0 and the file does not exist, or if function=2 or 3 and the file exists.
+422639:49415 ZV(bool) status: TRUE if an error has occurred. If status is TRUE, this VI does nothing."
+425636:76521 ZV(bool) status: TRUE if an error has occurred. If status is TRUE, this VI does nothing."
+428310:9b3b9 ZV(bool) status: TRUE if an error has occurred. If status is TRUE, this VI does nothing."
+430234:b62e3 ZV(bool) status: TRUE if an error has occurred. If status is TRUE, this VI does nothing."
+457536:47c61 ZV(bool) status: TRUE if an error has occurred. If status is TRUE, this VI does nothing."
+460572:74f15 ZV(bool) status: TRUE if an error has occurred. If status is TRUE, this VI does nothing."
+463251:99c85 ZV(bool) status: TRUE if an error has occurred. If status is TRUE, this VI does nothing."
+465175:b4bb3 ZV(bool) status: TRUE if an error has occurred. If status is TRUE, this VI does nothing."
+481153:49578 ZV(bool) status: TRUE if an error has occurred. If status is TRUE, this VI does nothing."
+484118:766f0 ZV(bool) status: TRUE if an error has occurred. If status is TRUE, this VI does nothing."
+486758:9b5e8 ZV(bool) status: TRUE if an error has occurred. If status is TRUE, this VI does nothing."
+488651:b656a ZV(bool) status: TRUE if an error has occurred. If status is TRUE, this VI does nothing."
+505862:207c3d advisory dialog?  Set TRUE (default) if you want a dialog if the file does not exist.
+506089:20aecd Uadvisory dialog? Set TRUE (default) if you want a dialog if the file does not exist.
+520838:33c0b9 advisory dialog?  Set TRUE (default) if you want a dialog if function=0 and the file does not exist, or if function=2 or 3 and the file exists.
+527359:3b2ae5 advisory dialog?  Set TRUE (default) if you want a dialog if the file does not exist.
+528196:3c81f8 advisory dialog?  Set TRUE (default) if you want a dialog if function=0 and the file does not exist, or if function=2 or 3 and the file exists.
+528612:3ccdef advisory dialog? Set TRUE (default) if you want a dialog if function=0 and the file does not exist, or if function=2 or 3 and the file exists.
+535107:49415 ZV(bool) status: TRUE if an error has occurred. If status is TRUE, this VI does nothing."
+538104:76521 ZV(bool) status: TRUE if an error has occurred. If status is TRUE, this VI does nothing."
+540778:9b3b9 ZV(bool) status: TRUE if an error has occurred. If status is TRUE, this VI does nothing."
+542702:b62e3 ZV(bool) status: TRUE if an error has occurred. If status is TRUE, this VI does nothing."
+565452:47c61 ZV(bool) status: TRUE if an error has occurred. If status is TRUE, this VI does nothing."
+568488:74f15 ZV(bool) status: TRUE if an error has occurred. If status is TRUE, this VI does nothing."
+571167:99c85 ZV(bool) status: TRUE if an error has occurred. If status is TRUE, this VI does nothing."
+573091:b4bb3 ZV(bool) status: TRUE if an error has occurred. If status is TRUE, this VI does nothing."
+585876:494f0 ZV(bool) status: TRUE if an error has occurred. If status is TRUE, this VI does nothing."
+588840:76650 ZV(bool) status: TRUE if an error has occurred. If status is TRUE, this VI does nothing."
+591480:9b548 ZV(bool) status: TRUE if an error has occurred. If status is TRUE, this VI does nothing."
+593373:b64ca ZV(bool) status: TRUE if an error has occurred. If status is TRUE, this VI does nothing."
+595372:d5431 advisory dialog?  Set TRUE (default) if you want a dialog if function=0 and the file does not exist, or if function=2 or 3 and the file exists.
+595861:e2414 advisory dialog?  Set TRUE (default) if you want a dialog if function=0 and the file does not exist, or if function=2 or 3 and the file exists.
+596277:e700b advisory dialog? Set TRUE (default) if you want a dialog if function=0 and the file does not exist, or if function=2 or 3 and the file exists.
+596758:f3d45 advisory dialog?  Set TRUE (default) if you want a dialog if the file does not exist.
+607058:19f6ad advisory dialog?  Set TRUE (default) if you want a dialog if the file does not exist.

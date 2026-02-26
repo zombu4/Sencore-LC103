@@ -1,0 +1,4 @@
+48226:165ef3 hThis menu selects which path to configure.  The paths are: 
+52214:1ba2c3 %p is an existing %p.3An error occurred while listing the contents of %p..You must select something in the directory %p.ULabVIEW cannot save to path %p because it is not an existing directory or VI library.
+52539:1bf374 There is no library specified for this node. Pop up on the Call Library Function node and select Configure..., then choose a library name or path.
+52541:1bf499 The library specified for this node cannot be found. Pop up on the Call Library Function node and select Configure..., then choose the correct library name or path.

@@ -1,0 +1,24 @@
+100480:4a17b6 If the error in cluster has a status of no-error, then test each element of error codes array, stopping on the first non-zero value or after all are tested; pick the selected line from the optional source messages as the error out source.
+101569:4b6bd6 HDcode out is the error code indicated by the error in or error code.
+102529:4cf73c DDE:  Invalid command code.GDDE: Occurrence timeout; the transaction timed out before it completed.
+258834:218b96 If the error in cluster has a status of no-error, then test each element of error codes array, stopping on the first non-zero value or after all are tested; pick the selected line from the optional source messages as the error out source.
+260002:22f7ae HDcode out is the error code indicated by the error in or error code.
+260962:248314 DDE:  Invalid command code.GDDE: Occurrence timeout; the transaction timed out before it completed.
+313990:14d3cb HDcode out is the error code indicated by the error in or error code.
+314970:165ee5 DDE:  Invalid command code.GDDE: Occurrence timeout; the transaction timed out before it completed.
+340473:ec9ae HDcode out is the error code indicated by the error in or error code.
+341447:1054b5 DDE:  Invalid command code.GDDE: Occurrence timeout; the transaction timed out before it completed.
+371400:181d36 DDE:  Invalid command code.GDDE: Occurrence timeout; the transaction timed out before it completed.
+371456:183820 HDcode out is the error code indicated by the error in or error code.
+373410:1a2bb5 If the error in cluster has a status of no-error, then test each element of error codes array, stopping on the first non-zero value or after all are tested; pick the selected line from the optional source messages as the error out source.
+434101:f5959 DDE:  Invalid command code.GDDE: Occurrence timeout; the transaction timed out before it completed.
+434157:f7443 HDcode out is the error code indicated by the error in or error code.
+470080:104eda DDE:  Invalid command code.GDDE: Occurrence timeout; the transaction timed out before it completed.
+470136:1069c4 HDcode out is the error code indicated by the error in or error code.
+503910:1e2cd7 DDE:  Invalid command code.GDDE: Occurrence timeout; the transaction timed out before it completed.
+504201:1e99ba Dcode out is the error code indicated by the error in or error code.
+505508:1ffb22 If the error in cluster has a status of no-error, then test each element of error codes array, stopping on the first non-zero value or after all are tested; pick the selected line from the optional source messages as the error out source.
+546476:f4869 DDE:  Invalid command code.GDDE: Occurrence timeout; the transaction timed out before it completed.
+546532:f6353 HDcode out is the error code indicated by the error in or error code.
+579329:166b9b DDE:  Invalid command code.GDDE: Occurrence timeout; the transaction timed out before it completed.
+579620:16d87d Dcode out is the error code indicated by the error in or error code.

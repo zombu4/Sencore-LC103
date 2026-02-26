@@ -1,0 +1,4 @@
+52417:1bc5fa JThe VI "%p" cannot be saved without a diagram because it still has errors.
+52446:1bccf2 !Attempt to use bad index for wire9Segment with index out of range will be deleted from wire"Bad edge will not be added to wire%Cannot find terminal hotpoint in wire
+52474:1bd25d unwired selector,too many diagrams for Boolean Case structure6wrong number of diagrams for enumerated case structure:subroutine priority VI cannot contain an asynchronous nodeBsubroutine priority VI cannot call a non-subroutine priority subVI
+52510:1bd790 This VI has a bad connection to or cannot find a subVI or external routine, but it has no block diagram to show or fix the error. You must find or correct the subVI or external routine. Check for more information in the Explain... dialog in Get Info.

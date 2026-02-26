@@ -1,0 +1,163 @@
+46712:15cb30 {currentfile pictstr readhexstring pop} imagemask
+46714:15cb74 {currentfile pictstr readhexstring pop} imagemask
+46717:15cbc4 {currentfile pictstr readhexstring pop} 
+52748:1c11a9 Read File+ (string).vi
+101004:4aa0e5 relative to current mark+'string is the data read from the file.
+101388:4af7d2 Reads a string of characters from a byte stream file at the specified location; the default location is at the current mark.  The VI does incoming and internal error checking and does not read if an incoming error occurs.
+101400:4afe9f character string is the data read from the file.
+101424:4b0251 Read File+ (string).vi
+101436:4b0536 Read File+ (string): Read FileND
+101445:4b0703 Read File+ (string).vi
+101448:4b0747 Read File+ (string).vi
+101452:4b07c6 Read File+ (string).vi
+101453:4b07e2 Read File+ (string): Read File
+101496:4b0bac Read File+ (string).vi
+101544:4b110b Read File+ (string).vi
+101545:4b1122 Read File+ (string).vi
+101546:4b1139 Read File+ (string).vi
+101547:4b1150 Read File+ (string).vi
+101548:4b1167 Read File+ (string).vi
+101549:4b117e Read File+ (string).vi
+101550:4b1195 Read File+ (string).vi
+101551:4b11ac Read File+ (string).vi
+101552:4b11c3 Read File+ (string).vi
+101553:4b11da Read File+ (string).vi
+101554:4b11f1 Read File+ (string).vi
+101555:4b1208 Read File+ (string).vi
+101556:4b121f Read File+ (string).vi
+101557:4b1236 Read File+ (string).vi
+101558:4b124d Read File+ (string).vi
+101559:4b1264 Read File+ (string).vi
+101560:4b127b Read File+ (string).vi
+101561:4b1292 Read File+ (string).vi
+111787:5655c7 0,line string is the data read from the file.
+112350:56c6e4 line string is the data read from the file.
+112383:56cbe9 Read File+ (string).viR
+112386:56cc4c Read File+ (string).via
+112410:56d150 Read File+ (string).vi
+112615:56d792 Read File+ (string).vi
+112690:56e082 Read File+ (string).vi
+112709:56e1d3 Read File+ (string).vi
+120233:5ed5ae Read File+ (string).vi
+259376:2202bf Read File+ (string).vi
+259401:222195 relative to current mark+'string is the data read from the file.
+259785:227882 Reads a string of characters from a byte stream file at the specified location; the default location is at the current mark.  The VI does incoming and internal error checking and does not read if an incoming error occurs.
+259797:227f4f character string is the data read from the file.
+259821:228301 Read File+ (string).vi
+259833:2285e6 Read File+ (string): Read FileND
+259842:2287b3 Read File+ (string).vi
+259845:2287f7 Read File+ (string).vi
+259849:228876 Read File+ (string).vi
+259850:228892 Read File+ (string): Read File
+259893:228c5c Read File+ (string).vi
+259941:2291bb Read File+ (string).vi
+259942:2291d2 Read File+ (string).vi
+259943:2291e9 Read File+ (string).vi
+259944:229200 Read File+ (string).vi
+259945:229217 Read File+ (string).vi
+259946:22922e Read File+ (string).vi
+259947:229245 Read File+ (string).vi
+259948:22925c Read File+ (string).vi
+259949:229273 Read File+ (string).vi
+259950:22928a Read File+ (string).vi
+259951:2292a1 Read File+ (string).vi
+259952:2292b8 Read File+ (string).vi
+259953:2292cf Read File+ (string).vi
+259954:2292e6 Read File+ (string).vi
+259955:2292fd Read File+ (string).vi
+259956:229314 Read File+ (string).vi
+259957:22932b Read File+ (string).vi
+259958:229342 Read File+ (string).vi
+259959:229360 Reads a string of characters from a byte stream file at the specified location; the default location is at the current mark.  The VI does incoming and internal error checking and does not read if an incoming error occurs.
+259971:229a2d character string is the data read from the file.
+270316:2dfd1b 0,line string is the data read from the file.
+270879:2e6e38 line string is the data read from the file.
+270912:2e733d Read File+ (string).viR
+270915:2e73a0 Read File+ (string).via
+270939:2e78a4 Read File+ (string).vi
+271144:2e7ee6 Read File+ (string).vi
+271219:2e87d6 Read File+ (string).vi
+271238:2e8927 Read File+ (string).vi
+271326:2e963b line string is the data read from the file.
+291627:443555 Read File+ (string).vi
+292041:4478ef Read File+ (string).vi
+292042:447906 Read File+ (string).vi
+292043:44791d Read File+ (string).vi
+292044:447934 Read File+ (string).vi
+292045:44794b Read File+ (string).vi
+360298:bd43f Read File+ (string).vi
+366249:12c6dd Read File+ (string).vi
+366268:12c835 Read File+ (string).vi
+366609:130391 Read File+ (string).vi
+366636:130aaa line string is the data read from the file.
+366645:1310cc 0,line string is the data read from the file.
+366981:13267d Read File+ (string).viR
+366985:1326f5 Read File+ (string).via
+367012:133387 Read File+ (string).vi
+372006:18f52e Read File+ (string).vi
+372008:18f5b6 Read File+ (string).vi
+372307:1927d3 Read File+ (string): Read File
+372314:192990 Read File+ (string).vi
+372335:192b26 Reads a string of characters from a byte stream file at the specified location; the default location is at the current mark.  The VI does incoming and internal error checking and does not read if an incoming error occurs.
+372347:1931f3 character string is the data read from the file.
+372355:193592 +'string is the data read from the file.
+372424:1943fc Read File+ (string): Read FileND
+372502:194a0d Read File+ (string).vi
+372519:1958e5 Read File+ (string).vi
+372679:19762f Read File+ (string).vi
+404043:3a4f48 Reads a string of characters from a byte stream file at the specified location; the default location is at the current mark.  The VI does incoming and internal error checking and does not read if an incoming error occurs.
+404055:3a5615 character string is the data read from the file.
+404101:3a6c3f line string is the data read from the file.
+416894:47f2bd Read File+ (string).vi
+417121:4828bb Read File+ (string).vi
+417339:4835e9 Read File+ (string).vi
+417340:483600 Read File+ (string).vi
+417341:483617 Read File+ (string).vi
+417342:48362e Read File+ (string).vi
+489514:bd43f Read File+ (string).vi
+496046:147862 Read File+ (string).vi
+496065:1479ba Read File+ (string).vi
+496172:14882b Read File+ (string).vi
+496235:149f46 line string is the data read from the file.
+496376:14afd5 Read File+ (string).viR
+496380:14b04d Read File+ (string).via
+496401:14bb01 ,line string is the data read from the file.
+496414:14c1df Read File+ (string).vi
+504616:1f1be9 Read File+ (string).vi
+504688:1f2487 Read File+ (string): Read File
+504690:1f2626 Read File+ (string).vi
+504744:1f31e7 Reads a string of characters from a byte stream file at the specified location; the default location is at the current mark.  The VI does incoming and internal error checking and does not read if an incoming error occurs.
+504756:1f38b4 character string is the data read from the file.
+504891:1f4832 Read File+ (string).vi
+504910:1f5a98 'string is the data read from the file.
+504923:1f5fc0 Read File+ (string).vi
+505070:1f7bef Read File+ (string).vi
+527380:3b3b94 Reads a string of characters from a byte stream file at the specified location; the default location is at the current mark.  The VI does incoming and internal error checking and does not read if an incoming error occurs.
+527392:3b4261 character string is the data read from the file.
+527438:3b588b line string is the data read from the file.
+529321:3d92a9 Read File+ (string).vi
+529583:3de9f7 Read File+ (string).vi
+529804:3df746 Read File+ (string).vi
+529805:3df75d Read File+ (string).vi
+529806:3df774 Read File+ (string).vi
+529807:3df78b Read File+ (string).vi
+596779:f4df4 Reads a string of characters from a byte stream file at the specified location; the default location is at the current mark.  The VI does incoming and internal error checking and does not read if an incoming error occurs.
+596791:f54c1 character string is the data read from the file.
+596837:f6aeb line string is the data read from the file.
+597009:f841d Read File+ (string).vi
+607612:1a8b7b Read File+ (string).vi
+607623:1a8f53 Read File+ (string).vi
+607652:1a9938 Reads a string of characters from a byte stream file at the specified location; the default location is at the current mark.  The VI does incoming and internal error checking and does not read if an incoming error occurs.
+607664:1aa005 character string is the data read from the file.
+607668:1aa287 Read File+ (string).vi
+607713:1aafa7 Read File+ (string).vi
+607834:1ac865 Read File+ (string).vi
+610227:1d3bc1 Read File+ (string).vi
+610229:1d3be6 Read File+ (string).vi
+610252:1d412d Read File+ (string).vi
+610299:1d5303 line string is the data read from the file.
+610337:1d5ed5 Read File+ (string).vi
+610339:1d5efa Read File+ (string).vi
+612418:1f710f Read File+ (string).vi
+612419:1f7126 Read File+ (string).vi
+612420:1f713d Read File+ (string).vi

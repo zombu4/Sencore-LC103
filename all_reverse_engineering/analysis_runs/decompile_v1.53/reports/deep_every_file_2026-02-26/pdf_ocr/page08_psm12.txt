@@ -1,0 +1,183 @@
+13. RS232 Commands
+
+COMPONENT TYPE COMMANDS
+
+Aluminum Electrolytics
+
+i
+
+DBL
+
+Double Layer
+
+i
+
+TAN
+
+Tantalum Caps
+
+CER
+
+Ceramic Caps
+
+40C
+
+All Other Caps
+
+HIR
+
+High Resistance Double Layer Lytics _
+
+COL
+
+Coils
+
+|
+
+YFB
+
+Yokes and Flybacks
+
+SWX
+
+Switching Transformers
+
+VALUE MULTIPLIERS
+
+Command
+
+=
+
+uF
+
+Fa
+
+ras
+
+es
+
+Microtery
+
+Uifiherr,
+
+Henry
+
+Positive maerance © >
+
+ad
+
+Negaiue merece
+
+oad
+
+whage aire, eae ote
+
+TEST FUNCTION COMMANDS:
+
+=
+
+Command Canasta om —
+
+~
+
+aw
+
+a
+
+_
+
+-
+
+a
+
+LKI
+
+Leakage current
+
+LKR
+
+jistance
+
+Leakage
+
+Di
+
+Dielectric Absor ;ption
+
+Rk
+
+ESR
+
+|_*
+
+a
+
+"Equivalent series resistance
+
+IND
+
+Inductance
+
+=
+
+RIN
+
+Ringer
+
+_
+
+cic
+
+Capacitor in ‘circuit
+
+EIC
+
+ESR in circuit
+
+uc.
+
+Inductance in circuit _
+
+GENERAL COMMANDS
+
+Command
+
+ription
+
+LDO
+
+Lead zero open
+
+LDS
+
+‘Lead zero short,
+
+_No Function
+
+7
+
+alas)
+
+CPO
+
+—
+
+“Control panel on (front panel operation) _|
+
+ne! oper
+
+Ctrl R
+
+Conti
+
+lata
+
+CtrlO
+
+‘Return
+
+ve
+
+19
+
+fault)

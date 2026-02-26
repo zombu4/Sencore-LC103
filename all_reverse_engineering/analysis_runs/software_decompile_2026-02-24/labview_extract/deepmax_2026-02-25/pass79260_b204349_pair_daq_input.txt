@@ -1,0 +1,30 @@
+102377:4c52e4 This error code is not listed in the internal database, or you have wired a number that is not an error code (such as a DAQ task ID) to the error code input.PD
+102462:4cd277 DAQ semanticsErr:  An error was detected in the input string; the syntax of the string is correct, but certain values specified in the string are inconsistent with other values specified in the string.
+102543:4d083f This error code is not listed in the internal database, or you have wired a number that is not an error code (such as a DAQ task ID) to the error code input.6Windows GetCommError:  The hex value of this code is x
+132835:1fbe32 ?AIStart_TheVirtualThing@daqDevice@@UAEFFKPAUsAnalogInputStruct@@PAUsAnalogInputParam@@PAUsAIGroupConfigStruct@@PAUsAIGroupParam@@KKKFPAM@Z
+260810:23debc This error code is not listed in the internal database, or you have wired a number that is not an error code (such as a DAQ task ID) to the error code input.PD
+260895:245e4f DAQ semanticsErr:  An error was detected in the input string; the syntax of the string is correct, but certain values specified in the string are inconsistent with other values specified in the string.
+260976:249417 This error code is not listed in the internal database, or you have wired a number that is not an error code (such as a DAQ task ID) to the error code input.6Windows GetCommError:  The hex value of this code is x
+314818:15baab This error code is not listed in the internal database, or you have wired a number that is not an error code (such as a DAQ task ID) to the error code input.PD
+314903:163a20 DAQ semanticsErr:  An error was detected in the input string; the syntax of the string is correct, but certain values specified in the string are inconsistent with other values specified in the string.
+314984:166fe8 This error code is not listed in the internal database, or you have wired a number that is not an error code (such as a DAQ task ID) to the error code input.6Windows GetCommError:  The hex value of this code is x
+341295:fb07b This error code is not listed in the internal database, or you have wired a number that is not an error code (such as a DAQ task ID) to the error code input.PD
+341380:102ff0 DAQ semanticsErr:  An error was detected in the input string; the syntax of the string is correct, but certain values specified in the string are inconsistent with other values specified in the string.
+341461:1065b8 This error code is not listed in the internal database, or you have wired a number that is not an error code (such as a DAQ task ID) to the error code input.6Windows GetCommError:  The hex value of this code is x
+371333:17f871 DAQ semanticsErr:  An error was detected in the input string; the syntax of the string is correct, but certain values specified in the string are inconsistent with other values specified in the string.
+371417:182ea7 This error code is not listed in the internal database, or you have wired a number that is not an error code (such as a DAQ task ID) to the error code input.
+371570:185f51 This error code is not listed in the internal database, or you have wired a number that is not an error code (such as a DAQ task ID) to the error code input.QE
+434034:f3494 DAQ semanticsErr:  An error was detected in the input string; the syntax of the string is correct, but certain values specified in the string are inconsistent with other values specified in the string.
+434118:f6aca This error code is not listed in the internal database, or you have wired a number that is not an error code (such as a DAQ task ID) to the error code input.
+434269:f9b74 This error code is not listed in the internal database, or you have wired a number that is not an error code (such as a DAQ task ID) to the error code input.QE
+470013:102a15 DAQ semanticsErr:  An error was detected in the input string; the syntax of the string is correct, but certain values specified in the string are inconsistent with other values specified in the string.
+470097:10604b This error code is not listed in the internal database, or you have wired a number that is not an error code (such as a DAQ task ID) to the error code input.
+470247:1090f5 This error code is not listed in the internal database, or you have wired a number that is not an error code (such as a DAQ task ID) to the error code input.QE
+503843:1e0812 DAQ semanticsErr:  An error was detected in the input string; the syntax of the string is correct, but certain values specified in the string are inconsistent with other values specified in the string.
+503927:1e3e51 This error code is not listed in the internal database, or you have wired a number that is not an error code (such as a DAQ task ID) to the error code input.
+546409:f23a4 DAQ semanticsErr:  An error was detected in the input string; the syntax of the string is correct, but certain values specified in the string are inconsistent with other values specified in the string.
+546493:f59da This error code is not listed in the internal database, or you have wired a number that is not an error code (such as a DAQ task ID) to the error code input.
+546644:f8a84 This error code is not listed in the internal database, or you have wired a number that is not an error code (such as a DAQ task ID) to the error code input.QE
+579262:1646d6 DAQ semanticsErr:  An error was detected in the input string; the syntax of the string is correct, but certain values specified in the string are inconsistent with other values specified in the string.
+579346:167d15 This error code is not listed in the internal database, or you have wired a number that is not an error code (such as a DAQ task ID) to the error code input.
+638324:1fbe32 ?AIStart_TheVirtualThing@daqDevice@@UAEFFKPAUsAnalogInputStruct@@PAUsAnalogInputParam@@PAUsAIGroupConfigStruct@@PAUsAIGroupParam@@KKKFPAM@Z

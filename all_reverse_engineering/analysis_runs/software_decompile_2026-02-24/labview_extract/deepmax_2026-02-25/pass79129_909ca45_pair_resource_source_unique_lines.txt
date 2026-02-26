@@ -1,0 +1,238 @@
+36885:126e6 GetFileResource
+36886:12708 GetFileResourceSize
+38251:4f618 SubdivideResources
+38255:4f6bf SortUnchangedResources
+38257:4f764 MoveDiskResource
+38259:4f9ae DisposeAllResources
+38260:4fa39 CountTotalResources
+38286:508eb IsHandleInResourceMap
+39548:8082a GetRectResource
+43458:104a5d ArchiveExtractResource
+45960:153550 resource.c
+46335:15a3f7 error adding resource! err = %ld
+47399:160922 JExecutable version doesn't match resource file. Check your configuration.
+47401:160977 Init tmp resource files
+47412:160a16 couldn't get rList resource %ld
+47415:160a4e error %lx creating temporary resource file
+47416:160a79 error %lx creating temporary LVSB resource file
+48025:1639ca Couldn't get resource named %p
+48026:1639e9 Couldn't get resource named %p from file %p
+48312:167ce9 Resource does not exit.
+48313:167d05 Overwriting existing resource.
+49475:1746b8 Resources:
+51094:18c9e9 Resource file not found
+51095:18ca01 Cannot add resource
+51096:18ca15 Resource not found
+51673:1b6fff Load Code Resource...
+51674:1b7015 Reload Code Resource
+51675:1b702a Reload Code Resource From...
+51676:1b7047 Purge Bad Code Resource
+52005:1b8aaa Resource file not found.
+52006:1b8ac3 Cannot add resource.
+52007:1b8ad8 Resource not found.
+52224:1ba400 Choose a code resource .c file:
+52225:1ba420 Choose a code resource file:
+52398:1bbe82 Opening old resource file.
+52399:1bbe9d Getting old data map resource.
+52400:1bbebc Adding data map resource.
+52401:1bbed6 Adding numLogs resource.
+52403:1bbf0d Adding datalog record resource.
+52404:1bbf2d Adding log path resource.#Cannot find 'LVSB' resource to save
+52405:1bbf6b Error saving 'LVSB' resource.
+52407:1bbfa6 Error saving ID resource. Error saving demo time resource. Could not save runonly resource.
+52412:1bc147 Could not load VI resource.,Version of VI is newer than LabVIEW version.?Version of VI is too old to convert to current LabVIEW version.JVI cannot be converted to current version because it has no block diagram."Could not load connector type map.
+52414:1bc277 Could not load default data.+Could not load data space link information.%Could not load VI's link information.&Could not load LVSB platform resource.6Demonstration versions of LabVIEW cannot load this VI.
+52427:1bc7be Can't allocate new path.$Can't open VI library resource file."Can't remove file from VI library.%Can't open file system resource file.
+52430:1bc8c1 Can't find file in VI library. Can't get palette menu resource."Palette position already occupied.
+53086:1cc8e7 Resource File Not Found
+53087:1cc8ff Cannot Add Resource
+53088:1cc913 Resource Not Found
+53130:1ccc12 Resource File Not Found
+53131:1ccc2a Cannot Add Resource
+53132:1ccc3e Resource Not Found
+53174:1ccf3d Resource File Not Found
+53175:1ccf55 Cannot Add Resource
+53176:1ccf69 Resource Not Found
+53218:1cd268 Resource File Not Found
+53219:1cd280 Cannot Add Resource
+53220:1cd294 Resource Not Found
+53262:1cd58b Resource File Not Found
+53263:1cd5a3 Cannot Add Resource
+53264:1cd5b7 Resource Not Found
+59141:231d45 Initializes the NI-VXI library and reads in the resource manager table. The library is automatically initialized when any VXI VI is used in a diagram. If you initialize the library with this VI, you must call CloseVXIlibrary later in your diagram.$
+99561:492a6b Resource File Not Found
+99562:492a83 Cannot Add Resource
+99563:492a97 Resource Not Found
+99605:492d96 Resource File Not Found
+99606:492dae Cannot Add Resource
+99607:492dc2 Resource Not Found
+101095:4ab9c0 Resource File Not Found
+101096:4ab9d8 Cannot Add Resource
+101097:4ab9ec Resource Not Found
+102437:4cadd8 DAQ memPageErr: The transfer buffer contains a page break; system resources may require reprogramming when the page break is encountered.KDAQ memLockErr: The transfer buffer cannot be locked into physical memory.
+102476:4cdc93 GPIB EFSO: File system operation error.PLabVIEW: Resource file not found.
+102477:4cdcdf GPIB EOWN: Sharable board exclusively owned.:LabVIEW: Cannot add resource.
+102478:4cdd2c GPIB EBUS: GPIB bus error.JLabVIEW: Resource not found.
+119519:5ea521 Owner resource
+119618:5eabf9 Owner resource
+132712:1ef6c8 _iBus_reserveInterruptResources@32
+134684:290b1c resource
+151038:102522 /Resources <<
+159201:1c44a4 /Resources <<
+168298:2992b9 /Resources <<
+177229:36595c /Resources <<
+184059:411fc1 /Resources <<
+200470:583fbf /Resources <<
+215072:6d5b5e /Resources <<
+222856:790453 /Resources <<
+223343:b513 Resource File Not Found
+223344:b52b Cannot Add Resource
+223345:b53f Resource Not Found
+223387:b83e Resource File Not Found
+223388:b856 Cannot Add Resource
+223389:b86a Resource Not Found
+223431:bb69 Resource File Not Found
+223432:bb81 Cannot Add Resource
+223433:bb95 Resource Not Found
+223475:be94 Resource File Not Found
+223476:beac Cannot Add Resource
+223477:bec0 Resource Not Found
+223519:c1b7 Resource File Not Found
+223520:c1cf Cannot Add Resource
+223521:c1e3 Resource Not Found
+229567:73521 Initializes the NI-VXI library and reads in the resource manager table. The library is automatically initialized when any VXI VI is used in a diagram. If you initialize the library with this VI, you must call CloseVXIlibrary later in your diagram.$
+229646:740b4 Initializes the NI-VXI library and reads in the resource manager table. The library is automatically initialized when any VXI VI is used in a diagram. If you initialize the library with this VI, you must call CloseVXIlibrary later in your diagram.
+257891:209397 Resource File Not Found
+257892:2093af Cannot Add Resource
+257893:2093c3 Resource Not Found
+257935:2096c2 Resource File Not Found
+257936:2096da Cannot Add Resource
+257937:2096ee Resource Not Found
+259492:223a70 Resource File Not Found
+259493:223a88 Cannot Add Resource
+259494:223a9c Resource Not Found
+260870:2439b0 DAQ memPageErr: The transfer buffer contains a page break; system resources may require reprogramming when the page break is encountered.KDAQ memLockErr: The transfer buffer cannot be locked into physical memory.
+260909:24686b GPIB EFSO: File system operation error.PLabVIEW: Resource file not found.
+260910:2468b7 GPIB EOWN: Sharable board exclusively owned.:LabVIEW: Cannot add resource.
+260911:246904 GPIB EBUS: GPIB bus error.JLabVIEW: Resource not found.
+296076:4083a Initializes the NI-VXI library and reads in the resource manager table. The library is automatically initialized when any VXI VI is used in a diagram. If you initialize the library with this VI, you must call CloseVXIlibrary later in your diagram.$
+296156:413d0 Initializes the NI-VXI library and reads in the resource manager table. The library is automatically initialized when any VXI VI is used in a diagram. If you initialize the library with this VI, you must call CloseVXIlibrary later in your diagram.
+314878:161581 DAQ memPageErr: The transfer buffer contains a page break; system resources may require reprogramming when the page break is encountered.KDAQ memLockErr: The transfer buffer cannot be locked into physical memory.
+314917:16443c GPIB EFSO: File system operation error.PLabVIEW: Resource file not found.
+314918:164488 GPIB EOWN: Sharable board exclusively owned.:LabVIEW: Cannot add resource.
+314919:1644d5 GPIB EBUS: GPIB bus error.JLabVIEW: Resource not found.
+328223:3ea68 Initializes the NI-VXI library and reads in the resource manager table. The library is automatically initialized when any VXI VI is used in a diagram. If you initialize the library with this VI, you must call CloseVXIlibrary later in your diagram.
+328280:3fbd2 Initializes the NI-VXI library and reads in the resource manager table. The library is automatically initialized when any VXI VI is used in a diagram. If you initialize the library with this VI, you must call CloseVXIlibrary later in your diagram.$
+341355:100b51 DAQ memPageErr: The transfer buffer contains a page break; system resources may require reprogramming when the page break is encountered.KDAQ memLockErr: The transfer buffer cannot be locked into physical memory.
+341394:103a0c GPIB EFSO: File system operation error.PLabVIEW: Resource file not found.
+341395:103a58 GPIB EOWN: Sharable board exclusively owned.:LabVIEW: Cannot add resource.
+341396:103aa5 GPIB EBUS: GPIB bus error.JLabVIEW: Resource not found.
+351012:3e7e1 Initializes the NI-VXI library and reads in the resource manager table. The library is automatically initialized when any VXI VI is used in a diagram. If you initialize the library with this VI, you must call CloseVXIlibrary later in your diagram.$
+351091:3f374 Initializes the NI-VXI library and reads in the resource manager table. The library is automatically initialized when any VXI VI is used in a diagram. If you initialize the library with this VI, you must call CloseVXIlibrary later in your diagram.
+371308:17d3d2 DAQ memPageErr: The transfer buffer contains a page break; system resources may require reprogramming when the page break is encountered.KDAQ memLockErr: The transfer buffer cannot be locked into physical memory.
+371347:18028d GPIB EFSO: File system operation error.PLabVIEW: Resource file not found.
+371348:1802d9 GPIB EOWN: Sharable board exclusively owned.:LabVIEW: Cannot add resource.
+371349:180326 GPIB EBUS: GPIB bus error.JLabVIEW: Resource not found.
+372461:1946f4 Resource File Not Found
+372462:19470c Cannot Add Resource
+372463:194720 Resource Not Found
+374161:1af466 Resource File Not Found
+374162:1af47e Cannot Add Resource
+374163:1af492 Resource Not Found
+374205:1af791 Resource File Not Found
+374206:1af7a9 Cannot Add Resource
+374207:1af7bd Resource Not Found
+403445:39d14d resource name ("")
+406371:3ce5e1 Resource File Not Found
+406372:3ce5f9 Cannot Add Resource
+406373:3ce60d Resource Not Found
+406415:3ce90c Resource File Not Found
+406416:3ce924 Cannot Add Resource
+406417:3ce938 Resource Not Found
+406459:3cec37 Resource File Not Found
+406460:3cec4f Cannot Add Resource
+406461:3cec63 Resource Not Found
+406503:3cef62 Resource File Not Found
+406504:3cef7a Cannot Add Resource
+406505:3cef8e Resource Not Found
+406547:3cf285 Resource File Not Found
+406548:3cf29d Cannot Add Resource
+406549:3cf2b1 Resource Not Found
+421705:3e6ae Initializes the NI-VXI library and reads in the resource manager table. The library is automatically initialized when any VXI VI is used in a diagram. If you initialize the library with this VI, you must call CloseVXIlibrary later in your diagram.$
+421785:3f244 Initializes the NI-VXI library and reads in the resource manager table. The library is automatically initialized when any VXI VI is used in a diagram. If you initialize the library with this VI, you must call CloseVXIlibrary later in your diagram.
+434009:f0ff5 DAQ memPageErr: The transfer buffer contains a page break; system resources may require reprogramming when the page break is encountered.KDAQ memLockErr: The transfer buffer cannot be locked into physical memory.
+434048:f3eb0 GPIB EFSO: File system operation error.PLabVIEW: Resource file not found.
+434049:f3efc GPIB EOWN: Sharable board exclusively owned.:LabVIEW: Cannot add resource.
+434050:f3f49 GPIB EBUS: GPIB bus error.JLabVIEW: Resource not found.
+443291:18a2b0 resource name ("")
+456522:3beb4 Initializes the NI-VXI library and reads in the resource manager table. The library is automatically initialized when any VXI VI is used in a diagram. If you initialize the library with this VI, you must call CloseVXIlibrary later in your diagram.
+456579:3d01e Initializes the NI-VXI library and reads in the resource manager table. The library is automatically initialized when any VXI VI is used in a diagram. If you initialize the library with this VI, you must call CloseVXIlibrary later in your diagram.$
+466634:c55f4 resource name ("")
+469988:100576 DAQ memPageErr: The transfer buffer contains a page break; system resources may require reprogramming when the page break is encountered.KDAQ memLockErr: The transfer buffer cannot be locked into physical memory.
+470027:103431 GPIB EFSO: File system operation error.PLabVIEW: Resource file not found.
+470028:10347d GPIB EOWN: Sharable board exclusively owned.:LabVIEW: Cannot add resource.
+470029:1034ca GPIB EBUS: GPIB bus error.JLabVIEW: Resource not found.
+480228:3e7e1 Initializes the NI-VXI library and reads in the resource manager table. The library is automatically initialized when any VXI VI is used in a diagram. If you initialize the library with this VI, you must call CloseVXIlibrary later in your diagram.$
+480307:3f374 Initializes the NI-VXI library and reads in the resource manager table. The library is automatically initialized when any VXI VI is used in a diagram. If you initialize the library with this VI, you must call CloseVXIlibrary later in your diagram.
+503818:1de373 DAQ memPageErr: The transfer buffer contains a page break; system resources may require reprogramming when the page break is encountered.KDAQ memLockErr: The transfer buffer cannot be locked into physical memory.
+503857:1e122e GPIB EFSO: File system operation error.PLabVIEW: Resource file not found.
+503858:1e127a GPIB EOWN: Sharable board exclusively owned.:LabVIEW: Cannot add resource.
+503859:1e12c7 GPIB EBUS: GPIB bus error.JLabVIEW: Resource not found.
+504850:1f4519 Resource File Not Found
+504851:1f4531 Cannot Add Resource
+504852:1f4545 Resource Not Found
+505990:209206 Resource File Not Found
+505991:20921e Cannot Add Resource
+505992:209232 Resource Not Found
+506034:209531 Resource File Not Found
+506035:209549 Cannot Add Resource
+506036:20955d Resource Not Found
+526122:39c6ed resource name ("")
+528348:3ca213 Resource File Not Found
+528349:3ca22b Cannot Add Resource
+528350:3ca23f Resource Not Found
+528392:3ca53e Resource File Not Found
+528393:3ca556 Cannot Add Resource
+528394:3ca56a Resource Not Found
+528436:3ca869 Resource File Not Found
+528437:3ca881 Cannot Add Resource
+528438:3ca895 Resource Not Found
+528480:3cab94 Resource File Not Found
+528481:3cabac Cannot Add Resource
+528482:3cabc0 Resource Not Found
+528524:3caeb7 Resource File Not Found
+528525:3caecf Cannot Add Resource
+528526:3caee3 Resource Not Found
+534173:3e6ae Initializes the NI-VXI library and reads in the resource manager table. The library is automatically initialized when any VXI VI is used in a diagram. If you initialize the library with this VI, you must call CloseVXIlibrary later in your diagram.$
+534253:3f244 Initializes the NI-VXI library and reads in the resource manager table. The library is automatically initialized when any VXI VI is used in a diagram. If you initialize the library with this VI, you must call CloseVXIlibrary later in your diagram.
+546384:eff05 DAQ memPageErr: The transfer buffer contains a page break; system resources may require reprogramming when the page break is encountered.KDAQ memLockErr: The transfer buffer cannot be locked into physical memory.
+546423:f2dc0 GPIB EFSO: File system operation error.PLabVIEW: Resource file not found.
+546424:f2e0c GPIB EOWN: Sharable board exclusively owned.:LabVIEW: Cannot add resource.
+546425:f2e59 GPIB EBUS: GPIB bus error.JLabVIEW: Resource not found.
+549220:1262a4 resource name ("")
+564438:3beb4 Initializes the NI-VXI library and reads in the resource manager table. The library is automatically initialized when any VXI VI is used in a diagram. If you initialize the library with this VI, you must call CloseVXIlibrary later in your diagram.
+564495:3d01e Initializes the NI-VXI library and reads in the resource manager table. The library is automatically initialized when any VXI VI is used in a diagram. If you initialize the library with this VI, you must call CloseVXIlibrary later in your diagram.$
+574544:c559c resource name ("")
+579237:162237 DAQ memPageErr: The transfer buffer contains a page break; system resources may require reprogramming when the page break is encountered.KDAQ memLockErr: The transfer buffer cannot be locked into physical memory.
+579276:1650f2 GPIB EFSO: File system operation error.PLabVIEW: Resource file not found.
+579277:16513e GPIB EOWN: Sharable board exclusively owned.:LabVIEW: Cannot add resource.
+579278:16518b GPIB EBUS: GPIB bus error.JLabVIEW: Resource not found.
+584951:3e759 Initializes the NI-VXI library and reads in the resource manager table. The library is automatically initialized when any VXI VI is used in a diagram. If you initialize the library with this VI, you must call CloseVXIlibrary later in your diagram.$
+585030:3f2ec Initializes the NI-VXI library and reads in the resource manager table. The library is automatically initialized when any VXI VI is used in a diagram. If you initialize the library with this VI, you must call CloseVXIlibrary later in your diagram.
+596013:e442f Resource File Not Found
+596014:e4447 Cannot Add Resource
+596015:e445b Resource Not Found
+596057:e475a Resource File Not Found
+596058:e4772 Cannot Add Resource
+596059:e4786 Resource Not Found
+596101:e4a85 Resource File Not Found
+596102:e4a9d Cannot Add Resource
+596103:e4ab1 Resource Not Found
+596145:e4db0 Resource File Not Found
+596146:e4dc8 Cannot Add Resource
+596147:e4ddc Resource Not Found
+596189:e50d3 Resource File Not Found
+596190:e50eb Cannot Add Resource
+596191:e50ff Resource Not Found
+638201:1ef6c8 _iBus_reserveInterruptResources@32
+640173:290b1c resource

@@ -1,0 +1,1 @@
+102377:4c52e4 This error code is not listed in the internal database, or you have wired a number that is not an error code (such as a DAQ task ID) to the error code input.PD

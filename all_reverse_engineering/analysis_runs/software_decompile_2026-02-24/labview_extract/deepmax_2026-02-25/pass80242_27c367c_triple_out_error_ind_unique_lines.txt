@@ -1,0 +1,12 @@
+52350:1bb7d7 Choose a VI from the list of names to see its errors. Click on any error in the list to display more details about it here. Double-click on any front panel or block diagram error, or click on the Find button, to highlight the object causing the error.
+52510:1bd790 This VI has a bad connection to or cannot find a subVI or external routine, but it has no block diagram to show or fix the error. You must find or correct the subVI or external routine. Check for more information in the Explain... dialog in Get Info.
+101594:4b758d 2.source out indicates the source of the error.
+260027:230165 2.source out indicates the source of the error.
+314015:14dd82 2.source out indicates the source of the error.
+340498:ed365 2.source out indicates the source of the error.
+371461:183b1d 2.source out indicates the source of the error.
+434162:f7740 2.source out indicates the source of the error.
+470141:106cc1 2.source out indicates the source of the error.
+504199:1e98e6 .source out indicates the source of the error.
+546537:f6650 2.source out indicates the source of the error.
+579618:16d7a9 .source out indicates the source of the error.

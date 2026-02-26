@@ -1,0 +1,1 @@
+434165:f787e exception action is a way for you to create exceptions to error handling. You can treat what is normally an error as no error, or treat a no error condition as an error using this parameter.

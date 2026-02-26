@@ -1,0 +1,44 @@
+57212:21269e -Unrecognized commandEAbyte count refers to the number of bytes that pass over the GPIB.
+58010:220698 -Unrecognized commandEAbyte count refers to the number of bytes that pass over the GPIB.
+75867:325275 UQbyte count is the number of bytes currently queued up in the serial port buffer.
+75980:3275e3 okReturns in byte count the number of bytes in the input buffer of the serial port indicated in port number.
+227603:536f6 -Unrecognized commandEAbyte count refers to the number of bytes that pass over the GPIB.
+228417:61984 -Unrecognized commandEAbyte count refers to the number of bytes that pass over the GPIB.
+246193:163d19 UQbyte count is the number of bytes currently queued up in the serial port buffer.
+246306:166087 okReturns in byte count the number of bytes in the input buffer of the serial port indicated in port number.
+246407:1669fb kReturns in byte count the number of bytes in the input buffer of the serial port indicated in port number.
+294086:20a87 -Unrecognized commandEAbyte count refers to the number of bytes that pass over the GPIB.
+294912:2ecd1 -Unrecognized commandEAbyte count refers to the number of bytes that pass over the GPIB.
+308413:ed304 UQbyte count is the number of bytes currently queued up in the serial port buffer.
+308525:ef672 okReturns in byte count the number of bytes in the input buffer of the serial port indicated in port number.
+308623:effdf kReturns in byte count the number of bytes in the input buffer of the serial port indicated in port number.
+326253:1fd7f -Unrecognized commandEAbyte count refers to the number of bytes that pass over the GPIB.
+327106:2dfb9 -Unrecognized commandEAbyte count refers to the number of bytes that pass over the GPIB.
+349048:1e9b6 -Unrecognized commandEAbyte count refers to the number of bytes that pass over the GPIB.
+349862:2cc44 -Unrecognized commandEAbyte count refers to the number of bytes that pass over the GPIB.
+396594:330a77 okReturns in byte count the number of bytes in the input buffer of the serial port indicated in port number.
+396611:330d21 UQbyte count is the number of bytes currently queued up in the serial port buffer.
+404008:3a3ab3 kReturns in byte count the number of bytes in the input buffer of the serial port indicated in port number.
+419715:1e8fb -Unrecognized commandEAbyte count refers to the number of bytes that pass over the GPIB.
+420541:2cb45 -Unrecognized commandEAbyte count refers to the number of bytes that pass over the GPIB.
+440783:163dba okReturns in byte count the number of bytes in the input buffer of the serial port indicated in port number.
+440800:164064 UQbyte count is the number of bytes currently queued up in the serial port buffer.
+442991:1854e3 kReturns in byte count the number of bytes in the input buffer of the serial port indicated in port number.
+454552:1d1cb -Unrecognized commandEAbyte count refers to the number of bytes that pass over the GPIB.
+455405:2b405 -Unrecognized commandEAbyte count refers to the number of bytes that pass over the GPIB.
+478264:1e9b6 -Unrecognized commandEAbyte count refers to the number of bytes that pass over the GPIB.
+479078:2cc44 -Unrecognized commandEAbyte count refers to the number of bytes that pass over the GPIB.
+521514:349828 okReturns in byte count the number of bytes in the input buffer of the serial port indicated in port number.
+521566:34a1b4 Qbyte count is the number of bytes currently queued up in the serial port buffer.
+527345:3b26ff kReturns in byte count the number of bytes in the input buffer of the serial port indicated in port number.
+532183:1e8fb -Unrecognized commandEAbyte count refers to the number of bytes that pass over the GPIB.
+533009:2cb45 -Unrecognized commandEAbyte count refers to the number of bytes that pass over the GPIB.
+556364:1a3f93 kReturns in byte count the number of bytes in the input buffer of the serial port indicated in port number.
+558118:1c3956 okReturns in byte count the number of bytes in the input buffer of the serial port indicated in port number.
+558167:1c42e2 Qbyte count is the number of bytes currently queued up in the serial port buffer.
+562468:1d1cb -Unrecognized commandEAbyte count refers to the number of bytes that pass over the GPIB.
+563321:2b405 -Unrecognized commandEAbyte count refers to the number of bytes that pass over the GPIB.
+582987:1e92e -Unrecognized commandEAbyte count refers to the number of bytes that pass over the GPIB.
+583801:2cbbc -Unrecognized commandEAbyte count refers to the number of bytes that pass over the GPIB.
+596744:f395f kReturns in byte count the number of bytes in the input buffer of the serial port indicated in port number.
+600676:13317f kReturns in byte count the number of bytes in the input buffer of the serial port indicated in port number.

@@ -1,0 +1,29 @@
+48193:1651e4 This is the revision number that will be included in new history entries. The current number is displayed in the Instrument Information dialog. It is incremented every time you save the VI.
+48198:165560 This is the revision number that will be included in new history entries. The current number is displayed in the Instrument Information dialog. It is incremented every time you save the VI.
+52996:1cb269 advisory dialog? Set TRUE (default) if you want a dialog if function=0 and the file does not exist, or if function=2 or 3 and the file exists.
+54006:1dbc55 advisory dialog? Set TRUE (default) if you want a dialog if function=0 and the file does not exist, or if function=2 or 3 and the file exists.
+99477:491541 YUadvisory dialog? Set TRUE (default) if you want a dialog if the file does not exist.
+100016:49a163 advisory dialog? Set TRUE (default) if you want a dialog if the file does not exist.
+223253:9e95 advisory dialog? Set TRUE (default) if you want a dialog if function=0 and the file does not exist, or if function=2 or 3 and the file exists.
+224263:1a881 advisory dialog? Set TRUE (default) if you want a dialog if function=0 and the file does not exist, or if function=2 or 3 and the file exists.
+224499:1d58d advisory dialog? Set TRUE (default) if you want a dialog if function=0 and the file does not exist, or if function=2 or 3 and the file exists.
+257807:207e6d YUadvisory dialog? Set TRUE (default) if you want a dialog if the file does not exist.
+258346:210a8f advisory dialog? Set TRUE (default) if you want a dialog if the file does not exist.
+258529:212819 advisory dialog? Set TRUE (default) if you want a dialog if the file does not exist.
+374016:1ad548 advisory dialog? Set TRUE (default) if you want a dialog if the file does not exist.
+374033:1ae159 YUadvisory dialog? Set TRUE (default) if you want a dialog if the file does not exist.
+394246:30c7c1 advisory dialog? Set TRUE (default) if you want a dialog if function=0 and the file does not exist, or if function=2 or 3 and the file exists.
+404022:3a3e99 advisory dialog? Set TRUE (default) if you want a dialog if the file does not exist.
+406182:3cba91 advisory dialog? Set TRUE (default) if you want a dialog if function=0 and the file does not exist, or if function=2 or 3 and the file exists.
+406205:3cc8de advisory dialog? Set TRUE (default) if you want a dialog if function=0 and the file does not exist, or if function=2 or 3 and the file exists.
+505862:207c3d advisory dialog? Set TRUE (default) if you want a dialog if the file does not exist.
+506089:20aecd Uadvisory dialog? Set TRUE (default) if you want a dialog if the file does not exist.
+520838:33c0b9 advisory dialog? Set TRUE (default) if you want a dialog if function=0 and the file does not exist, or if function=2 or 3 and the file exists.
+527359:3b2ae5 advisory dialog? Set TRUE (default) if you want a dialog if the file does not exist.
+528196:3c81f8 advisory dialog? Set TRUE (default) if you want a dialog if function=0 and the file does not exist, or if function=2 or 3 and the file exists.
+528612:3ccdef advisory dialog? Set TRUE (default) if you want a dialog if function=0 and the file does not exist, or if function=2 or 3 and the file exists.
+595372:d5431 advisory dialog? Set TRUE (default) if you want a dialog if function=0 and the file does not exist, or if function=2 or 3 and the file exists.
+595861:e2414 advisory dialog? Set TRUE (default) if you want a dialog if function=0 and the file does not exist, or if function=2 or 3 and the file exists.
+596277:e700b advisory dialog? Set TRUE (default) if you want a dialog if function=0 and the file does not exist, or if function=2 or 3 and the file exists.
+596758:f3d45 advisory dialog? Set TRUE (default) if you want a dialog if the file does not exist.
+607058:19f6ad advisory dialog? Set TRUE (default) if you want a dialog if the file does not exist.

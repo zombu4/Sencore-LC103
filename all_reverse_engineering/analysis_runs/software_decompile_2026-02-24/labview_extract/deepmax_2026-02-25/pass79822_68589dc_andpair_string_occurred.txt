@@ -1,0 +1,66 @@
+52011:1b8b50 Configuration token not found.,Error occurred parsing configuration string.(Configuration allocation error occurred.$External code format error occurred.$External code offset error occurred.
+63518:2711af [W(string) source:  an indication of where an error occurred, usually the name of the VI.1-(bool) status: TRUE if an error has occurred."
+66147:295e41 [W(string) source:  an indication of where an error occurred, usually the name of the VI.1-(bool) status: TRUE if an error has occurred."
+68014:2b07e9 [W(string) source:  an indication of where an error occurred, usually the name of the VI.1-(bool) status: TRUE if an error has occurred.
+68888:2b8dad 1-(bool) status: TRUE if an error has occurred.[W(string) source:  an indication of where an error occurred, usually the name of the VI."
+76095:32950c source is a string that indicates the origin of the error, if any. Usually source is the name of the VI in which the error occurred.
+76442:32f416 source is a string that indicates the origin of the error, if any. Usually source is the name of the VI in which the error occurred.
+76858:336d64 source is a string that indicates the origin of the error, if any. Usually source is the name of the VI in which the error occurred.
+76866:3371bd source is a string that indicates the origin of the error, if any. Usually source is the name of the VI in which the error occurred.
+234055:b3be7 [W(string) source:  an indication of where an error occurred, usually the name of the VI.1-(bool) status: TRUE if an error has occurred."
+236697:d8be1 [W(string) source:  an indication of where an error occurred, usually the name of the VI.1-(bool) status: TRUE if an error has occurred."
+238577:f37c5 [W(string) source:  an indication of where an error occurred, usually the name of the VI.1-(bool) status: TRUE if an error has occurred.
+239463:fbfcd 1-(bool) status: TRUE if an error has occurred.[W(string) source:  an indication of where an error occurred, usually the name of the VI."
+246430:168138 source is a string that indicates the origin of the error, if any. Usually source is the name of the VI in which the error occurred.
+246786:16e16e source is a string that indicates the origin of the error, if any. Usually source is the name of the VI in which the error occurred.
+247223:175c98 source is a string that indicates the origin of the error, if any. Usually source is the name of the VI in which the error occurred.
+247231:1760f1 source is a string that indicates the origin of the error, if any. Usually source is the name of the VI in which the error occurred.
+300620:80e44 [W(string) source:  an indication of where an error occurred, usually the name of the VI.1-(bool) status: TRUE if an error has occurred."
+303296:a5dde [W(string) source:  an indication of where an error occurred, usually the name of the VI.1-(bool) status: TRUE if an error has occurred."
+305207:c096a [W(string) source:  an indication of where an error occurred, usually the name of the VI.1-(bool) status: TRUE if an error has occurred.
+306102:c9156 1-(bool) status: TRUE if an error has occurred.[W(string) source:  an indication of where an error occurred, usually the name of the VI."
+308646:f1717 source is a string that indicates the origin of the error, if any. Usually source is the name of the VI in which the error occurred.
+309005:f7731 source is a string that indicates the origin of the error, if any. Usually source is the name of the VI in which the error occurred.
+309449:ff23f source is a string that indicates the origin of the error, if any. Usually source is the name of the VI in which the error occurred.
+309457:ff698 source is a string that indicates the origin of the error, if any. Usually source is the name of the VI in which the error occurred.
+332889:80254 [W(string) source:  an indication of where an error occurred, usually the name of the VI.1-(bool) status: TRUE if an error has occurred."
+335570:a50c6 [W(string) source:  an indication of where an error occurred, usually the name of the VI.1-(bool) status: TRUE if an error has occurred."
+337481:bfc56 [W(string) source:  an indication of where an error occurred, usually the name of the VI.1-(bool) status: TRUE if an error has occurred.
+338379:c8473 1-(bool) status: TRUE if an error has occurred.[W(string) source:  an indication of where an error occurred, usually the name of the VI."
+354885:7621f [W(string) source:  an indication of where an error occurred, usually the name of the VI.1-(bool) status: TRUE if an error has occurred."
+357527:9b219 [W(string) source:  an indication of where an error occurred, usually the name of the VI.1-(bool) status: TRUE if an error has occurred."
+359407:b5dfd [W(string) source:  an indication of where an error occurred, usually the name of the VI.1-(bool) status: TRUE if an error has occurred.
+395227:31b870 source is a string that indicates the origin of the error, if any. Usually source is the name of the VI in which the error occurred.
+395231:31bca9 source is a string that indicates the origin of the error, if any. Usually source is the name of the VI in which the error occurred.
+395894:325811 source is a string that indicates the origin of the error, if any. Usually source is the name of the VI in which the error occurred."
+396328:32c71d source is a string that indicates the origin of the error, if any. Usually source is the name of the VI in which the error occurred."
+425619:76050 [W(string) source:  an indication of where an error occurred, usually the name of the VI.1-(bool) status: TRUE if an error has occurred."
+428295:9afea [W(string) source:  an indication of where an error occurred, usually the name of the VI.1-(bool) status: TRUE if an error has occurred."
+430206:b5b76 [W(string) source:  an indication of where an error occurred, usually the name of the VI.1-(bool) status: TRUE if an error has occurred.
+439400:14eb9e source is a string that indicates the origin of the error, if any. Usually source is the name of the VI in which the error occurred.
+439404:14efd7 source is a string that indicates the origin of the error, if any. Usually source is the name of the VI in which the error occurred.
+440076:158b2b source is a string that indicates the origin of the error, if any. Usually source is the name of the VI in which the error occurred."
+440515:15fa39 source is a string that indicates the origin of the error, if any. Usually source is the name of the VI in which the error occurred."
+460555:74a44 [W(string) source:  an indication of where an error occurred, usually the name of the VI.1-(bool) status: TRUE if an error has occurred."
+463236:998b6 [W(string) source:  an indication of where an error occurred, usually the name of the VI.1-(bool) status: TRUE if an error has occurred."
+465147:b4446 [W(string) source:  an indication of where an error occurred, usually the name of the VI.1-(bool) status: TRUE if an error has occurred.
+484101:7621f [W(string) source:  an indication of where an error occurred, usually the name of the VI.1-(bool) status: TRUE if an error has occurred."
+486743:9b219 [W(string) source:  an indication of where an error occurred, usually the name of the VI.1-(bool) status: TRUE if an error has occurred."
+488623:b5dfd [W(string) source:  an indication of where an error occurred, usually the name of the VI.1-(bool) status: TRUE if an error has occurred.
+520649:338fd2 source is a string that indicates the origin of the error, if any. Usually source is the name of the VI in which the error occurred.
+520652:339330 source is a string that indicates the origin of the error, if any. Usually source is the name of the VI in which the error occurred.
+521065:341215 source is a string that indicates the origin of the error, if any. Usually source is the name of the VI in which the error occurred.
+521374:346adf source is a string that indicates the origin of the error, if any. Usually source is the name of the VI in which the error occurred.
+538087:76050 [W(string) source:  an indication of where an error occurred, usually the name of the VI.1-(bool) status: TRUE if an error has occurred."
+540763:9afea [W(string) source:  an indication of where an error occurred, usually the name of the VI.1-(bool) status: TRUE if an error has occurred."
+542674:b5b76 [W(string) source:  an indication of where an error occurred, usually the name of the VI.1-(bool) status: TRUE if an error has occurred.
+557270:1b454d source is a string that indicates the origin of the error, if any. Usually source is the name of the VI in which the error occurred.
+557273:1b48ab source is a string that indicates the origin of the error, if any. Usually source is the name of the VI in which the error occurred.
+557655:1bb319 source is a string that indicates the origin of the error, if any. Usually source is the name of the VI in which the error occurred.
+557968:1c0be7 source is a string that indicates the origin of the error, if any. Usually source is the name of the VI in which the error occurred.
+568471:74a44 [W(string) source:  an indication of where an error occurred, usually the name of the VI.1-(bool) status: TRUE if an error has occurred."
+571152:998b6 [W(string) source:  an indication of where an error occurred, usually the name of the VI.1-(bool) status: TRUE if an error has occurred."
+573063:b4446 [W(string) source:  an indication of where an error occurred, usually the name of the VI.1-(bool) status: TRUE if an error has occurred.
+588823:7617f [W(string) source:  an indication of where an error occurred, usually the name of the VI.1-(bool) status: TRUE if an error has occurred."
+591465:9b179 [W(string) source:  an indication of where an error occurred, usually the name of the VI.1-(bool) status: TRUE if an error has occurred."
+593345:b5d5d [W(string) source:  an indication of where an error occurred, usually the name of the VI.1-(bool) status: TRUE if an error has occurred.

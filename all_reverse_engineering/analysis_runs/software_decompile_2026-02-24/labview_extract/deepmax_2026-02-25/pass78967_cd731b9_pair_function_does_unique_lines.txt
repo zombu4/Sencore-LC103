@@ -1,0 +1,34 @@
+52996:1cb269 advisory dialog? Set TRUE (default) if you want a dialog if function=0 and the file does not exist, or if function=2 or 3 and the file exists.
+54006:1dbc55 advisory dialog? Set TRUE (default) if you want a dialog if function=0 and the file does not exist, or if function=2 or 3 and the file exists.
+102403:4c5d7b DSP GROUP_ERR. The function ID specified does not belong to any group that is part of the DSP Library currently running on the board.
+102404:4c5e02 DSP FNC_ERR: The function ID specified does not correspond to a function that is part of the DSP Library currently running on the board.
+223253:9e95 advisory dialog? Set TRUE (default) if you want a dialog if function=0 and the file does not exist, or if function=2 or 3 and the file exists.
+224263:1a881 advisory dialog? Set TRUE (default) if you want a dialog if function=0 and the file does not exist, or if function=2 or 3 and the file exists.
+224499:1d58d advisory dialog? Set TRUE (default) if you want a dialog if function=0 and the file does not exist, or if function=2 or 3 and the file exists.
+260836:23e953 DSP GROUP_ERR. The function ID specified does not belong to any group that is part of the DSP Library currently running on the board.
+260837:23e9da DSP FNC_ERR: The function ID specified does not correspond to a function that is part of the DSP Library currently running on the board.
+314844:15c524 DSP GROUP_ERR. The function ID specified does not belong to any group that is part of the DSP Library currently running on the board.
+314845:15c5ab DSP FNC_ERR: The function ID specified does not correspond to a function that is part of the DSP Library currently running on the board.
+341321:fbaf4 DSP GROUP_ERR. The function ID specified does not belong to any group that is part of the DSP Library currently running on the board.
+341322:fbb7b DSP FNC_ERR: The function ID specified does not correspond to a function that is part of the DSP Library currently running on the board.
+371274:178375 DSP GROUP_ERR. The function ID specified does not belong to any group that is part of the DSP Library currently running on the board.
+371275:1783fc DSP FNC_ERR: The function ID specified does not correspond to a function that is part of the DSP Library currently running on the board.
+394246:30c7c1 advisory dialog? Set TRUE (default) if you want a dialog if function=0 and the file does not exist, or if function=2 or 3 and the file exists.
+406182:3cba91 advisory dialog? Set TRUE (default) if you want a dialog if function=0 and the file does not exist, or if function=2 or 3 and the file exists.
+406205:3cc8de advisory dialog? Set TRUE (default) if you want a dialog if function=0 and the file does not exist, or if function=2 or 3 and the file exists.
+433975:ebf98 DSP GROUP_ERR. The function ID specified does not belong to any group that is part of the DSP Library currently running on the board.
+433976:ec01f DSP FNC_ERR: The function ID specified does not correspond to a function that is part of the DSP Library currently running on the board.
+469954:fb519 DSP GROUP_ERR. The function ID specified does not belong to any group that is part of the DSP Library currently running on the board.
+469955:fb5a0 DSP FNC_ERR: The function ID specified does not correspond to a function that is part of the DSP Library currently running on the board.
+503784:1d9316 DSP GROUP_ERR. The function ID specified does not belong to any group that is part of the DSP Library currently running on the board.
+503785:1d939d DSP FNC_ERR: The function ID specified does not correspond to a function that is part of the DSP Library currently running on the board.
+520838:33c0b9 advisory dialog? Set TRUE (default) if you want a dialog if function=0 and the file does not exist, or if function=2 or 3 and the file exists.
+528196:3c81f8 advisory dialog? Set TRUE (default) if you want a dialog if function=0 and the file does not exist, or if function=2 or 3 and the file exists.
+528612:3ccdef advisory dialog? Set TRUE (default) if you want a dialog if function=0 and the file does not exist, or if function=2 or 3 and the file exists.
+546350:eaea8 DSP GROUP_ERR. The function ID specified does not belong to any group that is part of the DSP Library currently running on the board.
+546351:eaf2f DSP FNC_ERR: The function ID specified does not correspond to a function that is part of the DSP Library currently running on the board.
+579203:15d1da DSP GROUP_ERR. The function ID specified does not belong to any group that is part of the DSP Library currently running on the board.
+579204:15d261 DSP FNC_ERR: The function ID specified does not correspond to a function that is part of the DSP Library currently running on the board.
+595372:d5431 advisory dialog? Set TRUE (default) if you want a dialog if function=0 and the file does not exist, or if function=2 or 3 and the file exists.
+595861:e2414 advisory dialog? Set TRUE (default) if you want a dialog if function=0 and the file does not exist, or if function=2 or 3 and the file exists.
+596277:e700b advisory dialog? Set TRUE (default) if you want a dialog if function=0 and the file does not exist, or if function=2 or 3 and the file exists.

@@ -1,0 +1,156 @@
+%UNIT_OFF line fails
+(the default value) displays a dialog box with a single OK button. After the user responds, the VI returns control to the main VI.
+)))Turn on Active Load
+*Unit failed to
++Unit failed to
+- User abort occurred during I/O
+--Remove UUT from tester, Proceed to next UUT
+--TURN SAFETY OFF--
+--TURN TESTER POWER ON--
+--Turn SAFETY OFF--
+-1 = library initialization failed
+-I/O operation aborted
+-Serial Poll Byte Lost
+-Unrecognized commandEAbyte count refers to the number of bytes that pass over the GPIB.
+0 = Abort if not DIR
+0 = Abort if not DOR
+0 = The specified information was returned
+1 = Set END bit on the last byte of transfer
+1 = library already initialized
+5Generalized DIO96 control.
+;Instr Openi
+<TCP ncConnClosedErr: The connection was closed by the peer.6Interapplication Mgr amInitErr: Initialization error.
+@return count
+@return count2P@
+Batt Voltage OnH
+Batt. voltage.
+CINStartLoad: loaderror= %d, error=%ldLV_DIG_PORT_READSetCINArraySize, elmtNum %ld out of range 0 <= elmtNum < %ldnon-array detected
+Continue Button@!
+Continue ButtonH
+DAQ SCXIConfigErr: The specified SCXI configuration parameters are invalid, or the function cannot be executed with the current SCXI configuration.
+DDE DMLERR_DLL_NOT_INITIALIZED: The DDEML function was called without first calling the DdeInitialize function or an invalid instance identifier was pass to a DDEML function.
+DIO Port Config
+DIO Port Config.vi
+DIO Port Config.viQE
+DIO Port Config.vi\
+DIO Port Read
+DIO Port Read.vi
+DIO Port Read.vi(
+DIO Port Write
+DIO Port Write.vi
+DIO Port Write.vi`
+DIO Setting In
+DIO Setting InH
+DIO Setting Out
+DIO Setting OutH
+DIO Setting Outf
+DIO_R-W.VIHD
+DIO_R-W.VIHDHr3
+DIO_R-W.VIHDly3
+DIO_R-W.VIHD|w3
+DIO_R-W.VIRE
+DIO_R-W.VISE
+DSP FNC_ERR: The function ID specified does not correspond to a function that is part of the DSP Library currently running on the board.
+DSP GROUP_ERR. The function ID specified does not belong to any group that is part of the DSP Library currently running on the board.
+Data In Ready protocol violation
+Data Out Ready protocol violation
+Disable Leakage SuppliesHD s3
+For most applications, you only need to connect wires to the controls and indicators displayed in bold.
+GPIB EARG: Invalid argument or arguments.bLabVIEW: File already open.
+GPIB EFRM: Serial port framing error.
+GPIB EMOM: Out of memory (MacBus read or write).VLabVIEW: Device call aborted.
+GPIB EOFL: Serial port receive buffer overflow.
+GPIB EOIP: New I/O attempted with old I/O in progress.9LabVIEW: Too many files open.
+GPIB EORN: Serial port overrun error.
+GPIB EPAR: Serial port parity error.
+GPIB ESTB: Serial poll byte queue overflow.4LabVIEW: Image not found.
+GPIB SPTMO: Serial port timeout; bytes not received at serial port.
+GPIB: EABO: I/O operation aborted.9LabVIEW: File not found.
+GPIBOpen.viH
+GetDevInfoShort.vi.;
+GetDevInfoShort.viMD
+GetDevInfoShort.viND
+GetDevInfoShort.viQD
+GetDevInfoShort.vi`
+INITIAL STEP: Attach DVM and computer cable
+INSERT ACTIVE LOAD TEST HERE!V
+Initialize DIO CardH
+Instr Open.viarison.vi
+Instr Open.vig
+LC103 Power Board Test
+LabVIEW: Device unit error.NLabVIEW: Can't open device.
+LabVIEW: Memory corrupt.&LabVIEW: Failed to make temporary DLL.
+LabVIEW: Print aborted.?LabVIEW: Bad print record.
+Leakage Supply TestH
+Leakage Supply TestRE
+Leakage Supply TestU
+Leakage Supply TestV
+Leakage Supply TestW
+Leakage Supply Testi
+Low Voltage to MeterHD0w3
+Measure volts, amps, or ohms. Select one of 6 functions. Select range or use auto range. Select trigger mode. Slow reading rate is used for accuracy. version a.0
+Most applications need only connect wires to the controls and indicators displayed in bold. Connections to other controls and indicators are useful only if specifically needed.
+Open GPIB DriverPD
+Open instrument_D
+P.A. voltage.@
+PA Voltage OnH
+Pass/FailHD$$d3
+Port Width for the Lab boards, SCXI-1200, DAQBox-1200, DIO-24, DIO-32F, DIO-96, and AT-MIO-16D ports 2, 3 and 4 should be at least 8.
+Press READY when previous step is complete.
+Read Ready protocol violation during transfer
+Reads data from a device. The data read is stored in the buffer represented by read buffer. This operation returns when the transfer terminates.
+Reinitialize DIO CardV
+Relay Settle Time(mS)
+Relay Settle Time(mS),
+Relay Settle Time(mS)F
+Relay Settle Time(mS)H
+Relay Settle Time(mS)PTH0
+STEP 1: Place UUT onto tester
+Select measurement function. -
+Set High LS to 0VHD
+Set High LS to 1000VHD u3
+Set High LS to 125VHD
+Set High LS to 33.0VHD
+Set High LS to 500VHD t3
+Set High LS to 875VHD
+Set Low LS to 0VH
+Set Low LS to 0VHD@y3
+Set Low LS to 16VHD`p3
+Set Low LS to 1VH
+Set Low LS to 28VHD
+Set Low LS to 32VHDHq3
+Set Low LS to 4VHD
+Short TP4 with the cathode
+Status state (Passed/Failed, Ready/Not Ready)$ (U16)
+TCP ncAlreadyConnectedErr: The connection is already established.
+This VI establishes a port configuration. You can use the task ID that this VI returns only in digital port VIs.
+This VI reads the port identified by task ID and returns the pattern read.
+Transfer aborted - Device not DIR
+Transfer aborted - Device not DOR
+Turn Safety switch ON
+Unit StartHD
+User abort occurred during I/O
+VFor most applications, you only need to connect wires to the controls and indicators displayed in bold.
+Voltage Reading"
+Voltage Reading@!
+Voltage ReadingH
+Voltage ReadingT
+Write Ready protocol violation during transfer
+ZFor most applications, you only need to connect wires to the controls and indicators displayed in bold.
+aTCP ncNotConnectedErr: The connection is not established.
+continue or stop message:
+displays a dialog box with buttons allowing the user to either continue or stop. If the user cancels, the VI calls the Stop function to halt execution.
+offset past number
+qTCP ncSysConnAbortedErr: The system caused the connection to be aborted.
+rTCP ncConnRefusedErr: The connection was refused by the server.
+return count
+return count"
+return count2@P
+return count4
+return count@
+return count[
+set error on match"
+shortvalue @
+shortvalue M
+source. In case of an error, most VIs that use the error in and error out clusters set source to the name of the VI or function that produced the error.
+with Unit StarterX

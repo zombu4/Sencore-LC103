@@ -1,0 +1,172 @@
+77 !This program cannot be run in DOS mode.
+209 lvdevice
+236 system
+243 KERNEL
+254 USER
+292 lvdevice.exe
+308 ALLOCALIAS16FRFAR32
+330 FREEALIAS16FRFAR32
+351 FINISHCDR
+363 DIBPRINT
+374 POSTMESSAGETOAPP
+393 SETUPCDR
+404 MYENABLECOMMNOTIFICATION
+431 OCCUR
+439 CLRCDR
+2066 SQ+F
+2433 SQ+F
+2793 uo9F
+3241 fPfS
+3283 fQfRfWfVfU
+3296 f]f^f_fZfYf[fX
+3450 [Y[]
+3484 [Y[]
+3557 fSfQfVfW
+3608 f_f^fYf[]
+3665 fVfWfQfP
+3708 w?fQf
+3718 fYr3
+3729 fNfOf
+3741 fNfOf
+3799 fXfYf_f^]
+3913 WVS3
+4029 r;V
+4057 [^_]
+4636 DIBPrint
+4672 <<NMSG>>C RUNTIME ERROR 
+4699 R6000
+4706 - stack overflow
+4727 R6003
+4734 - integer divide by 0
+4760 R6009
+4767 - not enough space for environment
+4811 run-time error 
+6144 NB02U
+6164 lvdevice.obj
+6189 printlib.obj
+6215 timer.obj
+6236 libentry.obj
+6262 windows\winstart.asm
+6295 windows\wnull.asm
+6325 dos\crt0msg.asm
+6353 dos\nmsghdr.asm
+6381 ldiv.asm
+6402 lmul.asm`
+6417 _hTimer
+6431 _delayMsgs'
+6458 _setUpCount
+6476 _msgDelay
+6492 _nActiveDelayMsgs>
+6516 SetUpCDR
+6531 FinishCDR$
+6547 ClrCDR>
+6560 AllocAlias16FrFar32
+6586 FreeAlias16FrFar32
+6611 PostMessageToApp
+6634 Occur
+6646 MyEnableCommNotification
+6677 _DelayMessages
+6698 LIBMAIN
+6712 DIBPrint
+6727 _BandDIBToPrinterp
+6751 _PrintABand(
+6769 _DeviceSupportsEscapex
+6797 _DIBWidthH
+6813 _DIBHeight-
+6830 _GETDSD
+6843 _FreeLDTDescriptor
+6867 TIMERROUTINE
+6887 _CHKPTR\
+6901 _GETNEXTSELECTORINCREMENT"
+6933 _LINEARADDRESS
+6954 _TSTNSET
+6969 _GetSegmentBaseAddressb
+6998 _SetSegmentBaseAddress&
+7027 _CDRN
+7038 _MoveBlock
+7055 _GetSegmentLimit
+7078 _SETSEGMENTLIMIT
+7101 _PAGELOCKUNLOCKMEMRANGE0
+7131 _AllocateLDTDescriptors
+7161 LibEntry
+7176 _edatab
+7189 _end0
+7200 STKHQQv
+7212 __fptaskdata6
+7231 ___aDBswpchk4
+7250 ___aDBswpflg
+7270 __wflags
+7285 rsrvptrs
+7300 __aDBdoswp8
+7317 __aDBrterrv
+7334 __acrtused:
+7351 ___aDBexitv
+7368 __acrtused2
+7386 pStackMin
+7402 pStackBot
+7418 pStackTop
+7434 pLocalHeap
+7451 pAtomTable2
+7468 __adbgmsgv
+7484 __acrtmsg
+7500 __NMSG_TEXT
+7517 __NMSG_WRITEH
+7537 __captionF
+7553 __aNldiv
+7568 __aNlmul
+7583 __aNulmul
+11667 (untagged)h
+11694 occupied
+11705 occurrenceNum
+11733 (untagged)h
+11779 cdReg
+11787 funnyQ
+11860 (untagged)h
+11896 delay
+11904 appWnd
+11919 wparam
+11928 lparam
+12347 LibMain
+12361 hModule
+12375 wDataSeg
+12390 cbHeapSize
+12407 lpszCmdLine
+12446 bSystemExit
+12475 SetUpCDR
+12490 pAsyncArea
+12515 pCDR
+12526 pLVCDRAddr
+12554 FinishCDR
+12581 Occur
+12630 ClrCDR
+12654 AllocAlias16FrFar32
+12680 seg
+12690 offset
+12703 base
+12724 dseg
+12735 alias
+12747 limit
+12770 FreeAlias16FrFar32
+12826 PostMessageToApp
+12849 appWnd
+12862 msg
+12872 wparam
+12885 lparam
+12898 delay
+12945 DelayMessages
+12992 MyEnableCommNotification
+13023 nCid
+13034 appWnd
+13047 cbInputNotify
+13067 cbOutputNotify
+13088 rval
+13103 setUpCount
+13134 hTimer
+13149 msgDelay
+13166 nActiveDelayMsgs
+13197 delayMsgs
+13207 lvdevice.c
+13623 libw.lib
+13632 sdllcw.lib
+13643 slibc7.lib
+13895 NB02O

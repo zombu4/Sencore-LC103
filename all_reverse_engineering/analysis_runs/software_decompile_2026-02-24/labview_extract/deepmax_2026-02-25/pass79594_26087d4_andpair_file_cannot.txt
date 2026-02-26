@@ -1,0 +1,48 @@
+46376:15aa2d ?Cannot import the picture. The file 'image.dll' may be damaged.
+52212:1ba204 GIt starts with "." and may be incorrectly interpreted as a device name.9LabVIEW cannot create new directories or libraries in %p.&LabVIEW cannot create new files in %p.
+52982:1cabb8 opens an existing file. Error 7 occurs if the file cannot be found.
+52989:1cad8c createmirefnum is the reference number of the open file. The value is Not A Refnum if the file cannot be opened.
+54002:1dba6c 0 (open) opens an existing file.  Error 7 occurs if the file cannot be found.
+54013:1dc204 refnum is the reference number of the open file.  The value is Not A Refnum if the file cannot be opened.
+54040:1dc91e file cannot be openedT
+99470:49107e mirefnum is the reference number of the open file. The value is Not A Refnum if the file cannot be opened.
+100023:49a6c3 refnum is the reference number of the open file.  The value is Not A Refnum if the file cannot be opened.
+223239:97e4 opens an existing file. Error 7 occurs if the file cannot be found.
+223246:99b8 createmirefnum is the reference number of the open file. The value is Not A Refnum if the file cannot be opened.
+224259:1a698 0 (open) opens an existing file.  Error 7 occurs if the file cannot be found.
+224270:1ae30 refnum is the reference number of the open file.  The value is Not A Refnum if the file cannot be opened.
+224297:1b54a file cannot be openedT
+224495:1d3a4 0 (open) opens an existing file.  Error 7 occurs if the file cannot be found.
+224506:1db3c refnum is the reference number of the open file.  The value is Not A Refnum if the file cannot be opened.
+257800:2079aa mirefnum is the reference number of the open file. The value is Not A Refnum if the file cannot be opened.
+258353:210fef refnum is the reference number of the open file.  The value is Not A Refnum if the file cannot be opened.
+258536:212d79 refnum is the reference number of the open file.  The value is Not A Refnum if the file cannot be opened.
+374023:1adaa8 refnum is the reference number of the open file.  The value is Not A Refnum if the file cannot be opened.
+374026:1adc96 mirefnum is the reference number of the open file. The value is Not A Refnum if the file cannot be opened.
+394242:30c5d8 0 (open) opens an existing file.  Error 7 occurs if the file cannot be found.
+394253:30cd70 refnum is the reference number of the open file.  The value is Not A Refnum if the file cannot be opened.
+404029:3a43f9 refnum is the reference number of the open file.  The value is Not A Refnum if the file cannot be opened.
+406178:3cb8a8 0 (open) opens an existing file.  Error 7 occurs if the file cannot be found.
+406189:3cc040 refnum is the reference number of the open file.  The value is Not A Refnum if the file cannot be opened.
+406192:3cc22e mirefnum is the reference number of the open file. The value is Not A Refnum if the file cannot be opened.
+406200:3cc6d7 opens an existing file. Error 7 occurs if the file cannot be found.
+406306:3cdc5d file cannot be openedT
+505869:20819d refnum is the reference number of the open file.  The value is Not A Refnum if the file cannot be opened.
+506085:20ac6d irefnum is the reference number of the open file. The value is Not A Refnum if the file cannot be opened.
+520834:33bed0 0 (open) opens an existing file.  Error 7 occurs if the file cannot be found.
+520845:33c668 refnum is the reference number of the open file.  The value is Not A Refnum if the file cannot be opened.
+527366:3b3045 refnum is the reference number of the open file.  The value is Not A Refnum if the file cannot be opened.
+528192:3c800f 0 (open) opens an existing file.  Error 7 occurs if the file cannot be found.
+528203:3c87a7 refnum is the reference number of the open file.  The value is Not A Refnum if the file cannot be opened.
+528296:3c98e1 file cannot be openedH
+528601:3cc8fe irefnum is the reference number of the open file. The value is Not A Refnum if the file cannot be opened.
+528604:3cc9d3 opens an existing file. Error 7 occurs if the file cannot be found.
+595368:d5248 0 (open) opens an existing file.  Error 7 occurs if the file cannot be found.
+595379:d59e0 refnum is the reference number of the open file.  The value is Not A Refnum if the file cannot be opened.
+595857:e222b 0 (open) opens an existing file.  Error 7 occurs if the file cannot be found.
+595868:e29c3 refnum is the reference number of the open file.  The value is Not A Refnum if the file cannot be opened.
+595961:e3afd file cannot be openedH
+596266:e6b1a irefnum is the reference number of the open file. The value is Not A Refnum if the file cannot be opened.
+596269:e6bef opens an existing file. Error 7 occurs if the file cannot be found.
+596765:f42a5 refnum is the reference number of the open file.  The value is Not A Refnum if the file cannot be opened.
+607065:19fc0d refnum is the reference number of the open file.  The value is Not A Refnum if the file cannot be opened.

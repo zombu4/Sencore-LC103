@@ -1,0 +1,1 @@
+101401:4afed1 mark after read is the location of the file mark after the read; it points to the character in the file following the last character read.

@@ -1,0 +1,30 @@
+70471:2d1450 /(i16) port width: the total width in bits of the port. For example, you can combine two 4-bit ports into an 8-bit port on an MIO board by setting port width to 8.
+103177:4d8ce8 &port width is the total width in bits of the port. For example, you can combine two 4bit ports into an 8-bit port on an MIO board by setting port width to 8. 
+103595:4def01 =port width is the total width in bits or the number of lines of the port. For example, you can combine two 4bit ports into an 8-bit port on an MIO board by setting port width to 8. 
+241104:115060 /(i16) port width: the total width in bits of the port. For example, you can combine two 4-bit ports into an 8-bit port on an MIO board by setting port width to 8.
+261627:25210c &port width is the total width in bits of the port. For example, you can combine two 4bit ports into an 8-bit port on an MIO board by setting port width to 8. 
+262056:258755 =port width is the total width in bits or the number of lines of the port. For example, you can combine two 4bit ports into an 8-bit port on an MIO board by setting port width to 8. 
+313550:1417d9 /(i16) port width: the total width in bits of the port. For example, you can combine two 4-bit ports into an 8-bit port on an MIO board by setting port width to 8.
+315127:1696ed &port width is the total width in bits of the port. For example, you can combine two 4bit ports into an 8-bit port on an MIO board by setting port width to 8. 
+315557:16fd26 =port width is the total width in bits or the number of lines of the port. For example, you can combine two 4bit ports into an 8-bit port on an MIO board by setting port width to 8. 
+340028:e0d01 /(i16) port width: the total width in bits of the port. For example, you can combine two 4-bit ports into an 8-bit port on an MIO board by setting port width to 8.
+341612:108d79 &port width is the total width in bits of the port. For example, you can combine two 4bit ports into an 8-bit port on an MIO board by setting port width to 8. 
+342042:10f3c2 =port width is the total width in bits or the number of lines of the port. For example, you can combine two 4bit ports into an 8-bit port on an MIO board by setting port width to 8. 
+369536:15b837 =port width is the total width in bits or the number of lines of the port. For example, you can combine two 4bit ports into an 8-bit port on an MIO board by setting port width to 8. 
+369996:162462 &port width is the total width in bits of the port. For example, you can combine two 4bit ports into an 8-bit port on an MIO board by setting port width to 8. 
+402187:387972 /(i16) port width: the total width in bits of the port. For example, you can combine two 4-bit ports into an 8-bit port on an MIO board by setting port width to 8.
+432780:d5b98 =port width is the total width in bits or the number of lines of the port. For example, you can combine two 4bit ports into an 8-bit port on an MIO board by setting port width to 8. 
+433238:dc7bf &port width is the total width in bits of the port. For example, you can combine two 4bit ports into an 8-bit port on an MIO board by setting port width to 8. 
+434960:105f50 /(i16) port width: the total width in bits of the port. For example, you can combine two 4-bit ports into an 8-bit port on an MIO board by setting port width to 8.
+469227:eb403 /(i16) port width: the total width in bits of the port. For example, you can combine two 4-bit ports into an 8-bit port on an MIO board by setting port width to 8.
+470946:1148f5 &port width is the total width in bits of the port. For example, you can combine two 4bit ports into an 8-bit port on an MIO board by setting port width to 8. 
+471413:11b4dd =port width is the total width in bits or the number of lines of the port. For example, you can combine two 4bit ports into an 8-bit port on an MIO board by setting port width to 8. 
+502759:1c3f45 =port width is the total width in bits or the number of lines of the port. For example, you can combine two 4bit ports into an 8-bit port on an MIO board by setting port width to 8. 
+503099:1c9c8a &port width is the total width in bits of the port. For example, you can combine two 4bit ports into an 8-bit port on an MIO board by setting port width to 8. 
+525018:38830b /(i16) port width: the total width in bits of the port. For example, you can combine two 4-bit ports into an 8-bit port on an MIO board by setting port width to 8.
+545155:d4aa8 =port width is the total width in bits or the number of lines of the port. For example, you can combine two 4bit ports into an 8-bit port on an MIO board by setting port width to 8. 
+545613:db6cf &port width is the total width in bits of the port. For example, you can combine two 4bit ports into an 8-bit port on an MIO board by setting port width to 8. 
+547335:104e60 /(i16) port width: the total width in bits of the port. For example, you can combine two 4-bit ports into an 8-bit port on an MIO board by setting port width to 8.
+578947:1545f6 /(i16) port width: the total width in bits of the port. For example, you can combine two 4-bit ports into an 8-bit port on an MIO board by setting port width to 8.
+580292:177d00 &port width is the total width in bits of the port. For example, you can combine two 4bit ports into an 8-bit port on an MIO board by setting port width to 8. 
+580643:17d141 =port width is the total width in bits or the number of lines of the port. For example, you can combine two 4bit ports into an 8-bit port on an MIO board by setting port width to 8. 

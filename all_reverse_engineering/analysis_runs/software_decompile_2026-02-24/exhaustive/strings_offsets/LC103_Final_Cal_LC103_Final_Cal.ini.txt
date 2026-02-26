@@ -1,0 +1,9 @@
+0 [LC103 Final Cal]
+13 server.app.propertiesEnabled=True
+36 server.ole.enabled=True
+4f server.tcp.serviceName="My Computer/VI Server"
+7f server.vi.propertiesEnabled=True
+a1 WebServer.TcpAccess="c+*"
+bc WebServer.ViAccess="+*"
+d5 DebugServerEnabled=False
+ef DebugServerWaitOnLaunch=False

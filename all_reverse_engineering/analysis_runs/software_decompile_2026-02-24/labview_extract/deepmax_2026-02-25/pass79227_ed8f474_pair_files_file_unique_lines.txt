@@ -1,0 +1,170 @@
+37048:13bbe DragAcceptFiles
+41250:bc95d InitTmpRFiles
+46399:15acf6 %s is my appfiles name
+47401:160977 Init tmp resource files
+48228:165f57 Temporary Directory: location for LabVIEW temporary files
+49559:175549 Include vi.lib files
+51092:18c9ba Too many files open
+52004:1b8a58 Too many files open.<Some system capacity necessary for operation is not enabled.
+52212:1ba204 GIt starts with "." and may be incorrectly interpreted as a device name.9LabVIEW cannot create new directories or libraries in %p.&LabVIEW cannot create new files in %p.
+52990:1cadfd plprompt is the message that appears below the list of files and directories (or folders) in the file dialog.
+52993:1caf99 pattern is the match pattern specification to display only certain types of files or directories (or folders). See the description of the File Dialog function for more information.
+53084:1cc8c7 Too Many Files Open
+53128:1ccbf2 Too Many Files Open
+53172:1ccf1d Too Many Files Open
+53216:1cd248 Too Many Files Open
+53260:1cd56b Too Many Files Open
+53626:1d184c all files
+53629:1d1cd3 all files4_/
+53995:1db518 all files
+54007:1dbce6 prompt is the message that appears below the list of files and directories in the file dialog.
+54010:1dbe59 pattern is the match pattern specification to display only certain types of files or directories. See the description of the File Dialog function for more information.
+54029:1dc62d all filesxD
+99471:4910e9 plprompt is the message that appears below the list of files and directories (or folders) in the file dialog.
+99474:491285 pattern is the match pattern specification to display only certain types of files or directories (or folders). See the description of the File Dialog function for more information.
+99559:492a4b Too Many Files Open
+99603:492d76 Too Many Files Open
+99720:494325 all files
+99721:494353 all files8CN
+100011:499db9 all files
+100017:49a1ba prompt is the message that appears below the list of files and directories in the file dialog.
+100020:49a32d pattern is the match pattern specification to display only certain types of files or directories. See the description of the File Dialog function for more information.
+100048:49ab6e all filesxD
+101093:4ab9a0 Too Many Files Open
+102474:4cdbfb GPIB EOIP: New I/O attempted with old I/O in progress.9LabVIEW: Too many files open.
+132603:1ee80a GetPrivateProfileStringA
+133233:201df6 ?fileSetup@DownloadInterpreter@@UAEJK@Z
+134418:20ae28 SOFTWARE\National Instruments\NI-DAQ\CurrentVersion\fpgafiles
+223247:9a29 plprompt is the message that appears below the list of files and directories (or folders) in the file dialog.
+223250:9bc5 pattern is the match pattern specification to display only certain types of files or directories (or folders). See the description of the File Dialog function for more information.
+223341:b4f3 Too Many Files Open
+223385:b81e Too Many Files Open
+223429:bb49 Too Many Files Open
+223473:be74 Too Many Files Open
+223517:c197 Too Many Files Open
+223883:10478 all files
+223886:108ff all files4_/
+224252:1a144 all files
+224264:1a912 prompt is the message that appears below the list of files and directories in the file dialog.
+224267:1aa85 pattern is the match pattern specification to display only certain types of files or directories. See the description of the File Dialog function for more information.
+224286:1b259 all filesxD
+224500:1d61e prompt is the message that appears below the list of files and directories in the file dialog.
+224503:1d791 pattern is the match pattern specification to display only certain types of files or directories. See the description of the File Dialog function for more information.
+257801:207a15 plprompt is the message that appears below the list of files and directories (or folders) in the file dialog.
+257804:207bb1 pattern is the match pattern specification to display only certain types of files or directories (or folders). See the description of the File Dialog function for more information.
+257889:209377 Too Many Files Open
+257933:2096a2 Too Many Files Open
+258050:20ac51 all files
+258051:20ac7f all files8CN
+258341:2106e5 all files
+258347:210ae6 prompt is the message that appears below the list of files and directories in the file dialog.
+258350:210c59 pattern is the match pattern specification to display only certain types of files or directories. See the description of the File Dialog function for more information.
+258378:21149a all filesxD
+258530:212870 prompt is the message that appears below the list of files and directories in the file dialog.
+258533:2129e3 pattern is the match pattern specification to display only certain types of files or directories. See the description of the File Dialog function for more information.
+259490:223a50 Too Many Files Open
+260907:2467d3 GPIB EOIP: New I/O attempted with old I/O in progress.9LabVIEW: Too many files open.
+314915:1643a4 GPIB EOIP: New I/O attempted with old I/O in progress.9LabVIEW: Too many files open.
+341392:103974 GPIB EOIP: New I/O attempted with old I/O in progress.9LabVIEW: Too many files open.
+371345:1801f5 GPIB EOIP: New I/O attempted with old I/O in progress.9LabVIEW: Too many files open.
+372459:1946d4 Too Many Files Open
+373921:1ac99b all files
+374017:1ad59f prompt is the message that appears below the list of files and directories in the file dialog.
+374020:1ad712 pattern is the match pattern specification to display only certain types of files or directories. See the description of the File Dialog function for more information.
+374027:1add01 plprompt is the message that appears below the list of files and directories (or folders) in the file dialog.
+374030:1ade9d pattern is the match pattern specification to display only certain types of files or directories (or folders). See the description of the File Dialog function for more information.
+374076:1ae8b0 all files
+374120:1aef75 all filesxD
+374159:1af446 Too Many Files Open
+374203:1af771 Too Many Files Open
+394247:30c852 prompt is the message that appears below the list of files and directories in the file dialog.
+394250:30c9c5 pattern is the match pattern specification to display only certain types of files or directories. See the description of the File Dialog function for more information.
+404023:3a3ef0 prompt is the message that appears below the list of files and directories in the file dialog.
+404026:3a4063 pattern is the match pattern specification to display only certain types of files or directories. See the description of the File Dialog function for more information.
+406038:3ca6e5 all files
+406183:3cbb22 prompt is the message that appears below the list of files and directories in the file dialog.
+406186:3cbc95 pattern is the match pattern specification to display only certain types of files or directories. See the description of the File Dialog function for more information.
+406193:3cc299 plprompt is the message that appears below the list of files and directories (or folders) in the file dialog.
+406196:3cc435 pattern is the match pattern specification to display only certain types of files or directories (or folders). See the description of the File Dialog function for more information.
+406257:3cd0cc all files
+406294:3cd95e all filesxD
+406369:3ce5c1 Too Many Files Open
+406413:3ce8ec Too Many Files Open
+406457:3cec17 Too Many Files Open
+406501:3cef42 Too Many Files Open
+406545:3cf265 Too Many Files Open
+434046:f3e18 GPIB EOIP: New I/O attempted with old I/O in progress.9LabVIEW: Too many files open.
+470025:103399 GPIB EOIP: New I/O attempted with old I/O in progress.9LabVIEW: Too many files open.
+503855:1e1196 GPIB EOIP: New I/O attempted with old I/O in progress.9LabVIEW: Too many files open.
+504848:1f44f9 Too Many Files Open
+505709:2058cd all files
+505863:207c94 prompt is the message that appears below the list of files and directories in the file dialog.
+505866:207e07 pattern is the match pattern specification to display only certain types of files or directories. See the description of the File Dialog function for more information.
+505907:20868d all files
+505953:208d65 all filesxD
+505988:2091e6 Too Many Files Open
+506032:209511 Too Many Files Open
+506072:20a39f lprompt is the message that appears below the list of files and directories (or folders) in the file dialog.
+506075:20a5fe pattern is the match pattern specification to display only certain types of files or directories (or folders). See the description of the File Dialog function for more information.
+520839:33c14a prompt is the message that appears below the list of files and directories in the file dialog.
+520842:33c2bd pattern is the match pattern specification to display only certain types of files or directories. See the description of the File Dialog function for more information.
+527360:3b2b3c prompt is the message that appears below the list of files and directories in the file dialog.
+527363:3b2caf pattern is the match pattern specification to display only certain types of files or directories. See the description of the File Dialog function for more information.
+527948:3c40a7 all files
+528197:3c8289 prompt is the message that appears below the list of files and directories in the file dialog.
+528200:3c83fc pattern is the match pattern specification to display only certain types of files or directories. See the description of the File Dialog function for more information.
+528249:3c8d19 all files&
+528288:3c95f8 all filesxD
+528346:3ca1f3 Too Many Files Open
+528390:3ca51e Too Many Files Open
+528434:3ca849 Too Many Files Open
+528478:3cab74 Too Many Files Open
+528522:3cae97 Too Many Files Open
+528589:3cc0c5 lprompt is the message that appears below the list of files and directories (or folders) in the file dialog.
+528592:3cc325 pattern is the match pattern specification to display only certain types of files or directories (or folders). See the description of the File Dialog function for more information.
+546421:f2d28 GPIB EOIP: New I/O attempted with old I/O in progress.9LabVIEW: Too many files open.
+579274:16505a GPIB EOIP: New I/O attempted with old I/O in progress.9LabVIEW: Too many files open.
+595373:d54c2 prompt is the message that appears below the list of files and directories in the file dialog.
+595376:d5635 pattern is the match pattern specification to display only certain types of files or directories. See the description of the File Dialog function for more information.
+595613:de2c3 all files
+595862:e24a5 prompt is the message that appears below the list of files and directories in the file dialog.
+595865:e2618 pattern is the match pattern specification to display only certain types of files or directories. See the description of the File Dialog function for more information.
+595914:e2f35 all files&
+595953:e3814 all filesxD
+596011:e440f Too Many Files Open
+596055:e473a Too Many Files Open
+596099:e4a65 Too Many Files Open
+596143:e4d90 Too Many Files Open
+596187:e50b3 Too Many Files Open
+596254:e62e1 lprompt is the message that appears below the list of files and directories (or folders) in the file dialog.
+596257:e6541 pattern is the match pattern specification to display only certain types of files or directories (or folders). See the description of the File Dialog function for more information.
+596759:f3d9c prompt is the message that appears below the list of files and directories in the file dialog.
+596762:f3f0f pattern is the match pattern specification to display only certain types of files or directories. See the description of the File Dialog function for more information.
+607059:19f704 prompt is the message that appears below the list of files and directories in the file dialog.
+607062:19f877 pattern is the match pattern specification to display only certain types of files or directories. See the description of the File Dialog function for more information.
+612551:238 - The VI expected to be at "\\Atlas\Shared\Cal-Test\LC103\Source\lv8\103f_cal.llb\Beep.vi" was loaded from "C:\Program Files\National Instruments\LabVIEW 8.6\vi.lib\Platform\system.llb\Beep.vi".
+612553:351 - The VI expected to be at "\\Atlas\Shared\Cal-Test\LC103\Source\lv8\103f_cal.llb\Beep.vi" was loaded from "C:\Program Files\National Instruments\LabVIEW 8.6\vi.lib\Platform\system.llb\Beep.vi".
+612555:468 - The VI expected to be at "\\Atlas\Shared\Cal-Test\LC103\Source\lv8\103f_cal.llb\Beep.vi" was loaded from "C:\Program Files\National Instruments\LabVIEW 8.6\vi.lib\Platform\system.llb\Beep.vi".
+612557:57d - The VI expected to be at "\\Atlas\Shared\Cal-Test\LC103\Source\lv8\103f_cal.llb\Beep.vi" was loaded from "C:\Program Files\National Instruments\LabVIEW 8.6\vi.lib\Platform\system.llb\Beep.vi".
+612560:6e4 - The VI expected to be at "\\Atlas\Shared\Cal-Test\LC103\Source\lv8\103f_cal.llb\Beep.vi" was loaded from "C:\Program Files\National Instruments\LabVIEW 8.6\vi.lib\Platform\system.llb\Beep.vi".
+612563:877 - The VI expected to be at "\\Atlas\Shared\Cal-Test\LC103\Source\lv8\103f_cal.llb\Beep.vi" was loaded from "C:\Program Files\National Instruments\LabVIEW 8.6\vi.lib\Platform\system.llb\Beep.vi".
+612569:b60 - The VI expected to be at "\\Atlas\Shared\Cal-Test\LC103\Source\lv8\103f_cal.llb\Beep.vi" was loaded from "C:\Program Files\National Instruments\LabVIEW 8.6\vi.lib\Platform\system.llb\Beep.vi".
+612571:c77 - The VI expected to be at "\\Atlas\Shared\Cal-Test\LC103\Source\lv8\103f_cal.llb\Beep.vi" was loaded from "C:\Program Files\National Instruments\LabVIEW 8.6\vi.lib\Platform\system.llb\Beep.vi".
+612573:d90 - The VI expected to be at "\\Atlas\Shared\Cal-Test\LC103\Source\lv8\103f_cal.llb\Beep.vi" was loaded from "C:\Program Files\National Instruments\LabVIEW 8.6\vi.lib\Platform\system.llb\Beep.vi".
+612581:10e0 - The VI expected to be at "\\Atlas\Shared\Cal-Test\LC103\Source\lv8\103f_cal.llb\Beep.vi" was loaded from "C:\Program Files\National Instruments\LabVIEW 8.6\vi.lib\Platform\system.llb\Beep.vi".
+612584:1275 - The VI expected to be at "\\Atlas\Shared\Cal-Test\LC103\Source\lv8\103f_cal.llb\Beep.vi" was loaded from "C:\Program Files\National Instruments\LabVIEW 8.6\vi.lib\Platform\system.llb\Beep.vi".
+612586:138e - The VI expected to be at "\\Atlas\Shared\Cal-Test\LC103\Source\lv8\103f_cal.llb\Beep.vi" was loaded from "C:\Program Files\National Instruments\LabVIEW 8.6\vi.lib\Platform\system.llb\Beep.vi".
+612588:14a3 - The VI expected to be at "\\Atlas\Shared\Cal-Test\LC103\Source\lv8\103f_cal.llb\Beep.vi" was loaded from "C:\Program Files\National Instruments\LabVIEW 8.6\vi.lib\Platform\system.llb\Beep.vi".
+612590:15bc - The VI expected to be at "\\Atlas\Shared\Cal-Test\LC103\Source\lv8\103f_cal.llb\Beep.vi" was loaded from "C:\Program Files\National Instruments\LabVIEW 8.6\vi.lib\Platform\system.llb\Beep.vi".
+612595:17f4 - The VI expected to be at "\\Atlas\Shared\Cal-Test\LC103\Source\lv8\103f_cal.llb\Beep.vi" was loaded from "C:\Program Files\National Instruments\LabVIEW 8.6\vi.lib\Platform\system.llb\Beep.vi".
+612597:190b - The VI expected to be at "\\Atlas\Shared\Cal-Test\LC103\Source\lv8\103f_cal.llb\Beep.vi" was loaded from "C:\Program Files\National Instruments\LabVIEW 8.6\vi.lib\Platform\system.llb\Beep.vi".
+626093:3c If you downloaded it from somewhere else, please let us know: https://www.dll-files.com/support/
+626094:a0 DLL-Files.com is owned and operated by Tilf AB, Sweden. The collection of DLL files as a whole (falls under the
+626098:14d The individual DLL files are provided free of charge with the understanding that the user is familiar with their use.
+626099:1c6 If you need help with installation, our recommendation is to use our DLL-files.com Client software.
+626102:395 More information available here: https://www.dll-files.com/client/
+626104:450 If you have any other problems, see our support-section at https://www.dll-files.com/support/
+626106:4df The Following Refers to all Files with the Extension of "dll" or dlls compressed as "zip".
+638092:1ee80a GetPrivateProfileStringA
+638722:201df6 ?fileSetup@DownloadInterpreter@@UAEJK@Z
+639907:20ae28 SOFTWARE\National Instruments\NI-DAQ\CurrentVersion\fpgafiles

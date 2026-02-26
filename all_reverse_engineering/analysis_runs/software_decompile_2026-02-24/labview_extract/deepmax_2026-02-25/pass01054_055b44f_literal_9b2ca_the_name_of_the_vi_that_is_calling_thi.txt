@@ -1,0 +1,2 @@
+357533:9b2ca The name of the VI that is calling this VI.  If an error occurs during the operation of this VI, the value in source will be placed in the source element of the error out cluster. 
+486749:9b2ca The name of the VI that is calling this VI.  If an error occurs during the operation of this VI, the value in source will be placed in the source element of the error out cluster. 

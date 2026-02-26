@@ -1,0 +1,42 @@
+307028:d5afe 6) Press ENTER when ready, choose test to perform and press START.S
+317705:190895 $$$Do next test if previous test passeda
+318370:19b040 $$$Do next test if previous test passedb
+319049:1a61d4 $$$Do next test if previous test passedn
+319718:1b1c6f $$$Do next test if previous test passedW
+322376:1dfe75 $Do next test if previous test passedW
+323339:1efae1 #Wait for start button to be clickedb
+323348:1efc6b !Set Pass/Fail Button to invisibled
+323376:1f00fe 6) Press ENTER when ready, choose test to perform and press START.H
+323379:1f018b -Set Pass/ Fail Indicator and make it visible V
+323383:1f0233 !Set Pass/Fail button to invisibleW
+323683:1f2d49 6) Press ENTER when ready, choose test to perform and press START.
+324498:28e4    Press READY when previous step is complete.
+346804:1906ac    Press READY when previous step is complete.
+346884:19109b    Press READY when previous step is complete.
+431585:c7bdf $$$Do next test if previous test passedW
+442590:17f653 6) Press ENTER when ready, choose test to perform and press START.[
+445168:1a57bb 6) Press ENTER when ready, choose test to perform and press START.
+445394:1a6e28 ###Wait for start button to be clickedb
+445403:1a6fad !!!Set Pass/Fail Button to invisibled
+445432:1a7448 6) Press ENTER when ready, choose test to perform and press START.H
+445435:1a74d1 ,,-Set Pass/ Fail Indicator and make it visible V
+445439:1a7575 !!!Set Pass/Fail button to invisibleW
+446620:1b905f $$$Do next test if previous test passedW
+448583:1d9d61 $$$Do next test if previous test passedn
+449327:1e5681 $$$Do next test if previous test passedb
+450201:1f201a $$$Do next test if previous test passeda
+467249:cbc1d    Press READY when previous step is complete.
+475183:16790a    Press READY when previous step is complete.
+475868:16e8c6    Press READY when previous step is complete.
+544053:c7bdf $$$Do next test if previous test passedW
+551578:14e35d $$$Do next test if previous test passedW
+552242:1593f9 $$$Do next test if previous test passedn
+552767:162b70 $$$Do next test if previous test passedb
+553378:16cfda $$$Do next test if previous test passeda
+559429:1d9a2c 6) Press ENTER when ready, choose test to perform and press START.
+559788:1de8b8 ###Wait for start button to be clickedb
+559797:1dea3d !!!Set Pass/Fail Button to invisibleH
+559824:1deec4 6) Press ENTER when ready, choose test to perform and press START.H
+559827:1def4d ,,-Set Pass/ Fail Indicator and make it visible m
+559828:1def93 !!!Set Pass/Fail button to invisibleW
+575775:e53d0    Press READY when previous step is complete.

@@ -1,0 +1,100 @@
+102469:4cda92 GPIB ESAC:  Command requries GPIB Controller to be System Controller.FLabVIEW:  Generic file I/O error.
+102471:4cdb39 GPIB ENEB:  Non-existent board.ILabVIEW:  File permission error.
+102480:4cddae GPIB ESRG:  SRQ stuck on.?LabVIEW:  Image memory error.
+102487:4cdf7d LabVIEW:  Destroy window error.
+102490:4cdfe7 GPIB NADDR:  No GPIB address input.CLabVIEW:  Print driver error.
+102493:4ce0c6 LabVIEW:  Print dialog error.
+102494:4ce0e4 LabVIEW:  Generic print error. LabVIEW:  Invalid device refnum.
+102495:4ce124 LabVIEW:  Device not found.!LabVIEW:  Device parameter error.
+102496:4ce162 LabVIEW:  Device unit error.NLabVIEW:  Can't open device.
+102499:4ce225 LabVIEW:  Generic error.%LabVIEW:  Operation canceled by user.
+260902:24666a GPIB ESAC:  Command requries GPIB Controller to be System Controller.FLabVIEW:  Generic file I/O error.
+260904:246711 GPIB ENEB:  Non-existent board.ILabVIEW:  File permission error.
+260913:246986 GPIB ESRG:  SRQ stuck on.?LabVIEW:  Image memory error.
+260920:246b55 LabVIEW:  Destroy window error.
+260923:246bbf GPIB NADDR:  No GPIB address input.CLabVIEW:  Print driver error.
+260926:246c9e LabVIEW:  Print dialog error.
+260927:246cbc LabVIEW:  Generic print error. LabVIEW:  Invalid device refnum.
+260928:246cfc LabVIEW:  Device not found.!LabVIEW:  Device parameter error.
+260929:246d3a LabVIEW:  Device unit error.NLabVIEW:  Can't open device.
+260932:246dfd LabVIEW:  Generic error.%LabVIEW:  Operation canceled by user.
+314910:16423b GPIB ESAC:  Command requries GPIB Controller to be System Controller.FLabVIEW:  Generic file I/O error.
+314912:1642e2 GPIB ENEB:  Non-existent board.ILabVIEW:  File permission error.
+314921:164557 GPIB ESRG:  SRQ stuck on.?LabVIEW:  Image memory error.
+314928:164726 LabVIEW:  Destroy window error.
+314931:164790 GPIB NADDR:  No GPIB address input.CLabVIEW:  Print driver error.
+314934:16486f LabVIEW:  Print dialog error.
+314935:16488d LabVIEW:  Generic print error. LabVIEW:  Invalid device refnum.
+314936:1648cd LabVIEW:  Device not found.!LabVIEW:  Device parameter error.
+314937:16490b LabVIEW:  Device unit error.NLabVIEW:  Can't open device.
+314940:1649ce LabVIEW:  Generic error.%LabVIEW:  Operation canceled by user.
+341387:10380b GPIB ESAC:  Command requries GPIB Controller to be System Controller.FLabVIEW:  Generic file I/O error.
+341389:1038b2 GPIB ENEB:  Non-existent board.ILabVIEW:  File permission error.
+341398:103b27 GPIB ESRG:  SRQ stuck on.?LabVIEW:  Image memory error.
+341405:103cf6 LabVIEW:  Destroy window error.
+341408:103d60 GPIB NADDR:  No GPIB address input.CLabVIEW:  Print driver error.
+341411:103e3f LabVIEW:  Print dialog error.
+341412:103e5d LabVIEW:  Generic print error. LabVIEW:  Invalid device refnum.
+341413:103e9d LabVIEW:  Device not found.!LabVIEW:  Device parameter error.
+341414:103edb LabVIEW:  Device unit error.NLabVIEW:  Can't open device.
+341417:103f9e LabVIEW:  Generic error.%LabVIEW:  Operation canceled by user.
+371340:18008c GPIB ESAC:  Command requries GPIB Controller to be System Controller.FLabVIEW:  Generic file I/O error.
+371342:180133 GPIB ENEB:  Non-existent board.ILabVIEW:  File permission error.
+371351:1803a8 GPIB ESRG:  SRQ stuck on.?LabVIEW:  Image memory error.
+371358:180577 LabVIEW:  Destroy window error.
+371361:1805e1 GPIB NADDR:  No GPIB address input.CLabVIEW:  Print driver error.
+371364:1806c0 LabVIEW:  Print dialog error.
+371365:1806de LabVIEW:  Generic print error. LabVIEW:  Invalid device refnum.
+371366:18071e LabVIEW:  Device not found.!LabVIEW:  Device parameter error.
+371367:18075c LabVIEW:  Device unit error.NLabVIEW:  Can't open device.
+371370:18081f LabVIEW:  Generic error.%LabVIEW:  Operation canceled by user.
+434041:f3caf GPIB ESAC:  Command requries GPIB Controller to be System Controller.FLabVIEW:  Generic file I/O error.
+434043:f3d56 GPIB ENEB:  Non-existent board.ILabVIEW:  File permission error.
+434052:f3fcb GPIB ESRG:  SRQ stuck on.?LabVIEW:  Image memory error.
+434059:f419a LabVIEW:  Destroy window error.
+434062:f4204 GPIB NADDR:  No GPIB address input.CLabVIEW:  Print driver error.
+434065:f42e3 LabVIEW:  Print dialog error.
+434066:f4301 LabVIEW:  Generic print error. LabVIEW:  Invalid device refnum.
+434067:f4341 LabVIEW:  Device not found.!LabVIEW:  Device parameter error.
+434068:f437f LabVIEW:  Device unit error.NLabVIEW:  Can't open device.
+434071:f4442 LabVIEW:  Generic error.%LabVIEW:  Operation canceled by user.
+470020:103230 GPIB ESAC:  Command requries GPIB Controller to be System Controller.FLabVIEW:  Generic file I/O error.
+470022:1032d7 GPIB ENEB:  Non-existent board.ILabVIEW:  File permission error.
+470031:10354c GPIB ESRG:  SRQ stuck on.?LabVIEW:  Image memory error.
+470038:10371b LabVIEW:  Destroy window error.
+470041:103785 GPIB NADDR:  No GPIB address input.CLabVIEW:  Print driver error.
+470044:103864 LabVIEW:  Print dialog error.
+470045:103882 LabVIEW:  Generic print error. LabVIEW:  Invalid device refnum.
+470046:1038c2 LabVIEW:  Device not found.!LabVIEW:  Device parameter error.
+470047:103900 LabVIEW:  Device unit error.NLabVIEW:  Can't open device.
+470050:1039c3 LabVIEW:  Generic error.%LabVIEW:  Operation canceled by user.
+503850:1e102d GPIB ESAC:  Command requries GPIB Controller to be System Controller.FLabVIEW:  Generic file I/O error.
+503852:1e10d4 GPIB ENEB:  Non-existent board.ILabVIEW:  File permission error.
+503861:1e1349 GPIB ESRG:  SRQ stuck on.?LabVIEW:  Image memory error.
+503868:1e1518 LabVIEW:  Destroy window error.
+503871:1e1582 GPIB NADDR:  No GPIB address input.CLabVIEW:  Print driver error.
+503874:1e1661 LabVIEW:  Print dialog error.
+503875:1e167f LabVIEW:  Generic print error. LabVIEW:  Invalid device refnum.
+503876:1e16bf LabVIEW:  Device not found.!LabVIEW:  Device parameter error.
+503877:1e16fd LabVIEW:  Device unit error.NLabVIEW:  Can't open device.
+503880:1e17c0 LabVIEW:  Generic error.%LabVIEW:  Operation canceled by user.
+546416:f2bbf GPIB ESAC:  Command requries GPIB Controller to be System Controller.FLabVIEW:  Generic file I/O error.
+546418:f2c66 GPIB ENEB:  Non-existent board.ILabVIEW:  File permission error.
+546427:f2edb GPIB ESRG:  SRQ stuck on.?LabVIEW:  Image memory error.
+546434:f30aa LabVIEW:  Destroy window error.
+546437:f3114 GPIB NADDR:  No GPIB address input.CLabVIEW:  Print driver error.
+546440:f31f3 LabVIEW:  Print dialog error.
+546441:f3211 LabVIEW:  Generic print error. LabVIEW:  Invalid device refnum.
+546442:f3251 LabVIEW:  Device not found.!LabVIEW:  Device parameter error.
+546443:f328f LabVIEW:  Device unit error.NLabVIEW:  Can't open device.
+546446:f3352 LabVIEW:  Generic error.%LabVIEW:  Operation canceled by user.
+579269:164ef1 GPIB ESAC:  Command requries GPIB Controller to be System Controller.FLabVIEW:  Generic file I/O error.
+579271:164f98 GPIB ENEB:  Non-existent board.ILabVIEW:  File permission error.
+579280:16520d GPIB ESRG:  SRQ stuck on.?LabVIEW:  Image memory error.
+579287:1653dc LabVIEW:  Destroy window error.
+579290:165446 GPIB NADDR:  No GPIB address input.CLabVIEW:  Print driver error.
+579293:165525 LabVIEW:  Print dialog error.
+579294:165543 LabVIEW:  Generic print error. LabVIEW:  Invalid device refnum.
+579295:165583 LabVIEW:  Device not found.!LabVIEW:  Device parameter error.
+579296:1655c1 LabVIEW:  Device unit error.NLabVIEW:  Can't open device.
+579299:165684 LabVIEW:  Generic error.%LabVIEW:  Operation canceled by user.

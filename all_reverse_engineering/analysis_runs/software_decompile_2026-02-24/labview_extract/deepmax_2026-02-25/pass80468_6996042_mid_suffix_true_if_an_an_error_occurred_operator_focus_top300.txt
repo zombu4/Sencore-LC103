@@ -1,0 +1,53 @@
+53003:1cb4a5 )%status is TRUE if an error occurred.
+54244:1dfe8b )%status is TRUE if an error occurred.
+99483:4916f3 )%status is TRUE if an error occurred.
+99492:4919bd )%status is TRUE if an error occurred.
+100213:49d677 ($status is TRUE if an error occurred."
+100219:49d7a0 ($status is TRUE if an error occurred."
+100612:4a3c20 )%status is TRUE if an error occurred.
+101020:4aa6da )%status is TRUE if an error occurred.
+101598:4b7731 status is TRUE if an error occurred. If this value is FALSE, then the error handler assumes that no error occurred according to the error in, and then checks the error code.
+101605:4b7949 status is TRUE if an error occurred. If this value is FALSE, then the error handler assumes that no error occurred according to the error in, and then checks the error code.
+223260:a0d1 )%status is TRUE if an error occurred.
+224537:1f96b )%status is TRUE if an error occurred.
+257813:20801f )%status is TRUE if an error occurred.
+257822:2082e9 )%status is TRUE if an error occurred.
+258567:214a57 ($status is TRUE if an error occurred."
+258573:214b80 ($status is TRUE if an error occurred."
+258983:21b474 )%status is TRUE if an error occurred.
+259417:22278a )%status is TRUE if an error occurred.
+260031:230309 status is TRUE if an error occurred. If this value is FALSE, then the error handler assumes that no error occurred according to the error in, and then checks the error code.
+260038:230521 status is TRUE if an error occurred. If this value is FALSE, then the error handler assumes that no error occurred according to the error in, and then checks the error code.
+314019:14df26 status is TRUE if an error occurred. If this value is FALSE, then the error handler assumes that no error occurred according to the error in, and then checks the error code.
+314026:14e13e status is TRUE if an error occurred. If this value is FALSE, then the error handler assumes that no error occurred according to the error in, and then checks the error code.
+340502:ed509 status is TRUE if an error occurred. If this value is FALSE, then the error handler assumes that no error occurred according to the error in, and then checks the error code.
+340509:ed721 status is TRUE if an error occurred. If this value is FALSE, then the error handler assumes that no error occurred according to the error in, and then checks the error code.
+371471:1840b2 status is TRUE if an error occurred. If this value is FALSE, then the error handler assumes that no error occurred according to the error in, and then checks the error code.
+371475:1842aa status is TRUE if an error occurred. If this value is FALSE, then the error handler assumes that no error occurred according to the error in, and then checks the error code.
+372367:193be5 )%status is TRUE if an error occurred.
+372955:19bd72 )%status is TRUE if an error occurred.
+373378:1a257e ($status is TRUE if an error occurred.
+373380:1a2687 ($status is TRUE if an error occurred.
+374035:1ae2dd )%status is TRUE if an error occurred.
+374040:1ae587 )%status is TRUE if an error occurred.
+405304:3ba95a )%status is TRUE if an error occurred.
+406208:3ccaec )%status is TRUE if an error occurred.
+434172:f7cd5 status is TRUE if an error occurred. If this value is FALSE, then the error handler assumes that no error occurred according to the error in, and then checks the error code.
+434176:f7ecd status is TRUE if an error occurred. If this value is FALSE, then the error handler assumes that no error occurred according to the error in, and then checks the error code.
+470151:107256 status is TRUE if an error occurred. If this value is FALSE, then the error handler assumes that no error occurred according to the error in, and then checks the error code.
+470155:10744e status is TRUE if an error occurred. If this value is FALSE, then the error handler assumes that no error occurred according to the error in, and then checks the error code.
+504218:1ea345 status is TRUE if an error occurred. If this value is FALSE, then the error handler assumes that no error occurred according to the error in, and then checks the error code.
+504222:1ea596 status is TRUE if an error occurred. If this value is FALSE, then the error handler assumes that no error occurred according to the error in, and then checks the error code.
+504906:1f5988 %status is TRUE if an error occurred.
+505284:1fb8fa %status is TRUE if an error occurred.
+505531:200750 $status is TRUE if an error occurred.,
+505535:2008dc $status is TRUE if an error occurred.,
+506076:20a6ce %status is TRUE if an error occurred.
+506083:20abe7 %status is TRUE if an error occurred.
+527766:3bc520 %status is TRUE if an error occurred.
+528602:3cc96c %status is TRUE if an error occurred.
+546547:f6be5 status is TRUE if an error occurred. If this value is FALSE, then the error handler assumes that no error occurred according to the error in, and then checks the error code.
+546551:f6ddd status is TRUE if an error occurred. If this value is FALSE, then the error handler assumes that no error occurred according to the error in, and then checks the error code.
+579637:16e208 status is TRUE if an error occurred. If this value is FALSE, then the error handler assumes that no error occurred according to the error in, and then checks the error code.
+579641:16e459 status is TRUE if an error occurred. If this value is FALSE, then the error handler assumes that no error occurred according to the error in, and then checks the error code.
+596267:e6b88 %status is TRUE if an error occurred.

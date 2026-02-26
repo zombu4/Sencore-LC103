@@ -1,0 +1,74 @@
+openjdk version "21.0.10" 2026-01-20 LTS
+OpenJDK Runtime Environment Temurin-21.0.10+7 (build 21.0.10+7-LTS)
+OpenJDK 64-Bit Server VM Temurin-21.0.10+7 (build 21.0.10+7-LTS, mixed mode)
+INFO  Using log config file: jar:file:/Users/<user>/Tools/ghidra_12.0.2_PUBLIC/Ghidra/Framework/Generic/lib/Generic.jar!/generic.log4j.xml (LoggingInitialization)  
+INFO  Using log file: /var/<user>/Library/ghidra/ghidra_12.0.2_PUBLIC/application.log (LoggingInitialization)  
+INFO  Loading user preferences: /var/<user>/Library/ghidra/ghidra_12.0.2_PUBLIC/preferences (Preferences)  
+INFO  Searching for classes... (ClassSearcher)  
+INFO  Class search complete (803 ms) (ClassSearcher)  
+INFO  Initializing SSL Context (DefaultSSLContextInitializer)  
+INFO  Initializing Random Number Generator... (SecureRandomFactory)  
+INFO  Random Number Generator initialization complete: NativePRNGNonBlocking (SecureRandomFactory)  
+INFO  Trust manager disabled, cacerts have not been set (DefaultTrustManagerFactory)  
+INFO  Headless startup complete (1400 ms) (AnalyzeHeadless)  
+INFO  Class searcher loaded 58 extension points (18 false positives) (ClassSearcher)  
+INFO  HEADLESS Script Paths:
+    /Users/<user>/Tools/ghidra_12.0.2_PUBLIC/Ghidra/Features/Decompiler/ghidra_scripts
+    /Users/<user>/Tools/ghidra_12.0.2_PUBLIC/Ghidra/Debug/Debugger/ghidra_scripts
+    /Users/<user>/Tools/ghidra_12.0.2_PUBLIC/Ghidra/Features/PDB/ghidra_scripts
+    /Users/<user>/Tools/ghidra_12.0.2_PUBLIC/Ghidra/Features/SystemEmulation/ghidra_scripts
+    /Users/<user>/Tools/ghidra_12.0.2_PUBLIC/Ghidra/Features/WildcardAssembler/ghidra_scripts
+    /Users/<user>/Tools/ghidra_12.0.2_PUBLIC/Ghidra/Processors/8051/ghidra_scripts
+    /Users/<user>/Tools/ghidra_12.0.2_PUBLIC/Ghidra/Features/PyGhidra/ghidra_scripts
+    /Users/<user>/Tools/ghidra_12.0.2_PUBLIC/Ghidra/Features/Base/ghidra_scripts
+    /Users/<user>/Tools/ghidra_12.0.2_PUBLIC/Ghidra/Processors/DATA/ghidra_scripts
+    /Users/<user>/Tools/ghidra_12.0.2_PUBLIC/Ghidra/Features/FileFormats/ghidra_scripts
+    /Users/<user>/Tools/ghidra_12.0.2_PUBLIC/Ghidra/Processors/PIC/ghidra_scripts
+    /Users/<user>/Tools/ghidra_12.0.2_PUBLIC/Ghidra/Features/Jython/ghidra_scripts
+    /Users/<user>/Tools/ghidra_12.0.2_PUBLIC/Ghidra/Features/GnuDemangler/ghidra_scripts
+    /Users/<user>/Tools/ghidra_12.0.2_PUBLIC/Ghidra/Debug/Debugger-rmi-trace/ghidra_scripts
+    /Users/<user>/Tools/ghidra_12.0.2_PUBLIC/Ghidra/Features/BytePatterns/ghidra_scripts
+    /Users/<user>/Tools/ghidra_12.0.2_PUBLIC/Ghidra/Features/FunctionID/ghidra_scripts
+    /Users/<user>/Tools/ghidra_12.0.2_PUBLIC/Ghidra/Processors/JVM/ghidra_scripts
+    /Users/<user>/Tools/ghidra_12.0.2_PUBLIC/Ghidra/Features/BSim/ghidra_scripts
+    /Users/<user>/Tools/ghidra_12.0.2_PUBLIC/Ghidra/Features/MicrosoftCodeAnalyzer/ghidra_scripts
+    /Users/<user>/Tools/ghidra_12.0.2_PUBLIC/Ghidra/Features/VersionTracking/ghidra_scripts
+    /Users/<user>/Tools/ghidra_12.0.2_PUBLIC/Ghidra/Features/DecompilerDependent/ghidra_scripts
+    /Users/<user>/Tools/ghidra_scripts
+    /Users/<user>/Tools/ghidra_12.0.2_PUBLIC/Ghidra/Processors/Atmel/ghidra_scripts
+    /Users/<user>/Tools/ghidra_12.0.2_PUBLIC/Ghidra/Features/SwiftDemangler/ghidra_scripts (HeadlessAnalyzer)  
+INFO  HEADLESS: execution starts (HeadlessAnalyzer)  
+INFO  Opening existing project: /Users/<user>/LC103/decompile_v1.53/ghidra_proj/lc103_bank1_boot (HeadlessAnalyzer)  
+INFO  Opening project: /Users/<user>/LC103/decompile_v1.53/ghidra_proj/lc103_bank1_boot (HeadlessProject)  
+INFO  REPORT: Processing project file: /half1.bin (HeadlessAnalyzer)  
+INFO  ANALYZING all memory and code: /half1.bin (HeadlessAnalyzer)  
+INFO  Packed database cache: /var/tmp/root-ghidra/packed-db-cache (PackedDatabaseCache)  
+INFO  Applied data type archive: generic_clib (ApplyDataArchiveAnalyzer)  
+INFO  -----------------------------------------------------
+    ASCII Strings                              0.204 secs
+    Apply Data Archives                        0.309 secs
+    Basic Constant Reference Analyzer          0.299 secs
+    Call Convention ID                         0.004 secs
+    Call-Fixup Installer                       0.004 secs
+    Create Function                            0.000 secs
+    Decompiler Switch Analysis                 1.371 secs
+    Demangler GNU                              0.016 secs
+    Disassemble Entry Points                   0.032 secs
+    Embedded Media                             0.010 secs
+    External Entry References                  0.000 secs
+    Function ID                                0.019 secs
+    Non-Returning Functions - Discovered       0.057 secs
+    Shared Return Calls                        0.024 secs
+    Stack                                      0.169 secs
+    Subroutine References                      0.020 secs
+-----------------------------------------------------
+     Total Time   2 secs
+-----------------------------------------------------
+ (AutoAnalysisManager)  
+INFO  REPORT: Analysis succeeded for file: /half1.bin (HeadlessAnalyzer)  
+INFO  REPORT: Execute script: FindXrefsToAddr.java 'CODE:5c00'  (HeadlessAnalyzer)  
+INFO  SCRIPT: /Users/<user>/Tools/ghidra_scripts/FindXrefsToAddr.java (HeadlessAnalyzer)  
+INFO  FindXrefsToAddr.java> Xrefs to CODE:5c00: (GhidraScript)  
+INFO  ANALYZING changes made by post scripts: /half1.bin (HeadlessAnalyzer)  
+INFO  REPORT: Post-analysis succeeded for file: /half1.bin (HeadlessAnalyzer)  
+INFO  REPORT: Save succeeded for processed file: /half1.bin (HeadlessAnalyzer)  

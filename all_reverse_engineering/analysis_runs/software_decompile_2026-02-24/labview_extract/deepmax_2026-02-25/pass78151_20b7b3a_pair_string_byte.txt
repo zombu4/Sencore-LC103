@@ -1,0 +1,38 @@
+54494:1e3da2 *Writes a string of characters to a byte stream file at the specified location; the default location is at the end of file.  The VI does incoming and internal error checking and does not write if an incoming error occurs.
+57231:212a20  status[15]- GPIB error detectedA=data string contains count data bytes from the GPIB device. 
+101388:4af7d2 Reads a string of characters from a byte stream file at the specified location; the default location is at the current mark.  The VI does incoming and internal error checking and does not read if an incoming error occurs.
+102958:4d61cb Writes a character string to a new byte stream file or appends the string to an existing file.  The VI opens or creates the file beforehand and closes it afterwards.
+224787:23882 *Writes a string of characters to a byte stream file at the specified location; the default location is at the end of file.  The VI does incoming and internal error checking and does not write if an incoming error occurs.
+224952:2506b *Writes a string of characters to a byte stream file at the specified location; the default location is at the end of file.  The VI does incoming and internal error checking and does not write if an incoming error occurs.
+227622:53a78  status[15]- GPIB error detectedA=data string contains count data bytes from the GPIB device. 
+259785:227882 Reads a string of characters from a byte stream file at the specified location; the default location is at the current mark.  The VI does incoming and internal error checking and does not read if an incoming error occurs.
+259959:229360 Reads a string of characters from a byte stream file at the specified location; the default location is at the current mark.  The VI does incoming and internal error checking and does not read if an incoming error occurs.
+261397:24f12b Writes a character string to a new byte stream file or appends the string to an existing file.  The VI opens or creates the file beforehand and closes it afterwards.
+261609:2507dc Writes a character string to a new byte stream file or appends the string to an existing file.  The VI opens or creates the file beforehand and closes it afterwards.
+294105:20e09  status[15]- GPIB error detectedA=data string contains count data bytes from the GPIB device. 
+326272:20101  status[15]- GPIB error detectedA=data string contains count data bytes from the GPIB device. 
+349067:1ed38  status[15]- GPIB error detectedA=data string contains count data bytes from the GPIB device. 
+370469:168abf Writes a character string to a new byte stream file or appends the string to an existing file.  The VI opens or creates the file beforehand and closes it afterwards.
+372335:192b26 Reads a string of characters from a byte stream file at the specified location; the default location is at the current mark.  The VI does incoming and internal error checking and does not read if an incoming error occurs.
+394256:30cf67 *Writes a string of characters to a byte stream file at the specified location; the default location is at the end of file.  The VI does incoming and internal error checking and does not write if an incoming error occurs.
+404043:3a4f48 Reads a string of characters from a byte stream file at the specified location; the default location is at the current mark.  The VI does incoming and internal error checking and does not read if an incoming error occurs.
+404059:3a5a44 Writes a character string to a new byte stream file or appends the string to an existing file.  The VI opens or creates the file beforehand and closes it afterwards.
+405279:3b9da8 *Writes a string of characters to a byte stream file at the specified location; the default location is at the end of file.  The VI does incoming and internal error checking and does not write if an incoming error occurs.
+419734:1ec7d  status[15]- GPIB error detectedA=data string contains count data bytes from the GPIB device. 
+454571:1d54d  status[15]- GPIB error detectedA=data string contains count data bytes from the GPIB device. 
+478283:1ed38  status[15]- GPIB error detectedA=data string contains count data bytes from the GPIB device. 
+503359:1cf7ce Writes a character string to a new byte stream file or appends the string to an existing file.  The VI opens or creates the file beforehand and closes it afterwards.
+504744:1f31e7 Reads a string of characters from a byte stream file at the specified location; the default location is at the current mark.  The VI does incoming and internal error checking and does not read if an incoming error occurs.
+520848:33c85f *Writes a string of characters to a byte stream file at the specified location; the default location is at the end of file.  The VI does incoming and internal error checking and does not write if an incoming error occurs.
+527380:3b3b94 Reads a string of characters from a byte stream file at the specified location; the default location is at the current mark.  The VI does incoming and internal error checking and does not read if an incoming error occurs.
+527396:3b4690 Writes a character string to a new byte stream file or appends the string to an existing file.  The VI opens or creates the file beforehand and closes it afterwards.
+527675:3ba71a *Writes a string of characters to a byte stream file at the specified location; the default location is at the end of file.  The VI does incoming and internal error checking and does not write if an incoming error occurs.
+532202:1ec7d  status[15]- GPIB error detectedA=data string contains count data bytes from the GPIB device. 
+562487:1d54d  status[15]- GPIB error detectedA=data string contains count data bytes from the GPIB device. 
+583006:1ecb0  status[15]- GPIB error detectedA=data string contains count data bytes from the GPIB device. 
+596714:f1b67 *Writes a string of characters to a byte stream file at the specified location; the default location is at the end of file.  The VI does incoming and internal error checking and does not write if an incoming error occurs.
+596779:f4df4 Reads a string of characters from a byte stream file at the specified location; the default location is at the current mark.  The VI does incoming and internal error checking and does not read if an incoming error occurs.
+596795:f58f0 Writes a character string to a new byte stream file or appends the string to an existing file.  The VI opens or creates the file beforehand and closes it afterwards.
+597617:ff243 *Writes a string of characters to a byte stream file at the specified location; the default location is at the end of file.  The VI does incoming and internal error checking and does not write if an incoming error occurs.
+607652:1a9938 Reads a string of characters from a byte stream file at the specified location; the default location is at the current mark.  The VI does incoming and internal error checking and does not read if an incoming error occurs.
+608417:1b6db0 Writes a character string to a new byte stream file or appends the string to an existing file.  The VI opens or creates the file beforehand and closes it afterwards.

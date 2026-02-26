@@ -1,0 +1,604 @@
+0 RSRC
+8 LVINLBVW
+169 Fluke 8840A.vi
+546 AZo$
+562 LVIN
+567 Fluke 8840A.vi
+600 i386
+616 code
+633 SQRVW
+912 EdQRh
+931 ZY_^ZY[]
+946 SQRVW
+980 E\QRh
+999 ZY_^ZY[]
+1600 SQRVWP
+1734 _^ZY[
+1767 d$=
+1908 d$h
+1926 d$h
+1944 d$h
+1962 d$=
+2052 d$f
+2331 d$=
+3480 $VSQWR
+4013 ZYQR
+4022 ZYQRh
+4454 QRUh
+4961 ZYQR
+4970 ZYQRh
+5408 QRUh
+6003 d$=
+6112 d$=
+6480 d$=
+6761 _^ZY[]
+6774 SQRVW
+6811 _^ZY[]
+6824 SQRVW
+6861 _^ZY[]
+6874 SQRVW
+6880 T$ QRP
+6933 _^ZY[]
+6946 SQRVWf
+7242 _^ZY[]
+7255 SQRVW
+7278 _^ZY[]
+7291 SQRVW
+7301 _^ZY[]
+7314 SQRVWP
+7338 _^ZY[]
+7461 SQRVW
+7471 t$(=
+7636 d$ZY
+7646 _^ZY[]
+7659 SQRVW
+7673 D$ =
+7778 d$ZY_^ZY[]
+7968 SQRVW
+7978 D$ =
+8083 d$ZY_^ZY[]
+9309 SQRVW
+9319 D$ =
+9424 d$ZY_^ZY[]
+9459 7QRh
+9715 7QRh
+9971 7QRh
+10452 SQRVW
+10458 D$ =
+10563 d$ZY_^ZY[]
+11045 SQRVW
+11051 L$ Qh
+11065 d$=
+11081 L$ Qh
+11095 d$=
+11111 L$ Qh
+11125 d$=
+11141 L$ Qh
+11155 d$=
+11171 L$ Qh
+11185 d$=
+11201 L$ Qh
+11215 d$=
+11231 L$ Qh
+11245 d$=
+11261 L$ Qh
+11275 d$_^ZY[]
+11291 SQRVW
+12237 PTAB
+12876 QELM
+12886 QELM
+13031 d$ZYf
+13042 _^ZY[]
+13055 SQRVWh
+13073 _^ZY[]
+13081 _^ZY[]
+13987 Instr
+13993 instr handle in
+14013 function (Vdc:0)
+14035 range (auto:0)
+14061 status
+14073 code
+14087 source
+14095 error in (no error)
+14119 trigger mode (cont:0)
+14147 Instr
+14153 instr handle in
+14173 measurement
+14195 status
+14207 code
+14221 source
+14229 error out
+14363 trigger mode (cont:0)
+14513 function (Vdc:0)
+14615 range (auto:0)
+14741 measurement
+14839 Instr
+14845 instr handle in
+14867 Instr
+14883 Instr
+14899 Instr
+14915 Instr
+14971 Instr
+14977 instr handle in
+14999 Instr
+15015 Instr
+15031 Instr
+15047 Instr
+15107 status
+15119 code
+15133 source
+15141 error out
+15411 status
+15423 code
+15437 source
+15445 error in (no error)
+15823 measurement
+15849 status
+15861 code
+15875 source
+15883 error out
+15903 Instr
+15909 instr handle in
+15941 offset past number
+15965 use system decimal point (T)
+16027 read buffer
+16053 status
+16065 code
+16079 source
+16087 error in (no error)
+16110 return count
+16135 Instr
+16141 instr handle in
+16161 byte count (0)
+16180 return count
+16211 trigger mode (cont:0)
+16249 range (auto:0)
+16281 function (Vdc:0)
+16947 d:\automated\lv51\lvsource\gencode.c
+16984 GenRangeCheck
+17003 d:\automated\lv51\lvsource\gencode.c
+17040 GenCopyProcs1
+17059 d:\automated\lv51\lvsource\gencode.c
+17096 GenCopyProcs2
+17115 d:\automated\lv51\lvsource\gencode.c
+17152 GenCopyProcs3
+17171 d:\automated\lv51\lvsource\gencode.c
+17208 GenDefaultProc
+17490 VIDS
+17495 Fluke 8840A.vi
+17535 Oldest compatible LabVIEW.
+17637 trigger mode (cont:0)
+17663 measurement
+17679 range (auto:0)
+17699 function (Vdc:0)
+17723 Instr
+17729 instr handle in
+17751 Instr
+17757 instr handle in
+17783 status
+17795 code
+17809 source
+17817 error out
+17837 status
+17849 code
+17863 source
+17871 error in (no error)
+17924 Measure volts, amps, or ohms.  Select one of 6 functions.  Select range or use auto range.  Select trigger mode.  Slow reading rate is used for accuracy.                                         version a.0
+18140 Continuous Trigger - trig initiated at reading rate                                                                      Single Trigger - one reading only, initiated by ? External Trigger - single trigger initiated from rear  panel    
+18384 Select measurement function.  
+18424 (I32) 
+18431 A unique reference to an instrument I/O session.  It identifies which device to communicate with and all configuration information to perform the I/O.  An instr handle is returned from the Instr Open VI or the Initialize VI of an instrument driver.
+18687 -9.99990E9 is reported on overrange error.    
+18744 Range selection has no effect in the mA DC and mA AC functions since all measurements in these functions are made in the 20000 mA range.             If the chosen range is not valid for selected function, the nearest valid range is selected.  
+18996 (I32) 
+19003 A unique reference to an instrument I/O session.  It identifies which device to communicate with and all configuration information to perform the I/O.  An instr handle is returned from the Instr Open VI or the Initialize VI of an instrument driver.
+19260 (cluster) error out:  a cluster containing error information.  If error in indicated an error, error out contains the same error information.  Otherwise, it describes the error status of this VI.  Use the General Error Handler utility VI to check the error at the end of your diagram.  The error out cluster contains the following parameters: 
+19605      (bool) status: TRUE if an error has occurred.
+19657      (i32) code: the error code associated with an error.
+19715      A value of 0 means no error, a negative value is an
+19772      error, and a positive value is a warning.
+19820      (string) source:  an indication of where an 
+19870      error occurred, usually the name of the VI.
+19928 The status boolean is either TRUE (X) for an error, or FALSE (checkmark) for no error or a warning.
+20029 The pop-up option Explain Error (or Explain Warning) gives more information about the error displayed.
+20140 The source string describes the origin of the error or warning.
+20205 The pop-up option Explain Error (or Explain Warning) gives more information about the error displayed.
+20316 The code input identifies the error or warning.
+20365 The pop-up option Explain Error (or Explain Warning) gives more information about the error displayed.
+20475 f(cluster) error in:  a cluster describing any error conditions prior to this VI's execution.  The default input of this cluster is no error.  If an error has already occurred, this VI does nothing.  The error in cluster contains the following parameters: 
+20733      (bool) status: TRUE if an error has occurred.
+20784      If status is TRUE, this VI does nothing.
+20831      (i32) code: the error code associated with an error.
+20889      A value of 0 means no error, a negative value is an
+20946      error, and a positive value is a warning.
+20994      (ABC) source:  an indication of where an 
+21041      error occurred, usually the name of the VI.
+21100 The status boolean is either TRUE (X) for an error, or FALSE (checkmark) for no error or a warning.
+21201 The pop-up option Explain Error (or Explain Warning) gives more information about the error displayed.
+21312 The code input identifies the error or warning.
+21361 The pop-up option Explain Error (or Explain Warning) gives more information about the error displayed.
+21472 The source string describes the origin of the error or warning.
+21537 The pop-up option Explain Error (or Explain Warning) gives more information about the error displayed.
+21647 creading rates: S0 - slow,  S1 - medium,  S2 - fast SRQ mode: Assert SRQ on completion of a reading.
+21755 3Range codes: R0 - R7 ( see front panel for details)
+21815 4Trigger modes: T0 - T4 (see front panel for details)
+21875 dFunction Codes: F1 - DC Volts, F2 - AC Volts, F3 - 2 wire k
+21936 , F4 - 4 wire k
+21952 , F5 - mA DC, F6 - mA AC
+23660 DTHP
+23897 trigger mode (cont:0)
+23937 function (Vdc:0)
+23973 range (auto:0)
+24005 measurement
+24033 code
+24059 Instr
+24065 instr handle in
+24097 status
+24127 status
+24139 code
+24153 source
+24161 error out
+24193 write buffer ("")
+24235 status
+24247 code
+24261 source
+24269 error in (no error)
+24304 return count
+24341 source
+24385 byte count (0)
+24437 read buffer
+24481 use system decimal point (T)
+24529 offset past number
+24936 digital multimeter
+25036 trigger mode (cont:0)
+25384 function (Vdc:0)
+25480 measurement
+25648 range (auto:0)
+25744 0.000000E+0
+25851 $4sO
+25997  Copyright 1993 National Instruments Corporation.  ALL RIGHTS RESERVED.
+26148 single trigger
+26244 mA DC
+26332 instr handle in
+26428 Instr
+26516 instr handle in
+26612 Instr
+26700 error out
+26792 status
+26811 "$rO
+26956 code
+27124 source
+27316 error in (no error)
+27416 status
+27580 code
+27748 source
+27846 D$sO
+27922 D$(sO
+27998 D$DsO
+28074 D$TsO
+28219 /Build command string and 
+28246 send it to multimeter
+28348 slow read(S0)
+28787 +Read measurement and 
+28810 convert it to numeric
+29253 continuous trigger
+29272 single trigger
+29287 external trigger
+29313 Volts DC
+29322 Volts AC
+29331 2-wire ohms
+29343 4-wire ohms
+29355 mA DC
+29361 mA AC
+29377 autorange
+29387 200mV, 200 ohms
+29403 2V, 2 kohms
+29415 20V, 20 kohms
+29429 200V, 200 kohms
+29445 1000Vdc, 700 Vac, 2 Mohms
+29471 20 Mohms
+29726 LLLLLL
+29896 ffff
+29904 ff33
+29944 33ff
+29952 3333
+30168 ffff
+30176 ff33
+30216 33ff
+30224 3333
+30456 ffff
+30464 ff33
+30504 33ff
+30512 3333
+30718 ffff
+30726 ffff
+30734 ffff
+30742 ffffff
+30750 ffff33
+30758 ffff
+30766 ff33
+30774 ff33
+30782 ff33
+30790 ff33ff
+30798 ff3333
+30806 ff33
+31006 33ff
+31014 33ff
+31022 33ff
+31030 33ffff
+31038 33ff33
+31046 33ff
+31054 3333
+31062 3333
+31070 3333
+31078 3333ff
+31086 333333
+31094 3333
+31304 ffff
+31312 ff33
+31352 33ff
+31360 3333
+31422 
+31454 """"""
+31462 ))))))
+31470 UUUUUU
+31478 MMMMMM
+31486 BBBBBB
+31494 999999
+31512 PPPP
+31685 66666666666666
+31701 66666666666666
+31717 666666666
+31733 66666666
+31749 6666666
+31765 6666666
+31781 666666
+31807 6666
+31823 6666
+31838 66666
+31854 66666
+31861 6666
+31869 666666
+31877 66666
+31884 6666666
+31893 66666666666666
+32082 LLLLLL
+32252 ffff
+32260 ff33
+32300 33ff
+32308 3333
+32524 ffff
+32532 ff33
+32572 33ff
+32580 3333
+32812 ffff
+32820 ff33
+32860 33ff
+32868 3333
+33074 ffff
+33082 ffff
+33090 ffff
+33098 ffffff
+33106 ffff33
+33114 ffff
+33122 ff33
+33130 ff33
+33138 ff33
+33146 ff33ff
+33154 ff3333
+33162 ff33
+33362 33ff
+33370 33ff
+33378 33ff
+33386 33ffff
+33394 33ff33
+33402 33ff
+33410 3333
+33418 3333
+33426 3333
+33434 3333ff
+33442 333333
+33450 3333
+33660 ffff
+33668 ff33
+33708 33ff
+33716 3333
+33778 
+33810 """"""
+33818 ))))))
+33826 UUUUUU
+33834 MMMMMM
+33842 BBBBBB
+33850 999999
+33868 PPPP
+34041 66666666666666
+34057 66666666666666
+34073 6666
+34121 6666
+34137 6666
+34147 6666
+34153 66666
+34162 66666
+34169 6666
+34179 6666
+34195 6666
+34243 6666
+34249 66666666666666
+34438 LLLLLL
+34608 ffff
+34616 ff33
+34656 33ff
+34664 3333
+34880 ffff
+34888 ff33
+34928 33ff
+34936 3333
+35168 ffff
+35176 ff33
+35216 33ff
+35224 3333
+35430 ffff
+35438 ffff
+35446 ffff
+35454 ffffff
+35462 ffff33
+35470 ffff
+35478 ff33
+35486 ff33
+35494 ff33
+35502 ff33ff
+35510 ff3333
+35518 ff33
+35718 33ff
+35726 33ff
+35734 33ff
+35742 33ffff
+35750 33ff33
+35758 33ff
+35766 3333
+35774 3333
+35782 3333
+35790 3333ff
+35798 333333
+35806 3333
+36016 ffff
+36024 ff33
+36064 33ff
+36072 3333
+36134 
+36166 """"""
+36174 ))))))
+36182 UUUUUU
+36190 MMMMMM
+36198 BBBBBB
+36206 999999
+36224 PPPP
+36397 66666666666666
+36413 66666666666666
+36429 666666666
+36445 66666666
+36461 6666666
+36477 6666666
+36493 666666
+36519 6666
+36535 6666
+36550 66666
+36566 66666
+36573 6666
+36581 666666
+36589 66666
+36596 6666666
+36605 66666666666666
+36794 LLLLLL
+36964 ffff
+36972 ff33
+37012 33ff
+37020 3333
+37236 ffff
+37244 ff33
+37284 33ff
+37292 3333
+37524 ffff
+37532 ff33
+37572 33ff
+37580 3333
+37786 ffff
+37794 ffff
+37802 ffff
+37810 ffffff
+37818 ffff33
+37826 ffff
+37834 ff33
+37842 ff33
+37850 ff33
+37858 ff33ff
+37866 ff3333
+37874 ff33
+38074 33ff
+38082 33ff
+38090 33ff
+38098 33ffff
+38106 33ff33
+38114 33ff
+38122 3333
+38130 3333
+38138 3333
+38146 3333ff
+38154 333333
+38162 3333
+38372 ffff
+38380 ff33
+38420 33ff
+38428 3333
+38490 
+38522 """"""
+38530 ))))))
+38538 UUUUUU
+38546 MMMMMM
+38554 BBBBBB
+38562 999999
+38580 PPPP
+38753 66666666666666
+38769 66666666666666
+38785 6666
+38833 6666
+38849 6666
+38859 6666
+38865 66666
+38874 66666
+38881 6666
+38891 6666
+38907 6666
+38955 6666
+38961 66666666666666
+38998 FPHP
+39003 Fluke 8840A.vi
+39036 FPHP
+39043 t(gO
+39303 HDiO
+47338 BDHP
+47343 Fluke 8840A.vi
+47370 +T @
+47376 BDHP
+58633 MS Sans Serif
+58647 MS Sans Serif
+58661 MS Sans Serif
+58680 RSRC
+58688 LVINLBVW
+58736 RSID
+58747 TLVIN
+58759 hBDPW
+58771 |LIvi
+58784 VICD
+58796 CPTM
+58808 DSTM
+58820 DFDS
+58832 LIds
+58844 vers
+58856 DLDR
+58868 FPTD
+58879 0CPMp
+58891 DSTRG
+58903 XICON
+58916 icl4
+58928 icl8
+58940 DTHP
+58952 TRec
+58963 $CPST
+58976 PICC
+58987 \DSIM
+59000 LIfp
+59012 FPHP
+59024 LIbd
+59035 $BDHP
+59047 8HIST
+59059 LFTAB
+59147 (OO
+59167 0D'O
+59226 @DX[O
+59786 \DP1O
+59886 blxNO
+59986 d |:O
+60926 s@dOO
+60966 s`L O
+61153 Fluke 8840A.vi

@@ -1,0 +1,24 @@
+55639:1f6afb Transfer aborted - Device not DOR
+55862:1f9e2c Transfer aborted - Device not DIR
+133097:1ffc5e ?NIScope_Abort_TheVirtualThing@daqDevice@@UAEJF@Z
+225998:3743b Transfer aborted - Device not DOR
+226226:3a8f4 Transfer aborted - Device not DIR
+292474:47a4 Transfer aborted - Device not DOR
+292703:7cc1 Transfer aborted - Device not DIR
+324595:3bb4 Transfer aborted - Device not DOR
+324825:7065 Transfer aborted - Device not DIR
+347443:26fb Transfer aborted - Device not DOR
+347671:5bb4 Transfer aborted - Device not DIR
+418103:2618 Transfer aborted - Device not DOR
+418332:5b35 Transfer aborted - Device not DIR
+452894:1000 Transfer aborted - Device not DOR
+453124:44b1 Transfer aborted - Device not DIR
+476659:26fb Transfer aborted - Device not DOR
+476887:5bb4 Transfer aborted - Device not DIR
+530571:2618 Transfer aborted - Device not DOR
+530800:5b35 Transfer aborted - Device not DIR
+560810:1000 Transfer aborted - Device not DOR
+561040:44b1 Transfer aborted - Device not DIR
+581382:2673 Transfer aborted - Device not DOR
+581610:5b2c Transfer aborted - Device not DIR
+638586:1ffc5e ?NIScope_Abort_TheVirtualThing@daqDevice@@UAEJF@Z

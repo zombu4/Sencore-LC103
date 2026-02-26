@@ -1,0 +1,45 @@
+COMPONENT TYPE COMMANDS es
+Command Description ee.
+ALM Aluminum Electroiytics ae
+. DBL Double Layer ne
+_ AN Tantalum Caps pe
+CER Ceramic Caps a
+— &OC All Other Caps a
+; HR : High Resistance Double Layer Lytics an
+_ COL Coils ;
+_ YFB Yokes and Flybacks
+
+Sv¥X Switching Transformers
+
+VALUE MULTIPLIERS .
+= Viesteae
+
+TEST FUNCTION COMMANDS
+
+CAP _Capacitorvalue
+
+iki Leakagecurent
+
+UKR_ ssid, séLeakageresistance =,
+
+ESR . _. _ . ., -Equivalentseriesresistance
+
+IND Inductance
+
+RIN ee | ‘Ringer “ | ~ _ ~ |
+
+cic | - 7 oo Capacitor in circuit ee
+
+EIC ESR in circuit
+
+WO "Inductance in circuit -
+
+GENERAL COMMANDS
+
+LO, sbeadzeroopen
+
+cPo _,_._Control panel on (front panel operation)
+
+CtrliR Continue taking/sending testdata
+
+Ctrl O Return a single reading, (default)

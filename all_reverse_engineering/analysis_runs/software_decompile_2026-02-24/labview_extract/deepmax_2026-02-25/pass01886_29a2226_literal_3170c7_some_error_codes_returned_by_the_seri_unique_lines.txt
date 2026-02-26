@@ -1,0 +1,1 @@
+74841:3170c7 Some error codes returned by the serial port VIs are platform-specific. Please refer to your system documentation for a list of error codes.

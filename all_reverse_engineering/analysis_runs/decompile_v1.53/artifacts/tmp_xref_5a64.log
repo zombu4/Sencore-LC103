@@ -1,0 +1,58 @@
+openjdk version "21.0.10" 2026-01-20 LTS
+OpenJDK Runtime Environment Temurin-21.0.10+7 (build 21.0.10+7-LTS)
+OpenJDK 64-Bit Server VM Temurin-21.0.10+7 (build 21.0.10+7-LTS, mixed mode)
+INFO  Using log config file: jar:file:/Users/<user>/Tools/ghidra_12.0.2_PUBLIC/Ghidra/Framework/Generic/lib/Generic.jar!/generic.log4j.xml (LoggingInitialization)  
+INFO  Using log file: /var/<user>/Library/ghidra/ghidra_12.0.2_PUBLIC/application.log (LoggingInitialization)  
+INFO  Loading user preferences: /var/<user>/Library/ghidra/ghidra_12.0.2_PUBLIC/preferences (Preferences)  
+INFO  Searching for classes... (ClassSearcher)  
+INFO  Class search complete (757 ms) (ClassSearcher)  
+INFO  Initializing SSL Context (DefaultSSLContextInitializer)  
+INFO  Initializing Random Number Generator... (SecureRandomFactory)  
+INFO  Random Number Generator initialization complete: NativePRNGNonBlocking (SecureRandomFactory)  
+INFO  Trust manager disabled, cacerts have not been set (DefaultTrustManagerFactory)  
+INFO  Headless startup complete (1472 ms) (AnalyzeHeadless)  
+INFO  Class searcher loaded 58 extension points (18 false positives) (ClassSearcher)  
+INFO  HEADLESS Script Paths:
+    /Users/<user>/Tools/ghidra_12.0.2_PUBLIC/Ghidra/Features/Decompiler/ghidra_scripts
+    /Users/<user>/Tools/ghidra_12.0.2_PUBLIC/Ghidra/Debug/Debugger/ghidra_scripts
+    /Users/<user>/Tools/ghidra_12.0.2_PUBLIC/Ghidra/Features/PDB/ghidra_scripts
+    /Users/<user>/Tools/ghidra_12.0.2_PUBLIC/Ghidra/Features/SystemEmulation/ghidra_scripts
+    /Users/<user>/Tools/ghidra_12.0.2_PUBLIC/Ghidra/Features/WildcardAssembler/ghidra_scripts
+    /Users/<user>/Tools/ghidra_12.0.2_PUBLIC/Ghidra/Processors/8051/ghidra_scripts
+    /Users/<user>/Tools/ghidra_12.0.2_PUBLIC/Ghidra/Features/PyGhidra/ghidra_scripts
+    /Users/<user>/Tools/ghidra_12.0.2_PUBLIC/Ghidra/Features/Base/ghidra_scripts
+    /Users/<user>/Tools/ghidra_12.0.2_PUBLIC/Ghidra/Processors/DATA/ghidra_scripts
+    /Users/<user>/Tools/ghidra_12.0.2_PUBLIC/Ghidra/Features/FileFormats/ghidra_scripts
+    /Users/<user>/Tools/ghidra_12.0.2_PUBLIC/Ghidra/Processors/PIC/ghidra_scripts
+    /Users/<user>/Tools/ghidra_12.0.2_PUBLIC/Ghidra/Features/Jython/ghidra_scripts
+    /Users/<user>/Tools/ghidra_12.0.2_PUBLIC/Ghidra/Features/GnuDemangler/ghidra_scripts
+    /Users/<user>/Tools/ghidra_12.0.2_PUBLIC/Ghidra/Debug/Debugger-rmi-trace/ghidra_scripts
+    /Users/<user>/Tools/ghidra_12.0.2_PUBLIC/Ghidra/Features/BytePatterns/ghidra_scripts
+    /Users/<user>/Tools/ghidra_12.0.2_PUBLIC/Ghidra/Features/FunctionID/ghidra_scripts
+    /Users/<user>/Tools/ghidra_12.0.2_PUBLIC/Ghidra/Processors/JVM/ghidra_scripts
+    /Users/<user>/Tools/ghidra_12.0.2_PUBLIC/Ghidra/Features/BSim/ghidra_scripts
+    /Users/<user>/Tools/ghidra_12.0.2_PUBLIC/Ghidra/Features/MicrosoftCodeAnalyzer/ghidra_scripts
+    /Users/<user>/Tools/ghidra_12.0.2_PUBLIC/Ghidra/Features/VersionTracking/ghidra_scripts
+    /Users/<user>/Tools/ghidra_12.0.2_PUBLIC/Ghidra/Features/DecompilerDependent/ghidra_scripts
+    /Users/<user>/Tools/ghidra_scripts
+    /Users/<user>/Tools/ghidra_12.0.2_PUBLIC/Ghidra/Processors/Atmel/ghidra_scripts
+    /Users/<user>/Tools/ghidra_12.0.2_PUBLIC/Ghidra/Features/SwiftDemangler/ghidra_scripts (HeadlessAnalyzer)  
+INFO  HEADLESS: execution starts (HeadlessAnalyzer)  
+INFO  Opening existing project: /Users/<user>/LC103/decompile_v1.53/ghidra_proj/lc103_bank1_boot (HeadlessAnalyzer)  
+INFO  Opening project: /Users/<user>/LC103/decompile_v1.53/ghidra_proj/lc103_bank1_boot (HeadlessProject)  
+ERROR Abort due to Headless analyzer error: ghidra.framework.store.LockException: Unable to lock project! /Users/<user>/LC103/decompile_v1.53/ghidra_proj/lc103_bank1_boot (HeadlessAnalyzer) java.io.IOException: ghidra.framework.store.LockException: Unable to lock project! /Users/<user>/LC103/decompile_v1.53/ghidra_proj/lc103_bank1_boot
+	at ghidra.app.util.headless.HeadlessAnalyzer.openProject(HeadlessAnalyzer.java:1815)
+	at ghidra.app.util.headless.HeadlessAnalyzer.processLocal(HeadlessAnalyzer.java:433)
+	at ghidra.app.util.headless.AnalyzeHeadless.launch(AnalyzeHeadless.java:199)
+	at ghidra.GhidraLauncher.launch(GhidraLauncher.java:81)
+	at ghidra.Ghidra.main(Ghidra.java:54)
+Caused by: ghidra.framework.store.LockException: Unable to lock project! /Users/<user>/LC103/decompile_v1.53/ghidra_proj/lc103_bank1_boot
+	at ghidra.framework.data.DefaultProjectData.getProjectLock(DefaultProjectData.java:354)
+	at ghidra.framework.data.DefaultProjectData.initLock(DefaultProjectData.java:324)
+	at ghidra.framework.data.DefaultProjectData.init(DefaultProjectData.java:316)
+	at ghidra.framework.data.DefaultProjectData.<init>(DefaultProjectData.java:119)
+	at ghidra.framework.project.DefaultProject.<init>(DefaultProject.java:116)
+	at ghidra.app.util.headless.HeadlessAnalyzer$HeadlessProject.<init>(HeadlessAnalyzer.java:1856)
+	at ghidra.app.util.headless.HeadlessAnalyzer.openProject(HeadlessAnalyzer.java:1809)
+	... 4 more
+ 

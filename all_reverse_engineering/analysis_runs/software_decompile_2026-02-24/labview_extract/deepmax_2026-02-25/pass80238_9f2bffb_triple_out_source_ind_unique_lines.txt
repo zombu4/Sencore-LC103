@@ -1,0 +1,16 @@
+52516:1bdd78 A wire must be connected to one and only one data source, such as a control's terminal or a function output. This wire is not connected to any source. Find the source of this data and make sure it is a control (not indicator) or an output (not input).
+52525:1be595 A wire can be connected to only one data source, such as a control's terminal or a function output. This wire is connected to more than one source. Make sure that all connections except one are to indicators (not controls) or inputs (not outputs).
+100209:49d388 source messages contains the source message you want to appear in the error out cluster if the VI finds an error in error codes. Place each message on a separate line in a string constant or control.
+101594:4b758d 2.source out indicates the source of the error.
+258563:214768 source messages contains the source message you want to appear in the error out cluster if the VI finds an error in error codes. Place each message on a separate line in a string constant or control.
+260027:230165 2.source out indicates the source of the error.
+314015:14dd82 2.source out indicates the source of the error.
+340498:ed365 2.source out indicates the source of the error.
+371461:183b1d 2.source out indicates the source of the error.
+373374:1a228f source messages contains the source message you want to appear in the error out cluster if the VI finds an error in error codes. Place each message on a separate line in a string constant or control.
+434162:f7740 2.source out indicates the source of the error.
+470141:106cc1 2.source out indicates the source of the error.
+504199:1e98e6 .source out indicates the source of the error.
+505539:200a14 source messages contains the source message you want to appear in the error out cluster if the VI finds an error in error codes. Place each message on a separate line in a string constant or control.
+546537:f6650 2.source out indicates the source of the error.
+579618:16d7a9 .source out indicates the source of the error.

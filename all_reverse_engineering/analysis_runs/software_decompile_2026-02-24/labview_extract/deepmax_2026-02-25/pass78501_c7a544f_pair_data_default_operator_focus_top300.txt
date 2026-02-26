@@ -1,0 +1,68 @@
+69913:2c7ee5 See the Data Acquisition VI Reference Manual for your platform for tables listing the default settings and ranges for this VI for the boards with which it will work.$
+70297:2ce5cc See the Data Acquisition VI Reference Manual for your platform for tables listing the default settings and ranges for this VI for the boards with which it will work.$
+70725:2d5ba0 See the Data Acquisition VI Reference Manual for your platform for tables listing the default settings and ranges for this VI for the boards with which it will work.$
+102678:4d2bc5 append to file. Set to TRUE if you want to append the data to a existing file; you can also set it TRUE to write to a new file. Set to FALSE (default value) if you want to write the data to a new file or to replace an existing file.
+102961:4d6387 append to file? Set to TRUE if you want to append the data to a existing file; you can also set it TRUE to write to a new file. Set to FALSE (default value) if you want to write the data to a new file or to replace an existing file.
+240513:10b519 See the Data Acquisition VI Reference Manual for your platform for tables listing the default settings and ranges for this VI for the boards with which it will work.$
+240653:10c96d See the Data Acquisition VI Reference Manual for your platform for tables listing the default settings and ranges for this VI for the boards with which it will work.
+240913:111edc See the Data Acquisition VI Reference Manual for your platform for tables listing the default settings and ranges for this VI for the boards with which it will work.$
+241080:1136e1 See the Data Acquisition VI Reference Manual for your platform for tables listing the default settings and ranges for this VI for the boards with which it will work.
+241358:1197b0 See the Data Acquisition VI Reference Manual for your platform for tables listing the default settings and ranges for this VI for the boards with which it will work.$
+241510:11b023 See the Data Acquisition VI Reference Manual for your platform for tables listing the default settings and ranges for this VI for the boards with which it will work.
+261117:24bb25 append to file. Set to TRUE if you want to append the data to a existing file; you can also set it TRUE to write to a new file. Set to FALSE (default value) if you want to write the data to a new file or to replace an existing file.
+261400:24f2e7 append to file? Set to TRUE if you want to append the data to a existing file; you can also set it TRUE to write to a new file. Set to FALSE (default value) if you want to write the data to a new file or to replace an existing file.
+261612:250998 append to file? Set to TRUE if you want to append the data to a existing file; you can also set it TRUE to write to a new file. Set to FALSE (default value) if you want to write the data to a new file or to replace an existing file.
+312955:137ca9 See the Data Acquisition VI Reference Manual for your platform for tables listing the default settings and ranges for this VI for the boards with which it will work.$
+313097:1390f5 See the Data Acquisition VI Reference Manual for your platform for tables listing the default settings and ranges for this VI for the boards with which it will work.
+313360:13e664 See the Data Acquisition VI Reference Manual for your platform for tables listing the default settings and ranges for this VI for the boards with which it will work.$
+313526:13fe5d See the Data Acquisition VI Reference Manual for your platform for tables listing the default settings and ranges for this VI for the boards with which it will work.
+313802:145f2c See the Data Acquisition VI Reference Manual for your platform for tables listing the default settings and ranges for this VI for the boards with which it will work.$
+313961:14778f See the Data Acquisition VI Reference Manual for your platform for tables listing the default settings and ranges for this VI for the boards with which it will work.
+339159:d1cd9 See the Data Acquisition VI Reference Manual for your platform for tables listing the default settings and ranges for this VI for the boards with which it will work.
+339422:d7187 See the Data Acquisition VI Reference Manual for your platform for tables listing the default settings and ranges for this VI for the boards with which it will work.$
+339564:d85cd See the Data Acquisition VI Reference Manual for your platform for tables listing the default settings and ranges for this VI for the boards with which it will work.
+339830:ddb3c See the Data Acquisition VI Reference Manual for your platform for tables listing the default settings and ranges for this VI for the boards with which it will work.$
+340004:df38b See the Data Acquisition VI Reference Manual for your platform for tables listing the default settings and ranges for this VI for the boards with which it will work.
+340289:e5453 See the Data Acquisition VI Reference Manual for your platform for tables listing the default settings and ranges for this VI for the boards with which it will work.$
+370472:168c7b append to file? Set to TRUE if you want to append the data to a existing file; you can also set it TRUE to write to a new file. Set to FALSE (default value) if you want to write the data to a new file or to replace an existing file.
+370477:16904b append to file. Set to TRUE if you want to append the data to a existing file; you can also set it TRUE to write to a new file. Set to FALSE (default value) if you want to write the data to a new file or to replace an existing file.
+402623:38f50d See the Data Acquisition VI Reference Manual for your platform for tables listing the default settings and ranges for this VI for the boards with which it will work.
+403993:3a3395 See the Data Acquisition VI Reference Manual for your platform for tables listing the default settings and ranges for this VI for the boards with which it will work.
+403996:3a34f9 See the Data Acquisition VI Reference Manual for your platform for tables listing the default settings and ranges for this VI for the boards with which it will work.
+403999:3a3683 See the Data Acquisition VI Reference Manual for your platform for tables listing the default settings and ranges for this VI for the boards with which it will work.
+404062:3a5c00 append to file? Set to TRUE if you want to append the data to a existing file; you can also set it TRUE to write to a new file. Set to FALSE (default value) if you want to write the data to a new file or to replace an existing file.
+435397:10daea See the Data Acquisition VI Reference Manual for your platform for tables listing the default settings and ranges for this VI for the boards with which it will work.
+443005:185781 See the Data Acquisition VI Reference Manual for your platform for tables listing the default settings and ranges for this VI for the boards with which it will work.
+443008:1858e5 See the Data Acquisition VI Reference Manual for your platform for tables listing the default settings and ranges for this VI for the boards with which it will work.
+443011:185a6f See the Data Acquisition VI Reference Manual for your platform for tables listing the default settings and ranges for this VI for the boards with which it will work.
+467321:cd357 See the Data Acquisition VI Reference Manual for your platform for tables listing the default settings and ranges for this VI for the boards with which it will work.
+467324:cd4b9 See the Data Acquisition VI Reference Manual for your platform for tables listing the default settings and ranges for this VI for the boards with which it will work.
+467327:cd619 See the Data Acquisition VI Reference Manual for your platform for tables listing the default settings and ranges for this VI for the boards with which it will work.
+468790:e390a See the Data Acquisition VI Reference Manual for your platform for tables listing the default settings and ranges for this VI for the boards with which it will work.
+503362:1cf98a append to file? Set to TRUE if you want to append the data to a existing file; you can also set it TRUE to write to a new file. Set to FALSE (default value) if you want to write the data to a new file or to replace an existing file.
+503507:1d0f37 append to file. Set to TRUE if you want to append the data to a existing file; you can also set it TRUE to write to a new file. Set to FALSE (default value) if you want to write the data to a new file or to replace an existing file.
+524969:38709b See the Data Acquisition VI Reference Manual for your platform for tables listing the default settings and ranges for this VI for the boards with which it will work.
+525274:38d4d5 See the Data Acquisition VI Reference Manual for your platform for tables listing the default settings and ranges for this VI for the boards with which it will work.
+525546:392e1f See the Data Acquisition VI Reference Manual for your platform for tables listing the default settings and ranges for this VI for the boards with which it will work.
+526796:3a8c01 See the Data Acquisition VI Reference Manual for your platform for tables listing the default settings and ranges for this VI for the boards with which it will work.
+526799:3a8d65 See the Data Acquisition VI Reference Manual for your platform for tables listing the default settings and ranges for this VI for the boards with which it will work.
+526802:3a8eef See the Data Acquisition VI Reference Manual for your platform for tables listing the default settings and ranges for this VI for the boards with which it will work.
+527399:3b484c append to file? Set to TRUE if you want to append the data to a existing file; you can also set it TRUE to write to a new file. Set to FALSE (default value) if you want to write the data to a new file or to replace an existing file.
+547772:10c9fa See the Data Acquisition VI Reference Manual for your platform for tables listing the default settings and ranges for this VI for the boards with which it will work.
+548934:121775 See the Data Acquisition VI Reference Manual for your platform for tables listing the default settings and ranges for this VI for the boards with which it will work.
+548937:1218d9 See the Data Acquisition VI Reference Manual for your platform for tables listing the default settings and ranges for this VI for the boards with which it will work.
+548940:121a63 See the Data Acquisition VI Reference Manual for your platform for tables listing the default settings and ranges for this VI for the boards with which it will work.
+577729:13cb6f See the Data Acquisition VI Reference Manual for your platform for tables listing the default settings and ranges for this VI for the boards with which it will work.
+577732:13ccd1 See the Data Acquisition VI Reference Manual for your platform for tables listing the default settings and ranges for this VI for the boards with which it will work.
+577735:13ce31 See the Data Acquisition VI Reference Manual for your platform for tables listing the default settings and ranges for this VI for the boards with which it will work.
+578308:147776 See the Data Acquisition VI Reference Manual for your platform for tables listing the default settings and ranges for this VI for the boards with which it will work.
+578603:14d40d See the Data Acquisition VI Reference Manual for your platform for tables listing the default settings and ranges for this VI for the boards with which it will work.
+578899:153386 See the Data Acquisition VI Reference Manual for your platform for tables listing the default settings and ranges for this VI for the boards with which it will work.
+596733:f3331 See the Data Acquisition VI Reference Manual for your platform for tables listing the default settings and ranges for this VI for the boards with which it will work.
+596736:f3495 See the Data Acquisition VI Reference Manual for your platform for tables listing the default settings and ranges for this VI for the boards with which it will work.
+596739:f361f See the Data Acquisition VI Reference Manual for your platform for tables listing the default settings and ranges for this VI for the boards with which it will work.
+596798:f5aac append to file? Set to TRUE if you want to append the data to a existing file; you can also set it TRUE to write to a new file. Set to FALSE (default value) if you want to write the data to a new file or to replace an existing file.
+598682:11293d See the Data Acquisition VI Reference Manual for your platform for tables listing the default settings and ranges for this VI for the boards with which it will work.
+598785:114795 See the Data Acquisition VI Reference Manual for your platform for tables listing the default settings and ranges for this VI for the boards with which it will work.
+598904:1165bf See the Data Acquisition VI Reference Manual for your platform for tables listing the default settings and ranges for this VI for the boards with which it will work.
+608420:1b6f6c append to file? Set to TRUE if you want to append the data to a existing file; you can also set it TRUE to write to a new file. Set to FALSE (default value) if you want to write the data to a new file or to replace an existing file.

@@ -1,0 +1,1 @@
+404059:3a5a44 Writes a character string to a new byte stream file or appends the string to an existing file.  The VI opens or creates the file beforehand and closes it afterwards.

@@ -1,0 +1,52 @@
+47399:160922 JExecutable version doesn't match resource file. Check your configuration.
+47453:160e9f Error %ld in OpenLogFile.
+52398:1bbe82 Opening old resource file.
+52427:1bc7be Can't allocate new path.$Can't open VI library resource file."Can't remove file from VI library.%Can't open file system resource file.
+52982:1cabb8 opens an existing file. Error 7 occurs if the file cannot be found.
+52985:1cad24 creates a new file. Error 8 occurs if the file already exists.
+54002:1dba6c 0 (open) opens an existing file. Error 7 occurs if the file cannot be found.
+54005:1dbc09 3 (create) creates a new file. Error 8 occurs if the file already exists.
+102678:4d2bc5 append to file. Set to TRUE if you want to append the data to a existing file; you can also set it TRUE to write to a new file. Set to FALSE (default value) if you want to write the data to a new file or to replace an existing file.
+113114:57ad07 Couldn't open the Software Rev. file. Please set the Software Rev. manually on the front panel. Place the flopply disk in the computer NOW.MD
+113119:57ae6e RCouldn't open the Software Rev. file. Place the flopply disk in the computer NOW.s
+113157:57b20c 'Last known LC103 Software Rev. is: VERRCouldn't open the Software Rev. file. Place the flopply disk in the computer NOW.
+113158:57b288 Couldn't open the Software Rev. file. Please set the Software Rev. manually on the front panel. Place the flopply disk in the computer NOW.
+223239:97e4 opens an existing file. Error 7 occurs if the file cannot be found.
+223242:9950 creates a new file. Error 8 occurs if the file already exists.
+224259:1a698 0 (open) opens an existing file. Error 7 occurs if the file cannot be found.
+224262:1a835 3 (create) creates a new file. Error 8 occurs if the file already exists.
+224495:1d3a4 0 (open) opens an existing file. Error 7 occurs if the file cannot be found.
+224498:1d541 3 (create) creates a new file. Error 8 occurs if the file already exists.
+261117:24bb25 append to file. Set to TRUE if you want to append the data to a existing file; you can also set it TRUE to write to a new file. Set to FALSE (default value) if you want to write the data to a new file or to replace an existing file.
+271657:2f5b87 Couldn't open the Software Rev. file. Please set the Software Rev. manually on the front panel. Place the flopply disk in the computer NOW.MD
+271662:2f5cee RCouldn't open the Software Rev. file. Place the flopply disk in the computer NOW.s
+271700:2f608c 'Last known LC103 Software Rev. is: VERRCouldn't open the Software Rev. file. Place the flopply disk in the computer NOW.
+271701:2f6108 Couldn't open the Software Rev. file. Please set the Software Rev. manually on the front panel. Place the flopply disk in the computer NOW.
+365904:122be5 Couldn't open the Software Rev. file. Please set the Software Rev. manually on the front panel. Place the flopply disk in the computer NOW.
+365905:122c78 xxxxRCouldn't open the Software Rev. file. Place the flopply disk in the computer NOW.'Last known LC103 Software Rev. is: VER
+366004:123cc3 Couldn't open the Software Rev. file. Please set the Software Rev. manually on the front panel. Place the flopply disk in the computer NOW.MD
+366009:123e1f ''RCouldn't open the Software Rev. file. Place the flopply disk in the computer NOW.s
+370477:16904b append to file. Set to TRUE if you want to append the data to a existing file; you can also set it TRUE to write to a new file. Set to FALSE (default value) if you want to write the data to a new file or to replace an existing file.
+372362:193862 =9EOF? is true if you try to read past the end of the file.40code is the error code; the default value is 0.
+394242:30c5d8 0 (open) opens an existing file. Error 7 occurs if the file cannot be found.
+394245:30c775 3 (create) creates a new file. Error 8 occurs if the file already exists.
+406178:3cb8a8 0 (open) opens an existing file. Error 7 occurs if the file cannot be found.
+406181:3cba45 3 (create) creates a new file. Error 8 occurs if the file already exists.
+406200:3cc6d7 opens an existing file. Error 7 occurs if the file cannot be found.
+406203:3cc843 creates a new file. Error 8 occurs if the file already exists.
+413277:43dc29 Capacitance Box Cal Data File.
+495584:13c1f5 Couldn't open the Software Rev. file. Please set the Software Rev. manually on the front panel. Place the flopply disk in the computer NOW.
+495585:13c288 xxxxRCouldn't open the Software Rev. file. Place the flopply disk in the computer NOW.'Last known LC103 Software Rev. is: VER
+503507:1d0f37 append to file. Set to TRUE if you want to append the data to a existing file; you can also set it TRUE to write to a new file. Set to FALSE (default value) if you want to write the data to a new file or to replace an existing file.
+520834:33bed0 0 (open) opens an existing file. Error 7 occurs if the file cannot be found.
+520837:33c06d 3 (create) creates a new file. Error 8 occurs if the file already exists.
+528192:3c800f 0 (open) opens an existing file. Error 7 occurs if the file cannot be found.
+528195:3c81ac 3 (create) creates a new file. Error 8 occurs if the file already exists.
+528604:3cc9d3 opens an existing file. Error 7 occurs if the file cannot be found.
+528607:3ccb3f creates a new file. Error 8 occurs if the file already exists.
+595368:d5248 0 (open) opens an existing file. Error 7 occurs if the file cannot be found.
+595371:d53e5 3 (create) creates a new file. Error 8 occurs if the file already exists.
+595857:e222b 0 (open) opens an existing file. Error 7 occurs if the file cannot be found.
+595860:e23c8 3 (create) creates a new file. Error 8 occurs if the file already exists.
+596269:e6bef opens an existing file. Error 7 occurs if the file cannot be found.
+596272:e6d5b creates a new file. Error 8 occurs if the file already exists.

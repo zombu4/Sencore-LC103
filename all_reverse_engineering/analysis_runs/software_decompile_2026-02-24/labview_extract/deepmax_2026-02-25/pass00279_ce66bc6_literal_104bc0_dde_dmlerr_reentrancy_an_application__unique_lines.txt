@@ -1,0 +1,1 @@
+470077:104bc0 DDE DMLERR_REENTRANCY: An application instance with a synchronous transaction already in progress attempted to initiate another synchronous transaction, or the DdeEnableCallback function was called from within a DDEML call function.

@@ -1,0 +1,186 @@
+44472:125bb3 AbortedUnloadObject
+46976:15e65e PostedProcEventHandler: PostedProc was aborted before we got here.
+46977:15e6a1 PostedProcEventHandler: PostedProc was aborted while being handled.
+48022:163933 load aborted during broadcast, h %lx, err %lx, fence %lx
+51110:18cb27 Print aborted
+51122:18cc1e Device call aborted
+51140:18cddf Connection aborted
+52016:1b8c67 Print aborted.
+52024:1b8db3 Device call aborted.
+52037:1b8fa2 Network is down or unreachable.$Network address is currently in use.;Not enough system memory to complete the network operation.3System caused the network connection to be aborted.
+53102:1cca21 Print Aborted
+53114:1ccb11 Device Call Aborted
+53146:1ccd4c Print Aborted
+53158:1cce3c Device Call Aborted
+53190:1cd077 Print Aborted
+53202:1cd167 Device Call Aborted
+53234:1cd3a2 Print Aborted
+53246:1cd492 Device Call Aborted
+53278:1cd6c5 Print Aborted
+53290:1cd7b5 Device Call Aborted
+53309:1cd94a Connection aborted
+55639:1f6afb Transfer aborted - Device not DOR
+55862:1f9e2c Transfer aborted - Device not DIR
+57200:212550 -I/O operation aborted
+57998:22054a -I/O operation aborted
+84740:3b7b8c Reset Aborted.Y
+84753:3b7e05 Reset Aborted.Y
+90488:415edb Reset Aborted.V
+90553:416515 Reset Aborted.
+99577:492ba5 Print Aborted
+99589:492c95 Device Call Aborted
+99621:492ed0 Print Aborted
+99633:492fc0 Device Call Aborted
+101111:4abafa Print Aborted
+101123:4abbea Device Call Aborted
+102470:4cdafa GPIB: EABO: I/O operation aborted.9LabVIEW: File not found.
+102489:4cdfb2 LabVIEW: Print aborted.?LabVIEW: Bad print record.
+102497:4ce19c GPIB EMOM: Out of memory (MacBus read or write).VLabVIEW: Device call aborted.
+102508:4ce5bb qTCP ncSysConnAbortedErr: The system caused the connection to be aborted.
+223359:b64d Print Aborted
+223371:b73d Device Call Aborted
+223403:b978 Print Aborted
+223415:ba68 Device Call Aborted
+223447:bca3 Print Aborted
+223459:bd93 Device Call Aborted
+223491:bfce Print Aborted
+223503:c0be Device Call Aborted
+223535:c2f1 Print Aborted
+223547:c3e1 Device Call Aborted
+223566:c576 Connection aborted
+225998:3743b Transfer aborted - Device not DOR
+226226:3a8f4 Transfer aborted - Device not DIR
+227591:535a8 -I/O operation aborted
+228405:61836 -I/O operation aborted
+252215:1c4a98 Reset Aborted.Y
+252228:1c4d11 Reset Aborted.Y
+257907:2094d1 Print Aborted
+257919:2095c1 Device Call Aborted
+257951:2097fc Print Aborted
+257963:2098ec Device Call Aborted
+259508:223baa Print Aborted
+259520:223c9a Device Call Aborted
+260903:2466d2 GPIB: EABO: I/O operation aborted.9LabVIEW: File not found.
+260922:246b8a LabVIEW: Print aborted.?LabVIEW: Bad print record.
+260930:246d74 GPIB EMOM: Out of memory (MacBus read or write).VLabVIEW: Device call aborted.
+260941:247193 qTCP ncSysConnAbortedErr: The system caused the connection to be aborted.
+285563:3e5377 Reset Aborted.V
+285628:3e59b1 Reset Aborted.
+292474:47a4 Transfer aborted - Device not DOR
+292703:7cc1 Transfer aborted - Device not DIR
+294074:20939 -I/O operation aborted
+294900:2eb83 -I/O operation aborted
+314911:1642a3 GPIB: EABO: I/O operation aborted.9LabVIEW: File not found.
+314930:16475b LabVIEW: Print aborted.?LabVIEW: Bad print record.
+314938:164945 GPIB EMOM: Out of memory (MacBus read or write).VLabVIEW: Device call aborted.
+314949:164d64 qTCP ncSysConnAbortedErr: The system caused the connection to be aborted.
+324595:3bb4 Transfer aborted - Device not DOR
+324825:7065 Transfer aborted - Device not DIR
+326241:1fc31 -I/O operation aborted
+327094:2de6b -I/O operation aborted
+341388:103873 GPIB: EABO: I/O operation aborted.9LabVIEW: File not found.
+341407:103d2b LabVIEW: Print aborted.?LabVIEW: Bad print record.
+341415:103f15 GPIB EMOM: Out of memory (MacBus read or write).VLabVIEW: Device call aborted.
+341426:104334 qTCP ncSysConnAbortedErr: The system caused the connection to be aborted.
+347443:26fb Transfer aborted - Device not DOR
+347671:5bb4 Transfer aborted - Device not DIR
+349036:1e868 -I/O operation aborted
+349850:2caf6 -I/O operation aborted
+371341:1800f4 GPIB: EABO: I/O operation aborted.9LabVIEW: File not found.
+371360:1805ac LabVIEW: Print aborted.?LabVIEW: Bad print record.
+371368:180796 GPIB EMOM: Out of memory (MacBus read or write).VLabVIEW: Device call aborted.
+371379:180bb5 qTCP ncSysConnAbortedErr: The system caused the connection to be aborted.
+372477:19482e Print Aborted
+372489:19491e Device Call Aborted
+374177:1af5a0 Print Aborted
+374189:1af690 Device Call Aborted
+374221:1af8cb Print Aborted
+374233:1af9bb Device Call Aborted
+385916:267f98 Reset Aborted.
+386353:26c100 Reset Aborted.V
+387804:29b265 Reset Aborted.Y
+387817:29b4cb Reset Aborted.Y
+406387:3ce71b Print Aborted
+406399:3ce80b Device Call Aborted
+406431:3cea46 Print Aborted
+406443:3ceb36 Device Call Aborted
+406475:3ced71 Print Aborted
+406487:3cee61 Device Call Aborted
+406519:3cf09c Print Aborted
+406531:3cf18c Device Call Aborted
+406563:3cf3bf Print Aborted
+406575:3cf4af Device Call Aborted
+406594:3cf644 Connection aborted
+418103:2618 Transfer aborted - Device not DOR
+418332:5b35 Transfer aborted - Device not DIR
+419703:1e7ad -I/O operation aborted
+420529:2c9f7 -I/O operation aborted
+434042:f3d17 GPIB: EABO: I/O operation aborted.9LabVIEW: File not found.
+434061:f41cf LabVIEW: Print aborted.?LabVIEW: Bad print record.
+434069:f43b9 GPIB EMOM: Out of memory (MacBus read or write).VLabVIEW: Device call aborted.
+434080:f47d8 qTCP ncSysConnAbortedErr: The system caused the connection to be aborted.
+452894:1000 Transfer aborted - Device not DOR
+453124:44b1 Transfer aborted - Device not DIR
+454540:1d07d -I/O operation aborted
+455393:2b2b7 -I/O operation aborted
+470021:103298 GPIB: EABO: I/O operation aborted.9LabVIEW: File not found.
+470040:103750 LabVIEW: Print aborted.?LabVIEW: Bad print record.
+470048:10393a GPIB EMOM: Out of memory (MacBus read or write).VLabVIEW: Device call aborted.
+470059:103d59 qTCP ncSysConnAbortedErr: The system caused the connection to be aborted.
+476659:26fb Transfer aborted - Device not DOR
+476887:5bb4 Transfer aborted - Device not DIR
+478252:1e868 -I/O operation aborted
+479066:2caf6 -I/O operation aborted
+503851:1e1095 GPIB: EABO: I/O operation aborted.9LabVIEW: File not found.
+503870:1e154d LabVIEW: Print aborted.?LabVIEW: Bad print record.
+503878:1e1737 GPIB EMOM: Out of memory (MacBus read or write).VLabVIEW: Device call aborted.
+503889:1e1b56 qTCP ncSysConnAbortedErr: The system caused the connection to be aborted.
+504866:1f4653 Print Aborted
+504878:1f4743 Device Call Aborted
+506006:209340 Print Aborted
+506018:209430 Device Call Aborted
+506050:20966b Print Aborted
+506062:20975b Device Call Aborted
+513249:28e29d Reset Aborted.
+528364:3ca34d Print Aborted
+528376:3ca43d Device Call Aborted
+528408:3ca678 Print Aborted
+528420:3ca768 Device Call Aborted
+528452:3ca9a3 Print Aborted
+528464:3caa93 Device Call Aborted
+528496:3cacce Print Aborted
+528508:3cadbe Device Call Aborted
+528540:3caff1 Print Aborted
+528552:3cb0e1 Device Call Aborted
+528571:3cb276 Connection aborted
+530571:2618 Transfer aborted - Device not DOR
+530800:5b35 Transfer aborted - Device not DIR
+532171:1e7ad -I/O operation aborted
+532997:2c9f7 -I/O operation aborted
+546417:f2c27 GPIB: EABO: I/O operation aborted.9LabVIEW: File not found.
+546436:f30df LabVIEW: Print aborted.?LabVIEW: Bad print record.
+546444:f32c9 GPIB EMOM: Out of memory (MacBus read or write).VLabVIEW: Device call aborted.
+546455:f36e8 qTCP ncSysConnAbortedErr: The system caused the connection to be aborted.
+560810:1000 Transfer aborted - Device not DOR
+561040:44b1 Transfer aborted - Device not DIR
+562456:1d07d -I/O operation aborted
+563309:2b2b7 -I/O operation aborted
+579270:164f59 GPIB: EABO: I/O operation aborted.9LabVIEW: File not found.
+579289:165411 LabVIEW: Print aborted.?LabVIEW: Bad print record.
+579297:1655fb GPIB EMOM: Out of memory (MacBus read or write).VLabVIEW: Device call aborted.
+579308:165a1a qTCP ncSysConnAbortedErr: The system caused the connection to be aborted.
+581382:2673 Transfer aborted - Device not DOR
+581610:5b2c Transfer aborted - Device not DIR
+582975:1e7e0 -I/O operation aborted
+583789:2ca6e -I/O operation aborted
+596029:e4569 Print Aborted
+596041:e4659 Device Call Aborted
+596073:e4894 Print Aborted
+596085:e4984 Device Call Aborted
+596117:e4bbf Print Aborted
+596129:e4caf Device Call Aborted
+596161:e4eea Print Aborted
+596173:e4fda Device Call Aborted
+596205:e520d Print Aborted
+596217:e52fd Device Call Aborted
+596236:e5492 Connection aborted

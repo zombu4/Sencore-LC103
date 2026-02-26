@@ -1,0 +1,12 @@
+52539:1bf374 There is no library specified for this node. Pop up on the Call Library Function node and select Configure..., then choose a library name or path.
+52540:1bf407 There is no function name specified for this node. Pop up on the Call Library Function node and select Configure..., then choose a function name.
+52541:1bf499 The library specified for this node cannot be found. Pop up on the Call Library Function node and select Configure..., then choose the correct library name or path.
+75177:31bd84 D@Initializes the selected serial port to the specified settings.
+245487:15a438 D@Initializes the selected serial port to the specified settings.
+245676:15b68f @Initializes the selected serial port to the specified settings.
+397587:33efaf D@Initializes the selected serial port to the specified settings.
+404005:3a3993 @Initializes the selected serial port to the specified settings.
+522173:3541ec D@Initializes the selected serial port to the specified settings.
+527342:3b25df @Initializes the selected serial port to the specified settings.
+596741:f383f @Initializes the selected serial port to the specified settings.
+600231:12cbab @Initializes the selected serial port to the specified settings.

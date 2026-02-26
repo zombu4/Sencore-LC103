@@ -1,0 +1,50 @@
+57172:212169 status is a Boolean array in which each bit describes a state of the GPIB Controller. If an error occurs, the GPIB VIs set bit 15. GPIB error is valid only if bit 15 of status is set.
+58011:2206f4 status is a Boolean array in which each bit describes a state of the GPIB Controller. If an error occurs, the GPIB VIs set bit 15. GPIB error is valid only if bit 15 of status is set.
+227563:531c1 status is a Boolean array in which each bit describes a state of the GPIB Controller. If an error occurs, the GPIB VIs set bit 15. GPIB error is valid only if bit 15 of status is set.
+228418:619e0 status is a Boolean array in which each bit describes a state of the GPIB Controller. If an error occurs, the GPIB VIs set bit 15. GPIB error is valid only if bit 15 of status is set.
+294046:20552 status is a Boolean array in which each bit describes a state of the GPIB Controller. If an error occurs, the GPIB VIs set bit 15. GPIB error is valid only if bit 15 of status is set.
+294913:2ed2d status is a Boolean array in which each bit describes a state of the GPIB Controller. If an error occurs, the GPIB VIs set bit 15. GPIB error is valid only if bit 15 of status is set.
+326213:1f84a status is a Boolean array in which each bit describes a state of the GPIB Controller. If an error occurs, the GPIB VIs set bit 15. GPIB error is valid only if bit 15 of status is set.
+327107:2e015 status is a Boolean array in which each bit describes a state of the GPIB Controller. If an error occurs, the GPIB VIs set bit 15. GPIB error is valid only if bit 15 of status is set.
+349008:1e481 status is a Boolean array in which each bit describes a state of the GPIB Controller. If an error occurs, the GPIB VIs set bit 15. GPIB error is valid only if bit 15 of status is set.
+349863:2cca0 status is a Boolean array in which each bit describes a state of the GPIB Controller. If an error occurs, the GPIB VIs set bit 15. GPIB error is valid only if bit 15 of status is set.
+361416:d3b61 The status boolean is either TRUE (X) for an error, or FALSE (checkmark) for no error or a warning.
+361430:d3fda The status boolean is either TRUE (X) for an error, or FALSE (checkmark) for no error or a warning.
+403397:39c5b9 The status boolean is either TRUE (X) for an error, or FALSE (checkmark) for no error or a warning.
+403410:39ca5f The status boolean is either TRUE (X) for an error, or FALSE (checkmark) for no error or a warning.
+417605:4dd8 The status boolean is either TRUE (X) for an error, or FALSE (checkmark) for no error or a warning.
+417619:526c The status boolean is either TRUE (X) for an error, or FALSE (checkmark) for no error or a warning.
+419675:1e3c6 status is a Boolean array in which each bit describes a state of the GPIB Controller. If an error occurs, the GPIB VIs set bit 15. GPIB error is valid only if bit 15 of status is set.
+420542:2cba1 status is a Boolean array in which each bit describes a state of the GPIB Controller. If an error occurs, the GPIB VIs set bit 15. GPIB error is valid only if bit 15 of status is set.
+443243:18971c The status boolean is either TRUE (X) for an error, or FALSE (checkmark) for no error or a warning.
+443256:189bc2 The status boolean is either TRUE (X) for an error, or FALSE (checkmark) for no error or a warning.
+443879:191ff0 The status boolean is either TRUE (X) for an error, or FALSE (checkmark) for no error or a warning.
+443893:192469 The status boolean is either TRUE (X) for an error, or FALSE (checkmark) for no error or a warning.
+454512:1cc96 status is a Boolean array in which each bit describes a state of the GPIB Controller. If an error occurs, the GPIB VIs set bit 15. GPIB error is valid only if bit 15 of status is set.
+455406:2b461 status is a Boolean array in which each bit describes a state of the GPIB Controller. If an error occurs, the GPIB VIs set bit 15. GPIB error is valid only if bit 15 of status is set.
+466586:c4a60 The status boolean is either TRUE (X) for an error, or FALSE (checkmark) for no error or a warning.
+466599:c4f06 The status boolean is either TRUE (X) for an error, or FALSE (checkmark) for no error or a warning.
+467704:d31d8 The status boolean is either TRUE (X) for an error, or FALSE (checkmark) for no error or a warning.
+467718:d3651 The status boolean is either TRUE (X) for an error, or FALSE (checkmark) for no error or a warning.
+478224:1e481 status is a Boolean array in which each bit describes a state of the GPIB Controller. If an error occurs, the GPIB VIs set bit 15. GPIB error is valid only if bit 15 of status is set.
+479079:2cca0 status is a Boolean array in which each bit describes a state of the GPIB Controller. If an error occurs, the GPIB VIs set bit 15. GPIB error is valid only if bit 15 of status is set.
+526214:39e249 The status boolean is either TRUE (X) for an error, or FALSE (checkmark) for no error or a warning.
+526230:39e7d2 The status boolean is either TRUE (X) for an error, or FALSE (checkmark) for no error or a warning.
+526560:3a4887 The status boolean is either TRUE (X) for an error, or FALSE (checkmark) for no error or a warning.
+526571:3a4d32 The status boolean is either TRUE (X) for an error, or FALSE (checkmark) for no error or a warning.
+530073:4dd8 The status boolean is either TRUE (X) for an error, or FALSE (checkmark) for no error or a warning.
+530087:526c The status boolean is either TRUE (X) for an error, or FALSE (checkmark) for no error or a warning.
+532143:1e3c6 status is a Boolean array in which each bit describes a state of the GPIB Controller. If an error occurs, the GPIB VIs set bit 15. GPIB error is valid only if bit 15 of status is set.
+533010:2cba1 status is a Boolean array in which each bit describes a state of the GPIB Controller. If an error occurs, the GPIB VIs set bit 15. GPIB error is valid only if bit 15 of status is set.
+549172:125710 The status boolean is either TRUE (X) for an error, or FALSE (checkmark) for no error or a warning.
+549185:125bb6 The status boolean is either TRUE (X) for an error, or FALSE (checkmark) for no error or a warning.
+549808:12dfe4 The status boolean is either TRUE (X) for an error, or FALSE (checkmark) for no error or a warning.
+549822:12e45d The status boolean is either TRUE (X) for an error, or FALSE (checkmark) for no error or a warning.
+562428:1cc96 status is a Boolean array in which each bit describes a state of the GPIB Controller. If an error occurs, the GPIB VIs set bit 15. GPIB error is valid only if bit 15 of status is set.
+563322:2b461 status is a Boolean array in which each bit describes a state of the GPIB Controller. If an error occurs, the GPIB VIs set bit 15. GPIB error is valid only if bit 15 of status is set.
+574496:c4a08 The status boolean is either TRUE (X) for an error, or FALSE (checkmark) for no error or a warning.
+574509:c4eae The status boolean is either TRUE (X) for an error, or FALSE (checkmark) for no error or a warning.
+578018:142609 The status boolean is either TRUE (X) for an error, or FALSE (checkmark) for no error or a warning.
+578029:142ab4 The status boolean is either TRUE (X) for an error, or FALSE (checkmark) for no error or a warning.
+582947:1e3f9 status is a Boolean array in which each bit describes a state of the GPIB Controller. If an error occurs, the GPIB VIs set bit 15. GPIB error is valid only if bit 15 of status is set.
+583802:2cc18 status is a Boolean array in which each bit describes a state of the GPIB Controller. If an error occurs, the GPIB VIs set bit 15. GPIB error is valid only if bit 15 of status is set.

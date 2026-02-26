@@ -1,0 +1,82 @@
+48222:165d4f vThis button sets the Abort minimum to its default value.  You can not change the Abort minimum if this box is checked.
+48225:165e7b tThis button sets the Warn minimum to its default value.  You can not change the Warn minimum if this box is checked.
+48231:166060 This button sets the currently displayed path to its default value.  You can not change the currently displayed path if this box is checked.
+48232:1660f0 This box displays the current value for the path that is selected in the path menu.  You can not change the current path is "Use Default" is checked.
+48252:16663b eThis button sets colors to their default values.  Colors can not be changed when this box is checked.
+50007:17ab63 %Show warnings in error box by default
+50009:17abd0 %Show warnings in error box by default
+52992:1caf39 `\default name is the initial file name that appears in the selection box of the file dialog.
+54000:1db968 file path is the path name of the file.  If file path is empty (default value) or is Not A Path, the VI displays a File dialog box from which you can select a file.  Error 43 occurs if the user cancels the dialog.     
+54008:1dbd46 default name is the initial file name that appears in the selection box of the file dialog.
+99473:491225 `\default name is the initial file name that appears in the selection box of the file dialog.
+100015:49a087 file path is the path name of the file.  If file path is empty (default value) or is Not A Path, the VI displays a File dialog box from which you can select a file.  Error 43 occurs if the user cancels the dialog.     
+100018:49a21a default name is the initial file name that appears in the selection box of the file dialog.
+102675:4d29cc file path is the path name of the file. If file path is empty (default value) or is Not A Path, the VI displays a File dialog box from which you can select a file. Error 43 occurs if the user cancels the dialog.
+102959:4d6272 file path is the path name of the file.  If file path is empty (default value) or is Not A Path, the VI displays a File dialog box from which you can select a file.  Error 43 occurs if the user cancels the dialog.     
+111785:565409 file path is the path name of the file. If file path is empty (default value) or is Not A Path, the VI displays a File dialog box from which you can select a file. Error 43 occurs if the user cancels the dialog.
+112345:56c24f file path is the path name of the file.  If file path is empty (default value) or is Not A Path, the VI displays a File dialog box from which you can select a file.  Error 43 occurs if the user cancels the dialog.     
+223249:9b65 `\default name is the initial file name that appears in the selection box of the file dialog.
+224257:1a594 file path is the path name of the file.  If file path is empty (default value) or is Not A Path, the VI displays a File dialog box from which you can select a file.  Error 43 occurs if the user cancels the dialog.     
+224265:1a972 default name is the initial file name that appears in the selection box of the file dialog.
+224493:1d2a0 file path is the path name of the file.  If file path is empty (default value) or is Not A Path, the VI displays a File dialog box from which you can select a file.  Error 43 occurs if the user cancels the dialog.     
+224501:1d67e default name is the initial file name that appears in the selection box of the file dialog.
+257803:207b51 `\default name is the initial file name that appears in the selection box of the file dialog.
+258345:2109b3 file path is the path name of the file.  If file path is empty (default value) or is Not A Path, the VI displays a File dialog box from which you can select a file.  Error 43 occurs if the user cancels the dialog.     
+258348:210b46 default name is the initial file name that appears in the selection box of the file dialog.
+258528:21273d file path is the path name of the file.  If file path is empty (default value) or is Not A Path, the VI displays a File dialog box from which you can select a file.  Error 43 occurs if the user cancels the dialog.     
+258531:2128d0 default name is the initial file name that appears in the selection box of the file dialog.
+261114:24b92c file path is the path name of the file. If file path is empty (default value) or is Not A Path, the VI displays a File dialog box from which you can select a file. Error 43 occurs if the user cancels the dialog.
+261398:24f1d2 file path is the path name of the file.  If file path is empty (default value) or is Not A Path, the VI displays a File dialog box from which you can select a file.  Error 43 occurs if the user cancels the dialog.     
+261610:250883 file path is the path name of the file.  If file path is empty (default value) or is Not A Path, the VI displays a File dialog box from which you can select a file.  Error 43 occurs if the user cancels the dialog.     
+270314:2dfb5d file path is the path name of the file. If file path is empty (default value) or is Not A Path, the VI displays a File dialog box from which you can select a file. Error 43 occurs if the user cancels the dialog.
+270874:2e69a3 file path is the path name of the file.  If file path is empty (default value) or is Not A Path, the VI displays a File dialog box from which you can select a file.  Error 43 occurs if the user cancels the dialog.     
+271321:2e91a6 file path is the path name of the file.  If file path is empty (default value) or is Not A Path, the VI displays a File dialog box from which you can select a file.  Error 43 occurs if the user cancels the dialog.     
+366631:130615 file path is the path name of the file.  If file path is empty (default value) or is Not A Path, the VI displays a File dialog box from which you can select a file.  Error 43 occurs if the user cancels the dialog.     
+366643:130f0e file path is the path name of the file. If file path is empty (default value) or is Not A Path, the VI displays a File dialog box from which you can select a file. Error 43 occurs if the user cancels the dialog.
+370470:168b66 file path is the path name of the file.  If file path is empty (default value) or is Not A Path, the VI displays a File dialog box from which you can select a file.  Error 43 occurs if the user cancels the dialog.     
+370474:168e52 file path is the path name of the file. If file path is empty (default value) or is Not A Path, the VI displays a File dialog box from which you can select a file. Error 43 occurs if the user cancels the dialog.
+374015:1ad46c file path is the path name of the file.  If file path is empty (default value) or is Not A Path, the VI displays a File dialog box from which you can select a file.  Error 43 occurs if the user cancels the dialog.     
+374018:1ad5ff default name is the initial file name that appears in the selection box of the file dialog.
+374029:1ade3d `\default name is the initial file name that appears in the selection box of the file dialog.
+394240:30c4d4 file path is the path name of the file.  If file path is empty (default value) or is Not A Path, the VI displays a File dialog box from which you can select a file.  Error 43 occurs if the user cancels the dialog.     
+394248:30c8b2 default name is the initial file name that appears in the selection box of the file dialog.
+404021:3a3dbd file path is the path name of the file.  If file path is empty (default value) or is Not A Path, the VI displays a File dialog box from which you can select a file.  Error 43 occurs if the user cancels the dialog.     
+404024:3a3f50 default name is the initial file name that appears in the selection box of the file dialog.
+404060:3a5aeb file path is the path name of the file.  If file path is empty (default value) or is Not A Path, the VI displays a File dialog box from which you can select a file.  Error 43 occurs if the user cancels the dialog.     
+404096:3a67aa file path is the path name of the file.  If file path is empty (default value) or is Not A Path, the VI displays a File dialog box from which you can select a file.  Error 43 occurs if the user cancels the dialog.     
+406176:3cb7a4 file path is the path name of the file.  If file path is empty (default value) or is Not A Path, the VI displays a File dialog box from which you can select a file.  Error 43 occurs if the user cancels the dialog.     
+406184:3cbb82 default name is the initial file name that appears in the selection box of the file dialog.
+406195:3cc3d5 `\default name is the initial file name that appears in the selection box of the file dialog.
+406198:3cc5d6 file path is the path name of the file. If file path is empty (default value) or is Not A Path, the VI displays a File dialog box from which you can select a file. Error 43 occurs if the user cancels the dialog.
+496230:149ab1 file path is the path name of the file.  If file path is empty (default value) or is Not A Path, the VI displays a File dialog box from which you can select a file.  Error 43 occurs if the user cancels the dialog.     
+496400:14ba08 file path is the path name of the file. If file path is empty (default value) or is Not A Path, the VI displays a File dialog box from which you can select a file. Error 43 occurs if the user cancels the dialog.
+503360:1cf875 file path is the path name of the file.  If file path is empty (default value) or is Not A Path, the VI displays a File dialog box from which you can select a file.  Error 43 occurs if the user cancels the dialog.     
+503504:1d0c4f file path is the path name of the file. If file path is empty (default value) or is Not A Path, the VI displays a File dialog box from which you can select a file. Error 43 occurs if the user cancels the dialog.
+505861:207b61 file path is the path name of the file.  If file path is empty (default value) or is Not A Path, the VI displays a File dialog box from which you can select a file.  Error 43 occurs if the user cancels the dialog.     
+505864:207cf4 default name is the initial file name that appears in the selection box of the file dialog.
+506074:20a523 \default name is the initial file name that appears in the selection box of the file dialog.
+506082:20ab0d file path is the path name of the file. If file path is empty (default value) or is Not A Path, the VI displays a File dialog box from which you can select a file. Error 43 occurs if the user cancels the dialog.   <#
+520832:33bdcc file path is the path name of the file.  If file path is empty (default value) or is Not A Path, the VI displays a File dialog box from which you can select a file.  Error 43 occurs if the user cancels the dialog.     
+520840:33c1aa default name is the initial file name that appears in the selection box of the file dialog.
+527358:3b2a09 file path is the path name of the file.  If file path is empty (default value) or is Not A Path, the VI displays a File dialog box from which you can select a file.  Error 43 occurs if the user cancels the dialog.     
+527361:3b2b9c default name is the initial file name that appears in the selection box of the file dialog.
+527397:3b4737 file path is the path name of the file.  If file path is empty (default value) or is Not A Path, the VI displays a File dialog box from which you can select a file.  Error 43 occurs if the user cancels the dialog.     
+527433:3b53f6 file path is the path name of the file.  If file path is empty (default value) or is Not A Path, the VI displays a File dialog box from which you can select a file.  Error 43 occurs if the user cancels the dialog.     
+528190:3c7f0b file path is the path name of the file.  If file path is empty (default value) or is Not A Path, the VI displays a File dialog box from which you can select a file.  Error 43 occurs if the user cancels the dialog.     
+528198:3c82e9 default name is the initial file name that appears in the selection box of the file dialog.
+528591:3cc24a \default name is the initial file name that appears in the selection box of the file dialog.
+528600:3cc827 file path is the path name of the file. If file path is empty (default value) or is Not A Path, the VI displays a File dialog box from which you can select a file. Error 43 occurs if the user cancels the dialog.
+595366:d5144 file path is the path name of the file.  If file path is empty (default value) or is Not A Path, the VI displays a File dialog box from which you can select a file.  Error 43 occurs if the user cancels the dialog.     
+595374:d5522 default name is the initial file name that appears in the selection box of the file dialog.
+595855:e2127 file path is the path name of the file.  If file path is empty (default value) or is Not A Path, the VI displays a File dialog box from which you can select a file.  Error 43 occurs if the user cancels the dialog.     
+595863:e2505 default name is the initial file name that appears in the selection box of the file dialog.
+596256:e6466 \default name is the initial file name that appears in the selection box of the file dialog.
+596265:e6a43 file path is the path name of the file. If file path is empty (default value) or is Not A Path, the VI displays a File dialog box from which you can select a file. Error 43 occurs if the user cancels the dialog.
+596757:f3c69 file path is the path name of the file.  If file path is empty (default value) or is Not A Path, the VI displays a File dialog box from which you can select a file.  Error 43 occurs if the user cancels the dialog.     
+596760:f3dfc default name is the initial file name that appears in the selection box of the file dialog.
+596796:f5997 file path is the path name of the file.  If file path is empty (default value) or is Not A Path, the VI displays a File dialog box from which you can select a file.  Error 43 occurs if the user cancels the dialog.     
+596832:f6656 file path is the path name of the file.  If file path is empty (default value) or is Not A Path, the VI displays a File dialog box from which you can select a file.  Error 43 occurs if the user cancels the dialog.     
+607057:19f5d1 file path is the path name of the file.  If file path is empty (default value) or is Not A Path, the VI displays a File dialog box from which you can select a file.  Error 43 occurs if the user cancels the dialog.     
+607060:19f764 default name is the initial file name that appears in the selection box of the file dialog.
+608418:1b6e57 file path is the path name of the file.  If file path is empty (default value) or is Not A Path, the VI displays a File dialog box from which you can select a file.  Error 43 occurs if the user cancels the dialog.     
+610294:1d4e6e file path is the path name of the file.  If file path is empty (default value) or is Not A Path, the VI displays a File dialog box from which you can select a file.  Error 43 occurs if the user cancels the dialog.     

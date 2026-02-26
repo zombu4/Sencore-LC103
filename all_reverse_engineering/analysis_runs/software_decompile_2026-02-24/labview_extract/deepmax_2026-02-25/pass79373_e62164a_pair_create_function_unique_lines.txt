@@ -1,0 +1,13 @@
+54049:1dcb0e 2create a new file if function=1-3 (open or create)
+54058:1dce5a !Open or Create File (function=%d)a
+54109:1dd511 !Open or Create File (function=%d)
+224306:1b73a 2create a new file if function=1-3 (open or create)
+224315:1ba86 !Open or Create File (function=%d)a
+224366:1c13d !Open or Create File (function=%d)
+406144:3cb1ff !Open or Create File (function=%d)
+406316:3cde53 112create a new file if function=1-3 (open or create)
+406325:3ce193 !Open or Create File (function=%d)a
+528023:3c49fe !Open or Create File (function=%d)
+528298:3c9ab0 112create a new file if function=1-3 (open or create)
+595688:dec1a !Open or Create File (function=%d)
+595963:e3ccc 112create a new file if function=1-3 (open or create)

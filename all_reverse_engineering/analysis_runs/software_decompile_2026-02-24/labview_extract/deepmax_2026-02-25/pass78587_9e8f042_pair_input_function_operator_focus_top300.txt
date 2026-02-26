@@ -1,0 +1,2 @@
+47043:15ee60 The vi %p calls Unflatten from String or Type Cast to a type containing an extended float. If the input data to these functions comes from a file, you must convert extended floats in the file to LV 3.0 format.
+52524:1be4f3 One or more required inputs to this function are not wired or are wired incorrectly. Show the Help window to see what the connections to this function should be.

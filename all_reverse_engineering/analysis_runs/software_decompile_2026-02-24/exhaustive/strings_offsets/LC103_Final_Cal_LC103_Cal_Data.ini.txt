@@ -1,0 +1,74 @@
+0 [LC103 SW]
+c ver=1.53
+18 ;Capacitors
+25 [C Range0]
+31 200pF (73P71)
+40 low_actual=202.7E-12
+56 1700pF (73P71)
+66 high_actual=1704.0E-12
+80 [C Range1]
+8c 0.004uF (73P71)
+9d low_actual=0.004E-6
+b2 0.018uF (73P71)
+c3 high_actual=0.018E-6
+db [C Range2]
+e7 0.04uF (73P71)
+f7 low_actual=0.04E-6
+10b 0.18uF (73P71)
+11b high_actual=0.18E-6
+132 [C Range3]
+13e 0.4uF (73P71)
+14d low_actual=0.4E-6
+160 1.80uF (74B211)
+171 high_actual=1.765E-6
+189 [C Range4]
+195 4.0uF (74B211)
+1a5 low_actual=3.849E-6
+1ba 18.0uF (74B211)
+1cb high_actual=19.580E-6
+1e4 [C Range5]
+1f0 40.0uF (74B211)
+201 low_actual=38.20E-6
+216 180uF (74B211)
+226 high_actual=171.21E-6
+23f [C Range6]
+24b 400uF (74B211)
+25b low_actual=381.04E-6
+271 1800uF (74B211)
+282 high_actual=1709.20E-6
+29c ;Inductors
+2a8 [L Range0]
+2b4 2.00uH (74A144)
+2c5 low_actual=2.36E-6
+2d9 10.0uH (74A144)
+2ea high_actual=10.32E-6
+302 [L Range1]
+30e 40.0uH (74A144)
+31f low_actual=37.14E-6
+334 80.0uH (74A144)
+345 high_actual=79.00E-6
+35d [L Range2]
+369 200uH (73P72)
+378 low_actual=198.08E-6
+38e 1.50mH (73P72)
+39e high_actual=1.4950E-3
+3b7 [L Range3]
+3c3 2.00mH (73P72)
+3d3 low_actual=1.9983E-3
+3e9 15.0mH (73P72)
+3f9 high_actual=14.964E-3
+412 [L Range4]
+41e 20.0mH (73P72)
+42e low_actual=19.952E-3
+444 150mH (73P72)
+453 high_actual=149.42E-3
+46c [L Range5]
+478 200mH (73P72)
+487 low_actual=0.19894
+49b 1.50H (73P72)
+4aa high_actual=1.49680
+4c1 [L Range6]
+4cd 2.00H (73P72)
+4dc low_actual=1.9948
+4ef 8.00H (73P72)
+4fe high_actual=8.1361

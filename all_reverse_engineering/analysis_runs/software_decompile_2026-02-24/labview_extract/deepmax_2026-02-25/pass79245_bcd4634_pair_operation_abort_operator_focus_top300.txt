@@ -1,0 +1,33 @@
+52037:1b8fa2 Network is down or unreachable.$Network address is currently in use.;Not enough system memory to complete the network operation.3System caused the network connection to be aborted.
+57200:212550 -I/O operation aborted
+57998:22054a -I/O operation aborted
+102470:4cdafa GPIB: EABO: I/O operation aborted.9LabVIEW: File not found.
+227591:535a8 -I/O operation aborted
+228405:61836 -I/O operation aborted
+260903:2466d2 GPIB: EABO: I/O operation aborted.9LabVIEW: File not found.
+294074:20939 -I/O operation aborted
+294900:2eb83 -I/O operation aborted
+314911:1642a3 GPIB: EABO: I/O operation aborted.9LabVIEW: File not found.
+326241:1fc31 -I/O operation aborted
+327094:2de6b -I/O operation aborted
+341388:103873 GPIB: EABO: I/O operation aborted.9LabVIEW: File not found.
+349036:1e868 -I/O operation aborted
+349850:2caf6 -I/O operation aborted
+371341:1800f4 GPIB: EABO: I/O operation aborted.9LabVIEW: File not found.
+419703:1e7ad -I/O operation aborted
+420529:2c9f7 -I/O operation aborted
+434042:f3d17 GPIB: EABO: I/O operation aborted.9LabVIEW: File not found.
+454540:1d07d -I/O operation aborted
+455393:2b2b7 -I/O operation aborted
+470021:103298 GPIB: EABO: I/O operation aborted.9LabVIEW: File not found.
+478252:1e868 -I/O operation aborted
+479066:2caf6 -I/O operation aborted
+503851:1e1095 GPIB: EABO: I/O operation aborted.9LabVIEW: File not found.
+532171:1e7ad -I/O operation aborted
+532997:2c9f7 -I/O operation aborted
+546417:f2c27 GPIB: EABO: I/O operation aborted.9LabVIEW: File not found.
+562456:1d07d -I/O operation aborted
+563309:2b2b7 -I/O operation aborted
+579270:164f59 GPIB: EABO: I/O operation aborted.9LabVIEW: File not found.
+582975:1e7e0 -I/O operation aborted
+583789:2ca6e -I/O operation aborted

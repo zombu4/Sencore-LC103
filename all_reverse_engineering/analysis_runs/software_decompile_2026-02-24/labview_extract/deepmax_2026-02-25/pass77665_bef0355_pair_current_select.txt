@@ -1,0 +1,9 @@
+48183:164c08 This ring displays the currently selected part.  The size and position of the current part are displayed below.  You can select a different part by clicking on the increment and decrement arrows, or by clicking on the part.
+48184:164cec This is the position of the top of the currently selected part (shown in the parts ring).  You can change the position by changing this number, or by moving the part.
+48185:164d98 This is the position of the left side of the currently selected part (shown in the parts ring).  You can change the position by changing this number, or by moving the part.
+48186:164e48 This is the height of the currently selected part (shown in the parts ring).  You can change the height by changing this number, or by resizing the part.
+48187:164ee8 This is the width of the currently selected part (shown in the parts ring).  You can change the width by changing this number, or by resizing the part.
+48232:1660f0 This box displays the current value for the path that is selected in the path menu.  You can not change the current path is "Use Default" is checked.
+48293:16742f `This box shows you more details about the error or warning currently selected in the Error List.
+52243:1ba884 There are currently %ld VIs with unsaved changes remaining to be removed from memory. To avoid this dialog for these VIs, select either Yes to All or No to All.
+52543:1bf662 This platform does not support the current return type. For example, the return type of a 16-bit DLL function may not be a floating point number. Pop up on the Call Library Function node and select Configure... to set the return type.

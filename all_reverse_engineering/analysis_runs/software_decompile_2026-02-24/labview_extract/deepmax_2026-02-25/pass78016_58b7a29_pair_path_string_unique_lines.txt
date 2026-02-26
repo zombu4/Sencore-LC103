@@ -1,0 +1,6 @@
+38110:4aee9 FPathToDSString
+38111:4af77 PathToCString
+38112:4afd9 FPathToAZString
+43129:f5a85 PathToSizedString
+45410:13e809 PrefPathToString
+48245:1664df _This button removes the highlighted directory in the path list and places it in the string box.

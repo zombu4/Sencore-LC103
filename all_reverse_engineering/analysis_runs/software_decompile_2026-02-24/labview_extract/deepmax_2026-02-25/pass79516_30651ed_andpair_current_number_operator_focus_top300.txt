@@ -1,0 +1,13 @@
+48193:1651e4 This is the revision number that will be included in new history entries. The current number is displayed in the Instrument Information dialog. It is incremented every time you save the VI.
+48198:165560 This is the revision number that will be included in new history entries. The current number is displayed in the Instrument Information dialog. It is incremented every time you save the VI.
+52543:1bf662 This platform does not support the current return type. For example, the return type of a 16-bit DLL function may not be a floating point number. Pop up on the Call Library Function node and select Configure... to set the return type.
+75867:325275 UQbyte count is the number of bytes currently queued up in the serial port buffer.
+246193:163d19 UQbyte count is the number of bytes currently queued up in the serial port buffer.
+308413:ed304 UQbyte count is the number of bytes currently queued up in the serial port buffer.
+319050:1a620f """<- number of leakage current testsH
+396611:330d21 UQbyte count is the number of bytes currently queued up in the serial port buffer.
+440800:164064 UQbyte count is the number of bytes currently queued up in the serial port buffer.
+448584:1d9d9c """<- number of leakage current testsH
+521566:34a1b4 Qbyte count is the number of bytes currently queued up in the serial port buffer.
+552243:159434 """<- number of leakage current testsH
+558167:1c42e2 Qbyte count is the number of bytes currently queued up in the serial port buffer.

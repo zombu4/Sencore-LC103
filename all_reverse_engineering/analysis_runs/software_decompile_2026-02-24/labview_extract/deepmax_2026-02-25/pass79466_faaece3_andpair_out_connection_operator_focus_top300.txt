@@ -1,0 +1,7 @@
+52510:1bd790 This VI has a bad connection to or cannot find a subVI or external routine, but it has no block diagram to show or fix the error. You must find or correct the subVI or external routine. Check for more information in the Explain... dialog in Get Info.
+52525:1be595 A wire can be connected to only one data source, such as a control's terminal or a function output. This wire is connected to more than one source. Make sure that all connections except one are to indicators (not controls) or inputs (not outputs).
+53304:1cd8c1 Connection timed out!Connection is already in progress
+223561:c4ed Connection timed out!Connection is already in progress
+406589:3cf5bb Connection timed out!Connection is already in progress
+528566:3cb1ed Connection timed out!Connection is already in progress
+596231:e5409 Connection timed out!Connection is already in progress

@@ -1,0 +1,44 @@
+2026-02-23 20:00:52 INFO  (LoggingInitialization) Using log config file: jar:file:/Users/<user>/Tools/ghidra_12.0.2_PUBLIC/Ghidra/Framework/Generic/lib/Generic.jar!/generic.log4j.xml  
+2026-02-23 20:00:52 INFO  (LoggingInitialization) Using log file: /Users/<user>/LC103/decompile_v1.53/artifacts/ghidra_bank1_decomp.log  
+2026-02-23 20:00:52 INFO  (Preferences) Loading user preferences: /var/<user>/Library/ghidra/ghidra_12.0.2_PUBLIC/preferences  
+2026-02-23 20:00:52 INFO  (ClassSearcher) Searching for classes...  
+2026-02-23 20:00:53 INFO  (ClassSearcher) Class search complete (781 ms)  
+2026-02-23 20:00:53 INFO  (DefaultSSLContextInitializer) Initializing SSL Context  
+2026-02-23 20:00:53 INFO  (SecureRandomFactory) Initializing Random Number Generator...  
+2026-02-23 20:00:53 INFO  (SecureRandomFactory) Random Number Generator initialization complete: NativePRNGNonBlocking  
+2026-02-23 20:00:53 INFO  (DefaultTrustManagerFactory) Trust manager disabled, cacerts have not been set  
+2026-02-23 20:00:53 INFO  (AnalyzeHeadless) Headless startup complete (1372 ms)  
+2026-02-23 20:00:53 INFO  (ClassSearcher) Class searcher loaded 58 extension points (18 false positives)  
+2026-02-23 20:00:53 INFO  (HeadlessAnalyzer) HEADLESS Script Paths:
+    /Users/<user>/Tools/ghidra_12.0.2_PUBLIC/Ghidra/Features/Decompiler/ghidra_scripts
+    /Users/<user>/Tools/ghidra_12.0.2_PUBLIC/Ghidra/Debug/Debugger/ghidra_scripts
+    /Users/<user>/Tools/ghidra_12.0.2_PUBLIC/Ghidra/Features/PDB/ghidra_scripts
+    /Users/<user>/Tools/ghidra_12.0.2_PUBLIC/Ghidra/Features/SystemEmulation/ghidra_scripts
+    /Users/<user>/Tools/ghidra_12.0.2_PUBLIC/Ghidra/Features/WildcardAssembler/ghidra_scripts
+    /Users/<user>/Tools/ghidra_12.0.2_PUBLIC/Ghidra/Processors/8051/ghidra_scripts
+    /Users/<user>/Tools/ghidra_12.0.2_PUBLIC/Ghidra/Features/PyGhidra/ghidra_scripts
+    /Users/<user>/Tools/ghidra_12.0.2_PUBLIC/Ghidra/Features/Base/ghidra_scripts
+    /Users/<user>/Tools/ghidra_12.0.2_PUBLIC/Ghidra/Processors/DATA/ghidra_scripts
+    /Users/<user>/Tools/ghidra_12.0.2_PUBLIC/Ghidra/Features/FileFormats/ghidra_scripts
+    /Users/<user>/Tools/ghidra_12.0.2_PUBLIC/Ghidra/Processors/PIC/ghidra_scripts
+    /Users/<user>/Tools/ghidra_12.0.2_PUBLIC/Ghidra/Features/Jython/ghidra_scripts
+    /Users/<user>/Tools/ghidra_12.0.2_PUBLIC/Ghidra/Features/GnuDemangler/ghidra_scripts
+    /Users/<user>/Tools/ghidra_12.0.2_PUBLIC/Ghidra/Debug/Debugger-rmi-trace/ghidra_scripts
+    /Users/<user>/Tools/ghidra_12.0.2_PUBLIC/Ghidra/Features/BytePatterns/ghidra_scripts
+    /Users/<user>/Tools/ghidra_12.0.2_PUBLIC/Ghidra/Features/FunctionID/ghidra_scripts
+    /Users/<user>/Tools/ghidra_12.0.2_PUBLIC/Ghidra/Processors/JVM/ghidra_scripts
+    /Users/<user>/Tools/ghidra_12.0.2_PUBLIC/Ghidra/Features/BSim/ghidra_scripts
+    /Users/<user>/Tools/ghidra_12.0.2_PUBLIC/Ghidra/Features/MicrosoftCodeAnalyzer/ghidra_scripts
+    /Users/<user>/Tools/ghidra_12.0.2_PUBLIC/Ghidra/Features/VersionTracking/ghidra_scripts
+    /Users/<user>/Tools/ghidra_12.0.2_PUBLIC/Ghidra/Features/DecompilerDependent/ghidra_scripts
+    /Users/<user>/Tools/ghidra_scripts
+    /Users/<user>/Tools/ghidra_12.0.2_PUBLIC/Ghidra/Processors/Atmel/ghidra_scripts
+    /Users/<user>/Tools/ghidra_12.0.2_PUBLIC/Ghidra/Features/SwiftDemangler/ghidra_scripts  
+2026-02-23 20:00:53 INFO  (HeadlessAnalyzer) HEADLESS: execution starts  
+2026-02-23 20:00:53 INFO  (HeadlessAnalyzer) Opening existing project: /Users/<user>/LC103/decompile_v1.53/ghidra_proj/lc103_bank1_boot  
+2026-02-23 20:00:53 INFO  (HeadlessProject) Opening project: /Users/<user>/LC103/decompile_v1.53/ghidra_proj/lc103_bank1_boot  
+2026-02-23 20:00:54 INFO  (HeadlessAnalyzer) REPORT: Processing project file: /half1.bin  
+2026-02-23 20:00:54 INFO  (HeadlessAnalyzer) REPORT: Execute script: DumpDecompAddr.java 'CODE:37f9' 'CODE:24dd' 'CODE:2619' 'CODE:1bf0' 'CODE:292a' 'CODE:24f0' 'CODE:ef5c'   
+2026-02-23 20:00:54 INFO  (HeadlessAnalyzer) SCRIPT: /Users/<user>/Tools/ghidra_scripts/DumpDecompAddr.java  
+2026-02-23 20:00:55 INFO  (GhidraScript) DumpDecompAddr.java> WROTE /Users/<user>/Tools/ghidra_decomp_addr.txt  
+2026-02-23 20:00:55 INFO  (HeadlessAnalyzer) REPORT: Save succeeded for processed file: /half1.bin  

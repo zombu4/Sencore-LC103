@@ -1,0 +1,14 @@
+100053:49acc7 cFile Dialog cancelled; set Error to Cancelled By User; empty File Path; set Refnum to Not a Refnum.
+101595:4b75bd }yexception source is the error message that you want to use to test for an exception. By default, it is an empty string. 
+258383:2115f3 cFile Dialog cancelled; set Error to Cancelled By User; empty File Path; set Refnum to Not a Refnum.
+260028:230195 }yexception source is the error message that you want to use to test for an exception. By default, it is an empty string. 
+314016:14ddb2 }yexception source is the error message that you want to use to test for an exception. By default, it is an empty string. 
+340499:ed395 }yexception source is the error message that you want to use to test for an exception. By default, it is an empty string. 
+371462:183b4d }yexception source is the error message that you want to use to test for an exception. By default, it is an empty string. 
+374125:1af0c6 cFile Dialog cancelled; set Error to Cancelled By User; empty File Path; set Refnum to Not a Refnum.
+434163:f7770 }yexception source is the error message that you want to use to test for an exception. By default, it is an empty string. 
+470142:106cf1 }yexception source is the error message that you want to use to test for an exception. By default, it is an empty string. 
+504206:1e9c85 yexception source is the error message that you want to use to test for an exception. By default, it is an empty string. 
+505957:208ea3 cFile Dialog cancelled; set Error to Cancelled By User; empty File Path; set Refnum to Not a Refnum.
+546538:f6680 }yexception source is the error message that you want to use to test for an exception. By default, it is an empty string. 
+579625:16db48 yexception source is the error message that you want to use to test for an exception. By default, it is an empty string. 

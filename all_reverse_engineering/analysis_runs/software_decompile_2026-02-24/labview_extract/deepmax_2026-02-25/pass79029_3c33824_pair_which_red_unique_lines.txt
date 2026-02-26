@@ -1,0 +1,38 @@
+76095:32950c source is a string that indicates the origin of the error, if any. Usually source is the name of the VI in which the error occurred.
+76442:32f416 source is a string that indicates the origin of the error, if any. Usually source is the name of the VI in which the error occurred.
+76858:336d64 source is a string that indicates the origin of the error, if any. Usually source is the name of the VI in which the error occurred.
+76866:3371bd source is a string that indicates the origin of the error, if any. Usually source is the name of the VI in which the error occurred.
+102405:4c5e8c DSP NoBrdRespToTransfer: The DSP board on which you are trying to load the COFF file is not responding to the transfer of the file. Check if there is a board in the slot desired and verify with the DAQCONF utility.
+246430:168138 source is a string that indicates the origin of the error, if any. Usually source is the name of the VI in which the error occurred.
+246786:16e16e source is a string that indicates the origin of the error, if any. Usually source is the name of the VI in which the error occurred.
+247223:175c98 source is a string that indicates the origin of the error, if any. Usually source is the name of the VI in which the error occurred.
+247231:1760f1 source is a string that indicates the origin of the error, if any. Usually source is the name of the VI in which the error occurred.
+260838:23ea64 DSP NoBrdRespToTransfer: The DSP board on which you are trying to load the COFF file is not responding to the transfer of the file. Check if there is a board in the slot desired and verify with the DAQCONF utility.
+308646:f1717 source is a string that indicates the origin of the error, if any. Usually source is the name of the VI in which the error occurred.
+309005:f7731 source is a string that indicates the origin of the error, if any. Usually source is the name of the VI in which the error occurred.
+309449:ff23f source is a string that indicates the origin of the error, if any. Usually source is the name of the VI in which the error occurred.
+309457:ff698 source is a string that indicates the origin of the error, if any. Usually source is the name of the VI in which the error occurred.
+314846:15c635 DSP NoBrdRespToTransfer: The DSP board on which you are trying to load the COFF file is not responding to the transfer of the file. Check if there is a board in the slot desired and verify with the DAQCONF utility.
+341323:fbc05 DSP NoBrdRespToTransfer: The DSP board on which you are trying to load the COFF file is not responding to the transfer of the file. Check if there is a board in the slot desired and verify with the DAQCONF utility.
+371276:178486 DSP NoBrdRespToTransfer: The DSP board on which you are trying to load the COFF file is not responding to the transfer of the file. Check if there is a board in the slot desired and verify with the DAQCONF utility.
+395227:31b870 source is a string that indicates the origin of the error, if any. Usually source is the name of the VI in which the error occurred.
+395231:31bca9 source is a string that indicates the origin of the error, if any. Usually source is the name of the VI in which the error occurred.
+395894:325811 source is a string that indicates the origin of the error, if any. Usually source is the name of the VI in which the error occurred."
+396328:32c71d source is a string that indicates the origin of the error, if any. Usually source is the name of the VI in which the error occurred."
+433977:ec0a9 DSP NoBrdRespToTransfer: The DSP board on which you are trying to load the COFF file is not responding to the transfer of the file. Check if there is a board in the slot desired and verify with the DAQCONF utility.
+439400:14eb9e source is a string that indicates the origin of the error, if any. Usually source is the name of the VI in which the error occurred.
+439404:14efd7 source is a string that indicates the origin of the error, if any. Usually source is the name of the VI in which the error occurred.
+440076:158b2b source is a string that indicates the origin of the error, if any. Usually source is the name of the VI in which the error occurred."
+440515:15fa39 source is a string that indicates the origin of the error, if any. Usually source is the name of the VI in which the error occurred."
+469956:fb62a DSP NoBrdRespToTransfer: The DSP board on which you are trying to load the COFF file is not responding to the transfer of the file. Check if there is a board in the slot desired and verify with the DAQCONF utility.
+503786:1d9427 DSP NoBrdRespToTransfer: The DSP board on which you are trying to load the COFF file is not responding to the transfer of the file. Check if there is a board in the slot desired and verify with the DAQCONF utility.
+520649:338fd2 source is a string that indicates the origin of the error, if any. Usually source is the name of the VI in which the error occurred.
+520652:339330 source is a string that indicates the origin of the error, if any. Usually source is the name of the VI in which the error occurred.
+521065:341215 source is a string that indicates the origin of the error, if any. Usually source is the name of the VI in which the error occurred.
+521374:346adf source is a string that indicates the origin of the error, if any. Usually source is the name of the VI in which the error occurred.
+546352:eafb9 DSP NoBrdRespToTransfer: The DSP board on which you are trying to load the COFF file is not responding to the transfer of the file. Check if there is a board in the slot desired and verify with the DAQCONF utility.
+557270:1b454d source is a string that indicates the origin of the error, if any. Usually source is the name of the VI in which the error occurred.
+557273:1b48ab source is a string that indicates the origin of the error, if any. Usually source is the name of the VI in which the error occurred.
+557655:1bb319 source is a string that indicates the origin of the error, if any. Usually source is the name of the VI in which the error occurred.
+557968:1c0be7 source is a string that indicates the origin of the error, if any. Usually source is the name of the VI in which the error occurred.
+579205:15d2eb DSP NoBrdRespToTransfer: The DSP board on which you are trying to load the COFF file is not responding to the transfer of the file. Check if there is a board in the slot desired and verify with the DAQCONF utility.

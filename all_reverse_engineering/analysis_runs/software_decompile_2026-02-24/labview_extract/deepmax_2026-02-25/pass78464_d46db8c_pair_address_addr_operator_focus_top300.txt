@@ -1,0 +1,300 @@
+46368:15a8ff IGetFile: getprocaddress failed
+46371:15a953 IGetFile: getprocaddress failed for bitmapInfo
+46374:15a9c7 IGetFile: getprocaddress failed for deletebitmap
+52037:1b8fa2 Network is down or unreachable.$Network address is currently in use.;Not enough system memory to complete the network operation.3System caused the network connection to be aborted.
+55593:1f66a1 Logical address to read buffer from-)(U32)
+55835:1f9bbb VXI logical address to write buffer to.*(U32)
+58301:225bee logical address
+58302:225c04 logical address@
+58361:227293 logical address
+58362:2272a9 logical address
+58363:2272d3 logical address4
+58396:227bd0 logical address0
+58401:227cb0 logical address
+58412:227e57 logical address
+58433:228285 logical address
+58552:22a9f3 logical address
+58553:22aa11 logical address
+58554:22aa24 logical address
+58555:22aa37 logical address
+58556:22aa4a logical address
+58557:22aa5d logical address
+58637:22b20e logical address
+58644:22b2cc logical address
+58673:22b8a9 logical address
+58696:22b9de logical address
+58733:22c5fc Logical address of device to get information aboutYU(U16)
+58904:22ec2b Logical address of device to get information about
+58907:22ec85 Commander's logical address
+59866:23a622 -1250 Error mapping VXI address
+59867:23a643 -1251 Error unmapping VXI address
+60473:244602 -1250 Error mapping VXI address
+60474:244623 -1251 Error unmapping VXI address
+61649:25282b -1250 Error mapping VXI address
+61650:25284c -1251 Error unmapping VXI address
+62798:25f1fa -1250 Error mapping VXI address
+62799:25f21b -1251 Error unmapping VXI address
+63333:2663ca True if either primary or secondary addresses are outside ot the range 0-31. address error indicates whether a range error has occurred.
+63342:2668e4 address error"
+63343:2668f8 address error
+63395:2684a4 address error
+63414:268623 address error
+63415:268634 address error
+63425:2689cc address error
+63443:268b79 address error
+63450:268c81 address error
+63556:2719e9 -1250 Error mapping VXI address
+63557:271a0a -1251 Error unmapping VXI address
+63936:277064 address error
+63941:2770d5 address error
+65161:2846ca logical address$|
+65169:284815 logical address
+65725:28bbff address error
+66008:28e1e3 address error
+66071:28e676 logical addressPTH0)
+66183:296579 -1250 Error mapping VXI address
+66184:29659a -1251 Error unmapping VXI address
+66597:29f5cb address error
+66602:29f643 address error
+66612:29fc4a address error
+66617:29fd47 address error
+67629:2abbf5 address error
+67639:2abcef address error
+67909:2ade8f address error
+68063:2b12bf -1250 Error mapping VXI address
+68064:2b12e0 -1251 Error unmapping VXI address
+68884:2b8d1f -1250 Error mapping VXI address
+68885:2b8d40 -1251 Error unmapping VXI address
+120443:1b56 _SetSegmentBaseAddress&
+225952:36fe1 Logical address to read buffer from-)(U32)
+226199:3a683 VXI logical address to write buffer to.*(U32)
+228703:650e5 logical address
+228715:6702a logical address
+228716:67040 logical address@
+228775:686cf logical address
+228776:686e5 logical address
+228777:6870f logical address4
+228810:6900c logical address0
+228815:690ec logical address
+228826:69293 logical address
+228847:696c1 logical address
+228966:6be2f logical address
+228967:6be4d logical address
+228968:6be60 logical address
+228969:6be73 logical address
+228970:6be86 logical address
+228971:6be99 logical address
+229051:6c64a logical address
+229058:6c708 logical address
+229087:6cce5 logical address
+229110:6ce1a logical address
+229151:6db1c Logical address of device to get information aboutYU(U16)
+229327:702bf Logical address of device to get information about
+229330:70319 Commander's logical address
+230327:7c342 -1250 Error mapping VXI address
+230328:7c363 -1251 Error unmapping VXI address
+230961:86796 -1250 Error mapping VXI address
+230962:867b7 -1251 Error unmapping VXI address
+232152:94be7 -1250 Error mapping VXI address
+232153:94c08 -1251 Error unmapping VXI address
+233317:a185a -1250 Error mapping VXI address
+233318:a187b -1251 Error unmapping VXI address
+233845:a79cd address error
+233858:a8bfe True if either primary or secondary addresses are outside ot the range 0-31. address error indicates whether a range error has occurred.
+233867:a9118 address error"
+233868:a912c address error
+233920:aacd8 address error
+233939:aae57 address error
+233940:aae68 address error
+233950:ab200 address error
+233968:ab3ad address error
+233975:ab4b5 address error
+234093:b4421 -1250 Error mapping VXI address
+234094:b4442 -1251 Error unmapping VXI address
+234473:b9a9c address error
+234478:b9b0d address error
+235698:c7102 logical address$|
+235706:c724d logical address
+236262:ce637 address error
+236545:d0c1b address error
+236608:d10ae logical addressPTH0)
+236733:d9319 -1250 Error mapping VXI address
+236734:d933a -1251 Error unmapping VXI address
+237147:e236b address error
+237152:e23e3 address error
+237162:e29ea address error
+237167:e2ae7 address error
+238179:ee995 address error
+238189:eea8f address error
+238459:f0c2f address error
+238626:f429b -1250 Error mapping VXI address
+238627:f42bc -1251 Error unmapping VXI address
+239459:fbf3f -1250 Error mapping VXI address
+239460:fbf60 -1251 Error unmapping VXI address
+292428:434a Logical address to read buffer from-)(U32)
+292676:7a50 VXI logical address to write buffer to.*(U32)
+295198:32421 logical address
+295210:34363 logical address
+295211:34379 logical address@
+295273:35a08 logical address
+295274:35a1e logical address
+295275:35a48 logical address4
+295308:36345 logical address0
+295313:36425 logical address
+295324:365cc logical address
+295345:369fa logical address
+295466:39168 logical address
+295467:39186 logical address
+295468:39199 logical address
+295469:391ac logical address
+295470:391bf logical address
+295471:391d2 logical address
+295551:39967 logical address
+295558:39a25 logical address
+295587:39fff logical address
+295610:3a133 logical address
+295651:3ae39 Logical address of device to get information aboutYU(U16)
+295832:3d5dc Logical address of device to get information about
+295835:3d636 Commander's logical address
+296842:4962f -1250 Error mapping VXI address
+296843:49650 -1251 Error unmapping VXI address
+297487:53a73 -1250 Error mapping VXI address
+297488:53a94 -1251 Error unmapping VXI address
+298690:61e98 -1250 Error mapping VXI address
+298691:61eb9 -1251 Error unmapping VXI address
+299865:6eae3 -1250 Error mapping VXI address
+299866:6eb04 -1251 Error unmapping VXI address
+300408:74c39 address error
+300421:75e67 True if either primary or secondary addresses are outside ot the range 0-31. address error indicates whether a range error has occurred.
+300430:76381 address error"
+300431:76395 address error
+300483:77f42 address error
+300502:780c1 address error
+300503:780d2 address error
+300514:7845e address error
+300532:78608 address error
+300539:7870e address error
+300658:8167e -1250 Error mapping VXI address
+300659:8169f -1251 Error unmapping VXI address
+301044:86cfb address error
+301049:86d6c address error
+302277:94362 logical address$|
+302285:944ad logical address
+302841:9b896 address error
+303129:9de1b address error
+303192:9e2ad logical addressPTH0)
+303332:a6516 -1250 Error mapping VXI address
+303333:a6537 -1251 Error unmapping VXI address
+303755:af56b address error
+303760:af5e3 address error
+303770:afbea address error
+303775:afce7 address error
+304788:bbb97 address error
+304798:bbc91 address error
+305073:bddd1 address error
+305256:c1440 -1250 Error mapping VXI address
+305257:c1461 -1251 Error unmapping VXI address
+306098:c90c8 -1250 Error mapping VXI address
+306099:c90e9 -1251 Error unmapping VXI address
+324549:375a Logical address to read buffer from-)(U32)
+324798:6df4 VXI logical address to write buffer to.*(U32)
+327396:316dd logical address
+327410:33617 logical address
+327411:3362d logical address@
+327472:34cbc logical address
+327473:34cd2 logical address
+327474:34cfc logical address4
+327507:355f9 logical address0
+327512:356d9 logical address
+327523:35880 logical address
+327544:35cae logical address
+327665:3841c logical address
+327666:3843a logical address
+327667:3844d logical address
+327668:38460 logical address
+327669:38473 logical address
+327670:38486 logical address
+327750:38c1c logical address
+327757:38cda logical address
+327786:392b4 logical address
+327809:393e9 logical address
+327855:3a16d Logical address of device to get information aboutYU(U16)
+328038:3c908 Logical address of device to get information about
+328041:3c962 Commander's logical address
+329060:488af -1250 Error mapping VXI address
+329061:488d0 -1251 Error unmapping VXI address
+329724:52d5f -1250 Error mapping VXI address
+329725:52d80 -1251 Error unmapping VXI address
+330940:611e0 -1250 Error mapping VXI address
+330941:61201 -1251 Error unmapping VXI address
+332126:6ddf7 -1250 Error mapping VXI address
+332127:6de18 -1251 Error unmapping VXI address
+332672:73f15 address error
+332685:7513b True if either primary or secondary addresses are outside ot the range 0-31. address error indicates whether a range error has occurred.
+332696:75655 address error"
+332697:75669 address error
+332750:77216 address error
+332769:77395 address error
+332770:773a6 address error
+332783:77732 address error
+332801:778dc address error
+332808:779e2 address error
+332927:80a8e -1250 Error mapping VXI address
+332928:80aaf -1251 Error unmapping VXI address
+333321:86106 address error
+333326:86177 address error
+334561:9376d logical address$|
+334569:938b8 logical address
+335125:9aca6 address error
+335409:9d22a address error
+335472:9d6bc logical addressPTH0)
+335606:a57fe -1250 Error mapping VXI address
+335607:a581f -1251 Error unmapping VXI address
+336035:ae852 address error
+336040:ae8ca address error
+336050:aeed0 address error
+336055:aefcd address error
+337070:bae74 address error
+337080:baf6e address error
+337356:bd0ae address error
+337530:c072c -1250 Error mapping VXI address
+337531:c074d -1251 Error unmapping VXI address
+338375:c83e5 -1250 Error mapping VXI address
+338376:c8406 -1251 Error unmapping VXI address
+347397:22a1 Logical address to read buffer from-)(U32)
+347644:5943 VXI logical address to write buffer to.*(U32)
+350148:303a5 logical address
+350160:322ea logical address
+350161:32300 logical address@
+350220:3398f logical address
+350221:339a5 logical address
+350222:339cf logical address4
+350255:342cc logical address0
+350260:343ac logical address
+350271:34553 logical address
+350292:34981 logical address
+350411:370ef logical address
+350412:3710d logical address
+350413:37120 logical address
+350414:37133 logical address
+350415:37146 logical address
+350416:37159 logical address
+350496:3790a logical address
+350503:379c8 logical address
+350532:37fa5 logical address
+350555:380da logical address
+350596:38ddc Logical address of device to get information aboutYU(U16)
+350772:3b57f Logical address of device to get information about
+350775:3b5d9 Commander's logical address
+351772:47602 -1250 Error mapping VXI address
+351773:47623 -1251 Error unmapping VXI address
+352406:51a56 -1250 Error mapping VXI address
+352407:51a77 -1251 Error unmapping VXI address
+353597:5fea7 -1250 Error mapping VXI address
+353598:5fec8 -1251 Error unmapping VXI address
+354675:6a005 address error
+354688:6b236 True if either primary or secondary addresses are outside ot the range 0-31. address error indicates whether a range error has occurred.
+354697:6b750 address error"
+354698:6b764 address error
+354750:6d310 address error
+354769:6d48f address error

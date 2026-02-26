@@ -1,0 +1,14 @@
+102430:4c9d4c DAQ delayTrigErr: The delayed trigger mode is not supported or is not available in the current configuration, or no delay source has been assigned.:DAQ postTrigErr:  No posttrigger source has been assigned.
+132989:1fe1b9 ?HighRes_SetCalibrationMode_TheVirtualThing@daqDevice@@UAEJFK@Z
+133856:205d54 Set_DAQ_Mode
+260863:242924 DAQ delayTrigErr: The delayed trigger mode is not supported or is not available in the current configuration, or no delay source has been assigned.:DAQ postTrigErr:  No posttrigger source has been assigned.
+314871:1604f5 DAQ delayTrigErr: The delayed trigger mode is not supported or is not available in the current configuration, or no delay source has been assigned.:DAQ postTrigErr:  No posttrigger source has been assigned.
+341348:ffac5 DAQ delayTrigErr: The delayed trigger mode is not supported or is not available in the current configuration, or no delay source has been assigned.:DAQ postTrigErr:  No posttrigger source has been assigned.
+371301:17c346 DAQ delayTrigErr: The delayed trigger mode is not supported or is not available in the current configuration, or no delay source has been assigned.:DAQ postTrigErr:  No posttrigger source has been assigned.
+434002:eff69 DAQ delayTrigErr: The delayed trigger mode is not supported or is not available in the current configuration, or no delay source has been assigned.:DAQ postTrigErr:  No posttrigger source has been assigned.
+469981:ff4ea DAQ delayTrigErr: The delayed trigger mode is not supported or is not available in the current configuration, or no delay source has been assigned.:DAQ postTrigErr:  No posttrigger source has been assigned.
+503811:1dd2e7 DAQ delayTrigErr: The delayed trigger mode is not supported or is not available in the current configuration, or no delay source has been assigned.:DAQ postTrigErr:  No posttrigger source has been assigned.
+546377:eee79 DAQ delayTrigErr: The delayed trigger mode is not supported or is not available in the current configuration, or no delay source has been assigned.:DAQ postTrigErr:  No posttrigger source has been assigned.
+579230:1611ab DAQ delayTrigErr: The delayed trigger mode is not supported or is not available in the current configuration, or no delay source has been assigned.:DAQ postTrigErr:  No posttrigger source has been assigned.
+638478:1fe1b9 ?HighRes_SetCalibrationMode_TheVirtualThing@daqDevice@@UAEJFK@Z
+639345:205d54 Set_DAQ_Mode

@@ -1,0 +1,53 @@
+59141:231d45 Initializes the NI-VXI library and reads in the resource manager table. The library is automatically initialized when any VXI VI is used in a diagram. If you initialize the library with this VI, you must call CloseVXIlibrary later in your diagram.$
+102497:4ce19c GPIB EMOM: Out of memory (MacBus read or write).VLabVIEW: Device call aborted.
+102526:4cf422 DDE DMLERR_REENTRANCY: An application instance with a synchronous transaction already in progress attempted to initiate another synchronous transaction, or the DdeEnableCallback function was called from within a DDEML call function.
+133304:202dd7 ?readViaCallback@tDMAIterator@@UAEJP6AXPAX0K@Z0KPAKPAUtimeStruct@@@Z
+133305:202e1c ?readViaCallback@tIterator@@UAEJP6AXPAX0K@Z0KPAKPAUtimeStruct@@@Z
+133306:202e5e ?readViaCallback@tScaleIterator@@UAEJP6AXPAX0K@Z0KPAKPAUtimeStruct@@@Z
+133307:202ea5 ?readViaCallbackObliviously@tDMAIterator@@UAEXP6AXPAX0K@Z0K@Z
+133308:202ee3 ?readViaCallbackObliviously@tIterator@@UAEXP6AXPAX0K@Z0K@Z
+133309:202f1e ?readViaCallbackObliviously@tScaleIterator@@UAEXP6AXPAX0K@Z0K@Z
+229567:73521 Initializes the NI-VXI library and reads in the resource manager table. The library is automatically initialized when any VXI VI is used in a diagram. If you initialize the library with this VI, you must call CloseVXIlibrary later in your diagram.$
+229646:740b4 Initializes the NI-VXI library and reads in the resource manager table. The library is automatically initialized when any VXI VI is used in a diagram. If you initialize the library with this VI, you must call CloseVXIlibrary later in your diagram.
+260930:246d74 GPIB EMOM: Out of memory (MacBus read or write).VLabVIEW: Device call aborted.
+260959:247ffa DDE DMLERR_REENTRANCY: An application instance with a synchronous transaction already in progress attempted to initiate another synchronous transaction, or the DdeEnableCallback function was called from within a DDEML call function.
+296076:4083a Initializes the NI-VXI library and reads in the resource manager table. The library is automatically initialized when any VXI VI is used in a diagram. If you initialize the library with this VI, you must call CloseVXIlibrary later in your diagram.$
+296156:413d0 Initializes the NI-VXI library and reads in the resource manager table. The library is automatically initialized when any VXI VI is used in a diagram. If you initialize the library with this VI, you must call CloseVXIlibrary later in your diagram.
+314938:164945 GPIB EMOM: Out of memory (MacBus read or write).VLabVIEW: Device call aborted.
+314967:165bcb DDE DMLERR_REENTRANCY: An application instance with a synchronous transaction already in progress attempted to initiate another synchronous transaction, or the DdeEnableCallback function was called from within a DDEML call function.
+328223:3ea68 Initializes the NI-VXI library and reads in the resource manager table. The library is automatically initialized when any VXI VI is used in a diagram. If you initialize the library with this VI, you must call CloseVXIlibrary later in your diagram.
+328280:3fbd2 Initializes the NI-VXI library and reads in the resource manager table. The library is automatically initialized when any VXI VI is used in a diagram. If you initialize the library with this VI, you must call CloseVXIlibrary later in your diagram.$
+341415:103f15 GPIB EMOM: Out of memory (MacBus read or write).VLabVIEW: Device call aborted.
+341444:10519b DDE DMLERR_REENTRANCY: An application instance with a synchronous transaction already in progress attempted to initiate another synchronous transaction, or the DdeEnableCallback function was called from within a DDEML call function.
+351012:3e7e1 Initializes the NI-VXI library and reads in the resource manager table. The library is automatically initialized when any VXI VI is used in a diagram. If you initialize the library with this VI, you must call CloseVXIlibrary later in your diagram.$
+351091:3f374 Initializes the NI-VXI library and reads in the resource manager table. The library is automatically initialized when any VXI VI is used in a diagram. If you initialize the library with this VI, you must call CloseVXIlibrary later in your diagram.
+371368:180796 GPIB EMOM: Out of memory (MacBus read or write).VLabVIEW: Device call aborted.
+371397:181a1c DDE DMLERR_REENTRANCY: An application instance with a synchronous transaction already in progress attempted to initiate another synchronous transaction, or the DdeEnableCallback function was called from within a DDEML call function.
+421705:3e6ae Initializes the NI-VXI library and reads in the resource manager table. The library is automatically initialized when any VXI VI is used in a diagram. If you initialize the library with this VI, you must call CloseVXIlibrary later in your diagram.$
+421785:3f244 Initializes the NI-VXI library and reads in the resource manager table. The library is automatically initialized when any VXI VI is used in a diagram. If you initialize the library with this VI, you must call CloseVXIlibrary later in your diagram.
+434069:f43b9 GPIB EMOM: Out of memory (MacBus read or write).VLabVIEW: Device call aborted.
+434098:f563f DDE DMLERR_REENTRANCY: An application instance with a synchronous transaction already in progress attempted to initiate another synchronous transaction, or the DdeEnableCallback function was called from within a DDEML call function.
+456522:3beb4 Initializes the NI-VXI library and reads in the resource manager table. The library is automatically initialized when any VXI VI is used in a diagram. If you initialize the library with this VI, you must call CloseVXIlibrary later in your diagram.
+456579:3d01e Initializes the NI-VXI library and reads in the resource manager table. The library is automatically initialized when any VXI VI is used in a diagram. If you initialize the library with this VI, you must call CloseVXIlibrary later in your diagram.$
+470048:10393a GPIB EMOM: Out of memory (MacBus read or write).VLabVIEW: Device call aborted.
+470077:104bc0 DDE DMLERR_REENTRANCY: An application instance with a synchronous transaction already in progress attempted to initiate another synchronous transaction, or the DdeEnableCallback function was called from within a DDEML call function.
+480228:3e7e1 Initializes the NI-VXI library and reads in the resource manager table. The library is automatically initialized when any VXI VI is used in a diagram. If you initialize the library with this VI, you must call CloseVXIlibrary later in your diagram.$
+480307:3f374 Initializes the NI-VXI library and reads in the resource manager table. The library is automatically initialized when any VXI VI is used in a diagram. If you initialize the library with this VI, you must call CloseVXIlibrary later in your diagram.
+503878:1e1737 GPIB EMOM: Out of memory (MacBus read or write).VLabVIEW: Device call aborted.
+503907:1e29bd DDE DMLERR_REENTRANCY: An application instance with a synchronous transaction already in progress attempted to initiate another synchronous transaction, or the DdeEnableCallback function was called from within a DDEML call function.
+534173:3e6ae Initializes the NI-VXI library and reads in the resource manager table. The library is automatically initialized when any VXI VI is used in a diagram. If you initialize the library with this VI, you must call CloseVXIlibrary later in your diagram.$
+534253:3f244 Initializes the NI-VXI library and reads in the resource manager table. The library is automatically initialized when any VXI VI is used in a diagram. If you initialize the library with this VI, you must call CloseVXIlibrary later in your diagram.
+546444:f32c9 GPIB EMOM: Out of memory (MacBus read or write).VLabVIEW: Device call aborted.
+546473:f454f DDE DMLERR_REENTRANCY: An application instance with a synchronous transaction already in progress attempted to initiate another synchronous transaction, or the DdeEnableCallback function was called from within a DDEML call function.
+564438:3beb4 Initializes the NI-VXI library and reads in the resource manager table. The library is automatically initialized when any VXI VI is used in a diagram. If you initialize the library with this VI, you must call CloseVXIlibrary later in your diagram.
+564495:3d01e Initializes the NI-VXI library and reads in the resource manager table. The library is automatically initialized when any VXI VI is used in a diagram. If you initialize the library with this VI, you must call CloseVXIlibrary later in your diagram.$
+579297:1655fb GPIB EMOM: Out of memory (MacBus read or write).VLabVIEW: Device call aborted.
+579326:166881 DDE DMLERR_REENTRANCY: An application instance with a synchronous transaction already in progress attempted to initiate another synchronous transaction, or the DdeEnableCallback function was called from within a DDEML call function.
+584951:3e759 Initializes the NI-VXI library and reads in the resource manager table. The library is automatically initialized when any VXI VI is used in a diagram. If you initialize the library with this VI, you must call CloseVXIlibrary later in your diagram.$
+585030:3f2ec Initializes the NI-VXI library and reads in the resource manager table. The library is automatically initialized when any VXI VI is used in a diagram. If you initialize the library with this VI, you must call CloseVXIlibrary later in your diagram.
+638793:202dd7 ?readViaCallback@tDMAIterator@@UAEJP6AXPAX0K@Z0KPAKPAUtimeStruct@@@Z
+638794:202e1c ?readViaCallback@tIterator@@UAEJP6AXPAX0K@Z0KPAKPAUtimeStruct@@@Z
+638795:202e5e ?readViaCallback@tScaleIterator@@UAEJP6AXPAX0K@Z0KPAKPAUtimeStruct@@@Z
+638796:202ea5 ?readViaCallbackObliviously@tDMAIterator@@UAEXP6AXPAX0K@Z0K@Z
+638797:202ee3 ?readViaCallbackObliviously@tIterator@@UAEXP6AXPAX0K@Z0K@Z
+638798:202f1e ?readViaCallbackObliviously@tScaleIterator@@UAEXP6AXPAX0K@Z0K@Z

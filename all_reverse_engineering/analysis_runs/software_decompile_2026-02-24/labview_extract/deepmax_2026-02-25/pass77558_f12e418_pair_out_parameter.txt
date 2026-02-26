@@ -1,0 +1,8 @@
+74847:31761c lhOutput XON/XOFF. See the Common Serial Port VI Parameters section of this chapter for more information.
+74849:3176fa Output alt HW Handshake. On the PC, this parameter corresponds to Data Set Ready (DSR) handshaking. On the SPARCstation, this parameter is ignored.
+245157:155cd0 lhOutput XON/XOFF. See the Common Serial Port VI Parameters section of this chapter for more information.
+245159:155dae Output alt HW Handshake. On the PC, this parameter corresponds to Data Set Ready (DSR) handshaking. On the SPARCstation, this parameter is ignored.
+397617:33fbea lhOutput XON/XOFF. See the Common Serial Port VI Parameters section of this chapter for more information.
+397619:33fcc8 Output alt HW Handshake. On the PC, this parameter corresponds to Data Set Ready (DSR) handshaking. On the SPARCstation, this parameter is ignored.
+522317:3566d0 Output alt HW Handshake. On the PC, this parameter corresponds to Data Set Ready (DSR) handshaking. On the SPARCstation, this parameter is ignored.
+522318:356768 hOutput XON/XOFF. See the Common Serial Port VI Parameters section of this chapter for more information.

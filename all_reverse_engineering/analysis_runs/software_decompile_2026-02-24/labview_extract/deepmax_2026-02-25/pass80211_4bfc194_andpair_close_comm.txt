@@ -1,0 +1,11 @@
+48196:165404 If you check this box, you will not be prompted for a comment on the rest of the VIs in this hierarchy that are being closed at this time, even if they have one of the prompt for comment options set.
+48272:166bc0 This is the default for the VI Setup of new VIs.  If a VI has this option set, LabVIEW will prompt you for a comment to add to the history whenever the VI is closed.
+100816:4a6dd8 QCloses the file on command or when in incoming error occurs and returns the file size at closure.
+259187:21e62c QCloses the file on command or when in incoming error occurs and returns the file size at closure.
+259351:21fa83 QCloses the file on command or when in incoming error occurs and returns the file size at closure.
+372939:19b128 QCloses the file on command or when in incoming error occurs and returns the file size at closure.
+404036:3a48eb QCloses the file on command or when in incoming error occurs and returns the file size at closure.
+505195:1f9f1b QCloses the file on command or when in incoming error occurs and returns the file size at closure.
+527373:3b3537 QCloses the file on command or when in incoming error occurs and returns the file size at closure.
+596772:f4797 QCloses the file on command or when in incoming error occurs and returns the file size at closure.
+607479:1a677b QCloses the file on command or when in incoming error occurs and returns the file size at closure.

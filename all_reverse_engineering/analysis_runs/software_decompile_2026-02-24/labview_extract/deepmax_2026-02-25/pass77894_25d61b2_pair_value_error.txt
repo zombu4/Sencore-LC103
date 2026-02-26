@@ -1,0 +1,20 @@
+101574:4b6c3f =type of dialog determines what type dialog box will be displayed, if any. Regardless of its value, the VI outputs error information and message describing the error.
+101588:4b7300 error code is a numeric error code. If error in indicates an error, the VI ignores error code. If not, the VI tests it. A non-zero value signifies an error.
+260007:22f817 =type of dialog determines what type dialog box will be displayed, if any. Regardless of its value, the VI outputs error information and message describing the error.
+260021:22fed8 error code is a numeric error code. If error in indicates an error, the VI ignores error code. If not, the VI tests it. A non-zero value signifies an error.
+313995:14d434 =type of dialog determines what type dialog box will be displayed, if any. Regardless of its value, the VI outputs error information and message describing the error.
+314009:14daf5 error code is a numeric error code. If error in indicates an error, the VI ignores error code. If not, the VI tests it. A non-zero value signifies an error.
+340478:eca17 =type of dialog determines what type dialog box will be displayed, if any. Regardless of its value, the VI outputs error information and message describing the error.
+340492:ed0d8 error code is a numeric error code. If error in indicates an error, the VI ignores error code. If not, the VI tests it. A non-zero value signifies an error.
+371452:1835e2 =type of dialog determines what type dialog box will be displayed, if any. Regardless of its value, the VI outputs error information and message describing the error.
+371458:1838c8 error code is a numeric error code. If error in indicates an error, the VI ignores error code. If not, the VI tests it. A non-zero value signifies an error.
+434153:f7205 =type of dialog determines what type dialog box will be displayed, if any. Regardless of its value, the VI outputs error information and message describing the error.
+434159:f74eb error code is a numeric error code. If error in indicates an error, the VI ignores error code. If not, the VI tests it. A non-zero value signifies an error.
+470132:106786 =type of dialog determines what type dialog box will be displayed, if any. Regardless of its value, the VI outputs error information and message describing the error.
+470138:106a6c error code is a numeric error code. If error in indicates an error, the VI ignores error code. If not, the VI tests it. A non-zero value signifies an error.
+504202:1e9a05 =type of dialog determines what type dialog box will be displayed, if any. Regardless of its value, the VI outputs error information and message describing the error.
+504209:1e9e3d error code is a numeric error code. If error in indicates an error, the VI ignores error code. If not, the VI tests it. A non-zero value signifies an error.
+546528:f6115 =type of dialog determines what type dialog box will be displayed, if any. Regardless of its value, the VI outputs error information and message describing the error.
+546534:f63fb error code is a numeric error code. If error in indicates an error, the VI ignores error code. If not, the VI tests it. A non-zero value signifies an error.
+579621:16d8c8 =type of dialog determines what type dialog box will be displayed, if any. Regardless of its value, the VI outputs error information and message describing the error.
+579628:16dd00 error code is a numeric error code. If error in indicates an error, the VI ignores error code. If not, the VI tests it. A non-zero value signifies an error.

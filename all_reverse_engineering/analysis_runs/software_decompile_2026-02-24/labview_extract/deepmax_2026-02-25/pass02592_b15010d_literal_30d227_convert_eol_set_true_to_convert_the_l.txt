@@ -1,0 +1,1 @@
+394264:30d227 convert eol  Set TRUE to convert the LabVIEW end of line marker to the platform-specific marker.  Set FALSE (default value) to do nothing.

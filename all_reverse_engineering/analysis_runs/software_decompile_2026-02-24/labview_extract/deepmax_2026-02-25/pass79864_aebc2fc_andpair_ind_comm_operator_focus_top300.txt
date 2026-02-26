@@ -1,0 +1,20 @@
+80779:375889 Comm Error InD
+102376:4c5276 6Windows GetCommError: The hex value of this code is xH
+102543:4d083f This error code is not listed in the internal database, or you have wired a number that is not an error code (such as a DAQ task ID) to the error code input.6Windows GetCommError: The hex value of this code is x
+249846:19e505 Comm Error InD
+260809:23de4e 6Windows GetCommError: The hex value of this code is xH
+260976:249417 This error code is not listed in the internal database, or you have wired a number that is not an error code (such as a DAQ task ID) to the error code input.6Windows GetCommError: The hex value of this code is x
+314817:15ba3d 666Windows GetCommError: The hex value of this code is xH
+314984:166fe8 This error code is not listed in the internal database, or you have wired a number that is not an error code (such as a DAQ task ID) to the error code input.6Windows GetCommError: The hex value of this code is x
+341294:fb00d 666Windows GetCommError: The hex value of this code is xH
+341461:1065b8 This error code is not listed in the internal database, or you have wired a number that is not an error code (such as a DAQ task ID) to the error code input.6Windows GetCommError: The hex value of this code is x
+371416:182e6e @6Windows GetCommError: The hex value of this code is x
+371569:185ee2 666Windows GetCommError: The hex value of this code is xH
+434117:f6a91 @6Windows GetCommError: The hex value of this code is x
+434268:f9b05 666Windows GetCommError: The hex value of this code is xH
+470096:106012 @6Windows GetCommError: The hex value of this code is x
+470246:109086 666Windows GetCommError: The hex value of this code is xH
+503926:1e3e18 @6Windows GetCommError: The hex value of this code is x
+546492:f59a1 @6Windows GetCommError: The hex value of this code is x
+546643:f8a15 666Windows GetCommError: The hex value of this code is xH
+579345:167cdc @6Windows GetCommError: The hex value of this code is x

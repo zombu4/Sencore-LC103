@@ -1,0 +1,11 @@
+
+Scan Time:     2026-02-24 16:53:48
+Target File:   /Users/<user>/Downloads/LC103/Source/LV6/103f_cal.llb
+MD5 Checksum:  3cea98eb227dbe436e0d2ee8ddf4f4c8
+Signatures:    411
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+3629465       0x376199        Intel x86 or x64 microcode, sig 0x101e2010, pf_mask 0x20101010, 1E20-10-10, rev 0x0101, size 2048
+4053342       0x3DD95E        Minix filesystem, V1, big endian, 61 zones
+

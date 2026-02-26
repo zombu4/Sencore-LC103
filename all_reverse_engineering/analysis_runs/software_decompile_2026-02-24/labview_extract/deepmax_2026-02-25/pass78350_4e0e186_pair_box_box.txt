@@ -1,0 +1,154 @@
+46099:1574ac rangebox.c
+48233:16618b vThis button lets you select a directory with the file dialog box.  The selected directory is placed in the
+48245:1664df _This button removes the highlighted directory in the path list and places it in the string box.
+52994:1cb050 new file path is the path of the file opened or created. You can use this output to determine the path of a file that you open or create using dialog. new file path returns Not A Path if the user selects Cancel from the dialog box.
+54012:1dc119 new file path is the path of the file opened or created.  You can use this output to determine the path of a file that you open or create using dialog.  new file path returns Not A Path if the user selects Cancel from the dialog box.
+90251:413ba4 the LC103 Final Test Box.
+90282:4140f9 the LC103 Final Test Box.
+90295:4142eb the LC103 Final Test Box.
+90299:41439d the LC103 Final Test Box.
+90309:4144fb the LC103 Final Test Box.
+90320:41467f the LC103 Final Test Box.
+90557:416591 the LC103 Final Test Box.
+90561:41661c the LC103 Final Test Box.
+90573:41676a the LC103 Final Test Box.
+90577:4167e6 the LC103 Final Test Box.
+90581:416878 the LC103 Final Test Box.
+90585:41690a the LC103 Final Test Box.
+94378:4448fb of rings specified on the cal box.y
+94384:4449e4 of rings specified on the cal box.O
+94475:4451bb of rings specified on the cal box.-Switch the cal box to
+94478:445238 of rings specified on the cal box.
+99475:49133c new file path is the path of the file opened. You can use this output to determine the path of a file that you open using dialog. new file path returns Not A Path if the user selects Cancel from the dialog box.
+100022:49a5ed new file path is the path of the file opened.  You can use this output to determine the path of a file that you open using dialog.  new file path returns Not A Path if the user selects Cancel from the dialog box.
+101575:4b6cea displays no dialog box. This is useful if you want to have programmatic control over how the error is handled.
+102676:4d2aa2 new file path is the path of the file to which the VI wrote data. You can use this output to determine the path of a file that you open using dialog. new file path returns Not A Path if the user selects Cancel from the dialog box.
+102962:4d6473 new file path is the path of the file to which the VI wrote data.  You can use this output to determine the path of a file that you open using dialog.  new file path returns Not A Path if the user selects Cancel from the dialog box.
+111786:5654df new file path is the path of the file from which the VI read data. You can use this output to determine the path of a file that you open using dialog. new file path returns Not A Path if the user selects Cancel from the dialog box.
+112349:56c5f9 new file path is the path of the file from which the VI read data.  You can use this output to determine the path of a file that you open using dialog.  new file path returns Not A Path if the user selects Cancel from the dialog box.
+223251:9c7c new file path is the path of the file opened or created. You can use this output to determine the path of a file that you open or create using dialog. new file path returns Not A Path if the user selects Cancel from the dialog box.
+224269:1ad45 new file path is the path of the file opened or created.  You can use this output to determine the path of a file that you open or create using dialog.  new file path returns Not A Path if the user selects Cancel from the dialog box.
+224505:1da51 new file path is the path of the file opened or created.  You can use this output to determine the path of a file that you open or create using dialog.  new file path returns Not A Path if the user selects Cancel from the dialog box.
+257805:207c68 new file path is the path of the file opened. You can use this output to determine the path of a file that you open using dialog. new file path returns Not A Path if the user selects Cancel from the dialog box.
+258352:210f19 new file path is the path of the file opened.  You can use this output to determine the path of a file that you open using dialog.  new file path returns Not A Path if the user selects Cancel from the dialog box.
+258535:212ca3 new file path is the path of the file opened.  You can use this output to determine the path of a file that you open using dialog.  new file path returns Not A Path if the user selects Cancel from the dialog box.
+260008:22f8c2 displays no dialog box. This is useful if you want to have programmatic control over how the error is handled.
+261115:24ba02 new file path is the path of the file to which the VI wrote data. You can use this output to determine the path of a file that you open using dialog. new file path returns Not A Path if the user selects Cancel from the dialog box.
+261401:24f3d3 new file path is the path of the file to which the VI wrote data.  You can use this output to determine the path of a file that you open using dialog.  new file path returns Not A Path if the user selects Cancel from the dialog box.
+261613:250a84 new file path is the path of the file to which the VI wrote data.  You can use this output to determine the path of a file that you open using dialog.  new file path returns Not A Path if the user selects Cancel from the dialog box.
+270315:2dfc33 new file path is the path of the file from which the VI read data. You can use this output to determine the path of a file that you open using dialog. new file path returns Not A Path if the user selects Cancel from the dialog box.
+270878:2e6d4d new file path is the path of the file from which the VI read data.  You can use this output to determine the path of a file that you open using dialog.  new file path returns Not A Path if the user selects Cancel from the dialog box.
+271325:2e9550 new file path is the path of the file from which the VI read data.  You can use this output to determine the path of a file that you open using dialog.  new file path returns Not A Path if the user selects Cancel from the dialog box.
+279367:37e35b of rings specified on the cal box.y
+279373:37e444 of rings specified on the cal box.O
+279464:37ec1b of rings specified on the cal box.-Switch the cal box to
+279467:37ec98 of rings specified on the cal box.
+285326:3e3040 the LC103 Final Test Box.
+285357:3e3595 the LC103 Final Test Box.
+285370:3e3787 the LC103 Final Test Box.
+285374:3e3839 the LC103 Final Test Box.
+285384:3e3997 the LC103 Final Test Box.
+285395:3e3b1b the LC103 Final Test Box.
+285632:3e5a2d the LC103 Final Test Box.
+285636:3e5ab8 the LC103 Final Test Box.
+285648:3e5c06 the LC103 Final Test Box.
+285652:3e5c82 the LC103 Final Test Box.
+285656:3e5d14 the LC103 Final Test Box.
+285660:3e5da6 the LC103 Final Test Box.
+307022:d59b7 1) Plug in and turn on LC103 Mainboard test box.
+307025:d5a3c 3) Connect Fluke 8840A to DVM plugs on front panel of test box.
+307026:d5a7c 4) Connect Lo Capacity leads to UUT plugs on front of test box.
+307027:d5abc 5) Connect 50 pin ribbon cable from PC to right side of test box.
+313996:14d4df displays no dialog box. This is useful if you want to have programmatic control over how the error is handled.
+323370:1effb7 1) Plug in and turn on LC103 Mainboard test box.
+323373:1f003c 3) Connect Fluke 8840A to DVM plugs on front panel of test box.
+323374:1f007c 4) Connect Lo Capacity leads to UUT plugs on front of test box.
+323375:1f00bc 5) Connect 50 pin ribbon cable from PC to right side of test box.
+323677:1f2c02 1) Plug in and turn on LC103 Mainboard test box.
+323680:1f2c87 3) Connect Fluke 8840A to DVM plugs on front panel of test box.
+323681:1f2cc7 4) Connect Lo Capacity leads to UUT plugs on front of test box.
+323682:1f2d07 5) Connect 50 pin ribbon cable from PC to right side of test box.
+340479:ecac2 displays no dialog box. This is useful if you want to have programmatic control over how the error is handled.
+366635:1309bf new file path is the path of the file from which the VI read data.  You can use this output to determine the path of a file that you open using dialog.  new file path returns Not A Path if the user selects Cancel from the dialog box.
+366644:130fe4 new file path is the path of the file from which the VI read data. You can use this output to determine the path of a file that you open using dialog. new file path returns Not A Path if the user selects Cancel from the dialog box.
+370473:168d67 new file path is the path of the file to which the VI wrote data.  You can use this output to determine the path of a file that you open using dialog.  new file path returns Not A Path if the user selects Cancel from the dialog box.
+370475:168f28 new file path is the path of the file to which the VI wrote data. You can use this output to determine the path of a file that you open using dialog. new file path returns Not A Path if the user selects Cancel from the dialog box.
+371453:18368d displays no dialog box. This is useful if you want to have programmatic control over how the error is handled.
+374022:1ad9d2 new file path is the path of the file opened.  You can use this output to determine the path of a file that you open using dialog.  new file path returns Not A Path if the user selects Cancel from the dialog box.
+374031:1adf54 new file path is the path of the file opened. You can use this output to determine the path of a file that you open using dialog. new file path returns Not A Path if the user selects Cancel from the dialog box.
+380045:20b2c8 of rings specified on the cal box.
+380047:20b317 of rings specified on the cal box.
+380158:20c061 of rings specified on the cal box.y
+380164:20c14a of rings specified on the cal box.O
+385846:267763 the LC103 Final Test Box.
+385869:267958 the LC103 Final Test Box.
+385875:267a05 the LC103 Final Test Box.
+385878:267a88 the LC103 Final Test Box.
+385881:267af8 the LC103 Final Test Box.
+385884:267b74 the LC103 Final Test Box.
+386061:269875 the LC103 Final Test Box.
+386098:269e69 the LC103 Final Test Box.
+386113:26a076 the LC103 Final Test Box.
+386117:26a128 the LC103 Final Test Box.
+386128:26a29f the LC103 Final Test Box.
+386140:26a43c the LC103 Final Test Box.
+394252:30cc85 new file path is the path of the file opened or created.  You can use this output to determine the path of a file that you open or create using dialog.  new file path returns Not A Path if the user selects Cancel from the dialog box.
+404028:3a4323 new file path is the path of the file opened.  You can use this output to determine the path of a file that you open using dialog.  new file path returns Not A Path if the user selects Cancel from the dialog box.
+404063:3a5cec new file path is the path of the file to which the VI wrote data.  You can use this output to determine the path of a file that you open using dialog.  new file path returns Not A Path if the user selects Cancel from the dialog box.
+404100:3a6b54 new file path is the path of the file from which the VI read data.  You can use this output to determine the path of a file that you open using dialog.  new file path returns Not A Path if the user selects Cancel from the dialog box.
+406188:3cbf55 new file path is the path of the file opened or created.  You can use this output to determine the path of a file that you open or create using dialog.  new file path returns Not A Path if the user selects Cancel from the dialog box.
+406197:3cc4ec new file path is the path of the file opened or created. You can use this output to determine the path of a file that you open or create using dialog. new file path returns Not A Path if the user selects Cancel from the dialog box.
+434154:f72b0 displays no dialog box. This is useful if you want to have programmatic control over how the error is handled.
+442584:17f50c 1) Plug in and turn on LC103 Mainboard test box.
+442587:17f591 3) Connect Fluke 8840A to DVM plugs on front panel of test box.
+442588:17f5d1 4) Connect Lo Capacity leads to UUT plugs on front of test box.
+442589:17f611 5) Connect 50 pin ribbon cable from PC to right side of test box.
+445162:1a5674 1) Plug in and turn on LC103 Mainboard test box.
+445165:1a56f9 3) Connect Fluke 8840A to DVM plugs on front panel of test box.
+445166:1a5739 4) Connect Lo Capacity leads to UUT plugs on front of test box.
+445167:1a5779 5) Connect 50 pin ribbon cable from PC to right side of test box.
+445426:1a7301 1) Plug in and turn on LC103 Mainboard test box.
+445429:1a7386 3) Connect Fluke 8840A to DVM plugs on front panel of test box.
+445430:1a73c6 4) Connect Lo Capacity leads to UUT plugs on front of test box.
+445431:1a7406 5) Connect 50 pin ribbon cable from PC to right side of test box.
+470133:106831 displays no dialog box. This is useful if you want to have programmatic control over how the error is handled.
+496234:149e5b new file path is the path of the file from which the VI read data.  You can use this output to determine the path of a file that you open using dialog.  new file path returns Not A Path if the user selects Cancel from the dialog box.
+496403:14bc40 new file path is the path of the file from which the VI read data. You can use this output to determine the path of a file that you open using dialog. new file path returns Not A Path if the user selects Cancel from the dialog box.
+503363:1cfa76 new file path is the path of the file to which the VI wrote data.  You can use this output to determine the path of a file that you open using dialog.  new file path returns Not A Path if the user selects Cancel from the dialog box.
+503506:1d0df1 new file path is the path of the file to which the VI wrote data. You can use this output to determine the path of a file that you open using dialog. new file path returns Not A Path if the user selects Cancel from the dialog box.
+504203:1e9ab0 displays no dialog box. This is useful if you want to have programmatic control over how the error is handled.
+505868:2080c7 new file path is the path of the file opened.  You can use this output to determine the path of a file that you open using dialog.  new file path returns Not A Path if the user selects Cancel from the dialog box.
+506077:20a6f9 new file path is the path of the file opened. You can use this output to determine the path of a file that you open using dialog. new file path returns Not A Path if the user selects Cancel from the dialog box.
+510110:25392f of rings specified on the cal box.
+510112:25397e of rings specified on the cal box.
+513179:28da68 the LC103 Final Test Box.
+513202:28dc5d the LC103 Final Test Box.
+513208:28dd0a the LC103 Final Test Box.
+513211:28dd8d the LC103 Final Test Box.
+513214:28ddfd the LC103 Final Test Box.
+513217:28de79 the LC103 Final Test Box.
+520844:33c57d new file path is the path of the file opened or created.  You can use this output to determine the path of a file that you open or create using dialog.  new file path returns Not A Path if the user selects Cancel from the dialog box.
+527365:3b2f6f new file path is the path of the file opened.  You can use this output to determine the path of a file that you open using dialog.  new file path returns Not A Path if the user selects Cancel from the dialog box.
+527400:3b4938 new file path is the path of the file to which the VI wrote data.  You can use this output to determine the path of a file that you open using dialog.  new file path returns Not A Path if the user selects Cancel from the dialog box.
+527437:3b57a0 new file path is the path of the file from which the VI read data.  You can use this output to determine the path of a file that you open using dialog.  new file path returns Not A Path if the user selects Cancel from the dialog box.
+528202:3c86bc new file path is the path of the file opened or created.  You can use this output to determine the path of a file that you open or create using dialog.  new file path returns Not A Path if the user selects Cancel from the dialog box.
+528594:3cc406 new file path is the path of the file opened or created. You can use this output to determine the path of a file that you open or create using dialog. new file path returns Not A Path if the user selects Cancel from the dialog box.
+546529:f61c0 displays no dialog box. This is useful if you want to have programmatic control over how the error is handled.
+559423:1d98e5 1) Plug in and turn on LC103 Mainboard test box.
+559426:1d996a 3) Connect Fluke 8840A to DVM plugs on front panel of test box.
+559427:1d99aa 4) Connect Lo Capacity leads to UUT plugs on front of test box.
+559428:1d99ea 5) Connect 50 pin ribbon cable from PC to right side of test box.
+559818:1ded7d 1) Plug in and turn on LC103 Mainboard test box.
+559821:1dee02 3) Connect Fluke 8840A to DVM plugs on front panel of test box.
+559822:1dee42 4) Connect Lo Capacity leads to UUT plugs on front of test box.
+559823:1dee82 5) Connect 50 pin ribbon cable from PC to right side of test box.
+579622:16d973 displays no dialog box. This is useful if you want to have programmatic control over how the error is handled.
+595378:d58f5 new file path is the path of the file opened or created.  You can use this output to determine the path of a file that you open or create using dialog.  new file path returns Not A Path if the user selects Cancel from the dialog box.
+595867:e28d8 new file path is the path of the file opened or created.  You can use this output to determine the path of a file that you open or create using dialog.  new file path returns Not A Path if the user selects Cancel from the dialog box.
+596259:e6622 new file path is the path of the file opened or created. You can use this output to determine the path of a file that you open or create using dialog. new file path returns Not A Path if the user selects Cancel from the dialog box.
+596764:f41cf new file path is the path of the file opened.  You can use this output to determine the path of a file that you open using dialog.  new file path returns Not A Path if the user selects Cancel from the dialog box.
+596799:f5b98 new file path is the path of the file to which the VI wrote data.  You can use this output to determine the path of a file that you open using dialog.  new file path returns Not A Path if the user selects Cancel from the dialog box.
+596836:f6a00 new file path is the path of the file from which the VI read data.  You can use this output to determine the path of a file that you open using dialog.  new file path returns Not A Path if the user selects Cancel from the dialog box.
+607064:19fb37 new file path is the path of the file opened.  You can use this output to determine the path of a file that you open using dialog.  new file path returns Not A Path if the user selects Cancel from the dialog box.
+608421:1b7058 new file path is the path of the file to which the VI wrote data.  You can use this output to determine the path of a file that you open using dialog.  new file path returns Not A Path if the user selects Cancel from the dialog box.
+610298:1d5218 new file path is the path of the file from which the VI read data.  You can use this output to determine the path of a file that you open using dialog.  new file path returns Not A Path if the user selects Cancel from the dialog box.

@@ -1,0 +1,14 @@
+(value in seconds)
+A DDEML application has created a prolonged race condition (where the server application outruns the client), causing large amounts of memory to be consumed.5DDE DMLERR_MEMORY_ERROR
+A server-side transaction was attempted on a conversation that was terminated by the client, or the server terminated before completing a transaction.CDDE DMLERR_SYS_ERROR
+An application initialized as APPCLASS_MONITOR has attempted to perform a DDE transaction, or an application initialized as APPCMD_CLIENTONLY has attempted to perform server transactions.ZDDE DMLERR_EXECACKTIMEOUT
+An error was detected in the input string; the arrangement or ordering of the characters in the string is not consistent with the expected ordering.*Instr. Driver
+An error was detected in the input string; the syntax of the string is correct, but certain values specified in the string are inconsistent with other values specified in the string.
+DMA hardware uP bus timeout.QLabVIEW
+Invalid command code.GDDE
+Invalid string.XDDE DMERRL_ADVACKTIMEOUT
+Serial port timeout; bytes not received at serial port.
+The clock source for the input task is faster than the maximum clock rate the device supports.  If you are allowing the driver to calculate the analog input channel clock rate, the driver bases the clock rate on the board type; so you should check that your board type is correct in the configuration utility.YDAQ earlyStopErr
+The file you are attempting to load to the DSP board is not created using the WE DSP32C tools (not an acceptable COFF file).gDSP COFF_FilePathErr
+Unknown message.%LabVIEW
+\automated\lv51\lvsource\gencode.cGenRangeCheck

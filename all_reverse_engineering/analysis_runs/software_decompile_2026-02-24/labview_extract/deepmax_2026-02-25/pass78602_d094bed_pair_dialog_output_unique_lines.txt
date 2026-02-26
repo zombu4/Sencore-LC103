@@ -1,0 +1,17 @@
+101574:4b6c3f =type of dialog determines what type dialog box will be displayed, if any. Regardless of its value, the VI outputs error information and message describing the error.
+260007:22f817 =type of dialog determines what type dialog box will be displayed, if any. Regardless of its value, the VI outputs error information and message describing the error.
+313995:14d434 =type of dialog determines what type dialog box will be displayed, if any. Regardless of its value, the VI outputs error information and message describing the error.
+340478:eca17 =type of dialog determines what type dialog box will be displayed, if any. Regardless of its value, the VI outputs error information and message describing the error.
+371452:1835e2 =type of dialog determines what type dialog box will be displayed, if any. Regardless of its value, the VI outputs error information and message describing the error.
+434153:f7205 =type of dialog determines what type dialog box will be displayed, if any. Regardless of its value, the VI outputs error information and message describing the error.
+470132:106786 =type of dialog determines what type dialog box will be displayed, if any. Regardless of its value, the VI outputs error information and message describing the error.
+504202:1e9a05 =type of dialog determines what type dialog box will be displayed, if any. Regardless of its value, the VI outputs error information and message describing the error.
+546528:f6115 =type of dialog determines what type dialog box will be displayed, if any. Regardless of its value, the VI outputs error information and message describing the error.
+579621:16d8c8 =type of dialog determines what type dialog box will be displayed, if any. Regardless of its value, the VI outputs error information and message describing the error.
+612546:51 - The File Dialog function now outputs an error cluster. An Unbundle function was inserted to maintain compatibility.
+612548:11d - The File Dialog function now outputs an error cluster. An Unbundle function was inserted to maintain compatibility.
+612561:7ac - The File Dialog function now outputs an error cluster. An Unbundle function was inserted to maintain compatibility.
+612575:ea9 - The File Dialog function now outputs an error cluster. An Unbundle function was inserted to maintain compatibility.
+612577:f75 - The File Dialog function now outputs an error cluster. An Unbundle function was inserted to maintain compatibility.
+612582:11a8 - The File Dialog function now outputs an error cluster. An Unbundle function was inserted to maintain compatibility.
+612592:16d9 - The File Dialog function now outputs an error cluster. An Unbundle function was inserted to maintain compatibility.

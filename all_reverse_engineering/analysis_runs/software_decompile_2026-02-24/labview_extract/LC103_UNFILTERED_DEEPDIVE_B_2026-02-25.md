@@ -1,0 +1,53 @@
+# LC103_UNFILTERED_DEEPDIVE_B_2026-02-25
+
+- Source scan: `manifests/lc103_filetypes_2026-02-24.tsv` enumerates the 41 documented artifacts.  Each entry below references the exported strings or manifest context to prove the dependency signal.
+
+## Executables
+- **Final Cal/103FIN.EXE** – Emits lvdevice.dll load errors, showing the UI depends on that LabVIEW runtime bridge. Evidence: `strings/Final_Cal_103FIN.EXE.strings.txt:11507` (BCould not load lvdevice.dll.  It should be in LabVIEW's directory.).
+
+## Libraries
+- **DAQDRV** – Runs board init and LoadLibrary logging before handing NI-DAQ over to the wizard. Evidence: `strings/DAQDRV.strings.txt:7` (DAQDRV: 387 control reg is 0x%x before calling LoadLibrary).
+- **Final Cal/DAQDRV** – The forensic logs repeat the same control-register messaging, reaffirming the driver that manipulates DAQ slots. Evidence: `strings/Final_Cal_DAQDRV.strings.txt:7` (DAQDRV: 387 control reg is 0x%x before calling LoadLibrary).
+- **Final Cal/GPIBDRV** – Strings mention GPIB.DLL, showing the driver handles the GPIB/serial transport the legacy flow relies on. Evidence: `strings/Final_Cal_GPIBDRV.strings.txt:57` (GPIB.DLL).
+- **Final Cal/LVDEVICE.DLL** – Exports COM/notification helpers (MYENABLECOMMNOTIFICATION) that let the wizard react to the RS-232 channel. Evidence: `strings/Final_Cal_LVDEVICE.DLL.strings.txt:13` (MYENABLECOMMNOTIFICATION).
+- **Final Cal/SERPDRV** – Mentions SerpWatchDogFlag, so power/EMI watchdog services are part of behavior control. Evidence: `strings/Final_Cal_SERPDRV.strings.txt:48` (SerpWatchDogFlag).
+- **Final Cal/nidaq.dll** – Library lists exports such as UpdateRemoteNIDAQ and MapGlobalIDToGlobal, showing direct tie into NI-DAQ configuration. Evidence: `strings/Final_Cal_nidaq.dll.strings.txt:12175` (nidaq32.dll).
+- **GPIBDRV** – Standalone GPIBDRV copy has the same GPIB.DLL pointer, confirming it supplies the bus-level code used inside the wizard. Evidence: `strings/GPIBDRV.strings.txt:57` (GPIB.DLL).
+- **SERPDRV** – Serp driver warnings (SerpWatchDogFlag) show the watchdog flag the legacy flow monitors. Evidence: `strings/SERPDRV.strings.txt:48` (SerpWatchDogFlag).
+- **nidaq32/nidaq32.dll** – SCXI_* exports (Remote Config, Module Write) show the driver offers advanced NI-DAQ controls referenced during calibration. Evidence: `strings/nidaq32_nidaq32.dll.strings.txt:13200` (SCXI_Module_Write).
+
+## Configs
+- **Final Cal/VERSION.DAT** – Hard-coded legacy revision (VER1.50) anchors workflow assertions about the calibration release. Evidence: `strings/Final_Cal_VERSION.DAT.strings.txt:1` (LAST KNOWN LC103 SOFTWARE REV. IS:  VER1.50).
+- **LC103 Final Cal/LC103 Cal Data.ini** – Config file enumerates ranges (C Range0–L Range6) and their actual values, so the legacy calibration limits come from here. Evidence: `strings/LC103_Final_Cal_LC103_Cal_Data.ini.strings.txt:1` ([LC103 SW]).
+- **LC103 Final Cal/LC103 Final Cal.aliases** – Sets the 'My Computer' alias to localhost so the VI server binds to the local machine for automation. Evidence: `strings/LC103_Final_Cal_LC103_Final_Cal.aliases.strings.txt:1` ([My Computer]).
+- **LC103 Final Cal/LC103 Final Cal.ini** – VI server flags (server.tcp.serviceName, WebServer access) show how remote control is enabled for the modern UI to mimic the old flow. Evidence: `strings/LC103_Final_Cal_LC103_Final_Cal.ini.strings.txt:1` ([LC103 Final Cal] server.app.propertiesEnabled=True).
+- **LC103 Final Cal/LC103 configData.nce** – Binary token list (dTime, X1279, etc.) stores automations/metadata the legacy app reads at startup. Evidence: `strings/LC103_Final_Cal_LC103_configData.nce.strings.txt:3` (dTime).
+- **VERSION.DAT** – Top-level version indicator duplicates VER1.50, so tooling knows which legacy revision is targeted. Evidence: `strings/VERSION.DAT.strings.txt:1` (LAST KNOWN LC103 SOFTWARE REV. IS:  VER1.50).
+- **configData.nce** – Binary config again enumerates tokens such as dTime, supplying metadata the runtime consumes. Evidence: `strings/configData.nce.strings.txt:3` (dTime).
+
+## Data
+- **Final Cal.zip** – Archive listing starts with DAQDRV, so the package bundles the core driver payload. Evidence: `strings/Final_Cal.zip.strings.txt:1` (DAQDRV).
+- **Final Cal/P071_03.CAL** – Lists the capacitor/inductor high/low points that drive capacitor calibration steps. Evidence: `strings/Final_Cal_P071_03.CAL.strings.txt:1` (201.1E-12).
+- **Final Cal/P072_1.cal** – Describes seven high/low range pairs, so the wizard knows the data sets for the range loops. Evidence: `strings/Final_Cal_P072_1.cal.strings.txt:15` (There are 7 cal ranges.  The values listed above are grouped in two's; the first one).
+- **LC103 fixes.xlsx** – Workbook structure entries indicate operator guidance or fixes exported from the legacy suite. Evidence: `strings/LC103_fixes.xlsx.strings.txt:1` ([Content_Types].xml).
+- **LC103 simplified operating instructions (pull chart).pdf** – PDF metadata shows the official pull chart remains part of the dependency corpus for operator commands. Evidence: `strings/LC103_simplified_operating_instructions_pull_chart.pdf.strings.txt:1` (%PDF-1.3).
+- **Old Cal Files/P071_03.CAL** – Old cal table restates capacitor points, giving another source to confirm legacy values. Evidence: `strings/Old_Cal_Files_P071_03.CAL.strings.txt:1` (201.1E-12).
+- **Old Cal Files/P072_10.CAL** – Historic range descriptions reiterate the seven-range pairing strategy for calibration. Evidence: `strings/Old_Cal_Files_P072_10.CAL.strings.txt:15` (There are 7 cal ranges.  The values listed above are grouped in two's; the first one).
+- **P071_03.CAL** – Root-level calibration table mirrors the Final Cal set, ensuring data redundancy when reconstructing behavior. Evidence: `strings/P071_03.CAL.strings.txt:1` (201.1E-12).
+- **P072_1.cal** – Pairing note reiterates how the wizard walks through the seven calibration ranges. Evidence: `strings/P072_1.cal.strings.txt:15` (There are 7 cal ranges.  The values listed above are grouped in two's; the first one).
+- **Source/LV3_1/103f_cal.llb** – VI strings show NI-DAQ table allocations (DAQTABLS AI/AO) that embody the calibration runtime. Evidence: `strings/Source_LV3_1_103f_cal.llb.strings.txt:16` (DAQTABLS: AI_TASK ALLOCATE, device %d, group %d...).
+- **Source/LV3_1/MAINB_II.LLB** – Setup procedure text (Mainboard tester #74C216-1) outlines the hardware prep sequence. Evidence: `strings/Source_LV3_1_MAINB_II.LLB.strings.txt:24577` (1) Plug in and turn on LC103 Mainboard test box.).
+- **Source/LV3_1/PWRTEST.LLB** – Front-panel strings (Continue Button, Ready) show the power-test VI gating user interaction. Evidence: `strings/Source_LV3_1_PWRTEST.LLB.strings.txt:26` (Continue Button).
+- **Source/LV5_1/103f_cal.llb** – Serial Port VIs (Reset/Buffer Size/Init/Write/Read) appear, so this version controls RS-232 gating. Evidence: `strings/Source_LV5_1_103f_cal.llb.strings.txt:35` (Serial Port Reset.vi).
+- **Source/LV5_1/Fluke 8840A.vi** – The Fluke DVM VI name shows the legacy calibration explicitly references the 8840A instrument. Evidence: `strings/Source_LV5_1_Fluke_8840A.vi.strings.txt:3` (Fluke 8840A.vi).
+- **Source/LV5_1/Mainb_ii.llb** – Reproduces the same Mainboard tester instructions, so this VI sequence drives the physical test order. Evidence: `strings/Source_LV5_1_Mainb_ii.llb.strings.txt:24577` (Mainboard tester (#74C216-1).).
+- **Source/LV5_1/Pwrtest.llb** – PWRtest VI names repeat, documenting the power-phase instrumentation the wizard sends. Evidence: `strings/Source_LV5_1_Pwrtest.llb.strings.txt:13185` (PWRtest.VI).
+- **Source/LV6/103f_cal.llb** – AI/AO allocation logging is once again present, revealing the same NI wiring for another version. Evidence: `strings/Source_LV6_103f_cal.llb.strings.txt:16` (DAQTABLS: AI_TASK ALLOCATE, device %d, group %d...).
+- **Source/LV6/Fluke 8840A.vi** – An additional Fluke 8840A VI ensures the later LabVIEW build still references that DVM. Evidence: `strings/Source_LV6_Fluke_8840A.vi.strings.txt:3` (Fluke 8840A.vi).
+- **Source/LV6/Mainb_ii.llb** – Mainboard setup instructions repeat, underscoring the consistent hardware dependency for that VI set. Evidence: `strings/Source_LV6_Mainb_ii.llb.strings.txt:28948` (1) Plug in and turn on LC103 Mainboard test box.).
+- **Source/LV6/Pwrtest.llb** – Text describing VXIbus byte transfers links the VI to the message-based device protocol the legacy flow requires. Evidence: `strings/Source_LV6_Pwrtest.llb.strings.txt:9` (Transfers the specified number of data bytes from a Message-Based device...).
+- **Source/lv8/103f_cal.llb** – LabVIEW 8 branch still references serial/file helpers (Open/Create/Replace File) that are critical to replay. Evidence: `strings/Source_lv8_103f_cal.llb.strings.txt:35` (Open/Create/Replace File.vi).
+- **Source/lv8/warnings.txt** – Warnings mention LabVIEW 8.6 replacements/resolution for Beep.vi, pointing at system library dependencies. Evidence: `strings/Source_lv8_warnings.txt.strings.txt:1` (\Atlas\Shared\Cal-Test\LC103\Source\lv8\103f_cal.llb\103FINAL.VI...).
+- **nidaq32.zip** – Archive listing includes nidaq32.dll, so it supplies the actual remote driver the legacy app will load. Evidence: `strings/nidaq32.zip.strings.txt:2` (nidaq32.dll).
+- **nidaq32/README.txt** – README explains how the downloaded driver bundle should be used, capturing the dependency context. Evidence: `strings/nidaq32_README.txt.strings.txt:1` (This file was provided by: https://www.dll-files.com/).
+

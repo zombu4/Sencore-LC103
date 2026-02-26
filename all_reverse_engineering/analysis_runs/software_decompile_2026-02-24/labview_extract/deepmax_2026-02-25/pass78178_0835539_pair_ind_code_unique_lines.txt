@@ -1,0 +1,25 @@
+54724:1e7b2f *.calBPlease choose the file containing the inductance calibration data.gencode.cGenDispatchEntry
+100209:49d388 source messages contains the source message you want to appear in the error out cluster if the VI finds an error in error codes. Place each message on a separate line in a string constant or control.
+100218:49d6bf error in is a cluster of elements that describes any previous error you want to check. If it is unwired or indicates no error, the VI checks the error codes array instead. See Simple Error Handler for additional information.
+102376:4c5276 6Windows GetCommError: The hex value of this code is xH
+225048:27f5b *.calBPlease choose the file containing the inductance calibration data.gencode.cGenDispatchEntry
+258563:214768 source messages contains the source message you want to appear in the error out cluster if the VI finds an error in error codes. Place each message on a separate line in a string constant or control.
+258572:214a9f error in is a cluster of elements that describes any previous error you want to check. If it is unwired or indicates no error, the VI checks the error codes array instead. See Simple Error Handler for additional information.
+260809:23de4e 6Windows GetCommError: The hex value of this code is xH
+314817:15ba3d 666Windows GetCommError: The hex value of this code is xH
+341294:fb00d 666Windows GetCommError: The hex value of this code is xH
+371416:182e6e @6Windows GetCommError: The hex value of this code is x
+371569:185ee2 666Windows GetCommError: The hex value of this code is xH
+373374:1a228f source messages contains the source message you want to appear in the error out cluster if the VI finds an error in error codes. Place each message on a separate line in a string constant or control.
+373379:1a25a6 error in is a cluster of elements that describes any previous error you want to check. If it is unwired or indicates no error, the VI checks the error codes array instead. See Simple Error Handler for additional information.
+404920:3b4381 *.calBPlease choose the file containing the inductance calibration data.d:\automated\lv51\lvsource\gencode.cGenRangeCheck
+434117:f6a91 @6Windows GetCommError: The hex value of this code is x
+434268:f9b05 666Windows GetCommError: The hex value of this code is xH
+470096:106012 @6Windows GetCommError: The hex value of this code is x
+470246:109086 666Windows GetCommError: The hex value of this code is xH
+503926:1e3e18 @6Windows GetCommError: The hex value of this code is x
+505530:20065b error in is a cluster of elements that describes any previous error you want to check. If it is unwired or indicates no error, the VI checks the error codes array instead. See Simple Error Handler for additional information.
+505539:200a14 source messages contains the source message you want to appear in the error out cluster if the VI finds an error in error codes. Place each message on a separate line in a string constant or control.
+546492:f59a1 @6Windows GetCommError: The hex value of this code is x
+546643:f8a15 666Windows GetCommError: The hex value of this code is xH
+579345:167cdc @6Windows GetCommError: The hex value of this code is x

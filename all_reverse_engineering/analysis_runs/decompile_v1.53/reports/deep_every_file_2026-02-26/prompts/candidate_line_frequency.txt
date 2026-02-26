@@ -1,0 +1,1299 @@
+  10 status is a Boolean array in which each bit describes a state of the GPIB Controller. If an error occurs, the GPIB VIs set bit 15. GPIB error is valid only if bit 15 of status is set.
+  10 shortvalue M
+  10 shortvalue @
+  10 ZFor most applications, you only need to connect wires to the controls and indicators displayed in bold.
+  10 Voltage Reading
+  10 VFor most applications, you only need to connect wires to the controls and indicators displayed in bold.
+  10 User abort occurred during I/O
+  10 Transfer aborted - Device not DOR
+  10 Transfer aborted - Device not DIR
+  10 This integer represents a GPIB address.  The low byte is the primary GPIB address (0-30) and the high byte is either 0 or a secondary GPIB address (96-126 or 0x60-0x7E).  Use MakeAddress.vi to construct a GPIB address which uses secondary addressing.RNcount. The VI returns up to count data bytes from the device in data string.
+  10 This VI reads the port identified by task ID and returns the pattern read.
+  10 This VI establishes a port configuration. You can use the task ID that this VI returns only in digital port VIs.
+  10 Status state (Passed/Failed, Ready/Not Ready)$ (U16)
+  10 Reads data from a device.  The data read is stored in the buffer represented by read buffer.  This operation returns when the transfer terminates.
+  10 Open GPIB DriverPD
+  10 Open GPIB Driver.vi
+  10 Most applications need only connect wires to the controls and indicators displayed in bold.  Connections to other controls and indicators are useful only if specifically needed.
+  10 Measure volts, amps, or ohms.  Select one of 6 functions.  Select range or use auto range.  Select trigger mode.  Slow reading rate is used for accuracy.                                         version a.0
+  10 Instr Open.vig
+  10 Instr Open.viarison.vi
+  10 Instr Open.vi
+  10 Initializes the software connection to the instrument.  In the case of VXI instruments controlled via NI-VXI, initializes the NI-VXI library, reads in the resource manager table, calculates A16 configuration addresses, determines memory requirements, and stores base addresses into A24 or A32 space.  For VXI instruments controlled via GPIB-VXI, performs all of the above except initialization of NI-VXI libraries.  You must run the INSTR Close VI once for every time you run this VI.$
+  10 Initializes the software connection to the instrument.  In the case of VXI instruments controlled via NI-VXI, initializes the NI-VXI library, reads in the resource manager table, calculates A16 configuration addresses, determines memory requirements, and stores base addresses into A24 or A32 space.  For VXI instruments controlled via GPIB-VXI, performs all of the above except initialization of NI-VXI libraries.  You must run the INSTR Close VI once for every time you run this VI.
+  10 GetDevInfoShort.vi`
+  10 GetDevInfoShort.viQD
+  10 GetDevInfoShort.viND
+  10 GetDevInfoShort.viMD
+  10 GetDevInfoShort.vi
+  10 GPIBOpen.viH
+  10 For most applications, you only need to connect wires to the controls and indicators displayed in bold.
+  10 Establishes a communication session with a remote instrument based on the instrument descriptor.  Instr Open creates an instr handle that is used by all other VISA Transition Library VIs to perform operations on that session.
+  10 @return count2P@
+  10 @return count
+  10 ;Instr Openi
+  10 6Selects the GPIB bus on which to perform the operation.  The VI addresses the interface indicated by bus as a Listener.  If you have only one GPIB interface in your computer, the default bus number is 0. For additional GPIB interfaces, see the software installation instructions included with your GPIB board.
+  10 3Selects the GPIB bus on which to perform the operation.  The VI addresses the interface indicated by bus as a Talker. If you have only one GPIB interface in your computer, the default bus number is 0. For additional GPIB interfaces, see the software installation instructions included with your GPIB board.
+  10 1 = Set END bit on the last byte of transfer
+  10 0 = The specified information was returned
+  10 0 = Abort if not DOR
+  10 0 = Abort if not DIR
+  10 /Primary GPIB address ranging from 0 to 30.  Used to form the low order byte of the GPIB address which will be accepted by 488.2 functions.  The value of 31 (default) means return the NOADDR constant (0xFFFF) as the packed address.  The VI places primary address in the lower byte of the packed address.
+  10 -Unrecognized commandEAbyte count refers to the number of bytes that pass over the GPIB.
+  10 -Serial Poll Byte Lost
+  10 -I/O operation aborted
+  10 -1 = library initialization failed
+  10 - User abort occurred during I/O
+  10 return count[
+  10 return count@
+  10 return count4
+  10 return count2@P
+  10 return count"
+  10 return count
+   9 source. In case of an error, most VIs that use the error in and error out clusters set source to the name of the VI or function that produced the error.
+   9 rTCP ncConnRefusedErr:  The connection was refused by the server.
+   9 qTCP ncSysConnAbortedErr:  The system caused the connection to be aborted.
+   9 local testing.  To test the error code of a subVI or function that does not have the error I/O structure, you can wire its error code and a source string to the local error code and error source inputs.  If error in status indicates no error and error code is not equal to 0, the local code and source are substituted for the error in values, and the status is set TRUE (ERROR).
+   9 exception handling.  This mechanism is available either to set the error out status FALSE on what is normally an error or to set the status TRUE on what is normally not an error.  If exception action > 0, the error in code and source are checked.  If they match the exception code and source, the error out status is adjusted accordingly.  That is, if the action = 1, the error out status is set to FALSE and code is set to zero and if the action = 2, the error out is set to TRUE and the code is unchanged.  An empty exception source matches any error in source.  H
+   9 exception handling.  This mechanism is available either to set the error out status FALSE on what is normally an error or to set the status TRUE on what is normally not an error.  If exception action > 0, the error in code and source are checked.  If they match the exception code and source, the error out status is adjusted accordingly.  That is, if the action = 1, the error out status is set to FALSE and code is set to zero and if the action = 2, the error out is set to TRUE and the code is unchanged.  An empty exception source matches any error in source. 
+   9 displays a dialog box with buttons allowing the user to either continue or stop. If the user cancels, the VI calls the Stop function to halt execution.
+   9 aTCP ncNotConnectedErr:  The connection is not established.
+   9 TCP ncAlreadyConnectedErr: The connection is already established.
+   9 Normal Use:  When using subVIs that incorporate the error in/error out (or error I/O) structure, place this handler where you want to inform the user of an error, typically at the end of the I/O data path, as the last action of the program.  If the error in status is ERROR, the handler creates a message describing the error and its source.  If the type of dialog = 1 (default), the message is displayed to the user, who can only acknowedge it.  If the type = 2, the user can acknowledge the message or abort execution; aborting a program with active I/O is not recommended.  If the type = 0, no message is displayed; this is used to process the error programmatically, and the error out cluster elements are wired to individual terminals for that reason. 
+   9 GPIB SPTMO:  Serial port timeout; bytes not received at serial port.
+   9 GPIB EPAR:  Serial port parity error.
+   9 GPIB EORN:  Serial port overrun error.
+   9 GPIB EOFL:  Serial port receive buffer overflow.
+   9 GPIB EFRM:  Serial port framing error.
+   9 DSP MEM_HARDWARE_ERR:  The onboard hardware diagnostic software found a memory hardware error.  Running functions on the board is unreliable.fDSP NotPowerOfTwo:  The size of the input array must be a valid power of two:  size = 2^m, 0 < m < 14.HDSP RankErr:  The rank of the filter must meet:  1 <= (2rank+1) <= size.ODSP LenGEOne:  The number of coefficients must be greater than or equal to one.XDSP FilterDesignErr:  The filter cannot be designed with the specified input parameters.lDSP LeakErr:  The leakage coefficient, Leak, must meet:  0 <= Leak <= u, where u is the step-size parameter.FDSP StepSizeErr:  The step-size parameter u must meet:  0 <= u <= 0.1.NDSP AttenGTRipple:  The attenuation must be greater than the ripple amplitude.NDSP NullVectorErr:  The input vector is null.  The unit vector does not exist.JDSP SizeGTZero:  The size of the input sequence must be greater than zero.6DSP WidthGTZero:  The width must be greater than zero.<DSP AttenGTZero:  The attenuation must be greater than zero.ADSP RippleGTZero:  The ripple ampltude must be greater than zero.UDSP Nyquist2Err:  The following conditions must be met: 0 <= f_low <= f_high <= fs/2.GDSP NyquistErr:  The cutoff frequency, fc, must meet:  0 <= fc <= fs/2.YDSP ConvSizeErr:  The number of elements of convolved arrays should be greater than zero.6DSP OrderGTZero:  The order must be greater than zero.@DSP SizeGTOrder:  The array size must be greater than the order.JDSP MixedSignErr:  The sign of y in Ax=y must be all positive or negative.HDSP Interval NumErr:  The number of intervals must be greater than zero.TDSP UpperGELower:  The upper value must be greater than or equal to the lower value.nDSP CyclesErr:  The number of cycles must be greater than zero and less than or equal to the number of samplesEDSP DutyCycleErr:  The duty cycle must meet:  0 <= duty cycle <= 100.,DSP dtGTZero:  dt must be greater than zero.ODSP WinDutyCyclesErr:  The window duty cycle value must be between 0.0 and 1.0.YDSP DelayWidthErr:  The following condition must be met:  0 <= (delay  width) < samples.BDSP WidthGEZero:  The width must be greater than or equal to zero.BDSP DelayGEZero:  The delay must be greater than or equal to zero.@DSP IndexLTSamples:  The index must meet:  0 <= index < samples.?DSP WidthLTSamples:  The width must meet:  0 < width < samples.TDSP DecFactErr:  The decimating factor must meet:  0 < decimating factor <= samples.VDSP OutOfMem:  There is not enough space left on the DSP board for onboard processing.^OutSizeGEInSize:  The output array size must be greater than or equal to the input array size.PDSP xSizeGEySize:  The size of x must be greater than or equal to the size of y.MDSP SizesGTZero:  The sizes of the input sequences must be greater than zero.ODSP Samples GETwo:  The number of samples must be greater than or equal to two.PDSP SamplesGEZero:  The number of samples must be greater than or equal to zero.DDSP SamplesGTZero:  The number of samples must be greater than zero.4Analysis InvSelectionErr:  The selection is invalid.@Analysis TableErr:  The contingency table has a negative number.TAnalysis CategoryErr:  The number of categories or samples must be greater than one.^Analysis InvProbErr:  The probability must be greater than or equal to zero and less than one.GAnalysis ProbabilityErr:  The probability must be between zero and one.AAnalysis FreedomErr:  The degrees of freedom must be one or more.LAnalysis ColumnErr:  All values in the first column of X matrix must be one.PAnalysis PoleErr:  The interpolating function has a pole at the requested value.5Analysis DistinctErr:  The x-values must be distinct.bAnalysis ModelErr:  The Random Effect model was requested when the Fixed Effect model is required.fAnalysis BalanceErr:  The data is unbalanced.  All cells must contain the same number of observations.[Analysis OverflowErr:  There is an overflow in the calculated F-value for the ANOVA Fit VI.zAnalysis DataErr:  The total number of data points must be equal to the product of levels/each factor * observations/cell.SAnalysis:  ObservationsErr:  Zero observations were made at some level of a factor.VAnalysis FactorErr:  The level of factors is outside the allowable range of some data.;Analysis LevelsErr:  The number of levels is out of range .kAnalysis SingularMatrixErr:  The system of equations cannot be solved because the input matrix is singular.DAnalysis SquareMatrixErr:  The input matrix must be a square matrix.
+   9 DSP IndexSizeOffsetErr:  The size+offset should be less than or equal to the size of the DSP Handle Structure which you index into.[DSP IndexSizeGTZero:  The size of the New DSP Handle Structure should be greater than zero.FDSP OffsetGEZero:  The offset should be greater than or equal to zero.KDSP CopyNumGTZero:  The number of data to copy should be greater than zero.uDSP Invalid CopyType:  The entire/partial copy selector can only select between entire copy (0) and partial copy (1).GDSP PathnameTooLong:  The path name should be less than 256 characters.
+   9 DSP GROUP_ERR.  The function ID specified does not belong to any group that is part of the DSP Library currently running on the board.
+   9 DSP FNC_ERR:  The function ID specified does not correspond to a function that is part of the DSP Library currently running on the board.
+   9 DSP CoffHdrErr:  The file you are attempting to load to the DSP board is not created using the WE DSP32C tools (not an acceptable COFF file).gDSP COFF_FilePathErr:  Could not find the DSP Library file in the directory set by the DAQCONF utility.dDSP TimeOutErr:  The Kernel did not respond or finish function execution in the selected time limit.GDSP HandleAllocErr:  Failed to allocate a handle in the interface code.pDSP HandleSlotErr:  The DSP Handle used does not belong to the same board on which the function request is made.vDSP NotDSPHandle:  The DSP Handle specified is not valid for this board:  it has either been freed or never allocated.tDSP TransferSizeErr:  The size of requested block transfer does not have enough space allocated for it on the board.bDSP ParamSizeErr:  One of the parameters does not have enough space allocated for it on the board.PDSP PtrNotFound:  The DSP address pointer could not be found to free the buffer.
+   9 DDE DMLERR_UNFOUND_QUEUED_ID:  An invalid transaction identifier was passed to a DDEML function.  Once the application has returned from an XTYP_XACT_COMPLETE callback, the transaction identifier for that callback is no longer valid.
+   9 DDE DMLERR_LOW_MEMORY:  A DDEML application has created a prolonged race condition (where the server application outruns the client), causing large amounts of memory to be consumed.5DDE DMLERR_MEMORY_ERROR:  A memory allocation failed./DDE DMLERR_NOTPROCESSED:  A transaction failed.[DDE DMLERR_NO_CONV_ESTABLISHED:  A client's attempt to establish a conversation has failed.VDDE DMLERR_POKEACKTIMEOUT: A request for a synchronous poke transaction has timed out.TDDE DMLERR_POSTMSG_FAILED:  An internal call to the PostMessage function has failed.
+   9 DAQ: digprtcf.c: allocation failedDAQ: portNumStr = %s (after truncating)DAQ: back from GET_DIGPORTDESC_DATADIGPRTCF: boardType %dDIGPRTCF: hardwarePortWidth %dDIGPRTCF: logicalPortWidth %dDIGPRTCF: numberOfPorts %dGET_DIGPORTDESC_DATALV_DIG_PORT_CONFIGSetCINArraySize, elmtNum %ld out of range 0 <= elmtNum < %ldnon-array detected
+   9 DAQ syntaxErr:  An error was detected in the input string; the arrangement or ordering of the characters in the string is not consistent with the expected ordering.*Instr. Driver:  Instrument-specific error.4Instr. Driver:  Function not suported by controller.,Instr. Driver:  Error accessing VXI address.,Instr. Driver:  Error unmapping VXI address.*Instr. Driver:  Error mapping VXI address.%Instr. Driver:  Instrument timed out.-Instr. Driver:  Error in configuring timeout.7Instr. Driver:  Error interpreting instrument response.7Instr. Driver:  Error placing instrument in local mode.+Instr. Driver:  Instrument not initialized..Instr. Driver:  Error reading from instrument.,Instr. Driver:  Error writing to instrument.6Instr. Driver:  Error reading from instrument to file.6Instr. Driver:  Error writing to instrument from file.)Instr. Driver:  Error polling instrument.,Instr. Driver:  Error triggering instrument.*Instr. Driver:  Error clearing instrument.7Instr. Driver:  Instrument identification query failed.+Instr. Driver:  Unable to close instrument.*Instr. Driver:  Unable to open instrument.(Instr. Driver:  Error setting attribute.(Instr. Driver:  Error getting attribute.)Instr. Driver:  Error closing instrument.'Instr. Driver:  Parameter out of range.*Instr. Driver:  Invalid Instrument Handle.=Instr. Driver:  Unable to initialize interface or instrument.*Instr. Driver:  Error finding instruments.&Instr. Driver:  Invalid syntax string.'GPIB EDVR:  Error connecting to device.
+   9 DAQ reservedPinErr:  The selected signal requires a pin that is reserved and configured only by NI-DAQ.  You cannot configure this pin yourself.rDAQ groupAssignErr:  A group is already assigned, or the specified line or channel is already assigned to a group.lDAQ noGroupAssignErr:  No group is assigned, or the specified line or channel cannot be assigned to a group.5DAQ counterBusyErr:  The specified counter is in use.
+   9 DAQ rateNotSupportedErr: NI-DAQ was unable to convert your timebase/interval pair to match the actual hardware capabilities of this board.nDAQ multiRateModeErr: Multi-rate scanning cannot be used with the AMUX-64, SCXI, or pretriggered acquisitions.mDAQ DMAnotAllowedErr:  You have set up an operation that requires the use of interrupts.  DMA is not allowed.yDAQ unsafeSamplingFreqErr:  The sample frequency exceeds the safe maximum rate for the hardware, gains, and filters used.iDAQ extScanClockErr:  You cannot use an external scan clock when doing a single scan of a single channel.cDAQ chanClockDisabledErr:  The acquisition cannot be started because the channel clock is disabled.
+   9 DAQ preTrigErr:  The pretrigger mode is not supported or is not available in the current configuration, or no pretrigger source has been assigned.YDAQ badTrigErr:  The specified trigger signal cannot be assigned to the trigger resource.LDAQ noTrigErr:  No trigger signal has been assigned to the trigger resource.SDAQ multClkSrcErr: A source signal has already been assigned to the clock resource.XDAQ badClkSrcErr:  The specified source signal cannot be assigned to the clock resource.KDAQ noClkSrcErr:  No source signal has been assigned to the clock resource.IDAQ slaveClkErr:  The clock configuration for the clock slave is invalid.JDAQ masterClkErr: The clock configuration for the clock master is invalid.[DAQ badGroupDirErr:  The specified group does not support the specified transfer direction.\DAQ badChanDirErr:  The specified channel does not support the specified transfer direction.YDAQ badLineDirErr:  The specified line does not support the specified transfer direction.
+   9 DAQ noTrigEnabledErr:  The number of total scans and pretrigger scans implies that a triggered start is intended, but triggering is not enabled.SDAQ bufferInvalidErr:  A configuration change has invalidated the allocated buffer.NDAQ scanListInvalidErr:  A configuration change has invalidated the scan list.\DAQ clkExceedsBrdsMaxConvRate:  The clock rate exceeds the board's recommended maximum rate.SDAQ badChanInputModeErr:  All channels of this board must have the same input mode.PDAQ badChanCouplingErr:  All channels of this board must have the same coupling.NDAQ badChanPolarityErr:  All channels of this board must be the same polarity.JDAQ badChanRangeErr:  All channels of this board must have the same range.IDAQ badChanGainErr:   All channels of this board must have the same gain.fDAQ invalidRegenModeErr:  The specified analog output regeneration mode is not allowed for this board.sDAQ someInputsIgnoredErr:  Certain inputs were ignored because they are not relevant in the current operating mode.kDAQ noInfiniteModeErr:  Continuous input or output transfers are not allowed in the current operating mode.
+   9 DAQ multConnectErr:  The specified RTSI signal is already being driven by a RTSI line, or the specified RTSI line is already being driven by a RTSI signal.JDAQ badConnectErr:  The RTSI signal/line cannot be connected as specified.vDAQ noConnectErr:  No RTSI signal/line is connected, or the specified signal and the specified line are not connected.
+   9 DAQ limitsOutOfRange:  The requested input limits exceed the board's capability or configuration.  Alternative limits were selected.tDAQ badWriteOffsetErr:  Adding the write offset to the write mark places the write mark outside the internal buffer.FDAQ badWriteModeErr:  The write mode is out of range or is disallowed.
+   9 DAQ dmaChainingErr:  New buffer information was not available at the time of the DMA chaining interrupt; DMA transfers will terminate at the end of the currently active transfer buffer.
+   9 DAQ delayTrigErr: The delayed trigger mode is not supported or is not available in the current configuration, or no delay source has been assigned.:DAQ postTrigErr:  No posttrigger source has been assigned.
+   9 DAQ badCountErr:  The count is too small or too large for the specified counter; or the given I/O transfer count is not appropriate for the current buffer or channel configuration.+DAQ badCounterErr:  The counter is invalid.&DAQ badGroupErr: The group is invalid.
+   9 DAQ activeWriteErr:  Once data generation has started, only the transfer buffers originally written to may be updated.  If DMA is active and a single transfer buffer contains interleaved channel-data, new data must be provided for all output channels currently using the DMA channel.}DAQ groupWriteErr:  The output data associated with a group must be for a single channel or must be for consecutive channels.JDAQ noWriteErr:  No output data has been written into the transfer buffer.]DAQ multSetupErr:  The specified resources have already been configured by a setup operation.SDAQ noSetupErr:  No setup operation has been performed for the specified resources.<DAQ invalidDSPhandleErr: The DSP handle input is not valid .
+   9 DAQ SCXIConfigErr:  The specified SCXI configuration parameters are invalid, or the function cannot be executed with the current SCXI configuration.
+   9 Continue Button
+   9 Analysis MatrixMulErr:  The number of columns in the first matrix is not equal to the number of rows in the second matrix or vector.<Analysis IntervalsErr:  The number of intervals must be > 0.iAnalysis SizeGTOrderErr:  The number of data points in the Y Values array must be greater than the order.sAnalysis MixedSignErr:  The elements of the Y Values array must be nonzero and either all positive or all negative.XAnalysis StdDevErr:  The standard deviation must be greater than zero for normalization.NAnalysis OddSizeErr:  The number of coefficients must be even for this filter.NAnalysis EvenSizeErr:  The number of coefficients must be odd for this filter.PAnalysis RankErr:  The rank of the filter must meet:  1 <= (2*rank  1) <= size.XAnalysis EqRplDesignErr:  The filter cannot be designed with the specified input values.iAnalysis LeakErr:  The leakage coefficient, leak, and step-size parameter, u, must meet:  0 <= leak <= u.CAnalysis StepSizeErr:  The step-size, u, must meet:  0 <= u <= 0.1.ZAnalysis:  AttenGTRippleErr:  The attenuation must be greater than the ripple attenuation.8Analysis:  FinalGTZeroErr:  The final value must be > 0.0Analysis WidthGTZeroErr:  The width must be > 0.6Analysis AttenGTZeroErr:  The attenuation must be > 0.<Analysis RippleGTZeroErr:  The ripple amplitude must be > 0.[Analysis BandSpecErr:  The following conditions must be met:  0 <= f_low <= f_high <= fs/2.YAnalysis DecFactErr:  The decimating factor must meet:  0 < decimating factor <= samples.1Analysis: OrderGTZeroErr:  The order must be > 0.MAnalysis NyquistErr:  The cut-off frequency, fc, must meet:  0 <= fc <= fs/2.FAnalysis UpperGELowerErr:  The upper value must be >= the lower value.`Analysis IndexLengthErr:  The following condition must be met:  0 <= (index  length) < samples.XAnalysis IndexLTSamplesErr:  The following condition must be met:  0 <= index < samples.&Analysis DtGTZeroErr:  dt must be > 0.'Analysis DtGEZeroErr:  dt must be >= 0._Analysis DelayWidthErr:  The following conditions must be met:  0 <= (delay  width) < samples.FAnalysis WidthLTSamplesErr:  The width must meet: 0 < width < samples.SAnalysis CyclesErr:  The number of cycles must be > 0 and <= the number of samples.IAnalysis DutyCycleErr:  The duty cycle must meet: 0 <= duty cycle <= 100.RAnalysis MaxXformSizeErr:  The maximum allowable transform size has been exceeded.aAnalysis PowerOfTwoErr:  The size of the input array must be a power of two:  size = 2^m, 0<m<23.eAnalysis ArraySizeErr: The input arrays do not contain the correct number of data values for this VI.@Analysis SamplesGEThreeErr:  The number of samples must be >= 3.>Analysis SamplesGETwoErr:  The number of samples must be >= 2.>Analysis SamplesGEOneErr:  The number of samples must be >= 1.?Analysis SamplesGEZeroErr:  The number of samples must be >= 0.=Analysis SamplesGTZeroErr:  The number of samples must be >0.BAnalysis EqSamplesErr:  The input sequences must be the same size.SAnalysis OutOfMemErr:  There is not enough memory to perform the specified routine.
+   9 <TCP ncConnClosedErr:  The connection was closed by the peer.6Interapplication Mgr amInitErr:  Initialization error.
+   9 (the default value) displays a dialog box with a single OK button. After the user responds, the VI returns control to the main VI.
+   8 Open instrument_D
+   7 x(i32) line mask: determines which lines in the port the write affects. If you set line mask to -1, the VI writes to the entire port and sets all the lines in the port to the states specified by the bits in pattern. If you set only bit n in line mask, the VI changes only line n in the port to the state that bit n of pattern specifies. The default setting for line mask is -1.51(u32) task ID out: has the same value as task ID.
+   7 specific reset ?
+   7 return string
+   7 qReads the number of characters specified by requested byte count from the serial port indicated in port number.
+   7 kReturns in byte count the number of bytes in the input buffer of the serial port indicated in port number.
+   7 Serial Port Write.vi
+   7 Serial Port Read.vi
+   7 Return Terminator
+   7 Return String
+   7 QWrites the data in string to write to the serial port indicated in port number.
+   7 Port Select:
+   7 Open Serial Driver.vi
+   7 Continue ButtonH
+   7 Bytes At Serial Port.vi
+   7 (i32) line mask: determines which lines this VI reads. If you set line mask to -1 (all ones), the VI reads the entire port. If you set only bit n in line mask, the VI reads only line n of the port. If the state of line n is high, the VI sets bit n of pattern. The VI sets to 0 the bits of pattern that correspond to lines the VI has not read. The default setting for line mask is -1 which is shown as all ones since the binary representation is the default selection.62(u32) pattern: the data the VI read from the port.51(u32) task ID out: has the same value as task ID.
+   6 uqReads the number of characters specified by requested byte count from the serial port indicated in port number.
+   6 specific reset ?"
+   6 set error on match"
+   6 serpOpen.viW
+   6 port selectPTH0
+   6 okReturns in byte count the number of bytes in the input buffer of the serial port indicated in port number.
+   6 offset past number
+   6 force re-openQ
+   6 force re-open
+   6 continue or stop message:
+   6 Wrequested byte count specifies the number of characters to be read. If you want to read all of the characters currently at the serial port, first execute the Bytes at Serial Port VI to determine the exact number of bytes ready to be read. Then use the byte count output of that VI as the requested byte count input to the Serial Port Read VI.
+   6 When you use the serial port VIs on a Sun SPARCstation, the port number parameter is 0 for /dev/ttya, 1 for /dev/ttyb, and so on.
+   6 Voltage Reading"
+   6 UQWrites the data in string to write to the serial port indicated in port number.
+   6 Some error codes returned by the serial port VIs are platform-specific. Please refer to your system documentation for a list of error codes.
+   6 Serial Port Write.viW
+   6 Serial Port Read.vic
+   6 Serial Port Read.via
+   6 Port Select.@
+   6 Open Serial DriverY
+   6 Measure volts, amps, or ohms.  Select one of 6 functions.  Select range or use auto range.  Select trigger mode.  Slow reading rate is used for accuracy.                                         version a.0 
+   6 Bytes At Serial Port.vik
+   6 Bytes At Serial Port.vi_
+   6 9When you use the serial port VIs under Windows, the port number parameter can have the following values:
+   6   Set the max. # of readings takenH
+   6   Set Min # samples
+   6         Press 'Enter' when ready.
+   5 offset past number"@!
+   5 Voltage ReadingT
+   4 |error in is a cluster that describes the error status before this VI executes. If error in indicates that an error occurred before this VI was called, this VI may choose not to execute its function, but just pass the error through to its error out cluster. If no error has occurred, then this VI executes normally and sets its own error status in error out. Use the error handler VIs to look up the error code and to display the corresponding error message. Using error in and error out clusters is a convenient way to check errors and to specify execution order by wiring the error output from one subVI to the error input of the next.
+   4 try to open the file
+   4 start of read offset is the position in the file, measured in characters (or bytes), at which the VI begins reading.
+   4 start of read offset (chars.:0 )
+   4 specific reset ?H
+   4 serpOpen.viSE
+   4 return stringF
+   4 return string6@P
+   4 refnum is the reference number of the open file.  The value is Not A Refnum if the file cannot be opened.
+   4 refnum is the reference number of the open file.
+   4 prompt is the message that appears below the list of files and directories in the file dialog.
+   4 pos offset specifies in characters how far from the location specified by pos mode that the operation begins.  The default value is 0.
+   4 pos offset (bytes:0)
+   4 port select<
+   4 opens an existing file. Error 7 occurs if the file cannot be found.
+   4 opens an existing file or creates a new file if one does not exist.
+   4 open or create
+   4 number of lines is the maximum number of lines the VI reads.  The default value is -1 line, which means to read the entire file.  For this VI, a line is a character string ending with a carriage return, line feed, or a carriage return followed by a line feed; a string ending at the EOF; or a string that has the maximum line length specified by the max characters per line input.
+   4 new file path is the path of the file to which the VI wrote data.  You can use this output to determine the path of a file that you open using dialog.  new file path returns Not A Path if the user selects Cancel from the dialog box.
+   4 new file path is the path of the file opened.  You can use this output to determine the path of a file that you open using dialog.  new file path returns Not A Path if the user selects Cancel from the dialog box.
+   4 new file path is the path of the file opened or created. You can use this output to determine the path of a file that you open or create using dialog. new file path returns Not A Path if the user selects Cancel from the dialog box.
+   4 new file path is the path of the file opened or created.  You can use this output to determine the path of a file that you open or create using dialog.  new file path returns Not A Path if the user selects Cancel from the dialog box.
+   4 new file path is the path of the file from which the VI read data.  You can use this output to determine the path of a file that you open using dialog.  new file path returns Not A Path if the user selects Cancel from the dialog box.
+   4 line mode  Set TRUE to read until a line marker or end of line is encounter or count characters are read.  Set FALSE (default value) to read until count characters are read or end of line is encountered.  A line mark is a carriage return, a line feed, or a carriage return followed by a line feed.
+   4 function (open:0)
+   4 force re-open@p
+   4 file path is the path name of the file. If file path is empty (default value) or is Not A Path, the VI displays a File dialog box from which you can select a file. Error 43 occurs if the user cancels the dialog.
+   4 file path is the path name of the file.  If file path is empty (default value) or is Not A Path, the VI displays a File dialog box from which you can select a file.  Error 43 occurs if the user cancels the dialog.    
+   4 error in is a cluster of three elements (error?, code, and source) that describe the upstream error state, that is, the existance of any error preceeding the execution of the VI.  The VI executes normally only if no incoming error exists; otherwise it merely passes the error in value to error out.  error? is TRUE if an error occurred; the default value is FALSE.  code is the error code; the default value is 0.  source is in most cases the name of the VI or function that produced the error; the default value is an empty string.
+   4 default name is the initial file name that appears in the selection box of the file dialog.
+   4 creates a new file or replaces a file if it exists and you give permission. Replacement is done by opening the file and setting EOF to 0. Error 43 occurs if the user elects to disallow the replacement using dialog.
+   4 close when?  Set TRUE (default) when you want to close the file when this VI is called.  Set to FALSE when you want to close the file only if this VI encounters an incoming error.  This input is useful when you use this VI inside a loop and want to close the file only on the last loop iteration or on an upstream error.  In that case, set close when? TRUE on the last iteration, and terminate the loop on the last iteration or when this VI returns an error.
+   4 at the current file mark plus pos offset.  This is the default value.
+   4 at the current file mark plus pos offset.
+   4 append to file?  Set to TRUE if you want to append the data to a existing file; you can also set it TRUE to write to a new file.  Set to FALSE (default value) if you want to write the data to a new file or to replace an existing file.
+   4 advisory dialog? Set TRUE (default) if you want a dialog if function=0 and the file does not exist, or if function=2 or 3 and the file exists.
+   4 advisory dialog?  Set TRUE (default) if you want a dialog if the file does not exist.
+   4 advisory dialog?  Set TRUE (default) if you want a dialog if function=0 and the file does not exist, or if function=2 or 3 and the file exists.
+   4 aCompares 2 real numbers X and Y.  If they are within about 0.1% of each other a TRUE is returned.
+   4 You can optionally use the source messages string to pass on the source of the error. Enter one line of text for each element of the error codes array. 
+   4 Writes a character string to a new byte stream file or appends the string to an existing file.  The VI opens or creates the file beforehand and closes it afterwards.
+   4 UQbyte count is the number of bytes currently queued up in the serial port buffer.
+   4 Too Many Files Open
+   4 Tests Selected
+   4 Software Rev.
+   4 Serial Port Reset.vi
+   4 Serial Port Read.viMD
+   4 Serial Port Init.vi
+   4 Serial Port Buffer Size.vi
+   4 Serial Number
+   4 Select measurement function. 
+   4 Return Terminator6@P
+   4 Return Terminator*
+   4 Return Terminatorp0
+   4 Return String&
+   4 Reads a string of characters from a byte stream file at the specified location; the default location is at the current mark.  The VI does incoming and internal error checking and does not read if an incoming error occurs.
+   4 Range selection has no effect in the mA DC and mA AC functions since all measurements in these functions are made in the 20000 mA range.             If the chosen range is not valid for selected function, the nearest valid range is selected. 
+   4 QCloses the file on command or when in incoming error occurs and returns the file size at closure.
+   4 Print Aborted
+   4 Port SelectM
+   4 Port Select>
+   4 Port Select*
+   4 Open/Create/Replace File.vi
+   4 Open Serial DriverMD
+   4 Open Serial Driver.vier.vi
+   4 Open GPIB Driver.viv
+   4 Open FilePTH0
+   4 Open File+.vi
+   4 LOW Voltage side:
+   4 Inductance Decade Box (L Terminal)BNow connect the red lead to the
+   4 Inductance Decade Box (H Terminal)=Short the UUT leads to the
+   4 Inductance Decade Box (H Terminal)3Short the UUT leads to the
+   4 IND=Short the UUT leads to the
+   4 IND3Short the UUT leads to the
+   4 IND-6FMELDKCJBI@GAHBNow connect the red lead to the
+   4 HIGH Voltage side:
+   4 GOpens an existing file programmatically or interactively using dialog.  You can optionally specify a dialog prompt, default file name, start path, or filter pattern.   Error 7 occurs if the file does not exist.  Use this VI with the intermediate level Read File+ VIs described below.
+   4 File Already Open
+   4 Device Call Aborted
+   4 Connection timed out!Connection is already in progress
+   4 Connection refused
+   4 Connection is not connected
+   4 Connection is already connected
+   4 Connection closed+Initialize error (interapplication manager)
+   4 Connection aborted
+   4 Connection In progress
+   4 Can't Open Device
+   4 Bytes At Serial Port.vi{
+   4 BBBNow connect the red lead to the
+   4 @Initializes the selected serial port to the specified settings.
+   4 @<string read. The VI returns the bytes read in string read.
+   4 ===Short the UUT leads to the
+   4 333Short the UUT leads to the
+   4 2 (create or replace) creates a new file or replaces a file if it exists and you give permission.  Replacement is done by opening the file and setting EOF to 0.  Error 43 occurs if the user elects to disallow the replacement using dialog. 
+   4 1 (open or create) opens an existing file or creates a new file if one does not exist.
+   4 0 (open) opens an existing file.  Error 7 occurs if the file cannot be found.
+   4 --------------LOAD SELECT--------------------------------------
+   4 *error in is a cluster of three elements (status, code, and source) that describe the upstream error state, that is, the existence of any error proceeding the execution of the VI. The VI executes normally only if no incoming error exists; otherwise it merely passes the error in value to error out.
+   4 *Reads a specified number of lines from a byte stream file beginning at a specified character offset.  The VI opens the file beforehand and closes it afterwards.
+   4 *&data to be written  to the serial port
+   4 !Open or Create File (function=%d)
+   4    0=1.1MOhm connected to UUT leads; Same as '9'.
+   4 *&Opens an existing file, creates a new file, or replaces an existing file, programmatically or interactively using dialog.  You can optionally specify a dialog prompt, default file name, start path, or filter pattern, and you can specify open and deny modes when opening a file, plus group and permission when creating a new file. Use this VI with the intermediate Write File+ or Read File+ VIs described below.
+   4 &Opens an existing file, creates a new file, or replaces an existing file, programmatically or interactively using dialog.  You can optionally specify a dialog prompt, default file name, start path, or filter pattern, and you can specify open and deny modes when opening a file, plus group and permission when creating a new file. Use this VI with the intermediate Write File+ or Read File+ VIs described below.
+   3 with the leads.  Check the leads
+   3 to the UUT leads.
+   3 then send pass/fail message.W
+   3 then send pass/fail message.U
+   3 the LC103 Final Test Box.
+   3 start of read offset (chars.:0 )8
+   3 start of read offset (chars.:0 ),@
+   3 set error on match
+   3 select mode (2)
+   3 rrsFile Dialog cancelled; set error out code to Cancelled By User; set refnum to NotaRefnum and file path to NotAPath.
+   3 relative to current mark
+   3 pos offset specifies in characters how far from the location specified by pos mode that the operation begins. The default value is 0.
+   3 pos offset (bytes:0).
+   3 pos offset (bytes:0)(
+   3 pos offset (0)
+   3 open or create file
+   3 open mode (0)N
+   3 offset past number&
+   3 number of lines is the maximum number of lines the VI reads. The default value is -1. For this VI, a line is a character string ending with a carriage return, line feed, or a carriage return followed by a line feed; a string ending at the EOF; or a string that has the maximum line length specified by the max characters per line input. If number of lines is <0, the VI will read the entire file.
+   3 new file path is the path of the file to which the VI wrote data. You can use this output to determine the path of a file that you open using dialog. new file path returns Not A Path if the user selects Cancel from the dialog box.
+   3 new file path is the path of the file opened. You can use this output to determine the path of a file that you open using dialog. new file path returns Not A Path if the user selects Cancel from the dialog box.
+   3 new file path is the path of the file from which the VI read data. You can use this output to determine the path of a file that you open using dialog. new file path returns Not A Path if the user selects Cancel from the dialog box.
+   3 lead zero short/open.via
+   3 lead zero short/open.viZ
+   3 lead zero short/open.vi
+   3 iReset variable that ends the while loop
+   3 function (open:0)"@2
+   3 failure status to "StatusGlobal".
+   3 fConnect the UUT and/or DVM leads to
+   3 continue or stop message
+   3 close when? Set TRUE (default) when you want to close the file when this VI is called. Set to FALSE when you want to close the file only if this VI encounters an incoming error. This input is useful when you use this VI inside a loop and want to close the file only on the last loop iteration or on an upstream error. In that case, set close when? TRUE on the last iteration, and terminate the loop on the last iteration or when this VI returns an error.
+   3 cFile Dialog cancelled; set Error to Cancelled By User; empty File Path; set Refnum to Not a Refnum.
+   3 append to file. Set to TRUE if you want to append the data to a existing file; you can also set it TRUE to write to a new file. Set to FALSE (default value) if you want to write the data to a new file or to replace an existing file.
+   3 and the '-' lead to TP1020.  Adjust
+   3 and press 'Enter' when ready.
+   3 aaaLeads zero, open                Cap must read 0, IND must read "OPEN" and ESR must read "ERROR 7"W
+   3 Yolks and Flybacks.
+   3 XON/XOFF is a software handshaking protocol you can use to avoid overflowing serial port buffers. When the receive buffer is nearly full, the receiver sends XOFF (<controlS> [decimal 19]) to tell the other device to stop sending data. When the receive buffer is sufficiently empty, the receiver sends XON (<controlQ> [decimal 17]) to indicate that transmission can begin again. When you enable XON/XOFF, the devices always interpret <controlQ> and <controlS> as XON and XOFF characters, never as data. When you disable XON/XOFF, you can send <controlQ> and <controlS> as data. Do not use XON/XOFF with binary data transfers because <controlQ> or <controlS> may be embedded in the data, and the devices will interpret them as XON and XOFF instead of data.
+   3 Warning:  Choosing 'Calibration Reset'  
+   3 Voltage Readinggencode.cGenDispatchEntry
+   3 Voltage Reading@
+   3 UUT Validate Calibration
+   3 UUT Calibration Unstamp
+   3 Tests SelectedPTH0
+   3 Test Voltage Array
+   3 Test Passed!!
+   3 Test Leads?X
+   3 Test Failed.
+   3 Test Failed!!Y
+   3 Switching Transformers.
+   3 Switch in D/A StandardV
+   3 StatusGlobal and reset start buttonm
+   3 Sources Calibrated
+   3 Software Rev.PTH0
+   3 Software Rev."
+   3 Software Rev. Check
+   3 Small Ringer Cal Box set to
+   3 Set the Inductance
+   3 Set Voltage on UUTH
+   3 Set UUT to test Aluminum LyticsW
+   3 Set Status Message
+   3 Set Serial Number
+   3 Set Calibration Date
+   3 Set "Pass or Fail Global" to "Fail"W
+   3 Serial Port Read.vi,
+   3 Serial Port Init.vi]
+   3 Serial NumberPTH0
+   3 Select measurement function.  :
+   3 Ringer Calibration
+   3 Returned Value,
+   3 Returned Value
+   3 Reset Start Buttono
+   3 Reset Global Variables
+   3 Reset Aborted.
+   3 Range selection has no effect in the mA DC and mA AC functions since all measurements in these functions are made in the 20000 mA range.             If the chosen range is not valid for selected function, the nearest valid range is selected.  k
+   3 Range !Gain Calibration Failed
+   3 RS-232 Connection Failed
+   3 RINBNow adjust R1005 for the number
+   3 RIN>Adjust R1144 for the number
+   3 Press F1 to change paths.Y
+   3 Perform Inductance CalibrationV
+   3 Pass/Fail  MessageH
+   3 Pass/Fail  Message
+   3 Pass or Fail Globalob$0
+   3 Pass or Fail GlobalPTH0
+   3 Pass or Fail Global49
+   3 Pass or Fail Global40/
+   3 Pass or Fail Global$
+   3 Pass or Fail Global :
+   3 Pass or Fail Global
+   3 PAn invalid Software Rev. number was specified.  Please fix this after cal fails.
+   3 Output alt HW Handshake. On the PC, this parameter corresponds to Data Set Ready (DSR) handshaking. On the SPARCstation, this parameter is ignored.
+   3 Open/Create/Replace File.viZ
+   3 Open File+.vi:Open File
+   3 Open File+.vi:EOF
+   3 Now connect the red UUT to the H  Terminal of the decade box and set the  box to 0.022uF(.0219).
+   3 NNherror is other than file not found; set error flag TRUE, file path to NotAPath, and refnum to NotARefnummD
+   3 Measure volts, amps, or ohms.  Select one of 6 functions.  Select range or use auto range.  Select trigger mode.  Slow reading rate is used for accuracy.                                         version a.0  $
+   3 MMMLead zero, shorted            CAP must read "SHORT",  IND and ESR must read 0l
+   3 Load SelectPTH0
+   3 Leakage voltage test.vi^
+   3 Leakage voltage test.viR
+   3 Leakage voltage test.vi
+   3 Leakage current test.viR
+   3 Leakage current test.vi
+   3 Leakage Voltage TestfConnect the UUT and/or DVM leads to
+   3 Leakage Voltage TestH
+   3 Leakage Voltage Test
+   3 Leakage Voltage CalibrationfConnect the UUT and/or DVM leads to
+   3 Leakage Voltage CalibrationV
+   3 Leakage Voltage Calibration
+   3 Leakage Voltage
+   3 Leakage Supply Testi
+   3 Leakage Supply TestW
+   3 Leakage Supply TestV
+   3 Leakage Supply TestU
+   3 Leakage Supply TestH
+   3 Leakage I Data
+   3 Leakage Current Test
+   3 Leakage Current
+   3 Leakage Calibration
+   3 Leak_CAL.VIW
+   3 Leak_CAL.VIV
+   3 Leak_CAL.VIU
+   3 Leak_CAL.VIH
+   3 Lead Zero Short/Open
+   3 Lead Zero Short Test/Inductance
+   3 Lead Zero Short Test
+   3 Lead Zero MSG
+   3 Lead Open Test/Caps
+   3 LEAK_VLT.VIW
+   3 LEAK_VLT.VIV
+   3 LEAK_VLT.VIU
+   3 LEAK_VLT.VIS
+   3 LEAK_VLT.VIH
+   3 LEADSHRT.viW
+   3 LEADSHRT.viH
+   3 LEADOPEN.viW
+   3 LEADOPEN.viH
+   3 Instr Open.viP
+   3 Init. Serial PortW
+   3 Inductor Calibration
+   3 Inductance Calibration
+   3 Ind Cal Failed Range
+   3 If you want to test for an error from three local functions (for example, Open File, Read File, and Close File), wire their error outputs to a Build Array function, as elements 0-2 respectively.  If an error occurs at Read File, the VI picks the second line for the source message of the error out cluster. Use of this input is optional.
+   3 If the error in cluster has a status of no-error, then test each element of error codes array, stopping on the first non-zero value or after all are tested; pick the selected line from the optional source messages as the error out source.
+   3 INSERT ACTIVE LOAD TEST HERE!V
+   3 INITIAL STEP:  Attach DVM and computer cable
+   3 HEY!! I said:  "Connect the red UUT to the H  Terminal of the decade box and set the  box to 0.022uF(.0219)".  Please do this now!
+   3 HConnect the black UUT lead to the
+   3 Gain CalibrationV
+   3 Gain Calibration
+   3 GNow connect the red lead to the
+   3 Failed Calibration.
+   3 Fail = False
+   3 ESR CalibrationH
+   3 ESR Calibration22
+   3 ESR Calibration Passed
+   3 ESR Calibration
+   3 DVM Resistance
+   3 DVM Correction
+   3 D@Initializes the selected serial port to the specified settings.
+   3 D/A TestfConnect the UUT and/or DVM leads to
+   3 Current file mark plus pos offset. This is the default value.
+   3 Current file mark plus pos offset.
+   3 Current Source CalibrationfConnect the UUT and/or DVM leads to
+   3 Current Source CalibrationH
+   3 Current Source Calibration
+   3 Couldn't open the Software Rev. file.  Please set the Software Rev. manually on the front panel.  Place the flopply disk in the computer NOW.
+   3 Continue Button0
+   3 Connect the '+' DVM lead to TP1006
+   3 Capacitor Calibration
+   3 Capacitance Decade Box (High Terminal).HConnect the black UUT lead to the
+   3 Capacitance Calibration
+   3 Calibration Unstamp
+   3 Calibration Successful!!
+   3 Calibration Stamp
+   3 Calibration Reset
+   3 Bytes At Serial Port.viMD
+   3 Batt. voltage.
+   3 Apply voltage to leadsW
+   3 All  (Not Ringer)
+   3 778file is now open; proceed if function=1 (open or create){D
+   3 6) Press ENTER when ready, choose test to perform and press START.H
+   3 6) Press ENTER when ready, choose test to perform and press START.
+   3 5) Connect 50 pin ribbon cable from PC to right side of test box.
+   3 4) Connect Lo Capacity leads to UUT plugs on front of test box.
+   3 3) Connect Fluke 8840A to DVM plugs on front panel of test box.
+   3 1k(low voltage / gain)
+   3 112create a new file if function=1-3 (open or create)
+   3 111Loops until all tests pass or " i " = " Retries "y
+   3 111Loops until all tests pass or " i " = " Retries "U
+   3 10k(low voltage)
+   3 10V Ref Calibration
+   3 100k (low voltage)
+   3 100k (V/I  leakage)
+   3 100(low voltage)
+   3 10(low voltage)
+   3 1) Plug in and turn on LC103 Mainboard test box.
+   3 --Remove UUT from tester, Proceed to next UUT
+   3 --.file is now open; proceed if function=0 (open)
+   3 ---Flow Control = False  indicates a passed test}
+   3 ---Flow Control = False  indicates a passed testy
+   3 +Unit failed to
+   3 *Unit failed to
+   3 *.calCPlease choose the file containing the capacitance calibration data.PTH0
+   3 *.calBPlease choose the file containing the inductance calibration data.
+   3 )type of dialog (continue or stop message)
+   3 'q,Make sure the red UUT lead is not connected.
+   3 'line mode Set TRUE to read until a line marker or end of line is encounter or count characters are read. Set FALSE (default value) to read until count characters are read or end of line is encountered. A line mark is a carriage return, a line feed, or a carriage return followed by a line feed.
+   3 'Last known LC103 Software Rev. is:  VER
+   3 %UNIT_OFF line fails
+   3 %%%Performs test if previous test passedW
+   3 $continue or stop message on an errorRD
+   3 $continue or stop message on an error
+   3 $$$Do next test if previous test passedn
+   3 $$$Do next test if previous test passedb
+   3 $$$Do next test if previous test passeda
+   3 $$$Do next test if previous test passedW
+   3 "error code is -1 if baud rate, data bits, stop bits, parity, or port number are out of range, or if the serial port could not be initialized. Check the values of baud rate, data bits, stop bits, parity, and port number. If these values are valid, verify that the serial port has been initialized.
+   3 """<- number of leakage current testsH
+   3  QCheck if measured value from DVM is within tolerance
+   3   Press READY when previous step is complete.
+   3   1          Approx. Current
+   3     Failure...Invalid Reading
+   3          Press 'Enter' when finished.
+   3            Press 'Enter' when ready.
+   3                 removes all calibration from
+   3                 --TURN TESTER POWER ON--
+   3                   Turn Safety switch ON
+   3                    Short TP4 with the cathode
+   3                     --TURN SAFETY OFF--
+   3                       --Turn SAFETY OFF--
+   3 Set Cal Date
+   3 Current Test
+   3 Abort ButtonX
+   3 Abort ButtonH
+   2 |error in is a cluster that describes the error status before this VI executes. If error in indicates that an error occurred before this VI was called, this VI may choose not to execute its function, but just pass the error through to its error out cluster. If no error has occurred, then this VI executes normally and sets its own error status in error out. Use the error handler VIs to look up the error code and to display the corresponding error message. Using error in and error out clusters is a convenient way to check errors and to specify execution order by wiring the error output from one subVI to the error input of the next.,%
+   2 yustart of read offset is the position in the file, measured in characters (or bytes), at which the VI begins reading.
+   2 xxxxRCouldn't open the Software Rev. file.  Place the flopply disk in the computer NOW.'Last known LC103 Software Rev. is:  VER
+   2 x(i32) line mask: determines which lines in the port the write affects. If you set line mask to -1, the VI writes to the entire port and sets all the lines in the port to the states specified by the bits in pattern. If you set only bit n in line mask, the VI changes only line n in the port to the state that bit n of pattern specifies. The default setting for line mask is -1.,
+   2 try to open the fileM
+   2 to the UUT leads.MD
+   2 then send pass/fail message.O
+   2 then send pass/fail message.N
+   2 start of read offset (chars.:0 )0@2
+   2 specific reset ?'
+   2 specific reset ?&
+   2 serpOpen.vi$
+   2 return stringgencode.cGenDispatchEntry
+   2 return stringL
+   2 return stringH
+   2 return string4F
+   2 return string2P@
+   2 return string2@P
+   2 return string0
+   2 return string"
+   2 return stringx0
+   2 return stringp0
+   2 relative to current mark@
+   2 pos offset (0)F
+   2 pos offset (0)4
+   2 port selectM
+   2 port selectH
+   2 port select4F
+   2 port select4
+   2 port select :
+   2 plprompt is the message that appears below the list of files and directories (or folders) in the file dialog.
+   2 open mode (0)
+   2 offset past numbert
+   2 offset past match
+   2 mirefnum is the reference number of the open file. The value is Not A Refnum if the file cannot be opened.
+   2 lprompt is the message that appears below the list of files and directories (or folders) in the file dialog.
+   2 lhOutput XON/XOFF. See the Common Serial Port VI Parameters section of this chapter for more information.
+   2 lead zero short/open.viO
+   2 is calibrated first.RD
+   2 irefnum is the reference number of the open file. The value is Not A Refnum if the file cannot be opened.
+   2 function (open:0)H
+   2 function (open:0)2
+   2 force re-open"
+   2 force re-openp@
+   2 file path is the path name of the file. If file path is empty (default value) or is Not A Path, the VI displays a File dialog box from which you can select a file. Error 43 occurs if the user cancels the dialog.   \Xfile size is the size of the file in bytes; it is also the location of the end of file.
+   2 file opened successfullyO
+   2 file opened successfullyH
+   2 file cannot be openedT
+   2 file cannot be openedH
+   2 eaCompares 2 real numbers X and Y.  If they are within about 0.1% of each other a TRUE is returned.
+   2 `\default name is the initial file name that appears in the selection box of the file dialog.
+   2 `Couldn't retrieve the proper Software Rev. number.  Please set this manually on the front panel.
+   2 \default name is the initial file name that appears in the selection box of the file dialog.
+   2 \\\If the error in cluster has a status of ERROR, pass it through without test for local errorsSE
+   2 [[[report file not found if function=0 (open); set file path to empty and refnum to NotARefnumHDt
+   2 YUadvisory dialog? Set TRUE (default) if you want a dialog if the file does not exist.
+   2 Voltage ReadingH
+   2 Voltage Reading4
+   2 Voltage Reading@!
+   2 VER`Couldn't retrieve the proper Software Rev. number.  Please set this manually on the front panel.
+   2 UUT Validate Calibration`
+   2 UUT Calibration Unstamp`
+   2 Trigger Abort? Checkn
+   2 The read subVI inside the While Loop searches for the last end-of-line, but does not return any data.  Once that location is found, the read subVI outside the loop reads the entire string.  This method is faster for a large number of lines, because it does not require the use of a string concatentation function in the loop and its associated memory suffling, but this method is slower for a few lines.\
+   2 The read subVI inside the While Loop searches for the last end-of-line, but does not return any data.  Once that location is found, the read subVI outside the loop reads the entire string.  This method is faster for a large number of lines, because it does not require the use of a string concatentation function in the loop and its associated memory suffling, but this method is slower for a few lines.
+   2 Test Voltage ArrayM
+   2 Test Passed!!^
+   2 Test Passed!!U
+   2 Test Passed!!OD
+   2 Test Passed!!?
+   2 Test Leads?&
+   2 Test Failed.X
+   2 Test Failed.S
+   2 Switching Transformers.O
+   2 Sources Calibrated"
+   2 Software Rev.Y
+   2 Software Rev.W
+   2 Software Rev.P
+   2 Software Rev.L
+   2 Software Rev.>
+   2 Software Rev. Check`
+   2 Software Rev. Check_
+   2 Software Rev. CheckW
+   2 Software Rev.p0
+   2 Short LeadsO
+   2 Set Status MessageN
+   2 Set Serial Number`
+   2 Set Serial NumberW
+   2 Set Serial NumberV
+   2 Set Low LS to 4VOD
+   2 Set Low LS to 32VPD
+   2 Set Low LS to 28VPD
+   2 Set Low LS to 1VO
+   2 Set Low LS to 16VPD
+   2 Set Low LS to 0VMD
+   2 Set Low LS to 0VM
+   2 Set High LS to 875VQD
+   2 Set High LS to 500VQD
+   2 Set High LS to 33.0VPD
+   2 Set High LS to 125VPD
+   2 Set High LS to 1000VQD
+   2 Set High LS to 0VOD
+   2 Set Calibration Date]
+   2 Set Calibration DateW
+   2 Set Calibration DateV
+   2 Serial Port ResetSE
+   2 Serial Port Reset.viReset.vi
+   2 Serial Port Buffer Size.vize.vi
+   2 Serial Number\
+   2 Serial NumberT
+   2 Serial NumberMD
+   2 Serial NumberL
+   2 Serial Number$
+   2 Serial Numberp0
+   2 Selection Start
+   2 Selection End
+   2 Select measurement function.   -
+   2 Ringer Calibrationg
+   2 Ringer Calibration`
+   2 Ringer Calibration\
+   2 Ringer CalibrationW
+   2 Ringer CalibrationLConnect the UUT leads to the
+   2 Returned ValueM
+   2 Returned Value<
+   2 Returned Value&
+   2 Return TerminatorN
+   2 Return TerminatorH
+   2 Return Terminator2@P
+   2 Return Terminator&
+   2 Return Terminator @
+   2 Return String|
+   2 Return StringroX
+   2 Return Stringro"
+   2 Return Stringgencode.cGenDispatchEntry
+   2 Return StringL
+   2 Return StringH
+   2 Return String>
+   2 Return String4
+   2 Return String"
+   2 Return Stringx0
+   2 Return Stringp0
+   2 Return String@
+   2 Reset Aborted.Y
+   2 Reset Aborted.V
+   2 Range selection has no effect in the mA DC and mA AC functions since all measurements in these functions are made in the 20000 mA range.             If the chosen range is not valid for selected function, the nearest valid range is selected.  L-
+   2 Range Current Source Calibration Passed
+   2 RS-232 Connection FailedZ
+   2 Qbyte count is the number of bytes currently queued up in the serial port buffer.
+   2 Port SelectH
+   2 Port Select4G/
+   2 Port Select0)
+   2 Port Select0
+   2 Port Select.G
+   2 Port Select.
+   2 Pass/Fail  Message^
+   2 Pass/Fail  Message.
+   2 Pass or Fail Global.
+   2 Pass or Fail Global&
+   2 Pass or Fail Global"
+   2 PA Voltage OnM
+   2 P.A. voltage.V
+   2 P.A. voltage.@
+   2 P!Abort Button
+   2 Open Serial DriverRE
+   2 Open Serial Driver.vii
+   2 Open Serial Driver.vi5
+   2 Open File+.vie File
+   2 Open File+.vi:File DialogiD
+   2 Open File+.vi:File Dialogc
+   2 Open File+.vi:File Dialog
+   2 Open File+.vi:EOFH
+   2 NFC-Switch the cal box to
+   2 Low Voltage to MeterMD
+   2 Low Value Inductance Box3Short the UUT leads to the
+   2 Load SelectP
+   2 Load SelectL
+   2 Load Select&
+   2 Load Select"
+   2 Leakage voltage test.viN
+   2 Leakage current test.vi-
+   2 Leakage VoltageND
+   2 Leakage Voltage Test`
+   2 Leakage Voltage TestY
+   2 Leakage Voltage TestW
+   2 Leakage Voltage TestV
+   2 Leakage Voltage CalibrationW
+   2 Leakage Voltage CalibrationT
+   2 Leakage Supply TestRE
+   2 Leakage I Data"
+   2 Leakage CurrentND
+   2 Leakage Current Test`
+   2 Leakage Current TestY
+   2 Leakage Current TestW
+   2 Leakage Current TestV
+   2 Leakage Current TestPD
+   2 Leakage Calibrationt
+   2 Leak_CAL.VIOD
+   2 Leak_CAL.VIO
+   2 Leak_CAL.VIMD
+   2 Lead Zero Short/OpenND
+   2 Lead Zero Short Testa
+   2 Lead Zero Short TestW
+   2 Lead Zero Short Test/Inductanced
+   2 Lead Zero Short Test/ESRKSomething seems to be wrong.  Make sure the UUT leads are shorted together.?
+   2 Lead Zero Short Test/ESR
+   2 Lead Zero Short & Open  VIY
+   2 Lead Zero MSGp0
+   2 Lead Zero MSG@
+   2 Lead Open Test/Capsa
+   2 LEAK_VLT.VIZ
+   2 LEADSHRT.vi`
+   2 LEADSHRT.viS
+   2 LEADSHRT.viQE
+   2 LEADSHRT.viPD
+   2 LEADSHRT.viO
+   2 LEADSHRT.viND
+   2 LEADSHRT.viMD
+   2 LEADOPEN.vix
+   2 LEADOPEN.viTD
+   2 LEADOPEN.viOD
+   2 LEADOPEN.viO
+   2 KKLConnect the UUT leads to the
+   2 Inductor CalibrationY
+   2 Inductance Decade Box (L Terminal)=Short the UUT leads to the
+   2 Inductance Decade Box (H Terminal)BNow connect the red lead to the
+   2 Inductance Calibration^
+   2 Inductance Calibration[
+   2 Inductance CalibrationW
+   2 Inductance CalibrationMD
+   2 Ind Cal Failed Range S
+   2 GetDevInfoShort.vi.;
+   2 GetDevInfoShort.vi.
+   2 Gain Calibrationn
+   2 Gain Calibrationb
+   2 Failed Calibration.R
+   2 ESR Calibration`
+   2 ESR CalibrationX
+   2 ESR CalibrationW
+   2 ESR CalibrationV
+   2 ESR Calibration PassedV
+   2 Disable Leakage SuppliesOD
+   2 DVM Resistance6
+   2 DDERow 0: Default Calibration Factors
+   2 D/A.vie voltage test.vi
+   2 Current Source Calibration`
+   2 Current Source Calibration\
+   2 Current Source CalibrationW
+   2 Couldn't open the Software Rev. file.  Please set the Software Rev. manually on the front panel.  Place the flopply disk in the computer NOW.MD
+   2 Continue Button(
+   2 Continue Button@!
+   2 Capacitor CalibrationX
+   2 Capacitance Decade Box (Low Terminal).GNow connect the red lead to the
+   2 Capacitance Calibrationb
+   2 Capacitance Calibration]
+   2 Capacitance CalibrationW
+   2 Capacitance CalibrationV
+   2 Cap Cal Failed Range X
+   2 Cap Cal Failed Range ?
+   2 Calibration Unstamp]
+   2 Calibration UnstampW
+   2 Calibration UnstampV
+   2 Calibration Successful!!W
+   2 Calibration Stamp\
+   2 Calibration StampW
+   2 Calibration Resetf
+   2 Calibration Reset]
+   2 Calibration ResetY
+   2 Calibration ResetW
+   2 Calibration ResetT
+   2 Calibrated First.QE
+   2 CPO,Make sure the red UUT lead is not connected.
+   2 CCCPlease choose the file containing the capacitance calibration data.W
+   2 CALON!Gain Calibration Failed
+   2 Bytes At Serial Port.viRE
+   2 Batt. voltage.V
+   2 Batt Voltage OnM
+   2 BBKSomething seems to be wrong.  Make sure the UUT leads are shorted together.QD
+   2 All  (Not Ringer)_
+   2 All  (Not Ringer)W
+   2 AABNow adjust R1005 for the number
+   2 @@cShort the UUT leads to the Capacitance Decade box(LTerminal).
+   2 @0@i0 Failed Calibration. Offset Adjustment too high.
+   2 @!Abort Button*
+   2 @!Abort Button
+   2 >>>Adjust R1144 for the number
+   2 =Short the UUT leads to the
+   2 <string read. The VI returns the bytes read in string read.
+   2 :-Make sure the UUT leads are shorted together.
+   2 8attempt to create file fails because file already existsM
+   2 8attempt to create file fails because file already existsH
+   2 51refnum is the reference number of the open file.
+   2 22dIf UUT Comm fails, send RS-232
+   2 10V Ref Calibrationc
+   2 10V Ref CalibrationW
+   2 ---Switch the cal box to
+   2 ,,-Make sure the UUT leads are shorted together.W
+   2 ++BPlease choose the file containing the inductance calibration data.W
+   2 *.calBPlease choose the file containing the inductance calibration data.PTH0
+   2 )))Turn on Active Load
+   2 )))Lowest Current Range
+   2 (i32) line mask: determines which lines this VI reads. If you set line mask to -1 (all ones), the VI reads the entire port. If you set only bit n in line mask, the VI reads only line n of the port. If the state of line n is high, the VI sets bit n of pattern. The VI sets to 0 the bits of pattern that correspond to lines the VI has not read. The default setting for line mask is -1 which is shown as all ones since the binary representation is the default selection.,
+   2 ( Failed Calibration. Gain Adjustment>10%U
+   2 ( Failed Calibration. Gain Adjustment>10%
+   2 &data to be written  to the serial portL
+   2 """Wait a few mils for updated Abort?n
+   2 """Cause an error for abort to occur.U
+   2 " Failed Calibration. Adjusted >10%
+   2 !Open or Create File (function=%d)a
+   2 !Gain Calibration Failed
+   2 !!!Set Pass/Fail button to invisibleW
+   2  )type of dialog (continue or stop message)QD
+   2   Setup Relays for Leak. Vlt. Test`
+   2   Initialize Serial Port
+   2     Failure...Invalid ReadingZ
+   2     Failure...Invalid ReadingU
+   2         Press 'Enter' when ready.cShort the UUT leads to the Capacitance Decade box(LTerminal).
+   2         Press 'Enter' when ready.MD
+   2            Press 'Enter' when ready.g
+   2            Press 'Enter' when ready._
+   2            Press 'Enter' when ready.W
+   2            Press 'Enter' when ready.V
+   2            Press 'Enter' when ready.T
+   2 Set Cal Date`
+   2 Leakage Data @@
+   2 Leakage Data
+   2 Abort ButtonMD
+   2 TEST PASSED!b
+   2 TEST PASSED!X
+   2 TEST PASSED!W
+   2 TEST PASSED!S
+   2 TEST FAILED!W
+   2 TEST FAILED!S
+   2 TEST FAILED!RE
+   2 TEST FAILED!R
+   2 TEST FAILED!H
+   2 Current TestP
+   1 ustart of read offset is the position in the file, measured in characters (or bytes), at which the VI begins reading.
+   1 try to open the fileH
+   1 then send pass/fail message.H
+   1 start of read offset (chars.:0 )z
+   1 start of read offset (chars.:0 )p8
+   1 start of read offset (chars.:0 )M
+   1 start of read offset (chars.:0 )H
+   1 start of read offset (chars.:0 )B<
+   1 start of read offset (chars.:0 )6
+   1 start of read offset (chars.:0 )4(
+   1 start of read offset (chars.:0 )07-W
+   1 start of read offset (chars.:0 ),9
+   1 start of read offset (chars.:0 )*
+   1 start of read offset (chars.:0 )&`
+   1 serpOpen.vie
+   1 serpOpen.viPTH0
+   1 sFile Dialog cancelled; set error out code to Cancelled By User; set refnum to NotaRefnum and file path to NotAPath.
+   1 relative to current mark+'string is the data read from the file.
+   1 pos offset (bytes:0)M
+   1 pos offset (bytes:0)H
+   1 pos offset (bytes:0)*
+   1 pos offset (bytes:0)(@
+   1 pos offset (bytes:0)'
+   1 pos offset (bytes:0)"
+   1 pos offset (bytes:0)0@
+   1 pos offset (0)(@
+   1 open or create fileaD
+   1 open or create fileMD
+   1 open or create fileHD
+   1 open or create file4
+   1 open or create file$
+   1 open or create file`0
+   1 open mode (0)>`
+   1 on Range !Gain Calibration Failed
+   1 offset past number>
+   1 offset past number@
+   1 offset of matchL
+   1 of rings specified on the cal box.-Switch the cal box to
+   1 lead zero short/open.viH
+   1 lead zero short/open.vi4
+   1 lead zero short/open.vi-
+   1 is calibrated first.HD
+   1 herror is other than file not found; set error flag TRUE, file path to NotAPath, and refnum to NotARefnummD
+   1 hOutput XON/XOFF. See the Common Serial Port VI Parameters section of this chapter for more information.
+   1 function (open:0)M
+   1 function (open:0)L
+   1 function (open:0)4M/
+   1 function (open:0)&v
+   1 function (open:0)&M
+   1 function (open:0)&
+   1 function (open:0) v
+   1 file path is the path name of the file. If file path is empty (default value) or is Not A Path, the VI displays a File dialog box from which you can select a file. Error 43 occurs if the user cancels the dialog.\Xfile size is the size of the file in bytes; it is also the location of the end of file.
+   1 file path is the path name of the file. If file path is empty (default value) or is Not A Path, the VI displays a File dialog box from which you can select a file. Error 43 occurs if the user cancels the dialog.   <#
+   1 eaCompares 2 real numbers X and Y.  If they are within about 0.1% of each other a TRUE is returned.$
+   1 dIf UUT Comm fails, send RS-232
+   1 createmirefnum is the reference number of the open file. The value is Not A Refnum if the file cannot be opened.
+   1 ` Abort Buttont
+   1 ` Abort Button
+   1 \If the error in cluster has a status of ERROR, pass it through without test for local errorsH
+   1 [report file not found if function=0 (open); set file path to empty and refnum to NotARefnumMD
+   1 [[[report file not found if function=0 (open); set file path to empty and refnum to NotARefnumMD
+   1 Yolks and Flybacks.H
+   1 YFBLConnect the UUT leads to the
+   1 Voltage ReadingP
+   1 Voltage Reading@@P
+   1 Voltage Reading4?
+   1 Voltage Reading46
+   1 Voltage Reading45
+   1 Voltage Reading0
+   1 Voltage Reading,
+   1 Voltage Reading@
+   1 Uadvisory dialog? Set TRUE (default) if you want a dialog if the file does not exist.
+   1 Trigger Abort? CheckD
+   1 The read subVI inside the While Loop searches for the last end-of-line, but does not return any data.  Once that location is found, the read subVI outside the loop reads the entire string.  This method is faster for a large number of lines, because it does not require the use of a string concatentation function in the loop and its associated memory suffling, but this method is slower for a few lines.d:\automated\lv51\lvsource\gencode.cGenRangeCheck
+   1 Tests SelectedM
+   1 Tests SelectedH
+   1 Tests Selected@
+   1 Tests Selected<
+   1 Tests Selected4
+   1 Test Voltage ArrayL8
+   1 Test Voltage ArrayH
+   1 Test Voltage Array@
+   1 Test Voltage Array<4Dyx
+   1 Test Voltage Array44/yx
+   1 Test Voltage Array2
+   1 Test Voltage Array"`@
+   1 Test Voltage Array"@@
+   1 Test Passed!!H
+   1 Test Leads?@
+   1 Test Leads?47b
+   1 Test Leads?45
+   1 Test Leads?4.
+   1 Test Leads?4
+   1 Test Leads?"
+   1 Sources CalibratedM
+   1 Sources CalibratedH
+   1 Sources Calibrated@62
+   1 Sources Calibrated4
+   1 Sources Calibrated2
+   1 Sources Calibrated"`@
+   1 Sources Calibrated"@@
+   1 Software Rev.ss4
+   1 Software Rev.\
+   1 Software Rev.H
+   1 Software Rev.@
+   1 Software Rev.4!
+   1 Software Rev.4
+   1 Software Rev.x0
+   1 Short LeadsH
+   1 Setup Relays for Leak. Vlt. Test`
+   1 Set Voltage on UUTV
+   1 Set Voltage on UUTPD
+   1 Set Voltage on UUTHD4Z3
+   1 Set Status MessageH
+   1 Set Serial NumberY
+   1 Set Low LS to 4VHD
+   1 Set Low LS to 32VHDHq3
+   1 Set Low LS to 28VHD
+   1 Set Low LS to 1VH
+   1 Set Low LS to 16VHD`p3
+   1 Set Low LS to 0VHD@y3
+   1 Set Low LS to 0VH
+   1 Set High LS to 875VHD
+   1 Set High LS to 500VHD t3
+   1 Set High LS to 33.0VHD
+   1 Set High LS to 125VHD
+   1 Set High LS to 1000VHD u3
+   1 Set High LS to 0VHD
+   1 Serial Port Write.vib
+   1 Serial Port Resetf
+   1 Serial Port Read.vir
+   1 Serial Port Read.vie
+   1 Serial Port Read.viV
+   1 Serial Port Read.viPTH0
+   1 Serial Port Read.viHD4J3
+   1 Serial Port Read.viHD
+   1 Serial Port Init.vit
+   1 Serial Port Init.viPTH0
+   1 Serial Port Buffer Size.viU
+   1 Serial Port Buffer Size.vi.
+   1 Serial Port Buffer Size.vi+
+   1 Serial Numberb
+   1 Serial Number]
+   1 Serial NumberU
+   1 Serial NumberH
+   1 Serial Number4KO
+   1 Serial Number4+
+   1 Serial Number4
+   1 Serial Number0
+   1 Serial Number"
+   1 Serial Number
+   1 SelectionDsc
+   1 SelectionDrc
+   1 SelectionDoc
+   1 SelectionDnc
+   1 SelectionDmc
+   1 SelectionDlc
+   1 Selection0@P
+   1 Selection Mode@
+   1 Selection Mode
+   1 Ringer.viPTH0
+   1 Returned Value|
+   1 Returned ValueH
+   1 Return String@@P
+   1 Return String8
+   1 Return String4|3
+   1 Return String4B3
+   1 Return String473
+   1 Return String,2
+   1 Return String,-
+   1 Return String"@!
+   1 Return String@!
+   1 RCouldn't open the Software Rev. file.  Place the flopply disk in the computer NOW.s
+   1 Pass/FailHD$$d3
+   1 Pass/FailHD"
+   1 Pass/Fail  Messagee,
+   1 Pass/Fail  Messagee$
+   1 Pass/Fail  Messagee
+   1 Pass/Fail  Message`
+   1 Pass/Fail  MessageX
+   1 Pass/Fail  MessageL
+   1 Pass/Fail  Messagex0
+   1 Pass/Fail  Messagep0
+   1 Pass or Fail Globalob$-
+   1 Pass or Fail Globalob$,
+   1 Pass or Fail Globalob$'
+   1 Pass or Fail GlobalL
+   1 Pass or Fail Global@42
+   1 Pass or Fail Global<=
+   1 Pass or Fail Global<8
+   1 Pass or Fail Global8,>J
+   1 Pass or Fail Global8(>I
+   1 Pass or Fail Global8(>C
+   1 Pass or Fail Global8'>9XO
+   1 Pass or Fail Global4F/
+   1 Pass or Fail Global4A
+   1 Pass or Fail Global47
+   1 Pass or Fail Global46
+   1 Pass or Fail Global4-/
+   1 Pass or Fail Global4,/
+   1 Pass or Fail Global4'
+   1 Pass or Fail Global4
+   1 Pass or Fail Global Q
+   1 Pass or Fail Global K
+   1 Pass or Fail Global 1
+   1 Pass or Fail Global '
+   1 Pass or Fail Global &
+   1 PAn invalid Software Rev. number was specified.  Please fix this after cal fails.SE
+   1 PA Voltage OnH
+   1 P0Current Teste
+   1 P.A. voltage.
+   1 P Abort Buttont
+   1 P Abort Button
+   1 Open_Create_Replace File.viPTH0
+   1 Open_Create_Replace File.vi
+   1 Open/Create/Replace File.vir
+   1 Open/Create/Replace File.viI
+   1 Open instrumentHD
+   1 Open Serial Driver]
+   1 Open Serial DriverHDdP3
+   1 Open Serial DriverHD
+   1 Open Serial Driver.vit
+   1 Open Serial Driver.vir
+   1 Open Serial Driver.vil
+   1 Open Serial Driver.vid
+   1 Open Serial Driver.viPTH0
+   1 Open File+.vio
+   1 Open File+.vie
+   1 Open File+.viPTH0
+   1 Open File+.viH
+   1 Open File+.vi:Open File]
+   1 Open File+.vi:Open FileSE
+   1 Open File+.vi:File DialogPTH0
+   1 Low Voltage to MeterHD0w3
+   1 Load SelectdO
+   1 Load SelectdB
+   1 Load Selectd=
+   1 Load Selectd2
+   1 Load Select2
+   1 Load Select* P
+   1 Load Select"O
+   1 Load Select"N
+   1 Load Select"B
+   1 Load Select"=
+   1 Load Select"/
+   1 Leakage voltage test.vi|A$
+   1 Leakage voltage test.vio
+   1 Leakage voltage test.viH
+   1 Leakage voltage test.vi-
+   1 Leakage current test.vir
+   1 Leakage Voltage TestWD
+   1 Leakage Voltage Test'
+   1 Leakage Voltage R
+   1 Leakage Voltage N
+   1 Leakage Supply TestOD
+   1 Leakage I DataM
+   1 Leakage I DataH
+   1 Leakage I Data23
+   1 Leakage I Data2
+   1 Leakage I Data0
+   1 Leakage I Data*
+   1 Leakage I Data&@@
+   1 Leakage I Data"`@
+   1 Leakage I Data"P@
+   1 Leakage I Data"@@
+   1 Leakage I Data 3
+   1 Leakage I Data0@
+   1 Leakage Current TestfConnect the UUT and/or DVM leads to
+   1 Leakage Current TestHDl
+   1 Leakage Current R
+   1 Leakage Current N
+   1 Leak_CAL.VIn
+   1 Leak_CAL.VIPTH0
+   1 Leak_CAL.VIHDpr3
+   1 Leak_CAL.VIHD
+   1 Lead Zero Short Test[
+   1 Lead Zero Short & Open  VIM
+   1 Lead Zero MSGt 4&
+   1 Lead Zero MSGV
+   1 Lead Zero MSGH
+   1 Lead Zero MSGG,
+   1 Lead Zero MSGG"
+   1 Lead Zero MSG
+   1 LEAK_VLT.VIPTH0
+   1 LEAK_I.VIPTH0
+   1 LEADSHRT.vir
+   1 LEADSHRT.vie
+   1 LEADSHRT.vid
+   1 LEADSHRT.viPTH0
+   1 LEADSHRT.viNDz
+   1 LEADSHRT.viHD\
+   1 LEADSHRT.viHD
+   1 LEADSHRT.vi4
+   1 LEADSHRT.vi0%$
+   1 LEADOPEN.viX<$
+   1 LEADOPEN.viPTH0
+   1 LEADOPEN.viHDHh3
+   1 LEADOPEN.viHD
+   1 LEADOPEN.vi4
+   1 KSomething seems to be wrong.  Make sure the UUT leads are shorted together.
+   1 Instr Open.viO
+   1 Instr Open.vi0
+   1 Initialize Serial Port
+   1 Inductance Calibration@M
+   1 IND-Make sure the UUT leads are shorted together.
+   1 IND-6BNow connect the red lead to the
+   1 Gain CalibrationfConnect the UUT and/or DVM leads to
+   1 Gain CalibrationW
+   1 Gain CalibrationU
+   1 Gain Calibration" Failed Calibration. Adjusted >10%
+   1 Fail = Falser
+   1 Fail = Falsel@
+   1 Fail = FalseLN
+   1 Fail = FalseLK
+   1 FMELDKCJBI@GAHBNow connect the red lead to the
+   1 ESR Calibration'
+   1 ESR Calibration PassedU
+   1 ERow 0: Default Calibration Factors
+   1 Disable Leakage SuppliesHD s3
+   1 DVM ResistanceT
+   1 DVM ResistanceL
+   1 DVM ResistanceH
+   1 DVM Resistance@
+   1 Current Source Calibration?
+   1 Current MUST be Calibrated FirstQ
+   1 Continue Button @
+   1 Communication Error.0 Failed Calibration. Offset Adjustment too high.( Failed Calibration. Gain Adjustment>10%
+   1 Cap Cal Failed Range
+   1 Calibration UnstampRE
+   1 Calibrated First.MD
+   1 CPlease choose the file containing the capacitance calibration data.V
+   1 CPlease choose the file containing the capacitance calibration data.O
+   1 CLRPARcShort the UUT leads to the Capacitance Decade box(LTerminal).
+   1 CCCPlease choose the file containing the capacitance calibration data.V
+   1 CCCPlease choose the file containing the capacitance calibration data.O
+   1 CAPGNow connect the red lead to the
+   1 CAP,Make sure the red UUT lead is not connected.
+   1 Bytes At Serial Port.vir
+   1 Bytes At Serial Port.viPTH0
+   1 Bytes At Serial Port.viP
+   1 Bytes At Serial Port.viHD
+   1 Bytes At Serial Port.viE
+   1 Bytes At Serial Port.viD
+   1 Batt Voltage OnH
+   1 BPlease choose the file containing the inductance calibration data.V
+   1 BPlease choose the file containing the inductance calibration data.
+   1 Abort?gencode.cGenCopyProcs3
+   1 Abort AllXA@
+   1 ABORT?.viPTH0
+   1 ABORT?.viHDx
+   1 ABORT?.viHD@
+   1 ABORT?.vi2`l$
+   1 ABORT?.vi2,<O
+   1 @0Current Teste4Z
+   1 @0Current Teste45
+   1 @0Current Teste4/
+   1 @0Current Teste4
+   1 @0Current Teste"
+   1 @0Current Teste
+   1 @ start of read offset (chars.:0 ),2@'new file path (Not A Path if cancelled)
+   1 @ start of read offset (chars.:0 ),
+   1 @ Abort Buttonton4
+   1 @ Abort Buttonton
+   1 @ Abort ButtontH
+   1 @ Abort Buttont
+   1 @ Abort Buttonss4
+   1 @ Abort Button4
+   1 @ Abort Button0
+   1 @Abort Buttont
+   1 @Abort Button
+   1 99HConnect the black UUT lead to the
+   1 8file is now open; proceed if function=1 (open or create){D
+   1 77GNow connect the red lead to the
+   1 6) Press ENTER when ready, choose test to perform and press START.[
+   1 6) Press ENTER when ready, choose test to perform and press START.S
+   1 2create a new file if function=1-3 (open or create)
+   1 1refnum is the reference number of the open file.
+   1 10V Ref CalibrationV
+   1 10V Ref CalibrationRE
+   1 0@Current Teste
+   1 051refnum is the reference number of the open file.
+   1 000 Failed Calibration. Offset Adjustment too high.W
+   1 0 Failed Calibration. Offset Adjustment too high.W
+   1 0Leakage DataH)
+   1 0Leakage Data4H
+   1 0Leakage Data(H
+   1 0Leakage Data(
+   1 0Leakage Data
+   1 .file is now open; proceed if function=0 (open)
+   1 -Set Pass/ Fail Indicator and make it visible V
+   1 ,Make sure the red UUT lead is not connected.W
+   1 ,Make sure the red UUT lead is not connected.RD
+   1 ,,-Set Pass/ Fail Indicator and make it visible m
+   1 ,,-Set Pass/ Fail Indicator and make it visible V
+   1 +Current Source Calibration Passed
+   1 ++BPlease choose the file containing the inductance calibration data.V
+   1 ++BPlease choose the file containing the inductance calibration data.
+   1 ++,Make sure the red UUT lead is not connected.W
+   1 ++,Make sure the red UUT lead is not connected.RD
+   1 *.calCPlease choose the file containing the capacitance calibration data.
+   1 *.calBPlease choose the file containing the inductance calibration data.gencode.cGenDispatchEntry
+   1 *.calBPlease choose the file containing the inductance calibration data.d:\automated\lv51\lvsource\gencode.cGenRangeCheck
+   1 **+Unit failed to
+   1 )type of dialog (continue or stop message)QD
+   1 )type of dialog (continue or stop message)>1
+   1 )Turn on Active Load
+   1 )Lowest Current Range
+   1 ))*Unit failed to
+   1 'Last known LC103 Software Rev. is:  VERg
+   1 'Last known LC103 Software Rev. is:  VERRCouldn't open the Software Rev. file.  Place the flopply disk in the computer NOW.
+   1 'Last known LC103 Software Rev. is:  VERMD
+   1 ''RCouldn't open the Software Rev. file.  Place the flopply disk in the computer NOW.s
+   1 '''Last known LC103 Software Rev. is:  VERg
+   1 '''Last known LC103 Software Rev. is:  VERMD
+   1 $continue or stop message on an error:
+   1 $Do next test if previous test passedW
+   1 "Wait a few mils for updated Abort?n
+   1 "Cause an error for abort to occur.U
+   1 ""%UNIT_OFF line fails
+   1 " Failed Calibration. Adjusted >10%R
+   1 !Set Pass/Fail button to invisibleW
+   1 !Set Pass/Fail Button to invisibled
+   1 !!+Current Source Calibration Passed
+   1 !!" Failed Calibration. Adjusted >10%R
+   1 !!!Set Pass/Fail Button to invisibled
+   1 !!!Set Pass/Fail Button to invisibleH
+   1   Current MUST be Calibrated FirstQ
+   1   Current MUST be Calibrated FirstH
+   1         Press 'Enter' when ready.W
+   1         Press 'Enter' when ready.SE
+   1         Press 'Enter' when ready.RE
+   1         Press 'Enter' when ready.PD
+   1         Press 'Enter' when ready.OD
+   1          Press 'Enter' when finished.d
+   1          Press 'Enter' when finished.H
+   1 TEST PASSED!w
+   1 TEST PASSED!m
+   1 TEST PASSED!d
+   1 TEST PASSED!c
+   1 TEST PASSED!`
+   1 TEST PASSED!^
+   1 TEST PASSED!]
+   1 TEST PASSED!Y
+   1 TEST PASSED!X
+   1 TEST PASSED!W
+   1 TEST PASSED!T
+   1 TEST PASSED!S
+   1 TEST FAILED!`
+   1 TEST FAILED!W
+   1 TEST FAILED!V
+   1 TEST FAILED!U
+   1 TEST FAILED!S
+   1 TEST FAILED!OD
+   1 TEST FAILED!O
+   1 TEST FAILED!MD
+   1 TEST FAILED!H
+   1 Leakage DataX
+   1 Leakage Data$
+   1 Current Test]
+   1 Current TestT
+   1 Current Test*
+   1 Abort Button^
+   1 Abort ButtonY
+   1 Abort ButtonW
+   1 TEST PASSED!w
+   1 TEST PASSED!m
+   1 TEST PASSED!d
+   1 TEST PASSED!c
+   1 TEST PASSED!`
+   1 TEST PASSED!^
+   1 TEST PASSED!]
+   1 TEST PASSED!Y
+   1 TEST PASSED!T
+   1 TEST PASSED!H
+   1 TEST FAILED!`
+   1 TEST FAILED!OD
+   1 TEST FAILED!O
+   1 TEST FAILED!MD
+   1 TEST FAILED!HD0
+   1 TEST FAILED!HD(
+   1 TEST FAILED!HD
+   1 Leakage DataM
+   1 Leakage DataH
+   1 Current Test]
+   1 Current TestT
+   1 Current TestH

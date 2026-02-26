@@ -1,0 +1,252 @@
+60030:23c4fe (i32) code: the error code associated with an error.  A value of 0 means no error, a negative value is an error, and a positive value is a warning.[W(string) source:  an indication of where an error occurred, usually the name of the VI.
+62774:25ecb8 (i32) code: the error code associated with an error.  A value of 0 means no error, a negative value is an error, and a positive value is a warning.[W(string) source:  an indication of where an error occurred, usually the name of the VI.
+63540:2716fa (i32) code: the error code associated with an error.  A value of 0 means no error, a negative value is an error, and a positive value is a warning.[W(string) source:  an indication of where an error occurred, usually the name of the VI.
+66167:29628a (i32) code: the error code associated with an error.  A value of 0 means no error, a negative value is an error, and a positive value is a warning.[W(string) source:  an indication of where an error occurred, usually the name of the VI.
+68047:2b0fd0 (i32) code: the error code associated with an error.  A value of 0 means no error, a negative value is an error, and a positive value is a warning.[W(string) source:  an indication of where an error occurred, usually the name of the VI.
+68907:2b923b (i32) code: the error code associated with an error.  A value of 0 means no error, a negative value is an error, and a positive value is a warning.[W(string) source:  an indication of where an error occurred, usually the name of the VI.
+69699:2c497f (i32) code: the error code associated with an error.  A value of 0 means no error, a negative value is an error, and a positive value is a warning.[W(string) source:  an indication of where an error occurred, usually the name of the VI.
+70072:2cac71 (i32) code: the error code associated with an error.  A value of 0 means no error, a negative value is an error, and a positive value is a warning.[W(string) source:  an indication of where an error occurred, usually the name of the VI.
+70085:2cb046 (i32) code: the error code associated with an error.  A value of 0 means no error, a negative value is an error, and a positive value is a warning.[W(string) source:  an indication of where an error occurred, usually the name of the VI.
+70488:2d1d37 (i32) code: the error code associated with an error.  A value of 0 means no error, a negative value is an error, and a positive value is a warning.[W(string) source:  an indication of where an error occurred, usually the name of the VI.
+70501:2d210c (i32) code: the error code associated with an error.  A value of 0 means no error, a negative value is an error, and a positive value is a warning.[W(string) source:  an indication of where an error occurred, usually the name of the VI.
+74822:316bf5 9When you use the serial port VIs under Windows, the port number parameter can have the following values:
+75375:31da87 9When you use the serial port VIs under Windows, the port number parameter can have the following values:
+75597:321180 9When you use the serial port VIs under Windows, the port number parameter can have the following values:
+75851:32503b 9When you use the serial port VIs under Windows, the port number parameter can have the following values:
+82545:395bfc Low Value Inductance Box
+82547:395c48 Low Value Inductance BoxO
+82554:395d47 Low Value Inductance BoxW
+82557:395db6 Low Value Inductance BoxW
+82675:396a6e Low Value Inductance Box
+82677:396aa6 Low Value Inductance Box
+82690:396d79 Low Value Inductance Box
+82692:396db1 Low Value Inductance Box
+101588:4b7300 error code is a numeric error code. If error in indicates an error, the VI ignores error code. If not, the VI tests it. A non-zero value signifies an error.
+102376:4c5276 6Windows GetCommError:  The hex value of this code is xH
+102543:4d083f This error code is not listed in the internal database, or you have wired a number that is not an error code (such as a DAQ task ID) to the error code input.6Windows GetCommError:  The hex value of this code is x
+230497:7e332 (i32) code: the error code associated with an error.  A value of 0 means no error, a negative value is an error, and a positive value is a warning.[W(string) source:  an indication of where an error occurred, usually the name of the VI.
+233293:a1318 (i32) code: the error code associated with an error.  A value of 0 means no error, a negative value is an error, and a positive value is a warning.[W(string) source:  an indication of where an error occurred, usually the name of the VI.
+234077:b4132 (i32) code: the error code associated with an error.  A value of 0 means no error, a negative value is an error, and a positive value is a warning.[W(string) source:  an indication of where an error occurred, usually the name of the VI.
+236717:d902a (i32) code: the error code associated with an error.  A value of 0 means no error, a negative value is an error, and a positive value is a warning.[W(string) source:  an indication of where an error occurred, usually the name of the VI.
+238610:f3fac (i32) code: the error code associated with an error.  A value of 0 means no error, a negative value is an error, and a positive value is a warning.[W(string) source:  an indication of where an error occurred, usually the name of the VI.
+239482:fc45b (i32) code: the error code associated with an error.  A value of 0 means no error, a negative value is an error, and a positive value is a warning.[W(string) source:  an indication of where an error occurred, usually the name of the VI.
+240299:107fb3 (i32) code: the error code associated with an error.  A value of 0 means no error, a negative value is an error, and a positive value is a warning.[W(string) source:  an indication of where an error occurred, usually the name of the VI.
+240688:10e581 (i32) code: the error code associated with an error.  A value of 0 means no error, a negative value is an error, and a positive value is a warning.[W(string) source:  an indication of where an error occurred, usually the name of the VI.
+240701:10e956 (i32) code: the error code associated with an error.  A value of 0 means no error, a negative value is an error, and a positive value is a warning.[W(string) source:  an indication of where an error occurred, usually the name of the VI.
+241121:115947 (i32) code: the error code associated with an error.  A value of 0 means no error, a negative value is an error, and a positive value is a warning.[W(string) source:  an indication of where an error occurred, usually the name of the VI.
+241134:115d1c (i32) code: the error code associated with an error.  A value of 0 means no error, a negative value is an error, and a positive value is a warning.[W(string) source:  an indication of where an error occurred, usually the name of the VI.
+245132:1552a9 9When you use the serial port VIs under Windows, the port number parameter can have the following values:
+245690:15c26b 9When you use the serial port VIs under Windows, the port number parameter can have the following values:
+245918:15fac0 9When you use the serial port VIs under Windows, the port number parameter can have the following values:
+246177:163adf 9When you use the serial port VIs under Windows, the port number parameter can have the following values:
+260021:22fed8 error code is a numeric error code. If error in indicates an error, the VI ignores error code. If not, the VI tests it. A non-zero value signifies an error.
+260809:23de4e 6Windows GetCommError:  The hex value of this code is xH
+260976:249417 This error code is not listed in the internal database, or you have wired a number that is not an error code (such as a DAQ task ID) to the error code input.6Windows GetCommError:  The hex value of this code is x
+290315:42f100 Low Value Inductance Box
+290317:42f14c Low Value Inductance BoxO
+290324:42f24b Low Value Inductance BoxW
+290327:42f2ba Low Value Inductance BoxW
+290445:42ff72 Low Value Inductance Box
+290447:42ffaa Low Value Inductance Box
+290460:43027d Low Value Inductance Box
+290462:4302b5 Low Value Inductance Box
+291272:4412e2 Low Value Inductance BoxW
+291275:441353 Low Value Inductance BoxW
+291361:441ccf Low Value Inductance Box
+291363:441d0b Low Value Inductance Box
+297015:4b61b (i32) code: the error code associated with an error.  A value of 0 means no error, a negative value is an error, and a positive value is a warning.[W(string) source:  an indication of where an error occurred, usually the name of the VI.
+299841:6e5a1 (i32) code: the error code associated with an error.  A value of 0 means no error, a negative value is an error, and a positive value is a warning.[W(string) source:  an indication of where an error occurred, usually the name of the VI.
+300642:8138f (i32) code: the error code associated with an error.  A value of 0 means no error, a negative value is an error, and a positive value is a warning.[W(string) source:  an indication of where an error occurred, usually the name of the VI.
+303316:a6227 (i32) code: the error code associated with an error.  A value of 0 means no error, a negative value is an error, and a positive value is a warning.[W(string) source:  an indication of where an error occurred, usually the name of the VI.
+305240:c1151 (i32) code: the error code associated with an error.  A value of 0 means no error, a negative value is an error, and a positive value is a warning.[W(string) source:  an indication of where an error occurred, usually the name of the VI.
+306121:c95e4 (i32) code: the error code associated with an error.  A value of 0 means no error, a negative value is an error, and a positive value is a warning.[W(string) source:  an indication of where an error occurred, usually the name of the VI.
+307911:e5866 9When you use the serial port VIs under Windows, the port number parameter can have the following values:
+308139:e90b3 9When you use the serial port VIs under Windows, the port number parameter can have the following values:
+308397:ed0ca 9When you use the serial port VIs under Windows, the port number parameter can have the following values:
+312738:134741 (i32) code: the error code associated with an error.  A value of 0 means no error, a negative value is an error, and a positive value is a warning.[W(string) source:  an indication of where an error occurred, usually the name of the VI.
+313132:13ad06 (i32) code: the error code associated with an error.  A value of 0 means no error, a negative value is an error, and a positive value is a warning.[W(string) source:  an indication of where an error occurred, usually the name of the VI.
+313145:13b0db (i32) code: the error code associated with an error.  A value of 0 means no error, a negative value is an error, and a positive value is a warning.[W(string) source:  an indication of where an error occurred, usually the name of the VI.
+313567:1420c0 (i32) code: the error code associated with an error.  A value of 0 means no error, a negative value is an error, and a positive value is a warning.[W(string) source:  an indication of where an error occurred, usually the name of the VI.
+313580:142495 (i32) code: the error code associated with an error.  A value of 0 means no error, a negative value is an error, and a positive value is a warning.[W(string) source:  an indication of where an error occurred, usually the name of the VI.
+314009:14daf5 error code is a numeric error code. If error in indicates an error, the VI ignores error code. If not, the VI tests it. A non-zero value signifies an error.
+314817:15ba3d 666Windows GetCommError:  The hex value of this code is xH
+314984:166fe8 This error code is not listed in the internal database, or you have wired a number that is not an error code (such as a DAQ task ID) to the error code input.6Windows GetCommError:  The hex value of this code is x
+319246:1aa18d Inductor Value ary@
+319247:1aa29a Inductor Value aryH
+319274:1ab309 Inductor Value ary0#-+
+319638:1b112e Inductor Value ary"`@
+319639:1b114b Inductor Value ary"@@
+319640:1b1168 Inductor Value ary
+319665:1b139d Inductor Value ary
+319682:1b15f0 Inductor Value aryM
+319695:1b187f %<- number of inductor values in arrayH
+319746:1b1e5e Inductor Value S
+319787:1b1fcf Inductor Value 
+319813:1b2224 Inductor Value ary"@@
+321857:1d6f3f Inductor Value ary@
+321858:1d704c Inductor Value aryH
+321887:1d80bc Inductor Value ary0#-+
+322297:1df313 Inductor Value ary"`@
+322298:1df330 Inductor Value ary"@@
+322299:1df34d Inductor Value ary
+322325:1df5bc Inductor Value ary
+322342:1df818 Inductor Value aryM
+322356:1dfabe %<- number of inductor values in arrayH
+322412:1e01ad Inductor Value S
+322453:1e0327 Inductor Value 
+322480:1e05aa Inductor Value ary"@@
+329242:4a88f (i32) code: the error code associated with an error.  A value of 0 means no error, a negative value is an error, and a positive value is a warning.[W(string) source:  an indication of where an error occurred, usually the name of the VI.
+332102:6d8b5 (i32) code: the error code associated with an error.  A value of 0 means no error, a negative value is an error, and a positive value is a warning.[W(string) source:  an indication of where an error occurred, usually the name of the VI.
+332911:8079f (i32) code: the error code associated with an error.  A value of 0 means no error, a negative value is an error, and a positive value is a warning.[W(string) source:  an indication of where an error occurred, usually the name of the VI.
+335590:a550f (i32) code: the error code associated with an error.  A value of 0 means no error, a negative value is an error, and a positive value is a warning.[W(string) source:  an indication of where an error occurred, usually the name of the VI.
+337514:c043d (i32) code: the error code associated with an error.  A value of 0 means no error, a negative value is an error, and a positive value is a warning.[W(string) source:  an indication of where an error occurred, usually the name of the VI.
+338398:c8901 (i32) code: the error code associated with an error.  A value of 0 means no error, a negative value is an error, and a positive value is a warning.[W(string) source:  an indication of where an error occurred, usually the name of the VI.
+339205:d3c21 (i32) code: the error code associated with an error.  A value of 0 means no error, a negative value is an error, and a positive value is a warning.[W(string) source:  an indication of where an error occurred, usually the name of the VI.
+339599:da1de (i32) code: the error code associated with an error.  A value of 0 means no error, a negative value is an error, and a positive value is a warning.[W(string) source:  an indication of where an error occurred, usually the name of the VI.
+339612:da5b3 (i32) code: the error code associated with an error.  A value of 0 means no error, a negative value is an error, and a positive value is a warning.[W(string) source:  an indication of where an error occurred, usually the name of the VI.
+340045:e15e8 (i32) code: the error code associated with an error.  A value of 0 means no error, a negative value is an error, and a positive value is a warning.[W(string) source:  an indication of where an error occurred, usually the name of the VI.
+340058:e19bd (i32) code: the error code associated with an error.  A value of 0 means no error, a negative value is an error, and a positive value is a warning.[W(string) source:  an indication of where an error occurred, usually the name of the VI.
+340492:ed0d8 error code is a numeric error code. If error in indicates an error, the VI ignores error code. If not, the VI tests it. A non-zero value signifies an error.
+341294:fb00d 666Windows GetCommError:  The hex value of this code is xH
+341461:1065b8 This error code is not listed in the internal database, or you have wired a number that is not an error code (such as a DAQ task ID) to the error code input.6Windows GetCommError:  The hex value of this code is x
+351942:495f2 (i32) code: the error code associated with an error.  A value of 0 means no error, a negative value is an error, and a positive value is a warning.[W(string) source:  an indication of where an error occurred, usually the name of the VI.
+354907:7676a (i32) code: the error code associated with an error.  A value of 0 means no error, a negative value is an error, and a positive value is a warning.[W(string) source:  an indication of where an error occurred, usually the name of the VI.
+357547:9b662 (i32) code: the error code associated with an error.  A value of 0 means no error, a negative value is an error, and a positive value is a warning.[W(string) source:  an indication of where an error occurred, usually the name of the VI.
+359440:b65e4 (i32) code: the error code associated with an error.  A value of 0 means no error, a negative value is an error, and a positive value is a warning.[W(string) source:  an indication of where an error occurred, usually the name of the VI.
+360936:cd3ea Low Value Inductance BoxW
+360939:cd45b Low Value Inductance BoxW
+361025:cddd7 Low Value Inductance Box
+361027:cde13 Low Value Inductance Box
+371416:182e6e @6Windows GetCommError:  The hex value of this code is x
+371458:1838c8 error code is a numeric error code. If error in indicates an error, the VI ignores error code. If not, the VI tests it. A non-zero value signifies an error.
+371569:185ee2 666Windows GetCommError:  The hex value of this code is xH
+389854:2c1978 Low Value Inductance Box3Short the UUT leads to the
+389855:2c19ac Low Value Inductance Box
+389857:2c19e8 Low Value Inductance Box3Short the UUT leads to the
+389858:2c1a1c Low Value Inductance Box
+390015:2c3064 Low Value Inductance Box
+390017:2c30b0 Low Value Inductance BoxO
+390024:2c31af Low Value Inductance BoxW
+390027:2c321e Low Value Inductance BoxW
+396595:330ae7 9When you use the serial port VIs under Windows, the port number parameter can have the following values:
+396893:334e31 9When you use the serial port VIs under Windows, the port number parameter can have the following values:
+397174:338dc0 9When you use the serial port VIs under Windows, the port number parameter can have the following values:
+397592:33f1c3 9When you use the serial port VIs under Windows, the port number parameter can have the following values:
+402200:388239 (i32) code: the error code associated with an error.  A value of 0 means no error, a negative value is an error, and a positive value is a warning.[W(string) source:  an indication of where an error occurred, usually the name of the VI.
+402209:3885ee (i32) code: the error code associated with an error.  A value of 0 means no error, a negative value is an error, and a positive value is a warning.[W(string) source:  an indication of where an error occurred, usually the name of the VI.
+402633:38fa6f (i32) code: the error code associated with an error.  A value of 0 means no error, a negative value is an error, and a positive value is a warning.[W(string) source:  an indication of where an error occurred, usually the name of the VI.
+402642:38fe24 (i32) code: the error code associated with an error.  A value of 0 means no error, a negative value is an error, and a positive value is a warning.[W(string) source:  an indication of where an error occurred, usually the name of the VI.
+403046:396efc (i32) code: the error code associated with an error.  A value of 0 means no error, a negative value is an error, and a positive value is a warning.[W(string) source:  an indication of where an error occurred, usually the name of the VI.
+422644:4948f (i32) code: the error code associated with an error.  A value of 0 means no error, a negative value is an error, and a positive value is a warning.[W(string) source:  an indication of where an error occurred, usually the name of the VI.
+425641:7659b (i32) code: the error code associated with an error.  A value of 0 means no error, a negative value is an error, and a positive value is a warning.[W(string) source:  an indication of where an error occurred, usually the name of the VI.
+428315:9b433 (i32) code: the error code associated with an error.  A value of 0 means no error, a negative value is an error, and a positive value is a warning.[W(string) source:  an indication of where an error occurred, usually the name of the VI.
+430239:b635d (i32) code: the error code associated with an error.  A value of 0 means no error, a negative value is an error, and a positive value is a warning.[W(string) source:  an indication of where an error occurred, usually the name of the VI.
+431113:c00fd Inductor Value ary@
+431114:c020a Inductor Value aryH
+431141:c1279 Inductor Value ary0#-+
+431505:c709e Inductor Value ary"`@
+431506:c70bb Inductor Value ary"@@
+431507:c70d8 Inductor Value ary
+431532:c730d Inductor Value ary
+431549:c7560 Inductor Value aryM
+431562:c77ef %<- number of inductor values in arrayH
+431613:c7dce Inductor Value S
+431654:c7f3f Inductor Value 
+431680:c8194 Inductor Value ary"@@
+434117:f6a91 @6Windows GetCommError:  The hex value of this code is x
+434159:f74eb error code is a numeric error code. If error in indicates an error, the VI ignores error code. If not, the VI tests it. A non-zero value signifies an error.
+434268:f9b05 666Windows GetCommError:  The hex value of this code is xH
+434973:106817 (i32) code: the error code associated with an error.  A value of 0 means no error, a negative value is an error, and a positive value is a warning.[W(string) source:  an indication of where an error occurred, usually the name of the VI.
+434982:106bcc (i32) code: the error code associated with an error.  A value of 0 means no error, a negative value is an error, and a positive value is a warning.[W(string) source:  an indication of where an error occurred, usually the name of the VI.
+435407:10e04c (i32) code: the error code associated with an error.  A value of 0 means no error, a negative value is an error, and a positive value is a warning.[W(string) source:  an indication of where an error occurred, usually the name of the VI.
+435416:10e401 (i32) code: the error code associated with an error.  A value of 0 means no error, a negative value is an error, and a positive value is a warning.[W(string) source:  an indication of where an error occurred, usually the name of the VI.
+435823:1154d4 (i32) code: the error code associated with an error.  A value of 0 means no error, a negative value is an error, and a positive value is a warning.[W(string) source:  an indication of where an error occurred, usually the name of the VI.
+440784:163e2a 9When you use the serial port VIs under Windows, the port number parameter can have the following values:
+441084:16817a 9When you use the serial port VIs under Windows, the port number parameter can have the following values:
+441369:16c106 9When you use the serial port VIs under Windows, the port number parameter can have the following values:
+446402:1b768f Inductor Value ary
+446426:1b7aea Inductor Value ary
+446460:1b7d34 Inductor Value 
+446509:1b81d0 Inductor Value ary&@@
+446516:1b82f7 Inductor Value ary
+446579:1b8955 Inductor Value N
+446583:1b89cb Inductor Value aryM
+446596:1b8c59 %<- number of inductor values in arrayH
+457541:47cdb (i32) code: the error code associated with an error.  A value of 0 means no error, a negative value is an error, and a positive value is a warning.[W(string) source:  an indication of where an error occurred, usually the name of the VI.
+460577:74f8f (i32) code: the error code associated with an error.  A value of 0 means no error, a negative value is an error, and a positive value is a warning.[W(string) source:  an indication of where an error occurred, usually the name of the VI.
+463256:99cff (i32) code: the error code associated with an error.  A value of 0 means no error, a negative value is an error, and a positive value is a warning.[W(string) source:  an indication of where an error occurred, usually the name of the VI.
+465180:b4c2d (i32) code: the error code associated with an error.  A value of 0 means no error, a negative value is an error, and a positive value is a warning.[W(string) source:  an indication of where an error occurred, usually the name of the VI.
+468374:dcd03 (i32) code: the error code associated with an error.  A value of 0 means no error, a negative value is an error, and a positive value is a warning.[W(string) source:  an indication of where an error occurred, usually the name of the VI.
+468800:e3e6c (i32) code: the error code associated with an error.  A value of 0 means no error, a negative value is an error, and a positive value is a warning.[W(string) source:  an indication of where an error occurred, usually the name of the VI.
+468809:e4221 (i32) code: the error code associated with an error.  A value of 0 means no error, a negative value is an error, and a positive value is a warning.[W(string) source:  an indication of where an error occurred, usually the name of the VI.
+469240:ebcca (i32) code: the error code associated with an error.  A value of 0 means no error, a negative value is an error, and a positive value is a warning.[W(string) source:  an indication of where an error occurred, usually the name of the VI.
+469249:ec07f (i32) code: the error code associated with an error.  A value of 0 means no error, a negative value is an error, and a positive value is a warning.[W(string) source:  an indication of where an error occurred, usually the name of the VI.
+470096:106012 @6Windows GetCommError:  The hex value of this code is x
+470138:106a6c error code is a numeric error code. If error in indicates an error, the VI ignores error code. If not, the VI tests it. A non-zero value signifies an error.
+470246:109086 666Windows GetCommError:  The hex value of this code is xH
+481158:495f2 (i32) code: the error code associated with an error.  A value of 0 means no error, a negative value is an error, and a positive value is a warning.[W(string) source:  an indication of where an error occurred, usually the name of the VI.
+484123:7676a (i32) code: the error code associated with an error.  A value of 0 means no error, a negative value is an error, and a positive value is a warning.[W(string) source:  an indication of where an error occurred, usually the name of the VI.
+486763:9b662 (i32) code: the error code associated with an error.  A value of 0 means no error, a negative value is an error, and a positive value is a warning.[W(string) source:  an indication of where an error occurred, usually the name of the VI.
+488656:b65e4 (i32) code: the error code associated with an error.  A value of 0 means no error, a negative value is an error, and a positive value is a warning.[W(string) source:  an indication of where an error occurred, usually the name of the VI.
+490146:cd392 Low Value Inductance BoxW
+490149:cd403 Low Value Inductance BoxW
+490235:cdd7f Low Value Inductance Box
+490237:cddbb Low Value Inductance Box
+503926:1e3e18 @6Windows GetCommError:  The hex value of this code is x
+504209:1e9e3d error code is a numeric error code. If error in indicates an error, the VI ignores error code. If not, the VI tests it. A non-zero value signifies an error.
+516550:2e8fc3 Low Value Inductance Box3Short the UUT leads to the
+516551:2e8ff7 Low Value Inductance Box
+516553:2e9033 Low Value Inductance Box3Short the UUT leads to the
+516554:2e9067 Low Value Inductance Box
+521548:349f14 9When you use the serial port VIs under Windows, the port number parameter can have the following values:
+521751:34d2fc 9When you use the serial port VIs under Windows, the port number parameter can have the following values:
+521941:350284 9When you use the serial port VIs under Windows, the port number parameter can have the following values:
+522293:355c9a 9When you use the serial port VIs under Windows, the port number parameter can have the following values:
+535112:4948f (i32) code: the error code associated with an error.  A value of 0 means no error, a negative value is an error, and a positive value is a warning.[W(string) source:  an indication of where an error occurred, usually the name of the VI.
+538109:7659b (i32) code: the error code associated with an error.  A value of 0 means no error, a negative value is an error, and a positive value is a warning.[W(string) source:  an indication of where an error occurred, usually the name of the VI.
+540783:9b433 (i32) code: the error code associated with an error.  A value of 0 means no error, a negative value is an error, and a positive value is a warning.[W(string) source:  an indication of where an error occurred, usually the name of the VI.
+542707:b635d (i32) code: the error code associated with an error.  A value of 0 means no error, a negative value is an error, and a positive value is a warning.[W(string) source:  an indication of where an error occurred, usually the name of the VI.
+543581:c00fd Inductor Value ary@
+543582:c020a Inductor Value aryH
+543609:c1279 Inductor Value ary0#-+
+543973:c709e Inductor Value ary"`@
+543974:c70bb Inductor Value ary"@@
+543975:c70d8 Inductor Value ary
+544000:c730d Inductor Value ary
+544017:c7560 Inductor Value aryM
+544030:c77ef %<- number of inductor values in arrayH
+544081:c7dce Inductor Value S
+544122:c7f3f Inductor Value 
+544148:c8194 Inductor Value ary"@@
+546492:f59a1 @6Windows GetCommError:  The hex value of this code is x
+546534:f63fb error code is a numeric error code. If error in indicates an error, the VI ignores error code. If not, the VI tests it. A non-zero value signifies an error.
+546643:f8a15 666Windows GetCommError:  The hex value of this code is xH
+547348:105727 (i32) code: the error code associated with an error.  A value of 0 means no error, a negative value is an error, and a positive value is a warning.[W(string) source:  an indication of where an error occurred, usually the name of the VI.
+547357:105adc (i32) code: the error code associated with an error.  A value of 0 means no error, a negative value is an error, and a positive value is a warning.[W(string) source:  an indication of where an error occurred, usually the name of the VI.
+547782:10cf5c (i32) code: the error code associated with an error.  A value of 0 means no error, a negative value is an error, and a positive value is a warning.[W(string) source:  an indication of where an error occurred, usually the name of the VI.
+547791:10d311 (i32) code: the error code associated with an error.  A value of 0 means no error, a negative value is an error, and a positive value is a warning.[W(string) source:  an indication of where an error occurred, usually the name of the VI.
+548198:1143e4 (i32) code: the error code associated with an error.  A value of 0 means no error, a negative value is an error, and a positive value is a warning.[W(string) source:  an indication of where an error occurred, usually the name of the VI.
+551300:14a720 Inductor Value ary
+551314:14aaff Inductor Value ary
+551344:14acf4 Inductor Value 
+551481:14d523 Inductor Value ary&@@
+551488:14d64a Inductor Value ary
+551552:14dd14 Inductor Value aryH
+551560:14df8d %<- number of inductor values in arrayH
+558149:1c4042 9When you use the serial port VIs under Windows, the port number parameter can have the following values:
+558356:1c7432 9When you use the serial port VIs under Windows, the port number parameter can have the following values:
+558548:1ca3b8 9When you use the serial port VIs under Windows, the port number parameter can have the following values:
+565457:47cdb (i32) code: the error code associated with an error.  A value of 0 means no error, a negative value is an error, and a positive value is a warning.[W(string) source:  an indication of where an error occurred, usually the name of the VI.
+568493:74f8f (i32) code: the error code associated with an error.  A value of 0 means no error, a negative value is an error, and a positive value is a warning.[W(string) source:  an indication of where an error occurred, usually the name of the VI.
+571172:99cff (i32) code: the error code associated with an error.  A value of 0 means no error, a negative value is an error, and a positive value is a warning.[W(string) source:  an indication of where an error occurred, usually the name of the VI.
+573096:b4c2d (i32) code: the error code associated with an error.  A value of 0 means no error, a negative value is an error, and a positive value is a warning.[W(string) source:  an indication of where an error occurred, usually the name of the VI.
+579345:167cdc @6Windows GetCommError:  The hex value of this code is x
+579628:16dd00 error code is a numeric error code. If error in indicates an error, the VI ignores error code. If not, the VI tests it. A non-zero value signifies an error.
+585881:4956a (i32) code: the error code associated with an error.  A value of 0 means no error, a negative value is an error, and a positive value is a warning.[W(string) source:  an indication of where an error occurred, usually the name of the VI.
+588845:766ca (i32) code: the error code associated with an error.  A value of 0 means no error, a negative value is an error, and a positive value is a warning.[W(string) source:  an indication of where an error occurred, usually the name of the VI.
+591485:9b5c2 (i32) code: the error code associated with an error.  A value of 0 means no error, a negative value is an error, and a positive value is a warning.[W(string) source:  an indication of where an error occurred, usually the name of the VI.
+593378:b6544 (i32) code: the error code associated with an error.  A value of 0 means no error, a negative value is an error, and a positive value is a warning.[W(string) source:  an indication of where an error occurred, usually the name of the VI.
+594809:ccd9e Low Value Inductance BoxW
+594812:cce0f Low Value Inductance BoxW
+594898:cd78b Low Value Inductance Box
+594900:cd7c7 Low Value Inductance Box

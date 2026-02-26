@@ -1,0 +1,17 @@
+52018:1b8c8b Print driver error occurred.$Windows error occurred during print.#Memory error occurred during print.
+52473:1bd1e4 unassigned sequence local(s).N is unwired, and there are no indexing inputs,array, cluster, or RefNum has undefined type
+52523:1be44b The connector pane connections of the subVI do not match the way it is wired on this diagram. Show the Help window to see what the connections to this subVI should be.
+52524:1be4f3 One or more required inputs to this function are not wired or are wired incorrectly. Show the Help window to see what the connections to this function should be.
+68888:2b8dad 1-(bool) status: TRUE if an error has occurred.[W(string) source: an indication of where an error occurred, usually the name of the VI."
+100218:49d6bf error in is a cluster of elements that describes any previous error you want to check. If it is unwired or indicates no error, the VI checks the error codes array instead. See Simple Error Handler for additional information.
+102543:4d083f This error code is not listed in the internal database, or you have wired a number that is not an error code (such as a DAQ task ID) to the error code input.6Windows GetCommError: The hex value of this code is x
+239463:fbfcd 1-(bool) status: TRUE if an error has occurred.[W(string) source: an indication of where an error occurred, usually the name of the VI."
+258572:214a9f error in is a cluster of elements that describes any previous error you want to check. If it is unwired or indicates no error, the VI checks the error codes array instead. See Simple Error Handler for additional information.
+260976:249417 This error code is not listed in the internal database, or you have wired a number that is not an error code (such as a DAQ task ID) to the error code input.6Windows GetCommError: The hex value of this code is x
+306102:c9156 1-(bool) status: TRUE if an error has occurred.[W(string) source: an indication of where an error occurred, usually the name of the VI."
+314984:166fe8 This error code is not listed in the internal database, or you have wired a number that is not an error code (such as a DAQ task ID) to the error code input.6Windows GetCommError: The hex value of this code is x
+338379:c8473 1-(bool) status: TRUE if an error has occurred.[W(string) source: an indication of where an error occurred, usually the name of the VI."
+341461:1065b8 This error code is not listed in the internal database, or you have wired a number that is not an error code (such as a DAQ task ID) to the error code input.6Windows GetCommError: The hex value of this code is x
+373379:1a25a6 error in is a cluster of elements that describes any previous error you want to check. If it is unwired or indicates no error, the VI checks the error codes array instead. See Simple Error Handler for additional information.
+505530:20065b error in is a cluster of elements that describes any previous error you want to check. If it is unwired or indicates no error, the VI checks the error codes array instead. See Simple Error Handler for additional information.
+612579:1041 \\Atlas\Shared\Cal-Test\LC103\Source\lv8\103f_cal.llb\IND_CAL.VI (IND_CAL.VI)

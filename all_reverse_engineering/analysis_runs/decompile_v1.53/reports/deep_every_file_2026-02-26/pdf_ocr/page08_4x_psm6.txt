@@ -1,0 +1,22 @@
+13. RS232 Commands Ee
+_ Command Description | a
+__TAN Tantalum Caps — ; - be
+os  C3ramicCaps “|. pee
+HR High Resistance Double Layer Lytics [oe
+pCO Cis [a
+| YFB Yokes and Flybacks . 7 Loa
+| SWX Switching Transformers - bo
+VALUE MULTIPLIERS ae
+
+TEST FUNCTION COMMANDS cb
+LKR sCLeakage resistance -
+|DIA Dielectric Absorption
+ESR ss Eauivalent series resistance |
+IND inductance
+EIC ESR in circuit a
+iC )))~™~*~*~™”~”~”CAnductanceincircut =
+GENERAL COMMANDS
+LDO — beadzeroopen
+CPO | ____ Control panel on (front panel operation) _
+CtriR Continue taking/sending test data
+Ctrl O Return a single reading, (default)

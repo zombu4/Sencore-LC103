@@ -1,0 +1,641 @@
+54711:1e79ea BPlease choose the file containing the inductance calibration data.
+54724:1e7b2f *.calBPlease choose the file containing the inductance calibration data.gencode.cGenDispatchEntry
+71849:2e8b4b Inductance Calibration
+73423:2fe8aa Inductance CalibrationW
+73468:2fef33 Inductance Calibration
+81229:381dc3 Last Range Cal'd&
+81230:381dda Last Range Cal'd@
+81231:381eec Next Range to cal&
+81232:381f04 Next Range to cal
+81244:3822ea Last Range Cal'd4/
+81250:3826a3 Last Range Cal'd@
+81354:3847b6 Last Range Cal'd,%
+82281:3946cf Last Range Cal'd
+82283:3946f3 Next Range to cal
+82289:394760 Last Range Cal'd
+82290:394774 Last Range Cal'd
+82291:394788 Last Range Cal'd
+82292:39479c Last Range Cal'd
+82293:3947b0 Last Range Cal'd
+82294:3947c6 Next Range to cal
+82295:3947db Next Range to cal
+82296:3947f0 Next Range to cal
+82297:394805 Next Range to cal
+82298:39481a Next Range to cal
+82422:395016 Last Range Cal'd
+82444:39515f Last Range Cal'd
+82518:3958ab ===Short the UUT leads to the
+82519:3958c9 Inductance Decade Box (L Terminal)
+82521:39591f Inductance Decade Box (H Terminal)W
+82527:395a0d ===Short the UUT leads to the
+82528:395a2b Inductance Decade Box (L Terminal)
+82530:395a87 Inductance Decade Box (H Terminal)ND
+82544:395bde 333Short the UUT leads to the
+82545:395bfc Low Value Inductance Box
+82546:395c2a 333Short the UUT leads to the
+82547:395c48 Low Value Inductance BoxO
+82553:395d29 333Short the UUT leads to the
+82554:395d47 Low Value Inductance BoxW
+82556:395d98 333Short the UUT leads to the
+82557:395db6 Low Value Inductance BoxW
+82599:3962f6 ===Short the UUT leads to the
+82600:396314 Inductance Decade Box (L Terminal)W
+82605:3963d7 Inductance Decade Box (H Terminal)
+82606:39640e ===Short the UUT leads to the
+82607:39642c Inductance Decade Box (L Terminal)
+82609:396486 Inductance Decade Box (H Terminal)W
+82613:396526 ===Short the UUT leads to the
+82614:396544 Inductance Decade Box (L Terminal)
+82616:39659e Inductance Decade Box (H Terminal)W
+82620:39663e ===Short the UUT leads to the
+82621:39665c Inductance Decade Box (L Terminal)
+82623:3966b6 Inductance Decade Box (H Terminal)W
+82647:3968a8 Next Range to cal
+82672:3969ee Inductance Decade Box (H Terminal)=Short the UUT leads to the
+82673:396a2c Inductance Decade Box (L Terminal)
+82674:396a4f IND3Short the UUT leads to the
+82675:396a6e Low Value Inductance Box
+82676:396a87 IND3Short the UUT leads to the
+82677:396aa6 Low Value Inductance Box
+82679:396af5 Inductance Decade Box (H Terminal)=Short the UUT leads to the
+82680:396b33 Inductance Decade Box (L Terminal)
+82681:396b56 IND=Short the UUT leads to the
+82682:396b75 Inductance Decade Box (L Terminal)BNow connect the red lead to the
+82683:396bb8 Inductance Decade Box (H Terminal)=Short the UUT leads to the
+82684:396bf6 Inductance Decade Box (L Terminal)BNow connect the red lead to the
+82685:396c39 Inductance Decade Box (H Terminal)=Short the UUT leads to the
+82686:396c77 Inductance Decade Box (L Terminal)BNow connect the red lead to the
+82687:396cba Inductance Decade Box (H Terminal)=Short the UUT leads to the
+82688:396cf8 Inductance Decade Box (L Terminal)BNow connect the red lead to the
+82689:396d3b Inductance Decade Box (H Terminal)3Short the UUT leads to the
+82690:396d79 Low Value Inductance Box
+82691:396d92 IND3Short the UUT leads to the
+82692:396db1 Low Value Inductance Box
+82694:396de0 Last Range Cal'd
+82703:396f14 Last Range Cal'd
+82704:396f28 Next Range to cal
+82708:396f8f Last Range Cal'dX
+82713:397257 Last Range Cal'd
+82715:39727b Next Range to cal
+82858:39b24c Last Range Cal'd&
+82859:39b263 Last Range Cal'd@
+82860:39b375 Next Range to cal&
+82861:39b38d Next Range to cal
+82875:39b79c Last Range Cal'd
+82892:39bc70 Last Range Cal'd@
+83426:3a4533 Last Range Cal'd
+83428:3a4557 Next Range to cal
+83434:3a45c3 Last Range Cal'd
+83435:3a45d7 Last Range Cal'd
+83436:3a45eb Last Range Cal'd
+83437:3a45ff Last Range Cal'd
+83438:3a4613 Last Range Cal'd
+83439:3a4629 Next Range to cal
+83440:3a463e Next Range to cal
+83441:3a4653 Next Range to cal
+83442:3a4668 Next Range to cal
+83443:3a467d Next Range to cal
+83500:3a4a60 Last Range Cal'd
+83612:3a5639 Next Range to cal
+83641:3a585f Last Range Cal'd
+83650:3a595b Last Range Cal'd
+83651:3a596f Next Range to cal
+83655:3a59d8 Last Range Cal'dX
+83660:3a5c9f Last Range Cal'd
+83662:3a5cc3 Next Range to cal
+90260:413d4b Inductance Calibration^
+90337:41491a Inductance Calibration[
+90379:414f73 Inductance CalibrationW
+90533:41633a Inductance Calibration
+90567:4166b7 Inductance Calibration
+90568:4166cf Inductance Calibration@M
+99169:48c5b4 @@cShort the UUT leads to the Capacitance Decade box(LTerminal).
+99289:48d005 CLRPARcShort the UUT leads to the Capacitance Decade box(LTerminal).
+113634:589304 Next Range to cal
+113637:5893d8 Last Range Cal'd
+113640:58944b Next Range to cal
+113645:589543 Next Range to cal4`
+113770:58a9d7 Last Range Cal'd
+113772:58a9fb Next Range to cal
+114270:594472 Inductance CalibrationW
+114281:5946a0 Perform Inductance CalibrationV
+114287:59484c Ind Cal Failed Range S
+114316:594c74 BPlease choose the file containing the inductance calibration data.V
+114459:5956e4 Inductance Calibration
+114464:59572a *.calBPlease choose the file containing the inductance calibration data.
+114472:5957e4 Ind Cal Failed Range 
+114586:596323 Last Range Cal'd
+114588:596347 Next Range to cal
+114989:5a458a Last Range Cal'd
+114991:5a45ae Next Range to cal
+115159:5a7afa Last Range Cal'd
+115161:5a7b73 Next Range to cal
+115165:5a7c12 Next Range to cal
+115171:5a7f69 Next Range to cal&q
+115172:5a7f81 Next Range to cal&q
+115173:5a7f99 Next Range to cal&q
+115174:5a7fb1 Next Range to cal&q
+115175:5a7fc9 Next Range to cal&q
+115176:5a7fe1 Next Range to cal4q
+115772:5b488e Next Range to cal
+115774:5b48b6 Next Range to cal
+115778:5b48f9 Next Range to cal
+115782:5b493d Next Range to cal
+116200:5b7385 Last Range Cal'd
+116202:5b73a9 Next Range to cal
+118862:5e23a6 ++BPlease choose the file containing the inductance calibration data.W
+118899:5e28d5 Inductance CalibrationMD
+119137:5e3868 Inductance Calibration
+119154:5e3978 Inductance Calibration
+119159:5e39fc *.calBPlease choose the file containing the inductance calibration data.
+225035:27e16 BPlease choose the file containing the inductance calibration data.
+225048:27f5b *.calBPlease choose the file containing the inductance calibration data.gencode.cGenDispatchEntry
+243690:13c70a Inductance CalibrationW
+243735:13cd93 Inductance Calibration
+250279:1a48d9 Last Range Cal'd
+250281:1a4901 Next Range to cal
+250310:1a7ee4 Last Range Cal'd&
+250311:1a7efb Last Range Cal'd@
+250312:1a800d Next Range to cal&
+250313:1a8025 Next Range to cal
+250327:1a8434 Last Range Cal'd
+250344:1a8908 Last Range Cal'd@
+250878:1b11cb Last Range Cal'd
+250880:1b11ef Next Range to cal
+250886:1b125b Last Range Cal'd
+250887:1b126f Last Range Cal'd
+250888:1b1283 Last Range Cal'd
+250889:1b1297 Last Range Cal'd
+250890:1b12ab Last Range Cal'd
+250891:1b12c1 Next Range to cal
+250892:1b12d6 Next Range to cal
+250893:1b12eb Next Range to cal
+250894:1b1300 Next Range to cal
+250895:1b1315 Next Range to cal
+250952:1b16f8 Last Range Cal'd
+251064:1b22d1 Next Range to cal
+251093:1b24f7 Last Range Cal'd
+251102:1b25f3 Last Range Cal'd
+251103:1b2607 Next Range to cal
+251107:1b2670 Last Range Cal'dX
+251112:1b2937 Last Range Cal'd
+251114:1b295b Next Range to cal
+272181:304270 Next Range to cal
+272184:304344 Last Range Cal'd
+272187:3043b7 Next Range to cal
+272192:3044af Next Range to cal4`
+272317:305943 Last Range Cal'd
+272319:305967 Next Range to cal
+272817:30f3de Inductance CalibrationW
+272828:30f60c Perform Inductance CalibrationV
+272834:30f7b8 Ind Cal Failed Range S
+272863:30fbe0 BPlease choose the file containing the inductance calibration data.V
+273006:310650 Inductance Calibration
+273011:310696 *.calBPlease choose the file containing the inductance calibration data.
+273019:310750 Ind Cal Failed Range 
+273133:31128f Last Range Cal'd
+273135:3112b3 Next Range to cal
+273540:31f5e2 Last Range Cal'd
+273542:31f606 Next Range to cal
+273710:322b52 Last Range Cal'd
+273712:322bcb Next Range to cal
+273716:322c6a Next Range to cal
+273722:322fc1 Next Range to cal&q
+273723:322fd9 Next Range to cal&q
+273724:322ff1 Next Range to cal&q
+273725:323009 Next Range to cal&q
+273726:323021 Next Range to cal&q
+273727:323039 Next Range to cal4q
+274323:32f8e6 Next Range to cal
+274325:32f90e Next Range to cal
+274329:32f951 Next Range to cal
+274333:32f995 Next Range to cal
+274751:3323dd Last Range Cal'd
+274753:332401 Next Range to cal
+277907:36bb34 @@cShort the UUT leads to the Capacitance Decade box(LTerminal).
+278027:36c585 CLRPARcShort the UUT leads to the Capacitance Decade box(LTerminal).
+278518:373567 Inductance Calibration
+285335:3e31e7 Inductance Calibration^
+285412:3e3db6 Inductance Calibration[
+285454:3e440f Inductance CalibrationW
+285608:3e57d6 Inductance Calibration
+285642:3e5b53 Inductance Calibration
+285643:3e5b6b Inductance Calibration@M
+288399:411aaa ++BPlease choose the file containing the inductance calibration data.W
+288436:411fd9 Inductance CalibrationMD
+288674:412f6c Inductance Calibration
+288691:41307c Inductance Calibration
+288696:413100 *.calBPlease choose the file containing the inductance calibration data.
+288970:414f45 Last Range Cal'd
+288972:414f6d Next Range to cal
+288999:41b2c7 Last Range Cal'd&
+289000:41b2de Last Range Cal'd@
+289001:41b3f0 Next Range to cal&
+289002:41b408 Next Range to cal
+289014:41b7ee Last Range Cal'd4/
+289020:41bba7 Last Range Cal'd@
+289124:41dcba Last Range Cal'd,%
+290051:42dbd3 Last Range Cal'd
+290053:42dbf7 Next Range to cal
+290059:42dc64 Last Range Cal'd
+290060:42dc78 Last Range Cal'd
+290061:42dc8c Last Range Cal'd
+290062:42dca0 Last Range Cal'd
+290063:42dcb4 Last Range Cal'd
+290064:42dcca Next Range to cal
+290065:42dcdf Next Range to cal
+290066:42dcf4 Next Range to cal
+290067:42dd09 Next Range to cal
+290068:42dd1e Next Range to cal
+290192:42e51a Last Range Cal'd
+290214:42e663 Last Range Cal'd
+290288:42edaf ===Short the UUT leads to the
+290289:42edcd Inductance Decade Box (L Terminal)
+290291:42ee23 Inductance Decade Box (H Terminal)W
+290297:42ef11 ===Short the UUT leads to the
+290298:42ef2f Inductance Decade Box (L Terminal)
+290300:42ef8b Inductance Decade Box (H Terminal)ND
+290314:42f0e2 333Short the UUT leads to the
+290315:42f100 Low Value Inductance Box
+290316:42f12e 333Short the UUT leads to the
+290317:42f14c Low Value Inductance BoxO
+290323:42f22d 333Short the UUT leads to the
+290324:42f24b Low Value Inductance BoxW
+290326:42f29c 333Short the UUT leads to the
+290327:42f2ba Low Value Inductance BoxW
+290369:42f7fa ===Short the UUT leads to the
+290370:42f818 Inductance Decade Box (L Terminal)W
+290375:42f8db Inductance Decade Box (H Terminal)
+290376:42f912 ===Short the UUT leads to the
+290377:42f930 Inductance Decade Box (L Terminal)
+290379:42f98a Inductance Decade Box (H Terminal)W
+290383:42fa2a ===Short the UUT leads to the
+290384:42fa48 Inductance Decade Box (L Terminal)
+290386:42faa2 Inductance Decade Box (H Terminal)W
+290390:42fb42 ===Short the UUT leads to the
+290391:42fb60 Inductance Decade Box (L Terminal)
+290393:42fbba Inductance Decade Box (H Terminal)W
+290417:42fdac Next Range to cal
+290442:42fef2 Inductance Decade Box (H Terminal)=Short the UUT leads to the
+290443:42ff30 Inductance Decade Box (L Terminal)
+290444:42ff53 IND3Short the UUT leads to the
+290445:42ff72 Low Value Inductance Box
+290446:42ff8b IND3Short the UUT leads to the
+290447:42ffaa Low Value Inductance Box
+290449:42fff9 Inductance Decade Box (H Terminal)=Short the UUT leads to the
+290450:430037 Inductance Decade Box (L Terminal)
+290451:43005a IND=Short the UUT leads to the
+290452:430079 Inductance Decade Box (L Terminal)BNow connect the red lead to the
+290453:4300bc Inductance Decade Box (H Terminal)=Short the UUT leads to the
+290454:4300fa Inductance Decade Box (L Terminal)BNow connect the red lead to the
+290455:43013d Inductance Decade Box (H Terminal)=Short the UUT leads to the
+290456:43017b Inductance Decade Box (L Terminal)BNow connect the red lead to the
+290457:4301be Inductance Decade Box (H Terminal)=Short the UUT leads to the
+290458:4301fc Inductance Decade Box (L Terminal)BNow connect the red lead to the
+290459:43023f Inductance Decade Box (H Terminal)3Short the UUT leads to the
+290460:43027d Low Value Inductance Box
+290461:430296 IND3Short the UUT leads to the
+290462:4302b5 Low Value Inductance Box
+290464:4302e4 Last Range Cal'd
+290473:430418 Last Range Cal'd
+290474:43042c Next Range to cal
+290478:430493 Last Range Cal'dX
+290483:43075b Last Range Cal'd
+290485:43077f Next Range to cal
+290703:435b1f Last Range Cal'd
+291229:440bc2 Last Range Cal'd
+291242:440e09 Inductance Decade Box (H Terminal)
+291243:440e42 ===Short the UUT leads to the
+291244:440e60 Inductance Decade Box (L Terminal)W
+291247:440edf ===Short the UUT leads to the
+291248:440efd Inductance Decade Box (L Terminal)
+291250:440f59 Inductance Decade Box (H Terminal)W
+291253:440fd8 ===Short the UUT leads to the
+291254:440ff6 Inductance Decade Box (L Terminal)
+291256:441052 Inductance Decade Box (H Terminal)W
+291259:4410d1 ===Short the UUT leads to the
+291260:4410ef Inductance Decade Box (L Terminal)
+291262:44114b Inductance Decade Box (H Terminal)W
+291265:4411ca ===Short the UUT leads to the
+291266:4411e8 Inductance Decade Box (L Terminal)
+291268:441244 Inductance Decade Box (H Terminal)W
+291271:4412c4 333Short the UUT leads to the
+291272:4412e2 Low Value Inductance BoxW
+291274:441335 333Short the UUT leads to the
+291275:441353 Low Value Inductance BoxW
+291350:441a4b Inductance Decade Box (H Terminal)=Short the UUT leads to the
+291351:441a89 Inductance Decade Box (L Terminal)
+291352:441aac IND=Short the UUT leads to the
+291353:441acb Inductance Decade Box (L Terminal)BNow connect the red lead to the
+291354:441b0e Inductance Decade Box (H Terminal)=Short the UUT leads to the
+291355:441b4c Inductance Decade Box (L Terminal)BNow connect the red lead to the
+291356:441b8f Inductance Decade Box (H Terminal)=Short the UUT leads to the
+291357:441bcd Inductance Decade Box (L Terminal)BNow connect the red lead to the
+291358:441c10 Inductance Decade Box (H Terminal)=Short the UUT leads to the
+291359:441c4e Inductance Decade Box (L Terminal)BNow connect the red lead to the
+291360:441c91 Inductance Decade Box (H Terminal)3Short the UUT leads to the
+291361:441ccf Low Value Inductance Box
+291362:441cec IND3Short the UUT leads to the
+291363:441d0b Low Value Inductance Box
+360367:c1c27 Last Range Cal'd
+360893:cccca Last Range Cal'd
+360906:ccf11 Inductance Decade Box (H Terminal)
+360907:ccf4a ===Short the UUT leads to the
+360908:ccf68 Inductance Decade Box (L Terminal)W
+360911:ccfe7 ===Short the UUT leads to the
+360912:cd005 Inductance Decade Box (L Terminal)
+360914:cd061 Inductance Decade Box (H Terminal)W
+360917:cd0e0 ===Short the UUT leads to the
+360918:cd0fe Inductance Decade Box (L Terminal)
+360920:cd15a Inductance Decade Box (H Terminal)W
+360923:cd1d9 ===Short the UUT leads to the
+360924:cd1f7 Inductance Decade Box (L Terminal)
+360926:cd253 Inductance Decade Box (H Terminal)W
+360929:cd2d2 ===Short the UUT leads to the
+360930:cd2f0 Inductance Decade Box (L Terminal)
+360932:cd34c Inductance Decade Box (H Terminal)W
+360935:cd3cc 333Short the UUT leads to the
+360936:cd3ea Low Value Inductance BoxW
+360938:cd43d 333Short the UUT leads to the
+360939:cd45b Low Value Inductance BoxW
+361014:cdb53 Inductance Decade Box (H Terminal)=Short the UUT leads to the
+361015:cdb91 Inductance Decade Box (L Terminal)
+361016:cdbb4 IND=Short the UUT leads to the
+361017:cdbd3 Inductance Decade Box (L Terminal)BNow connect the red lead to the
+361018:cdc16 Inductance Decade Box (H Terminal)=Short the UUT leads to the
+361019:cdc54 Inductance Decade Box (L Terminal)BNow connect the red lead to the
+361020:cdc97 Inductance Decade Box (H Terminal)=Short the UUT leads to the
+361021:cdcd5 Inductance Decade Box (L Terminal)BNow connect the red lead to the
+361022:cdd18 Inductance Decade Box (H Terminal)=Short the UUT leads to the
+361023:cdd56 Inductance Decade Box (L Terminal)BNow connect the red lead to the
+361024:cdd99 Inductance Decade Box (H Terminal)3Short the UUT leads to the
+361025:cddd7 Low Value Inductance Box
+361026:cddf4 IND3Short the UUT leads to the
+361027:cde13 Low Value Inductance Box
+362056:e1c66 Last Range Cal'd
+362058:e1c8a Next Range to cal
+362830:ec1f0 Next Range to cal
+362833:ec22c Next Range to cal
+362837:ec274 Next Range to cal
+362841:ec2bd Next Range to cal
+363093:eda11 Last Range Cal'd
+363095:eda35 Next Range to cal
+363134:edd1a Last Range Cal'd&
+363135:edd30 Next Range to cal
+363907:103d6c Last Range Cal'd
+363909:103d90 Next Range to cal
+364684:10d226 Inductance Calibration
+364690:10d293 Ind Cal Failed Range 
+364694:10d2d4 *.calBPlease choose the file containing the inductance calibration data.
+364843:10e16f Next Range to cal&
+364844:10e186 Last Range Cal'd
+364863:10e2ed Last Range Cal'd
+364865:10e311 Next Range to cal
+364928:10ebc3 Inductance CalibrationW
+364940:10edf9 Perform Inductance CalibrationV
+364946:10ef94 Ind Cal Failed Range S
+364979:10f3ef ++BPlease choose the file containing the inductance calibration data.V
+375113:1bf0a2          Press 'Enter' when ready.cShort the UUT leads to the Capacitance Decade box(LTerminal).
+375296:1c05dd @@cShort the UUT leads to the Capacitance Decade box(LTerminal).
+385856:267846 Inductance Calibration
+385890:267c11 Inductance Calibration
+385904:267d95 Inductance Calibration
+386070:269a1c Inductance Calibration^
+386161:26a72d Inductance Calibration[
+386219:26af12 Inductance CalibrationW
+388579:2aab91 Last Range Cal'd
+388581:2aabb5 Next Range to cal
+388585:2aaca5 Last Range Cal'd
+388586:2aacff Next Range to cal
+388593:2aaf24 Last Range Cal'd
+388714:2ab9a7 Last Range Cal'd
+388715:2ab9bb Next Range to cal
+388718:2abc5b Last Range Cal'd&
+388719:2abc71 Next Range to cal
+388795:2ac415 Last Range Cal'dM
+388796:2ac449 Next Range to calM
+389636:2c04e7 Last Range Cal'd
+389638:2c050b Next Range to cal
+389642:2c05fc Last Range Cal'd
+389643:2c0656 Next Range to cal
+389648:2c09f9 Last Range Cal'd
+389777:2c12a3 Last Range Cal'd
+389847:2c1818 =Short the UUT leads to the
+389848:2c1834 Inductance Decade Box (L Terminal)BNow connect the red lead to the
+389849:2c1877 Inductance Decade Box (H Terminal)
+389850:2c18c6 IND=Short the UUT leads to the
+389851:2c18e5 Inductance Decade Box (L Terminal)BNow connect the red lead to the
+389852:2c1928 Inductance Decade Box (H Terminal)FMELDKCJBI@GAH
+389853:2c1959 IND3Short the UUT leads to the
+389854:2c1978 Low Value Inductance Box3Short the UUT leads to the
+389855:2c19ac Low Value Inductance Box
+389856:2c19c9 IND3Short the UUT leads to the
+389857:2c19e8 Low Value Inductance Box3Short the UUT leads to the
+389858:2c1a1c Low Value Inductance Box
+389866:2c1afc =Short the UUT leads to the
+389867:2c1b18 Inductance Decade Box (L Terminal)=Short the UUT leads to the
+389868:2c1b56 Inductance Decade Box (L Terminal)BNow connect the red lead to the
+389869:2c1b99 Inductance Decade Box (H Terminal)=Short the UUT leads to the
+389870:2c1bd7 Inductance Decade Box (L Terminal)BNow connect the red lead to the
+389871:2c1c1a Inductance Decade Box (H Terminal)BNow connect the red lead to the
+389872:2c1c5d Inductance Decade Box (H Terminal)=Short the UUT leads to the
+389873:2c1c9b Inductance Decade Box (L Terminal)BNow connect the red lead to the
+389874:2c1cde Inductance Decade Box (H Terminal)
+389901:2c1f99 Last Range Cal'd
+389902:2c1fad Next Range to cal
+389905:2c2250 Last Range Cal'd&
+389906:2c2266 Next Range to cal
+389980:2c2bc9 Last Range Cal'dM
+389981:2c2bfd Next Range to calM
+389985:2c2cde ===Short the UUT leads to the
+389986:2c2cfc Inductance Decade Box (L Terminal)
+389988:2c2d52 Inductance Decade Box (H Terminal)W
+389996:2c2e6f ===Short the UUT leads to the
+389997:2c2e8d Inductance Decade Box (L Terminal)
+389999:2c2ee9 Inductance Decade Box (H Terminal)QE
+390014:2c3046 333Short the UUT leads to the
+390015:2c3064 Low Value Inductance Box
+390016:2c3092 333Short the UUT leads to the
+390017:2c30b0 Low Value Inductance BoxO
+390023:2c3191 333Short the UUT leads to the
+390024:2c31af Low Value Inductance BoxW
+390026:2c3200 333Short the UUT leads to the
+390027:2c321e Low Value Inductance BoxW
+390074:2c37e9 ===Short the UUT leads to the
+390075:2c3807 Inductance Decade Box (L Terminal)W
+390080:2c38ca Inductance Decade Box (H Terminal)
+390081:2c3901 ===Short the UUT leads to the
+390082:2c391f Inductance Decade Box (L Terminal)
+390084:2c3979 Inductance Decade Box (H Terminal)W
+390088:2c3a19 ===Short the UUT leads to the
+390089:2c3a37 Inductance Decade Box (L Terminal)
+390091:2c3a91 Inductance Decade Box (H Terminal)W
+390095:2c3b31 ===Short the UUT leads to the
+390096:2c3b4f Inductance Decade Box (L Terminal)
+390098:2c3ba9 Inductance Decade Box (H Terminal)W
+392416:2ed6b9 Last Range Cal'd
+392418:2ed6e1 Next Range to cal
+392421:2ed72d Last Range Cal'd
+392423:2ed755 Next Range to cal
+399916:363b5b Inductance Calibration
+399985:36479f Inductance CalibrationW
+400870:37254c Inductance Calibration
+404920:3b4381 *.calBPlease choose the file containing the inductance calibration data.d:\automated\lv51\lvsource\gencode.cGenRangeCheck
+404956:3b4b47 ++BPlease choose the file containing the inductance calibration data.
+412962:43c4bf Inductance Calibration
+412981:43c65b *.calBPlease choose the file containing the inductance calibration data.PTH0
+412983:43c6d2 Inductance Calibration
+413477:43f6d0 ++BPlease choose the file containing the inductance calibration data.W
+413515:43fc31 Inductance CalibrationMD
+489577:c1bcf Last Range Cal'd
+490103:ccc72 Last Range Cal'd
+490116:cceb9 Inductance Decade Box (H Terminal)
+490117:ccef2 ===Short the UUT leads to the
+490118:ccf10 Inductance Decade Box (L Terminal)W
+490121:ccf8f ===Short the UUT leads to the
+490122:ccfad Inductance Decade Box (L Terminal)
+490124:cd009 Inductance Decade Box (H Terminal)W
+490127:cd088 ===Short the UUT leads to the
+490128:cd0a6 Inductance Decade Box (L Terminal)
+490130:cd102 Inductance Decade Box (H Terminal)W
+490133:cd181 ===Short the UUT leads to the
+490134:cd19f Inductance Decade Box (L Terminal)
+490136:cd1fb Inductance Decade Box (H Terminal)W
+490139:cd27a ===Short the UUT leads to the
+490140:cd298 Inductance Decade Box (L Terminal)
+490142:cd2f4 Inductance Decade Box (H Terminal)W
+490145:cd374 333Short the UUT leads to the
+490146:cd392 Low Value Inductance BoxW
+490148:cd3e5 333Short the UUT leads to the
+490149:cd403 Low Value Inductance BoxW
+490224:cdafb Inductance Decade Box (H Terminal)=Short the UUT leads to the
+490225:cdb39 Inductance Decade Box (L Terminal)
+490226:cdb5c IND=Short the UUT leads to the
+490227:cdb7b Inductance Decade Box (L Terminal)BNow connect the red lead to the
+490228:cdbbe Inductance Decade Box (H Terminal)=Short the UUT leads to the
+490229:cdbfc Inductance Decade Box (L Terminal)BNow connect the red lead to the
+490230:cdc3f Inductance Decade Box (H Terminal)=Short the UUT leads to the
+490231:cdc7d Inductance Decade Box (L Terminal)BNow connect the red lead to the
+490232:cdcc0 Inductance Decade Box (H Terminal)=Short the UUT leads to the
+490233:cdcfe Inductance Decade Box (L Terminal)BNow connect the red lead to the
+490234:cdd41 Inductance Decade Box (H Terminal)3Short the UUT leads to the
+490235:cdd7f Low Value Inductance Box
+490236:cdd9c IND3Short the UUT leads to the
+490237:cddbb Low Value Inductance Box
+491334:e2750 Inductance Calibration
+491353:e28f4 *.calBPlease choose the file containing the inductance calibration data.PTH0
+491355:e296b Inductance Calibration
+493098:10965b Last Range Cal'd
+493100:10967f Next Range to cal
+493210:10a28d Next Range to cal
+493220:10a356 Next Range to cal
+493221:10a36b Next Range to cal
+493226:10a3bd Next Range to cal
+493665:110d72 Last Range Cal'd
+493667:110d96 Next Range to cal
+493706:11107b Last Range Cal'd&
+493707:111091 Next Range to cal
+494416:125f69 Last Range Cal'd
+494418:125f8d Next Range to cal
+494622:127429 Inductance Calibration
+494628:127496 Ind Cal Failed Range 
+494632:1274d7 *.calBPlease choose the file containing the inductance calibration data.
+494961:12c8f6 Next Range to cal&
+494962:12c90d Last Range Cal'd
+494981:12ca74 Last Range Cal'd
+494983:12ca98 Next Range to cal
+495054:12d565 Perform Inductance CalibrationV
+506651:213b8c          Press 'Enter' when ready.cShort the UUT leads to the Capacitance Decade box(LTerminal).
+513189:28db4b Inductance Calibration
+513223:28df16 Inductance Calibration
+513237:28e09a Inductance Calibration
+515773:2d89b5 Last Range Cal'd
+515775:2d89d9 Next Range to cal
+515779:2d8ad5 Last Range Cal'd
+515780:2d8b33 Next Range to cal
+515786:2d8d6e Last Range Cal'd
+515937:2dbe35 Last Range Cal'd
+515938:2dbe49 Next Range to cal
+515941:2dc0e9 Last Range Cal'd&
+515942:2dc0ff Next Range to cal
+516018:2dc8a3 Last Range Cal'dH
+516019:2dc8d9 Next Range to calH
+516463:2e821d Last Range Cal'd
+516465:2e8241 Next Range to cal
+516469:2e833e Last Range Cal'd
+516470:2e839c Next Range to cal
+516474:2e8747 Last Range Cal'd
+516520:2e8bde Last Range Cal'd
+516543:2e8e63 =Short the UUT leads to the
+516544:2e8e7f Inductance Decade Box (L Terminal)BNow connect the red lead to the
+516545:2e8ec2 Inductance Decade Box (H Terminal)
+516546:2e8f11 IND=Short the UUT leads to the
+516547:2e8f30 Inductance Decade Box (L Terminal)BNow connect the red lead to the
+516548:2e8f73 Inductance Decade Box (H Terminal)FMELDKCJBI@GAH
+516549:2e8fa4 IND3Short the UUT leads to the
+516550:2e8fc3 Low Value Inductance Box3Short the UUT leads to the
+516551:2e8ff7 Low Value Inductance Box
+516552:2e9014 IND3Short the UUT leads to the
+516553:2e9033 Low Value Inductance Box3Short the UUT leads to the
+516554:2e9067 Low Value Inductance Box
+516562:2e9147 =Short the UUT leads to the
+516563:2e9163 Inductance Decade Box (L Terminal)=Short the UUT leads to the
+516564:2e91a1 Inductance Decade Box (L Terminal)BNow connect the red lead to the
+516565:2e91e4 Inductance Decade Box (H Terminal)=Short the UUT leads to the
+516566:2e9222 Inductance Decade Box (L Terminal)BNow connect the red lead to the
+516567:2e9265 Inductance Decade Box (H Terminal)BNow connect the red lead to the
+516568:2e92a8 Inductance Decade Box (H Terminal)=Short the UUT leads to the
+516569:2e92e6 Inductance Decade Box (L Terminal)BNow connect the red lead to the
+516570:2e9329 Inductance Decade Box (H Terminal)
+516773:2ee8ce Last Range Cal'd
+516774:2ee8e2 Next Range to cal
+516777:2eeb85 Last Range Cal'd&
+516778:2eeb9b Next Range to cal
+516852:2ef4fe Last Range Cal'dH
+516853:2ef534 Next Range to calH
+520092:331ae5 Last Range Cal'd
+520094:331b0d Next Range to cal
+520097:331b59 Last Range Cal'd
+520099:331b81 Next Range to cal
+523342:36907a Inductance Calibration
+524176:377924 Inductance Calibration
+527465:3b650d *.calBPlease choose the file containing the inductance calibration data.
+594240:c15db Last Range Cal'd
+594766:cc67e Last Range Cal'd
+594779:cc8c5 Inductance Decade Box (H Terminal)
+594780:cc8fe ===Short the UUT leads to the
+594781:cc91c Inductance Decade Box (L Terminal)W
+594784:cc99b ===Short the UUT leads to the
+594785:cc9b9 Inductance Decade Box (L Terminal)
+594787:cca15 Inductance Decade Box (H Terminal)W
+594790:cca94 ===Short the UUT leads to the
+594791:ccab2 Inductance Decade Box (L Terminal)
+594793:ccb0e Inductance Decade Box (H Terminal)W
+594796:ccb8d ===Short the UUT leads to the
+594797:ccbab Inductance Decade Box (L Terminal)
+594799:ccc07 Inductance Decade Box (H Terminal)W
+594802:ccc86 ===Short the UUT leads to the
+594803:ccca4 Inductance Decade Box (L Terminal)
+594805:ccd00 Inductance Decade Box (H Terminal)W
+594808:ccd80 333Short the UUT leads to the
+594809:ccd9e Low Value Inductance BoxW
+594811:ccdf1 333Short the UUT leads to the
+594812:cce0f Low Value Inductance BoxW
+594887:cd507 Inductance Decade Box (H Terminal)=Short the UUT leads to the
+594888:cd545 Inductance Decade Box (L Terminal)
+594889:cd568 IND=Short the UUT leads to the
+594890:cd587 Inductance Decade Box (L Terminal)BNow connect the red lead to the
+594891:cd5ca Inductance Decade Box (H Terminal)=Short the UUT leads to the
+594892:cd608 Inductance Decade Box (L Terminal)BNow connect the red lead to the
+594893:cd64b Inductance Decade Box (H Terminal)=Short the UUT leads to the
+594894:cd689 Inductance Decade Box (L Terminal)BNow connect the red lead to the
+594895:cd6cc Inductance Decade Box (H Terminal)=Short the UUT leads to the
+594896:cd70a Inductance Decade Box (L Terminal)BNow connect the red lead to the
+594897:cd74d Inductance Decade Box (H Terminal)3Short the UUT leads to the
+594898:cd78b Low Value Inductance Box
+594899:cd7a8 IND3Short the UUT leads to the
+594900:cd7c7 Low Value Inductance Box
+597300:fb81a Last Range Cal'd
+597302:fb843 Next Range to cal
+597305:fb8aa Last Range Cal'd
+597307:fb8d3 Next Range to cal

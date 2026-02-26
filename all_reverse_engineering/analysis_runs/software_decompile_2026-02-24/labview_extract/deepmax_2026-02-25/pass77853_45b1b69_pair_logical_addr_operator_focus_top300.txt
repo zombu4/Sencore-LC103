@@ -1,0 +1,300 @@
+55593:1f66a1 Logical address to read buffer from-)(U32)
+55835:1f9bbb VXI logical address to write buffer to.*(U32)
+58301:225bee logical address
+58302:225c04 logical address@
+58361:227293 logical address
+58362:2272a9 logical address
+58363:2272d3 logical address4
+58396:227bd0 logical address0
+58401:227cb0 logical address
+58412:227e57 logical address
+58433:228285 logical address
+58552:22a9f3 logical address
+58553:22aa11 logical address
+58554:22aa24 logical address
+58555:22aa37 logical address
+58556:22aa4a logical address
+58557:22aa5d logical address
+58637:22b20e logical address
+58644:22b2cc logical address
+58673:22b8a9 logical address
+58696:22b9de logical address
+58733:22c5fc Logical address of device to get information aboutYU(U16)
+58904:22ec2b Logical address of device to get information about
+58907:22ec85 Commander's logical address
+59358:235af1 VXI logical addr@
+59393:236b7f VXI logical addr
+59423:236fe3 VXI logical addr
+59447:237170 VXI logical addr
+59516:237dca VXI logical addr
+59540:237f5e VXI logical addr
+59564:2380e7 VXI logical addr
+59588:238270 VXI logical addr
+59612:238406 VXI logical addr
+59650:238654 VXI logical addr
+59651:238668 VXI logical addr
+59652:23867c VXI logical addr
+59698:23896b VXI logical addr
+59717:238b6b VXI logical addrM
+59774:2395ef VXI logical addr
+60551:246005 VXI logical addr
+60828:248c38 VXI logical addr
+60851:248dab VXI logical addr
+60874:248f1e VXI logical addr
+60897:249091 VXI logical addr
+60920:249204 VXI logical addr
+60943:249377 VXI logical addr
+60968:2499f0 VXI logical addr
+60992:249b7d VXI logical addr
+61016:249d0a VXI logical addr
+61040:249e8e VXI logical addr
+61063:24a001 VXI logical addr
+61259:24ca3c VXI logical addr
+61302:24cd10 VXI logical addr
+61526:24e866 VXI logical addr
+61920:255e11 VXI logical addr H
+61985:25686d VXI logical addr
+62008:2569e0 VXI logical addr
+62031:256b58 VXI logical addr
+62054:256ccb VXI logical addr
+62077:256e3e VXI logical addr
+62100:256fb1 VXI logical addr
+62124:2576d1 VXI logical addr
+62148:25785e VXI logical addr
+62172:2579eb VXI logical addr
+62196:257b6f VXI logical addr
+62219:257ce2 VXI logical addr
+62405:25a433 VXI logical addr
+62446:25a6d6 VXI logical addr
+62652:25c0b9 VXI logical addr
+63787:2747b8 VXI logical addr4<
+64256:27ea46 VXI logical addr
+64279:27ebba VXI logical addr
+64297:27eedd VXI logical addr
+64303:27f188 VXI logical addr4x
+64305:27f2cd VXI logical addr4x
+64313:27f67d VXI logical addr&x
+64314:27f694 VXI logical addr
+64317:27f75d VXI logical addr&x
+64318:27f774 VXI logical addr
+64375:280f84 VXI logical addr
+64399:281113 VXI logical addr
+64423:281299 VXI logical addr
+64446:28140d VXI logical addr
+64469:281581 VXI logical addr
+64492:2816f5 VXI logical addr
+64515:281869 VXI logical addr
+64538:2819dd VXI logical addr
+64561:281b51 VXI logical addr
+64584:281cd7 VXI logical addr
+64607:281ec4 VXI logical addr
+64631:2821f1 VXI logical addr
+64654:282365 VXI logical addr
+64677:2824d9 VXI logical addr
+64700:28265a VXI logical addr
+64724:2827eb VXI logical addr
+64748:28296f VXI logical addr
+64771:282ae3 VXI logical addr
+64794:282c57 VXI logical addr
+64817:282dcb VXI logical addr
+64840:282f3f VXI logical addr
+64863:2830bc VXI logical addr
+64887:283242 VXI logical addr
+64910:2833b6 VXI logical addr
+64933:28352a VXI logical addr
+64956:28369e VXI logical addr
+64979:283812 VXI logical addr
+65002:283986 VXI logical addr
+65025:283afa VXI logical addr
+65048:283c6e VXI logical addr
+65071:283de2 VXI logical addr
+65094:283f56 VXI logical addr
+65117:2840ca VXI logical addr
+65140:28423e VXI logical addr
+65161:2846ca logical address$|
+65169:284815 logical address
+65179:2848cf VXI logical addr
+65196:284b25 VXI logical addr |
+65210:284d69 VXI logical addr
+65236:285029 VXI logical addr
+65263:285273 VXI logical addr
+65287:285427 VXI logical addr
+65310:2855ad VXI logical addr
+65336:28576f VXI logical addr
+65363:285922 VXI logical addr
+65389:285aed VXI logical addr
+65412:285c5a VXI logical addr
+65435:285dc8 VXI logical addr
+65650:28b6fa VXI logical addr
+65674:28b87d VXI logical addr
+65760:28be7a VXI logical addr
+66050:28e4f8 VXI logical addr
+66071:28e676 logical addressPTH0)
+66656:2a0c80 VXI logical addr
+66680:2a0e11 VXI logical addr
+66708:2a116f VXI logical addr
+66733:2a13f1 VXI logical addr
+66770:2a1eaf VXI logical addr
+66797:2a248a VXI logical addr
+66820:2a2606 VXI logical addr
+66864:2a3bd4 VXI logical addr
+66894:2a40e9 VXI logical addr
+66917:2a4257 VXI logical addr
+66940:2a43ca VXI logical addr
+66963:2a45c5 VXI logical addr
+66987:2a4804 VXI logical addr
+67011:2a49be VXI logical addr
+67035:2a4b7d VXI logical addr
+67059:2a4d0a VXI logical addr
+67083:2a4e97 VXI logical addr
+67107:2a5024 VXI logical addr
+67131:2a51a8 VXI logical addr
+67154:2a5324 VXI logical addr
+67178:2a54af VXI logical addr
+67201:2a5625 VXI logical addr
+67225:2a57a4 VXI logical addr
+67245:2a5b63 VXI logical addr&r
+67275:2a5dc3 VXI logical addr
+67299:2a5f60 VXI logical addr
+67323:2a60de VXI logical addr
+67353:2a62c8 VXI logical addr
+67363:2a6379 VXI logical addr
+67383:2a64ce VXI logical addr
+67586:2ab93b VXI logical addr
+67610:2ababd VXI logical addr
+67626:2abbc4 VXI logical addr
+67632:2abc75 VXI logical addr
+67651:2abe57 VXI logical addr
+67670:2abf7c VXI logical addr
+67682:2ac04b VXI logical addr
+67705:2ac1ba VXI logical addr
+67728:2ac335 VXI logical addr
+67752:2ac52a VXI logical addr
+67951:2ae1a2 VXI logical addr
+68017:2b098a VXI: INSTR{VXI::logical addr}
+68018:2b09a9 GPIB-VXI: INSTR{GPIB-VXI[bd]::logical addr[prim addr]}
+68023:2b0a74 logical addr - VXI logical address
+68196:2b2e5d VXI logical addr
+68231:2b3243 VXI logical addr
+68255:2b33d0 VXI logical addr
+68279:2b3561 VXI logical addr
+68303:2b36ee VXI logical addr
+68327:2b387b VXI logical addr
+68351:2b3a08 VXI logical addr
+68375:2b3b8c VXI logical addr
+68398:2b3cff VXI logical addr
+68423:2b3f90 VXI logical addr
+68567:2b5b88 VXI logical addr
+68591:2b5d08 VXI logical addr
+68791:2b73c3 VXI logical addr
+225952:36fe1 Logical address to read buffer from-)(U32)
+226199:3a683 VXI logical address to write buffer to.*(U32)
+228703:650e5 logical address
+228715:6702a logical address
+228716:67040 logical address@
+228775:686cf logical address
+228776:686e5 logical address
+228777:6870f logical address4
+228810:6900c logical address0
+228815:690ec logical address
+228826:69293 logical address
+228847:696c1 logical address
+228966:6be2f logical address
+228967:6be4d logical address
+228968:6be60 logical address
+228969:6be73 logical address
+228970:6be86 logical address
+228971:6be99 logical address
+229051:6c64a logical address
+229058:6c708 logical address
+229087:6cce5 logical address
+229110:6ce1a logical address
+229151:6db1c Logical address of device to get information aboutYU(U16)
+229327:702bf Logical address of device to get information about
+229330:70319 Commander's logical address
+229779:75e0f VXI logical addr
+229813:77705 VXI logical addr@
+229848:78793 VXI logical addr
+229878:78bf7 VXI logical addr
+229902:78d84 VXI logical addr
+229971:799de VXI logical addr
+229995:79b72 VXI logical addr
+230019:79cfb VXI logical addr
+230043:79e84 VXI logical addr
+230067:7a01a VXI logical addr
+230105:7a268 VXI logical addr
+230106:7a27c VXI logical addr
+230107:7a290 VXI logical addr
+230153:7a57f VXI logical addr
+230172:7a77f VXI logical addrM
+230229:7b203 VXI logical addr
+231039:88199 VXI logical addr
+231316:8adcc VXI logical addr
+231339:8af3f VXI logical addr
+231362:8b0b2 VXI logical addr
+231385:8b225 VXI logical addr
+231408:8b398 VXI logical addr
+231431:8b50b VXI logical addr
+231456:8bb84 VXI logical addr
+231480:8bd11 VXI logical addr
+231504:8be9e VXI logical addr
+231528:8c022 VXI logical addr
+231551:8c195 VXI logical addr
+231747:8ebd0 VXI logical addr
+231790:8eea4 VXI logical addr
+232014:909fa VXI logical addr
+232423:981cd VXI logical addr H
+232488:98c29 VXI logical addr
+232511:98d9c VXI logical addr
+232534:98f14 VXI logical addr
+232557:99087 VXI logical addr
+232580:991fa VXI logical addr
+232603:9936d VXI logical addr
+232627:99a8d VXI logical addr
+232651:99c1a VXI logical addr
+232675:99da7 VXI logical addr
+232699:99f2b VXI logical addr
+232722:9a09e VXI logical addr
+232908:9c7ef VXI logical addr
+232949:9ca92 VXI logical addr
+233155:9e475 VXI logical addr
+234324:b71f0 VXI logical addr4<
+234793:c147e VXI logical addr
+234816:c15f2 VXI logical addr
+234834:c1915 VXI logical addr
+234840:c1bc0 VXI logical addr4x
+234842:c1d05 VXI logical addr4x
+234850:c20b5 VXI logical addr&x
+234851:c20cc VXI logical addr
+234854:c2195 VXI logical addr&x
+234855:c21ac VXI logical addr
+234912:c39bc VXI logical addr
+234936:c3b4b VXI logical addr
+234960:c3cd1 VXI logical addr
+234983:c3e45 VXI logical addr
+235006:c3fb9 VXI logical addr
+235029:c412d VXI logical addr
+235052:c42a1 VXI logical addr
+235075:c4415 VXI logical addr
+235098:c4589 VXI logical addr
+235121:c470f VXI logical addr
+235144:c48fc VXI logical addr
+235168:c4c29 VXI logical addr
+235191:c4d9d VXI logical addr
+235214:c4f11 VXI logical addr
+235237:c5092 VXI logical addr
+235261:c5223 VXI logical addr
+235285:c53a7 VXI logical addr
+235308:c551b VXI logical addr
+235331:c568f VXI logical addr
+235354:c5803 VXI logical addr
+235377:c5977 VXI logical addr
+235400:c5af4 VXI logical addr
+235424:c5c7a VXI logical addr
+235447:c5dee VXI logical addr
+235470:c5f62 VXI logical addr
+235493:c60d6 VXI logical addr
+235516:c624a VXI logical addr
+235539:c63be VXI logical addr
+235562:c6532 VXI logical addr
+235585:c66a6 VXI logical addr

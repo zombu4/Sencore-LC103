@@ -1,0 +1,40 @@
+102494:4ce0e4 LabVIEW: Generic print error. LabVIEW: Invalid device refnum.
+102495:4ce124 LabVIEW: Device not found.!LabVIEW: Device parameter error.
+102496:4ce162 LabVIEW: Device unit error.NLabVIEW: Can't open device.
+102497:4ce19c GPIB EMOM: Out of memory (MacBus read or write).VLabVIEW: Device call aborted.
+260927:246cbc LabVIEW: Generic print error. LabVIEW: Invalid device refnum.
+260928:246cfc LabVIEW: Device not found.!LabVIEW: Device parameter error.
+260929:246d3a LabVIEW: Device unit error.NLabVIEW: Can't open device.
+260930:246d74 GPIB EMOM: Out of memory (MacBus read or write).VLabVIEW: Device call aborted.
+314935:16488d LabVIEW: Generic print error. LabVIEW: Invalid device refnum.
+314936:1648cd LabVIEW: Device not found.!LabVIEW: Device parameter error.
+314937:16490b LabVIEW: Device unit error.NLabVIEW: Can't open device.
+314938:164945 GPIB EMOM: Out of memory (MacBus read or write).VLabVIEW: Device call aborted.
+341412:103e5d LabVIEW: Generic print error. LabVIEW: Invalid device refnum.
+341413:103e9d LabVIEW: Device not found.!LabVIEW: Device parameter error.
+341414:103edb LabVIEW: Device unit error.NLabVIEW: Can't open device.
+341415:103f15 GPIB EMOM: Out of memory (MacBus read or write).VLabVIEW: Device call aborted.
+371365:1806de LabVIEW: Generic print error. LabVIEW: Invalid device refnum.
+371366:18071e LabVIEW: Device not found.!LabVIEW: Device parameter error.
+371367:18075c LabVIEW: Device unit error.NLabVIEW: Can't open device.
+371368:180796 GPIB EMOM: Out of memory (MacBus read or write).VLabVIEW: Device call aborted.
+434066:f4301 LabVIEW: Generic print error. LabVIEW: Invalid device refnum.
+434067:f4341 LabVIEW: Device not found.!LabVIEW: Device parameter error.
+434068:f437f LabVIEW: Device unit error.NLabVIEW: Can't open device.
+434069:f43b9 GPIB EMOM: Out of memory (MacBus read or write).VLabVIEW: Device call aborted.
+470045:103882 LabVIEW: Generic print error. LabVIEW: Invalid device refnum.
+470046:1038c2 LabVIEW: Device not found.!LabVIEW: Device parameter error.
+470047:103900 LabVIEW: Device unit error.NLabVIEW: Can't open device.
+470048:10393a GPIB EMOM: Out of memory (MacBus read or write).VLabVIEW: Device call aborted.
+503875:1e167f LabVIEW: Generic print error. LabVIEW: Invalid device refnum.
+503876:1e16bf LabVIEW: Device not found.!LabVIEW: Device parameter error.
+503877:1e16fd LabVIEW: Device unit error.NLabVIEW: Can't open device.
+503878:1e1737 GPIB EMOM: Out of memory (MacBus read or write).VLabVIEW: Device call aborted.
+546441:f3211 LabVIEW: Generic print error. LabVIEW: Invalid device refnum.
+546442:f3251 LabVIEW: Device not found.!LabVIEW: Device parameter error.
+546443:f328f LabVIEW: Device unit error.NLabVIEW: Can't open device.
+546444:f32c9 GPIB EMOM: Out of memory (MacBus read or write).VLabVIEW: Device call aborted.
+579294:165543 LabVIEW: Generic print error. LabVIEW: Invalid device refnum.
+579295:165583 LabVIEW: Device not found.!LabVIEW: Device parameter error.
+579296:1655c1 LabVIEW: Device unit error.NLabVIEW: Can't open device.
+579297:1655fb GPIB EMOM: Out of memory (MacBus read or write).VLabVIEW: Device call aborted.

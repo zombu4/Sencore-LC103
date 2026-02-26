@@ -1,0 +1,1 @@
+579621:16d8c8 =type of dialog determines what type dialog box will be displayed, if any. Regardless of its value, the VI outputs error information and message describing the error.

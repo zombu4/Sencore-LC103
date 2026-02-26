@@ -1,0 +1,24 @@
+52516:1bdd78 A wire must be connected to one and only one data source, such as a control's terminal or a function output. This wire is not connected to any source. Find the source of this data and make sure it is a control (not indicator) or an output (not input).
+52525:1be595 A wire can be connected to only one data source, such as a control's terminal or a function output. This wire is connected to more than one source. Make sure that all connections except one are to indicators (not controls) or inputs (not outputs). 
+54059:1dce97 function out of ranged
+102522:4cee7d DDE DMLERR_DLL_NOT_INITIALIZED:  The DDEML function was called without first calling the DdeInitialize function or an invalid instance identifier was pass to a DDEML function.
+224316:1bac3 function out of ranged
+260955:247a55 DDE DMLERR_DLL_NOT_INITIALIZED:  The DDEML function was called without first calling the DdeInitialize function or an invalid instance identifier was pass to a DDEML function.
+314963:165626 DDE DMLERR_DLL_NOT_INITIALIZED:  The DDEML function was called without first calling the DdeInitialize function or an invalid instance identifier was pass to a DDEML function.
+341440:104bf6 DDE DMLERR_DLL_NOT_INITIALIZED:  The DDEML function was called without first calling the DdeInitialize function or an invalid instance identifier was pass to a DDEML function.
+371393:181477 DDE DMLERR_DLL_NOT_INITIALIZED:  The DDEML function was called without first calling the DdeInitialize function or an invalid instance identifier was pass to a DDEML function.
+406326:3ce1cf function out of ranged
+434094:f509a DDE DMLERR_DLL_NOT_INITIALIZED:  The DDEML function was called without first calling the DdeInitialize function or an invalid instance identifier was pass to a DDEML function.
+470073:10461b DDE DMLERR_DLL_NOT_INITIALIZED:  The DDEML function was called without first calling the DdeInitialize function or an invalid instance identifier was pass to a DDEML function.
+503903:1e2418 DDE DMLERR_DLL_NOT_INITIALIZED:  The DDEML function was called without first calling the DdeInitialize function or an invalid instance identifier was pass to a DDEML function.
+528307:3c9e14 function out of ranged
+546469:f3faa DDE DMLERR_DLL_NOT_INITIALIZED:  The DDEML function was called without first calling the DdeInitialize function or an invalid instance identifier was pass to a DDEML function.
+579322:1662dc DDE DMLERR_DLL_NOT_INITIALIZED:  The DDEML function was called without first calling the DdeInitialize function or an invalid instance identifier was pass to a DDEML function.
+595972:e4030 function out of ranged
+612546:51     - The File Dialog function now outputs an error cluster.  An Unbundle function was inserted to maintain compatibility.
+612548:11d     - The File Dialog function now outputs an error cluster.  An Unbundle function was inserted to maintain compatibility.
+612561:7ac     - The File Dialog function now outputs an error cluster.  An Unbundle function was inserted to maintain compatibility.
+612575:ea9     - The File Dialog function now outputs an error cluster.  An Unbundle function was inserted to maintain compatibility.
+612577:f75     - The File Dialog function now outputs an error cluster.  An Unbundle function was inserted to maintain compatibility.
+612582:11a8     - The File Dialog function now outputs an error cluster.  An Unbundle function was inserted to maintain compatibility.
+612592:16d9     - The File Dialog function now outputs an error cluster.  An Unbundle function was inserted to maintain compatibility.

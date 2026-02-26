@@ -1,0 +1,4 @@
+48240:16638f lThis button inserts the directory shown in the string box before the highlighted directory in the path list.
+48242:16643a after the highlighted directory in the path list.
+48243:16646f kThis button replaces the highlighted directory in the path list with
+48245:1664df _This button removes the highlighted directory in the path list and places it in the string box.

@@ -1,0 +1,23 @@
+100603:4a384e lhfile size is the size of the file in bytes at the time the file is closed; the value is zero otherwise.
+100819:4a703b file size is the size of the file in bytes at the time the file is closed; the value is zero otherwise.
+102515:4ce745 GPIB SPTMO: Serial port timeout; bytes not received at serial port.
+258974:21b0a2 lhfile size is the size of the file in bytes at the time the file is closed; the value is zero otherwise.
+259190:21e88f file size is the size of the file in bytes at the time the file is closed; the value is zero otherwise.
+259354:21fce6 file size is the size of the file in bytes at the time the file is closed; the value is zero otherwise.
+260948:24731d GPIB SPTMO: Serial port timeout; bytes not received at serial port.
+314956:164eee GPIB SPTMO: Serial port timeout; bytes not received at serial port.
+341433:1044be GPIB SPTMO: Serial port timeout; bytes not received at serial port.
+371386:180d3f GPIB SPTMO: Serial port timeout; bytes not received at serial port.
+372942:19b38b file size is the size of the file in bytes at the time the file is closed; the value is zero otherwise.
+372949:19b9c0 lhfile size is the size of the file in bytes at the time the file is closed; the value is zero otherwise.
+404039:3a4b4e file size is the size of the file in bytes at the time the file is closed; the value is zero otherwise.
+434087:f4962 GPIB SPTMO: Serial port timeout; bytes not received at serial port.
+470066:103ee3 GPIB SPTMO: Serial port timeout; bytes not received at serial port.
+503896:1e1ce0 GPIB SPTMO: Serial port timeout; bytes not received at serial port.
+505198:1fa17e file size is the size of the file in bytes at the time the file is closed; the value is zero otherwise.
+505290:1fbc1f hfile size is the size of the file in bytes at the time the file is closed; the value is zero otherwise.
+527376:3b379a file size is the size of the file in bytes at the time the file is closed; the value is zero otherwise.
+546462:f3872 GPIB SPTMO: Serial port timeout; bytes not received at serial port.
+579315:165ba4 GPIB SPTMO: Serial port timeout; bytes not received at serial port.
+596775:f49fa file size is the size of the file in bytes at the time the file is closed; the value is zero otherwise.
+607482:1a69de file size is the size of the file in bytes at the time the file is closed; the value is zero otherwise.

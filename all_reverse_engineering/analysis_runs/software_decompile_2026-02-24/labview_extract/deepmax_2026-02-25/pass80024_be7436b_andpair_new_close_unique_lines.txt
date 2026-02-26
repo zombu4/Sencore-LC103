@@ -1,0 +1,12 @@
+46801:15d038 newpath lf top moveto rt top lineto rt btm lineto lf btm lineto closepath
+46965:15e4b0 PSClose: NewFrame escape call error!
+48272:166bc0 This is the default for the VI Setup of new VIs. If a VI has this option set, LabVIEW will prompt you for a comment to add to the history whenever the VI is closed.
+102958:4d61cb Writes a character string to a new byte stream file or appends the string to an existing file. The VI opens or creates the file beforehand and closes it afterwards.
+261397:24f12b Writes a character string to a new byte stream file or appends the string to an existing file. The VI opens or creates the file beforehand and closes it afterwards.
+261609:2507dc Writes a character string to a new byte stream file or appends the string to an existing file. The VI opens or creates the file beforehand and closes it afterwards.
+370469:168abf Writes a character string to a new byte stream file or appends the string to an existing file. The VI opens or creates the file beforehand and closes it afterwards.
+404059:3a5a44 Writes a character string to a new byte stream file or appends the string to an existing file. The VI opens or creates the file beforehand and closes it afterwards.
+503359:1cf7ce Writes a character string to a new byte stream file or appends the string to an existing file. The VI opens or creates the file beforehand and closes it afterwards.
+527396:3b4690 Writes a character string to a new byte stream file or appends the string to an existing file. The VI opens or creates the file beforehand and closes it afterwards.
+596795:f58f0 Writes a character string to a new byte stream file or appends the string to an existing file. The VI opens or creates the file beforehand and closes it afterwards.
+608417:1b6db0 Writes a character string to a new byte stream file or appends the string to an existing file. The VI opens or creates the file beforehand and closes it afterwards.

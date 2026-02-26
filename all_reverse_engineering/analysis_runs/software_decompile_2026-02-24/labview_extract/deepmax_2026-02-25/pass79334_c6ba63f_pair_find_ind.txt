@@ -1,0 +1,206 @@
+36891:127bb VerFindFile
+44491:125fc9 FindDPFile
+44495:126117 FindVIFile
+47050:15efb5 Calling FindVIFile("%z", "%p", %4c, ...
+47051:15efdd ... FindVIFile returned %ld: found at "%z"
+47075:15f280 Revert failed: Couldn't find "%z".
+51878:1b7c29 Could not find directory "%z".CThe VI already exists and you do not have permission to replace it.
+52228:1ba45f Choose the VI to open:Name the VI:3Choose a directory of VIs or VI library to compile:+Please find the file of type %4c named "%p"CChoose a picture file to open (it will be placed on the clipboard):
+52350:1bb7d7 Choose a VI from the list of names to see its errors. Click on any error in the list to display more details about it here. Double-click on any front panel or block diagram error, or click on the Find button, to highlight the object causing the error.
+52404:1bbf2d Adding log path resource.#Cannot find 'LVSB' resource to save
+52430:1bc8c1 Can't find file in VI library. Can't get palette menu resource."Palette position already occupied.
+52510:1bd790 This VI has a bad connection to or cannot find a subVI or external routine, but it has no block diagram to show or fix the error. You must find or correct the subVI or external routine. Check for more information in the Explain... dialog in Get Info.
+52516:1bdd78 A wire must be connected to one and only one data source, such as a control's terminal or a function output. This wire is not connected to any source. Find the source of this data and make sure it is a control (not indicator) or an output (not input).
+52744:1c1145 Find First Error.vi
+59854:23a48d -1201  Error finding instruments
+60461:24446d -1201  Error finding instruments
+61637:252696 -1201  Error finding instruments
+62786:25f065 -1201  Error finding instruments
+63544:271854 -1201  Error finding instruments
+66171:2963e4 -1201  Error finding instruments
+68051:2b112a -1201  Error finding instruments
+68872:2b8b8a -1201  Error finding instruments
+100209:49d388 source messages contains the source message you want to appear in the error out cluster if the VI finds an error in error codes. Place each message on a separate line in a string constant or control. 
+100479:4a1719 Find First Error.vi
+100490:4a1ab3 Find First Error.vi
+100493:4a1aed Find First Error.vi
+100495:4a1b49 Find First Error.vi
+100530:4a1e46 Find First Error.vi_
+100572:4a21f3 Find First Error.vi
+100573:4a2207 Find First Error.vi
+100574:4a221b Find First Error.vi
+100575:4a222f Find First Error.vi
+100576:4a2243 Find First Error.vi
+100577:4a2257 Find First Error.vi
+100578:4a226b Find First Error.vi
+100579:4a227f Find First Error.vi
+100580:4a2293 Find First Error.vi
+100581:4a22a7 Find First Error.vi
+100582:4a22bb Find First Error.vi
+100583:4a22cf Find First Error.vi
+100584:4a22e3 Find First Error.vi
+100585:4a22f7 Find First Error.vi
+100586:4a230b Find First Error.vi
+100587:4a231f Find First Error.vi
+100588:4a2333 Find First Error.vi
+100589:4a2347 Find First Error.vi
+100853:4a77f4 Find First Error.vix
+100864:4a78f4 Find First Error.vi
+100870:4a7972 Find First Error.vi
+100919:4a7d4f Find First Error.vi
+100931:4a7e10 Find First Error.vi
+120231:5ed58b Find First Error.vi
+230315:7c1ad -1201  Error finding instruments
+230949:86601 -1201  Error finding instruments
+232140:94a52 -1201  Error finding instruments
+233305:a16c5 -1201  Error finding instruments
+234081:b428c -1201  Error finding instruments
+236721:d9184 -1201  Error finding instruments
+238614:f4106 -1201  Error finding instruments
+239447:fbdaa -1201  Error finding instruments
+258550:2130b7 Find First Error.vi
+258563:214768 source messages contains the source message you want to appear in the error out cluster if the VI finds an error in error codes. Place each message on a separate line in a string constant or control. 
+258833:218af9 Find First Error.vi
+258844:218e93 Find First Error.vi
+258847:218ecd Find First Error.vi
+258849:218f29 Find First Error.vi
+258884:219226 Find First Error.vi_
+258926:2195d3 Find First Error.vi
+258927:2195e7 Find First Error.vi
+258928:2195fb Find First Error.vi
+258929:21960f Find First Error.vi
+258930:219623 Find First Error.vi
+258931:219637 Find First Error.vi
+258932:21964b Find First Error.vi
+258933:21965f Find First Error.vi
+258934:219673 Find First Error.vi
+258935:219687 Find First Error.vi
+258936:21969b Find First Error.vi
+258937:2196af Find First Error.vi
+258938:2196c3 Find First Error.vi
+258939:2196d7 Find First Error.vi
+258940:2196eb Find First Error.vi
+258941:2196ff Find First Error.vi
+258942:219713 Find First Error.vi
+258943:219727 Find First Error.vi
+259224:21f048 Find First Error.vix
+259235:21f148 Find First Error.vi
+259241:21f1c6 Find First Error.vi
+259290:21f5a3 Find First Error.vi
+259302:21f664 Find First Error.vi
+291623:4434f1 Find First Error.vi
+292031:447840 Find First Error.vi
+292032:447854 Find First Error.vi
+292033:447868 Find First Error.vi
+292034:44787c Find First Error.vi
+292035:447890 Find First Error.vi
+296830:4949a -1201  Error finding instruments
+297475:538de -1201  Error finding instruments
+298678:61d03 -1201  Error finding instruments
+299853:6e94e -1201  Error finding instruments
+300646:814e9 -1201  Error finding instruments
+303320:a6381 -1201  Error finding instruments
+305244:c12ab -1201  Error finding instruments
+306086:c8f33 -1201  Error finding instruments
+329048:4871a -1201  Error finding instruments
+329712:52bca -1201  Error finding instruments
+330928:6104b -1201  Error finding instruments
+332114:6dc62 -1201  Error finding instruments
+332915:808f9 -1201  Error finding instruments
+335594:a5669 -1201  Error finding instruments
+337518:c0597 -1201  Error finding instruments
+338363:c8250 -1201  Error finding instruments
+351760:4746d -1201  Error finding instruments
+352394:518c1 -1201  Error finding instruments
+353585:5fd12 -1201  Error finding instruments
+354911:768c4 -1201  Error finding instruments
+357551:9b7bc -1201  Error finding instruments
+359444:b673e -1201  Error finding instruments
+360296:bd40b Find First Error.vi
+372693:198cb3 Find First Error.vi
+372705:198d7b Find First Error.vi
+372924:19b00f Find First Error.vi
+373016:19c484 Find First Error.viRE
+373044:19ceb9 Find First Error.vi
+373151:19f9e6 Find First Error.vi
+373153:19fa70 Find First Error.vi
+373355:1a1d09 Find First Error.vi
+373374:1a228f source messages contains the source message you want to appear in the error out cluster if the VI finds an error in error codes. Place each message on a separate line in a string constant or control. 
+373427:1a2da9 Find First Error.vi
+373436:1a37b9 Find First Error.vi
+373545:1a4f41 Find First Error.vi
+416890:47f259 Find First Error.vi
+417119:482898 Find First Error.vi
+417331:48355d Find First Error.vi
+417332:483571 Find First Error.vi
+417333:483585 Find First Error.vi
+417334:483599 Find First Error.vi
+422459:4730e -1201  Error finding instruments
+423104:51752 -1201  Error finding instruments
+424307:5fb77 -1201  Error finding instruments
+425645:766f5 -1201  Error finding instruments
+428319:9b58d -1201  Error finding instruments
+430243:b64b7 -1201  Error finding instruments
+457347:45b66 -1201  Error finding instruments
+458011:50016 -1201  Error finding instruments
+459227:5e497 -1201  Error finding instruments
+460581:750e9 -1201  Error finding instruments
+463260:99e59 -1201  Error finding instruments
+465184:b4d87 -1201  Error finding instruments
+480976:4746d -1201  Error finding instruments
+481610:518c1 -1201  Error finding instruments
+482801:5fd12 -1201  Error finding instruments
+484127:768c4 -1201  Error finding instruments
+486767:9b7bc -1201  Error finding instruments
+488660:b673e -1201  Error finding instruments
+489512:bd40b Find First Error.vi
+505082:1f8e0c Find First Error.vi
+505094:1f8ed4 Find First Error.vi
+505145:1f9523 Find First Error.vi
+505261:1fabfa Find First Error.viRE
+505294:1fbca5 Find First Error.vi
+505393:1fe34f Find First Error.vi
+505434:1fe90f Find First Error.vi
+505525:1ffd16 Find First Error.vi
+505539:200a14 source messages contains the source message you want to appear in the error out cluster if the VI finds an error in error codes. Place each message on a separate line in a string constant or control. 
+505543:200d69 Find First Error.vi
+505626:202410 Find First Error.vi
+529317:3d9245 Find First Error.vi
+529581:3de9d4 Find First Error.vi
+529796:3df6ba Find First Error.vi
+529797:3df6ce Find First Error.vi
+529798:3df6e2 Find First Error.vi
+529799:3df6f6 Find First Error.vi
+534927:4730e -1201  Error finding instruments
+535572:51752 -1201  Error finding instruments
+536775:5fb77 -1201  Error finding instruments
+538113:766f5 -1201  Error finding instruments
+540787:9b58d -1201  Error finding instruments
+542711:b64b7 -1201  Error finding instruments
+565263:45b66 -1201  Error finding instruments
+565927:50016 -1201  Error finding instruments
+567143:5e497 -1201  Error finding instruments
+568497:750e9 -1201  Error finding instruments
+571176:99e59 -1201  Error finding instruments
+573100:b4d87 -1201  Error finding instruments
+585699:473e5 -1201  Error finding instruments
+586333:51839 -1201  Error finding instruments
+587524:5fc8a -1201  Error finding instruments
+588849:76824 -1201  Error finding instruments
+591489:9b71c -1201  Error finding instruments
+593382:b669e -1201  Error finding instruments
+597005:f83b9 Find First Error.vi
+607268:1a3183 Find First Error.vi
+607274:1a3397 Find First Error.vi
+607299:1a3ec7 Find First Error.vi
+607347:1a493f Find First Error.vi
+607444:1a5c21 Find First Error.vi
+607450:1a5d49 Find First Error.viPTH0
+607451:1a5d6a Find First Error.vi
+607459:1a5fe9 Find First Error.viPTH0
+607478:1a6721 Find First Error.vi
+607518:1a7839 Find First Error.viPTH0
+607519:1a785a Find First Error.vi
+612480:1f751c Find First Error.vi
+612481:1f7530 Find First Error.vi
+612482:1f7544 Find First Error.vi

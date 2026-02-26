@@ -1,0 +1,1 @@
+528203:3c87a7 refnum is the reference number of the open file. The value is Not A Refnum if the file cannot be opened.

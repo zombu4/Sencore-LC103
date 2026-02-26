@@ -1,0 +1,59 @@
+57189:2123de  status[14]- Timeout occured
+57230:212a03  status[14]- Timeout occured
+58028:220969  status[14]- Timeout occured
+58052:220ee4  status[14]- Timeout occured
+63333:2663ca True if either primary or secondary addresses are outside ot the range 0-31.  address error indicates whether a range error has occurred.
+74849:3176fa Output alt HW Handshake. On the PC, this parameter corresponds to Data Set Ready (DSR) handshaking. On the SPARCstation, this parameter is ignored.
+227580:53436  status[14]- Timeout occured
+227621:53a5b  status[14]- Timeout occured
+228435:61c55  status[14]- Timeout occured
+228459:621d0  status[14]- Timeout occured
+233858:a8bfe True if either primary or secondary addresses are outside ot the range 0-31.  address error indicates whether a range error has occurred.
+245159:155dae Output alt HW Handshake. On the PC, this parameter corresponds to Data Set Ready (DSR) handshaking. On the SPARCstation, this parameter is ignored.
+294063:207c7  status[14]- Timeout occured
+294104:20dec  status[14]- Timeout occured
+294930:2efa2  status[14]- Timeout occured
+294954:2f51d  status[14]- Timeout occured
+300421:75e67 True if either primary or secondary addresses are outside ot the range 0-31.  address error indicates whether a range error has occurred.
+326230:1fabf  status[14]- Timeout occured
+326271:200e4  status[14]- Timeout occured
+327124:2e28a  status[14]- Timeout occured
+327148:2e805  status[14]- Timeout occured
+332685:7513b True if either primary or secondary addresses are outside ot the range 0-31.  address error indicates whether a range error has occurred.
+349025:1e6f6  status[14]- Timeout occured
+349066:1ed1b  status[14]- Timeout occured
+349880:2cf15  status[14]- Timeout occured
+349904:2d490  status[14]- Timeout occured
+354688:6b236 True if either primary or secondary addresses are outside ot the range 0-31.  address error indicates whether a range error has occurred.
+397619:33fcc8 Output alt HW Handshake. On the PC, this parameter corresponds to Data Set Ready (DSR) handshaking. On the SPARCstation, this parameter is ignored.
+419692:1e63b  status[14]- Timeout occured
+419733:1ec60  status[14]- Timeout occured
+420559:2ce16  status[14]- Timeout occured
+420583:2d391  status[14]- Timeout occured
+425420:6b073 True if either primary or secondary addresses are outside ot the range 0-31.  address error indicates whether a range error has occurred.
+454529:1cf0b  status[14]- Timeout occured
+454570:1d530  status[14]- Timeout occured
+455423:2b6d6  status[14]- Timeout occured
+455447:2bc51  status[14]- Timeout occured
+460351:6992b True if either primary or secondary addresses are outside ot the range 0-31.  address error indicates whether a range error has occurred.
+478241:1e6f6  status[14]- Timeout occured
+478282:1ed1b  status[14]- Timeout occured
+479096:2cf15  status[14]- Timeout occured
+479120:2d490  status[14]- Timeout occured
+483904:6b236 True if either primary or secondary addresses are outside ot the range 0-31.  address error indicates whether a range error has occurred.
+522317:3566d0 Output alt HW Handshake. On the PC, this parameter corresponds to Data Set Ready (DSR) handshaking. On the SPARCstation, this parameter is ignored.
+532160:1e63b  status[14]- Timeout occured
+532201:1ec60  status[14]- Timeout occured
+533027:2ce16  status[14]- Timeout occured
+533051:2d391  status[14]- Timeout occured
+537888:6b073 True if either primary or secondary addresses are outside ot the range 0-31.  address error indicates whether a range error has occurred.
+562445:1cf0b  status[14]- Timeout occured
+562486:1d530  status[14]- Timeout occured
+563339:2b6d6  status[14]- Timeout occured
+563363:2bc51  status[14]- Timeout occured
+568267:6992b True if either primary or secondary addresses are outside ot the range 0-31.  address error indicates whether a range error has occurred.
+582964:1e66e  status[14]- Timeout occured
+583005:1ec93  status[14]- Timeout occured
+583819:2ce8d  status[14]- Timeout occured
+583843:2d408  status[14]- Timeout occured
+588626:6b196 True if either primary or secondary addresses are outside ot the range 0-31.  address error indicates whether a range error has occurred.

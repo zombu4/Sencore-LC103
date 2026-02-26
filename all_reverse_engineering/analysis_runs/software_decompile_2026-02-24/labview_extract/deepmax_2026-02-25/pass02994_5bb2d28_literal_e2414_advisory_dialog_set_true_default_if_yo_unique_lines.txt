@@ -1,0 +1,1 @@
+595861:e2414 advisory dialog? Set TRUE (default) if you want a dialog if function=0 and the file does not exist, or if function=2 or 3 and the file exists.

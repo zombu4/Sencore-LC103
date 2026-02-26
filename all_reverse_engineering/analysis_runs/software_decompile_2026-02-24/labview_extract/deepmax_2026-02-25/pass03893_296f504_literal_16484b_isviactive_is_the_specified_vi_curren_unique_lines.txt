@@ -1,0 +1,1 @@
+48174:16484b IsVIActive&Is the specified VI currently running?LBVWVIAcbool4Returns true if the VI is running as a top level VI.

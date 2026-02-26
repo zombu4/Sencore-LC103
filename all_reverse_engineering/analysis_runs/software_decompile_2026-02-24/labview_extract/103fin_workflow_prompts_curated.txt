@@ -1,0 +1,150 @@
+Continue Button
+Continue Button0
+CPlease choose the file containing the capacitance calibration data.O
+BPlease choose the file containing the inductance calibration data.
+calCPlease choose the file containing the capacitance calibration data.PTH0
+calBPlease choose the file containing the inductance calibration data.gencode.cGenDispatchEntry
+Software Rev. Check
+Calibration Reset
+Current Source Calibration
+Gain Calibration
+Capacitance Calibration
+ESR Calibration
+Inductance Calibration
+Leakage Voltage Calibration
+Calibration Stamp
+Capacitance Calibrationb
+Inductance CalibrationW
+Continue ButtonH
+Make sure the UUT leads are shorted together.W
+Lead Zero Short Test/ESR
+BBKSomething seems to be wrong.  Make sure the UUT leads are shorted together.QD
+KSomething seems to be wrong.  Make sure the UUT leads are shorted together.
+IND-Make sure the UUT leads are shorted together.
+Make sure the red UUT lead is not connected.RD
+Make sure the red UUT lead is not connected.W
+'q,Make sure the red UUT lead is not connected.
+CAP,Make sure the red UUT lead is not connected.
+Short the UUT leads to the
+BBBNow connect the red lead to the
+333Short the UUT leads to the
+IND-6BNow connect the red lead to the
+Inductance Decade Box (H Terminal)=Short the UUT leads to the
+IND3Short the UUT leads to the
+FMELDKCJBI@GAHBNow connect the red lead to the
+IND=Short the UUT leads to the
+Inductance Decade Box (L Terminal)BNow connect the red lead to the
+Inductance Decade Box (H Terminal)3Short the UUT leads to the
+GNow connect the red lead to the
+CAPGNow connect the red lead to the
+Calibration ResetY
+Calibration ResetW
+Calibration ResetT
+Press 'Enter' when ready._
+Capacitance Calibration]
+Calibration Resetf
+Current Source Calibration\
+Gain Calibrationb
+Inductance Calibration^
+Leakage Voltage CalibrationT
+Calibration Stamp\
+Gain CalibrationV
+Calibration Reset]
+Press 'Enter' when ready.V
+Capacitance CalibrationV
+Press 'Enter' when ready.g
+Press 'Enter' when ready.T
+Press 'Enter' when ready.W
+Calibration StampW
+ESR CalibrationV
+Inductance Calibration[
+Warning:  Choosing 'Calibration Reset'
+Current Source CalibrationW
+Capacitance CalibrationW
+ESR CalibrationW
+Leakage Voltage CalibrationW
+Software Rev. CheckW
+Software Rev. Check_
+Press 'Enter' when ready.
+Current Source CalibrationfConnect the UUT and/or DVM leads to
+Gain CalibrationfConnect the UUT and/or DVM leads to
+ESR Calibration22
+Inductance Calibration@M
+Leakage Voltage CalibrationfConnect the UUT and/or DVM leads to
+Leakage Voltage TestfConnect the UUT and/or DVM leads to
+Leakage Current TestfConnect the UUT and/or DVM leads to
+Software Rev."
+Software Rev.L
+Software Rev.4!
+Software Rev.
+Software Rev. Check`
+Press 'Enter' when finished.
+Press 'Enter' when finished.d
+Switch the cal box to
+of rings specified on the cal box.-Switch the cal box to
+Set Cal Date`
+Set Cal Date
+Press 'Enter' when ready.PD
+and press 'Enter' when ready.
+ESR CalibrationX
+ESR Calibration PassedV
+ESR CalibrationH
+Now connect the red UUT to the H  Terminal of the decade box and set the  box to 0.022uF(.0219).
+cShort the UUT leads to the Capacitance Decade box(LTerminal).
+Press 'Enter' when ready.MD
+ESR Calibration`
+CLRPARcShort the UUT leads to the Capacitance Decade box(LTerminal).
+ESR Calibration Passed
+ESR Calibration'
+Gain Calibration Failed
+Gain Calibrationn
+Failed Calibration. Adjusted >10%R
+Gain CalibrationU
+Gain Calibration" Failed Calibration. Adjusted >10%
+Range !Gain Calibration Failed
+on Range !Gain Calibration Failed
+Current Source Calibration`
+Failed Calibration.R
+Current Source Calibration Passed
+Current Source CalibrationH
+Current Source Calibration?
+Failed Calibration.
+Leakage Calibrationt
+Failed Calibration. Gain Adjustment>10%U
+Leakage Voltage CalibrationV
+0 Failed Calibration. Offset Adjustment too high.W
+Leakage Calibration
+Communication Error.0 Failed Calibration. Offset Adjustment too high.( Failed Calibration. Gain Adjustment>10%
+Couldn't retrieve the proper Software Rev. number.  Please set this manually on the front panel.
+Couldn't open the Software Rev. file.  Please set the Software Rev. manually on the front panel.  Place the flopply disk in the computer NOW.MD
+RCouldn't open the Software Rev. file.  Place the flopply disk in the computer NOW.s
+'Last known LC103 Software Rev. is:  VERg
+'Last known LC103 Software Rev. is:  VERMD
+PAn invalid Software Rev. number was specified.  Please fix this after cal fails.
+'Last known LC103 Software Rev. is:  VERRCouldn't open the Software Rev. file.  Place the flopply disk in the computer NOW.
+Couldn't open the Software Rev. file.  Please set the Software Rev. manually on the front panel.  Place the flopply disk in the computer NOW.
+'Last known LC103 Software Rev. is:  VER
+Perform Inductance CalibrationV
+BPlease choose the file containing the inductance calibration data.V
+calBPlease choose the file containing the inductance calibration data.
+CPlease choose the file containing the capacitance calibration data.V
+calCPlease choose the file containing the capacitance calibration data.
+Start Button"
+Start Button
+Software Rev.4
+Start Buttone4,
+Software Rev.@
+Software Rev.ss4
+Software Rev.P
+Calibration Successful!!W
+Start ButtonMD
+CCCPlease choose the file containing the capacitance calibration data.W
+BPlease choose the file containing the inductance calibration data.W
+Inductance CalibrationMD
+Software Rev.Y
+Software Rev.W
+Start ButtonW
+Calibration Successful!!
+Start Button&@@
+Start ButtonL
+Software Rev.PTH0

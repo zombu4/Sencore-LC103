@@ -1,0 +1,170 @@
+!!!Set Pass/Fail Button to invisibleH
+!!!Set Pass/Fail Button to invisibled
+!!!Set Pass/Fail button to invisibleW
+!Set Pass/Fail Button to invisibled
+!Set Pass/Fail button to invisibleW
+@0StatusGlobalg
+@0StatusGlobalg 
+@0StatusGlobalg #
+@0StatusGlobalg &
+@0StatusGlobalg '
+@0StatusGlobalg (
+@0StatusGlobalg"F
+@0StatusGlobalg,$
+@0StatusGlobalg,1
+@0StatusGlobalg,7
+@0StatusGlobalg,H
+@0StatusGlobalg0F
+@0StatusGlobalg4
+@0StatusGlobalg4"
+@0StatusGlobalg4%/
+@0StatusGlobalg4(
+@0StatusGlobalg4)
+@0StatusGlobalg4-
+@0StatusGlobalg4:
+@0StatusGlobalg4:/
+@0StatusGlobalg4<
+@0StatusGlobalg4@/
+@0StatusGlobalg4B
+@0StatusGlobalg4D/
+@0StatusGlobalg4G
+@0StatusGlobalg8
+@0StatusGlobalg8?>
+@0StatusGlobalg<
+@0StatusGlobalg<!D0D2h
+@0StatusGlobalg<'DC
+@0StatusGlobalg<'DI
+@0StatusGlobalg<+DJ
+@0StatusGlobalg@;2
+@0StatusGlobalg@=1
+@0StatusGlobalg@E2
+@0StatusGlobalgL*
+@0StatusGlobalgPTH0
+@0StatusGlobalge
+@0StatusGlobalge"
+GlobStat.vi
+GlobStat.vi&
+GlobStat.vi&Y(X
+GlobStat.vi,
+GlobStat.vi6
+GlobStat.vi8
+GlobStat.viD
+GlobStat.viH
+GlobStat.viHD
+GlobStat.viHDD53
+GlobStat.viHDh
+GlobStat.viL
+GlobStat.viMD
+GlobStat.viND
+GlobStat.viO
+GlobStat.viOD
+GlobStat.viOE
+GlobStat.viP
+GlobStat.viPTH0
+GlobStat.viQE
+GlobStat.viR
+GlobStat.viRE
+GlobStat.viS
+GlobStat.viSE
+GlobStat.viT
+GlobStat.viU
+GlobStat.viV
+GlobStat.viW
+GlobStat.viX
+GlobStat.viY
+GlobStat.viZ
+GlobStat.vi[
+GlobStat.vi\=$
+GlobStat.vi]
+GlobStat.vi^
+GlobStat.vi_
+GlobStat.vi`
+GlobStat.vib
+GlobStat.vic
+GlobStat.vif
+GlobStat.vig
+GlobStat.vil
+GlobStat.vio
+GlobStat.viv
+P/F_Glob.vi
+P/F_Glob.vi 4$
+P/F_Glob.vi DIO table for main board test.vi DIO table for main board test.vi DIO table for main board test.vi
+P/F_Glob.vi.
+P/F_Glob.viH
+P/F_Glob.viM
+P/F_Glob.viMD
+P/F_Glob.viO
+P/F_Glob.viQE
+P/F_Glob.viRE
+P/F_Glob.viW
+P/F_Glob.viX
+P/F_Glob.viZ
+P/F_Glob.vic
+P/F_Glob.vir
+P/F_Glob.vis
+P/F_Glob.viv
+P/F_Glob.viy
+P0StatusGlobalg
+Pass/Fail
+Pass/Fail 
+Pass/Fail  Message
+Pass/Fail  Message.
+Pass/Fail  MessageH
+Pass/Fail  MessageL
+Pass/Fail  MessageX
+Pass/Fail  Message^
+Pass/Fail  Message`
+Pass/Fail  Messagee
+Pass/Fail  Messagee$
+Pass/Fail  Messagee,
+Pass/Fail  Messagep0
+Pass/Fail  Messagex0
+Pass/Fail0
+Pass/Fail4
+Pass/Fail6
+Pass/Fail@
+Pass/FailH
+Pass/FailHD"
+Pass/FailHD$$d3
+Pass/FailL
+Pass/FailP
+Pass/FailW
+Pass/FailX
+Pass/FailY
+Pass/Fail^
+Set "Pass or Fail Global" to "Fail"W
+StatusGlobal
+StatusGlobal and reset start buttonm
+StatusGlobal"
+StatusGlobal&
+StatusGlobal(
+StatusGlobalH
+StatusGlobalL
+StatusGlobalPTH0
+StatusGlobalp
+StatusGlobalp0
+StatusGlobalx0
+Status_Glob.vi
+Status_Glob.vi$
+Status_Glob.viH
+Status_Glob.viO
+Status_Glob.viQ
+Status_Glob.viRE
+Status_Glob.viS
+Status_Glob.viU
+Status_Glob.viV
+Status_Glob.viW
+Status_Glob.viZ
+Status_Glob.vi\
+Status_Glob.vi^
+Status_Glob.vi_
+Status_Glob.vic
+Status_Glob.vij
+Status_Glob.vix
+`0StatusGlobalg
+failure status to "StatusGlobal".
+then send pass/fail message.H
+then send pass/fail message.N
+then send pass/fail message.O
+then send pass/fail message.U
+then send pass/fail message.W

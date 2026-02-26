@@ -1,0 +1,189 @@
+13. RSZ32 Commands
+
+COMPONENT TYPE COMMANDS
+
+Description
+
+Fk
+
+: ALM
+
+Aluminum Electrotytics
+
+Double Layer
+
+TAN.
+
+Tantalum Caps
+
+CER
+
+Ceramic Caps
+
+AOC
+
+All Other Caps
+
+HIR
+
+‘High Resistance Double Layer Lytics _
+
+COL
+
+Coils
+
+: YFB
+
+Yokes and Flybacks
+
+, SWX
+
+Switching Transformers
+
+VALUE MULTIPLIERS
+
+_Sommand __"__Deseription
+
+PiooFarac
+
+ae
+
+Fer a
+
+Worrren,
+
+ES
+
+Uiimerr.
+
+“ESTs
+
+ae
+
+*leiwe TOE ¢ rece
+
+“s
+
+=,
+
+NEGHINE TETECE © erIeT
+
+TEST FUNCTION COMMANDS
+
+es
+
+CAP
+
+_. Capacitor value _
+
+ae ee
+
+LKI
+
+_ Leakage current
+
+LKR
+
+ene eee ee
+
+pene one,
+
+Leakage resistance _
+
+D/A
+
+——
+
+— me
+
+Dielectric Absorption
+
+a
+
+ESR
+
+~ Equivalent series resistance.
+
+IND
+
+__Inductance
+
+=
+
+ee ee
+
+RIN
+
+_ Ringer
+
+cic
+
+-
+
+_
+
+a cet
+
+--
+
+_ Capacitor in circuit _
+
+EIC
+
+ESR in circuit
+
+-
+
+HC
+
+Inductance in circuit °
+
+GENERAL COMM
+
+|ANDS
+
+LDO
+
+_
+
+an
+
+Lead zero open.
+
+oe
+
+LDS
+
+4
+
+__Lead zero short _
+
+~
+
+eer ae
+
+NEC
+
+_.No Function
+
+a
+
+CPO
+
+we
+
+aoe
+
+“Control panel on (front panel operation) _
+
+Cti'R
+
+=
+
+__Continue taking/sending test data _
+
+Ctrl O
+
+‘Return a single reading,
+
+(default)

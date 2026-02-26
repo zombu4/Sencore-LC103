@@ -1,0 +1,22 @@
+100603:4a384e lhfile size is the size of the file in bytes at the time the file is closed; the value is zero otherwise.
+100816:4a6dd8 QCloses the file on command or when in incoming error occurs and returns the file size at closure.
+100819:4a703b file size is the size of the file in bytes at the time the file is closed; the value is zero otherwise.
+258974:21b0a2 lhfile size is the size of the file in bytes at the time the file is closed; the value is zero otherwise.
+259187:21e62c QCloses the file on command or when in incoming error occurs and returns the file size at closure.
+259190:21e88f file size is the size of the file in bytes at the time the file is closed; the value is zero otherwise.
+259351:21fa83 QCloses the file on command or when in incoming error occurs and returns the file size at closure.
+259354:21fce6 file size is the size of the file in bytes at the time the file is closed; the value is zero otherwise.
+372939:19b128 QCloses the file on command or when in incoming error occurs and returns the file size at closure.
+372942:19b38b file size is the size of the file in bytes at the time the file is closed; the value is zero otherwise.
+372949:19b9c0 lhfile size is the size of the file in bytes at the time the file is closed; the value is zero otherwise.
+404036:3a48eb QCloses the file on command or when in incoming error occurs and returns the file size at closure.
+404039:3a4b4e file size is the size of the file in bytes at the time the file is closed; the value is zero otherwise.
+505195:1f9f1b QCloses the file on command or when in incoming error occurs and returns the file size at closure.
+505198:1fa17e file size is the size of the file in bytes at the time the file is closed; the value is zero otherwise.
+505290:1fbc1f hfile size is the size of the file in bytes at the time the file is closed; the value is zero otherwise.
+527373:3b3537 QCloses the file on command or when in incoming error occurs and returns the file size at closure.
+527376:3b379a file size is the size of the file in bytes at the time the file is closed; the value is zero otherwise.
+596772:f4797 QCloses the file on command or when in incoming error occurs and returns the file size at closure.
+596775:f49fa file size is the size of the file in bytes at the time the file is closed; the value is zero otherwise.
+607479:1a677b QCloses the file on command or when in incoming error occurs and returns the file size at closure.
+607482:1a69de file size is the size of the file in bytes at the time the file is closed; the value is zero otherwise.

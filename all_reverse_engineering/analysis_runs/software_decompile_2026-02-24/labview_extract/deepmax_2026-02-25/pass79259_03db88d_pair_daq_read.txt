@@ -1,0 +1,18 @@
+102415:4c87d4 DAQ overFlowErr:  Because of system limitations, the driver could not read data from the device fast enough to keep up with the device throughput; the onboard device memory reported an overflow error.
+132913:1fd0b0 ?DAQ_DB_HalfReady_TheVirtualThing@daqDevice@@UAEFFPAF0@Z
+133457:203f70 DAQ_DB_HalfReady
+134776:29135b ZDAQ_DB_HalfReady
+135174:2938ba DAQ_DB_HalfReadyWW
+260848:2413ac DAQ overFlowErr:  Because of system limitations, the driver could not read data from the device fast enough to keep up with the device throughput; the onboard device memory reported an overflow error.
+314856:15ef7d DAQ overFlowErr:  Because of system limitations, the driver could not read data from the device fast enough to keep up with the device throughput; the onboard device memory reported an overflow error.
+341333:fe54d DAQ overFlowErr:  Because of system limitations, the driver could not read data from the device fast enough to keep up with the device throughput; the onboard device memory reported an overflow error.
+371286:17adce DAQ overFlowErr:  Because of system limitations, the driver could not read data from the device fast enough to keep up with the device throughput; the onboard device memory reported an overflow error.
+433987:ee9f1 DAQ overFlowErr:  Because of system limitations, the driver could not read data from the device fast enough to keep up with the device throughput; the onboard device memory reported an overflow error.
+469966:fdf72 DAQ overFlowErr:  Because of system limitations, the driver could not read data from the device fast enough to keep up with the device throughput; the onboard device memory reported an overflow error.
+503796:1dbd6f DAQ overFlowErr:  Because of system limitations, the driver could not read data from the device fast enough to keep up with the device throughput; the onboard device memory reported an overflow error.
+546362:ed901 DAQ overFlowErr:  Because of system limitations, the driver could not read data from the device fast enough to keep up with the device throughput; the onboard device memory reported an overflow error.
+579215:15fc33 DAQ overFlowErr:  Because of system limitations, the driver could not read data from the device fast enough to keep up with the device throughput; the onboard device memory reported an overflow error.
+638402:1fd0b0 ?DAQ_DB_HalfReady_TheVirtualThing@daqDevice@@UAEFFPAF0@Z
+638946:203f70 DAQ_DB_HalfReady
+640265:29135b ZDAQ_DB_HalfReady
+640663:2938ba DAQ_DB_HalfReadyWW

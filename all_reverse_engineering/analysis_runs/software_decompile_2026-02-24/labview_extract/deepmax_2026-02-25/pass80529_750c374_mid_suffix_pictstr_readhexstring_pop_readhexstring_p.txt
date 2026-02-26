@@ -1,0 +1,2 @@
+46712:15cb30 {currentfile pictstr readhexstring pop} imagemask
+46714:15cb74 {currentfile pictstr readhexstring pop} imagemask

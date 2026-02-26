@@ -1,0 +1,3 @@
+46368:15a8ff IGetFile: getprocaddress failed
+46371:15a953 IGetFile: getprocaddress failed for bitmapInfo
+46374:15a9c7 IGetFile: getprocaddress failed for deletebitmap

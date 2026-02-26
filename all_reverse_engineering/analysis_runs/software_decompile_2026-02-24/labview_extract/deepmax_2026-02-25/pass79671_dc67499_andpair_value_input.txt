@@ -1,0 +1,57 @@
+70067:2cabd9 xt(bool) status: TRUE if an error has occurred. Regardless of the value of status, this VI clears the input operation."
+70482:2d1b57 xt(bool) status: TRUE if an error has occurred. Regardless of the value of status, this VI clears the input operation.
+102462:4cd277 DAQ semanticsErr:  An error was detected in the input string; the syntax of the string is correct, but certain values specified in the string are inconsistent with other values specified in the string.
+102543:4d083f This error code is not listed in the internal database, or you have wired a number that is not an error code (such as a DAQ task ID) to the error code input.6Windows GetCommError:  The hex value of this code is x
+103844:4e2c52 You have the option to not reconfigure the port as an input port by setting the iteration control to a non-zero value. You can also concatenate multiple ports to operate as one large port by using the port width paramter.
+240683:10e4e9 xt(bool) status: TRUE if an error has occurred. Regardless of the value of status, this VI clears the input operation."
+241115:115767 xt(bool) status: TRUE if an error has occurred. Regardless of the value of status, this VI clears the input operation.
+260895:245e4f DAQ semanticsErr:  An error was detected in the input string; the syntax of the string is correct, but certain values specified in the string are inconsistent with other values specified in the string.
+260976:249417 This error code is not listed in the internal database, or you have wired a number that is not an error code (such as a DAQ task ID) to the error code input.6Windows GetCommError:  The hex value of this code is x
+262305:25c4a6 You have the option to not reconfigure the port as an input port by setting the iteration control to a non-zero value. You can also concatenate multiple ports to operate as one large port by using the port width paramter.
+262470:25d643 You have the option to not reconfigure the port as an input port by setting the iteration control to a non-zero value. You can also concatenate multiple ports to operate as one large port by using the port width paramter.
+313127:13ac6e xt(bool) status: TRUE if an error has occurred. Regardless of the value of status, this VI clears the input operation."
+313561:141ee0 xt(bool) status: TRUE if an error has occurred. Regardless of the value of status, this VI clears the input operation.
+314903:163a20 DAQ semanticsErr:  An error was detected in the input string; the syntax of the string is correct, but certain values specified in the string are inconsistent with other values specified in the string.
+314984:166fe8 This error code is not listed in the internal database, or you have wired a number that is not an error code (such as a DAQ task ID) to the error code input.6Windows GetCommError:  The hex value of this code is x
+315804:173a76 You have the option to not reconfigure the port as an input port by setting the iteration control to a non-zero value. You can also concatenate multiple ports to operate as one large port by using the port width paramter.
+315970:174c0b You have the option to not reconfigure the port as an input port by setting the iteration control to a non-zero value. You can also concatenate multiple ports to operate as one large port by using the port width paramter.
+339594:da146 xt(bool) status: TRUE if an error has occurred. Regardless of the value of status, this VI clears the input operation."
+340039:e1408 xt(bool) status: TRUE if an error has occurred. Regardless of the value of status, this VI clears the input operation.
+341380:102ff0 DAQ semanticsErr:  An error was detected in the input string; the syntax of the string is correct, but certain values specified in the string are inconsistent with other values specified in the string.
+341461:1065b8 This error code is not listed in the internal database, or you have wired a number that is not an error code (such as a DAQ task ID) to the error code input.6Windows GetCommError:  The hex value of this code is x
+342026:10dc87 You have the option to not reconfigure the port as an input port by setting the iteration control to a non-zero value. You can also concatenate multiple ports to operate as one large port by using the port width paramter.
+342288:113112 You have the option to not reconfigure the port as an input port by setting the iteration control to a non-zero value. You can also concatenate multiple ports to operate as one large port by using the port width paramter.
+369533:15b5d9 You have the option to not reconfigure the port as an input port by setting the iteration control to a non-zero value. You can also concatenate multiple ports to operate as one large port by using the port width paramter.
+371333:17f871 DAQ semanticsErr:  An error was detected in the input string; the syntax of the string is correct, but certain values specified in the string are inconsistent with other values specified in the string.
+402198:388079 xt(bool) status: TRUE if an error has occurred. Regardless of the value of status, this VI clears the input operation.
+402632:38f9f7 xt(bool) status: TRUE if an error has occurred. Regardless of the value of status, this VI clears the input operation.
+404071:3a621b You have the option to not reconfigure the port as an input port by setting the iteration control to a non-zero value. You can also concatenate multiple ports to operate as one large port by using the port width paramter.
+432777:d593a You have the option to not reconfigure the port as an input port by setting the iteration control to a non-zero value. You can also concatenate multiple ports to operate as one large port by using the port width paramter.
+434034:f3494 DAQ semanticsErr:  An error was detected in the input string; the syntax of the string is correct, but certain values specified in the string are inconsistent with other values specified in the string.
+434971:106657 xt(bool) status: TRUE if an error has occurred. Regardless of the value of status, this VI clears the input operation.
+435406:10dfd4 xt(bool) status: TRUE if an error has occurred. Regardless of the value of status, this VI clears the input operation.
+443020:186193 You have the option to not reconfigure the port as an input port by setting the iteration control to a non-zero value. You can also concatenate multiple ports to operate as one large port by using the port width paramter.
+467310:ccb4b You have the option to not reconfigure the port as an input port by setting the iteration control to a non-zero value. You can also concatenate multiple ports to operate as one large port by using the port width paramter.
+468799:e3df4 xt(bool) status: TRUE if an error has occurred. Regardless of the value of status, this VI clears the input operation.
+469238:ebb0a xt(bool) status: TRUE if an error has occurred. Regardless of the value of status, this VI clears the input operation.
+470013:102a15 DAQ semanticsErr:  An error was detected in the input string; the syntax of the string is correct, but certain values specified in the string are inconsistent with other values specified in the string.
+471410:11b27f You have the option to not reconfigure the port as an input port by setting the iteration control to a non-zero value. You can also concatenate multiple ports to operate as one large port by using the port width paramter.
+502657:1c2d5a You have the option to not reconfigure the port as an input port by setting the iteration control to a non-zero value. You can also concatenate multiple ports to operate as one large port by using the port width paramter.
+503843:1e0812 DAQ semanticsErr:  An error was detected in the input string; the syntax of the string is correct, but certain values specified in the string are inconsistent with other values specified in the string.
+525021:3887b0 t(bool) status: TRUE if an error has occurred. Regardless of the value of status, this VI clears the input operation.
+525327:38e66d t(bool) status: TRUE if an error has occurred. Regardless of the value of status, this VI clears the input operation.
+525606:393db8 t(bool) status: TRUE if an error has occurred. Regardless of the value of status, this VI clears the input operation.
+527408:3b4e67 You have the option to not reconfigure the port as an input port by setting the iteration control to a non-zero value. You can also concatenate multiple ports to operate as one large port by using the port width paramter.
+545152:d484a You have the option to not reconfigure the port as an input port by setting the iteration control to a non-zero value. You can also concatenate multiple ports to operate as one large port by using the port width paramter.
+546409:f23a4 DAQ semanticsErr:  An error was detected in the input string; the syntax of the string is correct, but certain values specified in the string are inconsistent with other values specified in the string.
+547346:105567 xt(bool) status: TRUE if an error has occurred. Regardless of the value of status, this VI clears the input operation.
+547781:10cee4 xt(bool) status: TRUE if an error has occurred. Regardless of the value of status, this VI clears the input operation.
+548949:122187 You have the option to not reconfigure the port as an input port by setting the iteration control to a non-zero value. You can also concatenate multiple ports to operate as one large port by using the port width paramter.
+577718:13c363 You have the option to not reconfigure the port as an input port by setting the iteration control to a non-zero value. You can also concatenate multiple ports to operate as one large port by using the port width paramter.
+578366:14870d t(bool) status: TRUE if an error has occurred. Regardless of the value of status, this VI clears the input operation.
+578659:14e5a6 t(bool) status: TRUE if an error has occurred. Regardless of the value of status, this VI clears the input operation.
+578950:154a9b t(bool) status: TRUE if an error has occurred. Regardless of the value of status, this VI clears the input operation.
+579262:1646d6 DAQ semanticsErr:  An error was detected in the input string; the syntax of the string is correct, but certain values specified in the string are inconsistent with other values specified in the string.
+580540:17bf57 You have the option to not reconfigure the port as an input port by setting the iteration control to a non-zero value. You can also concatenate multiple ports to operate as one large port by using the port width paramter.
+596807:f60c7 You have the option to not reconfigure the port as an input port by setting the iteration control to a non-zero value. You can also concatenate multiple ports to operate as one large port by using the port width paramter.
+608685:1bb093 You have the option to not reconfigure the port as an input port by setting the iteration control to a non-zero value. You can also concatenate multiple ports to operate as one large port by using the port width paramter.

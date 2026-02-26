@@ -1,0 +1,94 @@
+60182:23df67 The name of the VI that is calling this VI. If an error occurs during the operation of this VI, the value in source will be placed in the source element of the error out cluster.
+60450:244165 The name of the VI that is calling this VI. If an error occurs during the operation of this VI, the value in source will be placed in the source element of the error out cluster.
+61626:25238e The name of the VI that is calling this VI. If an error occurs during the operation of this VI, the value in source will be placed in the source element of the error out cluster.
+63526:271362 The name of the VI that is calling this VI. If an error occurs during the operation of this VI, the value in source will be placed in the source element of the error out cluster.
+66153:295ef2 The name of the VI that is calling this VI. If an error occurs during the operation of this VI, the value in source will be placed in the source element of the error out cluster.
+68031:2b0b36 The name of the VI that is calling this VI. If an error occurs during the operation of this VI, the value in source will be placed in the source element of the error out cluster.
+100209:49d388 source messages contains the source message you want to appear in the error out cluster if the VI finds an error in error codes. Place each message on a separate line in a string constant or control.
+100480:4a17b6 If the error in cluster has a status of no-error, then test each element of error codes array, stopping on the first non-zero value or after all are tested; pick the selected line from the optional source messages as the error out source.
+101603:4b7834 source. In case of an error, most VIs that use the error in and error out clusters set source to the name of the VI or function that produced the error.
+101610:4b7a4c source. In case of an error, most VIs that use the error in and error out clusters set source to the name of the VI or function that produced the error.
+230652:7fe6f The name of the VI that is calling this VI. If an error occurs during the operation of this VI, the value in source will be placed in the source element of the error out cluster.
+230938:862f9 The name of the VI that is calling this VI. If an error occurs during the operation of this VI, the value in source will be placed in the source element of the error out cluster.
+232129:9474a The name of the VI that is calling this VI. If an error occurs during the operation of this VI, the value in source will be placed in the source element of the error out cluster.
+234063:b3d9a The name of the VI that is calling this VI. If an error occurs during the operation of this VI, the value in source will be placed in the source element of the error out cluster.
+236703:d8c92 The name of the VI that is calling this VI. If an error occurs during the operation of this VI, the value in source will be placed in the source element of the error out cluster.
+238594:f3b12 The name of the VI that is calling this VI. If an error occurs during the operation of this VI, the value in source will be placed in the source element of the error out cluster.
+258563:214768 source messages contains the source message you want to appear in the error out cluster if the VI finds an error in error codes. Place each message on a separate line in a string constant or control.
+258834:218b96 If the error in cluster has a status of no-error, then test each element of error codes array, stopping on the first non-zero value or after all are tested; pick the selected line from the optional source messages as the error out source.
+260036:23040c source. In case of an error, most VIs that use the error in and error out clusters set source to the name of the VI or function that produced the error.
+260043:230624 source. In case of an error, most VIs that use the error in and error out clusters set source to the name of the VI or function that produced the error.
+297174:4d153 The name of the VI that is calling this VI. If an error occurs during the operation of this VI, the value in source will be placed in the source element of the error out cluster.
+297464:535d6 The name of the VI that is calling this VI. If an error occurs during the operation of this VI, the value in source will be placed in the source element of the error out cluster.
+298667:619fb The name of the VI that is calling this VI. If an error occurs during the operation of this VI, the value in source will be placed in the source element of the error out cluster.
+300628:80ff7 The name of the VI that is calling this VI. If an error occurs during the operation of this VI, the value in source will be placed in the source element of the error out cluster.
+303302:a5e8f The name of the VI that is calling this VI. If an error occurs during the operation of this VI, the value in source will be placed in the source element of the error out cluster.
+305224:c0cb7 The name of the VI that is calling this VI. If an error occurs during the operation of this VI, the value in source will be placed in the source element of the error out cluster.
+314024:14e029 source. In case of an error, most VIs that use the error in and error out clusters set source to the name of the VI or function that produced the error.
+314031:14e241 source. In case of an error, most VIs that use the error in and error out clusters set source to the name of the VI or function that produced the error.
+329405:4c3bc The name of the VI that is calling this VI. If an error occurs during the operation of this VI, the value in source will be placed in the source element of the error out cluster.
+329701:528c2 The name of the VI that is calling this VI. If an error occurs during the operation of this VI, the value in source will be placed in the source element of the error out cluster.
+330917:60d43 The name of the VI that is calling this VI. If an error occurs during the operation of this VI, the value in source will be placed in the source element of the error out cluster.
+332897:80407 The name of the VI that is calling this VI. If an error occurs during the operation of this VI, the value in source will be placed in the source element of the error out cluster.
+335576:a5177 The name of the VI that is calling this VI. If an error occurs during the operation of this VI, the value in source will be placed in the source element of the error out cluster.
+337498:bffa3 The name of the VI that is calling this VI. If an error occurs during the operation of this VI, the value in source will be placed in the source element of the error out cluster.
+340507:ed60c source. In case of an error, most VIs that use the error in and error out clusters set source to the name of the VI or function that produced the error.
+340514:ed824 source. In case of an error, most VIs that use the error in and error out clusters set source to the name of the VI or function that produced the error.
+352097:4b12f The name of the VI that is calling this VI. If an error occurs during the operation of this VI, the value in source will be placed in the source element of the error out cluster.
+352383:515b9 The name of the VI that is calling this VI. If an error occurs during the operation of this VI, the value in source will be placed in the source element of the error out cluster.
+353574:5fa0a The name of the VI that is calling this VI. If an error occurs during the operation of this VI, the value in source will be placed in the source element of the error out cluster.
+354893:763d2 The name of the VI that is calling this VI. If an error occurs during the operation of this VI, the value in source will be placed in the source element of the error out cluster.
+357533:9b2ca The name of the VI that is calling this VI. If an error occurs during the operation of this VI, the value in source will be placed in the source element of the error out cluster.
+359424:b614a The name of the VI that is calling this VI. If an error occurs during the operation of this VI, the value in source will be placed in the source element of the error out cluster.
+371473:184195 source. In case of an error, most VIs that use the error in and error out clusters set source to the name of the VI or function that produced the error.
+371477:18438d source. In case of an error, most VIs that use the error in and error out clusters set source to the name of the VI or function that produced the error.
+373374:1a228f source messages contains the source message you want to appear in the error out cluster if the VI finds an error in error codes. Place each message on a separate line in a string constant or control.
+373410:1a2bb5 If the error in cluster has a status of no-error, then test each element of error codes array, stopping on the first non-zero value or after all are tested; pick the selected line from the optional source messages as the error out source.
+422803:4afc7 The name of the VI that is calling this VI. If an error occurs during the operation of this VI, the value in source will be placed in the source element of the error out cluster.
+423093:5144a The name of the VI that is calling this VI. If an error occurs during the operation of this VI, the value in source will be placed in the source element of the error out cluster.
+424296:5f86f The name of the VI that is calling this VI. If an error occurs during the operation of this VI, the value in source will be placed in the source element of the error out cluster.
+425627:76203 The name of the VI that is calling this VI. If an error occurs during the operation of this VI, the value in source will be placed in the source element of the error out cluster.
+428301:9b09b The name of the VI that is calling this VI. If an error occurs during the operation of this VI, the value in source will be placed in the source element of the error out cluster.
+430223:b5ec3 The name of the VI that is calling this VI. If an error occurs during the operation of this VI, the value in source will be placed in the source element of the error out cluster.
+434174:f7db8 source. In case of an error, most VIs that use the error in and error out clusters set source to the name of the VI or function that produced the error.
+434178:f7fb0 source. In case of an error, most VIs that use the error in and error out clusters set source to the name of the VI or function that produced the error.
+457704:49808 The name of the VI that is calling this VI. If an error occurs during the operation of this VI, the value in source will be placed in the source element of the error out cluster.
+458000:4fd0e The name of the VI that is calling this VI. If an error occurs during the operation of this VI, the value in source will be placed in the source element of the error out cluster.
+459216:5e18f The name of the VI that is calling this VI. If an error occurs during the operation of this VI, the value in source will be placed in the source element of the error out cluster.
+460563:74bf7 The name of the VI that is calling this VI. If an error occurs during the operation of this VI, the value in source will be placed in the source element of the error out cluster.
+463242:99967 The name of the VI that is calling this VI. If an error occurs during the operation of this VI, the value in source will be placed in the source element of the error out cluster.
+465164:b4793 The name of the VI that is calling this VI. If an error occurs during the operation of this VI, the value in source will be placed in the source element of the error out cluster.
+470153:107339 source. In case of an error, most VIs that use the error in and error out clusters set source to the name of the VI or function that produced the error.
+470157:107531 source. In case of an error, most VIs that use the error in and error out clusters set source to the name of the VI or function that produced the error.
+481313:4b12f The name of the VI that is calling this VI. If an error occurs during the operation of this VI, the value in source will be placed in the source element of the error out cluster.
+481599:515b9 The name of the VI that is calling this VI. If an error occurs during the operation of this VI, the value in source will be placed in the source element of the error out cluster.
+482790:5fa0a The name of the VI that is calling this VI. If an error occurs during the operation of this VI, the value in source will be placed in the source element of the error out cluster.
+484109:763d2 The name of the VI that is calling this VI. If an error occurs during the operation of this VI, the value in source will be placed in the source element of the error out cluster.
+486749:9b2ca The name of the VI that is calling this VI. If an error occurs during the operation of this VI, the value in source will be placed in the source element of the error out cluster.
+488640:b614a The name of the VI that is calling this VI. If an error occurs during the operation of this VI, the value in source will be placed in the source element of the error out cluster.
+504220:1ea485 source. In case of an error, most VIs that use the error in and error out clusters set source to the name of the VI or function that produced the error.
+504224:1ea756 source. In case of an error, most VIs that use the error in and error out clusters set source to the name of the VI or function that produced the error.
+505508:1ffb22 If the error in cluster has a status of no-error, then test each element of error codes array, stopping on the first non-zero value or after all are tested; pick the selected line from the optional source messages as the error out source.
+505539:200a14 source messages contains the source message you want to appear in the error out cluster if the VI finds an error in error codes. Place each message on a separate line in a string constant or control.
+535271:4afc7 The name of the VI that is calling this VI. If an error occurs during the operation of this VI, the value in source will be placed in the source element of the error out cluster.
+535561:5144a The name of the VI that is calling this VI. If an error occurs during the operation of this VI, the value in source will be placed in the source element of the error out cluster.
+536764:5f86f The name of the VI that is calling this VI. If an error occurs during the operation of this VI, the value in source will be placed in the source element of the error out cluster.
+538095:76203 The name of the VI that is calling this VI. If an error occurs during the operation of this VI, the value in source will be placed in the source element of the error out cluster.
+540769:9b09b The name of the VI that is calling this VI. If an error occurs during the operation of this VI, the value in source will be placed in the source element of the error out cluster.
+542691:b5ec3 The name of the VI that is calling this VI. If an error occurs during the operation of this VI, the value in source will be placed in the source element of the error out cluster.
+546549:f6cc8 source. In case of an error, most VIs that use the error in and error out clusters set source to the name of the VI or function that produced the error.
+546553:f6ec0 source. In case of an error, most VIs that use the error in and error out clusters set source to the name of the VI or function that produced the error.
+565620:49808 The name of the VI that is calling this VI. If an error occurs during the operation of this VI, the value in source will be placed in the source element of the error out cluster.
+565916:4fd0e The name of the VI that is calling this VI. If an error occurs during the operation of this VI, the value in source will be placed in the source element of the error out cluster.
+567132:5e18f The name of the VI that is calling this VI. If an error occurs during the operation of this VI, the value in source will be placed in the source element of the error out cluster.
+568479:74bf7 The name of the VI that is calling this VI. If an error occurs during the operation of this VI, the value in source will be placed in the source element of the error out cluster.
+571158:99967 The name of the VI that is calling this VI. If an error occurs during the operation of this VI, the value in source will be placed in the source element of the error out cluster.
+573080:b4793 The name of the VI that is calling this VI. If an error occurs during the operation of this VI, the value in source will be placed in the source element of the error out cluster.
+579639:16e348 source. In case of an error, most VIs that use the error in and error out clusters set source to the name of the VI or function that produced the error.
+579643:16e619 source. In case of an error, most VIs that use the error in and error out clusters set source to the name of the VI or function that produced the error.
+586036:4b0a7 The name of the VI that is calling this VI. If an error occurs during the operation of this VI, the value in source will be placed in the source element of the error out cluster.
+586322:51531 The name of the VI that is calling this VI. If an error occurs during the operation of this VI, the value in source will be placed in the source element of the error out cluster.
+587513:5f982 The name of the VI that is calling this VI. If an error occurs during the operation of this VI, the value in source will be placed in the source element of the error out cluster.
+588831:76332 The name of the VI that is calling this VI. If an error occurs during the operation of this VI, the value in source will be placed in the source element of the error out cluster.
+591471:9b22a The name of the VI that is calling this VI. If an error occurs during the operation of this VI, the value in source will be placed in the source element of the error out cluster.
+593362:b60aa The name of the VI that is calling this VI. If an error occurs during the operation of this VI, the value in source will be placed in the source element of the error out cluster.

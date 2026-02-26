@@ -1,0 +1,36 @@
+68608:2b5eba Establishes a communication session with a remote instrument based on the instrument descriptor. Instr Open creates an instr handle that is used by all other VISA Transition Library VIs to perform operations on that session.
+77806:344275 This vi handles the RS-232 communications for a UUT. FC In and FC Out are used for flow control.
+239171:f8e96 Establishes a communication session with a remote instrument based on the instrument descriptor. Instr Open creates an instr handle that is used by all other VISA Transition Library VIs to perform operations on that session.
+239418:fa8f4 Establishes a communication session with a remote instrument based on the instrument descriptor. Instr Open creates an instr handle that is used by all other VISA Transition Library VIs to perform operations on that session.
+248186:183391 This vi handles the RS-232 communications for a UUT. FC In and FC Out are used for flow control.
+248365:184788 This vi handles the RS-232 communications for a UUT. FC In and FC Out are used for flow control.
+305806:c603a Establishes a communication session with a remote instrument based on the instrument descriptor. Instr Open creates an instr handle that is used by all other VISA Transition Library VIs to perform operations on that session.
+306057:c7a80 Establishes a communication session with a remote instrument based on the instrument descriptor. Instr Open creates an instr handle that is used by all other VISA Transition Library VIs to perform operations on that session.
+310408:10c927 This vi handles the RS-232 communications for a UUT. FC In and FC Out are used for flow control.
+310586:10dd08 This vi handles the RS-232 communications for a UUT. FC In and FC Out are used for flow control.
+337452:bddb8 Establishes a communication session with a remote instrument based on the instrument descriptor. Instr Open creates an instr handle that is used by all other VISA Transition Library VIs to perform operations on that session.
+338085:c5328 Establishes a communication session with a remote instrument based on the instrument descriptor. Instr Open creates an instr handle that is used by all other VISA Transition Library VIs to perform operations on that session.
+360001:bb4ce Establishes a communication session with a remote instrument based on the instrument descriptor. Instr Open creates an instr handle that is used by all other VISA Transition Library VIs to perform operations on that session.
+360248:bcf2c Establishes a communication session with a remote instrument based on the instrument descriptor. Instr Open creates an instr handle that is used by all other VISA Transition Library VIs to perform operations on that session.
+394601:312369 This vi handles the RS-232 communications for a UUT. FC In and FC Out are used for flow control.
+404015:3a3bdc This vi handles the RS-232 communications for a UUT. FC In and FC Out are used for flow control.
+430805:bb246 Establishes a communication session with a remote instrument based on the instrument descriptor. Instr Open creates an instr handle that is used by all other VISA Transition Library VIs to perform operations on that session.
+431056:bcc8c Establishes a communication session with a remote instrument based on the instrument descriptor. Instr Open creates an instr handle that is used by all other VISA Transition Library VIs to perform operations on that session.
+438764:1456a2 This vi handles the RS-232 communications for a UUT. FC In and FC Out are used for flow control.
+442998:18560c This vi handles the RS-232 communications for a UUT. FC In and FC Out are used for flow control.
+465118:b25a8 Establishes a communication session with a remote instrument based on the instrument descriptor. Instr Open creates an instr handle that is used by all other VISA Transition Library VIs to perform operations on that session.
+465751:b9b18 Establishes a communication session with a remote instrument based on the instrument descriptor. Instr Open creates an instr handle that is used by all other VISA Transition Library VIs to perform operations on that session.
+489217:bb4ce Establishes a communication session with a remote instrument based on the instrument descriptor. Instr Open creates an instr handle that is used by all other VISA Transition Library VIs to perform operations on that session.
+489464:bcf2c Establishes a communication session with a remote instrument based on the instrument descriptor. Instr Open creates an instr handle that is used by all other VISA Transition Library VIs to perform operations on that session.
+519778:32e3c7 This vi handles the RS-232 communications for a UUT. FC In and FC Out are used for flow control.
+527352:3b2828 This vi handles the RS-232 communications for a UUT. FC In and FC Out are used for flow control.
+543273:bb246 Establishes a communication session with a remote instrument based on the instrument descriptor. Instr Open creates an instr handle that is used by all other VISA Transition Library VIs to perform operations on that session.
+543524:bcc8c Establishes a communication session with a remote instrument based on the instrument descriptor. Instr Open creates an instr handle that is used by all other VISA Transition Library VIs to perform operations on that session.
+556371:1a40bc This vi handles the RS-232 communications for a UUT. FC In and FC Out are used for flow control.
+556717:1ab510 This vi handles the RS-232 communications for a UUT. FC In and FC Out are used for flow control.
+573034:b25a8 Establishes a communication session with a remote instrument based on the instrument descriptor. Instr Open creates an instr handle that is used by all other VISA Transition Library VIs to perform operations on that session.
+573667:b9b18 Establishes a communication session with a remote instrument based on the instrument descriptor. Instr Open creates an instr handle that is used by all other VISA Transition Library VIs to perform operations on that session.
+593939:bb42e Establishes a communication session with a remote instrument based on the instrument descriptor. Instr Open creates an instr handle that is used by all other VISA Transition Library VIs to perform operations on that session.
+594186:bce8c Establishes a communication session with a remote instrument based on the instrument descriptor. Instr Open creates an instr handle that is used by all other VISA Transition Library VIs to perform operations on that session.
+596751:f3a88 This vi handles the RS-232 communications for a UUT. FC In and FC Out are used for flow control.
+601412:13eff8 This vi handles the RS-232 communications for a UUT. FC In and FC Out are used for flow control.

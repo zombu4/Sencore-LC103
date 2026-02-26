@@ -1,0 +1,2 @@
+28:10b0 SetCINArraySize, elmtNum %ld out of range 0 <= elmtNum < %ld
+120278:10b0 SetCINArraySize, elmtNum %ld out of range 0 <= elmtNum < %ld

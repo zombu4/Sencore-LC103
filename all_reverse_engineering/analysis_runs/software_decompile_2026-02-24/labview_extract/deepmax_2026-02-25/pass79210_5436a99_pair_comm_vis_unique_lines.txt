@@ -1,0 +1,34 @@
+48196:165404 If you check this box, you will not be prompted for a comment on the rest of the VIs in this hierarchy that are being closed at this time, even if they have one of the prompt for comment options set.
+68608:2b5eba Establishes a communication session with a remote instrument based on the instrument descriptor. Instr Open creates an instr handle that is used by all other VISA Transition Library VIs to perform operations on that session.
+107797:523f58 UUT Comm.viS
+239171:f8e96 Establishes a communication session with a remote instrument based on the instrument descriptor. Instr Open creates an instr handle that is used by all other VISA Transition Library VIs to perform operations on that session.
+239418:fa8f4 Establishes a communication session with a remote instrument based on the instrument descriptor. Instr Open creates an instr handle that is used by all other VISA Transition Library VIs to perform operations on that session.
+266307:29e258 UUT Comm.viS
+305806:c603a Establishes a communication session with a remote instrument based on the instrument descriptor. Instr Open creates an instr handle that is used by all other VISA Transition Library VIs to perform operations on that session.
+306057:c7a80 Establishes a communication session with a remote instrument based on the instrument descriptor. Instr Open creates an instr handle that is used by all other VISA Transition Library VIs to perform operations on that session.
+337452:bddb8 Establishes a communication session with a remote instrument based on the instrument descriptor. Instr Open creates an instr handle that is used by all other VISA Transition Library VIs to perform operations on that session.
+338085:c5328 Establishes a communication session with a remote instrument based on the instrument descriptor. Instr Open creates an instr handle that is used by all other VISA Transition Library VIs to perform operations on that session.
+360001:bb4ce Establishes a communication session with a remote instrument based on the instrument descriptor. Instr Open creates an instr handle that is used by all other VISA Transition Library VIs to perform operations on that session.
+360248:bcf2c Establishes a communication session with a remote instrument based on the instrument descriptor. Instr Open creates an instr handle that is used by all other VISA Transition Library VIs to perform operations on that session.
+375318:1c0941 UUT Comm.viSE
+375322:1c09bc UUT Comm.viSE
+409695:4055a8 UUT Comm.viSE
+416454:477699 UUT Comm.viS
+430805:bb246 Establishes a communication session with a remote instrument based on the instrument descriptor. Instr Open creates an instr handle that is used by all other VISA Transition Library VIs to perform operations on that session.
+431056:bcc8c Establishes a communication session with a remote instrument based on the instrument descriptor. Instr Open creates an instr handle that is used by all other VISA Transition Library VIs to perform operations on that session.
+436421:11db31 UUT Comm.viSE
+465118:b25a8 Establishes a communication session with a remote instrument based on the instrument descriptor. Instr Open creates an instr handle that is used by all other VISA Transition Library VIs to perform operations on that session.
+465751:b9b18 Establishes a communication session with a remote instrument based on the instrument descriptor. Instr Open creates an instr handle that is used by all other VISA Transition Library VIs to perform operations on that session.
+489217:bb4ce Establishes a communication session with a remote instrument based on the instrument descriptor. Instr Open creates an instr handle that is used by all other VISA Transition Library VIs to perform operations on that session.
+489464:bcf2c Establishes a communication session with a remote instrument based on the instrument descriptor. Instr Open creates an instr handle that is used by all other VISA Transition Library VIs to perform operations on that session.
+499961:18f856 UUT Comm.viS
+500767:19f30c UUT Comm.viSE
+506914:218188 UUT Comm.viSE
+506918:218203 UUT Comm.viSE
+543273:bb246 Establishes a communication session with a remote instrument based on the instrument descriptor. Instr Open creates an instr handle that is used by all other VISA Transition Library VIs to perform operations on that session.
+543524:bcc8c Establishes a communication session with a remote instrument based on the instrument descriptor. Instr Open creates an instr handle that is used by all other VISA Transition Library VIs to perform operations on that session.
+555244:18be9e UUT Comm.viSE
+573034:b25a8 Establishes a communication session with a remote instrument based on the instrument descriptor. Instr Open creates an instr handle that is used by all other VISA Transition Library VIs to perform operations on that session.
+573667:b9b18 Establishes a communication session with a remote instrument based on the instrument descriptor. Instr Open creates an instr handle that is used by all other VISA Transition Library VIs to perform operations on that session.
+593939:bb42e Establishes a communication session with a remote instrument based on the instrument descriptor. Instr Open creates an instr handle that is used by all other VISA Transition Library VIs to perform operations on that session.
+594186:bce8c Establishes a communication session with a remote instrument based on the instrument descriptor. Instr Open creates an instr handle that is used by all other VISA Transition Library VIs to perform operations on that session.

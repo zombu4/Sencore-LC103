@@ -1,0 +1,63 @@
+LC103 FINAL CAL OPERATOR RUNDOWN (HIGH-CONFIDENCE, FROM DECOMPILED STRINGS)
+
+PREP
+1. Connect PA251 power adapter to LC103.
+2. Connect RS232 from computer to LC103.
+3. Connect 39G219 test lead harness from LC103 front panel to Final Test Box.
+4. Power on LC103.
+5. Start Final Cal app/workflow.
+6. Load capacitance and inductance cal files.
+7. Select ALL (NOT RINGER) and Start.
+
+OPTIONAL STAGE (SEPARATE): 10V REF CALIBRATION
+- Connect DVM '+' to TP1006.
+- Connect DVM '-' to TP1020.
+- Adjust R1045 to 10.000V +/- 0.005.
+- Press Enter when finished.
+
+NON-RINGER MAIN FLOW
+1. Software Rev. Check.
+2. Calibration Reset (optional).
+3. Current Source Calibration:
+   - Connect UUT and/or DVM leads to LC103 Final Test Box.
+   - Press Enter when ready.
+4. Gain Calibration:
+   - Connect UUT and/or DVM leads to LC103 Final Test Box.
+   - Press Enter when ready.
+5. Capacitance Calibration:
+   - Make sure red UUT lead is not connected (as prompted).
+   - Short/move/connect leads to capacitance decade box as prompted.
+   - Apply prompted capacitance values in order when asked.
+6. ESR Calibration:
+   - Connect red UUT to H terminal of decade box.
+   - Set decade box to 0.022uF (0.0219).
+   - Press Enter when ready.
+7. Inductance Calibration:
+   - Short/move/connect leads to inductance decade box as prompted.
+   - Set inductance box values as prompted.
+8. Leakage Voltage Calibration:
+   - Connect UUT and/or DVM leads to LC103 Final Test Box.
+   - Press Enter when ready.
+9. D/A Test:
+   - Connect UUT and/or DVM leads to LC103 Final Test Box.
+   - Press Enter when ready.
+10. Leakage Voltage Test:
+   - Connect UUT and/or DVM leads to LC103 Final Test Box.
+   - Press Enter when ready.
+11. Leakage Current Test:
+   - Connect UUT and/or DVM leads to LC103 Final Test Box.
+   - Press Enter when ready.
+   - Hidden leakage metadata present in software:
+     - Load Select map:
+       0=1.1MOhm (same as 9)
+       1=100k, 2=10k, 3=1k, 4=100, 5=10, 6=2k, 7=0%(DA), 8=10%(DA), 9=100k (HV)
+     - Columns: Sense Resistor, Approx. Current, Cal Box Setup #, 8842 Mult. factor.
+12. Set Calibration Date.
+13. Calibration Stamp.
+14. Calibration Successful.
+
+RINGER FLOW (SEPARATE)
+1. Connect UUT leads to Small Ringer Cal Box set to Yolks and Flybacks.
+2. Adjust R1144 for ring count specified on cal box.
+3. Switch cal box to Switching Transformers.
+4. Adjust R1005 for ring count specified on cal box.

@@ -1,0 +1,1 @@
+309449:ff23f source is a string that indicates the origin of the error, if any. Usually source is the name of the VI in which the error occurred.

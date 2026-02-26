@@ -1,0 +1,8 @@
+46688:15c8bd closepath stroke
+46689:15c8ce closepath clip %ld %ld %ld %ld %s fillpat grestore
+46690:15c901 closepath fill
+46809:15d132   ptsArray {aload pop /v xdf /h xdf h v lineto} forall closepath eoclip
+46811:15d187   ptsArray {aload pop /v xdf /h xdf h v lineto} forall closepath eofill
+46817:15d2dd /ovalFill {false arcguts closepath fill} bdf
+46818:15d30a /ovalClip {false arcguts closepath clip} bdf
+46835:15d616 closepath clip

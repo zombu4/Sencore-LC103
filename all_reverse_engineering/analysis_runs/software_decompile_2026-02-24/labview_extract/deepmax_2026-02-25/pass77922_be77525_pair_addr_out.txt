@@ -1,0 +1,33 @@
+58733:22c5fc Logical address of device to get information aboutYU(U16)
+58904:22ec2b Logical address of device to get information about
+63333:2663ca True if either primary or secondary addresses are outside ot the range 0-31.  address error indicates whether a range error has occurred.
+229151:6db1c Logical address of device to get information aboutYU(U16)
+229327:702bf Logical address of device to get information about
+233858:a8bfe True if either primary or secondary addresses are outside ot the range 0-31.  address error indicates whether a range error has occurred.
+295651:3ae39 Logical address of device to get information aboutYU(U16)
+295832:3d5dc Logical address of device to get information about
+300421:75e67 True if either primary or secondary addresses are outside ot the range 0-31.  address error indicates whether a range error has occurred.
+327855:3a16d Logical address of device to get information aboutYU(U16)
+328038:3c908 Logical address of device to get information about
+332685:7513b True if either primary or secondary addresses are outside ot the range 0-31.  address error indicates whether a range error has occurred.
+350596:38ddc Logical address of device to get information aboutYU(U16)
+350772:3b57f Logical address of device to get information about
+354688:6b236 True if either primary or secondary addresses are outside ot the range 0-31.  address error indicates whether a range error has occurred.
+421280:38cad Logical address of device to get information aboutYU(U16)
+421461:3b450 Logical address of device to get information about
+425420:6b073 True if either primary or secondary addresses are outside ot the range 0-31.  address error indicates whether a range error has occurred.
+456154:375b9 Logical address of device to get information aboutYU(U16)
+456337:39d54 Logical address of device to get information about
+460351:6992b True if either primary or secondary addresses are outside ot the range 0-31.  address error indicates whether a range error has occurred.
+479812:38ddc Logical address of device to get information aboutYU(U16)
+479988:3b57f Logical address of device to get information about
+483904:6b236 True if either primary or secondary addresses are outside ot the range 0-31.  address error indicates whether a range error has occurred.
+533748:38cad Logical address of device to get information aboutYU(U16)
+533929:3b450 Logical address of device to get information about
+537888:6b073 True if either primary or secondary addresses are outside ot the range 0-31.  address error indicates whether a range error has occurred.
+564070:375b9 Logical address of device to get information aboutYU(U16)
+564253:39d54 Logical address of device to get information about
+568267:6992b True if either primary or secondary addresses are outside ot the range 0-31.  address error indicates whether a range error has occurred.
+584535:38d54 Logical address of device to get information aboutYU(U16)
+584711:3b4f7 Logical address of device to get information about
+588626:6b196 True if either primary or secondary addresses are outside ot the range 0-31.  address error indicates whether a range error has occurred.

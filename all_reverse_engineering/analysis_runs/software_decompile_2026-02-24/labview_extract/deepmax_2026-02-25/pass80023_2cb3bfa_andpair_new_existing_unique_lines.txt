@@ -1,0 +1,92 @@
+52983:1cac00 opens an existing file or creates a new file if one does not exist.
+54003:1dbabd 1 (open or create) opens an existing file or creates a new file if one does not exist.
+102678:4d2bc5 append to file. Set to TRUE if you want to append the data to a existing file; you can also set it TRUE to write to a new file. Set to FALSE (default value) if you want to write the data to a new file or to replace an existing file.
+102958:4d61cb Writes a character string to a new byte stream file or appends the string to an existing file. The VI opens or creates the file beforehand and closes it afterwards.
+102961:4d6387 append to file? Set to TRUE if you want to append the data to a existing file; you can also set it TRUE to write to a new file. Set to FALSE (default value) if you want to write the data to a new file or to replace an existing file.
+223240:982c opens an existing file or creates a new file if one does not exist.
+224260:1a6e9 1 (open or create) opens an existing file or creates a new file if one does not exist.
+224496:1d3f5 1 (open or create) opens an existing file or creates a new file if one does not exist.
+261117:24bb25 append to file. Set to TRUE if you want to append the data to a existing file; you can also set it TRUE to write to a new file. Set to FALSE (default value) if you want to write the data to a new file or to replace an existing file.
+261397:24f12b Writes a character string to a new byte stream file or appends the string to an existing file. The VI opens or creates the file beforehand and closes it afterwards.
+261400:24f2e7 append to file? Set to TRUE if you want to append the data to a existing file; you can also set it TRUE to write to a new file. Set to FALSE (default value) if you want to write the data to a new file or to replace an existing file.
+261609:2507dc Writes a character string to a new byte stream file or appends the string to an existing file. The VI opens or creates the file beforehand and closes it afterwards.
+261612:250998 append to file? Set to TRUE if you want to append the data to a existing file; you can also set it TRUE to write to a new file. Set to FALSE (default value) if you want to write the data to a new file or to replace an existing file.
+362927:ec97c new or existing file existing dir
+362932:ec9e7 new or existing file (use LLBs)
+363107:edb0d new or existing file existing dir
+363112:edb78 new or existing file (use LLBs)
+364610:10cc7b new or existing file existing dir
+364615:10cce6 new or existing file (use LLBs)
+364825:10dffa new or existing file existing dir
+364830:10e065 new or existing file (use LLBs)
+370469:168abf Writes a character string to a new byte stream file or appends the string to an existing file. The VI opens or creates the file beforehand and closes it afterwards.
+370472:168c7b append to file? Set to TRUE if you want to append the data to a existing file; you can also set it TRUE to write to a new file. Set to FALSE (default value) if you want to write the data to a new file or to replace an existing file.
+370477:16904b append to file. Set to TRUE if you want to append the data to a existing file; you can also set it TRUE to write to a new file. Set to FALSE (default value) if you want to write the data to a new file or to replace an existing file.
+373966:1ace32 new or existing file existing dir
+373971:1ace9d new or existing file (use LLBs)
+374068:1ae7ec new or existing file existing dir
+374073:1ae857 new or existing file (use LLBs)
+394243:30c629 1 (open or create) opens an existing file or creates a new file if one does not exist.
+404059:3a5a44 Writes a character string to a new byte stream file or appends the string to an existing file. The VI opens or creates the file beforehand and closes it afterwards.
+404062:3a5c00 append to file? Set to TRUE if you want to append the data to a existing file; you can also set it TRUE to write to a new file. Set to FALSE (default value) if you want to write the data to a new file or to replace an existing file.
+404897:3b4152 new or existing file existing dir
+404902:3b41bd new or existing file (use LLBs)
+404909:3b422f new or existing file existing dir
+404914:3b429a new or existing file (use LLBs)
+404940:3b48cf new or existing file existing dir
+404945:3b493a new or existing file (use LLBs)
+406115:3caff1 new or existing file existing dir
+406120:3cb05c new or existing file (use LLBs)
+406179:3cb8f9 1 (open or create) opens an existing file or creates a new file if one does not exist.
+406201:3cc71f opens an existing file or creates a new file if one does not exist.
+406242:3ccfa6 new or existing file existing dir
+406247:3cd011 new or existing file (use LLBs)
+412881:43bb58 new or existing file existing dir
+412886:43bbc3 new or existing file (use LLBs)
+412893:43bc36 new or existing file existing dir
+412898:43bca1 new or existing file (use LLBs)
+413242:43d9b7 new or existing file existing dir
+413247:43da22 new or existing file (use LLBs)
+491301:e1f70 new or existing file existing dir
+491306:e1fdb new or existing file (use LLBs)
+491315:e2084 new or existing file existing dir
+491320:e20ef new or existing file (use LLBs)
+492145:ef7da new or existing file existing dir
+492150:ef845 new or existing file (use LLBs)
+493308:10aab6 new or existing file existing dir
+493313:10ab21 new or existing file (use LLBs)
+493679:110e6e new or existing file existing dir
+493684:110ed9 new or existing file (use LLBs)
+494588:12700b new or existing file existing dir
+494593:127076 new or existing file (use LLBs)
+494943:12c781 new or existing file existing dir
+494948:12c7ec new or existing file (use LLBs)
+503359:1cf7ce Writes a character string to a new byte stream file or appends the string to an existing file. The VI opens or creates the file beforehand and closes it afterwards.
+503362:1cf98a append to file? Set to TRUE if you want to append the data to a existing file; you can also set it TRUE to write to a new file. Set to FALSE (default value) if you want to write the data to a new file or to replace an existing file.
+503507:1d0f37 append to file. Set to TRUE if you want to append the data to a existing file; you can also set it TRUE to write to a new file. Set to FALSE (default value) if you want to write the data to a new file or to replace an existing file.
+505741:205c97 new or existing file existing dir
+505746:205d02 new or existing file (use LLBs)
+505899:2085c9 new or existing file existing dir
+505904:208634 new or existing file (use LLBs)
+520835:33bf21 1 (open or create) opens an existing file or creates a new file if one does not exist.
+527396:3b4690 Writes a character string to a new byte stream file or appends the string to an existing file. The VI opens or creates the file beforehand and closes it afterwards.
+527399:3b484c append to file? Set to TRUE if you want to append the data to a existing file; you can also set it TRUE to write to a new file. Set to FALSE (default value) if you want to write the data to a new file or to replace an existing file.
+527511:3b7029 new or existing file existing dir
+527516:3b7094 new or existing file (use LLBs)
+527995:3c47d6 new or existing file existing dir
+528000:3c4841 new or existing file (use LLBs)
+528193:3c8060 1 (open or create) opens an existing file or creates a new file if one does not exist.
+528234:3c8bf3 new or existing file existing dir
+528239:3c8c5e new or existing file (use LLBs)
+528605:3cca1b opens an existing file or creates a new file if one does not exist.
+595369:d5299 1 (open or create) opens an existing file or creates a new file if one does not exist.
+595660:de9f2 new or existing file existing dir
+595665:dea5d new or existing file (use LLBs)
+595858:e227c 1 (open or create) opens an existing file or creates a new file if one does not exist.
+595899:e2e0f new or existing file existing dir
+595904:e2e7a new or existing file (use LLBs)
+596270:e6c37 opens an existing file or creates a new file if one does not exist.
+596795:f58f0 Writes a character string to a new byte stream file or appends the string to an existing file. The VI opens or creates the file beforehand and closes it afterwards.
+596798:f5aac append to file? Set to TRUE if you want to append the data to a existing file; you can also set it TRUE to write to a new file. Set to FALSE (default value) if you want to write the data to a new file or to replace an existing file.
+608417:1b6db0 Writes a character string to a new byte stream file or appends the string to an existing file. The VI opens or creates the file beforehand and closes it afterwards.
+608420:1b6f6c append to file? Set to TRUE if you want to append the data to a existing file; you can also set it TRUE to write to a new file. Set to FALSE (default value) if you want to write the data to a new file or to replace an existing file.

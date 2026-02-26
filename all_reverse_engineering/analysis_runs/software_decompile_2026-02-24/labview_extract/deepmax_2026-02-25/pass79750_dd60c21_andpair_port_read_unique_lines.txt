@@ -1,0 +1,302 @@
+52690:1c0c71 Serial Port Read.vi
+70386:2cf70c CINStartLoad: loaderror= %d, error=%ldLV_DIG_PORT_READSetCINArraySize, elmtNum %ld out of range 0 <= elmtNum < %ldnon-array detected
+75739:323a21 uqReads the number of characters specified by requested byte count from the serial port indicated in port number.
+75743:323adf Serial Port Read.vi
+75747:323c1d Serial Port Read.vi
+75750:323c56 Serial Port Read.vi
+75759:323cee Serial Port Read.vi
+75783:323f3b Serial Port Read.vi,
+75827:32427d Serial Port Read.vi
+75828:324291 Serial Port Read.vi
+75829:3242a5 Serial Port Read.vi
+75830:3242b9 Serial Port Read.vi
+75831:3242cd Serial Port Read.vi
+75832:3242e1 Serial Port Read.vi
+75833:3242f5 Serial Port Read.vi
+75834:324309 Serial Port Read.vi
+75835:32431d Serial Port Read.vi
+75836:324331 Serial Port Read.vi
+75837:324345 Serial Port Read.vi
+75838:324359 Serial Port Read.vi
+75839:32436d Serial Port Read.vi
+75840:324381 Serial Port Read.vi
+75841:324395 Serial Port Read.vi
+75842:3243a9 Serial Port Read.vi
+76272:32c809 Serial Port Read.vic
+76286:32c96b Serial Port Read.vi
+76299:32ca2a Serial Port Read.vi
+76366:32d365 Serial Port Read.vi
+76371:32d3d0 Serial Port Read.vi
+76698:33384b Serial Port Read.via
+76712:333a03 Serial Port Read.vi
+76719:333a84 Serial Port Read.vi
+76789:3343d5 Serial Port Read.vi
+76794:334440 Serial Port Read.vi
+77821:344572 Serial Port Read.viMD
+77838:34469e Serial Port Read.vi
+77845:34472a Serial Port Read.vi
+77934:345255 Serial Port Read.vi
+77939:3452c0 Serial Port Read.vi
+102415:4c87d4 DAQ overFlowErr: Because of system limitations, the driver could not read data from the device fast enough to keep up with the device throughput; the onboard device memory reported an overflow error.
+120204:5ed42c Serial Port Read.vi
+241002:11301c CINStartLoad: loaderror= %d, error=%ldLV_DIG_PORT_READSetCINArraySize, elmtNum %ld out of range 0 <= elmtNum < %ldnon-array detected
+245912:15ed97 Serial Port Read.vi
+246060:162361 uqReads the number of characters specified by requested byte count from the serial port indicated in port number.
+246064:16241f Serial Port Read.vi
+246068:16255d Serial Port Read.vi
+246071:162596 Serial Port Read.vi
+246080:16262e Serial Port Read.vi
+246104:16287b Serial Port Read.vi,
+246148:162bbd Serial Port Read.vi
+246149:162bd1 Serial Port Read.vi
+246150:162be5 Serial Port Read.vi
+246151:162bf9 Serial Port Read.vi
+246152:162c0d Serial Port Read.vi
+246153:162c21 Serial Port Read.vi
+246154:162c35 Serial Port Read.vi
+246155:162c49 Serial Port Read.vi
+246156:162c5d Serial Port Read.vi
+246157:162c71 Serial Port Read.vi
+246158:162c85 Serial Port Read.vi
+246159:162c99 Serial Port Read.vi
+246160:162cad Serial Port Read.vi
+246161:162cc1 Serial Port Read.vi
+246162:162cd5 Serial Port Read.vi
+246163:162ce9 Serial Port Read.vi
+246164:162d03 qReads the number of characters specified by requested byte count from the serial port indicated in port number.
+246607:16b435 Serial Port Read.vic
+246621:16b597 Serial Port Read.vi
+246634:16b656 Serial Port Read.vi
+246701:16bf91 Serial Port Read.vi
+246706:16bffc Serial Port Read.vi
+247042:1725a3 Serial Port Read.via
+247056:17275b Serial Port Read.vi
+247063:1727dc Serial Port Read.vi
+247133:17312d Serial Port Read.vi
+247138:173198 Serial Port Read.vi
+248201:18368e Serial Port Read.viMD
+248218:1837ba Serial Port Read.vi
+248225:183846 Serial Port Read.vi
+248314:184371 Serial Port Read.vi
+248319:1843dc Serial Port Read.vi
+260848:2413ac DAQ overFlowErr: Because of system limitations, the driver could not read data from the device fast enough to keep up with the device throughput; the onboard device memory reported an overflow error.
+291569:44301d Serial Port Read.vi
+291924:4472a5 Serial Port Read.vi
+291925:4472b9 Serial Port Read.vi
+291926:4472cd Serial Port Read.vi
+291927:4472e1 Serial Port Read.vi
+291928:4472f5 Serial Port Read.vi
+308133:e838f Serial Port Read.vi
+308282:eb956 uqReads the number of characters specified by requested byte count from the serial port indicated in port number.
+308284:eba13 Serial Port Read.vi
+308288:ebb4b Serial Port Read.vi
+308291:ebb83 Serial Port Read.vi
+308300:ebc18 Serial Port Read.vi
+308324:ebe63 Serial Port Read.vi,
+308368:ec1ab Serial Port Read.vi
+308369:ec1bf Serial Port Read.vi
+308370:ec1d3 Serial Port Read.vi
+308371:ec1e7 Serial Port Read.vi
+308372:ec1fb Serial Port Read.vi
+308373:ec20f Serial Port Read.vi
+308374:ec223 Serial Port Read.vi
+308375:ec237 Serial Port Read.vi
+308376:ec24b Serial Port Read.vi
+308377:ec25f Serial Port Read.vi
+308378:ec273 Serial Port Read.vi
+308379:ec287 Serial Port Read.vi
+308380:ec29b Serial Port Read.vi
+308381:ec2af Serial Port Read.vi
+308382:ec2c3 Serial Port Read.vi
+308383:ec2d7 Serial Port Read.vi
+308384:ec2f3 qReads the number of characters specified by requested byte count from the serial port indicated in port number.
+308822:f4a07 Serial Port Read.vic
+308837:f4b61 Serial Port Read.vi
+308850:f4c1d Serial Port Read.vi
+308917:f5556 Serial Port Read.vi
+308922:f55c1 Serial Port Read.vie
+309265:fbb5e Serial Port Read.via
+309280:fbd08 Serial Port Read.vi
+309287:fbd86 Serial Port Read.vi
+309357:fc6d5 Serial Port Read.vi
+309362:fc740 Serial Port Read.vi
+310421:10cc13 Serial Port Read.viMD
+310438:10cd39 Serial Port Read.vi
+310445:10cdc2 Serial Port Read.vi
+310534:10d8e9 Serial Port Read.vi
+310539:10d954 Serial Port Read.vi
+313447:13f792 CINStartLoad: loaderror= %d, error=%ldLV_DIG_PORT_READSetCINArraySize, elmtNum %ld out of range 0 <= elmtNum < %ldnon-array detected
+314856:15ef7d DAQ overFlowErr: Because of system limitations, the driver could not read data from the device fast enough to keep up with the device throughput; the onboard device memory reported an overflow error.
+323988:1f4779 Serial Port Read.vi
+324226:1f73e9 Serial Port Read.vi
+324227:1f73fd Serial Port Read.vi
+324228:1f7411 Serial Port Read.vi
+324229:1f7425 Serial Port Read.vi
+324230:1f7439 Serial Port Read.vi
+339919:dec6b CINStartLoad: loaderror= %d, error=%ldLV_DIG_PORT_READSetCINArraySize, elmtNum %ld out of range 0 <= elmtNum < %ldnon-array detected
+341333:fe54d DAQ overFlowErr: Because of system limitations, the driver could not read data from the device fast enough to keep up with the device throughput; the onboard device memory reported an overflow error.
+360269:bd1d7 Serial Port Read.vi
+361876:d8adb Serial Port Read.vi
+371286:17adce DAQ overFlowErr: Because of system limitations, the driver could not read data from the device fast enough to keep up with the device throughput; the onboard device memory reported an overflow error.
+394313:30f2ec Serial Port Read.vi
+394318:30f35d Serial Port Read.vi
+394584:31223b Serial Port Read.vi
+394695:313192 Serial Port Read.viMD
+394719:31395a Serial Port Read.vi
+395583:321fbe Serial Port Read.vi
+395588:32202f Serial Port Read.vi
+395807:324773 Serial Port Read.vi
+395888:325378 Serial Port Read.via
+395918:325f96 Serial Port Read.vi
+396037:32952b Serial Port Read.vi
+396042:32959c Serial Port Read.vi
+396241:32b67c Serial Port Read.vi
+396321:32c2de Serial Port Read.vic
+396348:32cda2 Serial Port Read.vi
+396721:3333ee Serial Port Read.vi
+396723:3334bd Serial Port Read.vi
+396879:334cd5 Serial Port Read.vi
+396892:334dbb uqReads the number of characters specified by requested byte count from the serial port indicated in port number.
+396940:3357f4 Serial Port Read.vi
+396947:335c47 Serial Port Read.vi
+397014:336ad6 Serial Port Read.vi
+402597:38f281 CINStartLoad: loaderror= %d, error=%ldLV_DIG_PORT_READSetCINArraySize, elmtNum %ld out of range 0 <= elmtNum < %ldnon-array detected
+404007:3a3a37 qReads the number of characters specified by requested byte count from the serial port indicated in port number.
+416836:47ed85 Serial Port Read.vi
+417092:482739 Serial Port Read.vi
+417241:48309d Serial Port Read.vi
+417242:4830b1 Serial Port Read.vi
+417243:4830c5 Serial Port Read.vi
+417244:4830d9 Serial Port Read.vi
+431065:bce3b Serial Port Read.vi
+431819:c8ec3 Serial Port Read.vi
+433987:ee9f1 DAQ overFlowErr: Because of system limitations, the driver could not read data from the device fast enough to keep up with the device throughput; the onboard device memory reported an overflow error.
+435371:10d85e CINStartLoad: loaderror= %d, error=%ldLV_DIG_PORT_READSetCINArraySize, elmtNum %ld out of range 0 <= elmtNum < %ldnon-array detected
+438476:142624 Serial Port Read.vi
+438481:142695 Serial Port Read.vi,
+438747:145574 Serial Port Read.vi
+438859:1464e3 Serial Port Read.viMD
+438882:146c93 Serial Port Read.vi
+439764:1552d6 Serial Port Read.vi
+439769:155347 Serial Port Read.vi
+439988:157a8c Serial Port Read.vi
+440070:158692 Serial Port Read.via
+440101:1592b0 Serial Port Read.vi
+440225:15c847 Serial Port Read.vi
+440230:15c8b8 Serial Port Read.vi
+440428:15e998 Serial Port Read.vi
+440508:15f5fa Serial Port Read.vic
+440534:1600be Serial Port Read.vi
+440911:166736 Serial Port Read.vi
+440914:166805 Serial Port Read.vi
+441070:16801e Serial Port Read.vi
+441083:168104 uqReads the number of characters specified by requested byte count from the serial port indicated in port number.
+441131:168b3d Serial Port Read.vi
+441138:168f91 Serial Port Read.vi
+441208:169e20 Serial Port Read.vi
+442990:185467 qReads the number of characters specified by requested byte count from the serial port indicated in port number.
+452459:21349d Serial Port Read.vi
+452660:215ddd Serial Port Read.vi
+452726:2162c1 Serial Port Read.vi
+452727:2162d5 Serial Port Read.vi
+452728:2162e9 Serial Port Read.vi
+452729:2162fd Serial Port Read.vi
+468764:e367d CINStartLoad: loaderror= %d, error=%ldLV_DIG_PORT_READSetCINArraySize, elmtNum %ld out of range 0 <= elmtNum < %ldnon-array detected
+469966:fdf72 DAQ overFlowErr: Because of system limitations, the driver could not read data from the device fast enough to keep up with the device throughput; the onboard device memory reported an overflow error.
+489485:bd1d7 Serial Port Read.vi
+490378:ce997 Serial Port Read.vi
+503796:1dbd6f DAQ overFlowErr: Because of system limitations, the driver could not read data from the device fast enough to keep up with the device throughput; the onboard device memory reported an overflow error.
+519673:32ccf1 Serial Port Read.vi
+519678:32cd62 Serial Port Read.vi
+519732:32d46f Serial Port Read.vi
+519873:32f1fe Serial Port Read.viHD
+519896:32f9c1 Serial Port Read.vi
+520879:33e7ba Serial Port Read.vi
+520884:33e82b Serial Port Read.vir
+520926:33edb6 Serial Port Read.vi
+521041:3406b1 Serial Port Read.via
+521072:3412da Serial Port Read.vi
+521188:34442d Serial Port Read.vi
+521193:34449e Serial Port Read.vi
+521237:344999 Serial Port Read.vi
+521355:3460d5 Serial Port Read.vic
+521381:346ba2 Serial Port Read.vi
+521633:34bebe Serial Port Read.vi
+521670:34c337 Serial Port Read.vi
+521719:34caa8 uqReads the number of characters specified by requested byte count from the serial port indicated in port number.
+521746:34cee3 Serial Port Read.vi
+521773:34d947 Serial Port Read.vi
+521829:34e767 Serial Port Read.vi
+525247:38d246 CINStartLoad: loaderror= %d, error=%ldLV_DIG_PORT_READSetCINArraySize, elmtNum %ld out of range 0 <= elmtNum < %ldnon-array detected
+527344:3b2683 qReads the number of characters specified by requested byte count from the serial port indicated in port number.
+529263:3d8d71 Serial Port Read.vi
+529554:3de875 Serial Port Read.vi
+529706:3df1fa Serial Port Read.vi
+529707:3df20e Serial Port Read.vi
+529708:3df222 Serial Port Read.vi
+529709:3df236 Serial Port Read.vi
+543533:bce3b Serial Port Read.vi
+544281:c8e6b Serial Port Read.vi
+546362:ed901 DAQ overFlowErr: Because of system limitations, the driver could not read data from the device fast enough to keep up with the device throughput; the onboard device memory reported an overflow error.
+547746:10c76e CINStartLoad: loaderror= %d, error=%ldLV_DIG_PORT_READSetCINArraySize, elmtNum %ld out of range 0 <= elmtNum < %ldnon-array detected
+556363:1a3f17 qReads the number of characters specified by requested byte count from the serial port indicated in port number.
+556612:1a9e3a Serial Port Read.vi
+556617:1a9eab Serial Port Read.viV
+556671:1aa5b8 Serial Port Read.vi
+556812:1ac361 Serial Port Read.viHD4J3
+556835:1acb0b Serial Port Read.vi
+557469:1b88bf Serial Port Read.vi
+557474:1b8930 Serial Port Read.vi
+557516:1b8eba Serial Port Read.vi
+557632:1ba7b6 Serial Port Read.via
+557662:1bb3de Serial Port Read.vi
+557781:1be535 Serial Port Read.vi
+557786:1be5a6 Serial Port Read.vi
+557830:1beaa2 Serial Port Read.vi
+557948:1c01dd Serial Port Read.vic
+557975:1c0caa Serial Port Read.vi
+558238:1c5ff1 Serial Port Read.vi
+558275:1c646c Serial Port Read.vi
+558323:1c6bdd uqReads the number of characters specified by requested byte count from the serial port indicated in port number.
+558350:1c7018 Serial Port Read.vi
+558378:1c7a7d Serial Port Read.vi
+558436:1c889d Serial Port Read.vi
+560371:1e6001 Serial Port Read.vi
+560570:1e9055 Serial Port Read.vi
+560675:1e9888 Serial Port Read.vi
+560676:1e989c Serial Port Read.vi
+560677:1e98b0 Serial Port Read.vi
+560678:1e98c4 Serial Port Read.vi
+578576:14d17e CINStartLoad: loaderror= %d, error=%ldLV_DIG_PORT_READSetCINArraySize, elmtNum %ld out of range 0 <= elmtNum < %ldnon-array detected
+579215:15fc33 DAQ overFlowErr: Because of system limitations, the driver could not read data from the device fast enough to keep up with the device throughput; the onboard device memory reported an overflow error.
+595041:ce3a3 Serial Port Read.vi
+596743:f38e3 qReads the number of characters specified by requested byte count from the serial port indicated in port number.
+596951:f7ee5 Serial Port Read.vi
+600491:130913 Serial Port Read.vi
+600501:130b2f Serial Port Read.vi
+600529:131143 qReads the number of characters specified by requested byte count from the serial port indicated in port number.
+600531:13124f Serial Port Read.vi
+600560:131973 Serial Port Read.vi
+600630:132729 Serial Port Read.vi
+600777:1347c1 Serial Port Read.viPTH0
+600778:1347e2 Serial Port Read.vi
+600794:134ad9 Serial Port Read.viPTH0
+600821:135389 Serial Port Read.vi
+600884:13626d Serial Port Read.viPTH0
+600885:13628e Serial Port Read.vi
+600961:1374f1 Serial Port Read.viPTH0
+600962:137512 Serial Port Read.vi
+600973:1377f1 Serial Port Read.viPTH0
+601005:13823d Serial Port Read.vi
+601062:139165 Serial Port Read.viPTH0
+601063:139186 Serial Port Read.vi
+601364:13e115 Serial Port Read.viPTH0
+601365:13e136 Serial Port Read.vi
+601378:13e491 Serial Port Read.viPTH0
+601411:13ef9d Serial Port Read.vi
+601466:13fd91 Serial Port Read.viPTH0
+601467:13fdb2 Serial Port Read.vi
+612472:1f7480 Serial Port Read.vi
+612473:1f7494 Serial Port Read.vi
+612474:1f74a8 Serial Port Read.vi
+612566:a2b \\Atlas\Shared\Cal-Test\LC103\Source\lv8\103f_cal.llb\DIO Port Read.vi (DIO Port Read.vi)

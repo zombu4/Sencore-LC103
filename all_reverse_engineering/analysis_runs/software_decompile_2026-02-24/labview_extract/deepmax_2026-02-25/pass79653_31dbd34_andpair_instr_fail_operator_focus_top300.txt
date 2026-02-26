@@ -1,0 +1,4 @@
+46154:15944b Failure %s: "%s" line %ld\n\nRecord this information and contact National Instruments for Technical Support.
+46606:15c041 CreateKey(instr) failed
+47074:15f270 NewInstr Failed
+52241:1ba7e7 Failure %s: \"%s\", line %ld\nLabVIEW version %p\nPlease record the preceding information and contact National Instruments for technical support

@@ -1,0 +1,8 @@
+100208:49d328 ^Zerror status is TRUE if the error in cluster or any of the error codes reflects an error.
+100480:4a17b6 If the error in cluster has a status of no-error, then test each element of error codes array, stopping on the first non-zero value or after all are tested; pick the selected line from the optional source messages as the error out source.
+258562:214708 ^Zerror status is TRUE if the error in cluster or any of the error codes reflects an error.
+258834:218b96 If the error in cluster has a status of no-error, then test each element of error codes array, stopping on the first non-zero value or after all are tested; pick the selected line from the optional source messages as the error out source.
+373373:1a222f ^Zerror status is TRUE if the error in cluster or any of the error codes reflects an error.
+373410:1a2bb5 If the error in cluster has a status of no-error, then test each element of error codes array, stopping on the first non-zero value or after all are tested; pick the selected line from the optional source messages as the error out source.
+505508:1ffb22 If the error in cluster has a status of no-error, then test each element of error codes array, stopping on the first non-zero value or after all are tested; pick the selected line from the optional source messages as the error out source.
+505538:200976 Zerror status is TRUE if the error in cluster or any of the error codes reflects an error.

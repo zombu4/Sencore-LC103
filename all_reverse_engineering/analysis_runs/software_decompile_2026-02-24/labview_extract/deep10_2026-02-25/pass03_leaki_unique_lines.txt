@@ -1,0 +1,65 @@
+"""<- number of leakage current testsH
+--------------LOAD SELECT--------------------------------------
+0          Sense Resistor
+1          Approx. Current
+1.111E6'
+1.111E6S
+10mA   T
+2          Cal Box Setup #
+3          8842 Mult. factorU
+DVM Resistance
+DVM Resistance 
+DVM Resistance6
+DVM Resistance@
+DVM ResistanceH
+DVM ResistanceL
+DVM ResistanceT
+LEAK_I.VI
+LEAK_I.VIH
+LEAK_I.VIHD
+LEAK_I.VIMD
+LEAK_I.VIO
+LEAK_I.VIPTH0
+LEAK_I.VIRE
+LEAK_I.VIU
+LEAK_I.VIVI
+LEAK_I.VIW
+LEAK_I.VI`
+LEAK_I.VIs
+LEAK_I.VIt
+Leakage Current
+Leakage Current 
+Leakage Current N
+Leakage Current R
+Leakage Current Test
+Leakage Current TestHDl
+Leakage Current TestPD
+Leakage Current TestV
+Leakage Current TestW
+Leakage Current TestY
+Leakage Current Test`
+Leakage Current TestfConnect the UUT and/or DVM leads to
+Leakage CurrentND
+Leakage current test.vi
+Leakage current test.vi-
+Leakage current test.viR
+Leakage current test.vir
+Load Select
+Load Select 
+Load Select"
+Load Select"/
+Load Select"=
+Load Select"B
+Load Select"N
+Load Select"O
+Load Select&
+Load Select* P
+Load Select2
+Load SelectL
+Load SelectP
+Load SelectPTH0
+Load Selectd2
+Load Selectd=
+Load SelectdB
+Load SelectdO
+\\Atlas\Shared\Cal-Test\LC103\Source\lv8\103f_cal.llb\LEAK_I.VI (LEAK_I.VI)

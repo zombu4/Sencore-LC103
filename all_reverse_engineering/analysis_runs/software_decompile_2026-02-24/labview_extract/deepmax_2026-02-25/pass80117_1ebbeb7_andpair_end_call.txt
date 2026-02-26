@@ -1,0 +1,2 @@
+38686:602dc CheckPendingCalls
+47043:15ee60 The vi %p calls Unflatten from String or Type Cast to a type containing an extended float.  If the input data to these functions comes from a file, you must convert extended floats in the file to LV 3.0 format.

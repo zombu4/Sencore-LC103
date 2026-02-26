@@ -1,0 +1,27 @@
+51998:1b89b4 End of file encountered.
+51999:1b89cd File is already open. Generic file I/O error occurred.
+52001:1b8a14 File permission error occurred.
+52365:1bbb43 The "%p" VI's log file binding is corrupt and has been cleared. To restore the VI's log file binding, open the VI and select the File->Data Logging->Change Log File Binding... menu item.
+102405:4c5e8c DSP NoBrdRespToTransfer: The DSP board on which you are trying to load the COFF file is not responding to the transfer of the file. Check if there is a board in the slot desired and verify with the DAQCONF utility.
+111777:565068 yustart of read offset is the position in the file, measured in characters (or bytes), at which the VI begins reading.
+112347:56c4a9 start of read offset is the position in the file, measured in characters (or bytes), at which the VI begins reading.
+260838:23ea64 DSP NoBrdRespToTransfer: The DSP board on which you are trying to load the COFF file is not responding to the transfer of the file. Check if there is a board in the slot desired and verify with the DAQCONF utility.
+270306:2df7bc yustart of read offset is the position in the file, measured in characters (or bytes), at which the VI begins reading.
+270876:2e6bfd start of read offset is the position in the file, measured in characters (or bytes), at which the VI begins reading.
+271323:2e9400 start of read offset is the position in the file, measured in characters (or bytes), at which the VI begins reading.
+314846:15c635 DSP NoBrdRespToTransfer: The DSP board on which you are trying to load the COFF file is not responding to the transfer of the file. Check if there is a board in the slot desired and verify with the DAQCONF utility.
+341323:fbc05 DSP NoBrdRespToTransfer: The DSP board on which you are trying to load the COFF file is not responding to the transfer of the file. Check if there is a board in the slot desired and verify with the DAQCONF utility.
+366633:13086f start of read offset is the position in the file, measured in characters (or bytes), at which the VI begins reading.
+366639:130b9d yustart of read offset is the position in the file, measured in characters (or bytes), at which the VI begins reading.
+371276:178486 DSP NoBrdRespToTransfer: The DSP board on which you are trying to load the COFF file is not responding to the transfer of the file. Check if there is a board in the slot desired and verify with the DAQCONF utility.
+404098:3a6a04 start of read offset is the position in the file, measured in characters (or bytes), at which the VI begins reading.
+433977:ec0a9 DSP NoBrdRespToTransfer: The DSP board on which you are trying to load the COFF file is not responding to the transfer of the file. Check if there is a board in the slot desired and verify with the DAQCONF utility.
+469956:fb62a DSP NoBrdRespToTransfer: The DSP board on which you are trying to load the COFF file is not responding to the transfer of the file. Check if there is a board in the slot desired and verify with the DAQCONF utility.
+496232:149d0b start of read offset is the position in the file, measured in characters (or bytes), at which the VI begins reading.
+496402:14bbae ustart of read offset is the position in the file, measured in characters (or bytes), at which the VI begins reading.
+503786:1d9427 DSP NoBrdRespToTransfer: The DSP board on which you are trying to load the COFF file is not responding to the transfer of the file. Check if there is a board in the slot desired and verify with the DAQCONF utility.
+527435:3b5650 start of read offset is the position in the file, measured in characters (or bytes), at which the VI begins reading.
+546352:eafb9 DSP NoBrdRespToTransfer: The DSP board on which you are trying to load the COFF file is not responding to the transfer of the file. Check if there is a board in the slot desired and verify with the DAQCONF utility.
+579205:15d2eb DSP NoBrdRespToTransfer: The DSP board on which you are trying to load the COFF file is not responding to the transfer of the file. Check if there is a board in the slot desired and verify with the DAQCONF utility.
+596834:f68b0 start of read offset is the position in the file, measured in characters (or bytes), at which the VI begins reading.
+610296:1d50c8 start of read offset is the position in the file, measured in characters (or bytes), at which the VI begins reading.

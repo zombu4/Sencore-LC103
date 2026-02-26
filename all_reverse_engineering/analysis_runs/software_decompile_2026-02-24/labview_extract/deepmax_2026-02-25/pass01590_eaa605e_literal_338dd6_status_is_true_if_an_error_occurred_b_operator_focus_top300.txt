@@ -1,0 +1,1 @@
+520647:338dd6 status is TRUE if an error occurred before this VI was called, or FALSE if not. If status is TRUE, code is a non-zero error code. If status is FALSE, code can be zero or a warning code.L%

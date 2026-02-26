@@ -1,0 +1,22 @@
+51131:18cd19 Manager call not supported
+52543:1bf662 This platform does not support the current return type. For example, the return type of a 16-bit DLL function may not be a floating point number. Pop up on the Call Library Function node and select Configure... to set the return type.
+52544:1bf74d This platform does not support the type of one of the function parameters. Pop up on the Call Library Function node and select Configure... to set a valid type.
+53301:1cd883 Manager Call Not Supported
+70474:2d18c5 (u32) task ID: uniquely identifies the group. You use this value as the task ID to refer to this group in subsequent digital port VI calls.
+101134:4abcb8 Manager Call Not SupportedE
+223558:c4af Manager Call Not Supported
+241107:1154d5 (u32) task ID: uniquely identifies the group. You use this value as the task ID to refer to this group in subsequent digital port VI calls.
+259531:223d68 Manager Call Not SupportedE
+313553:141c4e (u32) task ID: uniquely identifies the group. You use this value as the task ID to refer to this group in subsequent digital port VI calls.
+340031:e1176 (u32) task ID: uniquely identifies the group. You use this value as the task ID to refer to this group in subsequent digital port VI calls.
+372500:1949ec Manager Call Not Supported&
+402190:387de7 (u32) task ID: uniquely identifies the group. You use this value as the task ID to refer to this group in subsequent digital port VI calls.
+406586:3cf57d Manager Call Not Supported
+434963:1063c5 (u32) task ID: uniquely identifies the group. You use this value as the task ID to refer to this group in subsequent digital port VI calls.
+469230:eb878 (u32) task ID: uniquely identifies the group. You use this value as the task ID to refer to this group in subsequent digital port VI calls.
+504889:1f4811 Manager Call Not Supported&
+525022:38882a (u32) task ID: uniquely identifies the group. You use this value as the task ID to refer to this group in subsequent digital port VI calls.
+528563:3cb1af Manager Call Not Supported
+547338:1052d5 (u32) task ID: uniquely identifies the group. You use this value as the task ID to refer to this group in subsequent digital port VI calls.
+578951:154b15 (u32) task ID: uniquely identifies the group. You use this value as the task ID to refer to this group in subsequent digital port VI calls.
+596228:e53cb Manager Call Not Supported

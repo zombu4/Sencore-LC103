@@ -1,0 +1,42 @@
+52473:1bd1e4 unassigned sequence local(s).N is unwired, and there are no indexing inputs,array, cluster, or RefNum has undefined type
+52524:1be4f3 One or more required inputs to this function are not wired or are wired incorrectly. Show the Help window to see what the connections to this function should be.
+70067:2cabd9 xt(bool) status: TRUE if an error has occurred. Regardless of the value of status, this VI clears the input operation."
+70482:2d1b57 xt(bool) status: TRUE if an error has occurred. Regardless of the value of status, this VI clears the input operation.
+102377:4c52e4 This error code is not listed in the internal database, or you have wired a number that is not an error code (such as a DAQ task ID) to the error code input.PD
+102543:4d083f This error code is not listed in the internal database, or you have wired a number that is not an error code (such as a DAQ task ID) to the error code input.6Windows GetCommError:  The hex value of this code is x
+240683:10e4e9 xt(bool) status: TRUE if an error has occurred. Regardless of the value of status, this VI clears the input operation."
+241115:115767 xt(bool) status: TRUE if an error has occurred. Regardless of the value of status, this VI clears the input operation.
+260810:23debc This error code is not listed in the internal database, or you have wired a number that is not an error code (such as a DAQ task ID) to the error code input.PD
+260976:249417 This error code is not listed in the internal database, or you have wired a number that is not an error code (such as a DAQ task ID) to the error code input.6Windows GetCommError:  The hex value of this code is x
+313127:13ac6e xt(bool) status: TRUE if an error has occurred. Regardless of the value of status, this VI clears the input operation."
+313561:141ee0 xt(bool) status: TRUE if an error has occurred. Regardless of the value of status, this VI clears the input operation.
+314818:15baab This error code is not listed in the internal database, or you have wired a number that is not an error code (such as a DAQ task ID) to the error code input.PD
+314984:166fe8 This error code is not listed in the internal database, or you have wired a number that is not an error code (such as a DAQ task ID) to the error code input.6Windows GetCommError:  The hex value of this code is x
+339594:da146 xt(bool) status: TRUE if an error has occurred. Regardless of the value of status, this VI clears the input operation."
+340039:e1408 xt(bool) status: TRUE if an error has occurred. Regardless of the value of status, this VI clears the input operation.
+341295:fb07b This error code is not listed in the internal database, or you have wired a number that is not an error code (such as a DAQ task ID) to the error code input.PD
+341461:1065b8 This error code is not listed in the internal database, or you have wired a number that is not an error code (such as a DAQ task ID) to the error code input.6Windows GetCommError:  The hex value of this code is x
+371417:182ea7 This error code is not listed in the internal database, or you have wired a number that is not an error code (such as a DAQ task ID) to the error code input.
+371570:185f51 This error code is not listed in the internal database, or you have wired a number that is not an error code (such as a DAQ task ID) to the error code input.QE
+402198:388079 xt(bool) status: TRUE if an error has occurred. Regardless of the value of status, this VI clears the input operation.
+402632:38f9f7 xt(bool) status: TRUE if an error has occurred. Regardless of the value of status, this VI clears the input operation.
+434118:f6aca This error code is not listed in the internal database, or you have wired a number that is not an error code (such as a DAQ task ID) to the error code input.
+434269:f9b74 This error code is not listed in the internal database, or you have wired a number that is not an error code (such as a DAQ task ID) to the error code input.QE
+434971:106657 xt(bool) status: TRUE if an error has occurred. Regardless of the value of status, this VI clears the input operation.
+435406:10dfd4 xt(bool) status: TRUE if an error has occurred. Regardless of the value of status, this VI clears the input operation.
+468799:e3df4 xt(bool) status: TRUE if an error has occurred. Regardless of the value of status, this VI clears the input operation.
+469238:ebb0a xt(bool) status: TRUE if an error has occurred. Regardless of the value of status, this VI clears the input operation.
+470097:10604b This error code is not listed in the internal database, or you have wired a number that is not an error code (such as a DAQ task ID) to the error code input.
+470247:1090f5 This error code is not listed in the internal database, or you have wired a number that is not an error code (such as a DAQ task ID) to the error code input.QE
+503927:1e3e51 This error code is not listed in the internal database, or you have wired a number that is not an error code (such as a DAQ task ID) to the error code input.
+525021:3887b0 t(bool) status: TRUE if an error has occurred. Regardless of the value of status, this VI clears the input operation.
+525327:38e66d t(bool) status: TRUE if an error has occurred. Regardless of the value of status, this VI clears the input operation.
+525606:393db8 t(bool) status: TRUE if an error has occurred. Regardless of the value of status, this VI clears the input operation.
+546493:f59da This error code is not listed in the internal database, or you have wired a number that is not an error code (such as a DAQ task ID) to the error code input.
+546644:f8a84 This error code is not listed in the internal database, or you have wired a number that is not an error code (such as a DAQ task ID) to the error code input.QE
+547346:105567 xt(bool) status: TRUE if an error has occurred. Regardless of the value of status, this VI clears the input operation.
+547781:10cee4 xt(bool) status: TRUE if an error has occurred. Regardless of the value of status, this VI clears the input operation.
+578366:14870d t(bool) status: TRUE if an error has occurred. Regardless of the value of status, this VI clears the input operation.
+578659:14e5a6 t(bool) status: TRUE if an error has occurred. Regardless of the value of status, this VI clears the input operation.
+578950:154a9b t(bool) status: TRUE if an error has occurred. Regardless of the value of status, this VI clears the input operation.
+579346:167d15 This error code is not listed in the internal database, or you have wired a number that is not an error code (such as a DAQ task ID) to the error code input.

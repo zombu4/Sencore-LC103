@@ -1,0 +1,105 @@
+100480:4a17b6 If the error in cluster has a status of no-error, then test each element of error codes array, stopping on the first non-zero value or after all are tested; pick the selected line from the optional source messages as the error out source.
+103422:4dca2d You can control the number of lines in a port by the parameter port width.  You also have the option of not reconfiguring the port as an output port with each iteration of the VI by setting the iteration control to a non-zero value.
+258834:218b96 If the error in cluster has a status of no-error, then test each element of error codes array, stopping on the first non-zero value or after all are tested; pick the selected line from the optional source messages as the error out source.
+261872:255e51 You can control the number of lines in a port by the parameter port width.  You also have the option of not reconfiguring the port as an output port with each iteration of the VI by setting the iteration control to a non-zero value.
+262040:257002 You can control the number of lines in a port by the parameter port width.  You also have the option of not reconfiguring the port as an output port with each iteration of the VI by setting the iteration control to a non-zero value.
+315374:16d430 You can control the number of lines in a port by the parameter port width.  You also have the option of not reconfiguring the port as an output port with each iteration of the VI by setting the iteration control to a non-zero value.
+315540:16e5d6 You can control the number of lines in a port by the parameter port width.  You also have the option of not reconfiguring the port as an output port with each iteration of the VI by setting the iteration control to a non-zero value.
+341596:1075f6 You can control the number of lines in a port by the parameter port width.  You also have the option of not reconfiguring the port as an output port with each iteration of the VI by setting the iteration control to a non-zero value.
+341860:10cabd You can control the number of lines in a port by the parameter port width.  You also have the option of not reconfiguring the port as an output port with each iteration of the VI by setting the iteration control to a non-zero value.
+361417:d3bc6 The pop-up option Explain Error (or Explain Warning) gives more information about the error displayed.
+361419:d3c6f The pop-up option Explain Error (or Explain Warning) gives more information about the error displayed.
+361421:d3d08 The pop-up option Explain Error (or Explain Warning) gives more information about the error displayed.
+361431:d403f The pop-up option Explain Error (or Explain Warning) gives more information about the error displayed.
+361433:d40d8 The pop-up option Explain Error (or Explain Warning) gives more information about the error displayed.
+369993:1621f7 You can control the number of lines in a port by the parameter port width.  You also have the option of not reconfiguring the port as an output port with each iteration of the VI by setting the iteration control to a non-zero value.
+373410:1a2bb5 If the error in cluster has a status of no-error, then test each element of error codes array, stopping on the first non-zero value or after all are tested; pick the selected line from the optional source messages as the error out source.
+403398:39c61e The pop-up option Explain Error (or Explain Warning) gives more information about the error displayed.
+403400:39c6b7 The pop-up option Explain Error (or Explain Warning) gives more information about the error displayed.
+403402:39c760 The pop-up option Explain Error (or Explain Warning) gives more information about the error displayed.
+403411:39cac4 The pop-up option Explain Error (or Explain Warning) gives more information about the error displayed.
+403413:39cb6d The pop-up option Explain Error (or Explain Warning) gives more information about the error displayed.
+403415:39cc06 The pop-up option Explain Error (or Explain Warning) gives more information about the error displayed.
+404066:3a5eee You can control the number of lines in a port by the parameter port width.  You also have the option of not reconfiguring the port as an output port with each iteration of the VI by setting the iteration control to a non-zero value.
+417606:4e3d The pop-up option Explain Error (or Explain Warning) gives more information about the error displayed.
+417608:4eed The pop-up option Explain Error (or Explain Warning) gives more information about the error displayed.
+417610:4f8d The pop-up option Explain Error (or Explain Warning) gives more information about the error displayed.
+417620:52d1 The pop-up option Explain Error (or Explain Warning) gives more information about the error displayed.
+417622:5371 The pop-up option Explain Error (or Explain Warning) gives more information about the error displayed.
+417624:5421 The pop-up option Explain Error (or Explain Warning) gives more information about the error displayed.
+433235:dc554 You can control the number of lines in a port by the parameter port width.  You also have the option of not reconfiguring the port as an output port with each iteration of the VI by setting the iteration control to a non-zero value.
+443015:185e66 You can control the number of lines in a port by the parameter port width.  You also have the option of not reconfiguring the port as an output port with each iteration of the VI by setting the iteration control to a non-zero value.
+443244:189781 The pop-up option Explain Error (or Explain Warning) gives more information about the error displayed.
+443246:18981a The pop-up option Explain Error (or Explain Warning) gives more information about the error displayed.
+443248:1898c3 The pop-up option Explain Error (or Explain Warning) gives more information about the error displayed.
+443257:189c27 The pop-up option Explain Error (or Explain Warning) gives more information about the error displayed.
+443259:189cd0 The pop-up option Explain Error (or Explain Warning) gives more information about the error displayed.
+443261:189d69 The pop-up option Explain Error (or Explain Warning) gives more information about the error displayed.
+443880:192055 The pop-up option Explain Error (or Explain Warning) gives more information about the error displayed.
+443882:1920fe The pop-up option Explain Error (or Explain Warning) gives more information about the error displayed.
+443884:192197 The pop-up option Explain Error (or Explain Warning) gives more information about the error displayed.
+443894:1924ce The pop-up option Explain Error (or Explain Warning) gives more information about the error displayed.
+443896:192567 The pop-up option Explain Error (or Explain Warning) gives more information about the error displayed.
+466587:c4ac5 The pop-up option Explain Error (or Explain Warning) gives more information about the error displayed.
+466589:c4b5e The pop-up option Explain Error (or Explain Warning) gives more information about the error displayed.
+466591:c4c07 The pop-up option Explain Error (or Explain Warning) gives more information about the error displayed.
+466600:c4f6b The pop-up option Explain Error (or Explain Warning) gives more information about the error displayed.
+466602:c5014 The pop-up option Explain Error (or Explain Warning) gives more information about the error displayed.
+466604:c50ad The pop-up option Explain Error (or Explain Warning) gives more information about the error displayed.
+467315:cce46 You can control the number of lines in a port by the parameter port width.  You also have the option of not reconfiguring the port as an output port with each iteration of the VI by setting the iteration control to a non-zero value.
+467705:d323d The pop-up option Explain Error (or Explain Warning) gives more information about the error displayed.
+467707:d32e6 The pop-up option Explain Error (or Explain Warning) gives more information about the error displayed.
+467709:d337f The pop-up option Explain Error (or Explain Warning) gives more information about the error displayed.
+467719:d36b6 The pop-up option Explain Error (or Explain Warning) gives more information about the error displayed.
+467721:d374f The pop-up option Explain Error (or Explain Warning) gives more information about the error displayed.
+470943:11468a You can control the number of lines in a port by the parameter port width.  You also have the option of not reconfiguring the port as an output port with each iteration of the VI by setting the iteration control to a non-zero value.
+502995:1c89b8 You can control the number of lines in a port by the parameter port width.  You also have the option of not reconfiguring the port as an output port with each iteration of the VI by setting the iteration control to a non-zero value.
+505508:1ffb22 If the error in cluster has a status of no-error, then test each element of error codes array, stopping on the first non-zero value or after all are tested; pick the selected line from the optional source messages as the error out source.
+526215:39e2ae The pop-up option Explain Error (or Explain Warning) gives more information about the error displayed.
+526217:39e35a The pop-up option Explain Error (or Explain Warning) gives more information about the error displayed.
+526219:39e3f6 The pop-up option Explain Error (or Explain Warning) gives more information about the error displayed.,
+526229:39e767 The pop-up option Explain Error (or Explain Warning) gives more information about the error displayed.
+526231:39e837 The pop-up option Explain Error (or Explain Warning) gives more information about the error displayed. 
+526233:39e931 The pop-up option Explain Error (or Explain Warning) gives more information about the error displayed.p
+526561:3a48ec The pop-up option Explain Error (or Explain Warning) gives more information about the error displayed.
+526572:3a4d97 The pop-up option Explain Error (or Explain Warning) gives more information about the error displayed.,1
+526574:3a4e43 The pop-up option Explain Error (or Explain Warning) gives more information about the error displayed.
+526576:3a4eef The pop-up option Explain Error (or Explain Warning) gives more information about the error displayed.L1
+526578:3a4fb8 The pop-up option Explain Error (or Explain Warning) gives more information about the error displayed.
+526588:3a52d1 The pop-up option Explain Error (or Explain Warning) gives more information about the error displayed.
+527403:3b4b3a You can control the number of lines in a port by the parameter port width.  You also have the option of not reconfiguring the port as an output port with each iteration of the VI by setting the iteration control to a non-zero value.
+530074:4e3d The pop-up option Explain Error (or Explain Warning) gives more information about the error displayed.
+530076:4eed The pop-up option Explain Error (or Explain Warning) gives more information about the error displayed.
+530078:4f8d The pop-up option Explain Error (or Explain Warning) gives more information about the error displayed.
+530088:52d1 The pop-up option Explain Error (or Explain Warning) gives more information about the error displayed.
+530090:5371 The pop-up option Explain Error (or Explain Warning) gives more information about the error displayed.
+530092:5421 The pop-up option Explain Error (or Explain Warning) gives more information about the error displayed.
+545610:db464 You can control the number of lines in a port by the parameter port width.  You also have the option of not reconfiguring the port as an output port with each iteration of the VI by setting the iteration control to a non-zero value.
+548944:121e5a You can control the number of lines in a port by the parameter port width.  You also have the option of not reconfiguring the port as an output port with each iteration of the VI by setting the iteration control to a non-zero value.
+549173:125775 The pop-up option Explain Error (or Explain Warning) gives more information about the error displayed.
+549175:12580e The pop-up option Explain Error (or Explain Warning) gives more information about the error displayed.
+549177:1258b7 The pop-up option Explain Error (or Explain Warning) gives more information about the error displayed.
+549186:125c1b The pop-up option Explain Error (or Explain Warning) gives more information about the error displayed.
+549188:125cc4 The pop-up option Explain Error (or Explain Warning) gives more information about the error displayed.
+549190:125d5d The pop-up option Explain Error (or Explain Warning) gives more information about the error displayed.
+549809:12e049 The pop-up option Explain Error (or Explain Warning) gives more information about the error displayed.
+549811:12e0f2 The pop-up option Explain Error (or Explain Warning) gives more information about the error displayed.
+549813:12e18b The pop-up option Explain Error (or Explain Warning) gives more information about the error displayed.
+549823:12e4c2 The pop-up option Explain Error (or Explain Warning) gives more information about the error displayed.
+549825:12e55b The pop-up option Explain Error (or Explain Warning) gives more information about the error displayed.
+574497:c4a6d The pop-up option Explain Error (or Explain Warning) gives more information about the error displayed.
+574499:c4b06 The pop-up option Explain Error (or Explain Warning) gives more information about the error displayed.
+574501:c4baf The pop-up option Explain Error (or Explain Warning) gives more information about the error displayed.
+574510:c4f13 The pop-up option Explain Error (or Explain Warning) gives more information about the error displayed.
+574512:c4fbc The pop-up option Explain Error (or Explain Warning) gives more information about the error displayed.
+574514:c5055 The pop-up option Explain Error (or Explain Warning) gives more information about the error displayed.
+577723:13c65e You can control the number of lines in a port by the parameter port width.  You also have the option of not reconfiguring the port as an output port with each iteration of the VI by setting the iteration control to a non-zero value.
+578019:14266e The pop-up option Explain Error (or Explain Warning) gives more information about the error displayed.
+578030:142b19 The pop-up option Explain Error (or Explain Warning) gives more information about the error displayed.,1
+578032:142bc5 The pop-up option Explain Error (or Explain Warning) gives more information about the error displayed.
+578034:142c71 The pop-up option Explain Error (or Explain Warning) gives more information about the error displayed.L1
+578036:142d3a The pop-up option Explain Error (or Explain Warning) gives more information about the error displayed.
+578046:143053 The pop-up option Explain Error (or Explain Warning) gives more information about the error displayed.
+580187:176a2e You can control the number of lines in a port by the parameter port width.  You also have the option of not reconfiguring the port as an output port with each iteration of the VI by setting the iteration control to a non-zero value.
+596802:f5d9a You can control the number of lines in a port by the parameter port width.  You also have the option of not reconfiguring the port as an output port with each iteration of the VI by setting the iteration control to a non-zero value.
+608562:1b9012 You can control the number of lines in a port by the parameter port width.  You also have the option of not reconfiguring the port as an output port with each iteration of the VI by setting the iteration control to a non-zero value.

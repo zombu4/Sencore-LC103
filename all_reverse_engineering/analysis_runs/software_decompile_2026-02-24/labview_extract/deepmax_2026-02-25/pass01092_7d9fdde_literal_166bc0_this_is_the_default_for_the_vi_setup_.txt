@@ -1,0 +1,1 @@
+48272:166bc0 This is the default for the VI Setup of new VIs.  If a VI has this option set, LabVIEW will prompt you for a comment to add to the history whenever the VI is closed.

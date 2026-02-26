@@ -1,0 +1,1 @@
+260010:22f9bc displays a dialog box with buttons allowing the user to either continue or stop. If the user cancels, the VI calls the Stop function to halt execution.

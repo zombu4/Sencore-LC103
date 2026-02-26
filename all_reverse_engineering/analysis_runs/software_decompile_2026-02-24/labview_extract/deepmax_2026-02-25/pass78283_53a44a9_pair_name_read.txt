@@ -1,0 +1,2 @@
+48162:164718 TEXT8The name of the VI to run. It must already be in memory.
+52203:1ba038 Name of new VI library:$Name of new directory or VI library:%Cannot read from drive %p. Try again?

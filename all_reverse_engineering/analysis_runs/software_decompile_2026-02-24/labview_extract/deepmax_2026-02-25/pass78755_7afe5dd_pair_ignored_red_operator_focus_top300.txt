@@ -1,0 +1,300 @@
+71238:2dd99e error - ignored
+71239:2dd9b4 error - ignoredX
+71277:2de799 error - ignored @
+71296:2de9d4 error - ignored
+71297:2de9e7 error - ignored
+71298:2de9fa error - ignored
+71299:2dea0d error - ignored
+71300:2dea20 error - ignored
+71315:2ded0b error - ignoredM
+71325:2dede0 error - ignoredgencode.cGenDispatchEntry
+71334:2deeef error - ignored
+71345:2df68c error - ignored @
+74846:317584 Input alt HW Handshake. On the PC, this parameter corresponds to Data Terminal Ready (DTR) handshaking. On the SPARCstation, this parameter is ignored.
+74849:3176fa Output alt HW Handshake. On the PC, this parameter corresponds to Data Set Ready (DSR) handshaking. On the SPARCstation, this parameter is ignored.
+83890:3ad065 error - ignored
+83895:3ad114 error - ignored @
+84091:3af10b error - ignored
+84100:3af1ff error - ignored @
+84153:3af98b error - ignored
+84159:3afa7f error - ignored @
+84644:3b728a error - ignored @
+84657:3b739f error - ignored @
+84670:3b74b2 error - ignored @
+84959:3b938a error - ignored @
+90761:41a75d error - ignored
+90765:41a84c error - ignored @
+91224:41fe46 error - ignored @
+91396:420e4f error - ignored @
+91534:425262 error - ignored
+91539:425352 error - ignored @
+92189:42b9e3 error - ignored @
+92451:42d17f error - ignored @
+92924:4340ef error - ignored
+92928:4341dd error - ignored @
+93344:438e30 error - ignored @
+93538:439fab error - ignored @
+94632:4486aa error - ignored
+94636:44879b error - ignored @
+95105:44d229 error - ignored @
+95294:44e25f error - ignored @
+95406:451358 error - ignored
+95410:451450 error - ignored @
+95880:4565ca error - ignored @
+96072:4576c6 error - ignored @
+96187:45a999 error - ignored
+96192:45aa8a error - ignored @
+96646:45f65d error - ignored @
+96832:4606b4 error - ignored @
+98380:48130e error - ignored
+98384:481407 error - ignored @
+99094:48bdb0 error - ignored @
+99340:48d771 error - ignored @
+104751:4f3a75 error - ignored
+104755:4f3b6d error - ignored @
+105508:4ffd95 error - ignored @
+105753:50164f error - ignored @
+105951:507680 error - ignored
+105956:507778 error - ignored @
+106574:5107df error - ignored @
+106832:511fa8 error - ignored @
+107046:518d2c error - ignored
+107055:518e23 error - ignored @
+107665:523013 error - ignored @
+107933:5249c9 error - ignored @
+108076:529ebf error - ignored
+108080:529fb8 error - ignored @
+108859:5359a6 error - ignored @
+109177:537b61 error - ignored @
+109327:53e584 error - ignored
+109331:53e67d error - ignored @
+110287:54f287 error - ignored @
+110597:55112d error - ignored @
+110838:557877 error - ignored
+110847:557969 error - ignored @
+111437:560ab4 error - ignored @
+111663:5620ca error - ignored @
+113459:584f5d error - ignored
+113466:585102 error - ignored @
+114189:593bf9 error - ignored @
+114532:595f7a error - ignored @
+114937:5a25a8 error - ignored
+114942:5a2698 error - ignored @
+115761:5b479b error - ignored @
+116146:5b6fdf error - ignored @
+241872:120ba5 error - ignored
+241890:121a3e error - ignored
+241891:121a54 error - ignoredX
+241929:122839 error - ignored @
+241948:122a74 error - ignored
+241949:122a87 error - ignored
+241950:122a9a error - ignored
+241951:122aad error - ignored
+241952:122ac0 error - ignored
+241967:122dab error - ignoredM
+241977:122e80 error - ignoredgencode.cGenDispatchEntry
+241986:122f8f error - ignored
+241997:12372c error - ignored @
+245156:155c38 Input alt HW Handshake. On the PC, this parameter corresponds to Data Terminal Ready (DTR) handshaking. On the SPARCstation, this parameter is ignored.
+245159:155dae Output alt HW Handshake. On the PC, this parameter corresponds to Data Set Ready (DSR) handshaking. On the SPARCstation, this parameter is ignored.
+251365:1b9f71 error - ignored
+251370:1ba020 error - ignored @
+251566:1bc017 error - ignored
+251575:1bc10b error - ignored @
+251628:1bc897 error - ignored
+251634:1bc98b error - ignored @
+252119:1c4196 error - ignored @
+252132:1c42ab error - ignored @
+252145:1c43be error - ignored @
+252434:1c6296 error - ignored @
+252553:1c9541 error - ignored
+252557:1c9630 error - ignored @
+253016:1cec2a error - ignored @
+253188:1cfc33 error - ignored @
+253339:1d41e2 error - ignored
+253344:1d42d2 error - ignored @
+253994:1da963 error - ignored @
+254256:1dc0ff error - ignored @
+254735:1e3217 error - ignored
+254739:1e3305 error - ignored @
+255155:1e7f58 error - ignored @
+255349:1e90d3 error - ignored @
+255478:1ec096 error - ignored
+255482:1ec187 error - ignored @
+255951:1f0c15 error - ignored @
+256140:1f1c4b error - ignored @
+256255:1f4e18 error - ignored
+256259:1f4f10 error - ignored @
+256729:1fa08a error - ignored @
+256921:1fb186 error - ignored @
+257039:1fe52d error - ignored
+257044:1fe61e error - ignored @
+257498:2031f1 error - ignored @
+257684:204248 error - ignored @
+263255:26dbd1 error - ignored
+263259:26dcc9 error - ignored @
+264012:279ef1 error - ignored @
+264257:27b7ab error - ignored @
+264458:2818b0 error - ignored
+264463:2819a8 error - ignored @
+265081:28aa0f error - ignored @
+265339:28c1d8 error - ignored @
+265556:29302c error - ignored
+265565:293123 error - ignored @
+266175:29d313 error - ignored @
+266443:29ecc9 error - ignored @
+266589:2a4293 error - ignored
+266593:2a438c error - ignored @
+267372:2afd7a error - ignored @
+267690:2b1f35 error - ignored @
+267844:2b8a3c error - ignored
+267848:2b8b35 error - ignored @
+268804:2c973f error - ignored @
+269114:2cb5e5 error - ignored @
+269358:2d1e03 error - ignored
+269367:2d1ef5 error - ignored @
+269957:2db040 error - ignored @
+270183:2dc656 error - ignored @
+272006:2ffec9 error - ignored
+272013:30006e error - ignored @
+272736:30eb65 error - ignored @
+273079:310ee6 error - ignored @
+273488:31d600 error - ignored
+273493:31d6f0 error - ignored @
+274312:32f7f3 error - ignored @
+274697:332037 error - ignored @
+277118:36088e error - ignored
+277122:360987 error - ignored @
+277832:36b330 error - ignored @
+278078:36ccf1 error - ignored @
+362002:e189f error - ignored @
+362808:ec015 error - ignored @
+363082:ed8e4 error - ignored,
+363086:ed960 error - ignored @
+363853:1039a5 error - ignored @
+364551:10c72f error - ignored @
+364783:10dcd1 error - ignored,
+364787:10dd4d error - ignored @
+367301:13a358 error - ignored @
+367779:1405b9 error - ignored @
+367921:141365 error - ignored,
+367925:1413e1 error - ignored @
+374550:1b8a75 error - ignored @
+375007:1be831 error - ignored @
+375172:1bf821 error - ignored,
+375176:1bf89d error - ignored @
+377499:1e9773 error - ignored @
+377755:1ecb46 error - ignored @
+377885:1ed76c error - ignored,
+377889:1ed7e8 error - ignored @
+378234:1f32bb error - ignored @
+378501:1f6900 error - ignored @
+378625:1f74ad error - ignored,
+378629:1f7529 error - ignored @
+378928:1fd039 error - ignored @
+379170:20027b error - ignored @
+379292:200ddf error - ignored,
+379296:200e5b error - ignored @
+380488:21223d error - ignored @
+380739:215431 error - ignored @
+380859:215fd9 error - ignored,
+380863:216055 error - ignored @
+381586:220edc error - ignored @
+381934:225326 error - ignored @
+382111:226348 error - ignored,
+382115:2263c4 error - ignored @
+382509:22cdc7 error - ignored @
+382823:230a92 error - ignored @
+382936:2315dd error - ignored,
+382940:231659 error - ignored @
+387077:2939fd error - ignored @
+387545:29970e error - ignored @
+387558:299839 error - ignored @
+387571:299962 error - ignored @
+387745:29aa5d error - ignored,
+387748:29aaba error - ignored @
+392275:2eca5d error - ignored
+397616:33fb52 Input alt HW Handshake. On the PC, this parameter corresponds to Data Terminal Ready (DTR) handshaking. On the SPARCstation, this parameter is ignored.
+397619:33fcc8 Output alt HW Handshake. On the PC, this parameter corresponds to Data Set Ready (DSR) handshaking. On the SPARCstation, this parameter is ignored.
+401366:37aac2 error - ignored @
+401374:37ac91 error - ignored
+401375:37acc8 error - ignored"
+401397:37b618 error - ignored
+401403:37b7ff error - ignored
+401408:37b8f0 error - ignoredM
+407774:3e9c54 error - ignored @
+408308:3f0783 error - ignored @
+408462:3f1610 error - ignored,
+408466:3f168c error - ignored @
+408972:3fdac3 error - ignored @
+409416:4038aa error - ignored @
+409577:4047a3 error - ignored,
+409581:40481f error - ignored @
+410031:40fd9d error - ignored @
+410501:416054 error - ignored @
+410669:416fa6 error - ignored,
+410673:417022 error - ignored @
+414137:455127 error - ignored @
+414763:45d8e2 error - ignored @
+414950:45ea46 error - ignored,
+414954:45eac2 error - ignored @
+415614:46e97c error - ignored @
+416123:475392 error - ignored @
+416293:476318 error - ignored,
+416297:476394 error - ignored @
+493044:109297 error - ignored @
+493298:10a9f3 error - ignored
+493654:110c45 error - ignored,
+493658:110cc1 error - ignored @
+494362:125ba6 error - ignored @
+494514:126b06 error - ignored
+494901:12c468 error - ignored,
+494905:12c4e4 error - ignored @
+496725:1527fc error - ignored @
+496846:15330a error - ignored
+497066:157061 error - ignored,
+497070:1570dd error - ignored @
+497508:1631f1 error - ignored @
+497621:163d31 error - ignored @
+497987:16979a error - ignored,
+497991:169816 error - ignored @
+498583:178826 error - ignored @
+498895:17d4b8 error - ignored,
+498899:17d534 error - ignored @
+499435:18968b error - ignored @
+499576:18a384 error - ignored
+499820:18e527 error - ignored,
+499824:18e5a3 error - ignored @
+500318:199a46 error - ignored @
+500457:19a648 error - ignored
+500666:19e539 error - ignored,
+500670:19e5b5 error - ignored @
+501128:1a90f5 error - ignored @
+501278:1a9da9 error - ignored
+501522:1ae2f1 error - ignored,
+501526:1ae36d error - ignored @
+506440:2128af error - ignored @
+506631:2138a9 error - ignored
+506789:21719b error - ignored,
+506793:217217 error - ignored @
+508555:23ab66 error - ignored @
+508737:23d603 error - ignored,
+508741:23d67f error - ignored @
+509043:242b70 error - ignored @
+509223:245639 error - ignored,
+509227:2456b5 error - ignored @
+509501:24ac54 error - ignored @
+509676:24d53e error - ignored,
+509680:24d5ba error - ignored @
+510592:25c5b2 error - ignored @
+510776:25eefc error - ignored,
+510780:25ef78 error - ignored @
+511353:26843a error - ignored @
+511631:26bc99 error - ignored,
+511635:26bd15 error - ignored @
+511988:271f97 error - ignored @
+512156:2748a5 error - ignored,
+512160:274921 error - ignored @
+514853:2c8c7f error - ignored @
+515218:2cd6d5 error - ignored,
+515221:2cd732 error - ignored @

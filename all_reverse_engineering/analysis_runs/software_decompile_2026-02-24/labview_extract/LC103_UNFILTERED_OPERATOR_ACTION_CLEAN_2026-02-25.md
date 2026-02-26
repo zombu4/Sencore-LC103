@@ -1,0 +1,306 @@
+# LC103 Unfiltered Clean Operator Actions (2026-02-25)
+
+- Source: `LC103_UNFILTERED_CORPUS_ALL_LINES_2026-02-24.txt` (full corpus, 4,154,979 lines)
+- Clean unique operator-action lines: 1937
+
+## High-signal instructions (top 300)
+- (212x) [short] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/all_strings_offsets.txt:82518] Short the UUT leads to the
+- (193x) [press] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/all_strings_offsets.txt:90552] Press 'Enter' when ready.
+- (190x) [select] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/all_strings_offsets.txt:54000] file path is the path name of the file. If file path is empty (default value) or is Not A Path, the VI displays a File dialog box from which you can select a file. Error 43 occurs if the user cancels the dialog.
+- (169x) [connect] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/all_strings_offsets.txt:103420] Most applications need only connect wires to the controls and indicators displayed in bold. Connections to other controls and indicators are useful only if specifically needed.
+- (153x) [connect] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/all_strings_offsets.txt:82520] BBBNow connect the red lead to the
+- (151x) [short] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/all_strings_offsets.txt:82672] Inductance Decade Box (H Terminal)=Short the UUT leads to the
+- (137x) [connect] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/all_strings_offsets.txt:82682] Inductance Decade Box (L Terminal)BNow connect the red lead to the
+- (136x) [open] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/all_strings_offsets.txt:54495] refnum is the reference number of the open file.
+- (91x) [open] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/all_strings_offsets.txt:54013] refnum is the reference number of the open file. The value is Not A Refnum if the file cannot be opened.
+- (85x) [connect] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/all_strings_offsets.txt:70723] For most applications, you only need to connect wires to the controls and indicators displayed in bold.
+- (85x) [connect] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/all_strings_offsets.txt:69911] VFor most applications, you only need to connect wires to the controls and indicators displayed in bold.
+- (85x) [connect] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/all_strings_offsets.txt:70295] ZFor most applications, you only need to connect wires to the controls and indicators displayed in bold.
+- (83x) [set] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/all_strings_offsets.txt:57191] GPIB error is valid only if bit 15 of status is set.
+- (83x) [set] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/all_strings_offsets.txt:57172] status is a Boolean array in which each bit describes a state of the GPIB Controller. If an error occurs, the GPIB VIs set bit 15. GPIB error is valid only if bit 15 of status is set.
+- (81x) [set] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/all_strings_offsets.txt:101603] source. In case of an error, most VIs that use the error in and error out clusters set source to the name of the VI or function that produced the error.
+- (72x) [short] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/ghidra/Final_Cal_nidaq_dll_decomp_full.txt:273267] local_18 = (short *)CONCAT22(local_18._2_2_,sVar1);
+- (71x) [select] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/all_strings_offsets.txt:233844] Measure volts, amps, or ohms. Select one of 6 functions. Select range or use auto range. Select trigger mode. Slow reading rate is used for accuracy. version a.0
+- (67x) [open] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/all_strings_offsets.txt:99475] new file path is the path of the file opened. You can use this output to determine the path of a file that you open using dialog. new file path returns Not A Path if the user selects Cancel from the dialog box.
+- (66x) [short] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/ghidra/Final_Cal_nidaq_dll_decomp_full.txt:353528] while ((int)local_14 < (int)(short)local_34);
+- (55x) [set] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/all_strings_offsets.txt:52996] advisory dialog? Set TRUE (default) if you want a dialog if function=0 and the file does not exist, or if function=2 or 3 and the file exists.
+- (53x) [power] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/all_strings_offsets.txt:343571] Power Board test Version
+- (51x) [open] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/all_strings_offsets.txt:102496] LabVIEW: Device unit error.NLabVIEW: Can't open device.
+- (48x) [short] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/ghidra/Final_Cal_nidaq_dll_decomp_full.txt:338031] undefined2 *)(iVar9 + (short)iVar19 * 2) = uVar7;
+- (48x) [short] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/ghidra/Final_Cal_nidaq_dll_decomp_full.txt:353442] while (iVar11 < (short)local_34);
+- (46x) [open] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/all_strings_offsets.txt:54002] 0 (open) opens an existing file. Error 7 occurs if the file cannot be found.
+- (46x) [open] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/all_strings_offsets.txt:54003] 1 (open or create) opens an existing file or creates a new file if one does not exist.
+- (41x) [short] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/all_strings_offsets.txt:82681] IND=Short the UUT leads to the
+- (41x) [choose] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/all_strings_offsets.txt:54723] calCPlease choose the file containing the capacitance calibration data.PTH0
+- (41x) [open] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/all_strings_offsets.txt:102468] GPIB EARG: Invalid argument or arguments.bLabVIEW: File already open.
+- (41x) [open] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/all_strings_offsets.txt:102474] GPIB EOIP: New I/O attempted with old I/O in progress.9LabVIEW: Too many files open.
+- (41x) [continue] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/all_strings_offsets.txt:101577] displays a dialog box with buttons allowing the user to either continue or stop. If the user cancels, the VI calls the Stop function to halt execution.
+- (37x) [set] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/all_strings_offsets.txt:100016] advisory dialog? Set TRUE (default) if you want a dialog if the file does not exist.
+- (37x) [set] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/all_strings_offsets.txt:101397] convert eol Set TRUE to convert each platform-specific end of line marker to the LabVIEW marker, line feed. Set FALSE (default value) to do nothing.
+- (37x) [set] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/all_strings_offsets.txt:54502] convert eol Set TRUE to convert the LabVIEW end of line marker to the platform-specific marker. Set FALSE (default value) to do nothing.
+- (36x) [set] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/all_strings_offsets.txt:94446] Small Ringer Cal Box set to
+- (36x) [short] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/ghidra/Final_Cal_nidaq_dll_decomp_full.txt:337827] local_50 = local_50 + (short)local_28;
+- (36x) [short] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/ghidra/Final_Cal_nidaq_dll_decomp_full.txt:90675] puVar15 = (undefined1 *)(int)(short)local_c;
+- (36x) [open] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/all_strings_offsets.txt:54225] 51refnum is the reference number of the open file.
+- (35x) [set] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/all_strings_offsets.txt:225934] This version of Set Serial Port Buffer Size.vi is to be used on the SPARC or Windows version of LabVIEW as a subVI to OpenSerialDriver and Serial Port Init.vi.
+- (33x) [connect] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/all_strings_offsets.txt:307025] 3) Connect Fluke 8840A to DVM plugs on front panel of test box.
+- (33x) [connect] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/all_strings_offsets.txt:307026] 4) Connect Lo Capacity leads to UUT plugs on front of test box.
+- (33x) [connect] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/all_strings_offsets.txt:307027] 5) Connect 50 pin ribbon cable from PC to right side of test box.
+- (33x) [set] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/all_strings_offsets.txt:54237] convert eol? converts the LabVIEW end of line marker to the platform specific marker when set to TRUE. When set to false (the default value), no conversion occurs.
+- (33x) [press] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/all_strings_offsets.txt:90310] Press 'Enter' when ready.W
+- (33x) [power] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/all_strings_offsets.txt:307023] 2) Attach power adapter and RS-232 cable to LC103
+- (33x) [continue] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/all_strings_offsets.txt:102714] continue or stop message on an error
+- (33x) [continue] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/all_strings_offsets.txt:111869] type of dialog (continue or stop message)
+- (33x) [turn] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/all_strings_offsets.txt:307022] 1) Plug in and turn on LC103 Mainboard test box.
+- (30x) [load] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/all_strings_offsets.txt:102405] DSP NoBrdRespToTransfer: The DSP board on which you are trying to load the COFF file is not responding to the transfer of the file. Check if there is a board in the slot desired and verify with the DAQCONF utility.
+- (29x) [connect] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/all_strings_offsets.txt:93443] Connect the '+' DVM lead to TP1006
+- (29x) [connect] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/all_strings_offsets.txt:99216] HEY!! I said: "Connect the red UUT to the H Terminal of the decade box and set the box to 0.022uF(.0219)". Please do this now!
+- (29x) [connect] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/all_strings_offsets.txt:99167] Now connect the red UUT to the H Terminal of the decade box and set the box to 0.022uF(.0219).
+- (29x) [adjust] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/all_strings_offsets.txt:93444] and the '-' lead to TP1020. Adjust
+- (29x) [set] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/all_strings_offsets.txt:98185] Set the max. # of readings takenH
+- (29x) [press] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/all_strings_offsets.txt:97307] and press 'Enter' when ready.
+- (29x) [choose] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/all_strings_offsets.txt:114464] calBPlease choose the file containing the inductance calibration data.
+- (26x) [short] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/all_strings_offsets.txt:79451] Lead Zero Short Test/ESR
+- (26x) [short] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/all_strings_offsets.txt:346810] Short TP4 with the cathode
+- (26x) [press] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/all_strings_offsets.txt:346804] Press READY when previous step is complete.
+- (26x) [open] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/all_strings_offsets.txt:54109] Open or Create File (function=%d)
+- (25x) [connect] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/all_strings_offsets.txt:83542] GNow connect the red lead to the
+- (25x) [press] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/all_strings_offsets.txt:99170] Press 'Enter' when ready.MD
+- (25x) [continue] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/all_strings_offsets.txt:371581] continue or stop message:
+- (24x) [short] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/ghidra/Final_Cal_nidaq_dll_decomp_full.txt:63728] ulonglong)(uint)(int)(short)local_14)] == (short)local_18) &&
+- (22x) [open] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/all_strings_offsets.txt:54055] file is now open; proceed if function=0 (open)
+- (22x) [close] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/all_strings_offsets.txt:54039] user denies permission to overwrite; close filea
+- (21x) [set] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/all_strings_offsets.txt:113113] Couldn't retrieve the proper Software Rev. number. Please set this manually on the front panel.
+- (21x) [short] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/all_strings_offsets.txt:79525] Lead Zero Short Test/Inductance
+- (21x) [power] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/all_strings_offsets.txt:346802] Make sure tester POWER is ON
+- (21x) [open] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/all_strings_offsets.txt:113158] Couldn't open the Software Rev. file. Please set the Software Rev. manually on the front panel. Place the flopply disk in the computer NOW.
+- (21x) [open] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/all_strings_offsets.txt:99470] mirefnum is the reference number of the open file. The value is Not A Refnum if the file cannot be opened.
+- (21x) [remove] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/all_strings_offsets.txt:346812] Remove UUT from tester, Proceed to next UUT
+- (20x) [short] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/ghidra/Final_Cal_nidaq_dll_decomp_full.txt:118863] ulonglong)(uint)(int)(short)local_20)] == (short)local_10) &&
+- (18x) [set] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/all_strings_offsets.txt:55873] 1 = Set END bit on the last byte of transfer
+- (18x) [short] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/ghidra/Final_Cal_nidaq_dll_decomp_full.txt:273401] local_18 = (short *)local_44;
+- (18x) [short] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/ghidra/Final_Cal_nidaq_dll_decomp_full.txt:286841] local_c = local_c + (short)iVar5;
+- (18x) [short] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/ghidra/Final_Cal_nidaq_dll_decomp_full.txt:339629] while ((short)local_1c < (short)local_2c);
+- (18x) [short] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/ghidra/Final_Cal_nidaq_dll_decomp_full.txt:336509] while ((short)uVar9 != 0);
+- (17x) [connect] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/all_strings_offsets.txt:83633] CAPGNow connect the red lead to the
+- (17x) [connect] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/all_strings_offsets.txt:291349] IND-6FMELDKCJBI@GAHBNow connect the red lead to the
+- (17x) [switch] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/all_strings_offsets.txt:111518] Switch in D/A StandardV
+- (17x) [set] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/all_strings_offsets.txt:74849] Output alt HW Handshake. On the PC, this parameter corresponds to Data Set Ready (DSR) handshaking. On the SPARCstation, this parameter is ignored.
+- (17x) [set] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/all_strings_offsets.txt:100053] cFile Dialog cancelled; set Error to Cancelled By User; empty File Path; set Refnum to Not a Refnum.
+- (17x) [press] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/all_strings_offsets.txt:93446] Press 'Enter' when finished.
+- (17x) [press] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/all_strings_offsets.txt:118797] Press F1 to change paths.Y
+- (17x) [select] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/all_strings_offsets.txt:63097] Measure volts, amps, or ohms. Select one of 6 functions. Select range or use auto range. Select trigger mode. Slow reading rate is used for accuracy. version a.0 $
+- (17x) [select] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/all_strings_offsets.txt:62739] Select measurement function. :
+- (17x) [open] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/all_strings_offsets.txt:113119] RCouldn't open the Software Rev. file. Place the flopply disk in the computer NOW.s
+- (17x) [open] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/all_strings_offsets.txt:54033] report file not found if function=0 (open); set file path to empty and refnum to NotARefnumMD
+- (17x) [continue] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/all_strings_offsets.txt:101580] continue or stop message
+- (17x) [continue] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/all_strings_offsets.txt:102979] continue or stop message on an errorRD
+- (17x) [continue] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/all_strings_offsets.txt:112380] type of dialog (continue or stop message)QD
+- (16x) [short] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/all_strings_offsets.txt:79450] Lead Zero Short Test/Inductanced
+- (16x) [short] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/all_strings_offsets.txt:320789] MMMLead zero, shorted CAP must read "SHORT", IND and ESR must read 0l
+- (16x) [short] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/ghidra/Final_Cal_nidaq_dll_decomp_full.txt:56775] while ((short)iVar3 < 4);
+- (16x) [short] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/ghidra/Final_Cal_nidaq_dll_decomp_full.txt:89839] while ((short)local_8 == 0);
+- (16x) [open] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/all_strings_offsets.txt:406316] 112create a new file if function=1-3 (open or create)
+- (16x) [open] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/all_strings_offsets.txt:504909] 1refnum is the reference number of the open file.
+- (16x) [open] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/all_strings_offsets.txt:406304] 778file is now open; proceed if function=1 (open or create){D
+- (16x) [open] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/all_strings_offsets.txt:113114] Couldn't open the Software Rev. file. Please set the Software Rev. manually on the front panel. Place the flopply disk in the computer NOW.MD
+- (16x) [open] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/all_strings_offsets.txt:54058] Open or Create File (function=%d)a
+- (16x) [open] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/all_strings_offsets.txt:320787] aaaLeads zero, open Cap must read 0, IND must read "OPEN" and ESR must read "ERROR 7"W
+- (16x) [open] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/all_strings_offsets.txt:506085] irefnum is the reference number of the open file. The value is Not A Refnum if the file cannot be opened.
+- (16x) [wait] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/all_strings_offsets.txt:51145] Bad occurrence"Wait on unbound occurrence handler
+- (14x) [set] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/all_strings_offsets.txt:323383] Set Pass/Fail button to invisibleW
+- (14x) [choose] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/all_strings_offsets.txt:54711] BPlease choose the file containing the inductance calibration data.
+- (14x) [choose] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/all_strings_offsets.txt:114316] BPlease choose the file containing the inductance calibration data.V
+- (14x) [wait] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/all_strings_offsets.txt:323339] Wait for start button to be clickedb
+- (13x) [adjust] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/all_strings_offsets.txt:94474] RIN>Adjust R1144 for the number
+- (13x) [adjust] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/all_strings_offsets.txt:94477] RINBNow adjust R1005 for the number
+- (13x) [set] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/all_strings_offsets.txt:406317] NNherror is other than file not found; set error flag TRUE, file path to NotAPath, and refnum to NotARefnummD
+- (13x) [set] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/all_strings_offsets.txt:323355] Set "Pass or Fail Global" to "Fail"W
+- (13x) [set] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/all_strings_offsets.txt:318372] Set UUT to test Aluminum LyticsW
+- (13x) [set] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/all_strings_offsets.txt:99477] YUadvisory dialog? Set TRUE (default) if you want a dialog if the file does not exist.
+- (13x) [set] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/all_strings_offsets.txt:406323] rrsFile Dialog cancelled; set error out code to Cancelled By User; set refnum to NotaRefnum and file path to NotAPath.
+- (13x) [press] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/all_strings_offsets.txt:323683] 6) Press ENTER when ready, choose test to perform and press START.
+- (13x) [press] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/all_strings_offsets.txt:323376] 6) Press ENTER when ready, choose test to perform and press START.H
+- (13x) [press] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/all_strings_offsets.txt:90300] Press 'Enter' when ready.T
+- (13x) [press] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/all_strings_offsets.txt:90283] Press 'Enter' when ready.V
+- (13x) [press] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/all_strings_offsets.txt:90252] Press 'Enter' when ready._
+- (13x) [press] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/all_strings_offsets.txt:90296] Press 'Enter' when ready.g
+- (13x) [choose] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/all_strings_offsets.txt:118862] BPlease choose the file containing the inductance calibration data.W
+- (13x) [choose] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/all_strings_offsets.txt:118857] CCCPlease choose the file containing the capacitance calibration data.W
+- (13x) [choose] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/all_strings_offsets.txt:112376] Choose file to read.RD
+- (13x) [power] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/all_strings_offsets.txt:346309] Power Up Unit w/ PA vlt.]
+- (13x) [apply] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/all_strings_offsets.txt:317716] Apply voltage to leadsW
+- (12x) [switch] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/ghidra/Final_Cal_nidaq_dll_decomp_full.txt:280046] WARNING: Could not find normalized switch variable to match jumptable */
+- (12x) [short] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/ghidra/Final_Cal_nidaq_dll_decomp_full.txt:273344] local_18 = (short *)CONCAT22(local_18._2_2_,(short)uVar4);
+- (12x) [short] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/ghidra/Final_Cal_nidaq_dll_decomp_full.txt:339773] local_18 = (short)local_1c * 4;
+- (12x) [short] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/ghidra/Final_Cal_nidaq_dll_decomp_full.txt:319214] sVar2 = *(short *)(local_c + 6);
+- (12x) [short] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/ghidra/Final_Cal_nidaq_dll_decomp_full.txt:339707] sVar3 = *(short *)(uVar15 + (short)local_14 * 2);
+- (12x) [short] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/ghidra/Final_Cal_nidaq_dll_decomp_full.txt:339762] short)local_14 * 2) + (short)local_1c);
+- (12x) [short] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/ghidra/Final_Cal_nidaq_dll_decomp_full.txt:14282] short,char *,long,double,unsigned short,char *,short,unsigned long *,unsigned short *,double
+- (12x) [short] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/ghidra/Final_Cal_nidaq_dll_decomp_full.txt:240025] unsigned long *,short *) */
+- (12x) [short] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/ghidra/Final_Cal_nidaq_dll_decomp_full.txt:352923] while ((int)local_2c < (int)(short)puVar26[2]);
+- (12x) [short] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/ghidra/Final_Cal_nidaq_dll_decomp_full.txt:348649] while ((short)iVar4 < (short)local_c);
+- (12x) [short] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/ghidra/Final_Cal_nidaq_dll_decomp_full.txt:90551] while ((short)local_c < sVar11);
+- (12x) [short] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/ghidra/Final_Cal_nidaq_dll_decomp_full.txt:339697] while ((short)uVar15 < (short)(ushort)local_24);
+- (12x) [short] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/ghidra/Final_Cal_nidaq_dll_decomp_full.txt:77916] while ((short)uVar2 != 0);
+- (12x) [short] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/ghidra/Final_Cal_nidaq_dll_decomp_full.txt:339504] while ((short)uVar5 < (short)puVar14[2]);
+- (12x) [short] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/ghidra/Final_Cal_nidaq_dll_decomp_full.txt:353734] while (iVar11 < (short)(ushort)local_c[1]);
+- (12x) [short] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/ghidra/Final_Cal_nidaq_dll_decomp_full.txt:337843] while (sVar6 < (short)local_10);
+- (12x) [press] [/Users/<user>/LC103/software_decompile_2026-02-24/labview_extract/LC103_FINAL_CAL_PROMPT_REBUILD.md:40] Press 'Enter' when ready.`
+- (12x) [wait] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/all_strings_offsets.txt:73668] Wait a few mils for updated Abort?n
+- (12x) [wait] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/all_strings_offsets.txt:118913] Wait here for some type of actionv
+- (11x) [switch] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/all_strings_offsets.txt:94475] of rings specified on the cal box.-Switch the cal box to
+- (11x) [short] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/all_strings_offsets.txt:389867] Inductance Decade Box (L Terminal)=Short the UUT leads to the
+- (11x) [short] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/all_strings_offsets.txt:447593] Lead Zero Short & Open VIY
+- (11x) [short] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/all_strings_offsets.txt:393270] Lead Zero Short Test/ESRKSomething seems to be wrong. Make sure the UUT leads are shorted together.?
+- (11x) [press] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/all_strings_offsets.txt:375113] Press 'Enter' when ready.cShort the UUT leads to the Capacitance Decade box(LTerminal).
+- (11x) [open] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/all_strings_offsets.txt:100597] 051refnum is the reference number of the open file.
+- (11x) [open] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/all_strings_offsets.txt:54049] 2create a new file if function=1-3 (open or create)
+- (11x) [open] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/all_strings_offsets.txt:54038] 8file is now open; proceed if function=1 (open or create){D
+- (11x) [open] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/all_strings_offsets.txt:113157] Last known LC103 Software Rev. is: VERRCouldn't open the Software Rev. file. Place the flopply disk in the computer NOW.
+- (11x) [open] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/all_strings_offsets.txt:50014] Open the control editor with double click
+- (11x) [open] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/all_strings_offsets.txt:528292] report file not found if function=0 (open); set file path to empty and refnum to NotARefnumHDt
+- (11x) [open] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/all_strings_offsets.txt:365905] xxxxRCouldn't open the Software Rev. file. Place the flopply disk in the computer NOW.'Last known LC103 Software Rev. is: VER
+- (10x) [adjust] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/all_strings_offsets.txt:94383] AABNow adjust R1005 for the number
+- (10x) [adjust] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/all_strings_offsets.txt:94377] Adjust R1144 for the number
+- (10x) [set] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/all_strings_offsets.txt:323379] Set Pass/ Fail Indicator and make it visible V
+- (10x) [set] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/all_strings_offsets.txt:323348] Set Pass/Fail Button to invisibled
+- (10x) [set] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/all_strings_offsets.txt:55495] This version of Set Serial Port Buffer Size.vi is to be used on the SPARC or Windows version of LabVIEW as a subVI to OpenSerialDriver and Serial Port Init.vi.$
+- (10x) [open] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/all_strings_offsets.txt:102925] open or create file `0
+- (9x) [connect] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/all_strings_offsets.txt:388801] 77GNow connect the red lead to the
+- (9x) [connect] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/all_strings_offsets.txt:388680] Capacitance Decade Box (Low Terminal).GNow connect the red lead to the
+- (9x) [connect] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/all_strings_offsets.txt:82678] FMELDKCJBI@GAHBNow connect the red lead to the
+- (9x) [connect] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/all_strings_offsets.txt:82671] IND-6BNow connect the red lead to the
+- (9x) [connect] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/all_strings_offsets.txt:389871] Inductance Decade Box (H Terminal)BNow connect the red lead to the
+- (9x) [switch] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/all_strings_offsets.txt:380042] NFC-Switch the cal box to
+- (9x) [set] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/all_strings_offsets.txt:346660] Set High LS to 1000VQD
+- (9x) [set] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/all_strings_offsets.txt:346587] Set High LS to 33.0VPD
+- (9x) [set] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/vi_names_all.txt:90] This version of Set Serial Port Buffer Size.vi is to be used on the SPARC or Windows version of LabVIEW as a subVI to OpenSerialDriver and Serial Port Init.vi
+- (9x) [set] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/all_strings_offsets.txt:365903] VER`Couldn't retrieve the proper Software Rev. number. Please set this manually on the front panel.
+- (9x) [set] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/all_strings_offsets.txt:54050] herror is other than file not found; set error flag TRUE, file path to NotAPath, and refnum to NotARefnummD
+- (9x) [set] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/all_strings_offsets.txt:46170] more? (set edx to 1 and continue...)
+- (9x) [set] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/all_strings_offsets.txt:54056] sFile Dialog cancelled; set error out code to Cancelled By User; set refnum to NotaRefnum and file path to NotAPath.
+- (9x) [press] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/all_strings_offsets.txt:93503] Press 'Enter' when finished.d
+- (9x) [press] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/all_strings_offsets.txt:97293] Press 'Enter' when ready.PD
+- (9x) [press] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/all_strings_offsets.txt:377219] Press 'Enter' when ready.RE
+- (9x) [select] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/all_strings_offsets.txt:526551] Select measurement function. -
+- (9x) [choose] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/all_strings_offsets.txt:54708] CPlease choose the file containing the capacitance calibration data.O
+- (9x) [choose] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/all_strings_offsets.txt:115917] CPlease choose the file containing the capacitance calibration data.V
+- (9x) [choose] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/all_strings_offsets.txt:102987] Choose file to write._
+- (9x) [choose] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/all_strings_offsets.txt:412981] calBPlease choose the file containing the inductance calibration data.PTH0
+- (9x) [choose] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/all_strings_offsets.txt:54724] calBPlease choose the file containing the inductance calibration data.gencode.cGenDispatchEntry
+- (9x) [choose] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/all_strings_offsets.txt:116077] calCPlease choose the file containing the capacitance calibration data.
+- (9x) [power] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/all_strings_offsets.txt:346515] Power Up Unit w/ Batt. vlt.W
+- (9x) [close] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/all_strings_offsets.txt:100601] close nowIEdup refnum is a flow-though parameter with the same value as refnum.
+- (9x) [continue] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/all_strings_offsets.txt:102713] continue or stop message on an error:
+- (9x) [continue] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/all_strings_offsets.txt:111868] type of dialog (continue or stop message)>1
+- (8x) [set] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/all_strings_offsets.txt:134384] Error #%d set: File: %s Line: %d
+- (8x) [short] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/ghidra/Final_Cal_nidaq_dll_decomp_full.txt:310659] Str + (short)((short)sVar6 + 2),10);
+- (8x) [short] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/ghidra/Final_Cal_nidaq_dll_decomp_full.txt:133109] bVar12 = (short)uVar11 < 0;
+- (8x) [short] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/ghidra/Final_Cal_nidaq_dll_decomp_full.txt:343353] bVar14 = (short)local_10 == 0;
+- (8x) [short] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/ghidra/Final_Cal_nidaq_dll_decomp_full.txt:347358] bVar14 = (short)local_c == 0;
+- (8x) [short] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/ghidra/Final_Cal_nidaq_dll_decomp_full.txt:344517] bVar7 = (short)local_8 == 0;
+- (8x) [short] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/ghidra/Final_Cal_nidaq_dll_decomp_full.txt:288907] iVar2 = (short)local_18 + -1;
+- (8x) [short] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/ghidra/Final_Cal_nidaq_dll_decomp_full.txt:77885] iVar4 = (int)(short)uVar8 / (int)sVar2;
+- (8x) [short] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/ghidra/Final_Cal_nidaq_dll_decomp_full.txt:221782] int *)_Dst = (int)*(short *)_Src;
+- (8x) [short] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/ghidra/Final_Cal_nidaq_dll_decomp_full.txt:263990] local_48 = (short *)*local_8;
+- (8x) [short] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/ghidra/Final_Cal_nidaq_dll_decomp_full.txt:113016] local_8 = (int)(short)(sVar5 + 1);
+- (8x) [short] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/ghidra/Final_Cal_nidaq_dll_decomp_full.txt:12613] long,short,char *,short *) */
+- (8x) [short] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/ghidra/Final_Cal_nidaq_dll_decomp_full.txt:13999] long,unsigned short,long,float *,long,short *,short *) */
+- (8x) [short] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/ghidra/Final_Cal_nidaq_dll_decomp_full.txt:12143] long,unsigned short,unsigned short,long,unsigned short,long,long,unsigned long,unsigned long
+- (8x) [short] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/ghidra/Final_Cal_nidaq_dll_decomp_full.txt:13043] long,unsigned short,unsigned short,unsigned short,unsigned short,unsigned short,unsigned
+- (8x) [short] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/ghidra/Final_Cal_nidaq_dll_decomp_full.txt:305087] psVar4 = (short *)local_1c[1];
+- (8x) [short] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/ghidra/Final_Cal_nidaq_dll_decomp_full.txt:225472] psVar5 = *(short **)(iVar4 + sVar6 * 4);
+- (8x) [short] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/ghidra/Final_Cal_nidaq_dll_decomp_full.txt:52985] sVar1 = *(short *)(&DAT_2120f8de + iVar5);
+- (8x) [short] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/ghidra/Final_Cal_nidaq_dll_decomp_full.txt:248542] sVar1 = *(short *)(piVar2 + 1);
+- (8x) [short] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/ghidra/Final_Cal_nidaq_dll_decomp_full.txt:77886] sVar2 = (short)iVar4 * *psVar7;
+- (8x) [short] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/ghidra/Final_Cal_nidaq_dll_decomp_full.txt:51884] sVar2 = (short)uVar5 >> 1;
+- (8x) [short] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/ghidra/Final_Cal_nidaq_dll_decomp_full.txt:326989] sVar2 = *(short *)(local_c + 4);
+- (8x) [short] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/ghidra/Final_Cal_nidaq_dll_decomp_full.txt:221792] sVar3 = *(short *)_Src;
+- (8x) [short] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/ghidra/Final_Cal_nidaq_dll_decomp_full.txt:72156] sVar6 = *(short *)(puVar5 + 4);
+- (8x) [short] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/ghidra/Final_Cal_nidaq_dll_decomp_full.txt:95070] short *)(puVar7 + 5) = sVar6;
+- (8x) [short] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/ghidra/Final_Cal_nidaq_dll_decomp_full.txt:221658] short *)_Dst = (short)(char)*_Src;
+- (8x) [short] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/ghidra/Final_Cal_nidaq_dll_decomp_full.txt:12146] unsigned long *,unsigned short *) */
+- (8x) [short] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/ghidra/Final_Cal_nidaq_dll_decomp_full.txt:140082] while ((short)iVar13 < 4);
+- (8x) [short] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/ghidra/Final_Cal_nidaq_dll_decomp_full.txt:53984] while ((short)iVar13 <= sVar4);
+- (8x) [short] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/ghidra/Final_Cal_nidaq_dll_decomp_full.txt:81833] while ((short)iVar18 < 7);
+- (8x) [short] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/ghidra/Final_Cal_nidaq_dll_decomp_full.txt:96245] while ((short)iVar3 < 8);
+- (8x) [short] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/ghidra/Final_Cal_nidaq_dll_decomp_full.txt:230142] while ((short)local_8 < 8);
+- (8x) [short] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/ghidra/Final_Cal_nidaq_dll_decomp_full.txt:54494] while (-1 < (short)iVar9);
+- (8x) [short] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/ghidra/Final_Cal_nidaq_dll_decomp_full.txt:191185] while (aiStack_68[(short)uVar1] != 8);
+- (7x) [connect] [/Users/<user>/LC103/software_decompile_2026-02-24/labview_extract/LC103_FINAL_CAL_PROMPT_REBUILD.md:39] Connect the UUT and/or DVM leads to the LC103 Final Test Box.`
+- (7x) [open] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/all_strings_offsets.txt:453589] 972f Open GPIB Driver.vi
+- (7x) [open] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/all_strings_offsets.txt:418775] ae63 Open GPIB Driver.vi
+- (7x) [open] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/all_strings_offsets.txt:348115] aedf Open GPIB Driver.vi
+- (7x) [open] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/all_strings_offsets.txt:52989] createmirefnum is the reference number of the open file. The value is Not A Refnum if the file cannot be opened.
+- (6x) [short] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/ghidra/Final_Cal_nidaq_dll_decomp_full.txt:274556] CONCAT22((short)((uint)(auStack_dec + (short)local_84 * 4 + 2) >>
+- (6x) [short] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/all_strings_offsets.txt:320924] Lead Zero Short & Open VIM
+- (6x) [short] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/ghidra/Final_Cal_nidaq_dll_decomp_full.txt:274558] auStack_dec + (short)local_84 * 4 + 2);
+- (6x) [short] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/ghidra/Final_Cal_nidaq_dll_decomp_full.txt:274706] auStack_dfc[(int)local_94 + (short)local_84 * 4] =
+- (6x) [short] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/ghidra/Final_Cal_nidaq_dll_decomp_full.txt:274782] auStack_dfc[(int)local_94 + (short)local_84 * 4];
+- (6x) [short] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/ghidra/Final_Cal_nidaq_dll_decomp_full.txt:274712] auStack_e50 + ((int)local_94 + (short)local_84 * 2) * 2);
+- (6x) [short] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/ghidra/Final_Cal_nidaq_dll_decomp_full.txt:352539] bVar27 = (short)uVar13 == 0;
+- (6x) [short] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/ghidra/Final_Cal_nidaq_dll_decomp_full.txt:339879] double)*(float *)(iVar9 + (short)local_18 *
+- (6x) [short] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/ghidra/Final_Cal_nidaq_dll_decomp_full.txt:273608] fStack_13940 = ((float)(int)(short)local_1c *
+- (6x) [short] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/ghidra/Final_Cal_nidaq_dll_decomp_full.txt:339409] iVar12 = (short)local_1c * 2;
+- (6x) [short] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/ghidra/Final_Cal_nidaq_dll_decomp_full.txt:274787] iVar6 = (int)local_94 + (short)local_84 * 4;
+- (6x) [short] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/ghidra/Final_Cal_nidaq_dll_decomp_full.txt:339388] iVar9 = (short)local_14 * 2;
+- (6x) [short] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/ghidra/Final_Cal_nidaq_dll_decomp_full.txt:274551] int)(short)local_84 << 1,auStack_dec + (short)local_84 * 4);
+- (6x) [short] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/ghidra/Final_Cal_nidaq_dll_decomp_full.txt:274711] int)local_94 + (short)local_84 * 4,
+- (6x) [short] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/ghidra/Final_Cal_nidaq_dll_decomp_full.txt:274790] int)local_94 + (short)local_84 * 4,auStack_e50[iVar6 * 2],
+- (6x) [short] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/ghidra/Final_Cal_nidaq_dll_decomp_full.txt:273281] local_18 = (short *)CONCAT22(local_18._2_2_,(short)uVar3);
+- (6x) [short] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/ghidra/Final_Cal_nidaq_dll_decomp_full.txt:273638] local_18 = (short *)CONCAT22(local_18._2_2_,uVar2);
+- (6x) [short] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/ghidra/Final_Cal_nidaq_dll_decomp_full.txt:273113] local_18 = (short *)auStack_138f0;
+- (6x) [short] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/ghidra/Final_Cal_nidaq_dll_decomp_full.txt:74407] local_28 = (int)(short)(sVar6 + -1);
+- (6x) [short] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/ghidra/Final_Cal_nidaq_dll_decomp_full.txt:287781] local_2c = (short)*(char *)((int)local_8c + local_38 + -4);
+- (6x) [short] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/ghidra/Final_Cal_nidaq_dll_decomp_full.txt:287788] local_2c = -(short)*(char *)((int)local_8c + local_38 + -4);
+- (6x) [short] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/ghidra/Final_Cal_nidaq_dll_decomp_full.txt:338159] local_30 = (short *)(int)sVar6;
+- (6x) [short] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/ghidra/Final_Cal_nidaq_dll_decomp_full.txt:314091] local_34), (short)psVar7 != 0)) goto LAB_211a02db;
+- (6x) [short] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/ghidra/Final_Cal_nidaq_dll_decomp_full.txt:274834] local_40 = (double)(int)(short)local_864[iVar6] + local_40;
+- (6x) [short] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/ghidra/Final_Cal_nidaq_dll_decomp_full.txt:86224] local_4c = (short *)(&DAT_2120f8de + iVar15);
+- (6x) [short] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/ghidra/Final_Cal_nidaq_dll_decomp_full.txt:337842] local_50 = local_50 + (short)local_28 * 2 + (short)local_28 * 2;
+- (6x) [short] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/ghidra/Final_Cal_nidaq_dll_decomp_full.txt:337872] local_78 = (short)local_24 * 8;
+- (6x) [short] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/ghidra/Final_Cal_nidaq_dll_decomp_full.txt:313986] local_78), psVar4 = psVar7, (short)psVar7 != 0))
+- (6x) [short] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/ghidra/Final_Cal_nidaq_dll_decomp_full.txt:339627] local_8 = CONCAT22(local_8._2_2_,*(undefined2 *)(uVar15 + (short)local_18 * 2)
+- (6x) [short] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/ghidra/Final_Cal_nidaq_dll_decomp_full.txt:74543] psVar13 = (short)(uVar17 - 1);
+- (6x) [short] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/ghidra/Final_Cal_nidaq_dll_decomp_full.txt:314179] psVar4 = (short *)(uint)uVar13;
+- (6x) [short] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/ghidra/Final_Cal_nidaq_dll_decomp_full.txt:340431] psVar7 = (short *)((int)local_88 + 1);
+- (6x) [short] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/ghidra/Final_Cal_nidaq_dll_decomp_full.txt:299074] psVar8 = (short *)(local_34 + 1);
+- (6x) [short] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/ghidra/Final_Cal_nidaq_dll_decomp_full.txt:177882] psVar9 = (short *)((int)pvVar4 + 4);
+- (6x) [short] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/ghidra/Final_Cal_nidaq_dll_decomp_full.txt:340301] sVar2 = *(short *)(local_18 + iVar16);
+- (6x) [short] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/ghidra/Final_Cal_nidaq_dll_decomp_full.txt:267217] sVar2 = *(short *)(local_38 + local_5c * 2);
+- (6x) [short] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/ghidra/Final_Cal_nidaq_dll_decomp_full.txt:339413] sVar3 != *(short *)(local_2c +
+- (6x) [short] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/ghidra/Final_Cal_nidaq_dll_decomp_full.txt:286712] sVar3 = (short)(cVar2 >> 7);
+- (6x) [short] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/ghidra/Final_Cal_nidaq_dll_decomp_full.txt:339396] sVar3 = *(short *)(local_2c + ((short)local_8 / (short)local_58) * 2);
+- (6x) [short] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/ghidra/Final_Cal_nidaq_dll_decomp_full.txt:338119] short *)((short)iVar19 * 2 + iVar9) = psVar2[4];
+- (6x) [short] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/ghidra/Final_Cal_nidaq_dll_decomp_full.txt:338208] short *)(iVar9 + iVar20 * 2) = sVar6;
+- (6x) [short] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/ghidra/Final_Cal_nidaq_dll_decomp_full.txt:339465] short)((short)local_8 / sVar3) * 2));
+- (6x) [short] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/ghidra/Final_Cal_nidaq_dll_decomp_full.txt:340595] short)(0 / (longlong)(int)(short)local_58) * 2);
+- (6x) [short] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/ghidra/Final_Cal_nidaq_dll_decomp_full.txt:313918] short)psVar4 != 0)) goto LAB_2119fc82;
+- (6x) [short] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/ghidra/Final_Cal_nidaq_dll_decomp_full.txt:314117] short)psVar7 != 0)) goto LAB_211a02db;
+- (6x) [short] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/ghidra/Final_Cal_nidaq_dll_decomp_full.txt:314153] uVar11 = (uint)*(short *)((int)puVar6 + uVar10 * 2);
+- (6x) [short] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/ghidra/Final_Cal_nidaq_dll_decomp_full.txt:85571] uVar14 = _write((int)(short)local_c,pcVar10,(int)pcVar9 * 2);
+- (6x) [short] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/ghidra/Final_Cal_nidaq_dll_decomp_full.txt:339436] uVar15 = (short)local_14 * 2;
+- (6x) [short] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/ghidra/Final_Cal_nidaq_dll_decomp_full.txt:287152] uVar4 = (int)(short)local_14 - 1;
+- (6x) [short] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/ghidra/Final_Cal_nidaq_dll_decomp_full.txt:287702] uVar5 = (int)(short)local_18 - 1;
+- (6x) [short] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/ghidra/Final_Cal_nidaq_dll_decomp_full.txt:338109] undefined2 *)((short)iVar19 * 2 + iVar9) = **(undefined2 **)(psVar2 + 6);
+- (6x) [short] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/ghidra/Final_Cal_nidaq_dll_decomp_full.txt:340090] undefined2 *)(uVar15 + (short)local_24 * 2));
+- (6x) [short] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/ghidra/Final_Cal_nidaq_dll_decomp_full.txt:352827] while ((int)local_2c < (int)(short)(ushort)puVar22[1]);
+- (6x) [short] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/ghidra/Final_Cal_nidaq_dll_decomp_full.txt:338555] while ((int)sVar6 < (int)(short)*puVar12 / (int)(short)uVar8);
+- (6x) [short] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/ghidra/Final_Cal_nidaq_dll_decomp_full.txt:86937] while ((int)uVar7 < (int)(short)local_24);
+- (6x) [short] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/ghidra/Final_Cal_nidaq_dll_decomp_full.txt:86591] while ((int)uVar8 < (int)(short)local_24);
+- (6x) [short] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/ghidra/Final_Cal_nidaq_dll_decomp_full.txt:338307] while ((short)iVar20 < psVar2[5]);
+- (6x) [short] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/ghidra/Final_Cal_nidaq_dll_decomp_full.txt:340576] while ((short)local_14 < (short)puVar17[2]);
+- (6x) [short] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/ghidra/Final_Cal_nidaq_dll_decomp_full.txt:338478] while ((short)local_14 < (short)uVar8);
+- (6x) [short] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/ghidra/Final_Cal_nidaq_dll_decomp_full.txt:340091] while ((short)local_1c < (short)local_18);
+- (6x) [short] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/ghidra/Final_Cal_nidaq_dll_decomp_full.txt:339423] while ((short)local_1c < (short)puVar14[2]);
+- (6x) [short] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/ghidra/Final_Cal_nidaq_dll_decomp_full.txt:340165] while ((short)local_1c < *(short *)(iVar9 + iVar16 * 2));
+- (6x) [short] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/ghidra/Final_Cal_nidaq_dll_decomp_full.txt:338484] while ((short)local_24 < (short)local_10);
+- (6x) [short] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/ghidra/Final_Cal_nidaq_dll_decomp_full.txt:314077] while ((short)psVar7 == 0);
+- (6x) [short] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/ghidra/Final_Cal_nidaq_dll_decomp_full.txt:339429] while ((short)uVar5 < (short)local_24);
+- (6x) [short] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/ghidra/Final_Cal_nidaq_dll_decomp_full.txt:353658] while (iVar11 < (short)puVar25[2]);
+- (6x) [short] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/ghidra/Final_Cal_nidaq_dll_decomp_full.txt:338448] while (iVar20 < (short)uVar8 + -1);
+- (6x) [short] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/ghidra/Final_Cal_nidaq_dll_decomp_full.txt:338273] while (sVar16 < (short)local_10);
+- (6x) [short] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/ghidra/Final_Cal_nidaq_dll_decomp_full.txt:340335] while (sVar2 < (short)puVar14[2]);
+- (6x) [short] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/ghidra/Final_Cal_nidaq_dll_decomp_full.txt:299111] while (sVar4 < (short)local_c8);
+- (6x) [choose] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/all_strings_offsets.txt:52230] Name the VI library:1Choose the VI library to build as an application: Choose a custom control to open:"Choose a file of type %4c to open:

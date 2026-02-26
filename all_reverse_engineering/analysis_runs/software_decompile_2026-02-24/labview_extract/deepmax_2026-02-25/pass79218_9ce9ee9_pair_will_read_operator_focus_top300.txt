@@ -1,0 +1,2 @@
+47635:1620a0 The library "%z" must be converted to the current format. This will prevent earlier versions of LabVIEW from reading it.
+52435:1bcb0f The VI %p has changed on disk since last saved or loaded by LabVIEW. If you load its %p, it will probably be inconsistent with the parts of the VI already in memory, resulting in a corrupt VI.

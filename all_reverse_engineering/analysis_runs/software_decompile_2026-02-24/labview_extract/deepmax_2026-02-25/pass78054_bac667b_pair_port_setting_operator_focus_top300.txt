@@ -1,0 +1,81 @@
+70471:2d1450 /(i16) port width: the total width in bits of the port. For example, you can combine two 4-bit ports into an 8-bit port on an MIO board by setting port width to 8.
+75177:31bd84 D@Initializes the selected serial port to the specified settings.
+103177:4d8ce8 &port width is the total width in bits of the port. For example, you can combine two 4bit ports into an 8-bit port on an MIO board by setting port width to 8.
+103422:4dca2d You can control the number of lines in a port by the parameter port width. You also have the option of not reconfiguring the port as an output port with each iteration of the VI by setting the iteration control to a non-zero value.
+103595:4def01 =port width is the total width in bits or the number of lines of the port. For example, you can combine two 4bit ports into an 8-bit port on an MIO board by setting port width to 8.
+103844:4e2c52 You have the option to not reconfigure the port as an input port by setting the iteration control to a non-zero value. You can also concatenate multiple ports to operate as one large port by using the port width paramter.
+241104:115060 /(i16) port width: the total width in bits of the port. For example, you can combine two 4-bit ports into an 8-bit port on an MIO board by setting port width to 8.
+245487:15a438 D@Initializes the selected serial port to the specified settings.
+245676:15b68f @Initializes the selected serial port to the specified settings.
+261627:25210c &port width is the total width in bits of the port. For example, you can combine two 4bit ports into an 8-bit port on an MIO board by setting port width to 8.
+261872:255e51 You can control the number of lines in a port by the parameter port width. You also have the option of not reconfiguring the port as an output port with each iteration of the VI by setting the iteration control to a non-zero value.
+262040:257002 You can control the number of lines in a port by the parameter port width. You also have the option of not reconfiguring the port as an output port with each iteration of the VI by setting the iteration control to a non-zero value.
+262056:258755 =port width is the total width in bits or the number of lines of the port. For example, you can combine two 4bit ports into an 8-bit port on an MIO board by setting port width to 8.
+262305:25c4a6 You have the option to not reconfigure the port as an input port by setting the iteration control to a non-zero value. You can also concatenate multiple ports to operate as one large port by using the port width paramter.
+262470:25d643 You have the option to not reconfigure the port as an input port by setting the iteration control to a non-zero value. You can also concatenate multiple ports to operate as one large port by using the port width paramter.
+313550:1417d9 /(i16) port width: the total width in bits of the port. For example, you can combine two 4-bit ports into an 8-bit port on an MIO board by setting port width to 8.
+315127:1696ed &port width is the total width in bits of the port. For example, you can combine two 4bit ports into an 8-bit port on an MIO board by setting port width to 8.
+315374:16d430 You can control the number of lines in a port by the parameter port width. You also have the option of not reconfiguring the port as an output port with each iteration of the VI by setting the iteration control to a non-zero value.
+315540:16e5d6 You can control the number of lines in a port by the parameter port width. You also have the option of not reconfiguring the port as an output port with each iteration of the VI by setting the iteration control to a non-zero value.
+315557:16fd26 =port width is the total width in bits or the number of lines of the port. For example, you can combine two 4bit ports into an 8-bit port on an MIO board by setting port width to 8.
+315804:173a76 You have the option to not reconfigure the port as an input port by setting the iteration control to a non-zero value. You can also concatenate multiple ports to operate as one large port by using the port width paramter.
+315970:174c0b You have the option to not reconfigure the port as an input port by setting the iteration control to a non-zero value. You can also concatenate multiple ports to operate as one large port by using the port width paramter.
+340028:e0d01 /(i16) port width: the total width in bits of the port. For example, you can combine two 4-bit ports into an 8-bit port on an MIO board by setting port width to 8.
+341596:1075f6 You can control the number of lines in a port by the parameter port width. You also have the option of not reconfiguring the port as an output port with each iteration of the VI by setting the iteration control to a non-zero value.
+341612:108d79 &port width is the total width in bits of the port. For example, you can combine two 4bit ports into an 8-bit port on an MIO board by setting port width to 8.
+341860:10cabd You can control the number of lines in a port by the parameter port width. You also have the option of not reconfiguring the port as an output port with each iteration of the VI by setting the iteration control to a non-zero value.
+342026:10dc87 You have the option to not reconfigure the port as an input port by setting the iteration control to a non-zero value. You can also concatenate multiple ports to operate as one large port by using the port width paramter.
+342042:10f3c2 =port width is the total width in bits or the number of lines of the port. For example, you can combine two 4bit ports into an 8-bit port on an MIO board by setting port width to 8.
+342288:113112 You have the option to not reconfigure the port as an input port by setting the iteration control to a non-zero value. You can also concatenate multiple ports to operate as one large port by using the port width paramter.
+369533:15b5d9 You have the option to not reconfigure the port as an input port by setting the iteration control to a non-zero value. You can also concatenate multiple ports to operate as one large port by using the port width paramter.
+369536:15b837 =port width is the total width in bits or the number of lines of the port. For example, you can combine two 4bit ports into an 8-bit port on an MIO board by setting port width to 8.
+369993:1621f7 You can control the number of lines in a port by the parameter port width. You also have the option of not reconfiguring the port as an output port with each iteration of the VI by setting the iteration control to a non-zero value.
+369996:162462 &port width is the total width in bits of the port. For example, you can combine two 4bit ports into an 8-bit port on an MIO board by setting port width to 8.
+397587:33efaf D@Initializes the selected serial port to the specified settings.
+402187:387972 /(i16) port width: the total width in bits of the port. For example, you can combine two 4-bit ports into an 8-bit port on an MIO board by setting port width to 8.
+404005:3a3993 @Initializes the selected serial port to the specified settings.
+404066:3a5eee You can control the number of lines in a port by the parameter port width. You also have the option of not reconfiguring the port as an output port with each iteration of the VI by setting the iteration control to a non-zero value.
+404071:3a621b You have the option to not reconfigure the port as an input port by setting the iteration control to a non-zero value. You can also concatenate multiple ports to operate as one large port by using the port width paramter.
+432777:d593a You have the option to not reconfigure the port as an input port by setting the iteration control to a non-zero value. You can also concatenate multiple ports to operate as one large port by using the port width paramter.
+432780:d5b98 =port width is the total width in bits or the number of lines of the port. For example, you can combine two 4bit ports into an 8-bit port on an MIO board by setting port width to 8.
+433235:dc554 You can control the number of lines in a port by the parameter port width. You also have the option of not reconfiguring the port as an output port with each iteration of the VI by setting the iteration control to a non-zero value.
+433238:dc7bf &port width is the total width in bits of the port. For example, you can combine two 4bit ports into an 8-bit port on an MIO board by setting port width to 8.
+434960:105f50 /(i16) port width: the total width in bits of the port. For example, you can combine two 4-bit ports into an 8-bit port on an MIO board by setting port width to 8.
+443015:185e66 You can control the number of lines in a port by the parameter port width. You also have the option of not reconfiguring the port as an output port with each iteration of the VI by setting the iteration control to a non-zero value.
+443020:186193 You have the option to not reconfigure the port as an input port by setting the iteration control to a non-zero value. You can also concatenate multiple ports to operate as one large port by using the port width paramter.
+467310:ccb4b You have the option to not reconfigure the port as an input port by setting the iteration control to a non-zero value. You can also concatenate multiple ports to operate as one large port by using the port width paramter.
+467315:cce46 You can control the number of lines in a port by the parameter port width. You also have the option of not reconfiguring the port as an output port with each iteration of the VI by setting the iteration control to a non-zero value.
+469227:eb403 /(i16) port width: the total width in bits of the port. For example, you can combine two 4-bit ports into an 8-bit port on an MIO board by setting port width to 8.
+470943:11468a You can control the number of lines in a port by the parameter port width. You also have the option of not reconfiguring the port as an output port with each iteration of the VI by setting the iteration control to a non-zero value.
+470946:1148f5 &port width is the total width in bits of the port. For example, you can combine two 4bit ports into an 8-bit port on an MIO board by setting port width to 8.
+471410:11b27f You have the option to not reconfigure the port as an input port by setting the iteration control to a non-zero value. You can also concatenate multiple ports to operate as one large port by using the port width paramter.
+471413:11b4dd =port width is the total width in bits or the number of lines of the port. For example, you can combine two 4bit ports into an 8-bit port on an MIO board by setting port width to 8.
+502657:1c2d5a You have the option to not reconfigure the port as an input port by setting the iteration control to a non-zero value. You can also concatenate multiple ports to operate as one large port by using the port width paramter.
+502759:1c3f45 =port width is the total width in bits or the number of lines of the port. For example, you can combine two 4bit ports into an 8-bit port on an MIO board by setting port width to 8.
+502995:1c89b8 You can control the number of lines in a port by the parameter port width. You also have the option of not reconfiguring the port as an output port with each iteration of the VI by setting the iteration control to a non-zero value.
+503099:1c9c8a &port width is the total width in bits of the port. For example, you can combine two 4bit ports into an 8-bit port on an MIO board by setting port width to 8.
+522173:3541ec D@Initializes the selected serial port to the specified settings.
+525018:38830b /(i16) port width: the total width in bits of the port. For example, you can combine two 4-bit ports into an 8-bit port on an MIO board by setting port width to 8.
+527342:3b25df @Initializes the selected serial port to the specified settings.
+527403:3b4b3a You can control the number of lines in a port by the parameter port width. You also have the option of not reconfiguring the port as an output port with each iteration of the VI by setting the iteration control to a non-zero value.
+527408:3b4e67 You have the option to not reconfigure the port as an input port by setting the iteration control to a non-zero value. You can also concatenate multiple ports to operate as one large port by using the port width paramter.
+545152:d484a You have the option to not reconfigure the port as an input port by setting the iteration control to a non-zero value. You can also concatenate multiple ports to operate as one large port by using the port width paramter.
+545155:d4aa8 =port width is the total width in bits or the number of lines of the port. For example, you can combine two 4bit ports into an 8-bit port on an MIO board by setting port width to 8.
+545610:db464 You can control the number of lines in a port by the parameter port width. You also have the option of not reconfiguring the port as an output port with each iteration of the VI by setting the iteration control to a non-zero value.
+545613:db6cf &port width is the total width in bits of the port. For example, you can combine two 4bit ports into an 8-bit port on an MIO board by setting port width to 8.
+547335:104e60 /(i16) port width: the total width in bits of the port. For example, you can combine two 4-bit ports into an 8-bit port on an MIO board by setting port width to 8.
+548944:121e5a You can control the number of lines in a port by the parameter port width. You also have the option of not reconfiguring the port as an output port with each iteration of the VI by setting the iteration control to a non-zero value.
+548949:122187 You have the option to not reconfigure the port as an input port by setting the iteration control to a non-zero value. You can also concatenate multiple ports to operate as one large port by using the port width paramter.
+577718:13c363 You have the option to not reconfigure the port as an input port by setting the iteration control to a non-zero value. You can also concatenate multiple ports to operate as one large port by using the port width paramter.
+577723:13c65e You can control the number of lines in a port by the parameter port width. You also have the option of not reconfiguring the port as an output port with each iteration of the VI by setting the iteration control to a non-zero value.
+578947:1545f6 /(i16) port width: the total width in bits of the port. For example, you can combine two 4-bit ports into an 8-bit port on an MIO board by setting port width to 8.
+580187:176a2e You can control the number of lines in a port by the parameter port width. You also have the option of not reconfiguring the port as an output port with each iteration of the VI by setting the iteration control to a non-zero value.
+580292:177d00 &port width is the total width in bits of the port. For example, you can combine two 4bit ports into an 8-bit port on an MIO board by setting port width to 8.
+580540:17bf57 You have the option to not reconfigure the port as an input port by setting the iteration control to a non-zero value. You can also concatenate multiple ports to operate as one large port by using the port width paramter.
+580643:17d141 =port width is the total width in bits or the number of lines of the port. For example, you can combine two 4bit ports into an 8-bit port on an MIO board by setting port width to 8.
+596741:f383f @Initializes the selected serial port to the specified settings.
+596802:f5d9a You can control the number of lines in a port by the parameter port width. You also have the option of not reconfiguring the port as an output port with each iteration of the VI by setting the iteration control to a non-zero value.
+596807:f60c7 You have the option to not reconfigure the port as an input port by setting the iteration control to a non-zero value. You can also concatenate multiple ports to operate as one large port by using the port width paramter.
+600231:12cbab @Initializes the selected serial port to the specified settings.
+608562:1b9012 You can control the number of lines in a port by the parameter port width. You also have the option of not reconfiguring the port as an output port with each iteration of the VI by setting the iteration control to a non-zero value.
+608685:1bb093 You have the option to not reconfigure the port as an input port by setting the iteration control to a non-zero value. You can also concatenate multiple ports to operate as one large port by using the port width paramter.

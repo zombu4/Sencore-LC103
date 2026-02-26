@@ -1,0 +1,1 @@
+527435:3b5650 start of read offset is the position in the file, measured in characters (or bytes), at which the VI begins reading.

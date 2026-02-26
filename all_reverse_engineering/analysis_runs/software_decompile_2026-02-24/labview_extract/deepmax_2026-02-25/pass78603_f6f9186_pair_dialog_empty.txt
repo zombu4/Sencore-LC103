@@ -1,0 +1,141 @@
+100053:49acc7 cFile Dialog cancelled; set Error to Cancelled By User; empty File Path; set Refnum to Not a Refnum.
+102688:4d2f88 file path (dialog if empty),
+102689:4d2faa file path (dialog if empty)8
+102915:4d5cdb file path (dialog if empty)
+102916:4d5d03 file path (dialog if empty) `2
+102917:4d5d22 file path (dialog if empty) @2
+102918:4d5d41 file path (dialog if empty)
+103026:4d6b5f file path (dialog if empty)
+103033:4d6c3a file path (dialog if empty),2@'new file path (Not A Path if cancelled)
+103045:4d6e56 file path (dialog if empty)
+103123:4d73e2 file path (dialog if empty)
+111795:565e1d file path (dialog if empty),
+111796:565e3f file path (dialog if empty)8
+112263:56b8ab file path (dialog if empty)
+112269:56b966 file path (dialog if empty) `2
+112270:56b985 file path (dialog if empty) @2
+112271:56b9a4 file path (dialog if empty)
+112630:56d9ce file path (dialog if empty)
+112643:56db42 file path (dialog if empty)&
+112660:56de0f file path (dialog if empty)
+112745:56e427 file path (dialog if empty)
+112814:571e74 file path (dialog if empty)
+112820:572150 file path (dialog if empty)(
+112824:5722ce file path (dialog if empty)
+112833:5724c2 file path (dialog if empty)
+112976:5768b4 file path (dialog if empty)
+112980:576946 file path (dialog if empty),!
+113095:57a831 file path (dialog if empty)
+113103:57a941 file path (dialog if empty)
+113191:57b89a file path (dialog if empty)
+113203:57b9f9 file path (dialog if empty)PTH0!
+113299:582e08 file path (dialog if empty)
+113307:582fa3 file path (dialog if empty)
+114225:593f1c file path (dialog if empty)
+114512:595de0 file path (dialog if empty)
+114704:59f5a9 file path (dialog if empty)
+114720:59f7ad file path (dialog if empty)
+115848:5b4dcb file path (dialog if empty)
+116115:5b6da3 file path (dialog if empty)
+258383:2115f3 cFile Dialog cancelled; set Error to Cancelled By User; empty File Path; set Refnum to Not a Refnum.
+261105:24a609 file path (dialog if empty)
+261127:24bee8 file path (dialog if empty),
+261128:24bf0a file path (dialog if empty)8
+261354:24ec3b file path (dialog if empty)
+261355:24ec63 file path (dialog if empty) `2
+261356:24ec82 file path (dialog if empty) @2
+261357:24eca1 file path (dialog if empty)
+261465:24fabf file path (dialog if empty)
+261472:24fb9a file path (dialog if empty),2@'new file path (Not A Path if cancelled)
+261484:24fdb6 file path (dialog if empty)
+261562:250342 file path (dialog if empty)
+270291:2dd085 file path (dialog if empty)
+270324:2e0571 file path (dialog if empty),
+270325:2e0593 file path (dialog if empty)8
+270792:2e5fff file path (dialog if empty)
+270798:2e60ba file path (dialog if empty) `2
+270799:2e60d9 file path (dialog if empty) @2
+270800:2e60f8 file path (dialog if empty)
+271159:2e8122 file path (dialog if empty)
+271172:2e8296 file path (dialog if empty)&
+271189:2e8563 file path (dialog if empty)
+271274:2e8b7b file path (dialog if empty)
+271357:2eccf4 file path (dialog if empty)
+271363:2ecfd0 file path (dialog if empty)(
+271367:2ed14e file path (dialog if empty)
+271376:2ed342 file path (dialog if empty)
+271519:2f1734 file path (dialog if empty)
+271523:2f17c6 file path (dialog if empty),!
+271638:2f56b1 file path (dialog if empty)
+271646:2f57c1 file path (dialog if empty)
+271734:2f671a file path (dialog if empty)
+271746:2f6879 file path (dialog if empty)PTH0!
+271846:2fdd74 file path (dialog if empty)
+271854:2fdf0f file path (dialog if empty)
+272772:30ee88 file path (dialog if empty)
+273059:310d4c file path (dialog if empty)
+273255:31a601 file path (dialog if empty)
+273271:31a805 file path (dialog if empty)
+274399:32fe23 file path (dialog if empty)
+274666:331dfb file path (dialog if empty)
+361971:e164f file path (dialog if empty)
+362919:ec8ce file path (dialog if empty)
+363052:ed634 file path (dialog if empty).
+363060:ed744 file path (dialog if empty)
+363833:103802 file path (dialog if empty)
+364602:10cbcd file path (dialog if empty)
+364768:10daf6 file path (dialog if empty)
+364776:10dbf4 file path (dialog if empty).
+365469:11dcad file path (dialog if empty)
+365481:11de18 file path (dialog if empty)PTH0!
+365856:1227da file path (dialog if empty)
+365885:122a02 file path (dialog if empty)6@P
+365937:12330c file path (dialog if empty)
+365943:1233f0 file path (dialog if empty)2
+365953:12353c file path (dialog if empty)
+366507:12f631 file path (dialog if empty)
+366514:12f70e file path (dialog if empty)p2
+366596:12ffa4 file path (dialog if empty)
+366621:13045f file path (dialog if empty)&@
+366648:1311ca file path (dialog if empty)<
+366769:131cac file path (dialog if empty)z
+370381:16820b file path (dialog if empty)
+370383:168258 file path (dialog if empty)p2
+370440:168750 file path (dialog if empty)&
+370465:168a30 file path (dialog if empty)0@2
+370479:1691be file path (dialog if empty)<
+370592:169b5a file path (dialog if empty)L
+374125:1af0c6 cFile Dialog cancelled; set Error to Cancelled By User; empty File Path; set Refnum to Not a Refnum.
+392573:2ee499 file path (dialog if empty)
+393864:306761 file path (dialog if empty)
+493013:109046 file path (dialog if empty)
+493292:10a96d file path (dialog if empty)
+493624:110996 file path (dialog if empty).
+493632:110aa6 file path (dialog if empty)
+494342:125a04 file path (dialog if empty)
+494482:12686a file path (dialog if empty)
+494886:12c28d file path (dialog if empty)
+494894:12c38b file path (dialog if empty).
+495506:13b806 file path (dialog if empty)
+495518:13b970 file path (dialog if empty)PTH0!
+495564:13bf92 file path (dialog if empty)
+495694:13ee3e file path (dialog if empty)
+495700:13ef22 file path (dialog if empty)2
+495710:13f06e file path (dialog if empty)
+496103:147c75 file path (dialog if empty)
+496110:147d58 file path (dialog if empty)x2
+496165:148425 file path (dialog if empty)
+496220:1498fb file path (dialog if empty)&@
+496239:14a0c9 file path (dialog if empty)<
+496360:14abaf file path (dialog if empty)H
+503277:1ce830 file path (dialog if empty)
+503279:1ce883 file path (dialog if empty)x2
+503309:1ceb74 file path (dialog if empty)&
+503355:1cf73f file path (dialog if empty)0@2
+503365:1cfbe9 file path (dialog if empty)<
+503478:1d0589 file path (dialog if empty)H
+505957:208ea3 cFile Dialog cancelled; set Error to Cancelled By User; empty File Path; set Refnum to Not a Refnum.
+520249:3328c5 file path (dialog if empty)
+520287:332c95 file path (dialog if empty)
+597433:fc6e5 file path (dialog if empty)
+597471:fcb95 file path (dialog if empty)

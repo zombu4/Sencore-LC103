@@ -1,0 +1,27 @@
+48275:166e00 If this option is set, LabVIEW will not prompt for a user name when launched. The user name will be set to the name entered in the LabVIEW Registration.
+52039:1b9242 Unused error code.-AppMsg Mgr. encountered an unrecognized type.
+55637:1f6ab2 User abort occurred during I/O
+55860:1f9de1 - User abort occurred during I/O
+99491:4918d4 wscode is the identification number of the error. Use the General Error Handler.vi to get a description of the error.vrsource identifies where the error occurred and is usually the name of the function or VI that produced the error.
+225996:373f2 User abort occurred during I/O
+226224:3a8a9 - User abort occurred during I/O
+257821:208200 wscode is the identification number of the error. Use the General Error Handler.vi to get a description of the error.vrsource identifies where the error occurred and is usually the name of the function or VI that produced the error.
+292472:475b User abort occurred during I/O
+292701:7c76 - User abort occurred during I/O
+324593:3b6b User abort occurred during I/O
+324823:701a - User abort occurred during I/O
+347441:26b2 User abort occurred during I/O
+347669:5b69 - User abort occurred during I/O
+374039:1ae49e wscode is the identification number of the error. Use the General Error Handler.vi to get a description of the error.vrsource identifies where the error occurred and is usually the name of the function or VI that produced the error.
+418101:25cf User abort occurred during I/O
+418330:5aea - User abort occurred during I/O
+452892:fb7 User abort occurred during I/O
+453122:4466 - User abort occurred during I/O
+476657:26b2 User abort occurred during I/O
+476885:5b69 - User abort occurred during I/O
+530569:25cf User abort occurred during I/O
+530798:5aea - User abort occurred during I/O
+560808:fb7 User abort occurred during I/O
+561038:4466 - User abort occurred during I/O
+581380:262a User abort occurred during I/O
+581608:5ae1 - User abort occurred during I/O

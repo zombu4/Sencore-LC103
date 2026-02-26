@@ -1,0 +1,155 @@
+52365:1bbb43 The "%p" VI's log file binding is corrupt and has been cleared. To restore the VI's log file binding, open the VI and select the File->Data Logging->Change Log File Binding... menu item.
+52516:1bdd78 A wire must be connected to one and only one data source, such as a control's terminal or a function output. This wire is not connected to any source. Find the source of this data and make sure it is a control (not indicator) or an output (not input).
+52525:1be595 A wire can be connected to only one data source, such as a control's terminal or a function output. This wire is connected to more than one source. Make sure that all connections except one are to indicators (not controls) or inputs (not outputs).
+54655:1e5e9d Inductance Box Cal Data File
+54660:1e604a Inductance Box Cal Data File
+54699:1e7746 Inductance Box Cal Data File"@2
+54704:1e77f7 Inductance Box Cal Data File"`2
+54705:1e7817 Inductance Box Cal Data File"@2
+54706:1e7837 Inductance Box Cal Data File
+54711:1e79ea BPlease choose the file containing the inductance calibration data.
+54724:1e7b2f *.calBPlease choose the file containing the inductance calibration data.gencode.cGenDispatchEntry
+54731:1e7c43 Inductance Box Cal Data File
+54734:1e7cab Inductance Box Cal Data FileL
+54737:1e7f5d Inductance Box Cal Data File"@2
+75494:31fb85 UQWrites the data in string to write to the serial port indicated in port number.
+102543:4d083f This error code is not listed in the internal database, or you have wired a number that is not an error code (such as a DAQ task ID) to the error code input.6Windows GetCommError: The hex value of this code is x
+114316:594c74 BPlease choose the file containing the inductance calibration data.V
+114464:59572a *.calBPlease choose the file containing the inductance calibration data.
+116338:5c177c Path to Ind Box Dataata4
+116341:5c18ce Path to Ind Box Dataata0
+116515:5c3b64 Path to Ind Box Dataata4<
+116751:5c6049 Path to Ind Box Dataata4W
+116862:5c7685 Path to Ind Box Dataata
+116865:5c77ab Path to Ind Box Dataa,j
+116867:5c7877 Path to Ind Box Dataata
+116935:5c854e Inductance Box Cal Data File"@2
+116937:5c85b3 Inductance Box Cal Data File
+116943:5c874a Path to Ind Box Dataa4w
+118004:5d28c0 Path to Ind Box Dataa
+118558:5e0422 Path to Ind Box Dataa
+118559:5e043b Path to Ind Box Dataa
+118560:5e0454 Path to Ind Box Dataa
+118612:5e08b2 Path to Ind Box Dataa
+118721:5e1078 Inductance Box Cal Data File
+118782:5e1570 Path to Ind Box Dataa
+118784:5e15a5 Path to Ind Box Dataa
+118786:5e15d7 Path to Ind Box Dataa
+118795:5e1967 Path to Ind Box DataX
+118862:5e23a6 ++BPlease choose the file containing the inductance calibration data.W
+118867:5e2480 Path to Ind Box Data`
+118869:5e24c8 Path to Ind Box DataH
+118873:5e2559 Path to Ind Box DataW
+119159:5e39fc *.calBPlease choose the file containing the inductance calibration data.
+119181:5e3c68 Path to Ind Box Dataa
+119352:5e4a05 Inductance Box Cal Data File"@2
+224966:25845 Inductance Box Cal Data File
+224979:262c9 Inductance Box Cal Data File
+224984:26476 Inductance Box Cal Data File
+225023:27b72 Inductance Box Cal Data File"@2
+225028:27c23 Inductance Box Cal Data File"`2
+225029:27c43 Inductance Box Cal Data File"@2
+225030:27c63 Inductance Box Cal Data File
+225035:27e16 BPlease choose the file containing the inductance calibration data.
+225048:27f5b *.calBPlease choose the file containing the inductance calibration data.gencode.cGenDispatchEntry
+225055:2806f Inductance Box Cal Data File
+225058:280d7 Inductance Box Cal Data FileL
+225061:28389 Inductance Box Cal Data File"@2
+245809:15e369 UQWrites the data in string to write to the serial port indicated in port number.
+245907:15ec57 QWrites the data in string to write to the serial port indicated in port number.
+260976:249417 This error code is not listed in the internal database, or you have wired a number that is not an error code (such as a DAQ task ID) to the error code input.6Windows GetCommError: The hex value of this code is x
+272863:30fbe0 BPlease choose the file containing the inductance calibration data.V
+273011:310696 *.calBPlease choose the file containing the inductance calibration data.
+285875:3f0e80 Path to Ind Box Dataata4
+285878:3f0fd2 Path to Ind Box Dataata0
+286052:3f3268 Path to Ind Box Dataata4<
+286288:3f574d Path to Ind Box Dataata4W
+286399:3f6d89 Path to Ind Box Dataata
+286402:3f6eaf Path to Ind Box Dataa,j
+286404:3f6f7b Path to Ind Box Dataata
+286472:3f7c52 Inductance Box Cal Data File"@2
+286474:3f7cb7 Inductance Box Cal Data File
+286480:3f7e4e Path to Ind Box Dataa4w
+287541:401fc4 Path to Ind Box Dataa
+288095:40fb26 Path to Ind Box Dataa
+288096:40fb3f Path to Ind Box Dataa
+288097:40fb58 Path to Ind Box Dataa
+288149:40ffb6 Path to Ind Box Dataa
+288258:41077c Inductance Box Cal Data File
+288319:410c74 Path to Ind Box Dataa
+288321:410ca9 Path to Ind Box Dataa
+288323:410cdb Path to Ind Box Dataa
+288332:41106b Path to Ind Box DataX
+288399:411aaa ++BPlease choose the file containing the inductance calibration data.W
+288404:411b84 Path to Ind Box Data`
+288406:411bcc Path to Ind Box DataH
+288410:411c5d Path to Ind Box DataW
+288696:413100 *.calBPlease choose the file containing the inductance calibration data.
+288718:41336c Path to Ind Box Dataa
+288889:414109 Inductance Box Cal Data File"@2
+308029:e7965 UQWrites the data in string to write to the serial port indicated in port number.
+308128:e824f QWrites the data in string to write to the serial port indicated in port number.
+314984:166fe8 This error code is not listed in the internal database, or you have wired a number that is not an error code (such as a DAQ task ID) to the error code input.6Windows GetCommError: The hex value of this code is x
+341461:1065b8 This error code is not listed in the internal database, or you have wired a number that is not an error code (such as a DAQ task ID) to the error code input.6Windows GetCommError: The hex value of this code is x
+364694:10d2d4 *.calBPlease choose the file containing the inductance calibration data.
+364979:10f3ef ++BPlease choose the file containing the inductance calibration data.V
+368828:1514b1 Inductance Box Cal Data File
+397173:338d6a UQWrites the data in string to write to the serial port indicated in port number.
+404006:3a39db QWrites the data in string to write to the serial port indicated in port number.
+404879:3b3fb8 Inductance Box Cal Data File&@2
+404888:3b409c Inductance Box Cal Data File p2
+404920:3b4381 *.calBPlease choose the file containing the inductance calibration data.d:\automated\lv51\lvsource\gencode.cGenRangeCheck
+404929:3b4564 Inductance Box Cal Data File
+404932:3b4831 Inductance Box Cal Data File
+404950:3b4a24 Inductance Box Cal Data FileL
+404956:3b4b47 ++BPlease choose the file containing the inductance calibration data.
+411423:42a480 Inductance Box Cal Data File&@2
+412681:43a8a2 Path to Ind Box Data p2
+412741:43b00e Path to Ind Box Data
+412853:43b923 Inductance Box Cal Data File
+412944:43c0fd Path to Ind Box Data
+412946:43c13b Path to Ind Box Data
+412950:43c1aa Path to Ind Box Data"
+412981:43c65b *.calBPlease choose the file containing the inductance calibration data.PTH0
+413096:43cd14 Path to Ind Box Data
+413110:43d0c6 Path to Ind Box Data"
+413274:43dbb8 Inductance Box Cal Data File&@2
+413276:43dc03 Inductance Box Cal Data File6
+413410:43ec87 Path to Ind Box DataX
+413477:43f6d0 ++BPlease choose the file containing the inductance calibration data.W
+413484:43f7dd Path to Ind Box Data`
+413486:43f825 Path to Ind Box DataH
+413489:43f8b7 Path to Ind Box DataW
+441368:16c0b0 UQWrites the data in string to write to the serial port indicated in port number.
+442989:18540b QWrites the data in string to write to the serial port indicated in port number.
+490852:df969 Inductance Box Cal Data File&@2
+490911:dff61 Path to Ind Box Data p2
+491043:e0b7e Inductance Box Cal Data File
+491131:e11dc Path to Ind Box Data@@P
+491256:e1b7c Path to Ind Box Data
+491267:e1c95 Path to Ind Box Data
+491269:e1ccd Path to Ind Box Data
+491353:e28f4 *.calBPlease choose the file containing the inductance calibration data.PTH0
+492053:eee5d Path to Ind Box Data
+492068:ef210 Path to Ind Box Data"
+492156:ef8ca Inductance Box Cal Data File&@2
+492158:ef915 Inductance Box Cal Data File6
+492289:f0a7b Path to Ind Box DataH
+492416:f1f89 Path to Ind Box Data`
+492418:f1fd9 Path to Ind Box DataX
+492427:f2108 Path to Ind Box Data`
+494632:1274d7 *.calBPlease choose the file containing the inductance calibration data.
+503616:1d26f9 Inductance Box Cal Data File
+521914:34fbe5 UQWrites the data in string to write to the serial port indicated in port number.
+527343:3b2627 QWrites the data in string to write to the serial port indicated in port number.
+527447:3b6283 Inductance Box Cal Data File&@2
+527456:3b636d Inductance Box Cal Data File x2
+527465:3b650d *.calBPlease choose the file containing the inductance calibration data.
+527500:3b6cbe Inductance Box Cal Data File
+527503:3b6f8b Inductance Box Cal Data File
+527521:3b718a Inductance Box Cal Data FileH
+556362:1a3ebb QWrites the data in string to write to the serial port indicated in port number.
+558522:1c9d1a UQWrites the data in string to write to the serial port indicated in port number.
+596742:f3887 QWrites the data in string to write to the serial port indicated in port number.
+597075:fa159 Inductance Box Cal Data File
+600397:12f417 QWrites the data in string to write to the serial port indicated in port number.

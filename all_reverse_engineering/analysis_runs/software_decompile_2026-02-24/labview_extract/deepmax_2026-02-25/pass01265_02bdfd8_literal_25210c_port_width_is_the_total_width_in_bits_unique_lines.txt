@@ -1,0 +1,1 @@
+261627:25210c &port width is the total width in bits of the port. For example, you can combine two 4bit ports into an 8-bit port on an MIO board by setting port width to 8.

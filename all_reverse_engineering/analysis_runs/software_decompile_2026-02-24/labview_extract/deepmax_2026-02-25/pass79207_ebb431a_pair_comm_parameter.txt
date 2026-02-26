@@ -1,0 +1,15 @@
+68015:2b0875 (ABC) Uniquely identifies the instrument to establish communications with.  The grammar for the instrument descriptor is shown below.  Parameters are shown in lower-case and optional parameters are shown in square brackets ([]).
+74847:31761c lhOutput XON/XOFF. See the Common Serial Port VI Parameters section of this chapter for more information.
+238578:f3851 (ABC) Uniquely identifies the instrument to establish communications with.  The grammar for the instrument descriptor is shown below.  Parameters are shown in lower-case and optional parameters are shown in square brackets ([]).
+245157:155cd0 lhOutput XON/XOFF. See the Common Serial Port VI Parameters section of this chapter for more information.
+305208:c09f6 (ABC) Uniquely identifies the instrument to establish communications with.  The grammar for the instrument descriptor is shown below.  Parameters are shown in lower-case and optional parameters are shown in square brackets ([]).
+337482:bfce2 (ABC) Uniquely identifies the instrument to establish communications with.  The grammar for the instrument descriptor is shown below.  Parameters are shown in lower-case and optional parameters are shown in square brackets ([]).
+359408:b5e89 (ABC) Uniquely identifies the instrument to establish communications with.  The grammar for the instrument descriptor is shown below.  Parameters are shown in lower-case and optional parameters are shown in square brackets ([]).
+397617:33fbea lhOutput XON/XOFF. See the Common Serial Port VI Parameters section of this chapter for more information.
+430207:b5c02 (ABC) Uniquely identifies the instrument to establish communications with.  The grammar for the instrument descriptor is shown below.  Parameters are shown in lower-case and optional parameters are shown in square brackets ([]).
+465148:b44d2 (ABC) Uniquely identifies the instrument to establish communications with.  The grammar for the instrument descriptor is shown below.  Parameters are shown in lower-case and optional parameters are shown in square brackets ([]).
+488624:b5e89 (ABC) Uniquely identifies the instrument to establish communications with.  The grammar for the instrument descriptor is shown below.  Parameters are shown in lower-case and optional parameters are shown in square brackets ([]).
+522318:356768 hOutput XON/XOFF. See the Common Serial Port VI Parameters section of this chapter for more information.
+542675:b5c02 (ABC) Uniquely identifies the instrument to establish communications with.  The grammar for the instrument descriptor is shown below.  Parameters are shown in lower-case and optional parameters are shown in square brackets ([]).
+573064:b44d2 (ABC) Uniquely identifies the instrument to establish communications with.  The grammar for the instrument descriptor is shown below.  Parameters are shown in lower-case and optional parameters are shown in square brackets ([]).
+593346:b5de9 (ABC) Uniquely identifies the instrument to establish communications with.  The grammar for the instrument descriptor is shown below.  Parameters are shown in lower-case and optional parameters are shown in square brackets ([]).

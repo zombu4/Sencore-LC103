@@ -1,0 +1,89 @@
+53002:1cb453 TPsource is in most cases the name of the VI or function that produced the error.
+54243:1dfe39 TPsource is in most cases the name of the VI or function that produced the error.
+99489:491754 TPsource is in most cases the name of the VI or function that produced the error.
+100212:49d625 TPsource is in most cases the name of the VI or function that produced the error.
+100225:49d800 TPsource is in most cases the name of the VI or function that produced the error.
+100461:4a14a9 You can optionally use the source messages string to pass on the source of the error. Enter one line of text for each element of the error codes array.
+100618:4a3c81 TPsource is in most cases the name of the VI or function that produced the error.
+101026:4aa73b TPsource is in most cases the name of the VI or function that produced the error.
+101594:4b758d 2.source out indicates the source of the error.
+101596:4b763a error source is an optional string you can use to describe the source of error code. The VI uses the string in message if there is an error.
+101603:4b7834 source. In case of an error, most VIs that use the error in and error out clusters set source to the name of the VI or function that produced the error.
+101610:4b7a4c source. In case of an error, most VIs that use the error in and error out clusters set source to the name of the VI or function that produced the error.
+101611:4b7ae5 mimessage describes the error code that occurred, the source of the error, and a description of the error.
+223259:a07f TPsource is in most cases the name of the VI or function that produced the error.
+224536:1f919 TPsource is in most cases the name of the VI or function that produced the error.
+257819:208080 TPsource is in most cases the name of the VI or function that produced the error.
+258566:214a05 TPsource is in most cases the name of the VI or function that produced the error.
+258579:214be0 TPsource is in most cases the name of the VI or function that produced the error.
+258815:218889 You can optionally use the source messages string to pass on the source of the error. Enter one line of text for each element of the error codes array.
+258946:219972 You can optionally use the source messages string to pass on the source of the error. Enter one line of text for each element of the error codes array.
+258989:21b4d5 TPsource is in most cases the name of the VI or function that produced the error.
+259423:2227eb TPsource is in most cases the name of the VI or function that produced the error.
+260027:230165 2.source out indicates the source of the error.
+260029:230212 error source is an optional string you can use to describe the source of error code. The VI uses the string in message if there is an error.
+260036:23040c source. In case of an error, most VIs that use the error in and error out clusters set source to the name of the VI or function that produced the error.
+260043:230624 source. In case of an error, most VIs that use the error in and error out clusters set source to the name of the VI or function that produced the error.
+260044:2306bd mimessage describes the error code that occurred, the source of the error, and a description of the error.
+314015:14dd82 2.source out indicates the source of the error.
+314017:14de2f error source is an optional string you can use to describe the source of error code. The VI uses the string in message if there is an error.
+314024:14e029 source. In case of an error, most VIs that use the error in and error out clusters set source to the name of the VI or function that produced the error.
+314031:14e241 source. In case of an error, most VIs that use the error in and error out clusters set source to the name of the VI or function that produced the error.
+314032:14e2da mimessage describes the error code that occurred, the source of the error, and a description of the error.
+340498:ed365 2.source out indicates the source of the error.
+340500:ed412 error source is an optional string you can use to describe the source of error code. The VI uses the string in message if there is an error.
+340507:ed60c source. In case of an error, most VIs that use the error in and error out clusters set source to the name of the VI or function that produced the error.
+340514:ed824 source. In case of an error, most VIs that use the error in and error out clusters set source to the name of the VI or function that produced the error.
+340515:ed8bd mimessage describes the error code that occurred, the source of the error, and a description of the error.
+371461:183b1d 2.source out indicates the source of the error.
+371463:183bca error source is an optional string you can use to describe the source of error code. The VI uses the string in message if there is an error.
+371473:184195 source. In case of an error, most VIs that use the error in and error out clusters set source to the name of the VI or function that produced the error.
+371477:18438d source. In case of an error, most VIs that use the error in and error out clusters set source to the name of the VI or function that produced the error.
+371478:184426 mimessage describes the error code that occurred, the source of the error, and a description of the error.
+372369:193c26 TPsource is in most cases the name of the VI or function that produced the error.
+372957:19bdb3 TPsource is in most cases the name of the VI or function that produced the error.
+373370:1a203c You can optionally use the source messages string to pass on the source of the error. Enter one line of text for each element of the error codes array.
+373377:1a252c TPsource is in most cases the name of the VI or function that produced the error.
+373382:1a26c7 TPsource is in most cases the name of the VI or function that produced the error.
+374037:1ae31e TPsource is in most cases the name of the VI or function that produced the error.
+404034:3a481e You can optionally use the source messages string to pass on the source of the error. Enter one line of text for each element of the error codes array.
+405303:3ba908 TPsource is in most cases the name of the VI or function that produced the error.
+406207:3cca9a TPsource is in most cases the name of the VI or function that produced the error.
+434162:f7740 2.source out indicates the source of the error.
+434164:f77ed error source is an optional string you can use to describe the source of error code. The VI uses the string in message if there is an error.
+434174:f7db8 source. In case of an error, most VIs that use the error in and error out clusters set source to the name of the VI or function that produced the error.
+434178:f7fb0 source. In case of an error, most VIs that use the error in and error out clusters set source to the name of the VI or function that produced the error.
+434179:f8049 mimessage describes the error code that occurred, the source of the error, and a description of the error.
+470141:106cc1 2.source out indicates the source of the error.
+470143:106d6e error source is an optional string you can use to describe the source of error code. The VI uses the string in message if there is an error.
+470153:107339 source. In case of an error, most VIs that use the error in and error out clusters set source to the name of the VI or function that produced the error.
+470157:107531 source. In case of an error, most VIs that use the error in and error out clusters set source to the name of the VI or function that produced the error.
+470158:1075ca mimessage describes the error code that occurred, the source of the error, and a description of the error.
+504199:1e98e6 .source out indicates the source of the error.
+504207:1e9d40 error source is an optional string you can use to describe the source of error code. The VI uses the string in message if there is an error.
+504220:1ea485 source. In case of an error, most VIs that use the error in and error out clusters set source to the name of the VI or function that produced the error.
+504224:1ea756 source. In case of an error, most VIs that use the error in and error out clusters set source to the name of the VI or function that produced the error.
+504226:1ea82f imessage describes the error code that occurred, the source of the error, and a description of the error.
+504908:1f59cf Psource is in most cases the name of the VI or function that produced the error.
+505286:1fb941 Psource is in most cases the name of the VI or function that produced the error.
+505478:1ff5af You can optionally use the source messages string to pass on the source of the error. Enter one line of text for each element of the error codes array.
+505533:200802 Psource is in most cases the name of the VI or function that produced the error.
+505537:200921 Psource is in most cases the name of the VI or function that produced the error.
+506079:20a998 rsource identifies where the error occurred and is usually the name of the function or VI that produced the error.
+506086:20acdb Psource is in most cases the name of the VI or function that produced the error.
+527371:3b346a You can optionally use the source messages string to pass on the source of the error. Enter one line of text for each element of the error codes array.
+527768:3bc567 Psource is in most cases the name of the VI or function that produced the error.
+528609:3ccbce Psource is in most cases the name of the VI or function that produced the error.
+546537:f6650 2.source out indicates the source of the error.
+546539:f66fd error source is an optional string you can use to describe the source of error code. The VI uses the string in message if there is an error.
+546549:f6cc8 source. In case of an error, most VIs that use the error in and error out clusters set source to the name of the VI or function that produced the error.
+546553:f6ec0 source. In case of an error, most VIs that use the error in and error out clusters set source to the name of the VI or function that produced the error.
+546554:f6f59 mimessage describes the error code that occurred, the source of the error, and a description of the error.
+579618:16d7a9 .source out indicates the source of the error.
+579626:16dc03 error source is an optional string you can use to describe the source of error code. The VI uses the string in message if there is an error.
+579639:16e348 source. In case of an error, most VIs that use the error in and error out clusters set source to the name of the VI or function that produced the error.
+579643:16e619 source. In case of an error, most VIs that use the error in and error out clusters set source to the name of the VI or function that produced the error.
+579645:16e6f2 imessage describes the error code that occurred, the source of the error, and a description of the error.
+596274:e6dea Psource is in most cases the name of the VI or function that produced the error.
+596770:f46ca You can optionally use the source messages string to pass on the source of the error. Enter one line of text for each element of the error codes array.
+607296:1a3d6a You can optionally use the source messages string to pass on the source of the error. Enter one line of text for each element of the error codes array.

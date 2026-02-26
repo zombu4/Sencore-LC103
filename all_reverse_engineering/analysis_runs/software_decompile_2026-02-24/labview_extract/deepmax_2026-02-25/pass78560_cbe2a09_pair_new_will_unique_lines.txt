@@ -1,0 +1,14 @@
+48271:166b04 This is the default for the VI Setup of new VIs. If a VI has this option set, LabVIEW will add an entry to the VI's history every time it is saved, even if you do not enter a comment.
+48272:166bc0 This is the default for the VI Setup of new VIs. If a VI has this option set, LabVIEW will prompt you for a comment to add to the history whenever the VI is closed.
+48273:166c6c This is the default for the VI Setup of new VIs. If a VI has this option set, LabVIEW will prompt you for a comment to add to the history whenever the VI is saved.
+48274:166d14 This is the default for the VI Setup of new VIs. If a VI has this option set, LabVIEW will add comments to the VI's history when the name of the VI is changed, subVIs are changed, or the VI is upgraded to a new version of LabVIEW.
+102413:4c8692 DAQ dmaChainingErr: New buffer information was not available at the time of the DMA chaining interrupt; DMA transfers will terminate at the end of the currently active transfer buffer.
+260846:24126a DAQ dmaChainingErr: New buffer information was not available at the time of the DMA chaining interrupt; DMA transfers will terminate at the end of the currently active transfer buffer.
+314854:15ee3b DAQ dmaChainingErr: New buffer information was not available at the time of the DMA chaining interrupt; DMA transfers will terminate at the end of the currently active transfer buffer.
+341331:fe40b DAQ dmaChainingErr: New buffer information was not available at the time of the DMA chaining interrupt; DMA transfers will terminate at the end of the currently active transfer buffer.
+371284:17ac8c DAQ dmaChainingErr: New buffer information was not available at the time of the DMA chaining interrupt; DMA transfers will terminate at the end of the currently active transfer buffer.
+433985:ee8af DAQ dmaChainingErr: New buffer information was not available at the time of the DMA chaining interrupt; DMA transfers will terminate at the end of the currently active transfer buffer.
+469964:fde30 DAQ dmaChainingErr: New buffer information was not available at the time of the DMA chaining interrupt; DMA transfers will terminate at the end of the currently active transfer buffer.
+503794:1dbc2d DAQ dmaChainingErr: New buffer information was not available at the time of the DMA chaining interrupt; DMA transfers will terminate at the end of the currently active transfer buffer.
+546360:ed7bf DAQ dmaChainingErr: New buffer information was not available at the time of the DMA chaining interrupt; DMA transfers will terminate at the end of the currently active transfer buffer.
+579213:15faf1 DAQ dmaChainingErr: New buffer information was not available at the time of the DMA chaining interrupt; DMA transfers will terminate at the end of the currently active transfer buffer.

@@ -1,0 +1,11 @@
+52004:1b8a58 Too many files open.<Some system capacity necessary for operation is not enabled.
+80424:3705a0 Lead Open Test/Capsa
+80488:370baf Lead Open Test/Caps
+249485:199114 Lead Open Test/Capsa
+249549:199723 Lead Open Test/Caps
+320787:1c3894 aaaLeads zero, open Cap must read 0, IND must read "OPEN" and ESR must read "ERROR 7"W
+391776:2e4ac2 Lead Open Test/Caps
+391888:2e5a86 Lead Open Test/Capsa
+447600:1ca0c0 aaaLeads zero, open Cap must read 0, IND must read "OPEN" and ESR must read "ERROR 7"W
+517980:307e39 Lead Open Test/Caps
+550708:13e26b aaaLeads zero, open Cap must read 0, IND must read "OPEN" and ESR must read "ERROR 7"W

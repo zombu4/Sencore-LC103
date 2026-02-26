@@ -1,0 +1,122 @@
+vi_name,LV3_1,LV5_1,LV6,LV8
+". Use MakeAddress.vi",1,1,1,1
+"103FINAL.VI",1,1,1,1
+"10V_Set.vi",1,1,1,1
+"1ST_READ.vi",1,1,1,1
+"4882TMO.vi",1,1,1,1
+"_SAV.VI",1,1,1,1
+"APRX_EQL.vi",1,1,1,1
+"ateDevInfo.vi",1,1,1,1
+"Beep.vi",1,1,1,1
+"Bytes At Serial Port.vi",1,1,1,1
+"CAL_MODE.vi",1,1,1,1
+"CALB_SET.VI",1,1,1,1
+"CALCLEAR.VI",1,1,1,1
+"Caldate.vi",1,1,1,1
+"CALSET.VI",1,1,1,1
+"CAP_CAL.VI",1,1,1,1
+"CAPSETUP.vi",1,1,1,1
+"Close File+.vi",1,1,1,1
+"COMP_CF.vi",1,1,1,1
+"compatReadText.vi",0,0,0,1
+"compatWriteText.vi",0,0,0,1
+"Core GPIB Read.vi",1,1,1,1
+"Core GPIB Write.vi",1,1,1,1
+"DA_TEST.VI",1,1,1,1
+"Digital Group Configure.vi",1,1,0,0
+"Digital Group Read.vi",1,1,0,0
+"Digital Group Write.vi",1,1,0,0
+"Digital Port Configure.vi",1,1,0,0
+"Digital Port Write.vi",1,1,0,0
+"DIO Port Config.vi",1,1,1,1
+"DIO Port Read.vi",1,1,1,1
+"DIO Port Read.vid.vi",1,1,0,0
+"DIO Port Write.vi",1,1,1,1
+"DIO_R-W.VI",1,1,1,1
+"EEClear.VI",1,1,1,1
+"EEPROM.VI",1,1,1,1
+"ESR_CAL.VI",1,1,1,1
+"Find First Error.vi",1,1,1,1
+"FindDevLA.vi",1,1,1,1
+"FL 884XX Initialize.vi",1,1,1,1
+"FL 884XX Initialize.vie.vi",1,1,0,0
+"Fluke 8840A.vi",1,1,1,1
+"GAIN_CAL.VI",1,1,1,1
+"General Error Handler.vi",1,1,1,1
+"GET_CF.vi",1,1,1,1
+"GET_PATH.vi",1,1,1,1
+"GetDevInfoLong.vi",1,1,1,1
+"GetDevInfoShort.vi",1,1,1,1
+"GetDevInfoStr.vi",1,1,1,1
+"GlobStat.vi",1,1,1,1
+"IND_CAL.VI",1,1,1,1
+"INDSETUP.vi",1,1,1,1
+"InitVXIlibrary.vi",1,1,1,1
+"Instr Initialize Interface.vi",1,1,1,1
+"Instr Initialize Interface.vipter.vifsets.vi",1,1,1,1
+"Instr Open.vi",1,1,1,1
+"Instr Open.viarison.vi",1,1,1,1
+"Instr Parse Instrument Descriptor.vi",1,1,1,1
+"Instr Parse Instrument Descriptor.vifsets.vi",1,1,1,1
+"Instr Read.vi",1,1,1,1
+"Instr Read.vi Message.vie.vi",1,1,1,1
+"Instr Write.vi",1,1,1,1
+"INSTR_WT.VI",1,1,1,1
+"ISRC_CAL.VI",1,1,1,1
+"IST_WT_A.VI",1,1,1,1
+"LEADOPEN.vi",1,1,1,1
+"LEADSHRT.vi",1,1,1,1
+"Leak_CAL.VI",1,1,1,1
+"LEAK_I.VI",1,1,1,1
+"LEAK_VLT.VI",1,1,1,1
+"MakeAddr.vi",1,1,1,1
+"MThis verison of Serial Port Reset.vi",1,1,1,1
+"Open File+.vi",1,1,1,1
+"Open GPIB Driver.vi",1,1,1,1
+"Open Serial Driver.vi",1,1,1,1
+"Open Serial Driver.vier.vi",1,1,0,0
+"Open/Create/Replace File.vi",1,1,1,1
+"Open_Create_Replace File.vi",0,0,0,1
+"platGlob.vi",1,1,1,1
+"QMThis verison of Serial Port Reset.vi",1,1,1,0
+"RD8840A.VI",1,1,1,1
+"Read from Digital Port.vi",1,1,1,1
+"Read Lines From File.vi",1,1,1,1
+"Receive.vi",1,1,1,1
+"REV_CHK.vi",1,1,1,1
+"Ringer.vi",1,1,1,1
+"RS-232 Communications.vi",1,1,1,1
+"RS-232 Communications.viD.VI",1,1,0,0
+"scode is the identification number of the error. Use the General Error Handler.vi",0,0,1,0
+"Send.vi",1,1,1,1
+"SER_SET.VI",1,1,1,1
+"Serial Port Buffer Size.vi",1,1,1,1
+"Serial Port Buffer Size.vize.vi",1,1,0,0
+"Serial Port Init.vi",1,1,1,1
+"Serial Port Read.vi",1,1,1,1
+"Serial Port Reset.vi",1,1,1,1
+"Serial Port Reset.viReset.vi",1,1,0,0
+"Serial Port Write.vi",1,1,1,1
+"serpConfig.vi",1,1,1,1
+"serpOpen.vi",1,1,1,1
+"SETLD_RD.VI",1,1,1,1
+"Standard Deviation.vi",1,1,1,1
+"STARTCHK.vi",1,1,1,1
+"Std Deviation and Variance.vi",0,0,1,1
+"String Read.vi",1,1,1,1
+"String Read.vite.vi",0,0,0,1
+"String Write.vi",1,1,1,1
+"T_Setup.vi",1,1,1,1
+"test.vi",1,1,1,1
+"This version of Set Serial Port Buffer Size.vi is to be used on the SPARC or Windows version of LabVIEW as a subVI to OpenSerialDriver and Serial Port Init.vi",1,1,1,1
+"UUT Comm.vi",1,1,1,1
+"UUT_BEEP.vi",1,1,1,1
+"V.vi",1,1,1,1
+"VTL Global.vi",1,1,1,1
+"VTL Global.vibal.vi",1,1,1,1
+"WAIT.VI",1,1,1,1
+"Write Characters To File.vi",1,1,1,1
+"Write to Digital Port .vi",1,1,1,1
+"wscode is the identification number of the error. Use the General Error Handler.vi",1,1,0,0
+"WSrd.vi",1,1,1,1
+"WSwrt.vi",1,1,1,1

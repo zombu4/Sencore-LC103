@@ -1,0 +1,88 @@
+57172:212169 status is a Boolean array in which each bit describes a state of the GPIB Controller. If an error occurs, the GPIB VIs set bit 15. GPIB error is valid only if bit 15 of status is set.
+57190:2123fb status[15]- GPIB error detected
+57191:21241f GPIB error is valid only if bit 15 of status is set.
+57231:212a20 status[15]- GPIB error detectedA=data string contains count data bytes from the GPIB device.
+57989:220418 GPIB error is valid only if bit 15 of status is set.
+58011:2206f4 status is a Boolean array in which each bit describes a state of the GPIB Controller. If an error occurs, the GPIB VIs set bit 15. GPIB error is valid only if bit 15 of status is set.
+58029:220986 status[15]- GPIB error detected
+58053:220f01 status[15]- GPIB error detected
+227563:531c1 status is a Boolean array in which each bit describes a state of the GPIB Controller. If an error occurs, the GPIB VIs set bit 15. GPIB error is valid only if bit 15 of status is set.
+227581:53453 status[15]- GPIB error detected
+227582:53477 GPIB error is valid only if bit 15 of status is set.
+227622:53a78 status[15]- GPIB error detectedA=data string contains count data bytes from the GPIB device.
+228396:61704 GPIB error is valid only if bit 15 of status is set.
+228418:619e0 status is a Boolean array in which each bit describes a state of the GPIB Controller. If an error occurs, the GPIB VIs set bit 15. GPIB error is valid only if bit 15 of status is set.
+228436:61c72 status[15]- GPIB error detected
+228460:621ed status[15]- GPIB error detected
+294046:20552 status is a Boolean array in which each bit describes a state of the GPIB Controller. If an error occurs, the GPIB VIs set bit 15. GPIB error is valid only if bit 15 of status is set.
+294064:207e4 status[15]- GPIB error detected
+294065:20808 GPIB error is valid only if bit 15 of status is set.
+294105:20e09 status[15]- GPIB error detectedA=data string contains count data bytes from the GPIB device.
+294891:2ea51 GPIB error is valid only if bit 15 of status is set.
+294913:2ed2d status is a Boolean array in which each bit describes a state of the GPIB Controller. If an error occurs, the GPIB VIs set bit 15. GPIB error is valid only if bit 15 of status is set.
+294931:2efbf status[15]- GPIB error detected
+294955:2f53a status[15]- GPIB error detected
+326213:1f84a status is a Boolean array in which each bit describes a state of the GPIB Controller. If an error occurs, the GPIB VIs set bit 15. GPIB error is valid only if bit 15 of status is set.
+326231:1fadc status[15]- GPIB error detected
+326232:1fb00 GPIB error is valid only if bit 15 of status is set.
+326272:20101 status[15]- GPIB error detectedA=data string contains count data bytes from the GPIB device.
+327085:2dd39 GPIB error is valid only if bit 15 of status is set.
+327107:2e015 status is a Boolean array in which each bit describes a state of the GPIB Controller. If an error occurs, the GPIB VIs set bit 15. GPIB error is valid only if bit 15 of status is set.
+327125:2e2a7 status[15]- GPIB error detected
+327149:2e822 status[15]- GPIB error detected
+349008:1e481 status is a Boolean array in which each bit describes a state of the GPIB Controller. If an error occurs, the GPIB VIs set bit 15. GPIB error is valid only if bit 15 of status is set.
+349026:1e713 status[15]- GPIB error detected
+349027:1e737 GPIB error is valid only if bit 15 of status is set.
+349067:1ed38 status[15]- GPIB error detectedA=data string contains count data bytes from the GPIB device.
+349841:2c9c4 GPIB error is valid only if bit 15 of status is set.
+349863:2cca0 status is a Boolean array in which each bit describes a state of the GPIB Controller. If an error occurs, the GPIB VIs set bit 15. GPIB error is valid only if bit 15 of status is set.
+349881:2cf32 status[15]- GPIB error detected
+349905:2d4ad status[15]- GPIB error detected
+419675:1e3c6 status is a Boolean array in which each bit describes a state of the GPIB Controller. If an error occurs, the GPIB VIs set bit 15. GPIB error is valid only if bit 15 of status is set.
+419693:1e658 status[15]- GPIB error detected
+419694:1e67c GPIB error is valid only if bit 15 of status is set.
+419734:1ec7d status[15]- GPIB error detectedA=data string contains count data bytes from the GPIB device.
+420520:2c8c5 GPIB error is valid only if bit 15 of status is set.
+420542:2cba1 status is a Boolean array in which each bit describes a state of the GPIB Controller. If an error occurs, the GPIB VIs set bit 15. GPIB error is valid only if bit 15 of status is set.
+420560:2ce33 status[15]- GPIB error detected
+420584:2d3ae status[15]- GPIB error detected
+454512:1cc96 status is a Boolean array in which each bit describes a state of the GPIB Controller. If an error occurs, the GPIB VIs set bit 15. GPIB error is valid only if bit 15 of status is set.
+454530:1cf28 status[15]- GPIB error detected
+454531:1cf4c GPIB error is valid only if bit 15 of status is set.
+454571:1d54d status[15]- GPIB error detectedA=data string contains count data bytes from the GPIB device.
+455384:2b185 GPIB error is valid only if bit 15 of status is set.
+455406:2b461 status is a Boolean array in which each bit describes a state of the GPIB Controller. If an error occurs, the GPIB VIs set bit 15. GPIB error is valid only if bit 15 of status is set.
+455424:2b6f3 status[15]- GPIB error detected
+455448:2bc6e status[15]- GPIB error detected
+478224:1e481 status is a Boolean array in which each bit describes a state of the GPIB Controller. If an error occurs, the GPIB VIs set bit 15. GPIB error is valid only if bit 15 of status is set.
+478242:1e713 status[15]- GPIB error detected
+478243:1e737 GPIB error is valid only if bit 15 of status is set.
+478283:1ed38 status[15]- GPIB error detectedA=data string contains count data bytes from the GPIB device.
+479057:2c9c4 GPIB error is valid only if bit 15 of status is set.
+479079:2cca0 status is a Boolean array in which each bit describes a state of the GPIB Controller. If an error occurs, the GPIB VIs set bit 15. GPIB error is valid only if bit 15 of status is set.
+479097:2cf32 status[15]- GPIB error detected
+479121:2d4ad status[15]- GPIB error detected
+532143:1e3c6 status is a Boolean array in which each bit describes a state of the GPIB Controller. If an error occurs, the GPIB VIs set bit 15. GPIB error is valid only if bit 15 of status is set.
+532161:1e658 status[15]- GPIB error detected
+532162:1e67c GPIB error is valid only if bit 15 of status is set.
+532202:1ec7d status[15]- GPIB error detectedA=data string contains count data bytes from the GPIB device.
+532988:2c8c5 GPIB error is valid only if bit 15 of status is set.
+533010:2cba1 status is a Boolean array in which each bit describes a state of the GPIB Controller. If an error occurs, the GPIB VIs set bit 15. GPIB error is valid only if bit 15 of status is set.
+533028:2ce33 status[15]- GPIB error detected
+533052:2d3ae status[15]- GPIB error detected
+562428:1cc96 status is a Boolean array in which each bit describes a state of the GPIB Controller. If an error occurs, the GPIB VIs set bit 15. GPIB error is valid only if bit 15 of status is set.
+562446:1cf28 status[15]- GPIB error detected
+562447:1cf4c GPIB error is valid only if bit 15 of status is set.
+562487:1d54d status[15]- GPIB error detectedA=data string contains count data bytes from the GPIB device.
+563300:2b185 GPIB error is valid only if bit 15 of status is set.
+563322:2b461 status is a Boolean array in which each bit describes a state of the GPIB Controller. If an error occurs, the GPIB VIs set bit 15. GPIB error is valid only if bit 15 of status is set.
+563340:2b6f3 status[15]- GPIB error detected
+563364:2bc6e status[15]- GPIB error detected
+582947:1e3f9 status is a Boolean array in which each bit describes a state of the GPIB Controller. If an error occurs, the GPIB VIs set bit 15. GPIB error is valid only if bit 15 of status is set.
+582965:1e68b status[15]- GPIB error detected
+582966:1e6af GPIB error is valid only if bit 15 of status is set.
+583006:1ecb0 status[15]- GPIB error detectedA=data string contains count data bytes from the GPIB device.
+583780:2c93c GPIB error is valid only if bit 15 of status is set.
+583802:2cc18 status is a Boolean array in which each bit describes a state of the GPIB Controller. If an error occurs, the GPIB VIs set bit 15. GPIB error is valid only if bit 15 of status is set.
+583820:2ceaa status[15]- GPIB error detected
+583844:2d425 status[15]- GPIB error detected

@@ -1,0 +1,1 @@
+470137:106a0a b^exception code is the error code that you want to treat as an exception. By default, it is 0.

@@ -1,0 +1,151 @@
+category	count	text	source
+cal_file_selection	41	calCPlease choose the file containing the capacitance calibration data.PTH0	/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/all_strings_offsets.txt:54723
+cal_file_selection	29	calBPlease choose the file containing the inductance calibration data.	/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/all_strings_offsets.txt:114464
+cal_file_selection	14	BPlease choose the file containing the inductance calibration data.	/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/all_strings_offsets.txt:54711
+cal_file_selection	14	BPlease choose the file containing the inductance calibration data.V	/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/all_strings_offsets.txt:114316
+cal_file_selection	13	BPlease choose the file containing the inductance calibration data.W	/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/all_strings_offsets.txt:118862
+cal_file_selection	13	CCCPlease choose the file containing the capacitance calibration data.W	/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/all_strings_offsets.txt:118857
+cal_file_selection	9	CPlease choose the file containing the capacitance calibration data.O	/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/all_strings_offsets.txt:54708
+cal_file_selection	9	CPlease choose the file containing the capacitance calibration data.V	/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/all_strings_offsets.txt:115917
+cal_file_selection	9	calBPlease choose the file containing the inductance calibration data.PTH0	/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/all_strings_offsets.txt:412981
+cal_file_selection	9	calBPlease choose the file containing the inductance calibration data.gencode.cGenDispatchEntry	/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/all_strings_offsets.txt:54724
+cal_file_selection	9	calCPlease choose the file containing the capacitance calibration data.	/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/all_strings_offsets.txt:116077
+cal_file_selection	5	CCCPlease choose the file containing the capacitance calibration data.O	/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/all_strings_offsets.txt:404953
+cal_file_selection	5	CCCPlease choose the file containing the capacitance calibration data.V	/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/all_strings_offsets.txt:363277
+cal_file_selection	4	calBPlease choose the file containing the inductance calibration data.d:\automated\lv51\lvsource\gencode.cGenRangeCheck	/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/all_strings_offsets.txt:404920
+cal_file_selection	1	272863:30fbe0 BPlease choose the file containing the inductance calibration data.V	/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/wizard_prompt_candidates_narrow.txt:208
+cal_file_selection	1	273011:310696 *.calBPlease choose the file containing the inductance calibration data.	/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/wizard_prompt_candidates_narrow.txt:210
+cal_file_selection	1	274468:330ba2 CPlease choose the file containing the capacitance calibration data.V	/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/wizard_prompt_candidates_narrow.txt:212
+cal_file_selection	1	274628:3317bf *.calCPlease choose the file containing the capacitance calibration data.	/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/wizard_prompt_candidates_narrow.txt:214
+cal_file_selection	1	288394:4119e0 CCCPlease choose the file containing the capacitance calibration data.W	/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/wizard_prompt_candidates_narrow.txt:354
+cal_file_selection	1	288399:411aaa ++BPlease choose the file containing the inductance calibration data.W	/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/wizard_prompt_candidates_narrow.txt:355
+fixture_sequence	212	Short the UUT leads to the	/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/all_strings_offsets.txt:82518
+fixture_sequence	151	Inductance Decade Box (H Terminal)=Short the UUT leads to the	/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/all_strings_offsets.txt:82672
+fixture_sequence	137	Inductance Decade Box (L Terminal)BNow connect the red lead to the	/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/all_strings_offsets.txt:82682
+fixture_sequence	41	IND=Short the UUT leads to the	/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/all_strings_offsets.txt:82681
+fixture_sequence	29	Now connect the red UUT to the H Terminal of the decade box and set the box to 0.022uF(.0219).	/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/all_strings_offsets.txt:99167
+fixture_sequence	11	Inductance Decade Box (L Terminal)=Short the UUT leads to the	/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/all_strings_offsets.txt:389867
+fixture_sequence	11	Press 'Enter' when ready.cShort the UUT leads to the Capacitance Decade box(LTerminal).	/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/all_strings_offsets.txt:375113
+fixture_sequence	11	of rings specified on the cal box.-Switch the cal box to	/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/all_strings_offsets.txt:94475
+fixture_sequence	9	Capacitance Decade Box (Low Terminal).GNow connect the red lead to the	/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/all_strings_offsets.txt:388680
+fixture_sequence	9	Inductance Decade Box (H Terminal)BNow connect the red lead to the	/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/all_strings_offsets.txt:389871
+fixture_sequence	9	NFC-Switch the cal box to	/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/all_strings_offsets.txt:380042
+fixture_sequence	1	277905:36ba9b Now connect the red UUT to the H Terminal of the decade box and set the box to 0.022uF(.0219).	/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/wizard_prompt_candidates_narrow.txt:215
+fixture_sequence	1	278034:36c643 Now connect the red UUT to the H Terminal of the decade box and set the box to 0.022uF(.0219).	/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/wizard_prompt_candidates_narrow.txt:219
+fixture_sequence	1	290288:42edaf ===Short the UUT leads to the	/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/wizard_prompt_candidates_narrow.txt:379
+fixture_sequence	1	290297:42ef11 ===Short the UUT leads to the	/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/wizard_prompt_candidates_narrow.txt:381
+fixture_sequence	1	290369:42f7fa ===Short the UUT leads to the	/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/wizard_prompt_candidates_narrow.txt:387
+fixture_sequence	1	290376:42f912 ===Short the UUT leads to the	/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/wizard_prompt_candidates_narrow.txt:389
+fixture_sequence	1	290383:42fa2a ===Short the UUT leads to the	/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/wizard_prompt_candidates_narrow.txt:391
+fixture_sequence	1	290390:42fb42 ===Short the UUT leads to the	/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/wizard_prompt_candidates_narrow.txt:393
+fixture_sequence	1	290442:42fef2 Inductance Decade Box (H Terminal)=Short the UUT leads to the	/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/wizard_prompt_candidates_narrow.txt:396
+fixture_sequence	1	290449:42fff9 Inductance Decade Box (H Terminal)=Short the UUT leads to the	/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/wizard_prompt_candidates_narrow.txt:400
+fixture_sequence	1	290451:43005a IND=Short the UUT leads to the	/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/wizard_prompt_candidates_narrow.txt:401
+fixture_sequence	1	290452:430079 Inductance Decade Box (L Terminal)BNow connect the red lead to the	/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/wizard_prompt_candidates_narrow.txt:402
+fixture_sequence	1	290453:4300bc Inductance Decade Box (H Terminal)=Short the UUT leads to the	/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/wizard_prompt_candidates_narrow.txt:403
+fixture_sequence	1	290454:4300fa Inductance Decade Box (L Terminal)BNow connect the red lead to the	/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/wizard_prompt_candidates_narrow.txt:404
+fixture_sequence	1	290455:43013d Inductance Decade Box (H Terminal)=Short the UUT leads to the	/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/wizard_prompt_candidates_narrow.txt:405
+fixture_sequence	1	290456:43017b Inductance Decade Box (L Terminal)BNow connect the red lead to the	/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/wizard_prompt_candidates_narrow.txt:406
+fixture_sequence	1	290457:4301be Inductance Decade Box (H Terminal)=Short the UUT leads to the	/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/wizard_prompt_candidates_narrow.txt:407
+fixture_sequence	1	290458:4301fc Inductance Decade Box (L Terminal)BNow connect the red lead to the	/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/wizard_prompt_candidates_narrow.txt:408
+fixture_sequence	1	291243:440e42 ===Short the UUT leads to the	/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/wizard_prompt_candidates_narrow.txt:412
+fixture_sequence	1	291247:440edf ===Short the UUT leads to the	/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/wizard_prompt_candidates_narrow.txt:413
+fixture_sequence	1	291253:440fd8 ===Short the UUT leads to the	/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/wizard_prompt_candidates_narrow.txt:415
+fixture_sequence	1	291259:4410d1 ===Short the UUT leads to the	/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/wizard_prompt_candidates_narrow.txt:417
+fixture_sequence	1	291265:4411ca ===Short the UUT leads to the	/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/wizard_prompt_candidates_narrow.txt:419
+fixture_sequence	1	291350:441a4b Inductance Decade Box (H Terminal)=Short the UUT leads to the	/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/wizard_prompt_candidates_narrow.txt:424
+fixture_sequence	1	291352:441aac IND=Short the UUT leads to the	/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/wizard_prompt_candidates_narrow.txt:425
+fixture_sequence	1	291353:441acb Inductance Decade Box (L Terminal)BNow connect the red lead to the	/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/wizard_prompt_candidates_narrow.txt:426
+fixture_sequence	1	291354:441b0e Inductance Decade Box (H Terminal)=Short the UUT leads to the	/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/wizard_prompt_candidates_narrow.txt:427
+fixture_sequence	1	291355:441b4c Inductance Decade Box (L Terminal)BNow connect the red lead to the	/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/wizard_prompt_candidates_narrow.txt:428
+fixture_sequence	1	291356:441b8f Inductance Decade Box (H Terminal)=Short the UUT leads to the	/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/wizard_prompt_candidates_narrow.txt:429
+setup_harness	33	1) Plug in and turn on LC103 Mainboard test box.	/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/all_strings_offsets.txt:307022
+setup_harness	33	2) Attach power adapter and RS-232 cable to LC103	/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/all_strings_offsets.txt:307023
+setup_harness	33	3) Connect Fluke 8840A to DVM plugs on front panel of test box.	/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/all_strings_offsets.txt:307025
+setup_harness	33	4) Connect Lo Capacity leads to UUT plugs on front of test box.	/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/all_strings_offsets.txt:307026
+setup_harness	33	5) Connect 50 pin ribbon cable from PC to right side of test box.	/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/all_strings_offsets.txt:307027
+setup_harness	1	307025:d5a3c 3) Connect Fluke 8840A to DVM plugs on front panel of test box.	/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/wizard_prompt_candidates_narrow.txt:441
+setup_harness	1	307026:d5a7c 4) Connect Lo Capacity leads to UUT plugs on front of test box.	/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/wizard_prompt_candidates_narrow.txt:442
+setup_harness	1	307027:d5abc 5) Connect 50 pin ribbon cable from PC to right side of test box.	/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/wizard_prompt_candidates_narrow.txt:443
+setup_harness	1	323373:1f003c 3) Connect Fluke 8840A to DVM plugs on front panel of test box.	/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/wizard_prompt_candidates_narrow.txt:464
+setup_harness	1	323374:1f007c 4) Connect Lo Capacity leads to UUT plugs on front of test box.	/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/wizard_prompt_candidates_narrow.txt:465
+setup_harness	1	323375:1f00bc 5) Connect 50 pin ribbon cable from PC to right side of test box.	/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/wizard_prompt_candidates_narrow.txt:466
+setup_harness	1	323680:1f2c87 3) Connect Fluke 8840A to DVM plugs on front panel of test box.	/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/wizard_prompt_candidates_narrow.txt:467
+setup_harness	1	323681:1f2cc7 4) Connect Lo Capacity leads to UUT plugs on front of test box.	/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/wizard_prompt_candidates_narrow.txt:468
+setup_harness	1	323682:1f2d07 5) Connect 50 pin ribbon cable from PC to right side of test box.	/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/wizard_prompt_candidates_narrow.txt:469
+setup_harness	1	442587:17f591 3) Connect Fluke 8840A to DVM plugs on front panel of test box.	/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/wizard_prompt_candidates_narrow.txt:854
+setup_harness	1	442588:17f5d1 4) Connect Lo Capacity leads to UUT plugs on front of test box.	/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/wizard_prompt_candidates_narrow.txt:855
+setup_harness	1	442589:17f611 5) Connect 50 pin ribbon cable from PC to right side of test box.	/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/wizard_prompt_candidates_narrow.txt:856
+setup_harness	1	445165:1a56f9 3) Connect Fluke 8840A to DVM plugs on front panel of test box.	/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/wizard_prompt_candidates_narrow.txt:864
+setup_harness	1	445166:1a5739 4) Connect Lo Capacity leads to UUT plugs on front of test box.	/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/wizard_prompt_candidates_narrow.txt:865
+setup_harness	1	445167:1a5779 5) Connect 50 pin ribbon cable from PC to right side of test box.	/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/wizard_prompt_candidates_narrow.txt:866
+test_flow_hints	26	Lead Zero Short Test/ESR	/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/all_strings_offsets.txt:79451
+test_flow_hints	21	Lead Zero Short Test/Inductance	/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/all_strings_offsets.txt:79525
+test_flow_hints	21	Make sure tester POWER is ON	/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/all_strings_offsets.txt:346802
+test_flow_hints	21	Remove UUT from tester, Proceed to next UUT	/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/all_strings_offsets.txt:346812
+test_flow_hints	16	Lead Zero Short Test/Inductanced	/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/all_strings_offsets.txt:79450
+test_flow_hints	11	Lead Zero Short Test/ESRKSomething seems to be wrong. Make sure the UUT leads are shorted together.?	/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/all_strings_offsets.txt:393270
+test_flow_hints	1	346812:19082f --Remove UUT from tester, Proceed to next UUT	/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/wizard_prompt_candidates_narrow.txt:487
+test_flow_hints	1	346930:191652 --Remove UUT from tester, Proceed to next UUT	/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/wizard_prompt_candidates_narrow.txt:488
+test_flow_hints	1	475190:167a4e --Remove UUT from tester, Proceed to next UUT	/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/wizard_prompt_candidates_narrow.txt:910
+test_flow_hints	1	475876:16ea47 --Remove UUT from tester, Proceed to next UUT	/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/wizard_prompt_candidates_narrow.txt:912
+test_flow_hints	1	575782:e5514 --Remove UUT from tester, Proceed to next UUT	/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/wizard_prompt_candidates_narrow.txt:1234
+test_flow_hints	1	HIT@50294 CTX@50296: 360418 Lead Zero Short Test	/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/103FIN_command_hits_strict_context.txt:45
+test_flow_hints	1	Lead Zero Short Test/ESRKSomething seems to be wrong. Make sure the UUT leads are shorted together.?`	/Users/<user>/LC103/software_decompile_2026-02-24/labview_extract/LC103_OPERATOR_PROMPT_UNION_ALL_SOURCES_2026-02-24.md:437
+test_flow_hints	1	Something seems to be wrong with the leads. Check the leads and press 'Enter' when ready.`	/Users/<user>/LC103/software_decompile_2026-02-24/labview_extract/LC103_FINAL_CAL_PROMPT_REBUILD.md:126
+test_flow_hints	1	44546:35fd27 Lead Zero Short Test/Inductanced	/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/103FIN_command_hits_with_lines.txt:520
+test_flow_hints	1	44547:35fd60 Lead Zero Short Test/ESR	/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/103FIN_command_hits_with_lines.txt:521
+test_flow_hints	1	44620:360418 Lead Zero Short Test	/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/103FIN_command_hits_with_lines.txt:529
+test_flow_hints	1	44621:36042d Lead Zero Short Test/Inductance	/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/103FIN_command_hits_with_lines.txt:530
+test_flow_hints	1	44622:36044d Lead Zero Short Test/ESR	/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/103FIN_command_hits_with_lines.txt:531
+test_flow_hints	1	44624:36047c Lead Zero Short Test[	/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/103FIN_command_hits_with_lines.txt:532
+trim_and_ref	29	Connect the '+' DVM lead to TP1006	/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/all_strings_offsets.txt:93443
+trim_and_ref	29	and the '-' lead to TP1020. Adjust	/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/all_strings_offsets.txt:93444
+trim_and_ref	17	Press 'Enter' when finished.	/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/all_strings_offsets.txt:93446
+trim_and_ref	13	RIN>Adjust R1144 for the number	/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/all_strings_offsets.txt:94474
+trim_and_ref	13	RINBNow adjust R1005 for the number	/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/all_strings_offsets.txt:94477
+trim_and_ref	10	AABNow adjust R1005 for the number	/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/all_strings_offsets.txt:94383
+trim_and_ref	10	Adjust R1144 for the number	/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/all_strings_offsets.txt:94377
+trim_and_ref	9	Press 'Enter' when finished.d	/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/all_strings_offsets.txt:93503
+trim_and_ref	5	Press 'Enter' when finished.H	/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/all_strings_offsets.txt:380937
+trim_and_ref	1	380814:2159e0 Connect the '+' DVM lead to TP1006	/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/wizard_prompt_candidates_narrow.txt:588
+trim_and_ref	1	510688:25cef5 Connect the '+' DVM lead to TP1006	/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/wizard_prompt_candidates_narrow.txt:1039
+trim_and_ref	1	93500:439a14 Connect the '+' DVM lead to TP1006	/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/wizard_prompt_candidates_narrow.txt:1485
+trim_and_ref	3	59473:4448dc >>>Adjust R1144 for the number	/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/103FIN_command_hits_strict.txt:59
+trim_and_ref	3	59479:4449c1 AABNow adjust R1005 for the number	/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/103FIN_command_hits_strict.txt:61
+trim_and_ref	3	59570:44519b RIN>Adjust R1144 for the number	/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/103FIN_command_hits_strict.txt:67
+trim_and_ref	3	59573:445214 RINBNow adjust R1005 for the number	/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/103FIN_command_hits_strict.txt:69
+trim_and_ref	1	HIT@66385 CTX@66386: 439a14 Connect the '+' DVM lead to TP1006	/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/103FIN_command_hits_strict_context.txt:289
+trim_and_ref	1	HIT@67443 CTX@67443: 4448dc >>>Adjust R1144 for the number	/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/103FIN_command_hits_strict_context.txt:293
+trim_and_ref	1	HIT@67449 CTX@67449: 4449c1 AABNow adjust R1005 for the number	/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/103FIN_command_hits_strict_context.txt:303
+trim_and_ref	1	HIT@67541 CTX@67542: 44519b RIN>Adjust R1144 for the number	/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/103FIN_command_hits_strict_context.txt:329
+workflow_control	21	Couldn't open the Software Rev. file. Please set the Software Rev. manually on the front panel. Place the flopply disk in the computer NOW.	/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/all_strings_offsets.txt:113158
+workflow_control	21	Couldn't retrieve the proper Software Rev. number. Please set this manually on the front panel.	/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/all_strings_offsets.txt:113113
+workflow_control	17	Press F1 to change paths.Y	/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/all_strings_offsets.txt:118797
+workflow_control	17	RCouldn't open the Software Rev. file. Place the flopply disk in the computer NOW.s	/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/all_strings_offsets.txt:113119
+workflow_control	16	Couldn't open the Software Rev. file. Please set the Software Rev. manually on the front panel. Place the flopply disk in the computer NOW.MD	/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/all_strings_offsets.txt:113114
+workflow_control	13	6) Press ENTER when ready, choose test to perform and press START.	/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/all_strings_offsets.txt:323683
+workflow_control	13	6) Press ENTER when ready, choose test to perform and press START.H	/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/all_strings_offsets.txt:323376
+workflow_control	11	Last known LC103 Software Rev. is: VERRCouldn't open the Software Rev. file. Place the flopply disk in the computer NOW.	/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/all_strings_offsets.txt:113157
+workflow_control	11	xxxxRCouldn't open the Software Rev. file. Place the flopply disk in the computer NOW.'Last known LC103 Software Rev. is: VER	/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/all_strings_offsets.txt:365905
+workflow_control	9	VER`Couldn't retrieve the proper Software Rev. number. Please set this manually on the front panel.	/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/all_strings_offsets.txt:365903
+workflow_control	5	6) Press ENTER when ready, choose test to perform and press START.S	/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/all_strings_offsets.txt:307028
+workflow_control	5	6) Press ENTER when ready, choose test to perform and press START.[	/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/all_strings_offsets.txt:442590
+workflow_control	1	271700:2f608c 'Last known LC103 Software Rev. is: VERRCouldn't open the Software Rev. file. Place the flopply disk in the computer NOW.	/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/wizard_prompt_candidates_narrow.txt:202
+workflow_control	1	271701:2f6108 Couldn't open the Software Rev. file. Please set the Software Rev. manually on the front panel. Place the flopply disk in the computer NOW.	/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/wizard_prompt_candidates_narrow.txt:203
+workflow_control	1	271703:2f61cb `Couldn't retrieve the proper Software Rev. number. Please set this manually on the front panel.	/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/wizard_prompt_candidates_narrow.txt:205
+workflow_control	1	365903:122b80 VER`Couldn't retrieve the proper Software Rev. number. Please set this manually on the front panel.	/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/wizard_prompt_candidates_narrow.txt:523
+workflow_control	1	365904:122be5 Couldn't open the Software Rev. file. Please set the Software Rev. manually on the front panel. Place the flopply disk in the computer NOW.	/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/wizard_prompt_candidates_narrow.txt:524
+workflow_control	1	365905:122c78 xxxxRCouldn't open the Software Rev. file. Place the flopply disk in the computer NOW.'Last known LC103 Software Rev. is: VER	/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/wizard_prompt_candidates_narrow.txt:525
+workflow_control	1	366003:123c4a `Couldn't retrieve the proper Software Rev. number. Please set this manually on the front panel.	/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/wizard_prompt_candidates_narrow.txt:528
+workflow_control	1	366004:123cc3 Couldn't open the Software Rev. file. Please set the Software Rev. manually on the front panel. Place the flopply disk in the computer NOW.MD	/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/wizard_prompt_candidates_narrow.txt:529
+workflow_control	1	366009:123e1f ''RCouldn't open the Software Rev. file. Place the flopply disk in the computer NOW.s	/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/wizard_prompt_candidates_narrow.txt:530
+workflow_control	1	495583:13c190 VER`Couldn't retrieve the proper Software Rev. number. Please set this manually on the front panel.	/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/wizard_prompt_candidates_narrow.txt:985
+workflow_control	1	495584:13c1f5 Couldn't open the Software Rev. file. Please set the Software Rev. manually on the front panel. Place the flopply disk in the computer NOW.	/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/wizard_prompt_candidates_narrow.txt:986
+workflow_control	1	495585:13c288 xxxxRCouldn't open the Software Rev. file. Place the flopply disk in the computer NOW.'Last known LC103 Software Rev. is: VER	/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/wizard_prompt_candidates_narrow.txt:987
+workflow_control	3	78209:57ac8d `Couldn't retrieve the proper Software Rev. number. Please set this manually on the front panel.	/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/103FIN_command_hits_strict.txt:176
+workflow_control	3	78210:57ad07 Couldn't open the Software Rev. file. Please set the Software Rev. manually on the front panel. Place the flopply disk in the computer NOW.MD	/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/103FIN_command_hits_strict.txt:177
+workflow_control	3	78215:57ae6e RCouldn't open the Software Rev. file. Place the flopply disk in the computer NOW.s	/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/103FIN_command_hits_strict.txt:178
+workflow_control	3	78253:57b20c 'Last known LC103 Software Rev. is: VERRCouldn't open the Software Rev. file. Place the flopply disk in the computer NOW.	/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/103FIN_command_hits_strict.txt:186
+workflow_control	3	78254:57b288 Couldn't open the Software Rev. file. Please set the Software Rev. manually on the front panel. Place the flopply disk in the computer NOW.	/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/103FIN_command_hits_strict.txt:187
+workflow_control	3	78256:57b34b `Couldn't retrieve the proper Software Rev. number. Please set this manually on the front panel.	/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/103FIN_command_hits_strict.txt:189

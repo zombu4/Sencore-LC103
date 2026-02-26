@@ -1,0 +1,2 @@
+51994:1b887a -Not enough memory to complete this operation.)Not enough memory to open control editor..Not enough memory to change to customize mode."Not enough memory to update probe.(Not enough memory to create this object.
+52537:1bf15c The subVI is currently in interactive retrieval mode for datalogging, so this VI cannot use it to run. Open the subVI's front panel and change back to edit or run mode.

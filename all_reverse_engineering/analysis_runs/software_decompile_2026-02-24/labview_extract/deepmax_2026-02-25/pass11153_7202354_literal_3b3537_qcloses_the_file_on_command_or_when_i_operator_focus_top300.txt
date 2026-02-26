@@ -1,0 +1,1 @@
+527373:3b3537 QCloses the file on command or when in incoming error occurs and returns the file size at closure.

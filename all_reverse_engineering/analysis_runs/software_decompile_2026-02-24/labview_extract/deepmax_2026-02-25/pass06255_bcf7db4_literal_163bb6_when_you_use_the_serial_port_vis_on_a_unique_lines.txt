@@ -1,0 +1,1 @@
+246191:163bb6 When you use the serial port VIs on a Sun SPARCstation, the port number parameter is 0 for /dev/ttya, 1 for /dev/ttyb, and so on.

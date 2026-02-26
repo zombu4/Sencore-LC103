@@ -1,0 +1,5 @@
+50788:18444c Library Name or Path
+52426:1bc74e $Can't get name from VI library path.%Can't get name from file system path.#Can't extract file from VI library.
+52539:1bf374 There is no library specified for this node. Pop up on the Call Library Function node and select Configure..., then choose a library name or path.
+52541:1bf499 The library specified for this node cannot be found. Pop up on the Call Library Function node and select Configure..., then choose the correct library name or path.
+120069:5ecae1 CheckVINameAndPathStrs

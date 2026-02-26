@@ -1,0 +1,22 @@
+75867:325275 UQbyte count is the number of bytes currently queued up in the serial port buffer.
+75980:3275e3 okReturns in byte count the number of bytes in the input buffer of the serial port indicated in port number.
+246193:163d19 UQbyte count is the number of bytes currently queued up in the serial port buffer.
+246306:166087 okReturns in byte count the number of bytes in the input buffer of the serial port indicated in port number.
+246407:1669fb kReturns in byte count the number of bytes in the input buffer of the serial port indicated in port number.
+308413:ed304 UQbyte count is the number of bytes currently queued up in the serial port buffer.
+308525:ef672 okReturns in byte count the number of bytes in the input buffer of the serial port indicated in port number.
+308623:effdf kReturns in byte count the number of bytes in the input buffer of the serial port indicated in port number.
+396594:330a77 okReturns in byte count the number of bytes in the input buffer of the serial port indicated in port number.
+396611:330d21 UQbyte count is the number of bytes currently queued up in the serial port buffer.
+404008:3a3ab3 kReturns in byte count the number of bytes in the input buffer of the serial port indicated in port number.
+440783:163dba okReturns in byte count the number of bytes in the input buffer of the serial port indicated in port number.
+440800:164064 UQbyte count is the number of bytes currently queued up in the serial port buffer.
+442991:1854e3 kReturns in byte count the number of bytes in the input buffer of the serial port indicated in port number.
+521514:349828 okReturns in byte count the number of bytes in the input buffer of the serial port indicated in port number.
+521566:34a1b4 Qbyte count is the number of bytes currently queued up in the serial port buffer.
+527345:3b26ff kReturns in byte count the number of bytes in the input buffer of the serial port indicated in port number.
+556364:1a3f93 kReturns in byte count the number of bytes in the input buffer of the serial port indicated in port number.
+558118:1c3956 okReturns in byte count the number of bytes in the input buffer of the serial port indicated in port number.
+558167:1c42e2 Qbyte count is the number of bytes currently queued up in the serial port buffer.
+596744:f395f kReturns in byte count the number of bytes in the input buffer of the serial port indicated in port number.
+600676:13317f kReturns in byte count the number of bytes in the input buffer of the serial port indicated in port number.

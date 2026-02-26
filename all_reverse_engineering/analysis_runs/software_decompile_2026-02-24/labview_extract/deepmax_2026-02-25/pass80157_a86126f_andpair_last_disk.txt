@@ -1,0 +1,5 @@
+52435:1bcb0f The VI %p has changed on disk since last saved or loaded by LabVIEW.  If you load its %p, it will probably be inconsistent with the parts of the VI already in memory, resulting in a corrupt VI.
+113157:57b20c 'Last known LC103 Software Rev. is:  VERRCouldn't open the Software Rev. file.  Place the flopply disk in the computer NOW.
+271700:2f608c 'Last known LC103 Software Rev. is:  VERRCouldn't open the Software Rev. file.  Place the flopply disk in the computer NOW.
+365905:122c78 xxxxRCouldn't open the Software Rev. file.  Place the flopply disk in the computer NOW.'Last known LC103 Software Rev. is:  VER
+495585:13c288 xxxxRCouldn't open the Software Rev. file.  Place the flopply disk in the computer NOW.'Last known LC103 Software Rev. is:  VER

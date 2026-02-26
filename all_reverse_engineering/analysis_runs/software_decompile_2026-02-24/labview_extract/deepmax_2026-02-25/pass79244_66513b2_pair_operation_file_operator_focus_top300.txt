@@ -1,0 +1,30 @@
+102363:4c4bc6 user-defined codes. The error handler has tables of error codes and descriptions for all LabVIEW I/O operations (file, GPIB, DAQ, etc.). You can augment the tables with the user-defined arrays. Codes from 5000 to 9999 are reserved for user assignments.
+102470:4cdafa GPIB: EABO: I/O operation aborted.9LabVIEW: File not found.
+102535:4d0216 user-defined codes. The error handler has tables of error codes and descriptions for all LabVIEW I/O operations (file, GPIB, DAQ, etc.). You can augment the tables with the user-defined arrays. Codes from 5000 to 9999 are reserved for user assignments.
+260796:23d79e user-defined codes. The error handler has tables of error codes and descriptions for all LabVIEW I/O operations (file, GPIB, DAQ, etc.). You can augment the tables with the user-defined arrays. Codes from 5000 to 9999 are reserved for user assignments.
+260903:2466d2 GPIB: EABO: I/O operation aborted.9LabVIEW: File not found.
+260968:248dee user-defined codes. The error handler has tables of error codes and descriptions for all LabVIEW I/O operations (file, GPIB, DAQ, etc.). You can augment the tables with the user-defined arrays. Codes from 5000 to 9999 are reserved for user assignments.
+314804:15b3ad user-defined codes. The error handler has tables of error codes and descriptions for all LabVIEW I/O operations (file, GPIB, DAQ, etc.). You can augment the tables with the user-defined arrays. Codes from 5000 to 9999 are reserved for user assignments.
+314911:1642a3 GPIB: EABO: I/O operation aborted.9LabVIEW: File not found.
+314976:1669bf user-defined codes. The error handler has tables of error codes and descriptions for all LabVIEW I/O operations (file, GPIB, DAQ, etc.). You can augment the tables with the user-defined arrays. Codes from 5000 to 9999 are reserved for user assignments.
+341280:fa97d user-defined codes. The error handler has tables of error codes and descriptions for all LabVIEW I/O operations (file, GPIB, DAQ, etc.). You can augment the tables with the user-defined arrays. Codes from 5000 to 9999 are reserved for user assignments.
+341388:103873 GPIB: EABO: I/O operation aborted.9LabVIEW: File not found.
+341453:105f8f user-defined codes. The error handler has tables of error codes and descriptions for all LabVIEW I/O operations (file, GPIB, DAQ, etc.). You can augment the tables with the user-defined arrays. Codes from 5000 to 9999 are reserved for user assignments.
+371341:1800f4 GPIB: EABO: I/O operation aborted.9LabVIEW: File not found.
+371406:182816 user-defined codes. The error handler has tables of error codes and descriptions for all LabVIEW I/O operations (file, GPIB, DAQ, etc.). You can augment the tables with the user-defined arrays. Codes from 5000 to 9999 are reserved for user assignments.
+371548:185798 user-defined codes. The error handler has tables of error codes and descriptions for all LabVIEW I/O operations (file, GPIB, DAQ, etc.). You can augment the tables with the user-defined arrays. Codes from 5000 to 9999 are reserved for user assignments.
+434042:f3d17 GPIB: EABO: I/O operation aborted.9LabVIEW: File not found.
+434107:f6439 user-defined codes. The error handler has tables of error codes and descriptions for all LabVIEW I/O operations (file, GPIB, DAQ, etc.). You can augment the tables with the user-defined arrays. Codes from 5000 to 9999 are reserved for user assignments.
+434248:f93bb user-defined codes. The error handler has tables of error codes and descriptions for all LabVIEW I/O operations (file, GPIB, DAQ, etc.). You can augment the tables with the user-defined arrays. Codes from 5000 to 9999 are reserved for user assignments.
+470021:103298 GPIB: EABO: I/O operation aborted.9LabVIEW: File not found.
+470086:1059ba user-defined codes. The error handler has tables of error codes and descriptions for all LabVIEW I/O operations (file, GPIB, DAQ, etc.). You can augment the tables with the user-defined arrays. Codes from 5000 to 9999 are reserved for user assignments.
+470226:10893c user-defined codes. The error handler has tables of error codes and descriptions for all LabVIEW I/O operations (file, GPIB, DAQ, etc.). You can augment the tables with the user-defined arrays. Codes from 5000 to 9999 are reserved for user assignments.
+503851:1e1095 GPIB: EABO: I/O operation aborted.9LabVIEW: File not found.
+503916:1e37b7 user-defined codes. The error handler has tables of error codes and descriptions for all LabVIEW I/O operations (file, GPIB, DAQ, etc.). You can augment the tables with the user-defined arrays. Codes from 5000 to 9999 are reserved for user assignments.
+504133:1e78db user-defined codes. The error handler has tables of error codes and descriptions for all LabVIEW I/O operations (file, GPIB, DAQ, etc.). You can augment the tables with the user-defined arrays. Codes from 5000 to 9999 are reserved for user assignments.
+546417:f2c27 GPIB: EABO: I/O operation aborted.9LabVIEW: File not found.
+546482:f5349 user-defined codes. The error handler has tables of error codes and descriptions for all LabVIEW I/O operations (file, GPIB, DAQ, etc.). You can augment the tables with the user-defined arrays. Codes from 5000 to 9999 are reserved for user assignments.
+546623:f82cb user-defined codes. The error handler has tables of error codes and descriptions for all LabVIEW I/O operations (file, GPIB, DAQ, etc.). You can augment the tables with the user-defined arrays. Codes from 5000 to 9999 are reserved for user assignments.
+579270:164f59 GPIB: EABO: I/O operation aborted.9LabVIEW: File not found.
+579335:16767b user-defined codes. The error handler has tables of error codes and descriptions for all LabVIEW I/O operations (file, GPIB, DAQ, etc.). You can augment the tables with the user-defined arrays. Codes from 5000 to 9999 are reserved for user assignments.
+579549:16b79f user-defined codes. The error handler has tables of error codes and descriptions for all LabVIEW I/O operations (file, GPIB, DAQ, etc.). You can augment the tables with the user-defined arrays. Codes from 5000 to 9999 are reserved for user assignments.

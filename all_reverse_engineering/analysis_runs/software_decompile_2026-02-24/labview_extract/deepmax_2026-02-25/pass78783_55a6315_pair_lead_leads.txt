@@ -1,0 +1,2347 @@
+52704:1c0dd1 LEADSHRT.vi
+71566:2e499a Test Leads?4
+71577:2e4c2d Test Leads?
+71586:2e4cd2 Test Leads?
+71713:2e7d36 Test Leads?
+71732:2e7eae Test Leads?
+71741:2e7f50 Test Leads?
+71750:2e7ff2 Test Leads?
+71794:2e8433 Test Leads?
+71813:2e8673 Test Leads?X
+71893:2e916e Test Leads?
+71978:2ead6c Test Leads?
+71987:2eae8c Test Leads?
+72062:2ec505 Test Leads?
+72081:2ec67a Test Leads?
+72100:2ec7ef Test Leads?
+72189:2edf09 Test Leads?
+72240:2ee64b Test Leads?
+72335:2f2d4d Test Leads?
+72344:2f2e76 Test Leads?
+72360:2f34ef Test Leads?
+72369:2f366c Test Leads?
+72378:2f3728 Test Leads?
+72392:2f3986 Test Leads?
+72407:2f3a98 Test Leads?
+72421:2f3baf Test Leads?
+72493:2f4789 Test Leads?
+72510:2f48a3 Test Leads?
+72524:2f49c1 Test Leads?
+72582:2f5301 Test Leads?
+72596:2f5418 Test Leads?
+72608:2f5535 Test Leads?
+72681:2f78a6 Test Leads?
+72700:2f7a1b Test Leads?
+72719:2f7b90 Test Leads?
+72738:2f7d05 Test Leads?
+72757:2f7e7a Test Leads?
+72776:2f7fef Test Leads?
+72795:2f8164 Test Leads?
+72814:2f82d9 Test Leads?
+72833:2f844e Test Leads?
+72852:2f85c3 Test Leads?
+72871:2f8738 Test Leads?
+72890:2f88ad Test Leads?
+72909:2f8a22 Test Leads?
+72928:2f8b97 Test Leads?
+72947:2f8d0c Test Leads?
+72966:2f8e81 Test Leads?
+72985:2f8ff6 Test Leads?
+73004:2f916b Test Leads?
+73023:2f92e0 Test Leads?
+73042:2f9455 Test Leads?
+73061:2f95ca Test Leads?
+73080:2f973f Test Leads?
+73099:2f98b4 Test Leads?
+73118:2f9a29 Test Leads?
+73137:2f9b9e Test Leads?
+73156:2f9d13 Test Leads?
+73359:2fe0fb Test Leads?
+73374:2fe25c Test Leads?
+73390:2fe3e9 Test Leads?
+73401:2fe4c9 Test Leads?
+73413:2fe5c1 Test Leads?
+73503:2ff4cd Test Leads?
+73587:3007ad Test Leads?
+73607:300c0a Test Leads?
+73709:3024c3 Test Leads?
+78444:351d3e Test Leads?
+78456:351e51 Test Leads?
+78471:351fbd Test Leads?
+79014:3588b9 Test Leads?
+79026:3589e6 Test Leads?
+79039:358b75 Test Leads?
+79055:358fae Test Leads?
+79074:359123 Test Leads?
+79093:359298 Test Leads?
+79112:35940d Test Leads?
+79299:35ef79 Test Leads?
+79331:35f165 Test Leads?
+79418:35f7d4 LEADSHRT.vi0%$
+79426:35f93b LEADSHRT.viND
+79428:35f9c8 LEADSHRT.viW
+79429:35f9e7 LEADSHRT.viO
+79432:35fa36 ,,-Make sure the UUT leads are shorted together.W
+79433:35fa7a LEADSHRT.vi`
+79440:35fb76 LEADSHRT.viH
+79442:35fbc7 LEADSHRT.viND
+79444:35fc2a LEADSHRT.viS
+79448:35fc8e LEADSHRT.viO
+79452:35fd88 BBKSomething seems to be wrong.  Make sure the UUT leads are shorted together.QD
+79454:35fe00 LEADSHRT.viPD
+79456:35fe34 LEADSHRT.viW
+79457:35fe57 LEADSHRT.viO
+79468:35ff32 LEADSHRT.viW
+79486:360151 LEADSHRT.viMD
+79489:360194 LEADSHRT.vi
+79492:3601c8 LEADSHRT.vi
+79507:360299 LEADSHRT.vi
+79519:36033f KSomething seems to be wrong.  Make sure the UUT leads are shorted together.
+79521:3603b6 IND-Make sure the UUT leads are shorted together.
+79552:3608c6 LEADSHRT.vi4
+79576:360a50 Test Leads?
+79663:361131 LEADSHRT.vi
+79664:36113d LEADSHRT.vi
+79665:361149 LEADSHRT.vi
+79666:361155 LEADSHRT.vi
+79667:361161 LEADSHRT.vi
+79668:36116d LEADSHRT.vi
+79669:361179 LEADSHRT.vi
+79670:361185 LEADSHRT.vi
+79671:361191 LEADSHRT.vi
+79672:36119d LEADSHRT.vi
+79673:3611a9 LEADSHRT.vi
+79674:3611b5 LEADSHRT.vi
+79675:3611c1 LEADSHRT.vi
+79676:3611cd LEADSHRT.vi
+79677:3611d9 LEADSHRT.vi
+79678:3611e5 LEADSHRT.vi
+79679:3611f1 LEADSHRT.vi
+79754:366c37 Test Leads?
+79770:366dbf Test Leads?
+79784:366edd Test Leads?
+80132:36ae9b Test Leads?
+80151:36b010 Test Leads?
+80342:36fde3 Test Leads?
+80537:3711b8 Test Leads?
+81257:382771 Test Leads?
+81268:382887 Test Leads?
+81282:382ddc Test Leads?
+81292:382ee2 Test Leads?
+81864:389c88 Test Leads?
+81883:389dfd Test Leads?
+81902:389f72 Test Leads?
+82418:394fda Test Leads?
+82513:395578 Test Leads?
+82518:3958ab ===Short the UUT leads to the
+82527:395a0d ===Short the UUT leads to the
+82544:395bde 333Short the UUT leads to the
+82546:395c2a 333Short the UUT leads to the
+82549:395c96 LEADSHRT.viW
+82550:395cb5 LEADSHRT.viW
+82551:395cd4 LEADSHRT.viW
+82552:395cf3 LEADSHRT.viO
+82553:395d29 333Short the UUT leads to the
+82555:395d77 LEADSHRT.vi
+82556:395d98 333Short the UUT leads to the
+82558:395de6 LEADSHRT.viW
+82599:3962f6 ===Short the UUT leads to the
+82601:39634e LEADSHRT.viW
+82606:39640e ===Short the UUT leads to the
+82611:3964e3 LEADSHRT.viW
+82613:396526 ===Short the UUT leads to the
+82618:3965fb LEADSHRT.viW
+82620:39663e ===Short the UUT leads to the
+82625:396713 LEADSHRT.viW
+82641:3967fd LEADSHRT.vi
+82657:396927 LEADSHRT.vi
+82672:3969ee Inductance Decade Box (H Terminal)=Short the UUT leads to the
+82674:396a4f IND3Short the UUT leads to the
+82676:396a87 IND3Short the UUT leads to the
+82679:396af5 Inductance Decade Box (H Terminal)=Short the UUT leads to the
+82681:396b56 IND=Short the UUT leads to the
+82683:396bb8 Inductance Decade Box (H Terminal)=Short the UUT leads to the
+82685:396c39 Inductance Decade Box (H Terminal)=Short the UUT leads to the
+82687:396cba Inductance Decade Box (H Terminal)=Short the UUT leads to the
+82689:396d3b Inductance Decade Box (H Terminal)3Short the UUT leads to the
+82691:396d92 IND3Short the UUT leads to the
+82735:3973bd Test Leads?
+82759:397555 LEADSHRT.vi
+82765:3975c5 LEADSHRT.vi
+82900:39bd3b Test Leads?
+82910:39be4f Test Leads?
+82931:39c51f Test Leads?
+82940:39c62d Test Leads?
+83264:3a0a97 Test Leads?
+83283:3a0c0c Test Leads?
+83302:3a0d81 Test Leads?
+83496:3a4a24 Test Leads?
+83533:3a4c6a Test Leads?
+83682:3a5e05 Test Leads?
+83795:3ab42c Test Leads?4
+83805:3ab6f3 Test Leads?
+83814:3ab79b Test Leads?
+83842:3abed6 Test Leads?4.
+83852:3ac16b Test Leads?
+83861:3ac212 Test Leads?
+83966:3adff5 Test Leads?
+83975:3ae09d Test Leads?
+83984:3ae144 Test Leads?
+83993:3ae1eb Test Leads?
+84002:3ae292 Test Leads?
+84011:3ae339 Test Leads?
+84020:3ae3e0 Test Leads?
+84084:3af06f Test Leads?
+84113:3af345 Test Leads?
+84131:3af4b9 Test Leads?
+84149:3af8e3 Test Leads?
+84168:3afbc4 Test Leads?
+84179:3afd38 Test Leads?
+84505:3b67e5 Test Leads?
+84515:3b689a Test Leads?
+84535:3b6a57 Test Leads?
+84544:3b6afb Test Leads?
+84553:3b6b9f Test Leads?
+84565:3b6ca2 Test Leads?
+84574:3b6d47 Test Leads?
+84583:3b6dec Test Leads?
+84631:3b71a2 Test Leads?
+84640:3b724c Test Leads?
+84653:3b7361 Test Leads?
+84666:3b7474 Test Leads?
+84723:3b7844 Test Leads?
+84744:3b7caa Test Leads?X
+84757:3b7f07 Test Leads?X
+84882:3b8b40 Test Leads?
+84902:3b8d16 Test Leads?
+84911:3b8dba Test Leads?
+84929:3b919f Test Leads?
+84939:3b9254 Test Leads?
+85312:3d25ee Test Leads?
+85397:3d4949 Test Leads?45
+85435:3d5615 Test Leads?47b
+85499:3d6f29 Test Leads?
+85527:3d796a Test Leads?
+85562:3d8926 Test Leads?
+85578:3d8fc0 Test Leads?
+85587:3d9109 Test Leads?
+85902:3e11f6 Test Leads?
+85911:3e129b Test Leads?
+85920:3e1340 Test Leads?
+85929:3e13e5 Test Leads?
+85938:3e148a Test Leads?
+85947:3e152f Test Leads?
+85956:3e15d4 Test Leads?
+85965:3e1679 Test Leads?
+85974:3e171e Test Leads?
+85983:3e17c3 Test Leads?
+85992:3e1868 Test Leads?
+86031:3e5f1f Test Leads?
+86040:3e6fad Test Leads?
+86051:3e7917 Test Leads?
+86060:3e7c03 Test Leads?
+86069:3e7ca8 Test Leads?
+86078:3e7d4d Test Leads?
+86087:3e7df2 Test Leads?
+86096:3e7e97 Test Leads?
+86105:3e7f3c Test Leads?
+86114:3e7fe1 Test Leads?
+86123:3e8086 Test Leads?
+86132:3e812b Test Leads?
+86141:3e81d0 Test Leads?
+86150:3e8275 Test Leads?
+86159:3e831a Test Leads?
+86168:3e83bf Test Leads?
+86177:3e8464 Test Leads?
+86186:3e8509 Test Leads?
+86195:3e85ae Test Leads?
+86204:3e8653 Test Leads?
+86213:3e86f8 Test Leads?
+86222:3e879d Test Leads?
+86231:3e8842 Test Leads?
+86240:3e88e7 Test Leads?
+86249:3e898c Test Leads?
+86258:3e8a31 Test Leads?
+86267:3e8ad6 Test Leads?
+86276:3e8b7b Test Leads?
+86285:3e8c20 Test Leads?
+86294:3e8cc5 Test Leads?
+86303:3e8d6a Test Leads?
+86312:3e8e0f Test Leads?
+86321:3e8eb4 Test Leads?
+86330:3e8f59 Test Leads?
+86339:3e8ffe Test Leads?
+86348:3e90a3 Test Leads?
+86357:3e9148 Test Leads?
+86366:3e91ed Test Leads?
+86375:3e9292 Test Leads?
+86384:3e9337 Test Leads?
+86393:3e93dc Test Leads?
+86402:3e9481 Test Leads?
+86411:3e9526 Test Leads?
+86420:3e95cb Test Leads?
+86429:3e9670 Test Leads?
+86438:3e9715 Test Leads?
+86447:3e97ba Test Leads?
+86456:3e985f Test Leads?
+86465:3e9904 Test Leads?
+86474:3e99a9 Test Leads?
+86483:3e9a4e Test Leads?
+86492:3e9af3 Test Leads?
+86501:3e9b98 Test Leads?
+86510:3e9c3d Test Leads?
+86519:3e9ce2 Test Leads?
+86528:3e9d87 Test Leads?
+86537:3e9e2c Test Leads?
+86546:3e9ed1 Test Leads?
+86555:3e9f76 Test Leads?
+86564:3ea01b Test Leads?
+86573:3ea0c0 Test Leads?
+86582:3ea165 Test Leads?
+86591:3ea20a Test Leads?
+86600:3ea2af Test Leads?
+86609:3ea354 Test Leads?
+86618:3ea3f9 Test Leads?
+86627:3ea49e Test Leads?
+86636:3ea543 Test Leads?
+86645:3ea5e8 Test Leads?
+86654:3ea68d Test Leads?
+86663:3ea732 Test Leads?
+86672:3ea7d7 Test Leads?
+86681:3ea87c Test Leads?
+86690:3ea921 Test Leads?
+86699:3ea9c6 Test Leads?
+86708:3eaa6b Test Leads?
+86717:3eab10 Test Leads?
+86726:3eabb5 Test Leads?
+86735:3eac5a Test Leads?
+86744:3eacff Test Leads?
+86753:3eada4 Test Leads?
+86762:3eae49 Test Leads?
+86771:3eaeee Test Leads?
+86780:3eaf93 Test Leads?
+86789:3eb038 Test Leads?
+86798:3eb0dd Test Leads?
+86807:3eb182 Test Leads?
+86816:3eb227 Test Leads?
+86825:3eb2cc Test Leads?
+86834:3eb371 Test Leads?
+86843:3eb416 Test Leads?
+86852:3eb4bb Test Leads?
+86861:3eb560 Test Leads?
+86870:3eb605 Test Leads?
+86879:3eb6aa Test Leads?
+86888:3eb74f Test Leads?
+86897:3eb7f4 Test Leads?
+86906:3eb899 Test Leads?
+86915:3eb93e Test Leads?
+86924:3eb9e3 Test Leads?
+86933:3eba88 Test Leads?
+86942:3ebb2d Test Leads?
+86951:3ebbd2 Test Leads?
+86960:3ebc7a Test Leads?
+86969:3ebd22 Test Leads?
+86978:3ebdca Test Leads?
+86987:3ebe72 Test Leads?
+86996:3ebf1a Test Leads?
+87005:3ebfc7 Test Leads?
+87024:3ec13c Test Leads?
+87043:3ec2b1 Test Leads?
+87062:3ec426 Test Leads?
+87081:3ec59b Test Leads?
+87100:3ec710 Test Leads?
+87119:3ec885 Test Leads?
+87138:3ec9fa Test Leads?
+87157:3ecb6f Test Leads?
+87176:3ecce4 Test Leads?
+87195:3ece8f Test Leads?
+87214:3ed004 Test Leads?
+87233:3ed179 Test Leads?
+87252:3ed2ee Test Leads?
+87271:3ed463 Test Leads?
+87290:3ed5d8 Test Leads?
+87309:3ed74d Test Leads?
+87329:3ed9b7 Test Leads?
+87338:3edb39 Test Leads?
+87349:3ee1ba Test Leads?
+87359:3ee2ed Test Leads?
+87369:3ef3c0 Test Leads?
+87388:3ef535 Test Leads?
+87407:3ef6aa Test Leads?
+87426:3ef81f Test Leads?
+87445:3ef994 Test Leads?
+87464:3efb09 Test Leads?
+87483:3efc7e Test Leads?
+87502:3efdf3 Test Leads?
+87521:3eff68 Test Leads?
+87540:3f00dd Test Leads?
+87563:3f0ab0 Test Leads?
+87572:3f0bdd Test Leads?
+87581:3f0d0f Test Leads?
+87597:3f18ec Test Leads?
+87616:3f1a61 Test Leads?
+87635:3f1bd6 Test Leads?
+87654:3f1d4b Test Leads?
+87673:3f1ec0 Test Leads?
+87692:3f2035 Test Leads?
+87711:3f21aa Test Leads?
+87730:3f231f Test Leads?
+87749:3f2494 Test Leads?
+87768:3f2609 Test Leads?
+87787:3f277e Test Leads?
+87806:3f28f3 Test Leads?
+87825:3f2a68 Test Leads?
+87844:3f2bdd Test Leads?
+87863:3f2d52 Test Leads?
+87882:3f2ec7 Test Leads?
+87901:3f303c Test Leads?
+87936:3f403b Test Leads?
+87955:3f41b0 Test Leads?
+87974:3f4325 Test Leads?
+87993:3f449a Test Leads?
+88012:3f460f Test Leads?
+88031:3f4784 Test Leads?
+88050:3f48f9 Test Leads?
+88069:3f4a6e Test Leads?
+88088:3f4be3 Test Leads?
+88107:3f4d58 Test Leads?
+88126:3f4ecd Test Leads?
+88145:3f5042 Test Leads?
+88164:3f51b7 Test Leads?
+88183:3f532c Test Leads?
+88202:3f54a1 Test Leads?
+88221:3f5616 Test Leads?
+88240:3f578b Test Leads?
+88259:3f5900 Test Leads?
+88278:3f5a75 Test Leads?
+88297:3f5bea Test Leads?
+88316:3f5d5f Test Leads?
+88335:3f5ed4 Test Leads?
+88354:3f6049 Test Leads?
+88373:3f61be Test Leads?
+88392:3f6333 Test Leads?
+88411:3f64a8 Test Leads?
+88430:3f661d Test Leads?
+88449:3f6792 Test Leads?
+88468:3f6907 Test Leads?
+88487:3f6a7c Test Leads?
+88506:3f6bf1 Test Leads?
+88526:3f6e02 Test Leads?
+88536:3f6eb7 Test Leads?
+88548:3f6fc9 Test Leads?
+88558:3f70e3 Test Leads?
+88571:3f72f9 Test Leads?
+88581:3f73ae Test Leads?
+88593:3f74c0 Test Leads?
+88603:3f75d9 Test Leads?
+88615:3f7846 Test Leads?
+88625:3f78fb Test Leads?
+88637:3f7a0d Test Leads?
+88647:3f7b27 Test Leads?
+88659:3f7d03 Test Leads?
+88669:3f7db8 Test Leads?
+88681:3f7eca Test Leads?
+88691:3f7fe4 Test Leads?
+88703:3f81fb Test Leads?
+88713:3f82b0 Test Leads?
+88725:3f83c2 Test Leads?
+88735:3f84dc Test Leads?
+88747:3f86f3 Test Leads?
+88757:3f87a8 Test Leads?
+88769:3f88ba Test Leads?
+88779:3f89d3 Test Leads?
+88791:3f8d9a Test Leads?
+88804:3f8f83 Test Leads?
+88823:3f9286 Test Leads?
+88842:3f93fb Test Leads?
+88861:3f9570 Test Leads?
+88880:3f96e5 Test Leads?
+88899:3f985a Test Leads?
+88918:3f99cf Test Leads?
+88937:3f9b44 Test Leads?
+88956:3f9cb9 Test Leads?
+88975:3f9e2e Test Leads?
+88994:3f9fa3 Test Leads?
+89013:3fa118 Test Leads?
+89032:3fa28d Test Leads?
+89051:3fa402 Test Leads?
+89070:3fa577 Test Leads?
+89089:3fa6ec Test Leads?
+89108:3fa861 Test Leads?
+89127:3fa9d6 Test Leads?
+89146:3fab4b Test Leads?
+89165:3facc0 Test Leads?
+89184:3fae35 Test Leads?
+89203:3fafaa Test Leads?
+89285:3fecf8 Test Leads?
+89294:3feda9 Test Leads?
+89313:3ff0d6 Test Leads?
+89322:3ff187 Test Leads?
+89341:3ff37a Test Leads?
+89352:3ffb95 Test Leads?"
+89354:3ffbbb Test Leads?"
+89356:3ffbe1 Test Leads?"
+89358:3ffc07 Test Leads?"
+89360:3ffc2d Test Leads?4
+89361:3ffc60 Test Leads?@
+89364:3ffcf2 Test Leads?"
+89366:3ffd18 Test Leads?"
+89368:3ffd3e Test Leads?"
+89370:3ffd64 Test Leads?"
+89374:3ffdd4 Test Leads?
+89706:410f87 Test Leads?
+89716:411073 Test Leads?
+89727:411151 Test Leads?
+89738:411231 Test Leads?
+89752:411333 Test Leads?
+89762:4113fc Test Leads?
+89771:4114a5 Test Leads?
+89785:41159e Test Leads?
+89795:411667 Test Leads?
+89804:411710 Test Leads?
+89818:411809 Test Leads?
+89828:4118d2 Test Leads?
+89837:41197b Test Leads?
+89847:411a3b Test Leads?
+89856:411add Test Leads?
+89871:411bee Test Leads?
+89881:411cb3 Test Leads?
+89890:411d5e Test Leads?
+89900:411e1e Test Leads?
+89910:411ee5 Test Leads?
+89920:411fae Test Leads?
+89929:412050 Test Leads?
+89940:412128 Test Leads?
+89950:4121ed Test Leads?
+89959:41229c Test Leads?
+89969:41235c Test Leads?
+89978:4123fe Test Leads?
+89989:4124d6 Test Leads?
+89999:41259b Test Leads?
+90009:412664 Test Leads?
+90018:412713 Test Leads?
+90027:4127b5 Test Leads?
+90039:4128a1 Test Leads?
+90048:412952 Test Leads?
+90058:412a12 Test Leads?
+90067:412ab4 Test Leads?
+90082:412bc5 Test Leads?
+90092:412c8a Test Leads?
+90101:412d35 Test Leads?
+90111:412df5 Test Leads?
+90120:412e97 Test Leads?
+90135:412fa8 Test Leads?
+90145:41306d Test Leads?
+90154:413118 Test Leads?
+90164:4131de Test Leads?
+90178:4132e1 Test Leads?
+90189:4133c3 Test Leads?
+90200:4134a9 Test Leads?
+90211:413589 Test Leads?
+90220:41362e Test Leads?
+90229:413707 Test Leads?
+90240:4137ed Test Leads?
+90250:413b7f fConnect the UUT and/or DVM leads to
+90281:4140d4 fConnect the UUT and/or DVM leads to
+90294:4142c6 fConnect the UUT and/or DVM leads to
+90298:414378 fConnect the UUT and/or DVM leads to
+90308:4144d6 fConnect the UUT and/or DVM leads to
+90319:41465a fConnect the UUT and/or DVM leads to
+90556:416552 Current Source CalibrationfConnect the UUT and/or DVM leads to
+90560:4165e7 Gain CalibrationfConnect the UUT and/or DVM leads to
+90572:41672a Leakage Voltage CalibrationfConnect the UUT and/or DVM leads to
+90576:4167b9 D/A TestfConnect the UUT and/or DVM leads to
+90580:41683f Leakage Voltage TestfConnect the UUT and/or DVM leads to
+90584:4168d1 Leakage Current TestfConnect the UUT and/or DVM leads to
+90623:416ea6 Test Leads?
+90633:416f5b Test Leads?
+90648:417065 Test Leads?
+90778:41aed6 Test Leads?
+90787:41af7b Test Leads?
+90796:41b020 Test Leads?
+91040:41cb98 Test Leads?
+91059:41cd0d Test Leads?
+91219:41fdf2 Test Leads?
+91415:420fb1 Test Leads?
+91503:423f9e Test Leads?
+91513:4246f6 Test Leads?4
+91521:424989 Test Leads?
+91596:425e12 Test Leads?
+91605:425eb7 Test Leads?
+91614:425f5c Test Leads?
+91623:426001 Test Leads?
+91632:4260a6 Test Leads?
+91641:42614b Test Leads?
+91650:4261f0 Test Leads?
+91659:426295 Test Leads?
+91668:42633f Test Leads?
+91925:427cc0 Test Leads?
+91944:427e35 Test Leads?
+91963:427faa Test Leads?
+91982:42811f Test Leads?
+92142:42b656 Test Leads?
+92162:42b7b1 Test Leads?
+92171:42b853 Test Leads?
+92180:42b8f5 Test Leads?
+92198:42bab5 Test Leads?
+92207:42bb5a Test Leads?
+92278:42bf5c Test Leads?
+92290:42c274 Test Leads?X
+92401:42cb8a Test Leads?
+92414:42cc9c Test Leads?
+92431:42d057 Test Leads?
+92470:42d2e1 Test Leads?
+92570:42ee43 Test Leads?
+92581:42ef92 Test Leads?
+92591:42f047 Test Leads?
+92603:42f14a Test Leads?
+92613:42f247 Test Leads?
+92628:42f57b Test Leads?
+92718:430c2d Test Leads?
+92807:43154b Test Leads?
+92817:431600 Test Leads?
+92832:43170b Test Leads?
+92947:434a95 Test Leads?
+92956:434b3a Test Leads?
+92965:434bdf Test Leads?
+93146:436074 Test Leads?
+93165:4361e9 Test Leads?
+93340:438df4 Test Leads?
+93557:43a10e Test Leads?
+93693:43e52b Test Leads?
+93702:43e5d0 Test Leads?
+93711:43e675 Test Leads?
+94070:4408ed Test Leads?
+94089:440a62 Test Leads?
+94269:444141 Test Leads?
+94445:44500e KKLConnect the UUT leads to the
+94471:445142 YFBLConnect the UUT leads to the
+94526:445857 Test Leads?
+94663:448e76 Test Leads?
+94672:448f1b Test Leads?
+94681:448fc0 Test Leads?
+94905:44a769 Test Leads?
+94924:44a8de Test Leads?
+95101:44d1ed Test Leads?
+95313:44e3c1 Test Leads?
+95435:451be1 Test Leads?
+95444:451c86 Test Leads?
+95453:451d2b Test Leads?
+95683:4534bc Test Leads?
+95702:453631 Test Leads?
+95876:45658e Test Leads?
+96091:457828 Test Leads?
+96225:45b0d8 Test Leads?
+96234:45b17d Test Leads?
+96243:45b222 Test Leads?
+96452:45ca23 Test Leads?
+96471:45cb98 Test Leads?
+96642:45f621 Test Leads?
+96851:460816 Test Leads?
+97306:469802 with the leads.  Check the leads
+97338:4699fb with the leads.  Check the leads
+98452:48305f Test Leads?
+98461:483104 Test Leads?
+98470:4831a9 Test Leads?
+98683:484a3c Test Leads?
+98696:484d32 Test Leads?
+98707:484e47 Test Leads?
+98787:485bd0 Test Leads?
+98806:485d45 Test Leads?
+98825:485eba Test Leads?
+98844:48602f Test Leads?
+99057:48bb73 Test Leads?
+99090:48bd72 Test Leads?
+99169:48c5b4 @@cShort the UUT leads to the Capacitance Decade box(LTerminal).
+99184:48c82a LEADSHRT.viO
+99239:48ce17 LEADSHRT.vi
+99274:48cf75 LEADSHRT.vi
+99289:48d005 CLRPARcShort the UUT leads to the Capacitance Decade box(LTerminal).
+99370:48d985 Test Leads?
+99386:48daa1 LEADSHRT.vi
+99392:48db11 LEADSHRT.vir
+104572:4ee2cc     0=1.1MOhm connected to UUT leads; Same as '9'.
+104957:4f83ab Test Leads?
+104966:4f8450 Test Leads?
+104975:4f84f5 Test Leads?
+105251:4fab1e Test Leads?
+105270:4fac93 Test Leads?
+105504:4ffd57 Test Leads?
+105798:501952 Test Leads?
+106011:508483 Test Leads?
+106020:508528 Test Leads?
+106029:5085cd Test Leads?
+106324:50b075 Test Leads?
+106343:50b1ea Test Leads?
+106570:510799 Test Leads?
+106864:5121db Test Leads?
+107169:51ac61 Test Leads?
+107178:51ad06 Test Leads?
+107350:51c79f Test Leads?
+107377:51cfee Test Leads?
+107396:51d163 Test Leads?
+107661:522fcd Test Leads?
+107970:524c52 Test Leads?
+108292:52da1a Test Leads?
+108301:52dabf Test Leads?
+108310:52db64 Test Leads?
+108615:530b98 Test Leads?
+108634:530d0d Test Leads?
+108854:53594e Test Leads?
+109222:537e66 Test Leads?
+109573:542c46 Test Leads?
+109582:542ceb Test Leads?
+109591:542d90 Test Leads?
+110008:54750a Test Leads?
+110027:54767f Test Leads?
+110283:54f231 Test Leads?
+110642:551433 Test Leads?
+110926:5586c5 Test Leads?
+110935:55876a Test Leads?
+110944:55880f Test Leads?
+111133:55a923 Test Leads?
+111152:55aa98 Test Leads?
+111433:560a6e Test Leads?
+111689:5622a3 Test Leads?
+113586:588d4f Test Leads?
+113595:588df4 Test Leads?
+113604:588e99 Test Leads?
+113613:588fa7 Test Leads?
+113624:5890e1 Test Leads?
+113874:58bc51 Test Leads?
+113893:58bdc6 Test Leads?
+113912:58bf3b Test Leads?
+114185:593bbd Test Leads?
+114216:593e38 Test Leads?
+114568:5961d8 Test Leads?
+115116:5a7696 Test Leads?
+115125:5a773b Test Leads?
+115134:5a77e0 Test Leads?
+115143:5a7885 Test Leads?
+115152:5a792a Test Leads?
+115429:5aba78 Test Leads?
+115448:5abbed Test Leads?
+115467:5abd62 Test Leads?
+115757:5b475f Test Leads?
+115810:5b4b5c Test Leads?
+115903:5b58e8  to the UUT leads.MD
+116079:5b67d0  to the UUT leads.
+116182:5b723b Test Leads?
+116766:5c62b1 Test Leads?
+116775:5c6356 Test Leads?
+116784:5c63fb Test Leads?
+116966:5c8d8b Test Leads?
+116975:5c8e30 Test Leads?
+116984:5c8ed5 Test Leads?
+116993:5c8f7a Test Leads?
+117002:5c901f Test Leads?
+117011:5c90c4 Test Leads?
+117020:5c9169 Test Leads?
+117029:5c920e Test Leads?
+117038:5c92b3 Test Leads?
+117047:5c9358 Test Leads?
+117056:5c93fd Test Leads?
+117065:5c94a2 Test Leads?
+117074:5c9547 Test Leads?
+117083:5c95ec Test Leads?
+117092:5c9691 Test Leads?
+117101:5c9736 Test Leads?
+117110:5c97db Test Leads?
+117119:5c9880 Test Leads?
+117128:5c9925 Test Leads?
+117137:5c99ca Test Leads?
+117146:5c9a6f Test Leads?
+117155:5c9b14 Test Leads?
+117164:5c9bb9 Test Leads?
+117176:5c9d6f Test Leads?
+117186:5c9f10 Test Leads?
+117195:5c9fc7 Test Leads?
+117365:5ce762 Test Leads?
+117384:5ce8d7 Test Leads?
+117403:5cea4c Test Leads?
+117422:5cebc1 Test Leads?
+117441:5ced36 Test Leads?
+117460:5ceeab Test Leads?
+117479:5cf020 Test Leads?
+117498:5cf195 Test Leads?
+117517:5cf30a Test Leads?
+117536:5cf47f Test Leads?
+117583:5d0100 Test Leads?
+117602:5d0275 Test Leads?
+117621:5d03ea Test Leads?
+117640:5d055f Test Leads?
+117659:5d06d4 Test Leads?
+117678:5d0849 Test Leads?
+117697:5d09be Test Leads?
+117716:5d0b33 Test Leads?
+117735:5d0ca8 Test Leads?
+117754:5d0e1d Test Leads?
+117773:5d0f92 Test Leads?
+117792:5d1107 Test Leads?
+117811:5d127c Test Leads?
+117830:5d13f1 Test Leads?
+117849:5d1566 Test Leads?
+117868:5d16db Test Leads?
+117964:5d23b9 Test Leads?
+117976:5d24b8 Test Leads?
+118010:5d34bd Test Leads?
+118029:5d3632 Test Leads?
+118048:5d37a7 Test Leads?
+118067:5d391c Test Leads?
+118086:5d3a91 Test Leads?
+118105:5d3c06 Test Leads?
+118124:5d3d7b Test Leads?
+118143:5d3ef0 Test Leads?
+118162:5d4065 Test Leads?
+118181:5d41da Test Leads?
+118217:5d4b2b Test Leads?
+118238:5d4d1c Test Leads?
+118314:5d6cd8 Test Leads?
+118579:5e0677 Test Leads?
+118591:5e075b Test Leads?
+118633:5e0a3e Test Leads?
+118642:5e0ae3 Test Leads?
+118651:5e0b88 Test Leads?
+118675:5e0cff Test Leads?
+118686:5e0dd8 Test Leads?
+118697:5e0ec3 Test Leads?
+118716:5e1010 Test Leads?
+118751:5e12da Test Leads?
+119314:5e4775 Test Leads?
+119329:5e4872 Test Leads?
+120211:5ed4a8 LEADSHRT.vi
+242239:128a84 Test Leads?
+242248:128ba4 Test Leads?
+242323:12a21d Test Leads?
+242342:12a392 Test Leads?
+242361:12a507 Test Leads?
+242450:12bc21 Test Leads?
+242501:12c363 Test Leads?
+242602:130bad Test Leads?
+242611:130cd6 Test Leads?
+242627:13134f Test Leads?
+242636:1314cc Test Leads?
+242645:131588 Test Leads?
+242659:1317e6 Test Leads?
+242674:1318f8 Test Leads?
+242688:131a0f Test Leads?
+242760:1325e9 Test Leads?
+242777:132703 Test Leads?
+242791:132821 Test Leads?
+242849:133161 Test Leads?
+242863:133278 Test Leads?
+242875:133395 Test Leads?
+242948:135706 Test Leads?
+242967:13587b Test Leads?
+242986:1359f0 Test Leads?
+243005:135b65 Test Leads?
+243024:135cda Test Leads?
+243043:135e4f Test Leads?
+243062:135fc4 Test Leads?
+243081:136139 Test Leads?
+243100:1362ae Test Leads?
+243119:136423 Test Leads?
+243138:136598 Test Leads?
+243157:13670d Test Leads?
+243176:136882 Test Leads?
+243195:1369f7 Test Leads?
+243214:136b6c Test Leads?
+243233:136ce1 Test Leads?
+243252:136e56 Test Leads?
+243271:136fcb Test Leads?
+243290:137140 Test Leads?
+243309:1372b5 Test Leads?
+243328:13742a Test Leads?
+243347:13759f Test Leads?
+243366:137714 Test Leads?
+243385:137889 Test Leads?
+243404:1379fe Test Leads?
+243423:137b73 Test Leads?
+243626:13bf5b Test Leads?
+243641:13c0bc Test Leads?
+243657:13c249 Test Leads?
+243668:13c329 Test Leads?
+243680:13c421 Test Leads?
+243770:13d32d Test Leads?
+243857:13e6dd Test Leads?
+243877:13eb3a Test Leads?
+243979:1403f3 Test Leads?
+248734:189c5b LEADSHRT.vi
+248815:18f7ab Test Leads?
+248831:18f933 Test Leads?
+248845:18fa51 Test Leads?
+249193:193a0f Test Leads?
+249212:193b84 Test Leads?
+249403:198957 Test Leads?
+249598:199d2c Test Leads?
+250352:1a89d3 Test Leads?
+250362:1a8ae7 Test Leads?
+250383:1a91b7 Test Leads?
+250392:1a92c5 Test Leads?
+250716:1ad72f Test Leads?
+250735:1ad8a4 Test Leads?
+250754:1ada19 Test Leads?
+250948:1b16bc Test Leads?
+250985:1b1902 Test Leads?
+251134:1b2a9d Test Leads?
+251226:1b32b9 Test Leads?
+251236:1b3383 Test Leads?
+251270:1b8338 Test Leads?4
+251280:1b85ff Test Leads?
+251289:1b86a7 Test Leads?
+251317:1b8de2 Test Leads?4.
+251327:1b9077 Test Leads?
+251336:1b911e Test Leads?
+251441:1baf01 Test Leads?
+251450:1bafa9 Test Leads?
+251459:1bb050 Test Leads?
+251468:1bb0f7 Test Leads?
+251477:1bb19e Test Leads?
+251486:1bb245 Test Leads?
+251495:1bb2ec Test Leads?
+251559:1bbf7b Test Leads?
+251588:1bc251 Test Leads?
+251606:1bc3c5 Test Leads?
+251624:1bc7ef Test Leads?
+251643:1bcad0 Test Leads?
+251654:1bcc44 Test Leads?
+251980:1c36f1 Test Leads?
+251990:1c37a6 Test Leads?
+252010:1c3963 Test Leads?
+252019:1c3a07 Test Leads?
+252028:1c3aab Test Leads?
+252040:1c3bae Test Leads?
+252049:1c3c53 Test Leads?
+252058:1c3cf8 Test Leads?
+252106:1c40ae Test Leads?
+252115:1c4158 Test Leads?
+252128:1c426d Test Leads?
+252141:1c4380 Test Leads?
+252198:1c4750 Test Leads?
+252219:1c4bb6 Test Leads?X
+252232:1c4e13 Test Leads?X
+252357:1c5a4c Test Leads?
+252377:1c5c22 Test Leads?
+252386:1c5cc6 Test Leads?
+252404:1c60ab Test Leads?
+252414:1c6160 Test Leads?
+252570:1c9cba Test Leads?
+252579:1c9d5f Test Leads?
+252588:1c9e04 Test Leads?
+252832:1cb97c Test Leads?
+252851:1cbaf1 Test Leads?
+253011:1cebd6 Test Leads?
+253207:1cfd95 Test Leads?
+253275:1d0339 Test Leads?
+253308:1d2f1e Test Leads?
+253318:1d3676 Test Leads?4
+253326:1d3909 Test Leads?
+253401:1d4d92 Test Leads?
+253410:1d4e37 Test Leads?
+253419:1d4edc Test Leads?
+253428:1d4f81 Test Leads?
+253437:1d5026 Test Leads?
+253446:1d50cb Test Leads?
+253455:1d5170 Test Leads?
+253464:1d5215 Test Leads?
+253473:1d52bf Test Leads?
+253730:1d6c40 Test Leads?
+253749:1d6db5 Test Leads?
+253768:1d6f2a Test Leads?
+253787:1d709f Test Leads?
+253947:1da5d6 Test Leads?
+253967:1da731 Test Leads?
+253976:1da7d3 Test Leads?
+253985:1da875 Test Leads?
+254003:1daa35 Test Leads?
+254012:1daada Test Leads?
+254083:1daedc Test Leads?
+254095:1db1f4 Test Leads?X
+254206:1dbb0a Test Leads?
+254219:1dbc1c Test Leads?
+254236:1dbfd7 Test Leads?
+254275:1dc261 Test Leads?
+254378:1dde97 Test Leads?
+254389:1ddfe6 Test Leads?
+254399:1de09b Test Leads?
+254411:1de19e Test Leads?
+254421:1de29b Test Leads?
+254436:1de5cf Test Leads?
+254526:1dfc81 Test Leads?
+254615:1e059f Test Leads?
+254625:1e0654 Test Leads?
+254640:1e075f Test Leads?
+254758:1e3bbd Test Leads?
+254767:1e3c62 Test Leads?
+254776:1e3d07 Test Leads?
+254957:1e519c Test Leads?
+254976:1e5311 Test Leads?
+255151:1e7f1c Test Leads?
+255368:1e9236 Test Leads?
+255509:1ec862 Test Leads?
+255518:1ec907 Test Leads?
+255527:1ec9ac Test Leads?
+255751:1ee155 Test Leads?
+255770:1ee2ca Test Leads?
+255947:1f0bd9 Test Leads?
+256159:1f1dad Test Leads?
+256284:1f56a1 Test Leads?
+256293:1f5746 Test Leads?
+256302:1f57eb Test Leads?
+256532:1f6f7c Test Leads?
+256551:1f70f1 Test Leads?
+256725:1fa04e Test Leads?
+256940:1fb2e8 Test Leads?
+257077:1fec6c Test Leads?
+257086:1fed11 Test Leads?
+257095:1fedb6 Test Leads?
+257304:2005b7 Test Leads?
+257323:20072c Test Leads?
+257494:2031b5 Test Leads?
+257703:2043aa Test Leads?
+263060:26819c     0=1.1MOhm connected to UUT leads; Same as '9'.
+263211:269155     0=1.1MOhm connected to UUT leads; Same as '9'.
+263461:272507 Test Leads?
+263470:2725ac Test Leads?
+263479:272651 Test Leads?
+263755:274c7a Test Leads?
+263774:274def Test Leads?
+264008:279eb3 Test Leads?
+264302:27baae Test Leads?
+264518:2826b3 Test Leads?
+264527:282758 Test Leads?
+264536:2827fd Test Leads?
+264831:2852a5 Test Leads?
+264850:28541a Test Leads?
+265077:28a9c9 Test Leads?
+265371:28c40b Test Leads?
+265679:294f61 Test Leads?
+265688:295006 Test Leads?
+265860:296a9f Test Leads?
+265887:2972ee Test Leads?
+265906:297463 Test Leads?
+266171:29d2cd Test Leads?
+266480:29ef52 Test Leads?
+266805:2a7dee Test Leads?
+266814:2a7e93 Test Leads?
+266823:2a7f38 Test Leads?
+267128:2aaf6c Test Leads?
+267147:2ab0e1 Test Leads?
+267367:2afd22 Test Leads?
+267735:2b223a Test Leads?
+268090:2bd0fe Test Leads?
+268099:2bd1a3 Test Leads?
+268108:2bd248 Test Leads?
+268525:2c19c2 Test Leads?
+268544:2c1b37 Test Leads?
+268800:2c96e9 Test Leads?
+269159:2cb8eb Test Leads?
+269446:2d2c51 Test Leads?
+269455:2d2cf6 Test Leads?
+269464:2d2d9b Test Leads?
+269653:2d4eaf Test Leads?
+269672:2d5024 Test Leads?
+269953:2daffa Test Leads?
+270209:2dc82f Test Leads?
+272133:303cbb Test Leads?
+272142:303d60 Test Leads?
+272151:303e05 Test Leads?
+272160:303f13 Test Leads?
+272171:30404d Test Leads?
+272421:306bbd Test Leads?
+272440:306d32 Test Leads?
+272459:306ea7 Test Leads?
+272732:30eb29 Test Leads?
+272763:30eda4 Test Leads?
+273115:311144 Test Leads?
+273667:3226ee Test Leads?
+273676:322793 Test Leads?
+273685:322838 Test Leads?
+273694:3228dd Test Leads?
+273703:322982 Test Leads?
+273980:326ad0 Test Leads?
+273999:326c45 Test Leads?
+274018:326dba Test Leads?
+274308:32f7b7 Test Leads?
+274361:32fbb4 Test Leads?
+274454:330940  to the UUT leads.MD
+274630:331828  to the UUT leads.
+274733:332293 Test Leads?
+275854:34d45e Test Leads?
+275866:34d571 Test Leads?
+275881:34d6dd Test Leads?
+276424:353fd9 Test Leads?
+276436:354106 Test Leads?
+276449:354295 Test Leads?
+276465:3546ce Test Leads?
+276484:354843 Test Leads?
+276503:3549b8 Test Leads?
+276522:354b2d Test Leads?
+276709:35a699 Test Leads?
+276741:35a885 Test Leads?
+276828:35aef4 LEADSHRT.vi0%$
+276836:35b05b LEADSHRT.viND
+276838:35b0e8 LEADSHRT.viW
+276839:35b107 LEADSHRT.viO
+276842:35b156 ,,-Make sure the UUT leads are shorted together.W
+276843:35b19a LEADSHRT.vi`
+276850:35b296 LEADSHRT.viH
+276852:35b2e7 LEADSHRT.viND
+276854:35b34a LEADSHRT.viS
+276858:35b3ae LEADSHRT.viO
+276862:35b4a8 BBKSomething seems to be wrong.  Make sure the UUT leads are shorted together.QD
+276864:35b520 LEADSHRT.viPD
+276866:35b554 LEADSHRT.viW
+276867:35b577 LEADSHRT.viO
+276878:35b652 LEADSHRT.viW
+276896:35b871 LEADSHRT.viMD
+276899:35b8b4 LEADSHRT.vi
+276902:35b8e8 LEADSHRT.vi
+276917:35b9b9 LEADSHRT.vi
+276929:35ba5f KSomething seems to be wrong.  Make sure the UUT leads are shorted together.
+276931:35bad6 IND-Make sure the UUT leads are shorted together.
+276962:35bfe6 LEADSHRT.vi4
+276986:35c170 Test Leads?
+277073:35c851 LEADSHRT.vi
+277074:35c85d LEADSHRT.vi
+277075:35c869 LEADSHRT.vi
+277076:35c875 LEADSHRT.vi
+277077:35c881 LEADSHRT.vi
+277078:35c88d LEADSHRT.vi
+277079:35c899 LEADSHRT.vi
+277080:35c8a5 LEADSHRT.vi
+277081:35c8b1 LEADSHRT.vi
+277082:35c8bd LEADSHRT.vi
+277083:35c8c9 LEADSHRT.vi
+277084:35c8d5 LEADSHRT.vi
+277085:35c8e1 LEADSHRT.vi
+277086:35c8ed LEADSHRT.vi
+277087:35c8f9 LEADSHRT.vi
+277088:35c905 LEADSHRT.vi
+277089:35c911 LEADSHRT.vi
+277190:3625df Test Leads?
+277199:362684 Test Leads?
+277208:362729 Test Leads?
+277421:363fbc Test Leads?
+277434:3642b2 Test Leads?
+277445:3643c7 Test Leads?
+277525:365150 Test Leads?
+277544:3652c5 Test Leads?
+277563:36543a Test Leads?
+277582:3655af Test Leads?
+277795:36b0f3 Test Leads?
+277828:36b2f2 Test Leads?
+277907:36bb34 @@cShort the UUT leads to the Capacitance Decade box(LTerminal).
+277922:36bdaa LEADSHRT.viO
+277977:36c397 LEADSHRT.vi
+278012:36c4f5 LEADSHRT.vi
+278027:36c585 CLRPARcShort the UUT leads to the Capacitance Decade box(LTerminal).
+278108:36cf05 Test Leads?
+278124:36d021 LEADSHRT.vi
+278130:36d091 LEADSHRT.vir
+278206:36d823 Test Leads?
+278235:36f3b6 Test Leads?4
+278246:36f649 Test Leads?
+278255:36f6ee Test Leads?
+278382:372752 Test Leads?
+278401:3728ca Test Leads?
+278410:37296c Test Leads?
+278419:372a0e Test Leads?
+278463:372e4f Test Leads?
+278482:37308f Test Leads?X
+278562:373b8a Test Leads?
+278682:377f8b Test Leads?
+278691:378030 Test Leads?
+278700:3780d5 Test Leads?
+279059:37a34d Test Leads?
+279078:37a4c2 Test Leads?
+279258:37dba1 Test Leads?
+279434:37ea6e KKLConnect the UUT leads to the
+279460:37eba2 YFBLConnect the UUT leads to the
+279515:37f2b7 Test Leads?
+279980:3884ae with the leads.  Check the leads
+280012:3886a7 with the leads.  Check the leads
+280387:3a1a8a Test Leads?
+280472:3a3de5 Test Leads?45
+280510:3a4ab1 Test Leads?47b
+280574:3a63c5 Test Leads?
+280602:3a6e06 Test Leads?
+280637:3a7dc2 Test Leads?
+280653:3a845c Test Leads?
+280662:3a85a5 Test Leads?
+280977:3b0692 Test Leads?
+280986:3b0737 Test Leads?
+280995:3b07dc Test Leads?
+281004:3b0881 Test Leads?
+281013:3b0926 Test Leads?
+281022:3b09cb Test Leads?
+281031:3b0a70 Test Leads?
+281040:3b0b15 Test Leads?
+281049:3b0bba Test Leads?
+281058:3b0c5f Test Leads?
+281067:3b0d04 Test Leads?
+281106:3b53bb Test Leads?
+281115:3b6449 Test Leads?
+281126:3b6db3 Test Leads?
+281135:3b709f Test Leads?
+281144:3b7144 Test Leads?
+281153:3b71e9 Test Leads?
+281162:3b728e Test Leads?
+281171:3b7333 Test Leads?
+281180:3b73d8 Test Leads?
+281189:3b747d Test Leads?
+281198:3b7522 Test Leads?
+281207:3b75c7 Test Leads?
+281216:3b766c Test Leads?
+281225:3b7711 Test Leads?
+281234:3b77b6 Test Leads?
+281243:3b785b Test Leads?
+281252:3b7900 Test Leads?
+281261:3b79a5 Test Leads?
+281270:3b7a4a Test Leads?
+281279:3b7aef Test Leads?
+281288:3b7b94 Test Leads?
+281297:3b7c39 Test Leads?
+281306:3b7cde Test Leads?
+281315:3b7d83 Test Leads?
+281324:3b7e28 Test Leads?
+281333:3b7ecd Test Leads?
+281342:3b7f72 Test Leads?
+281351:3b8017 Test Leads?
+281360:3b80bc Test Leads?
+281369:3b8161 Test Leads?
+281378:3b8206 Test Leads?
+281387:3b82ab Test Leads?
+281396:3b8350 Test Leads?
+281405:3b83f5 Test Leads?
+281414:3b849a Test Leads?
+281423:3b853f Test Leads?
+281432:3b85e4 Test Leads?
+281441:3b8689 Test Leads?
+281450:3b872e Test Leads?
+281459:3b87d3 Test Leads?
+281468:3b8878 Test Leads?
+281477:3b891d Test Leads?
+281486:3b89c2 Test Leads?
+281495:3b8a67 Test Leads?
+281504:3b8b0c Test Leads?
+281513:3b8bb1 Test Leads?
+281522:3b8c56 Test Leads?
+281531:3b8cfb Test Leads?
+281540:3b8da0 Test Leads?
+281549:3b8e45 Test Leads?
+281558:3b8eea Test Leads?
+281567:3b8f8f Test Leads?
+281576:3b9034 Test Leads?
+281585:3b90d9 Test Leads?
+281594:3b917e Test Leads?
+281603:3b9223 Test Leads?
+281612:3b92c8 Test Leads?
+281621:3b936d Test Leads?
+281630:3b9412 Test Leads?
+281639:3b94b7 Test Leads?
+281648:3b955c Test Leads?
+281657:3b9601 Test Leads?
+281666:3b96a6 Test Leads?
+281675:3b974b Test Leads?
+281684:3b97f0 Test Leads?
+281693:3b9895 Test Leads?
+281702:3b993a Test Leads?
+281711:3b99df Test Leads?
+281720:3b9a84 Test Leads?
+281729:3b9b29 Test Leads?
+281738:3b9bce Test Leads?
+281747:3b9c73 Test Leads?
+281756:3b9d18 Test Leads?
+281765:3b9dbd Test Leads?
+281774:3b9e62 Test Leads?
+281783:3b9f07 Test Leads?
+281792:3b9fac Test Leads?
+281801:3ba051 Test Leads?
+281810:3ba0f6 Test Leads?
+281819:3ba19b Test Leads?
+281828:3ba240 Test Leads?
+281837:3ba2e5 Test Leads?
+281846:3ba38a Test Leads?
+281855:3ba42f Test Leads?
+281864:3ba4d4 Test Leads?
+281873:3ba579 Test Leads?
+281882:3ba61e Test Leads?
+281891:3ba6c3 Test Leads?
+281900:3ba768 Test Leads?
+281909:3ba80d Test Leads?
+281918:3ba8b2 Test Leads?
+281927:3ba957 Test Leads?
+281936:3ba9fc Test Leads?
+281945:3baaa1 Test Leads?
+281954:3bab46 Test Leads?
+281963:3babeb Test Leads?
+281972:3bac90 Test Leads?
+281981:3bad35 Test Leads?
+281990:3badda Test Leads?
+281999:3bae7f Test Leads?
+282008:3baf24 Test Leads?
+282017:3bafc9 Test Leads?
+282026:3bb06e Test Leads?
+282035:3bb116 Test Leads?
+282044:3bb1be Test Leads?
+282053:3bb266 Test Leads?
+282062:3bb30e Test Leads?
+282071:3bb3b6 Test Leads?
+282080:3bb463 Test Leads?
+282099:3bb5d8 Test Leads?
+282118:3bb74d Test Leads?
+282137:3bb8c2 Test Leads?
+282156:3bba37 Test Leads?
+282175:3bbbac Test Leads?
+282194:3bbd21 Test Leads?
+282213:3bbe96 Test Leads?
+282232:3bc00b Test Leads?
+282251:3bc180 Test Leads?
+282270:3bc32b Test Leads?
+282289:3bc4a0 Test Leads?
+282308:3bc615 Test Leads?
+282327:3bc78a Test Leads?
+282346:3bc8ff Test Leads?
+282365:3bca74 Test Leads?
+282384:3bcbe9 Test Leads?
+282404:3bce53 Test Leads?
+282413:3bcfd5 Test Leads?
+282424:3bd656 Test Leads?
+282434:3bd789 Test Leads?
+282444:3be85c Test Leads?
+282463:3be9d1 Test Leads?
+282482:3beb46 Test Leads?
+282501:3becbb Test Leads?
+282520:3bee30 Test Leads?
+282539:3befa5 Test Leads?
+282558:3bf11a Test Leads?
+282577:3bf28f Test Leads?
+282596:3bf404 Test Leads?
+282615:3bf579 Test Leads?
+282638:3bff4c Test Leads?
+282647:3c0079 Test Leads?
+282656:3c01ab Test Leads?
+282672:3c0d88 Test Leads?
+282691:3c0efd Test Leads?
+282710:3c1072 Test Leads?
+282729:3c11e7 Test Leads?
+282748:3c135c Test Leads?
+282767:3c14d1 Test Leads?
+282786:3c1646 Test Leads?
+282805:3c17bb Test Leads?
+282824:3c1930 Test Leads?
+282843:3c1aa5 Test Leads?
+282862:3c1c1a Test Leads?
+282881:3c1d8f Test Leads?
+282900:3c1f04 Test Leads?
+282919:3c2079 Test Leads?
+282938:3c21ee Test Leads?
+282957:3c2363 Test Leads?
+282976:3c24d8 Test Leads?
+283011:3c34d7 Test Leads?
+283030:3c364c Test Leads?
+283049:3c37c1 Test Leads?
+283068:3c3936 Test Leads?
+283087:3c3aab Test Leads?
+283106:3c3c20 Test Leads?
+283125:3c3d95 Test Leads?
+283144:3c3f0a Test Leads?
+283163:3c407f Test Leads?
+283182:3c41f4 Test Leads?
+283201:3c4369 Test Leads?
+283220:3c44de Test Leads?
+283239:3c4653 Test Leads?
+283258:3c47c8 Test Leads?
+283277:3c493d Test Leads?
+283296:3c4ab2 Test Leads?
+283315:3c4c27 Test Leads?
+283334:3c4d9c Test Leads?
+283353:3c4f11 Test Leads?
+283372:3c5086 Test Leads?
+283391:3c51fb Test Leads?
+283410:3c5370 Test Leads?
+283429:3c54e5 Test Leads?
+283448:3c565a Test Leads?
+283467:3c57cf Test Leads?
+283486:3c5944 Test Leads?
+283505:3c5ab9 Test Leads?
+283524:3c5c2e Test Leads?
+283543:3c5da3 Test Leads?
+283562:3c5f18 Test Leads?
+283581:3c608d Test Leads?
+283601:3c629e Test Leads?
+283611:3c6353 Test Leads?
+283623:3c6465 Test Leads?
+283633:3c657f Test Leads?
+283646:3c6795 Test Leads?
+283656:3c684a Test Leads?
+283668:3c695c Test Leads?
+283678:3c6a75 Test Leads?
+283690:3c6ce2 Test Leads?
+283700:3c6d97 Test Leads?
+283712:3c6ea9 Test Leads?
+283722:3c6fc3 Test Leads?
+283734:3c719f Test Leads?
+283744:3c7254 Test Leads?
+283756:3c7366 Test Leads?
+283766:3c7480 Test Leads?
+283778:3c7697 Test Leads?
+283788:3c774c Test Leads?
+283800:3c785e Test Leads?
+283810:3c7978 Test Leads?
+283822:3c7b8f Test Leads?
+283832:3c7c44 Test Leads?
+283844:3c7d56 Test Leads?
+283854:3c7e6f Test Leads?
+283866:3c8236 Test Leads?
+283879:3c841f Test Leads?
+283898:3c8722 Test Leads?
+283917:3c8897 Test Leads?
+283936:3c8a0c Test Leads?
+283955:3c8b81 Test Leads?
+283974:3c8cf6 Test Leads?
+283993:3c8e6b Test Leads?
+284012:3c8fe0 Test Leads?
+284031:3c9155 Test Leads?
+284050:3c92ca Test Leads?
+284069:3c943f Test Leads?
+284088:3c95b4 Test Leads?
+284107:3c9729 Test Leads?
+284126:3c989e Test Leads?
+284145:3c9a13 Test Leads?
+284164:3c9b88 Test Leads?
+284183:3c9cfd Test Leads?
+284202:3c9e72 Test Leads?
+284221:3c9fe7 Test Leads?
+284240:3ca15c Test Leads?
+284259:3ca2d1 Test Leads?
+284278:3ca446 Test Leads?
+284360:3ce194 Test Leads?
+284369:3ce245 Test Leads?
+284388:3ce572 Test Leads?
+284397:3ce623 Test Leads?
+284416:3ce816 Test Leads?
+284427:3cf031 Test Leads?"
+284429:3cf057 Test Leads?"
+284431:3cf07d Test Leads?"
+284433:3cf0a3 Test Leads?"
+284435:3cf0c9 Test Leads?4
+284436:3cf0fc Test Leads?@
+284439:3cf18e Test Leads?"
+284441:3cf1b4 Test Leads?"
+284443:3cf1da Test Leads?"
+284445:3cf200 Test Leads?"
+284449:3cf270 Test Leads?
+284781:3e0423 Test Leads?
+284791:3e050f Test Leads?
+284802:3e05ed Test Leads?
+284813:3e06cd Test Leads?
+284827:3e07cf Test Leads?
+284837:3e0898 Test Leads?
+284846:3e0941 Test Leads?
+284860:3e0a3a Test Leads?
+284870:3e0b03 Test Leads?
+284879:3e0bac Test Leads?
+284893:3e0ca5 Test Leads?
+284903:3e0d6e Test Leads?
+284912:3e0e17 Test Leads?
+284922:3e0ed7 Test Leads?
+284931:3e0f79 Test Leads?
+284946:3e108a Test Leads?
+284956:3e114f Test Leads?
+284965:3e11fa Test Leads?
+284975:3e12ba Test Leads?
+284985:3e1381 Test Leads?
+284995:3e144a Test Leads?
+285004:3e14ec Test Leads?
+285015:3e15c4 Test Leads?
+285025:3e1689 Test Leads?
+285034:3e1738 Test Leads?
+285044:3e17f8 Test Leads?
+285053:3e189a Test Leads?
+285064:3e1972 Test Leads?
+285074:3e1a37 Test Leads?
+285084:3e1b00 Test Leads?
+285093:3e1baf Test Leads?
+285102:3e1c51 Test Leads?
+285114:3e1d3d Test Leads?
+285123:3e1dee Test Leads?
+285133:3e1eae Test Leads?
+285142:3e1f50 Test Leads?
+285157:3e2061 Test Leads?
+285167:3e2126 Test Leads?
+285176:3e21d1 Test Leads?
+285186:3e2291 Test Leads?
+285195:3e2333 Test Leads?
+285210:3e2444 Test Leads?
+285220:3e2509 Test Leads?
+285229:3e25b4 Test Leads?
+285239:3e267a Test Leads?
+285253:3e277d Test Leads?
+285264:3e285f Test Leads?
+285275:3e2945 Test Leads?
+285286:3e2a25 Test Leads?
+285295:3e2aca Test Leads?
+285304:3e2ba3 Test Leads?
+285315:3e2c89 Test Leads?
+285325:3e301b fConnect the UUT and/or DVM leads to
+285356:3e3570 fConnect the UUT and/or DVM leads to
+285369:3e3762 fConnect the UUT and/or DVM leads to
+285373:3e3814 fConnect the UUT and/or DVM leads to
+285383:3e3972 fConnect the UUT and/or DVM leads to
+285394:3e3af6 fConnect the UUT and/or DVM leads to
+285631:3e59ee Current Source CalibrationfConnect the UUT and/or DVM leads to
+285635:3e5a83 Gain CalibrationfConnect the UUT and/or DVM leads to
+285647:3e5bc6 Leakage Voltage CalibrationfConnect the UUT and/or DVM leads to
+285651:3e5c55 D/A TestfConnect the UUT and/or DVM leads to
+285655:3e5cdb Leakage Voltage TestfConnect the UUT and/or DVM leads to
+285659:3e5d6d Leakage Current TestfConnect the UUT and/or DVM leads to
+285698:3e6342 Test Leads?
+285708:3e63f7 Test Leads?
+285723:3e6501 Test Leads?
+286303:3f59b5 Test Leads?
+286312:3f5a5a Test Leads?
+286321:3f5aff Test Leads?
+286503:3f848f Test Leads?
+286512:3f8534 Test Leads?
+286521:3f85d9 Test Leads?
+286530:3f867e Test Leads?
+286539:3f8723 Test Leads?
+286548:3f87c8 Test Leads?
+286557:3f886d Test Leads?
+286566:3f8912 Test Leads?
+286575:3f89b7 Test Leads?
+286584:3f8a5c Test Leads?
+286593:3f8b01 Test Leads?
+286602:3f8ba6 Test Leads?
+286611:3f8c4b Test Leads?
+286620:3f8cf0 Test Leads?
+286629:3f8d95 Test Leads?
+286638:3f8e3a Test Leads?
+286647:3f8edf Test Leads?
+286656:3f8f84 Test Leads?
+286665:3f9029 Test Leads?
+286674:3f90ce Test Leads?
+286683:3f9173 Test Leads?
+286692:3f9218 Test Leads?
+286701:3f92bd Test Leads?
+286713:3f9473 Test Leads?
+286723:3f9614 Test Leads?
+286732:3f96cb Test Leads?
+286902:3fde66 Test Leads?
+286921:3fdfdb Test Leads?
+286940:3fe150 Test Leads?
+286959:3fe2c5 Test Leads?
+286978:3fe43a Test Leads?
+286997:3fe5af Test Leads?
+287016:3fe724 Test Leads?
+287035:3fe899 Test Leads?
+287054:3fea0e Test Leads?
+287073:3feb83 Test Leads?
+287120:3ff804 Test Leads?
+287139:3ff979 Test Leads?
+287158:3ffaee Test Leads?
+287177:3ffc63 Test Leads?
+287196:3ffdd8 Test Leads?
+287215:3fff4d Test Leads?
+287234:4000c2 Test Leads?
+287253:400237 Test Leads?
+287272:4003ac Test Leads?
+287291:400521 Test Leads?
+287310:400696 Test Leads?
+287329:40080b Test Leads?
+287348:400980 Test Leads?
+287367:400af5 Test Leads?
+287386:400c6a Test Leads?
+287405:400ddf Test Leads?
+287501:401abd Test Leads?
+287513:401bbc Test Leads?
+287547:402bc1 Test Leads?
+287566:402d36 Test Leads?
+287585:402eab Test Leads?
+287604:403020 Test Leads?
+287623:403195 Test Leads?
+287642:40330a Test Leads?
+287661:40347f Test Leads?
+287680:4035f4 Test Leads?
+287699:403769 Test Leads?
+287718:4038de Test Leads?
+287754:40422f Test Leads?
+287775:404420 Test Leads?
+287851:4063dc Test Leads?
+288116:40fd7b Test Leads?
+288128:40fe5f Test Leads?
+288170:410142 Test Leads?
+288179:4101e7 Test Leads?
+288188:41028c Test Leads?
+288212:410403 Test Leads?
+288223:4104dc Test Leads?
+288234:4105c7 Test Leads?
+288253:410714 Test Leads?
+288288:4109de Test Leads?
+288851:413e79 Test Leads?
+288866:413f76 Test Leads?
+289027:41bc75 Test Leads?
+289038:41bd8b Test Leads?
+289052:41c2e0 Test Leads?
+289062:41c3e6 Test Leads?
+289634:42318c Test Leads?
+289653:423301 Test Leads?
+289672:423476 Test Leads?
+290188:42e4de Test Leads?
+290283:42ea7c Test Leads?
+290288:42edaf ===Short the UUT leads to the
+290297:42ef11 ===Short the UUT leads to the
+290314:42f0e2 333Short the UUT leads to the
+290316:42f12e 333Short the UUT leads to the
+290319:42f19a LEADSHRT.viW
+290320:42f1b9 LEADSHRT.viW
+290321:42f1d8 LEADSHRT.viW
+290322:42f1f7 LEADSHRT.viO
+290323:42f22d 333Short the UUT leads to the
+290325:42f27b LEADSHRT.vi
+290326:42f29c 333Short the UUT leads to the
+290328:42f2ea LEADSHRT.viW
+290369:42f7fa ===Short the UUT leads to the
+290371:42f852 LEADSHRT.viW
+290376:42f912 ===Short the UUT leads to the
+290381:42f9e7 LEADSHRT.viW
+290383:42fa2a ===Short the UUT leads to the
+290388:42faff LEADSHRT.viW
+290390:42fb42 ===Short the UUT leads to the
+290395:42fc17 LEADSHRT.viW
+290411:42fd01 LEADSHRT.vi
+290427:42fe2b LEADSHRT.vi
+290442:42fef2 Inductance Decade Box (H Terminal)=Short the UUT leads to the
+290444:42ff53 IND3Short the UUT leads to the
+290446:42ff8b IND3Short the UUT leads to the
+290449:42fff9 Inductance Decade Box (H Terminal)=Short the UUT leads to the
+290451:43005a IND=Short the UUT leads to the
+290453:4300bc Inductance Decade Box (H Terminal)=Short the UUT leads to the
+290455:43013d Inductance Decade Box (H Terminal)=Short the UUT leads to the
+290457:4301be Inductance Decade Box (H Terminal)=Short the UUT leads to the
+290459:43023f Inductance Decade Box (H Terminal)3Short the UUT leads to the
+290461:430296 IND3Short the UUT leads to the
+290505:4308c1 Test Leads?
+290529:430a59 LEADSHRT.vi
+290535:430ac9 LEADSHRT.vi
+291243:440e42 ===Short the UUT leads to the
+291247:440edf ===Short the UUT leads to the
+291253:440fd8 ===Short the UUT leads to the
+291259:4410d1 ===Short the UUT leads to the
+291265:4411ca ===Short the UUT leads to the
+291271:4412c4 333Short the UUT leads to the
+291274:441335 333Short the UUT leads to the
+291350:441a4b Inductance Decade Box (H Terminal)=Short the UUT leads to the
+291352:441aac IND=Short the UUT leads to the
+291354:441b0e Inductance Decade Box (H Terminal)=Short the UUT leads to the
+291356:441b8f Inductance Decade Box (H Terminal)=Short the UUT leads to the
+291358:441c10 Inductance Decade Box (H Terminal)=Short the UUT leads to the
+291360:441c91 Inductance Decade Box (H Terminal)3Short the UUT leads to the
+291362:441cec IND3Short the UUT leads to the
+291583:44317d LEADSHRT.vi
+291959:447511 LEADSHRT.vi
+292131:447e99 LEADSHRT.vi
+292132:447ea5 LEADSHRT.vi
+292133:447eb1 LEADSHRT.vi
+292134:447ebd LEADSHRT.vi
+307026:d5a7c 4) Connect Lo Capacity leads to UUT plugs on front of test box.
+317716:190aa5 Apply voltage to leadsW
+320787:1c3894 aaaLeads zero, open                Cap must read 0, IND must read "OPEN" and ESR must read "ERROR 7"W
+320788:1c3912 Short LeadsO
+320792:1c3a28 Open LeadsO
+323324:1ef8cd Zero Leadsc
+323374:1f007c 4) Connect Lo Capacity leads to UUT plugs on front of test box.
+323681:1f2cc7 4) Connect Lo Capacity leads to UUT plugs on front of test box.
+360276:bd28b LEADSHRT.vi
+360907:ccf4a ===Short the UUT leads to the
+360911:ccfe7 ===Short the UUT leads to the
+360917:cd0e0 ===Short the UUT leads to the
+360923:cd1d9 ===Short the UUT leads to the
+360929:cd2d2 ===Short the UUT leads to the
+360935:cd3cc 333Short the UUT leads to the
+360938:cd43d 333Short the UUT leads to the
+361014:cdb53 Inductance Decade Box (H Terminal)=Short the UUT leads to the
+361016:cdbb4 IND=Short the UUT leads to the
+361018:cdc16 Inductance Decade Box (H Terminal)=Short the UUT leads to the
+361020:cdc97 Inductance Decade Box (H Terminal)=Short the UUT leads to the
+361022:cdd18 Inductance Decade Box (H Terminal)=Short the UUT leads to the
+361024:cdd99 Inductance Decade Box (H Terminal)3Short the UUT leads to the
+361026:cddf4 IND3Short the UUT leads to the
+361883:d8b57 LEADSHRT.vi
+362038:e1b0e Test Leads?
+362817:ec0f7 Test Leads?
+362878:ec5b2 Test Leads?
+362978:ecdff  to the UUT leads.
+363130:edcda Test Leads?
+363170:edfb9 Test Leads?
+363261:eef56  to the UUT leads.MD
+363889:103c14 Test Leads?
+364560:10c811 Test Leads?
+364591:10ca9b Test Leads?
+364839:10e12f Test Leads?
+364880:10e42f Test Leads?
+367327:13a541 Test Leads?
+367788:14069b Test Leads?
+367946:141597 Test Leads?
+367963:1416d4 Test Leads?
+368595:14e4a1     0=1.1MOhm connected to UUT leads; Same as '9'.
+374580:1b8c9e Test Leads?
+374596:1b8dc8 LEADSHRT.vi
+374602:1b8e3e LEADSHRT.vie
+375000:1be7ac Test Leads?
+375016:1be913 Test Leads?
+375113:1bf0a2          Press 'Enter' when ready.cShort the UUT leads to the Capacitance Decade box(LTerminal).
+375148:1bf449 LEADSHRT.vi
+375186:1bf99a Test Leads?
+375240:1bfd6f Test Leads?
+375296:1c05dd @@cShort the UUT leads to the Capacitance Decade box(LTerminal).
+375312:1c0865 LEADSHRT.viO
+375376:1c11aa LEADSHRT.vi
+377154:1e2a65 with the leads.  Check the leads
+377235:1e3755 with the leads.  Check the leads
+377518:1e98e5 Test Leads?
+377764:1ecc28 Test Leads?
+377898:1ed8c6 Test Leads?
+377923:1eda8d Test Leads?
+378253:1f342d Test Leads?
+378510:1f69e2 Test Leads?
+378640:1f762f Test Leads?
+378665:1f77fa Test Leads?
+378947:1fd1aa Test Leads?
+379179:20035d Test Leads?
+379306:200f48 Test Leads?
+379331:20110f Test Leads?
+379671:206e06 Test Leads?
+379935:20aacd Test Leads?
+380039:20b212 Ringer CalibrationLConnect the UUT leads to the
+380091:20b91a Test Leads?
+380116:20bae1 Test Leads?
+380152:20bf5f KKLConnect the UUT leads to the
+380507:2123af Test Leads?
+380748:215513 Test Leads?
+380872:216133 Test Leads?
+380897:2162fa Test Leads?
+381166:21a83a Test Leads?
+381176:21a8fd Test Leads?
+381191:21aa15 Test Leads?
+381356:21c655 Test Leads?
+381405:21cd28 Test Leads?
+381414:21cde7 Test Leads?
+381424:21ceaa Test Leads?
+381436:21cf9a Test Leads?
+381445:21d04f Test Leads?
+381456:21d139 Test Leads?
+381605:22104d Test Leads?
+381903:224e8b Test Leads?
+381925:2250a5 Test Leads?
+381943:225408 Test Leads?
+381952:2254bd Test Leads?
+381962:225584 Test Leads?
+382034:225a3d Test Leads?
+382084:225eb9 Test Leads?
+382097:226225 Test Leads?
+382106:2262ec Test Leads?&
+382124:2264a7 Test Leads?
+382177:226b1c Test Leads?X
+382528:22cf38 Test Leads?
+382832:230b74 Test Leads?
+382949:231737 Test Leads?
+382974:2318fe Test Leads?
+383264:24864a Test Leads?
+383274:24870d Test Leads?
+383289:248826 Test Leads?
+385305:264863 Test Leads?
+385315:264958 Test Leads?
+385326:264a43 Test Leads?
+385337:264b30 Test Leads?
+385350:264c3b Test Leads?
+385360:264d10 Test Leads?
+385369:264dc9 Test Leads?
+385382:264ecb Test Leads?
+385392:264fa0 Test Leads?
+385401:265059 Test Leads?
+385414:26515b Test Leads?
+385424:265230 Test Leads?
+385433:2652e9 Test Leads?
+385443:2653b7 Test Leads?
+385452:265466 Test Leads?
+385467:26559a Test Leads?
+385477:265668 Test Leads?
+385486:265723 Test Leads?
+385496:2657f1 Test Leads?
+385506:2658c1 Test Leads?
+385516:265998 Test Leads?
+385525:265a47 Test Leads?
+385537:265b47 Test Leads?
+385547:265c12 Test Leads?
+385556:265cd1 Test Leads?
+385566:265d9f Test Leads?
+385575:265e4e Test Leads?
+385587:265f4e Test Leads?
+385597:266019 Test Leads?
+385607:2660f0 Test Leads?
+385616:2661a9 Test Leads?
+385625:266258 Test Leads?
+385638:266368 Test Leads?
+385647:266429 Test Leads?
+385657:2664f7 Test Leads?
+385666:2665a6 Test Leads?
+385681:2666da Test Leads?
+385691:2667a8 Test Leads?
+385700:266863 Test Leads?
+385710:266931 Test Leads?
+385719:2669e0 Test Leads?
+385734:266b14 Test Leads?
+385744:266be2 Test Leads?
+385753:266c9d Test Leads?
+385763:266d6e Test Leads?
+385777:266e87 Test Leads?
+385788:266f76 Test Leads?
+385799:267069 Test Leads?
+385810:267156 Test Leads?
+385819:26720b Test Leads?
+385829:267304 Test Leads?
+385841:267411 Test Leads?
+385845:267724 Current Source CalibrationfConnect the UUT and/or DVM leads to
+385868:267933 fConnect the UUT and/or DVM leads to
+385874:2679e0 fConnect the UUT and/or DVM leads to
+385877:267a48 Leakage Voltage CalibrationfConnect the UUT and/or DVM leads to
+385880:267acb D/A TestfConnect the UUT and/or DVM leads to
+385883:267b3b Leakage Voltage TestfConnect the UUT and/or DVM leads to
+385969:268707 Test Leads?&
+385979:2687d6 Test Leads?
+385989:26889e Test Leads?
+385998:268958 Test Leads?
+386018:268b00 Test Leads?
+386028:268bc3 Test Leads?
+386040:268cb3 Test Leads?
+386060:269850 fConnect the UUT and/or DVM leads to
+386097:269e44 fConnect the UUT and/or DVM leads to
+386112:26a051 fConnect the UUT and/or DVM leads to
+386116:26a103 fConnect the UUT and/or DVM leads to
+386127:26a27a fConnect the UUT and/or DVM leads to
+386139:26a417 fConnect the UUT and/or DVM leads to
+387454:298b94 Test Leads?
+387464:298c57 Test Leads?
+387480:298e73 Test Leads?
+387492:299021 Test Leads?
+387509:299495 Test Leads?
+387541:2996c7 Test Leads?
+387554:2997f0 Test Leads?
+387567:29991b Test Leads?
+387580:299a44 Test Leads?
+387637:299e63 Test Leads?
+387694:29a3c6 Test Leads?
+387703:29a478 Test Leads?
+387721:29a872 Test Leads?&
+387729:29a918 Test Leads?
+387738:29a9cd Test Leads?
+387808:29b37a Test Leads?X
+387821:29b5c4 Test Leads?X
+388249:2a62d9 Test Leads?
+388641:2ab290 Test Leads?
+388675:2ab4f3 Test Leads?
+388729:2abd51 Test Leads?
+388772:2ac05c Test Leads?
+389151:2b870a Test Leads?
+389175:2b88b1 LEADSHRT.vi
+389181:2b8927 LEADSHRT.vi
+389753:2c1114 Test Leads?
+389843:2c16ed Test Leads?
+389847:2c1818 =Short the UUT leads to the
+389850:2c18c6 IND=Short the UUT leads to the
+389853:2c1959 IND3Short the UUT leads to the
+389854:2c1978 Low Value Inductance Box3Short the UUT leads to the
+389856:2c19c9 IND3Short the UUT leads to the
+389857:2c19e8 Low Value Inductance Box3Short the UUT leads to the
+389866:2c1afc =Short the UUT leads to the
+389867:2c1b18 Inductance Decade Box (L Terminal)=Short the UUT leads to the
+389869:2c1b99 Inductance Decade Box (H Terminal)=Short the UUT leads to the
+389872:2c1c5d Inductance Decade Box (H Terminal)=Short the UUT leads to the
+389889:2c1eba LEADSHRT.vi
+389916:2c2342 Test Leads?
+389959:2c2652 Test Leads?
+389985:2c2cde ===Short the UUT leads to the
+389996:2c2e6f ===Short the UUT leads to the
+390014:2c3046 333Short the UUT leads to the
+390016:2c3092 333Short the UUT leads to the
+390019:2c30fe LEADSHRT.viW
+390020:2c311d LEADSHRT.viW
+390021:2c313c LEADSHRT.viW
+390022:2c315b LEADSHRT.viO
+390023:2c3191 333Short the UUT leads to the
+390025:2c31df LEADSHRT.vi
+390026:2c3200 333Short the UUT leads to the
+390028:2c324e LEADSHRT.viQE
+390074:2c37e9 ===Short the UUT leads to the
+390076:2c3841 LEADSHRT.viW
+390081:2c3901 ===Short the UUT leads to the
+390086:2c39d6 LEADSHRT.viW
+390088:2c3a19 ===Short the UUT leads to the
+390093:2c3aee LEADSHRT.viW
+390095:2c3b31 ===Short the UUT leads to the
+390100:2c3c06 LEADSHRT.viW
+390126:2c4154 LEADSHRT.vi
+391287:2debcd Test Leads?
+391706:2e44ea Test Leads?
+391817:2e513b Test Leads?
+391844:2e533c Test Leads?
+392285:2ecb83 Test Leads?
+392430:2ed811 Test Leads?
+392440:2ed8eb Test Leads?
+392459:2edaa9 Test Leads?
+392606:2f3d23 LEADSHRT.vi
+392608:2f3d79 LEADSHRT.vi
+392627:2f3ec2 Test Leads?
+393145:2faef6 Test Leads?
+393177:2fb125 Test Leads?
+393266:2fb85a :-Make sure the UUT leads are shorted together.
+393270:2fb902 Lead Zero Short Test/ESRKSomething seems to be wrong.  Make sure the UUT leads are shorted together.?
+393281:2fbb42 LEADSHRT.vi
+393312:2fbfec Test Leads?
+393342:2fc229 Test Leads?
+393376:2fc8f7 LEADSHRT.viNDz
+393378:2fc97f LEADSHRT.viW
+393379:2fc99e LEADSHRT.viO
+393383:2fca06 ,,-Make sure the UUT leads are shorted together.W
+393384:2fca4a LEADSHRT.vi`
+393392:2fcb5b LEADSHRT.viH
+393394:2fcbad LEADSHRT.viND
+393396:2fcc0d LEADSHRT.viS
+393400:2fcc70 LEADSHRT.viO
+393404:2fcd66 BBKSomething seems to be wrong.  Make sure the UUT leads are shorted together.QD
+393406:2fcddd LEADSHRT.viPD
+393408:2fce10 LEADSHRT.viW
+393409:2fce33 LEADSHRT.viO
+393420:2fcf0e LEADSHRT.viW
+393438:2fd12d LEADSHRT.viMD
+393444:2fd1be LEADSHRT.vi
+393458:2fd801 LEADSHRT.vi
+393859:3066b0 LEADSHRT.vi
+399137:357c5b Test Leads?
+399306:3597bb Test Leads?
+399405:35dc4a Test Leads?
+399856:363466 Test Leads?
+399872:363608 Test Leads?
+399888:3637c6 Test Leads?
+399899:3638c3 Test Leads?
+399911:3639e6 Test Leads?
+399946:364183 Test Leads?
+399962:3642fb Test Leads?
+400320:36b0b0 Test Leads?
+400504:36cf88 Test Leads?
+400531:36d52e Test Leads?
+400543:36d636 Test Leads?
+400797:371a98 Test Leads?
+400817:371c8c Test Leads?
+400846:37230f Test Leads?
+400909:372c44 Test Leads?
+400930:372e04 Test Leads?&
+400937:372e9c Test Leads?
+400958:37317d Test Leads?X
+404084:3a6591     0=1.1MOhm connected to UUT leads; Same as '9'.
+407222:3de70f Test Leads?
+407819:3e9f6d Test Leads?
+408317:3f0865 Test Leads?
+408488:3f187d Test Leads?
+408530:3f1b81 Test Leads?
+409004:3fdd05 Test Leads?
+409425:40398c Test Leads?
+409590:4048fd Test Leads?
+409629:404bc5 Test Leads?
+410076:4100b8 Test Leads?
+410510:416136 Test Leads?
+410696:417211 Test Leads?
+410743:417560 Test Leads?
+411385:42a1ca Test Leads?
+411400:42a2d8 Test Leads?
+412705:43ad52 Test Leads?
+412725:43aee1 Test Leads?
+412763:43b207 Test Leads?
+412772:43b2bc Test Leads?
+412781:43b371 Test Leads?
+412805:43b517 Test Leads?
+412816:43b60e Test Leads?
+412827:43b715 Test Leads?
+412848:43b8ae Test Leads?
+412909:43bda8 Test Leads?
+413207:43d7b8 Test Leads?
+413322:43dfd6 Test Leads?
+413374:43e3cf Test Leads?
+413396:43e586 Test Leads?
+414182:455442 Test Leads?
+414772:45d9c4 Test Leads?
+414977:45ecba Test Leads?
+415038:45f0eb Test Leads?
+415651:46ec1b Test Leads?
+416132:475474 Test Leads?
+416321:47659a Test Leads?
+416362:476888 Test Leads?
+416850:47eee5 LEADSHRT.vi
+417099:4827b5 LEADSHRT.vi
+417270:4832a6 LEADSHRT.vi
+417271:4832b2 LEADSHRT.vi
+417272:4832be LEADSHRT.vi
+442588:17f5d1 4) Connect Lo Capacity leads to UUT plugs on front of test box.
+445166:1a5739 4) Connect Lo Capacity leads to UUT plugs on front of test box.
+445378:1a6c0f Zero Leadsc
+445430:1a73c6 4) Connect Lo Capacity leads to UUT plugs on front of test box.
+447600:1ca0c0 aaaLeads zero, open                Cap must read 0, IND must read "OPEN" and ESR must read "ERROR 7"W
+447601:1ca13e Short LeadsO
+447605:1ca253 Open LeadsO
+450212:1f2221 Apply voltage to leadsW
+489492:bd28b LEADSHRT.vi
+490117:ccef2 ===Short the UUT leads to the
+490121:ccf8f ===Short the UUT leads to the
+490127:cd088 ===Short the UUT leads to the
+490133:cd181 ===Short the UUT leads to the
+490139:cd27a ===Short the UUT leads to the
+490145:cd374 333Short the UUT leads to the
+490148:cd3e5 333Short the UUT leads to the
+490224:cdafb Inductance Decade Box (H Terminal)=Short the UUT leads to the
+490226:cdb5c IND=Short the UUT leads to the
+490228:cdbbe Inductance Decade Box (H Terminal)=Short the UUT leads to the
+490230:cdc3f Inductance Decade Box (H Terminal)=Short the UUT leads to the
+490232:cdcc0 Inductance Decade Box (H Terminal)=Short the UUT leads to the
+490234:cdd41 Inductance Decade Box (H Terminal)3Short the UUT leads to the
+490236:cdd9c IND3Short the UUT leads to the
+490385:cea13 LEADSHRT.vi
+490814:df6b4 Test Leads?
+490829:df7c2 Test Leads?
+490970:e0685 Test Leads?
+491077:e0de5 Test Leads?
+491106:e1009 Test Leads?
+491143:e12cc Test Leads?
+491153:e13ab Test Leads?
+491178:e1594 Test Leads?
+491187:e1643 Test Leads?
+491196:e16f2 Test Leads?
+491218:e1867 Test Leads?
+491240:e1a3a Test Leads?
+492132:ef706 Test Leads?
+492191:efc47 Test Leads?
+492247:f00a4 Test Leads?
+492271:f027e Test Leads? 
+493080:109503 Test Leads?
+493152:109e9e Test Leads?
+493279:10a7d8 Test Leads?
+493339:10aec5  to the UUT leads.
+493702:11103b Test Leads?
+493742:11131a Test Leads?
+494398:125e12 Test Leads?
+494474:12679a Test Leads?
+494533:126c79 Test Leads?
+494957:12c8b6 Test Leads?
+494998:12cbb6 Test Leads?
+496751:1529e4 Test Leads?
+496852:15338e Test Leads?
+497091:157293 Test Leads?
+497107:1573bd Test Leads?
+497553:16350a Test Leads?
+497662:164064 Test Leads?
+498015:169a1a Test Leads?
+498075:169e3e Test Leads?
+498628:178b41 Test Leads?
+498686:179259 Test Leads?
+498922:17d723 Test Leads?
+498969:17da72 Test Leads?
+499472:18992c Test Leads?
+499569:18a306 Test Leads?
+499847:18e796 Test Leads?
+499888:18ea84 Test Leads?
+500350:199c89 Test Leads?
+500451:19a5dc Test Leads?
+500679:19e693 Test Leads?
+500718:19e95b Test Leads?
+501173:1a9411 Test Leads?
+501284:1a9e33 Test Leads?
+501548:1ae55e Test Leads?
+501590:1ae862 Test Leads?
+502085:1b9184     0=1.1MOhm connected to UUT leads; Same as '9'.
+506470:212ad9 Test Leads?
+506486:212c02 LEADSHRT.vi
+506492:212c78 LEADSHRT.vi
+506540:213238 Test Leads?
+506614:213766 Test Leads?
+506651:213b8c          Press 'Enter' when ready.cShort the UUT leads to the Capacitance Decade box(LTerminal).
+506681:213fad LEADSHRT.vi
+506803:217314 Test Leads?
+506857:2176e9 Test Leads?
+506909:2180ab LEADSHRT.viH
+506963:218928 LEADSHRT.vi
+508149:232a90 with the leads.  Check the leads
+508574:23acd7 Test Leads?
+508614:23b12a Test Leads?
+508750:23d75d Test Leads?
+508775:23d924 Test Leads?
+509062:242ce2 Test Leads?
+509108:2431a8 Test Leads?
+509238:2457bb Test Leads?
+509263:245986 Test Leads?
+509520:24adc5 Test Leads?
+509560:24b215 Test Leads?
+509690:24d6a7 Test Leads?
+509715:24d86e Test Leads?
+510015:252f52 Test Leads?
+510061:253430 Test Leads?
+510104:253879 Ringer CalibrationLConnect the UUT leads to the
+510205:25630e Test Leads?
+510230:2564d5 Test Leads?
+510611:25c724 Test Leads?
+510657:25cbd4 Test Leads?
+510789:25f056 Test Leads?
+510814:25f21d Test Leads?
+511049:2632ce Test Leads?
+511059:263391 Test Leads?
+511074:2634a9 Test Leads?
+511110:263829 Test Leads?
+511180:2648d6 Test Leads?
+511189:264995 Test Leads?
+511199:264a58 Test Leads?
+511211:264b48 Test Leads?
+511220:264bfd Test Leads?
+511231:264ce7 Test Leads?
+511372:2685ab Test Leads?
+511403:2687f7 Test Leads?
+511425:268a20 Test Leads?
+511440:268d22 Test Leads?
+511449:268de1 Test Leads?
+511459:268eae Test Leads?
+511490:269199 Test Leads?
+511604:26b80a Test Leads?
+511617:26bb76 Test Leads?
+511626:26bc3d Test Leads?&
+511644:26bdf8 Test Leads?
+511694:26c462 Test Leads?X
+512007:272108 Test Leads?
+512047:2725a4 Test Leads?
+512169:2749ff Test Leads?
+512194:274bc6 Test Leads?
+512561:2895c7 Test Leads?
+512571:28968a Test Leads?
+512586:2897a2 Test Leads?
+512634:28a877 Test Leads?
+512643:28a929 Test Leads?
+512656:28aa20 Test Leads?
+512669:28ab2d Test Leads?
+512678:28abde Test Leads?
+512691:28ace4 Test Leads?
+512700:28ad93 Test Leads?
+512710:28ae60 Test Leads?
+512723:28af52 Test Leads?
+512732:28b005 Test Leads?
+512746:28b120 Test Leads?
+512755:28b1d7 Test Leads?
+512768:28b2db Test Leads?
+512777:28b38e Test Leads?
+512789:28b476 Test Leads?
+512798:28b525 Test Leads?
+512807:28b5d4 Test Leads?
+512816:28b683 Test Leads?
+512825:28b736 Test Leads?
+512834:28b7e5 Test Leads?
+512845:28b8c8 Test Leads?
+512856:28b99d Test Leads?
+512866:28ba63 Test Leads?
+512875:28bb12 Test Leads?
+512886:28bbef Test Leads?
+512896:28bcbc Test Leads?
+512906:28bd81 Test Leads?
+512916:28be4b Test Leads?
+512926:28bf0b Test Leads?
+512936:28bfd9 Test Leads?
+512946:28c0a3 Test Leads?
+512955:28c154 Test Leads?
+512967:28c231 Test Leads?
+512976:28c2e4 Test Leads?
+512987:28c3c5 Test Leads?
+512998:28c4a0 Test Leads?
+513007:28c554 Test Leads?
+513018:28c632 Test Leads?
+513028:28c700 Test Leads?
+513048:28c8b9 Test Leads?
+513057:28c968 Test Leads?
+513066:28ca17 Test Leads?
+513076:28cafb Test Leads?
+513090:28cc60 Test Leads?
+513101:28cd46 Test Leads?
+513115:28ce62 Test Leads?
+513124:28cf11 Test Leads?
+513134:28cfd0 Test Leads?
+513144:28d092 Test Leads?
+513153:28d143 Test Leads?
+513162:28d1fa Test Leads?
+513171:28d2bb Test Leads?
+513178:28da29 Current Source CalibrationfConnect the UUT and/or DVM leads to
+513201:28dc38 fConnect the UUT and/or DVM leads to
+513207:28dce5 fConnect the UUT and/or DVM leads to
+513210:28dd4d Leakage Voltage CalibrationfConnect the UUT and/or DVM leads to
+513213:28ddd0 D/A TestfConnect the UUT and/or DVM leads to
+513216:28de40 Leakage Voltage TestfConnect the UUT and/or DVM leads to
+513710:29eff6 Test Leads?&
+513720:29f0c5 Test Leads?
+513730:29f18d Test Leads?
+513739:29f247 Test Leads?
+513759:29f3ef Test Leads?
+513769:29f4b2 Test Leads?
+513781:29f5a2 Test Leads?
+514895:2c8f65 Test Leads?
+514905:2c9028 Test Leads?
+514920:2c9256 Test Leads?
+514932:2c9405 Test Leads?
+514949:2c987d Test Leads?
+514966:2c9a04 Test Leads?
+514975:2c9ace Test Leads?
+514984:2c9b96 Test Leads?
+514993:2c9c60 Test Leads?
+515027:2c9f98 Test Leads?
+515167:2cd03e Test Leads?
+515176:2cd0f0 Test Leads?
+515194:2cd4ea Test Leads?&
+515202:2cd590 Test Leads?
+515211:2cd645 Test Leads?
+515277:2cdfd9 Test Leads?X
+515286:2ce1f6 Test Leads?X
+515730:2d86c4 Test Leads?
+515814:2d8ff3 Test Leads?
+515835:2d91bf Test Leads?
+515952:2dc1df Test Leads?
+515995:2dc4ea Test Leads?
+516425:2e7f74 Test Leads?
+516449:2e811b LEADSHRT.vi
+516455:2e8191 LEADSHRT.vid
+516510:2e8b09 Test Leads?
+516539:2e8dbe Test Leads?
+516543:2e8e63 =Short the UUT leads to the
+516546:2e8f11 IND=Short the UUT leads to the
+516549:2e8fa4 IND3Short the UUT leads to the
+516550:2e8fc3 Low Value Inductance Box3Short the UUT leads to the
+516552:2e9014 IND3Short the UUT leads to the
+516553:2e9033 Low Value Inductance Box3Short the UUT leads to the
+516562:2e9147 =Short the UUT leads to the
+516563:2e9163 Inductance Decade Box (L Terminal)=Short the UUT leads to the
+516565:2e91e4 Inductance Decade Box (H Terminal)=Short the UUT leads to the
+516568:2e92a8 Inductance Decade Box (H Terminal)=Short the UUT leads to the
+516581:2e96ca LEADSHRT.vi
+516788:2eec77 Test Leads?
+516831:2eef87 Test Leads?
+516871:2ef8f2 LEADSHRT.viW
+516872:2ef911 LEADSHRT.viW
+516873:2ef930 LEADSHRT.viW
+516874:2ef94f LEADSHRT.viH
+516875:2ef9a3 LEADSHRT.viH
+516876:2ef9e2 LEADSHRT.viQE
+516912:2eff8f LEADSHRT.viW
+516916:2f006c LEADSHRT.viW
+516919:2f010a LEADSHRT.viW
+516922:2f01a9 LEADSHRT.viW
+516946:2f06f1 LEADSHRT.vi
+517893:307332 Test Leads?
+517943:307a0a Test Leads?
+518095:30b2b7 Test Leads?
+518121:30b4a1 Test Leads?
+518529:31727f LEADSHRT.vi
+518548:3173c9 Test Leads?
+518597:317ad5 Test Leads?
+518612:317c27 Test Leads?
+518660:318168 :-Make sure the UUT leads are shorted together.
+518664:318210 Lead Zero Short Test/ESRKSomething seems to be wrong.  Make sure the UUT leads are shorted together.?
+518670:3185ef LEADSHRT.vi
+518807:31c606 Test Leads?
+518836:31c82c Test Leads?
+518863:31cf0c LEADSHRT.viHD
+518865:31cf9d LEADSHRT.viW
+518866:31cfbc LEADSHRT.viH
+518868:31d03c LEADSHRT.viH
+518873:31d129 LEADSHRT.viH
+518875:31d17b LEADSHRT.viHD\
+518876:31d1e0 LEADSHRT.viH
+518877:31d23f LEADSHRT.viH
+518879:31d339 LEADSHRT.viHD
+518880:31d36b LEADSHRT.viW
+518881:31d38e LEADSHRT.viH
+518885:31d463 LEADSHRT.viW
+518901:31d660 LEADSHRT.viHD
+518907:31d6f3 LEADSHRT.vi
+518919:31dd38 LEADSHRT.vi
+519328:326737 LEADSHRT.vi
+519603:32b477 Test Leads?
+520106:331c3d Test Leads?
+520116:331d17 Test Leads?
+520135:331ed5 Test Leads?
+523070:363629 Test Leads?
+523145:364573 Test Leads?
+523245:36822b Test Leads?
+523282:368935 Test Leads?
+523298:368af3 Test Leads?
+523314:368cd1 Test Leads?
+523325:368de3 Test Leads?
+523337:368f25 Test Leads?
+523460:36c045 Test Leads?
+523476:36c1bd Test Leads?
+523881:372b7b Test Leads?
+523912:372f61 Test Leads?
+523958:374034 Test Leads?
+523970:37413c Test Leads?
+524105:376e79 Test Leads?
+524124:377077 Test Leads?
+524152:377720 Test Leads?
+524234:378323 Test Leads?
+524255:3784e3 Test Leads?&
+524262:37857b Test Leads?
+524283:37886e Test Leads?X
+527421:3b51dd     0=1.1MOhm connected to UUT leads; Same as '9'.
+529277:3d8ed1 LEADSHRT.vi
+529377:3daec7 Test Leads?
+529561:3de8f1 LEADSHRT.vi
+529735:3df403 LEADSHRT.vi
+529736:3df40f LEADSHRT.vi
+529737:3df41b LEADSHRT.vi
+550708:13e26b aaaLeads zero, open                Cap must read 0, IND must read "OPEN" and ESR must read "ERROR 7"W
+550709:13e2e9 Short LeadsH
+550713:13e3ff Open LeadsH
+553387:16d1e2 Apply voltage to leadsW
+559427:1d99aa 4) Connect Lo Capacity leads to UUT plugs on front of test box.
+559774:1de69d Zero Leadsc
+559822:1dee42 4) Connect Lo Capacity leads to UUT plugs on front of test box.
+594780:cc8fe ===Short the UUT leads to the
+594784:cc99b ===Short the UUT leads to the
+594790:cca94 ===Short the UUT leads to the
+594796:ccb8d ===Short the UUT leads to the
+594802:ccc86 ===Short the UUT leads to the
+594808:ccd80 333Short the UUT leads to the
+594811:ccdf1 333Short the UUT leads to the
+594887:cd507 Inductance Decade Box (H Terminal)=Short the UUT leads to the
+594889:cd568 IND=Short the UUT leads to the
+594891:cd5ca Inductance Decade Box (H Terminal)=Short the UUT leads to the
+594893:cd64b Inductance Decade Box (H Terminal)=Short the UUT leads to the
+594895:cd6cc Inductance Decade Box (H Terminal)=Short the UUT leads to the
+594897:cd74d Inductance Decade Box (H Terminal)3Short the UUT leads to the
+594899:cd7a8 IND3Short the UUT leads to the
+595048:ce41f LEADSHRT.vi
+596820:f643d     0=1.1MOhm connected to UUT leads; Same as '9'.
+596965:f8045 LEADSHRT.vi
+597175:fab4c Test Leads?
+597314:fb9a8 Test Leads?
+597335:fbbfc Test Leads?
+601685:14343f LEADSHRT.vi
+601718:143cb3 LEADSHRT.vi
+601825:1463e3 LEADSHRT.vi
+601841:1468c7 LEADSHRT.vi
+602028:1494a9 LEADSHRT.vi
+602603:153111 LEADSHRT.viPTH0
+602604:15312a LEADSHRT.vi
+602638:153b39 LEADSHRT.viPTH0
+602809:15748d LEADSHRT.viPTH0
+602810:1574a6 LEADSHRT.vi
+606671:198a79 LEADSHRT.viPTH0
+606672:198a92 LEADSHRT.vi
+606711:199471 LEADSHRT.viPTH0
+606849:19ba91 LEADSHRT.viPTH0
+606850:19baaa LEADSHRT.vi
+608922:1beb71     0=1.1MOhm connected to UUT leads; Same as '9'.
+612195:1f4098 Test Leads?
+612366:1f6e35 LEADSHRT.vi
+612367:1f6e41 LEADSHRT.vi

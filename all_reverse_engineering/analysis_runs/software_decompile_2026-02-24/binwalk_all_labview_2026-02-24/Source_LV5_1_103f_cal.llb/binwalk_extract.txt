@@ -1,0 +1,10 @@
+
+Scan Time:     2026-02-24 16:53:43
+Target File:   /Users/<user>/Downloads/LC103/Source/LV5_1/103f_cal.llb
+MD5 Checksum:  4fcfdf5e9e8a1786e0ec452c19ca8769
+Signatures:    411
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+3065520       0x2EC6B0        Ubiquiti firmware header, third party, ~CRC32: 0x0, version: ".vi"
+

@@ -1,0 +1,300 @@
+52594:1c02fd Serial Port Reset.vi
+52596:1c0335 Serial Port Buffer Size.vi
+52686:1c0c05 Serial Port Init.vi
+52688:1c0c39 Serial Port Write.vi
+52690:1c0c71 Serial Port Read.vi
+52692:1c0ca5 Bytes At Serial Port.vi
+55237:1f1cfd QMThis verison of Serial Port Reset.vi is for the Windows 3 version of LabVIEW.$
+55242:1f1d95 Serial Port Reset.viReset.vi
+55268:1f2348 Serial Port Reset.vi
+55271:1f237f Serial Port Reset.vi
+55274:1f23e5 Serial Port Reset.vi
+55329:1f282f Serial Port Reset.vi
+55379:1f2d73 Serial Port Reset.vi
+55380:1f2d88 Serial Port Reset.vi
+55381:1f2d9d Serial Port Reset.vi
+55382:1f2db2 Serial Port Reset.vi
+55383:1f2dc7 Serial Port Reset.vi
+55384:1f2ddc Serial Port Reset.vi
+55385:1f2df1 Serial Port Reset.vi
+55386:1f2e06 Serial Port Reset.vi
+55387:1f2e1b Serial Port Reset.vi
+55388:1f2e30 Serial Port Reset.vi
+55389:1f2e45 Serial Port Reset.vi
+55390:1f2e5a Serial Port Reset.vi
+55391:1f2e6f Serial Port Reset.vi
+55392:1f2e84 Serial Port Reset.vi
+55393:1f2e99 Serial Port Reset.vi
+55394:1f2eae Serial Port Reset.vi
+55495:1f53ca This version of Set Serial Port Buffer Size.vi is to be used on the SPARC or Windows version of LabVIEW as a subVI to OpenSerialDriver and Serial Port Init.vi.$
+55497:1f54b0 Serial Port Buffer Size.vize.vi
+55506:1f55f8 Serial Port Buffer Size.vi
+55508:1f562c Serial Port Buffer Size.vi
+55513:1f568f Serial Port Buffer Size.vi
+55533:1f58a5 Serial Port Buffer Size.vi+
+55565:1f5b06 Serial Port Buffer Size.vi
+55566:1f5b21 Serial Port Buffer Size.vi
+55567:1f5b3c Serial Port Buffer Size.vi
+55568:1f5b57 Serial Port Buffer Size.vi
+55569:1f5b72 Serial Port Buffer Size.vi
+55570:1f5b8d Serial Port Buffer Size.vi
+55571:1f5ba8 Serial Port Buffer Size.vi
+55572:1f5bc3 Serial Port Buffer Size.vi
+55573:1f5bde Serial Port Buffer Size.vi
+55574:1f5bf9 Serial Port Buffer Size.vi
+55575:1f5c14 Serial Port Buffer Size.vi
+55576:1f5c2f Serial Port Buffer Size.vi
+55577:1f5c4a Serial Port Buffer Size.vi
+55578:1f5c65 Serial Port Buffer Size.vi
+55579:1f5c80 Serial Port Buffer Size.vi
+55580:1f5c9b Serial Port Buffer Size.vi
+74822:316bf5 9When you use the serial port VIs under Windows, the port number parameter can have the following values:
+74836:316ccc When you use the serial port VIs on a Sun SPARCstation, the port number parameter is 0 for /dev/ttya, 1 for /dev/ttyb, and so on.
+74841:3170c7 Some error codes returned by the serial port VIs are platform-specific. Please refer to your system documentation for a list of error codes.
+74847:31761c lhOutput XON/XOFF. See the Common Serial Port VI Parameters section of this chapter for more information.
+75177:31bd84 D@Initializes the selected serial port to the specified settings.
+75178:31be11 Serial Port Init.vi
+75193:31c1b7 Serial Port Resetf
+75194:31c1dc Serial Port Buffer Size.viU
+75197:31c229 Serial Port Init.vi
+75199:31c256 Serial Port Init.vi
+75204:31c292 Serial Port Buffer Size.vi
+75207:31c2b9 Serial Port Reset.vi
+75211:31c318 Serial Port Init.vi
+75213:31c332 Serial Port Reset.vi
+75216:31c353 Serial Port Buffer Size.vi
+75265:31c75c Serial Port Init.vi
+75292:31c934 Serial Port Buffer Size.vi
+75298:31c9a1 Serial Port Buffer Size.vi
+75300:31c9c1 Serial Port Reset.vi
+75322:31cb26 Serial Port Reset.vi
+75350:31ce94 Serial Port Init.vi
+75351:31cea8 Serial Port Init.vi
+75352:31cebc Serial Port Init.vi
+75353:31ced0 Serial Port Init.vi
+75354:31cee4 Serial Port Init.vi
+75355:31cef8 Serial Port Init.vi
+75356:31cf0c Serial Port Init.vi
+75357:31cf20 Serial Port Init.vi
+75358:31cf34 Serial Port Init.vi
+75359:31cf48 Serial Port Init.vi
+75360:31cf5c Serial Port Init.vi
+75361:31cf70 Serial Port Init.vi
+75362:31cf84 Serial Port Init.vi
+75363:31cf98 Serial Port Init.vi
+75364:31cfac Serial Port Init.vi
+75365:31cfc0 Serial Port Init.vi
+75375:31da87 9When you use the serial port VIs under Windows, the port number parameter can have the following values:
+75389:31db5e When you use the serial port VIs on a Sun SPARCstation, the port number parameter is 0 for /dev/ttya, 1 for /dev/ttyb, and so on.
+75393:31de66 Some error codes returned by the serial port VIs are platform-specific. Please refer to your system documentation for a list of error codes.
+75394:31def3 *&data to be written to the serial port
+75494:31fb85 UQWrites the data in string to write to the serial port indicated in port number.
+75495:31fc21 Serial Port Write.vi
+75499:31fd1e Serial Port Write.vi
+75501:31fd4d Serial Port Write.vi
+75510:31fdec Serial Port Write.vi
+75532:320012 Serial Port Write.vi
+75576:32031b Serial Port Write.vi
+75577:320330 Serial Port Write.vi
+75578:320345 Serial Port Write.vi
+75579:32035a Serial Port Write.vi
+75580:32036f Serial Port Write.vi
+75581:320384 Serial Port Write.vi
+75582:320399 Serial Port Write.vi
+75583:3203ae Serial Port Write.vi
+75584:3203c3 Serial Port Write.vi
+75585:3203d8 Serial Port Write.vi
+75586:3203ed Serial Port Write.vi
+75587:320402 Serial Port Write.vi
+75588:320417 Serial Port Write.vi
+75589:32042c Serial Port Write.vi
+75590:320441 Serial Port Write.vi
+75591:320456 Serial Port Write.vi
+75597:321180 9When you use the serial port VIs under Windows, the port number parameter can have the following values:
+75611:321257 When you use the serial port VIs on a Sun SPARCstation, the port number parameter is 0 for /dev/ttya, 1 for /dev/ttyb, and so on.
+75616:3216ba Some error codes returned by the serial port VIs are platform-specific. Please refer to your system documentation for a list of error codes.
+75739:323a21 uqReads the number of characters specified by requested byte count from the serial port indicated in port number.
+75743:323adf Serial Port Read.vi
+75747:323c1d Serial Port Read.vi
+75750:323c56 Serial Port Read.vi
+75759:323cee Serial Port Read.vi
+75783:323f3b Serial Port Read.vi,
+75827:32427d Serial Port Read.vi
+75828:324291 Serial Port Read.vi
+75829:3242a5 Serial Port Read.vi
+75830:3242b9 Serial Port Read.vi
+75831:3242cd Serial Port Read.vi
+75832:3242e1 Serial Port Read.vi
+75833:3242f5 Serial Port Read.vi
+75834:324309 Serial Port Read.vi
+75835:32431d Serial Port Read.vi
+75836:324331 Serial Port Read.vi
+75837:324345 Serial Port Read.vi
+75838:324359 Serial Port Read.vi
+75839:32436d Serial Port Read.vi
+75840:324381 Serial Port Read.vi
+75841:324395 Serial Port Read.vi
+75842:3243a9 Serial Port Read.vi
+75851:32503b 9When you use the serial port VIs under Windows, the port number parameter can have the following values:
+75865:325112 When you use the serial port VIs on a Sun SPARCstation, the port number parameter is 0 for /dev/ttya, 1 for /dev/ttyb, and so on.
+75867:325275 UQbyte count is the number of bytes currently queued up in the serial port buffer.
+75870:32546d Some error codes returned by the serial port VIs are platform-specific. Please refer to your system documentation for a list of error codes.
+75980:3275e3 okReturns in byte count the number of bytes in the input buffer of the serial port indicated in port number.
+75984:32769a Bytes At Serial Port.vi{
+75988:3277d1 Bytes At Serial Port.vi
+75990:327803 Bytes At Serial Port.vi
+75999:32789a Bytes At Serial Port.vi
+76020:327aa9 Bytes At Serial Port.vi
+76065:327dcf Bytes At Serial Port.vi
+76066:327de7 Bytes At Serial Port.vi
+76067:327dff Bytes At Serial Port.vi
+76068:327e17 Bytes At Serial Port.vi
+76069:327e2f Bytes At Serial Port.vi
+76070:327e47 Bytes At Serial Port.vi
+76071:327e5f Bytes At Serial Port.vi
+76072:327e77 Bytes At Serial Port.vi
+76073:327e8f Bytes At Serial Port.vi
+76074:327ea7 Bytes At Serial Port.vi
+76075:327ebf Bytes At Serial Port.vi
+76076:327ed7 Bytes At Serial Port.vi
+76077:327eef Bytes At Serial Port.vi
+76078:327f07 Bytes At Serial Port.vi
+76079:327f1f Bytes At Serial Port.vi
+76080:327f37 Bytes At Serial Port.vi
+76266:32c711 Serial Port Write.viW
+76272:32c809 Serial Port Read.vic
+76273:32c82f Bytes At Serial Port.vik
+76283:32c94a Serial Port Write.vi
+76286:32c96b Serial Port Read.vi
+76289:32c98b Bytes At Serial Port.vi
+76296:32ca09 Serial Port Write.vi
+76299:32ca2a Serial Port Read.vi
+76302:32ca49 Bytes At Serial Port.vi
+76360:32d2f3 Serial Port Write.vi
+76364:32d34b Serial Port Write.vi
+76366:32d365 Serial Port Read.vi
+76371:32d3d0 Serial Port Read.vi
+76373:32d3e9 Bytes At Serial Port.vi
+76377:32d43f Bytes At Serial Port.vir
+76697:333823 Bytes At Serial Port.vi_
+76698:33384b Serial Port Read.via
+76709:3339df Bytes At Serial Port.vi
+76712:333a03 Serial Port Read.vi
+76719:333a84 Serial Port Read.vi
+76722:333aa4 Bytes At Serial Port.vi
+76783:334361 Bytes At Serial Port.vi
+76787:3343b7 Bytes At Serial Port.vi
+76789:3343d5 Serial Port Read.vi
+76794:334440 Serial Port Read.vi
+77820:344530 Bytes At Serial Port.viMD
+77821:344572 Serial Port Read.viMD
+77835:34467a Bytes At Serial Port.vi
+77838:34469e Serial Port Read.vi
+77845:34472a Serial Port Read.vi
+77851:34476f Bytes At Serial Port.vi
+77928:3451e1 Bytes At Serial Port.vi
+77932:345237 Bytes At Serial Port.vi
+77934:345255 Serial Port Read.vi
+77939:3452c0 Serial Port Read.vi
+102507:4ce595 GPIB EPAR: Serial port parity error.
+102509:4ce606 GPIB EORN: Serial port overrun error.
+102511:4ce66f GPIB EOFL: Serial port receive buffer overflow.
+102513:4ce6dc GPIB EFRM: Serial port framing error.
+102515:4ce745 GPIB SPTMO: Serial port timeout; bytes not received at serial port.
+115869:5b530e Initialize Serial Port
+118823:5e1d69 Serial Port Init.vi]
+118824:5e1d96 Init. Serial PortW
+119004:5e32af Serial Port Init.vi
+119060:5e3546 Serial Port Init.vi
+119273:5e44ac Serial Port Init.vi
+119291:5e45f2 Serial Port Init.vi
+120158:5ed0f2 Serial Port Reset.vi
+120159:5ed107 Serial Port Buffer Size.vi
+120202:5ed403 Serial Port Init.vi
+120203:5ed417 Serial Port Write.vi
+120204:5ed42c Serial Port Read.vi
+120205:5ed440 Bytes At Serial Port.vi
+225132:28883 Serial Port Reset.vi
+225583:32345 QMThis verison of Serial Port Reset.vi is for the Windows 3 version of LabVIEW.$
+225588:323dd Serial Port Reset.viReset.vi
+225614:32990 Serial Port Reset.vi
+225617:329c7 Serial Port Reset.vi
+225620:32a2d Serial Port Reset.vi
+225675:32e77 Serial Port Reset.vi
+225725:333bb Serial Port Reset.vi
+225726:333d0 Serial Port Reset.vi
+225727:333e5 Serial Port Reset.vi
+225728:333fa Serial Port Reset.vi
+225729:3340f Serial Port Reset.vi
+225730:33424 Serial Port Reset.vi
+225731:33439 Serial Port Reset.vi
+225732:3344e Serial Port Reset.vi
+225733:33463 Serial Port Reset.vi
+225734:33478 Serial Port Reset.vi
+225735:3348d Serial Port Reset.vi
+225736:334a2 Serial Port Reset.vi
+225737:334b7 Serial Port Reset.vi
+225738:334cc Serial Port Reset.vi
+225739:334e1 Serial Port Reset.vi
+225740:334f6 Serial Port Reset.vi
+225741:33513 MThis verison of Serial Port Reset.vi is for the Windows 3 version of LabVIEW.
+225747:3364b Serial Port Buffer Size.vi
+225848:35b6e This version of Set Serial Port Buffer Size.vi is to be used on the SPARC or Windows version of LabVIEW as a subVI to OpenSerialDriver and Serial Port Init.vi.$
+225850:35c54 Serial Port Buffer Size.vize.vi
+225859:35d9c Serial Port Buffer Size.vi
+225861:35dd0 Serial Port Buffer Size.vi
+225866:35e33 Serial Port Buffer Size.vi
+225886:36049 Serial Port Buffer Size.vi+
+225918:362aa Serial Port Buffer Size.vi
+225919:362c5 Serial Port Buffer Size.vi
+225920:362e0 Serial Port Buffer Size.vi
+225921:362fb Serial Port Buffer Size.vi
+225922:36316 Serial Port Buffer Size.vi
+225923:36331 Serial Port Buffer Size.vi
+225924:3634c Serial Port Buffer Size.vi
+225925:36367 Serial Port Buffer Size.vi
+225926:36382 Serial Port Buffer Size.vi
+225927:3639d Serial Port Buffer Size.vi
+225928:363b8 Serial Port Buffer Size.vi
+225929:363d3 Serial Port Buffer Size.vi
+225930:363ee Serial Port Buffer Size.vi
+225931:36409 Serial Port Buffer Size.vi
+225932:36424 Serial Port Buffer Size.vi
+225933:3643f Serial Port Buffer Size.vi
+225934:36464 This version of Set Serial Port Buffer Size.vi is to be used on the SPARC or Windows version of LabVIEW as a subVI to OpenSerialDriver and Serial Port Init.vi.
+245110:1536ef Serial Port Init.vi
+245132:1552a9 9When you use the serial port VIs under Windows, the port number parameter can have the following values:
+245146:155380 When you use the serial port VIs on a Sun SPARCstation, the port number parameter is 0 for /dev/ttya, 1 for /dev/ttyb, and so on.
+245151:15577b Some error codes returned by the serial port VIs are platform-specific. Please refer to your system documentation for a list of error codes.
+245157:155cd0 lhOutput XON/XOFF. See the Common Serial Port VI Parameters section of this chapter for more information.
+245487:15a438 D@Initializes the selected serial port to the specified settings.
+245488:15a4c5 Serial Port Init.vi
+245503:15a86b Serial Port Resetf
+245504:15a890 Serial Port Buffer Size.viU
+245507:15a8dd Serial Port Init.vi
+245509:15a90a Serial Port Init.vi
+245514:15a946 Serial Port Buffer Size.vi
+245517:15a96d Serial Port Reset.vi
+245521:15a9cc Serial Port Init.vi
+245523:15a9e6 Serial Port Reset.vi
+245526:15aa07 Serial Port Buffer Size.vi
+245575:15ae10 Serial Port Init.vi
+245602:15afe8 Serial Port Buffer Size.vi
+245608:15b055 Serial Port Buffer Size.vi
+245610:15b075 Serial Port Reset.vi
+245632:15b1da Serial Port Reset.vi
+245660:15b548 Serial Port Init.vi
+245661:15b55c Serial Port Init.vi
+245662:15b570 Serial Port Init.vi
+245663:15b584 Serial Port Init.vi
+245664:15b598 Serial Port Init.vi
+245665:15b5ac Serial Port Init.vi
+245666:15b5c0 Serial Port Init.vi
+245667:15b5d4 Serial Port Init.vi
+245668:15b5e8 Serial Port Init.vi
+245669:15b5fc Serial Port Init.vi
+245670:15b610 Serial Port Init.vi
+245671:15b624 Serial Port Init.vi
+245672:15b638 Serial Port Init.vi
+245673:15b64c Serial Port Init.vi
+245674:15b660 Serial Port Init.vi

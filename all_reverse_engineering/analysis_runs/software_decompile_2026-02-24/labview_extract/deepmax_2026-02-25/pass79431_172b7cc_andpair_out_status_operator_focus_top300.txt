@@ -1,0 +1,66 @@
+57189:2123de status[14]- Timeout occured
+57230:212a03 status[14]- Timeout occured
+58028:220969 status[14]- Timeout occured
+58052:220ee4 status[14]- Timeout occured
+100211:49d5a5 error out is a cluster that reflects the status of the first error input that tests TRUE. It has the same elements as error in.
+100480:4a17b6 If the error in cluster has a status of no-error, then test each element of error codes array, stopping on the first non-zero value or after all are tested; pick the selected line from the optional source messages as the error out source.
+100481:4a18b8 \If the error in cluster has a status of ERROR, pass it through without test for local errorsH
+101604:4b78cd |xerror out contains the same information as status out, code out, and source out. It has the same structure as error in.
+227580:53436 status[14]- Timeout occured
+227621:53a5b status[14]- Timeout occured
+228435:61c55 status[14]- Timeout occured
+228459:621d0 status[14]- Timeout occured
+258565:214985 error out is a cluster that reflects the status of the first error input that tests TRUE. It has the same elements as error in.
+258834:218b96 If the error in cluster has a status of no-error, then test each element of error codes array, stopping on the first non-zero value or after all are tested; pick the selected line from the optional source messages as the error out source.
+258835:218c98 \If the error in cluster has a status of ERROR, pass it through without test for local errorsH
+260037:2304a5 |xerror out contains the same information as status out, code out, and source out. It has the same structure as error in.
+294063:207c7 status[14]- Timeout occured
+294104:20dec status[14]- Timeout occured
+294930:2efa2 status[14]- Timeout occured
+294954:2f51d status[14]- Timeout occured
+314025:14e0c2 |xerror out contains the same information as status out, code out, and source out. It has the same structure as error in.
+326230:1fabf status[14]- Timeout occured
+326271:200e4 status[14]- Timeout occured
+327124:2e28a status[14]- Timeout occured
+327148:2e805 status[14]- Timeout occured
+340508:ed6a5 |xerror out contains the same information as status out, code out, and source out. It has the same structure as error in.
+349025:1e6f6 status[14]- Timeout occured
+349066:1ed1b status[14]- Timeout occured
+349880:2cf15 status[14]- Timeout occured
+349904:2d490 status[14]- Timeout occured
+371474:18422e |xerror out contains the same information as status out, code out, and source out. It has the same structure as error in.
+373376:1a24ac error out is a cluster that reflects the status of the first error input that tests TRUE. It has the same elements as error in.
+373410:1a2bb5 If the error in cluster has a status of no-error, then test each element of error codes array, stopping on the first non-zero value or after all are tested; pick the selected line from the optional source messages as the error out source.
+373411:1a2cb4 \\\If the error in cluster has a status of ERROR, pass it through without test for local errorsSE
+419692:1e63b status[14]- Timeout occured
+419733:1ec60 status[14]- Timeout occured
+420559:2ce16 status[14]- Timeout occured
+420583:2d391 status[14]- Timeout occured
+434175:f7e51 |xerror out contains the same information as status out, code out, and source out. It has the same structure as error in.
+454529:1cf0b status[14]- Timeout occured
+454570:1d530 status[14]- Timeout occured
+455423:2b6d6 status[14]- Timeout occured
+455447:2bc51 status[14]- Timeout occured
+470154:1073d2 |xerror out contains the same information as status out, code out, and source out. It has the same structure as error in.
+478241:1e6f6 status[14]- Timeout occured
+478282:1ed1b status[14]- Timeout occured
+479096:2cf15 status[14]- Timeout occured
+479120:2d490 status[14]- Timeout occured
+504219:1ea3f7 xerror out contains the same information as status out, code out, and source out. It has the same structure as error in.
+505508:1ffb22 If the error in cluster has a status of no-error, then test each element of error codes array, stopping on the first non-zero value or after all are tested; pick the selected line from the optional source messages as the error out source.
+505509:1ffc21 \\\If the error in cluster has a status of ERROR, pass it through without test for local errorsSE
+505534:200858 error out is a cluster that reflects the status of the first error input that tests TRUE. It has the same elements as error in.
+532160:1e63b status[14]- Timeout occured
+532201:1ec60 status[14]- Timeout occured
+533027:2ce16 status[14]- Timeout occured
+533051:2d391 status[14]- Timeout occured
+546550:f6d61 |xerror out contains the same information as status out, code out, and source out. It has the same structure as error in.
+562445:1cf0b status[14]- Timeout occured
+562486:1d530 status[14]- Timeout occured
+563339:2b6d6 status[14]- Timeout occured
+563363:2bc51 status[14]- Timeout occured
+579638:16e2ba xerror out contains the same information as status out, code out, and source out. It has the same structure as error in.
+582964:1e66e status[14]- Timeout occured
+583005:1ec93 status[14]- Timeout occured
+583819:2ce8d status[14]- Timeout occured
+583843:2d408 status[14]- Timeout occured

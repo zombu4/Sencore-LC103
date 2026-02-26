@@ -1,0 +1,12 @@
+48228:165f57 Temporary Directory: location for LabVIEW temporary files
+52212:1ba204 GIt starts with "." and may be incorrectly interpreted as a device name.9LabVIEW cannot create new directories or libraries in %p.&LabVIEW cannot create new files in %p.
+102474:4cdbfb GPIB EOIP: New I/O attempted with old I/O in progress.9LabVIEW: Too many files open.
+260907:2467d3 GPIB EOIP: New I/O attempted with old I/O in progress.9LabVIEW: Too many files open.
+314915:1643a4 GPIB EOIP: New I/O attempted with old I/O in progress.9LabVIEW: Too many files open.
+341392:103974 GPIB EOIP: New I/O attempted with old I/O in progress.9LabVIEW: Too many files open.
+371345:1801f5 GPIB EOIP: New I/O attempted with old I/O in progress.9LabVIEW: Too many files open.
+434046:f3e18 GPIB EOIP: New I/O attempted with old I/O in progress.9LabVIEW: Too many files open.
+470025:103399 GPIB EOIP: New I/O attempted with old I/O in progress.9LabVIEW: Too many files open.
+503855:1e1196 GPIB EOIP: New I/O attempted with old I/O in progress.9LabVIEW: Too many files open.
+546421:f2d28 GPIB EOIP: New I/O attempted with old I/O in progress.9LabVIEW: Too many files open.
+579274:16505a GPIB EOIP: New I/O attempted with old I/O in progress.9LabVIEW: Too many files open.

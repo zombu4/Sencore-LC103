@@ -1,0 +1,3 @@
+48274:166d14 This is the default for the VI Setup of new VIs. If a VI has this option set, LabVIEW will add comments to the VI's history when the name of the VI is changed, subVIs are changed, or the VI is upgraded to a new version of LabVIEW.
+48275:166e00 If this option is set, LabVIEW will not prompt for a user name when launched. The user name will be set to the name entered in the LabVIEW Registration.
+48276:166ea0 If this option is set, LabVIEW will not prompt for a user name when launched. The user name will be set to the system user name.

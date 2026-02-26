@@ -1,0 +1,149 @@
+52752:1c121d Write Characters To File.vi
+54494:1e3da2 *Writes a string of characters to a byte stream file at the specified location; the default location is at the end of file.  The VI does incoming and internal error checking and does not write if an incoming error occurs.
+101388:4af7d2 Reads a string of characters from a byte stream file at the specified location; the default location is at the current mark.  The VI does incoming and internal error checking and does not read if an incoming error occurs.
+102974:4d6653 Write Characters To File.viM
+102990:4d691a Write Characters To File.vi
+102993:4d6950 Write Characters To File.vi
+103008:4d6a59 Write Characters To File.vi
+103041:4d6dcd Write Characters To File.viO
+103152:4d767d Write Characters To File.vi
+103153:4d7699 Write Characters To File.vi
+103154:4d76b5 Write Characters To File.vi
+103155:4d76d1 Write Characters To File.vi
+103156:4d76ed Write Characters To File.vi
+103157:4d7709 Write Characters To File.vi
+103158:4d7725 Write Characters To File.vi
+103159:4d7741 Write Characters To File.vi
+103160:4d775d Write Characters To File.vi
+103161:4d7779 Write Characters To File.vi
+103162:4d7795 Write Characters To File.vi
+103163:4d77b1 Write Characters To File.vi
+103164:4d77cd Write Characters To File.vi
+103165:4d77e9 Write Characters To File.vi
+103166:4d7805 Write Characters To File.vi
+103167:4d7821 Write Characters To File.vi
+103168:4d783d Write Characters To File.vi
+103169:4d7859 Write Characters To File.vi
+111777:565068 yustart of read offset is the position in the file, measured in characters (or bytes), at which the VI begins reading.
+112347:56c4a9 start of read offset is the position in the file, measured in characters (or bytes), at which the VI begins reading.
+113112:57ab96 Write Characters To File.viH
+113121:57af1c Write Characters To File.vis
+113133:57b082 Write Characters To File.vi
+113145:57b135 Write Characters To File.vi
+113199:57b96b Write Characters To File.vi
+113204:57ba1c Write Characters To File.vi
+120235:5ed5de Write Characters To File.vi
+224787:23882 *Writes a string of characters to a byte stream file at the specified location; the default location is at the end of file.  The VI does incoming and internal error checking and does not write if an incoming error occurs.
+224952:2506b *Writes a string of characters to a byte stream file at the specified location; the default location is at the end of file.  The VI does incoming and internal error checking and does not write if an incoming error occurs.
+259785:227882 Reads a string of characters from a byte stream file at the specified location; the default location is at the current mark.  The VI does incoming and internal error checking and does not read if an incoming error occurs.
+259959:229360 Reads a string of characters from a byte stream file at the specified location; the default location is at the current mark.  The VI does incoming and internal error checking and does not read if an incoming error occurs.
+261106:24a6af Write Characters To File.vi
+261413:24f5b3 Write Characters To File.viM
+261429:24f87a Write Characters To File.vi
+261432:24f8b0 Write Characters To File.vi
+261447:24f9b9 Write Characters To File.vi
+261480:24fd2d Write Characters To File.viO
+261591:2505dd Write Characters To File.vi
+261592:2505f9 Write Characters To File.vi
+261593:250615 Write Characters To File.vi
+261594:250631 Write Characters To File.vi
+261595:25064d Write Characters To File.vi
+261596:250669 Write Characters To File.vi
+261597:250685 Write Characters To File.vi
+261598:2506a1 Write Characters To File.vi
+261599:2506bd Write Characters To File.vi
+261600:2506d9 Write Characters To File.vi
+261601:2506f5 Write Characters To File.vi
+261602:250711 Write Characters To File.vi
+261603:25072d Write Characters To File.vi
+261604:250749 Write Characters To File.vi
+261605:250765 Write Characters To File.vi
+261606:250781 Write Characters To File.vi
+261607:25079d Write Characters To File.vi
+261608:2507b9 Write Characters To File.vi
+270306:2df7bc yustart of read offset is the position in the file, measured in characters (or bytes), at which the VI begins reading.
+270876:2e6bfd start of read offset is the position in the file, measured in characters (or bytes), at which the VI begins reading.
+271323:2e9400 start of read offset is the position in the file, measured in characters (or bytes), at which the VI begins reading.
+271655:2f5a16 Write Characters To File.viH
+271664:2f5d9c Write Characters To File.vis
+271676:2f5f02 Write Characters To File.vi
+271688:2f5fb5 Write Characters To File.vi
+271742:2f67eb Write Characters To File.vi
+271747:2f689c Write Characters To File.vi
+291631:4435c9 Write Characters To File.vi
+292051:4479df Write Characters To File.vi
+292052:4479fb Write Characters To File.vi
+292053:447a17 Write Characters To File.vi
+292054:447a33 Write Characters To File.vi
+292055:447a4f Write Characters To File.vi
+360300:bd47f Write Characters To File.vi
+365477:11dd7e Write Characters To File.vi
+365482:11de3b Write Characters To File.vi
+365916:122ee8 Write Characters To File.vi
+365999:123b0d Write Characters To File.viSE
+366011:123ecd Write Characters To File.vis
+366028:12446d Write Characters To File.vi
+366633:13086f start of read offset is the position in the file, measured in characters (or bytes), at which the VI begins reading.
+366639:130b9d yustart of read offset is the position in the file, measured in characters (or bytes), at which the VI begins reading.
+370177:1662e7 Write Characters To File.viM
+370181:1663cf Write Characters To File.vi
+370451:168938 Write Characters To File.vi
+370613:169e99 Write Characters To File.vi
+370620:16a22d Write Characters To File.vi
+370715:16b618 Write Characters To File.vi
+372335:192b26 Reads a string of characters from a byte stream file at the specified location; the default location is at the current mark.  The VI does incoming and internal error checking and does not read if an incoming error occurs.
+394256:30cf67 *Writes a string of characters to a byte stream file at the specified location; the default location is at the end of file.  The VI does incoming and internal error checking and does not write if an incoming error occurs.
+404043:3a4f48 Reads a string of characters from a byte stream file at the specified location; the default location is at the current mark.  The VI does incoming and internal error checking and does not read if an incoming error occurs.
+404098:3a6a04 start of read offset is the position in the file, measured in characters (or bytes), at which the VI begins reading.
+405279:3b9da8 *Writes a string of characters to a byte stream file at the specified location; the default location is at the end of file.  The VI does incoming and internal error checking and does not write if an incoming error occurs.
+416898:47f331 Write Characters To File.vi
+417123:4828eb Write Characters To File.vi
+417347:4836a9 Write Characters To File.vi
+417348:4836c5 Write Characters To File.vi
+417349:4836e1 Write Characters To File.vi
+417350:4836fd Write Characters To File.vi
+489516:bd47f Write Characters To File.vi
+495514:13b8d6 Write Characters To File.vi
+495519:13b993 Write Characters To File.vil
+495592:13c5ab Write Characters To File.vi
+495756:13f677 Write Characters To File.viSE
+495764:13f8e4 Write Characters To File.viH
+495780:13fe85 Write Characters To File.vi
+496232:149d0b start of read offset is the position in the file, measured in characters (or bytes), at which the VI begins reading.
+496402:14bbae ustart of read offset is the position in the file, measured in characters (or bytes), at which the VI begins reading.
+503196:1ce200 Write Characters To File.vi
+503313:1cec8d Write Characters To File.vi
+503498:1d08c7 Write Characters To File.vi
+503509:1d1029 Write Characters To File.vi
+503579:1d23cb Write Characters To File.vi
+504744:1f31e7 Reads a string of characters from a byte stream file at the specified location; the default location is at the current mark.  The VI does incoming and internal error checking and does not read if an incoming error occurs.
+520848:33c85f *Writes a string of characters to a byte stream file at the specified location; the default location is at the end of file.  The VI does incoming and internal error checking and does not write if an incoming error occurs.
+527380:3b3b94 Reads a string of characters from a byte stream file at the specified location; the default location is at the current mark.  The VI does incoming and internal error checking and does not read if an incoming error occurs.
+527435:3b5650 start of read offset is the position in the file, measured in characters (or bytes), at which the VI begins reading.
+527675:3ba71a *Writes a string of characters to a byte stream file at the specified location; the default location is at the end of file.  The VI does incoming and internal error checking and does not write if an incoming error occurs.
+529325:3d931d Write Characters To File.vi
+529585:3dea27 Write Characters To File.vi
+529812:3df806 Write Characters To File.vi
+529813:3df822 Write Characters To File.vi
+529814:3df83e Write Characters To File.vi
+529815:3df85a Write Characters To File.vi
+596714:f1b67 *Writes a string of characters to a byte stream file at the specified location; the default location is at the end of file.  The VI does incoming and internal error checking and does not write if an incoming error occurs.
+596779:f4df4 Reads a string of characters from a byte stream file at the specified location; the default location is at the current mark.  The VI does incoming and internal error checking and does not read if an incoming error occurs.
+596834:f68b0 start of read offset is the position in the file, measured in characters (or bytes), at which the VI begins reading.
+597013:f8491 Write Characters To File.vi
+597617:ff243 *Writes a string of characters to a byte stream file at the specified location; the default location is at the end of file.  The VI does incoming and internal error checking and does not write if an incoming error occurs.
+607652:1a9938 Reads a string of characters from a byte stream file at the specified location; the default location is at the current mark.  The VI does incoming and internal error checking and does not read if an incoming error occurs.
+608362:1b617b Write Characters To File.vi
+608384:1b651b Write Characters To File.vi
+608423:1b71db Write Characters To File.vi
+608440:1b780b Write Characters To File.vi
+608548:1b8bb9 Write Characters To File.vi
+610296:1d50c8 start of read offset is the position in the file, measured in characters (or bytes), at which the VI begins reading.
+610484:1d7e19 Write Characters To File.viPTH0
+610485:1d7e42 Write Characters To File.vi
+610500:1d844d Write Characters To File.viPTH0
+610585:1da4b1 Write Characters To File.viPTH0
+610586:1da4da Write Characters To File.vi
+612382:1f6efc Write Characters To File.vi
+612383:1f6f18 Write Characters To File.vi
+612384:1f6f34 Write Characters To File.vi

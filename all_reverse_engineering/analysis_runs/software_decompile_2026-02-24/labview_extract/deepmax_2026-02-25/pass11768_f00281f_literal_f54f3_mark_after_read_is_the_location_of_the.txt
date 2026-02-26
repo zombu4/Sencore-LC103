@@ -1,0 +1,1 @@
+596792:f54f3 mark after read is the location of the file mark after the read; it points to the character in the file following the last character read.

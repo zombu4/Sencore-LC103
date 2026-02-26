@@ -1,0 +1,30 @@
+101582:4b6f75 (the default value) performs no error exception handling. 
+101587:4b729e b^exception code is the error code that you want to treat as an exception. By default, it is 0.
+101595:4b75bd }yexception source is the error message that you want to use to test for an exception. By default, it is an empty string. 
+260015:22fb4d (the default value) performs no error exception handling. 
+260020:22fe76 b^exception code is the error code that you want to treat as an exception. By default, it is 0.
+260028:230195 }yexception source is the error message that you want to use to test for an exception. By default, it is an empty string. 
+314003:14d76a (the default value) performs no error exception handling. 
+314008:14da93 b^exception code is the error code that you want to treat as an exception. By default, it is 0.
+314016:14ddb2 }yexception source is the error message that you want to use to test for an exception. By default, it is an empty string. 
+340486:ecd4d (the default value) performs no error exception handling. 
+340491:ed076 b^exception code is the error code that you want to treat as an exception. By default, it is 0.
+340499:ed395 }yexception source is the error message that you want to use to test for an exception. By default, it is an empty string. 
+371457:183866 b^exception code is the error code that you want to treat as an exception. By default, it is 0.
+371462:183b4d }yexception source is the error message that you want to use to test for an exception. By default, it is an empty string. 
+371465:183d1f (the default value) performs no error exception handling. 
+434158:f7489 b^exception code is the error code that you want to treat as an exception. By default, it is 0.
+434163:f7770 }yexception source is the error message that you want to use to test for an exception. By default, it is an empty string. 
+434166:f7942 (the default value) performs no error exception handling. 
+470137:106a0a b^exception code is the error code that you want to treat as an exception. By default, it is 0.
+470142:106cf1 }yexception source is the error message that you want to use to test for an exception. By default, it is an empty string. 
+470145:106ec3 (the default value) performs no error exception handling. 
+504200:1e9929 ^exception code is the error code that you want to treat as an exception. By default, it is 0.
+504206:1e9c85 yexception source is the error message that you want to use to test for an exception. By default, it is an empty string. 
+504212:1e9fb4 (the default value) performs no error exception handling. 
+546533:f6399 b^exception code is the error code that you want to treat as an exception. By default, it is 0.
+546538:f6680 }yexception source is the error message that you want to use to test for an exception. By default, it is an empty string. 
+546541:f6852 (the default value) performs no error exception handling. 
+579619:16d7ec ^exception code is the error code that you want to treat as an exception. By default, it is 0.
+579625:16db48 yexception source is the error message that you want to use to test for an exception. By default, it is an empty string. 
+579631:16de77 (the default value) performs no error exception handling. 

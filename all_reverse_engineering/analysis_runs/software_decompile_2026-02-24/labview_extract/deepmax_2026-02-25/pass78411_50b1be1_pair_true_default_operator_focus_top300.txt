@@ -1,0 +1,84 @@
+52996:1cb269 advisory dialog? Set TRUE (default) if you want a dialog if function=0 and the file does not exist, or if function=2 or 3 and the file exists.
+53009:1cb61a EAstatus is TRUE if an error occurred; the default value is FALSE.
+54006:1dbc55 advisory dialog? Set TRUE (default) if you want a dialog if function=0 and the file does not exist, or if function=2 or 3 and the file exists.
+54237:1dfc2a convert eol? converts the LabVIEW end of line marker to the platform specific marker when set to TRUE. When set to false (the default value), no conversion occurs.
+54250:1e0000 EAstatus is TRUE if an error occurred; the default value is FALSE.
+54502:1e4062 convert eol Set TRUE to convert the LabVIEW end of line marker to the platform-specific marker. Set FALSE (default value) to do nothing.
+99477:491541 YUadvisory dialog? Set TRUE (default) if you want a dialog if the file does not exist.
+100016:49a163 advisory dialog? Set TRUE (default) if you want a dialog if the file does not exist.
+100604:4a38b8 EAstatus is TRUE if an error occurred; the default value is FALSE.
+101006:4aa253 convert eol? converts the LabVIEW end of line marker to the platform specific marker when set to TRUE. When set to false (the default value), no conversion occurs.
+101014:4aa54a EAstatus is TRUE if an error occurred; the default value is FALSE.
+101397:4afbab convert eol Set TRUE to convert each platform-specific end of line marker to the LabVIEW marker, line feed. Set FALSE (default value) to do nothing.
+102678:4d2bc5 append to file. Set to TRUE if you want to append the data to a existing file; you can also set it TRUE to write to a new file. Set to FALSE (default value) if you want to write the data to a new file or to replace an existing file.
+102961:4d6387 append to file? Set to TRUE if you want to append the data to a existing file; you can also set it TRUE to write to a new file. Set to FALSE (default value) if you want to write the data to a new file or to replace an existing file.
+223253:9e95 advisory dialog? Set TRUE (default) if you want a dialog if function=0 and the file does not exist, or if function=2 or 3 and the file exists.
+223266:a246 EAstatus is TRUE if an error occurred; the default value is FALSE.
+224263:1a881 advisory dialog? Set TRUE (default) if you want a dialog if function=0 and the file does not exist, or if function=2 or 3 and the file exists.
+224499:1d58d advisory dialog? Set TRUE (default) if you want a dialog if function=0 and the file does not exist, or if function=2 or 3 and the file exists.
+224530:1f70a convert eol? converts the LabVIEW end of line marker to the platform specific marker when set to TRUE. When set to false (the default value), no conversion occurs.
+224543:1fae0 EAstatus is TRUE if an error occurred; the default value is FALSE.
+224795:23b42 convert eol Set TRUE to convert the LabVIEW end of line marker to the platform-specific marker. Set FALSE (default value) to do nothing.
+224960:2532b convert eol Set TRUE to convert the LabVIEW end of line marker to the platform-specific marker. Set FALSE (default value) to do nothing.
+257807:207e6d YUadvisory dialog? Set TRUE (default) if you want a dialog if the file does not exist.
+258346:210a8f advisory dialog? Set TRUE (default) if you want a dialog if the file does not exist.
+258529:212819 advisory dialog? Set TRUE (default) if you want a dialog if the file does not exist.
+258975:21b10c EAstatus is TRUE if an error occurred; the default value is FALSE.
+259403:222303 convert eol? converts the LabVIEW end of line marker to the platform specific marker when set to TRUE. When set to false (the default value), no conversion occurs.
+259411:2225fa EAstatus is TRUE if an error occurred; the default value is FALSE.
+259794:227c5b convert eol Set TRUE to convert each platform-specific end of line marker to the LabVIEW marker, line feed. Set FALSE (default value) to do nothing.
+259968:229739 convert eol Set TRUE to convert each platform-specific end of line marker to the LabVIEW marker, line feed. Set FALSE (default value) to do nothing.
+261117:24bb25 append to file. Set to TRUE if you want to append the data to a existing file; you can also set it TRUE to write to a new file. Set to FALSE (default value) if you want to write the data to a new file or to replace an existing file.
+261400:24f2e7 append to file? Set to TRUE if you want to append the data to a existing file; you can also set it TRUE to write to a new file. Set to FALSE (default value) if you want to write the data to a new file or to replace an existing file.
+261612:250998 append to file? Set to TRUE if you want to append the data to a existing file; you can also set it TRUE to write to a new file. Set to FALSE (default value) if you want to write the data to a new file or to replace an existing file.
+370472:168c7b append to file? Set to TRUE if you want to append the data to a existing file; you can also set it TRUE to write to a new file. Set to FALSE (default value) if you want to write the data to a new file or to replace an existing file.
+370477:16904b append to file. Set to TRUE if you want to append the data to a existing file; you can also set it TRUE to write to a new file. Set to FALSE (default value) if you want to write the data to a new file or to replace an existing file.
+372344:192eff convert eol Set TRUE to convert each platform-specific end of line marker to the LabVIEW marker, line feed. Set FALSE (default value) to do nothing.
+372361:1937be convert eol? converts the LabVIEW end of line marker to the platform specific marker when set to TRUE. When set to false (the default value), no conversion occurs.
+372362:193862 =9EOF? is true if you try to read past the end of the file.40code is the error code; the default value is 0.
+372365:193a75 EAstatus is TRUE if an error occurred; the default value is FALSE.
+372950:19ba2a EAstatus is TRUE if an error occurred; the default value is FALSE.
+374016:1ad548 advisory dialog? Set TRUE (default) if you want a dialog if the file does not exist.
+374033:1ae159 YUadvisory dialog? Set TRUE (default) if you want a dialog if the file does not exist.
+394246:30c7c1 advisory dialog? Set TRUE (default) if you want a dialog if function=0 and the file does not exist, or if function=2 or 3 and the file exists.
+394264:30d227 convert eol Set TRUE to convert the LabVIEW end of line marker to the platform-specific marker. Set FALSE (default value) to do nothing.
+404022:3a3e99 advisory dialog? Set TRUE (default) if you want a dialog if the file does not exist.
+404052:3a5321 convert eol Set TRUE to convert each platform-specific end of line marker to the LabVIEW marker, line feed. Set FALSE (default value) to do nothing.
+404062:3a5c00 append to file? Set to TRUE if you want to append the data to a existing file; you can also set it TRUE to write to a new file. Set to FALSE (default value) if you want to write the data to a new file or to replace an existing file.
+405287:3ba068 convert eol Set TRUE to convert the LabVIEW end of line marker to the platform-specific marker. Set FALSE (default value) to do nothing.
+405301:3ba737 convert eol? converts the LabVIEW end of line marker to the platform specific marker when set to TRUE. When set to false (the default value), no conversion occurs.
+405306:3baaaf EAstatus is TRUE if an error occurred; the default value is FALSE.
+406182:3cba91 advisory dialog? Set TRUE (default) if you want a dialog if function=0 and the file does not exist, or if function=2 or 3 and the file exists.
+406205:3cc8de advisory dialog? Set TRUE (default) if you want a dialog if function=0 and the file does not exist, or if function=2 or 3 and the file exists.
+406210:3ccc41 EAstatus is TRUE if an error occurred; the default value is FALSE.
+503362:1cf98a append to file? Set to TRUE if you want to append the data to a existing file; you can also set it TRUE to write to a new file. Set to FALSE (default value) if you want to write the data to a new file or to replace an existing file.
+503507:1d0f37 append to file. Set to TRUE if you want to append the data to a existing file; you can also set it TRUE to write to a new file. Set to FALSE (default value) if you want to write the data to a new file or to replace an existing file.
+504753:1f35c0 convert eol Set TRUE to convert each platform-specific end of line marker to the LabVIEW marker, line feed. Set FALSE (default value) to do nothing.
+504902:1f56f6 Astatus is TRUE if an error occurred; the default value is FALSE.
+504921:1f5f14 convert eol? converts the LabVIEW end of line marker to the platform specific marker when set to TRUE. When set to false (the default value), no conversion occurs.
+505280:1fb668 Astatus is TRUE if an error occurred; the default value is FALSE.
+505862:207c3d advisory dialog? Set TRUE (default) if you want a dialog if the file does not exist.
+506089:20aecd Uadvisory dialog? Set TRUE (default) if you want a dialog if the file does not exist.
+520838:33c0b9 advisory dialog? Set TRUE (default) if you want a dialog if function=0 and the file does not exist, or if function=2 or 3 and the file exists.
+520856:33cb1f convert eol Set TRUE to convert the LabVIEW end of line marker to the platform-specific marker. Set FALSE (default value) to do nothing.
+527359:3b2ae5 advisory dialog? Set TRUE (default) if you want a dialog if the file does not exist.
+527389:3b3f6d convert eol Set TRUE to convert each platform-specific end of line marker to the LabVIEW marker, line feed. Set FALSE (default value) to do nothing.
+527399:3b484c append to file? Set to TRUE if you want to append the data to a existing file; you can also set it TRUE to write to a new file. Set to FALSE (default value) if you want to write the data to a new file or to replace an existing file.
+527683:3ba9da convert eol Set TRUE to convert the LabVIEW end of line marker to the platform-specific marker. Set FALSE (default value) to do nothing.
+527762:3bc292 Astatus is TRUE if an error occurred; the default value is FALSE.
+527774:3bc7d0 convert eol? converts the LabVIEW end of line marker to the platform specific marker when set to TRUE. When set to false (the default value), no conversion occurs.
+528196:3c81f8 advisory dialog? Set TRUE (default) if you want a dialog if function=0 and the file does not exist, or if function=2 or 3 and the file exists.
+528595:3cc4f2 Astatus is TRUE if an error occurred; the default value is FALSE.
+528612:3ccdef advisory dialog? Set TRUE (default) if you want a dialog if function=0 and the file does not exist, or if function=2 or 3 and the file exists.
+595372:d5431 advisory dialog? Set TRUE (default) if you want a dialog if function=0 and the file does not exist, or if function=2 or 3 and the file exists.
+595861:e2414 advisory dialog? Set TRUE (default) if you want a dialog if function=0 and the file does not exist, or if function=2 or 3 and the file exists.
+596260:e670e Astatus is TRUE if an error occurred; the default value is FALSE.
+596277:e700b advisory dialog? Set TRUE (default) if you want a dialog if function=0 and the file does not exist, or if function=2 or 3 and the file exists.
+596722:f1e27 convert eol Set TRUE to convert the LabVIEW end of line marker to the platform-specific marker. Set FALSE (default value) to do nothing.
+596758:f3d45 advisory dialog? Set TRUE (default) if you want a dialog if the file does not exist.
+596788:f51cd convert eol Set TRUE to convert each platform-specific end of line marker to the LabVIEW marker, line feed. Set FALSE (default value) to do nothing.
+596798:f5aac append to file? Set to TRUE if you want to append the data to a existing file; you can also set it TRUE to write to a new file. Set to FALSE (default value) if you want to write the data to a new file or to replace an existing file.
+597625:ff503 convert eol Set TRUE to convert the LabVIEW end of line marker to the platform-specific marker. Set FALSE (default value) to do nothing.
+607058:19f6ad advisory dialog? Set TRUE (default) if you want a dialog if the file does not exist.
+607661:1a9d11 convert eol Set TRUE to convert each platform-specific end of line marker to the LabVIEW marker, line feed. Set FALSE (default value) to do nothing.
+608420:1b6f6c append to file? Set to TRUE if you want to append the data to a existing file; you can also set it TRUE to write to a new file. Set to FALSE (default value) if you want to write the data to a new file or to replace an existing file.

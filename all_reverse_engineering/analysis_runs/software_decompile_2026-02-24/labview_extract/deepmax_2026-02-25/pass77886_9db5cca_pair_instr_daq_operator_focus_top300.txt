@@ -1,0 +1,15 @@
+102322:4c3e9d Added several Instr. Driver errors; they are now handled like DAQ errors (either negative or positive value is recognized); delted four Analysis errors (-20057 through -20060) and corrected descriptions of several others.
+134148:207d64 NationalInstrumentsVXIDAQDriverEvent
+134149:207d8c NationalInstrumentsVXIDAQServerEvent
+260755:23ca75 Added several Instr. Driver errors; they are now handled like DAQ errors (either negative or positive value is recognized); delted four Analysis errors (-20057 through -20060) and corrected descriptions of several others.
+314762:15a696 Added several Instr. Driver errors; they are now handled like DAQ errors (either negative or positive value is recognized); delted four Analysis errors (-20057 through -20060) and corrected descriptions of several others.
+341241:f9c75 Added several Instr. Driver errors; they are now handled like DAQ errors (either negative or positive value is recognized); delted four Analysis errors (-20057 through -20060) and corrected descriptions of several others.
+371913:18cb2e Added several Instr. Driver errors; they are now handled like DAQ errors (either negative or positive value is recognized); delted four Analysis errors (-20057 through -20060) and corrected descriptions of several others.
+434613:100759 Added several Instr. Driver errors; they are now handled like DAQ errors (either negative or positive value is recognized); delted four Analysis errors (-20057 through -20060) and corrected descriptions of several others.
+470589:10fcd3 Added several Instr. Driver errors; they are now handled like DAQ errors (either negative or positive value is recognized); delted four Analysis errors (-20057 through -20060) and corrected descriptions of several others.
+504530:1ef909 Added several Instr. Driver errors; they are now handled like DAQ errors (either negative or positive value is recognized); delted four Analysis errors (-20057 through -20060) and corrected descriptions of several others.
+546988:ff669 Added several Instr. Driver errors; they are now handled like DAQ errors (either negative or positive value is recognized); delted four Analysis errors (-20057 through -20060) and corrected descriptions of several others.
+579949:1737cf Added several Instr. Driver errors; they are now handled like DAQ errors (either negative or positive value is recognized); delted four Analysis errors (-20057 through -20060) and corrected descriptions of several others.
+608276:1b540d Added several Instr. Driver errors; they are now handled like DAQ errors (either negative or positive value is recognized); delted four Analysis errors (-20057 through -20060) and corrected descriptions of several others.
+639637:207d64 NationalInstrumentsVXIDAQDriverEvent
+639638:207d8c NationalInstrumentsVXIDAQServerEvent

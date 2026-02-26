@@ -1,0 +1,17 @@
+101007:4aa304 yes=9EOF? is true if you try to read past the end of the file.2
+111788:5655f5 B>EOF? is TRUE if you attempt to read past the end of the file.
+112352:56c79d EOF? is TRUE if you attempt to read past the end of file.
+259404:2223b4 yes=9EOF? is true if you try to read past the end of the file.2
+270317:2dfd49 B>EOF? is TRUE if you attempt to read past the end of the file.
+270881:2e6ef1 EOF? is TRUE if you attempt to read past the end of file.
+271328:2e96f4 EOF? is TRUE if you attempt to read past the end of file.
+366638:130b63 EOF? is TRUE if you attempt to read past the end of file.
+366646:1310fa B>EOF? is TRUE if you attempt to read past the end of the file.
+372362:193862 =9EOF? is true if you try to read past the end of the file.40code is the error code; the default value is 0.
+404103:3a6cf8 EOF? is TRUE if you attempt to read past the end of file.
+496237:149fff EOF? is TRUE if you attempt to read past the end of file.
+496404:14be1a >EOF? is TRUE if you attempt to read past the end of the file.
+504919:1f5da7 9EOF? is true if you try to read past the end of the file.
+527440:3b5944 EOF? is TRUE if you attempt to read past the end of file.
+596839:f6ba4 EOF? is TRUE if you attempt to read past the end of file.
+610301:1d53bc EOF? is TRUE if you attempt to read past the end of file.

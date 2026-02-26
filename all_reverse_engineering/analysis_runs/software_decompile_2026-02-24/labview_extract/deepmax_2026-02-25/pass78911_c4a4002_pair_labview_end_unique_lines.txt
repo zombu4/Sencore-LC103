@@ -1,0 +1,28 @@
+52556:1bfe3f There is less than %ldK of disk space available on volume %z. LabVIEW can run, but we recommend that you make more disk space available.GCould not determine the amount of disk space on volume %z. Error = %ld.
+54237:1dfc2a convert eol? converts the LabVIEW end of line marker to the platform specific marker when set to TRUE. When set to false (the default value), no conversion occurs.
+54502:1e4062 convert eol Set TRUE to convert the LabVIEW end of line marker to the platform-specific marker. Set FALSE (default value) to do nothing.
+101006:4aa253 convert eol? converts the LabVIEW end of line marker to the platform specific marker when set to TRUE. When set to false (the default value), no conversion occurs.
+102467:4cd9fe GPIB EADR: GPIB Controller not addressed correctly.ALabVIEW: End of file.
+224530:1f70a convert eol? converts the LabVIEW end of line marker to the platform specific marker when set to TRUE. When set to false (the default value), no conversion occurs.
+224795:23b42 convert eol Set TRUE to convert the LabVIEW end of line marker to the platform-specific marker. Set FALSE (default value) to do nothing.
+224960:2532b convert eol Set TRUE to convert the LabVIEW end of line marker to the platform-specific marker. Set FALSE (default value) to do nothing.
+259403:222303 convert eol? converts the LabVIEW end of line marker to the platform specific marker when set to TRUE. When set to false (the default value), no conversion occurs.
+260900:2465d6 GPIB EADR: GPIB Controller not addressed correctly.ALabVIEW: End of file.
+314908:1641a7 GPIB EADR: GPIB Controller not addressed correctly.ALabVIEW: End of file.
+341385:103777 GPIB EADR: GPIB Controller not addressed correctly.ALabVIEW: End of file.
+371338:17fff8 GPIB EADR: GPIB Controller not addressed correctly.ALabVIEW: End of file.
+372361:1937be convert eol? converts the LabVIEW end of line marker to the platform specific marker when set to TRUE. When set to false (the default value), no conversion occurs.
+394264:30d227 convert eol Set TRUE to convert the LabVIEW end of line marker to the platform-specific marker. Set FALSE (default value) to do nothing.
+405287:3ba068 convert eol Set TRUE to convert the LabVIEW end of line marker to the platform-specific marker. Set FALSE (default value) to do nothing.
+405301:3ba737 convert eol? converts the LabVIEW end of line marker to the platform specific marker when set to TRUE. When set to false (the default value), no conversion occurs.
+434039:f3c1b GPIB EADR: GPIB Controller not addressed correctly.ALabVIEW: End of file.
+470018:10319c GPIB EADR: GPIB Controller not addressed correctly.ALabVIEW: End of file.
+503848:1e0f99 GPIB EADR: GPIB Controller not addressed correctly.ALabVIEW: End of file.
+504921:1f5f14 convert eol? converts the LabVIEW end of line marker to the platform specific marker when set to TRUE. When set to false (the default value), no conversion occurs.
+520856:33cb1f convert eol Set TRUE to convert the LabVIEW end of line marker to the platform-specific marker. Set FALSE (default value) to do nothing.
+527683:3ba9da convert eol Set TRUE to convert the LabVIEW end of line marker to the platform-specific marker. Set FALSE (default value) to do nothing.
+527774:3bc7d0 convert eol? converts the LabVIEW end of line marker to the platform specific marker when set to TRUE. When set to false (the default value), no conversion occurs.
+546414:f2b2b GPIB EADR: GPIB Controller not addressed correctly.ALabVIEW: End of file.
+579267:164e5d GPIB EADR: GPIB Controller not addressed correctly.ALabVIEW: End of file.
+596722:f1e27 convert eol Set TRUE to convert the LabVIEW end of line marker to the platform-specific marker. Set FALSE (default value) to do nothing.
+597625:ff503 convert eol Set TRUE to convert the LabVIEW end of line marker to the platform-specific marker. Set FALSE (default value) to do nothing.

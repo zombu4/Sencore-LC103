@@ -1,0 +1,7 @@
+52412:1bc147 Could not load VI resource.,Version of VI is newer than LabVIEW version.?Version of VI is too old to convert to current LabVIEW version.JVI cannot be converted to current version because it has no block diagram."Could not load connector type map.
+52516:1bdd78 A wire must be connected to one and only one data source, such as a control's terminal or a function output. This wire is not connected to any source. Find the source of this data and make sure it is a control (not indicator) or an output (not input).
+52525:1be595 A wire can be connected to only one data source, such as a control's terminal or a function output. This wire is connected to more than one source. Make sure that all connections except one are to indicators (not controls) or inputs (not outputs).
+90556:416552 Current Source CalibrationfConnect the UUT and/or DVM leads to
+285631:3e59ee Current Source CalibrationfConnect the UUT and/or DVM leads to
+385845:267724 Current Source CalibrationfConnect the UUT and/or DVM leads to
+513178:28da29 Current Source CalibrationfConnect the UUT and/or DVM leads to

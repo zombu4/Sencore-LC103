@@ -1,0 +1,1 @@
+372341:192d25 pos offset specifies in characters how far from the location specified by pos mode that the operation begins.  The default value is 0.

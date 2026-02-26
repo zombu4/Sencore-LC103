@@ -1,0 +1,20 @@
+54494:1e3da2 *Writes a string of characters to a byte stream file at the specified location; the default location is at the end of file. The VI does incoming and internal error checking and does not write if an incoming error occurs.
+55873:1f9f06 1 = Set END bit on the last byte of transfer
+224787:23882 *Writes a string of characters to a byte stream file at the specified location; the default location is at the end of file. The VI does incoming and internal error checking and does not write if an incoming error occurs.
+224952:2506b *Writes a string of characters to a byte stream file at the specified location; the default location is at the end of file. The VI does incoming and internal error checking and does not write if an incoming error occurs.
+226237:3a9ce 1 = Set END bit on the last byte of transfer
+292714:7d9b 1 = Set END bit on the last byte of transfer
+324836:713f 1 = Set END bit on the last byte of transfer
+347682:5c8e 1 = Set END bit on the last byte of transfer
+394256:30cf67 *Writes a string of characters to a byte stream file at the specified location; the default location is at the end of file. The VI does incoming and internal error checking and does not write if an incoming error occurs.
+405279:3b9da8 *Writes a string of characters to a byte stream file at the specified location; the default location is at the end of file. The VI does incoming and internal error checking and does not write if an incoming error occurs.
+418343:5c0f 1 = Set END bit on the last byte of transfer
+453135:458b 1 = Set END bit on the last byte of transfer
+476898:5c8e 1 = Set END bit on the last byte of transfer
+520848:33c85f *Writes a string of characters to a byte stream file at the specified location; the default location is at the end of file. The VI does incoming and internal error checking and does not write if an incoming error occurs.
+527675:3ba71a *Writes a string of characters to a byte stream file at the specified location; the default location is at the end of file. The VI does incoming and internal error checking and does not write if an incoming error occurs.
+530811:5c0f 1 = Set END bit on the last byte of transfer
+561051:458b 1 = Set END bit on the last byte of transfer
+581621:5c06 1 = Set END bit on the last byte of transfer
+596714:f1b67 *Writes a string of characters to a byte stream file at the specified location; the default location is at the end of file. The VI does incoming and internal error checking and does not write if an incoming error occurs.
+597617:ff243 *Writes a string of characters to a byte stream file at the specified location; the default location is at the end of file. The VI does incoming and internal error checking and does not write if an incoming error occurs.

@@ -1,0 +1,145 @@
+52982:1cabb8 opens an existing file. Error 7 occurs if the file cannot be found.
+52983:1cac00 opens an existing file or creates a new file if one does not exist.
+54002:1dba6c 0 (open) opens an existing file. Error 7 occurs if the file cannot be found.
+54003:1dbabd 1 (open or create) opens an existing file or creates a new file if one does not exist.
+54031:1dc690 rif function is 2 (create or replace with prtoection) ask user's permission to overwrite by replacing existing file`
+223239:97e4 opens an existing file. Error 7 occurs if the file cannot be found.
+223240:982c opens an existing file or creates a new file if one does not exist.
+224259:1a698 0 (open) opens an existing file. Error 7 occurs if the file cannot be found.
+224260:1a6e9 1 (open or create) opens an existing file or creates a new file if one does not exist.
+224288:1b2bc rif function is 2 (create or replace with prtoection) ask user's permission to overwrite by replacing existing file`
+224495:1d3a4 0 (open) opens an existing file. Error 7 occurs if the file cannot be found.
+224496:1d3f5 1 (open or create) opens an existing file or creates a new file if one does not exist.
+362925:ec965 existing file
+362927:ec97c new or existing file existing dir
+362930:ec9ba existing file (use LLBs)
+362932:ec9e7 new or existing file (use LLBs)
+363105:edaf6 existing file
+363107:edb0d new or existing file existing dir
+363110:edb4b existing file (use LLBs)
+363112:edb78 new or existing file (use LLBs)
+364608:10cc64 existing file
+364610:10cc7b new or existing file existing dir
+364613:10ccb9 existing file (use LLBs)
+364615:10cce6 new or existing file (use LLBs)
+364823:10dfe3 existing file
+364825:10dffa new or existing file existing dir
+364828:10e038 existing file (use LLBs)
+364830:10e065 new or existing file (use LLBs)
+373964:1ace1b existing file
+373966:1ace32 new or existing file existing dir
+373969:1ace70 existing file (use LLBs)
+373971:1ace9d new or existing file (use LLBs)
+374066:1ae7d5 existing file
+374068:1ae7ec new or existing file existing dir
+374071:1ae82a existing file (use LLBs)
+374073:1ae857 new or existing file (use LLBs)
+394242:30c5d8 0 (open) opens an existing file. Error 7 occurs if the file cannot be found.
+394243:30c629 1 (open or create) opens an existing file or creates a new file if one does not exist.
+404895:3b413b existing file
+404897:3b4152 new or existing file existing dir
+404900:3b4190 existing file (use LLBs)
+404902:3b41bd new or existing file (use LLBs)
+404907:3b4218 existing file
+404909:3b422f new or existing file existing dir
+404912:3b426d existing file (use LLBs)
+404914:3b429a new or existing file (use LLBs)
+404938:3b48b8 existing file
+404940:3b48cf new or existing file existing dir
+404943:3b490d existing file (use LLBs)
+404945:3b493a new or existing file (use LLBs)
+406113:3cafda existing file
+406115:3caff1 new or existing file existing dir
+406118:3cb02f existing file (use LLBs)
+406120:3cb05c new or existing file (use LLBs)
+406178:3cb8a8 0 (open) opens an existing file. Error 7 occurs if the file cannot be found.
+406179:3cb8f9 1 (open or create) opens an existing file or creates a new file if one does not exist.
+406200:3cc6d7 opens an existing file. Error 7 occurs if the file cannot be found.
+406201:3cc71f opens an existing file or creates a new file if one does not exist.
+406240:3ccf8f existing file
+406242:3ccfa6 new or existing file existing dir
+406245:3ccfe4 existing file (use LLBs)
+406247:3cd011 new or existing file (use LLBs)
+406296:3cd9bd ##rif function is 2 (create or replace with prtoection) ask user's permission to overwrite by replacing existing file`
+412879:43bb41 existing file
+412881:43bb58 new or existing file existing dir
+412884:43bb96 existing file (use LLBs)
+412886:43bbc3 new or existing file (use LLBs)
+412891:43bc1f existing file
+412893:43bc36 new or existing file existing dir
+412896:43bc74 existing file (use LLBs)
+412898:43bca1 new or existing file (use LLBs)
+413240:43d9a0 existing file
+413242:43d9b7 new or existing file existing dir
+413245:43d9f5 existing file (use LLBs)
+413247:43da22 new or existing file (use LLBs)
+491299:e1f59 existing file
+491301:e1f70 new or existing file existing dir
+491304:e1fae existing file (use LLBs)
+491306:e1fdb new or existing file (use LLBs)
+491313:e206d existing file
+491315:e2084 new or existing file existing dir
+491318:e20c2 existing file (use LLBs)
+491320:e20ef new or existing file (use LLBs)
+492143:ef7c3 existing file
+492145:ef7da new or existing file existing dir
+492148:ef818 existing file (use LLBs)
+492150:ef845 new or existing file (use LLBs)
+493306:10aa9f existing file
+493308:10aab6 new or existing file existing dir
+493311:10aaf4 existing file (use LLBs)
+493313:10ab21 new or existing file (use LLBs)
+493677:110e57 existing file
+493679:110e6e new or existing file existing dir
+493682:110eac existing file (use LLBs)
+493684:110ed9 new or existing file (use LLBs)
+494586:126ff4 existing file
+494588:12700b new or existing file existing dir
+494591:127049 existing file (use LLBs)
+494593:127076 new or existing file (use LLBs)
+494941:12c76a existing file
+494943:12c781 new or existing file existing dir
+494946:12c7bf existing file (use LLBs)
+494948:12c7ec new or existing file (use LLBs)
+505739:205c80 existing file
+505741:205c97 new or existing file existing dir
+505744:205cd5 existing file (use LLBs)
+505746:205d02 new or existing file (use LLBs)
+505897:2085b2 existing file
+505899:2085c9 new or existing file existing dir
+505902:208607 existing file (use LLBs)
+505904:208634 new or existing file (use LLBs)
+520834:33bed0 0 (open) opens an existing file. Error 7 occurs if the file cannot be found.
+520835:33bf21 1 (open or create) opens an existing file or creates a new file if one does not exist.
+527509:3b7012 existing file
+527511:3b7029 new or existing file existing dir
+527514:3b7067 existing file (use LLBs)
+527516:3b7094 new or existing file (use LLBs)
+527993:3c47bf existing file
+527995:3c47d6 new or existing file existing dir
+527998:3c4814 existing file (use LLBs)
+528000:3c4841 new or existing file (use LLBs)
+528192:3c800f 0 (open) opens an existing file. Error 7 occurs if the file cannot be found.
+528193:3c8060 1 (open or create) opens an existing file or creates a new file if one does not exist.
+528232:3c8bdc existing file
+528234:3c8bf3 new or existing file existing dir
+528237:3c8c31 existing file (use LLBs)
+528239:3c8c5e new or existing file (use LLBs)
+528290:3c9657 ##rif function is 2 (create or replace with prtoection) ask user's permission to overwrite by replacing existing file`
+528604:3cc9d3 opens an existing file. Error 7 occurs if the file cannot be found.
+528605:3cca1b opens an existing file or creates a new file if one does not exist.
+595368:d5248 0 (open) opens an existing file. Error 7 occurs if the file cannot be found.
+595369:d5299 1 (open or create) opens an existing file or creates a new file if one does not exist.
+595658:de9db existing file
+595660:de9f2 new or existing file existing dir
+595663:dea30 existing file (use LLBs)
+595665:dea5d new or existing file (use LLBs)
+595857:e222b 0 (open) opens an existing file. Error 7 occurs if the file cannot be found.
+595858:e227c 1 (open or create) opens an existing file or creates a new file if one does not exist.
+595897:e2df8 existing file
+595899:e2e0f new or existing file existing dir
+595902:e2e4d existing file (use LLBs)
+595904:e2e7a new or existing file (use LLBs)
+595955:e3873 ##rif function is 2 (create or replace with prtoection) ask user's permission to overwrite by replacing existing file`
+596269:e6bef opens an existing file. Error 7 occurs if the file cannot be found.
+596270:e6c37 opens an existing file or creates a new file if one does not exist.

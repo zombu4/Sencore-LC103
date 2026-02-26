@@ -1,0 +1,1 @@
+48220:165c84 This is the minimum amount of disk space to run LabVIEW. LabVIEW will abort the launch if less than this amount of disk space

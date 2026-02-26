@@ -1,0 +1,6 @@
+FILE: Source/LV6/Fluke 8840A.vi
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+25998         0x658E          Copyright string: "Copyright 1993 National Instruments Corporation.  ALL RIGHTS RESERVED."
+

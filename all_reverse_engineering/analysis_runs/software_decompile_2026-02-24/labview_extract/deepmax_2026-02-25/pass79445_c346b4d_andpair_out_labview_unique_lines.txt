@@ -1,0 +1,32 @@
+46989:15e882 Call to non existant LabVIEW routine!!!
+52470:1bd189 LabVIEW subroutine link error
+102473:4cdbb8 GPIB EBTO: DMA hardware uP bus timeout.QLabVIEW: Duplicate path.
+102497:4ce19c GPIB EMOM: Out of memory (MacBus read or write).VLabVIEW: Device call aborted.
+102504:4ce332 LabVIEW: Message out of range.
+260906:246790 GPIB EBTO: DMA hardware uP bus timeout.QLabVIEW: Duplicate path.
+260930:246d74 GPIB EMOM: Out of memory (MacBus read or write).VLabVIEW: Device call aborted.
+260937:246f0a LabVIEW: Message out of range.
+314914:164361 GPIB EBTO: DMA hardware uP bus timeout.QLabVIEW: Duplicate path.
+314938:164945 GPIB EMOM: Out of memory (MacBus read or write).VLabVIEW: Device call aborted.
+314945:164adb LabVIEW: Message out of range.
+341391:103931 GPIB EBTO: DMA hardware uP bus timeout.QLabVIEW: Duplicate path.
+341415:103f15 GPIB EMOM: Out of memory (MacBus read or write).VLabVIEW: Device call aborted.
+341422:1040ab LabVIEW: Message out of range.
+371344:1801b2 GPIB EBTO: DMA hardware uP bus timeout.QLabVIEW: Duplicate path.
+371368:180796 GPIB EMOM: Out of memory (MacBus read or write).VLabVIEW: Device call aborted.
+371375:18092c LabVIEW: Message out of range.
+434045:f3dd5 GPIB EBTO: DMA hardware uP bus timeout.QLabVIEW: Duplicate path.
+434069:f43b9 GPIB EMOM: Out of memory (MacBus read or write).VLabVIEW: Device call aborted.
+434076:f454f LabVIEW: Message out of range.
+470024:103356 GPIB EBTO: DMA hardware uP bus timeout.QLabVIEW: Duplicate path.
+470048:10393a GPIB EMOM: Out of memory (MacBus read or write).VLabVIEW: Device call aborted.
+470055:103ad0 LabVIEW: Message out of range.
+503854:1e1153 GPIB EBTO: DMA hardware uP bus timeout.QLabVIEW: Duplicate path.
+503878:1e1737 GPIB EMOM: Out of memory (MacBus read or write).VLabVIEW: Device call aborted.
+503885:1e18cd LabVIEW: Message out of range.
+546420:f2ce5 GPIB EBTO: DMA hardware uP bus timeout.QLabVIEW: Duplicate path.
+546444:f32c9 GPIB EMOM: Out of memory (MacBus read or write).VLabVIEW: Device call aborted.
+546451:f345f LabVIEW: Message out of range.
+579273:165017 GPIB EBTO: DMA hardware uP bus timeout.QLabVIEW: Duplicate path.
+579297:1655fb GPIB EMOM: Out of memory (MacBus read or write).VLabVIEW: Device call aborted.
+579304:165791 LabVIEW: Message out of range.

@@ -1,0 +1,14 @@
+100209:49d388 source messages contains the source message you want to appear in the error out cluster if the VI finds an error in error codes. Place each message on a separate line in a string constant or control.
+101604:4b78cd |xerror out contains the same information as status out, code out, and source out. It has the same structure as error in.
+258563:214768 source messages contains the source message you want to appear in the error out cluster if the VI finds an error in error codes. Place each message on a separate line in a string constant or control.
+260037:2304a5 |xerror out contains the same information as status out, code out, and source out. It has the same structure as error in.
+314025:14e0c2 |xerror out contains the same information as status out, code out, and source out. It has the same structure as error in.
+340508:ed6a5 |xerror out contains the same information as status out, code out, and source out. It has the same structure as error in.
+371474:18422e |xerror out contains the same information as status out, code out, and source out. It has the same structure as error in.
+373374:1a228f source messages contains the source message you want to appear in the error out cluster if the VI finds an error in error codes. Place each message on a separate line in a string constant or control.
+434175:f7e51 |xerror out contains the same information as status out, code out, and source out. It has the same structure as error in.
+470154:1073d2 |xerror out contains the same information as status out, code out, and source out. It has the same structure as error in.
+504219:1ea3f7 xerror out contains the same information as status out, code out, and source out. It has the same structure as error in.
+505539:200a14 source messages contains the source message you want to appear in the error out cluster if the VI finds an error in error codes. Place each message on a separate line in a string constant or control.
+546550:f6d61 |xerror out contains the same information as status out, code out, and source out. It has the same structure as error in.
+579638:16e2ba xerror out contains the same information as status out, code out, and source out. It has the same structure as error in.

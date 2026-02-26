@@ -1,0 +1,28 @@
+52982:1cabb8 opens an existing file. Error 7 occurs if the file cannot be found.
+52983:1cac00 opens an existing file or creates a new file if one does not exist.
+54002:1dba6c 0 (open) opens an existing file.  Error 7 occurs if the file cannot be found.
+54003:1dbabd 1 (open or create) opens an existing file or creates a new file if one does not exist.
+223239:97e4 opens an existing file. Error 7 occurs if the file cannot be found.
+223240:982c opens an existing file or creates a new file if one does not exist.
+224259:1a698 0 (open) opens an existing file.  Error 7 occurs if the file cannot be found.
+224260:1a6e9 1 (open or create) opens an existing file or creates a new file if one does not exist.
+224495:1d3a4 0 (open) opens an existing file.  Error 7 occurs if the file cannot be found.
+224496:1d3f5 1 (open or create) opens an existing file or creates a new file if one does not exist.
+394242:30c5d8 0 (open) opens an existing file.  Error 7 occurs if the file cannot be found.
+394243:30c629 1 (open or create) opens an existing file or creates a new file if one does not exist.
+406178:3cb8a8 0 (open) opens an existing file.  Error 7 occurs if the file cannot be found.
+406179:3cb8f9 1 (open or create) opens an existing file or creates a new file if one does not exist.
+406200:3cc6d7 opens an existing file. Error 7 occurs if the file cannot be found.
+406201:3cc71f opens an existing file or creates a new file if one does not exist.
+520834:33bed0 0 (open) opens an existing file.  Error 7 occurs if the file cannot be found.
+520835:33bf21 1 (open or create) opens an existing file or creates a new file if one does not exist.
+528192:3c800f 0 (open) opens an existing file.  Error 7 occurs if the file cannot be found.
+528193:3c8060 1 (open or create) opens an existing file or creates a new file if one does not exist.
+528604:3cc9d3 opens an existing file. Error 7 occurs if the file cannot be found.
+528605:3cca1b opens an existing file or creates a new file if one does not exist.
+595368:d5248 0 (open) opens an existing file.  Error 7 occurs if the file cannot be found.
+595369:d5299 1 (open or create) opens an existing file or creates a new file if one does not exist.
+595857:e222b 0 (open) opens an existing file.  Error 7 occurs if the file cannot be found.
+595858:e227c 1 (open or create) opens an existing file or creates a new file if one does not exist.
+596269:e6bef opens an existing file. Error 7 occurs if the file cannot be found.
+596270:e6c37 opens an existing file or creates a new file if one does not exist.

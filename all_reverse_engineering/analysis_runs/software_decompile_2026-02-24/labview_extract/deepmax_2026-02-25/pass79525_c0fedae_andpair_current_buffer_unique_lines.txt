@@ -1,0 +1,17 @@
+75867:325275 UQbyte count is the number of bytes currently queued up in the serial port buffer.
+102413:4c8692 DAQ dmaChainingErr: New buffer information was not available at the time of the DMA chaining interrupt; DMA transfers will terminate at the end of the currently active transfer buffer.
+246193:163d19 UQbyte count is the number of bytes currently queued up in the serial port buffer.
+260846:24126a DAQ dmaChainingErr: New buffer information was not available at the time of the DMA chaining interrupt; DMA transfers will terminate at the end of the currently active transfer buffer.
+308413:ed304 UQbyte count is the number of bytes currently queued up in the serial port buffer.
+314854:15ee3b DAQ dmaChainingErr: New buffer information was not available at the time of the DMA chaining interrupt; DMA transfers will terminate at the end of the currently active transfer buffer.
+341331:fe40b DAQ dmaChainingErr: New buffer information was not available at the time of the DMA chaining interrupt; DMA transfers will terminate at the end of the currently active transfer buffer.
+371284:17ac8c DAQ dmaChainingErr: New buffer information was not available at the time of the DMA chaining interrupt; DMA transfers will terminate at the end of the currently active transfer buffer.
+396611:330d21 UQbyte count is the number of bytes currently queued up in the serial port buffer.
+433985:ee8af DAQ dmaChainingErr: New buffer information was not available at the time of the DMA chaining interrupt; DMA transfers will terminate at the end of the currently active transfer buffer.
+440800:164064 UQbyte count is the number of bytes currently queued up in the serial port buffer.
+469964:fde30 DAQ dmaChainingErr: New buffer information was not available at the time of the DMA chaining interrupt; DMA transfers will terminate at the end of the currently active transfer buffer.
+503794:1dbc2d DAQ dmaChainingErr: New buffer information was not available at the time of the DMA chaining interrupt; DMA transfers will terminate at the end of the currently active transfer buffer.
+521566:34a1b4 Qbyte count is the number of bytes currently queued up in the serial port buffer.
+546360:ed7bf DAQ dmaChainingErr: New buffer information was not available at the time of the DMA chaining interrupt; DMA transfers will terminate at the end of the currently active transfer buffer.
+558167:1c42e2 Qbyte count is the number of bytes currently queued up in the serial port buffer.
+579213:15faf1 DAQ dmaChainingErr: New buffer information was not available at the time of the DMA chaining interrupt; DMA transfers will terminate at the end of the currently active transfer buffer.

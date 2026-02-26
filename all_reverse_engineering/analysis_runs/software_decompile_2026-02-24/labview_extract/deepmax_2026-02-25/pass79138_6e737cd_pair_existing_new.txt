@@ -1,0 +1,27 @@
+52983:1cac00 opens an existing file or creates a new file if one does not exist.
+54003:1dbabd 1 (open or create) opens an existing file or creates a new file if one does not exist.
+102678:4d2bc5 append to file. Set to TRUE if you want to append the data to a existing file; you can also set it TRUE to write to a new file. Set to FALSE (default value) if you want to write the data to a new file or to replace an existing file.
+102961:4d6387 append to file?  Set to TRUE if you want to append the data to a existing file; you can also set it TRUE to write to a new file.  Set to FALSE (default value) if you want to write the data to a new file or to replace an existing file.
+223240:982c opens an existing file or creates a new file if one does not exist.
+224260:1a6e9 1 (open or create) opens an existing file or creates a new file if one does not exist.
+224496:1d3f5 1 (open or create) opens an existing file or creates a new file if one does not exist.
+261117:24bb25 append to file. Set to TRUE if you want to append the data to a existing file; you can also set it TRUE to write to a new file. Set to FALSE (default value) if you want to write the data to a new file or to replace an existing file.
+261400:24f2e7 append to file?  Set to TRUE if you want to append the data to a existing file; you can also set it TRUE to write to a new file.  Set to FALSE (default value) if you want to write the data to a new file or to replace an existing file.
+261612:250998 append to file?  Set to TRUE if you want to append the data to a existing file; you can also set it TRUE to write to a new file.  Set to FALSE (default value) if you want to write the data to a new file or to replace an existing file.
+370472:168c7b append to file?  Set to TRUE if you want to append the data to a existing file; you can also set it TRUE to write to a new file.  Set to FALSE (default value) if you want to write the data to a new file or to replace an existing file.
+370477:16904b append to file. Set to TRUE if you want to append the data to a existing file; you can also set it TRUE to write to a new file. Set to FALSE (default value) if you want to write the data to a new file or to replace an existing file.
+394243:30c629 1 (open or create) opens an existing file or creates a new file if one does not exist.
+404062:3a5c00 append to file?  Set to TRUE if you want to append the data to a existing file; you can also set it TRUE to write to a new file.  Set to FALSE (default value) if you want to write the data to a new file or to replace an existing file.
+406179:3cb8f9 1 (open or create) opens an existing file or creates a new file if one does not exist.
+406201:3cc71f opens an existing file or creates a new file if one does not exist.
+503362:1cf98a append to file?  Set to TRUE if you want to append the data to a existing file; you can also set it TRUE to write to a new file.  Set to FALSE (default value) if you want to write the data to a new file or to replace an existing file.
+503507:1d0f37 append to file. Set to TRUE if you want to append the data to a existing file; you can also set it TRUE to write to a new file. Set to FALSE (default value) if you want to write the data to a new file or to replace an existing file.
+520835:33bf21 1 (open or create) opens an existing file or creates a new file if one does not exist.
+527399:3b484c append to file?  Set to TRUE if you want to append the data to a existing file; you can also set it TRUE to write to a new file.  Set to FALSE (default value) if you want to write the data to a new file or to replace an existing file.
+528193:3c8060 1 (open or create) opens an existing file or creates a new file if one does not exist.
+528605:3cca1b opens an existing file or creates a new file if one does not exist.
+595369:d5299 1 (open or create) opens an existing file or creates a new file if one does not exist.
+595858:e227c 1 (open or create) opens an existing file or creates a new file if one does not exist.
+596270:e6c37 opens an existing file or creates a new file if one does not exist.
+596798:f5aac append to file?  Set to TRUE if you want to append the data to a existing file; you can also set it TRUE to write to a new file.  Set to FALSE (default value) if you want to write the data to a new file or to replace an existing file.
+608420:1b6f6c append to file?  Set to TRUE if you want to append the data to a existing file; you can also set it TRUE to write to a new file.  Set to FALSE (default value) if you want to write the data to a new file or to replace an existing file.

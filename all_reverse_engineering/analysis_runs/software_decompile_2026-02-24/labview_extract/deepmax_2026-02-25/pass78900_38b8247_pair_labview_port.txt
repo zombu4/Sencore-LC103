@@ -1,0 +1,3 @@
+48230:165fce VI Search Path:  list of directories where LabVIEW will search for subVIs. This list is searched from top to bottom so the order is important.
+52240:1ba753 Error #%ld %s: \"%s\", line %ld\nLabVIEW version %p\nPlease record the preceding information and contact National Instruments for technical support
+52241:1ba7e7 Failure %s: \"%s\", line %ld\nLabVIEW version %p\nPlease record the preceding information and contact National Instruments for technical support

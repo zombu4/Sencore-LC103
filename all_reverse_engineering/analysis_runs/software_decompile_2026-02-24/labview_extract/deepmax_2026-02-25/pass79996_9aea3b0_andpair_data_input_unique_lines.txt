@@ -1,0 +1,32 @@
+47043:15ee60 The vi %p calls Unflatten from String or Type Cast to a type containing an extended float. If the input data to these functions comes from a file, you must convert extended floats in the file to LV 3.0 format.
+52516:1bdd78 A wire must be connected to one and only one data source, such as a control's terminal or a function output. This wire is not connected to any source. Find the source of this data and make sure it is a control (not indicator) or an output (not input).
+52525:1be595 A wire can be connected to only one data source, such as a control's terminal or a function output. This wire is connected to more than one source. Make sure that all connections except one are to indicators (not controls) or inputs (not outputs).
+74846:317584 Input alt HW Handshake. On the PC, this parameter corresponds to Data Terminal Ready (DTR) handshaking. On the SPARCstation, this parameter is ignored.
+102377:4c52e4 This error code is not listed in the internal database, or you have wired a number that is not an error code (such as a DAQ task ID) to the error code input.PD
+102543:4d083f This error code is not listed in the internal database, or you have wired a number that is not an error code (such as a DAQ task ID) to the error code input.6Windows GetCommError: The hex value of this code is x
+245156:155c38 Input alt HW Handshake. On the PC, this parameter corresponds to Data Terminal Ready (DTR) handshaking. On the SPARCstation, this parameter is ignored.
+260810:23debc This error code is not listed in the internal database, or you have wired a number that is not an error code (such as a DAQ task ID) to the error code input.PD
+260976:249417 This error code is not listed in the internal database, or you have wired a number that is not an error code (such as a DAQ task ID) to the error code input.6Windows GetCommError: The hex value of this code is x
+314818:15baab This error code is not listed in the internal database, or you have wired a number that is not an error code (such as a DAQ task ID) to the error code input.PD
+314984:166fe8 This error code is not listed in the internal database, or you have wired a number that is not an error code (such as a DAQ task ID) to the error code input.6Windows GetCommError: The hex value of this code is x
+341295:fb07b This error code is not listed in the internal database, or you have wired a number that is not an error code (such as a DAQ task ID) to the error code input.PD
+341461:1065b8 This error code is not listed in the internal database, or you have wired a number that is not an error code (such as a DAQ task ID) to the error code input.6Windows GetCommError: The hex value of this code is x
+371417:182ea7 This error code is not listed in the internal database, or you have wired a number that is not an error code (such as a DAQ task ID) to the error code input.
+371570:185f51 This error code is not listed in the internal database, or you have wired a number that is not an error code (such as a DAQ task ID) to the error code input.QE
+397616:33fb52 Input alt HW Handshake. On the PC, this parameter corresponds to Data Terminal Ready (DTR) handshaking. On the SPARCstation, this parameter is ignored.
+434118:f6aca This error code is not listed in the internal database, or you have wired a number that is not an error code (such as a DAQ task ID) to the error code input.
+434269:f9b74 This error code is not listed in the internal database, or you have wired a number that is not an error code (such as a DAQ task ID) to the error code input.QE
+470097:10604b This error code is not listed in the internal database, or you have wired a number that is not an error code (such as a DAQ task ID) to the error code input.
+470247:1090f5 This error code is not listed in the internal database, or you have wired a number that is not an error code (such as a DAQ task ID) to the error code input.QE
+503927:1e3e51 This error code is not listed in the internal database, or you have wired a number that is not an error code (such as a DAQ task ID) to the error code input.
+522314:3562b4 Input alt HW Handshake. On the PC, this parameter corresponds to Data Terminal Ready (DTR) handshaking. On the SPARCstation, this parameter is ignored.
+546493:f59da This error code is not listed in the internal database, or you have wired a number that is not an error code (such as a DAQ task ID) to the error code input.
+546644:f8a84 This error code is not listed in the internal database, or you have wired a number that is not an error code (such as a DAQ task ID) to the error code input.QE
+579346:167d15 This error code is not listed in the internal database, or you have wired a number that is not an error code (such as a DAQ task ID) to the error code input.
+612547:cd - The File Dialog function no longer supports the datalog file type input.
+612549:199 - The File Dialog function no longer supports the datalog file type input.
+612559:694 - The File Dialog function no longer supports the datalog file type input.
+612576:f25 - The File Dialog function no longer supports the datalog file type input.
+612578:ff1 - The File Dialog function no longer supports the datalog file type input.
+612580:1090 - The File Dialog function no longer supports the datalog file type input.
+612593:1755 - The File Dialog function no longer supports the datalog file type input.

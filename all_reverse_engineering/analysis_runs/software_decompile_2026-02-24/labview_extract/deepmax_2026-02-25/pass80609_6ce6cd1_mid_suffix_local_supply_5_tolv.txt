@@ -1,0 +1,16 @@
+346450:18d12f -12V local supply > +/-5% tolV
+346453:18d1ad -5V local supply > +/-5% tolV
+346458:18d26c +15V local supply > +/-5% tolV
+346461:18d2e6 Vcc local supply > +/-5% tolV
+346463:18d340 +12V local supply > +/-5% tolV
+346469:18d41f +5V local supply > +/-5% tolV
+346474:18d4df  +5V(J6) local supply > +/-5% tolV
+346478:18d580 Vcc local supply > +/-5% tolV
+475526:16b735 -12V local supply > +/-5% tolV
+475529:16b7b0 -5V local supply > +/-5% tolV
+475534:16b86a +15V local supply > +/-5% tolV
+475537:16b8e1 Vcc local supply > +/-5% tolV
+475539:16b939 +12V local supply > +/-5% tolV
+475545:16ba12 +5V local supply > +/-5% tolV
+475550:16bacd  +5V(J6) local supply > +/-5% tolV
+475554:16bb6a Vcc local supply > +/-5% tolV

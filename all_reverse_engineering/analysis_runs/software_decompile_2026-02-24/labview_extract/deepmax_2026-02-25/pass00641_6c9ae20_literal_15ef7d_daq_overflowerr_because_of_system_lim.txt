@@ -1,0 +1,1 @@
+314856:15ef7d DAQ overFlowErr:  Because of system limitations, the driver could not read data from the device fast enough to keep up with the device throughput; the onboard device memory reported an overflow error.

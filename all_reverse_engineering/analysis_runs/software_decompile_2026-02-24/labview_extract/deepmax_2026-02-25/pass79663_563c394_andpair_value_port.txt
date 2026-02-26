@@ -1,0 +1,77 @@
+70474:2d18c5 (u32) task ID: uniquely identifies the group. You use this value as the task ID to refer to this group in subsequent digital port VI calls.
+74822:316bf5 9When you use the serial port VIs under Windows, the port number parameter can have the following values:
+75375:31da87 9When you use the serial port VIs under Windows, the port number parameter can have the following values:
+75597:321180 9When you use the serial port VIs under Windows, the port number parameter can have the following values:
+75851:32503b 9When you use the serial port VIs under Windows, the port number parameter can have the following values:
+103422:4dca2d You can control the number of lines in a port by the parameter port width.  You also have the option of not reconfiguring the port as an output port with each iteration of the VI by setting the iteration control to a non-zero value.
+103844:4e2c52 You have the option to not reconfigure the port as an input port by setting the iteration control to a non-zero value. You can also concatenate multiple ports to operate as one large port by using the port width paramter.
+241107:1154d5 (u32) task ID: uniquely identifies the group. You use this value as the task ID to refer to this group in subsequent digital port VI calls.
+245132:1552a9 9When you use the serial port VIs under Windows, the port number parameter can have the following values:
+245690:15c26b 9When you use the serial port VIs under Windows, the port number parameter can have the following values:
+245918:15fac0 9When you use the serial port VIs under Windows, the port number parameter can have the following values:
+246177:163adf 9When you use the serial port VIs under Windows, the port number parameter can have the following values:
+261872:255e51 You can control the number of lines in a port by the parameter port width.  You also have the option of not reconfiguring the port as an output port with each iteration of the VI by setting the iteration control to a non-zero value.
+262040:257002 You can control the number of lines in a port by the parameter port width.  You also have the option of not reconfiguring the port as an output port with each iteration of the VI by setting the iteration control to a non-zero value.
+262305:25c4a6 You have the option to not reconfigure the port as an input port by setting the iteration control to a non-zero value. You can also concatenate multiple ports to operate as one large port by using the port width paramter.
+262470:25d643 You have the option to not reconfigure the port as an input port by setting the iteration control to a non-zero value. You can also concatenate multiple ports to operate as one large port by using the port width paramter.
+307911:e5866 9When you use the serial port VIs under Windows, the port number parameter can have the following values:
+308139:e90b3 9When you use the serial port VIs under Windows, the port number parameter can have the following values:
+308397:ed0ca 9When you use the serial port VIs under Windows, the port number parameter can have the following values:
+313553:141c4e (u32) task ID: uniquely identifies the group. You use this value as the task ID to refer to this group in subsequent digital port VI calls.
+315374:16d430 You can control the number of lines in a port by the parameter port width.  You also have the option of not reconfiguring the port as an output port with each iteration of the VI by setting the iteration control to a non-zero value.
+315540:16e5d6 You can control the number of lines in a port by the parameter port width.  You also have the option of not reconfiguring the port as an output port with each iteration of the VI by setting the iteration control to a non-zero value.
+315804:173a76 You have the option to not reconfigure the port as an input port by setting the iteration control to a non-zero value. You can also concatenate multiple ports to operate as one large port by using the port width paramter.
+315970:174c0b You have the option to not reconfigure the port as an input port by setting the iteration control to a non-zero value. You can also concatenate multiple ports to operate as one large port by using the port width paramter.
+340031:e1176 (u32) task ID: uniquely identifies the group. You use this value as the task ID to refer to this group in subsequent digital port VI calls.
+341596:1075f6 You can control the number of lines in a port by the parameter port width.  You also have the option of not reconfiguring the port as an output port with each iteration of the VI by setting the iteration control to a non-zero value.
+341860:10cabd You can control the number of lines in a port by the parameter port width.  You also have the option of not reconfiguring the port as an output port with each iteration of the VI by setting the iteration control to a non-zero value.
+342026:10dc87 You have the option to not reconfigure the port as an input port by setting the iteration control to a non-zero value. You can also concatenate multiple ports to operate as one large port by using the port width paramter.
+342288:113112 You have the option to not reconfigure the port as an input port by setting the iteration control to a non-zero value. You can also concatenate multiple ports to operate as one large port by using the port width paramter.
+369533:15b5d9 You have the option to not reconfigure the port as an input port by setting the iteration control to a non-zero value. You can also concatenate multiple ports to operate as one large port by using the port width paramter.
+369993:1621f7 You can control the number of lines in a port by the parameter port width.  You also have the option of not reconfiguring the port as an output port with each iteration of the VI by setting the iteration control to a non-zero value.
+396595:330ae7 9When you use the serial port VIs under Windows, the port number parameter can have the following values:
+396893:334e31 9When you use the serial port VIs under Windows, the port number parameter can have the following values:
+397174:338dc0 9When you use the serial port VIs under Windows, the port number parameter can have the following values:
+397592:33f1c3 9When you use the serial port VIs under Windows, the port number parameter can have the following values:
+402190:387de7 (u32) task ID: uniquely identifies the group. You use this value as the task ID to refer to this group in subsequent digital port VI calls.
+404066:3a5eee You can control the number of lines in a port by the parameter port width.  You also have the option of not reconfiguring the port as an output port with each iteration of the VI by setting the iteration control to a non-zero value.
+404071:3a621b You have the option to not reconfigure the port as an input port by setting the iteration control to a non-zero value. You can also concatenate multiple ports to operate as one large port by using the port width paramter.
+432777:d593a You have the option to not reconfigure the port as an input port by setting the iteration control to a non-zero value. You can also concatenate multiple ports to operate as one large port by using the port width paramter.
+433235:dc554 You can control the number of lines in a port by the parameter port width.  You also have the option of not reconfiguring the port as an output port with each iteration of the VI by setting the iteration control to a non-zero value.
+434963:1063c5 (u32) task ID: uniquely identifies the group. You use this value as the task ID to refer to this group in subsequent digital port VI calls.
+440784:163e2a 9When you use the serial port VIs under Windows, the port number parameter can have the following values:
+441084:16817a 9When you use the serial port VIs under Windows, the port number parameter can have the following values:
+441369:16c106 9When you use the serial port VIs under Windows, the port number parameter can have the following values:
+443015:185e66 You can control the number of lines in a port by the parameter port width.  You also have the option of not reconfiguring the port as an output port with each iteration of the VI by setting the iteration control to a non-zero value.
+443020:186193 You have the option to not reconfigure the port as an input port by setting the iteration control to a non-zero value. You can also concatenate multiple ports to operate as one large port by using the port width paramter.
+467310:ccb4b You have the option to not reconfigure the port as an input port by setting the iteration control to a non-zero value. You can also concatenate multiple ports to operate as one large port by using the port width paramter.
+467315:cce46 You can control the number of lines in a port by the parameter port width.  You also have the option of not reconfiguring the port as an output port with each iteration of the VI by setting the iteration control to a non-zero value.
+469230:eb878 (u32) task ID: uniquely identifies the group. You use this value as the task ID to refer to this group in subsequent digital port VI calls.
+470943:11468a You can control the number of lines in a port by the parameter port width.  You also have the option of not reconfiguring the port as an output port with each iteration of the VI by setting the iteration control to a non-zero value.
+471410:11b27f You have the option to not reconfigure the port as an input port by setting the iteration control to a non-zero value. You can also concatenate multiple ports to operate as one large port by using the port width paramter.
+502657:1c2d5a You have the option to not reconfigure the port as an input port by setting the iteration control to a non-zero value. You can also concatenate multiple ports to operate as one large port by using the port width paramter.
+502995:1c89b8 You can control the number of lines in a port by the parameter port width.  You also have the option of not reconfiguring the port as an output port with each iteration of the VI by setting the iteration control to a non-zero value.
+521548:349f14 9When you use the serial port VIs under Windows, the port number parameter can have the following values:
+521751:34d2fc 9When you use the serial port VIs under Windows, the port number parameter can have the following values:
+521941:350284 9When you use the serial port VIs under Windows, the port number parameter can have the following values:
+522293:355c9a 9When you use the serial port VIs under Windows, the port number parameter can have the following values:
+525022:38882a (u32) task ID: uniquely identifies the group. You use this value as the task ID to refer to this group in subsequent digital port VI calls.
+527403:3b4b3a You can control the number of lines in a port by the parameter port width.  You also have the option of not reconfiguring the port as an output port with each iteration of the VI by setting the iteration control to a non-zero value.
+527408:3b4e67 You have the option to not reconfigure the port as an input port by setting the iteration control to a non-zero value. You can also concatenate multiple ports to operate as one large port by using the port width paramter.
+545152:d484a You have the option to not reconfigure the port as an input port by setting the iteration control to a non-zero value. You can also concatenate multiple ports to operate as one large port by using the port width paramter.
+545610:db464 You can control the number of lines in a port by the parameter port width.  You also have the option of not reconfiguring the port as an output port with each iteration of the VI by setting the iteration control to a non-zero value.
+547338:1052d5 (u32) task ID: uniquely identifies the group. You use this value as the task ID to refer to this group in subsequent digital port VI calls.
+548944:121e5a You can control the number of lines in a port by the parameter port width.  You also have the option of not reconfiguring the port as an output port with each iteration of the VI by setting the iteration control to a non-zero value.
+548949:122187 You have the option to not reconfigure the port as an input port by setting the iteration control to a non-zero value. You can also concatenate multiple ports to operate as one large port by using the port width paramter.
+558149:1c4042 9When you use the serial port VIs under Windows, the port number parameter can have the following values:
+558356:1c7432 9When you use the serial port VIs under Windows, the port number parameter can have the following values:
+558548:1ca3b8 9When you use the serial port VIs under Windows, the port number parameter can have the following values:
+577718:13c363 You have the option to not reconfigure the port as an input port by setting the iteration control to a non-zero value. You can also concatenate multiple ports to operate as one large port by using the port width paramter.
+577723:13c65e You can control the number of lines in a port by the parameter port width.  You also have the option of not reconfiguring the port as an output port with each iteration of the VI by setting the iteration control to a non-zero value.
+578951:154b15 (u32) task ID: uniquely identifies the group. You use this value as the task ID to refer to this group in subsequent digital port VI calls.
+580187:176a2e You can control the number of lines in a port by the parameter port width.  You also have the option of not reconfiguring the port as an output port with each iteration of the VI by setting the iteration control to a non-zero value.
+580540:17bf57 You have the option to not reconfigure the port as an input port by setting the iteration control to a non-zero value. You can also concatenate multiple ports to operate as one large port by using the port width paramter.
+596802:f5d9a You can control the number of lines in a port by the parameter port width.  You also have the option of not reconfiguring the port as an output port with each iteration of the VI by setting the iteration control to a non-zero value.
+596807:f60c7 You have the option to not reconfigure the port as an input port by setting the iteration control to a non-zero value. You can also concatenate multiple ports to operate as one large port by using the port width paramter.
+608562:1b9012 You can control the number of lines in a port by the parameter port width.  You also have the option of not reconfiguring the port as an output port with each iteration of the VI by setting the iteration control to a non-zero value.
+608685:1bb093 You have the option to not reconfigure the port as an input port by setting the iteration control to a non-zero value. You can also concatenate multiple ports to operate as one large port by using the port width paramter.

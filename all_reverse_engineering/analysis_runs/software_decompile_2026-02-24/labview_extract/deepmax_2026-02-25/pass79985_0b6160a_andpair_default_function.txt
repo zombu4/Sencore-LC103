@@ -1,0 +1,32 @@
+50287:17e15c -Override system default function key settings
+52996:1cb269 advisory dialog? Set TRUE (default) if you want a dialog if function=0 and the file does not exist, or if function=2 or 3 and the file exists.
+53014:1cb6af zvsource is in most cases the name of the VI or function that produced the error; the default value is an empty string.
+54006:1dbc55 advisory dialog?  Set TRUE (default) if you want a dialog if function=0 and the file does not exist, or if function=2 or 3 and the file exists.
+54255:1e0095 zvsource is in most cases the name of the VI or function that produced the error; the default value is an empty string.
+100610:4a3a7b zvsource is in most cases the name of the VI or function that produced the error; the default value is an empty string.
+101013:4aa4d2 zvsource is in most cases the name of the VI or function that produced the error; the default value is an empty string.
+223253:9e95 advisory dialog? Set TRUE (default) if you want a dialog if function=0 and the file does not exist, or if function=2 or 3 and the file exists.
+223271:a2db zvsource is in most cases the name of the VI or function that produced the error; the default value is an empty string.
+224263:1a881 advisory dialog?  Set TRUE (default) if you want a dialog if function=0 and the file does not exist, or if function=2 or 3 and the file exists.
+224499:1d58d advisory dialog?  Set TRUE (default) if you want a dialog if function=0 and the file does not exist, or if function=2 or 3 and the file exists.
+224548:1fb75 zvsource is in most cases the name of the VI or function that produced the error; the default value is an empty string.
+258981:21b2cf zvsource is in most cases the name of the VI or function that produced the error; the default value is an empty string.
+259410:222582 zvsource is in most cases the name of the VI or function that produced the error; the default value is an empty string.
+372364:1939fd zvsource is in most cases the name of the VI or function that produced the error; the default value is an empty string.
+372953:19bbcd zvsource is in most cases the name of the VI or function that produced the error; the default value is an empty string.
+394246:30c7c1 advisory dialog?  Set TRUE (default) if you want a dialog if function=0 and the file does not exist, or if function=2 or 3 and the file exists.
+405308:3bab24 zvsource is in most cases the name of the VI or function that produced the error; the default value is an empty string.
+406182:3cba91 advisory dialog?  Set TRUE (default) if you want a dialog if function=0 and the file does not exist, or if function=2 or 3 and the file exists.
+406205:3cc8de advisory dialog? Set TRUE (default) if you want a dialog if function=0 and the file does not exist, or if function=2 or 3 and the file exists.
+406212:3cccb6 zvsource is in most cases the name of the VI or function that produced the error; the default value is an empty string.
+504904:1f57dd vsource is in most cases the name of the VI or function that produced the error; the default value is an empty string.
+505282:1fb74f vsource is in most cases the name of the VI or function that produced the error; the default value is an empty string.
+520838:33c0b9 advisory dialog?  Set TRUE (default) if you want a dialog if function=0 and the file does not exist, or if function=2 or 3 and the file exists.
+527764:3bc375 vsource is in most cases the name of the VI or function that produced the error; the default value is an empty string.
+528196:3c81f8 advisory dialog?  Set TRUE (default) if you want a dialog if function=0 and the file does not exist, or if function=2 or 3 and the file exists.
+528597:3cc6f0 vsource is in most cases the name of the VI or function that produced the error; the default value is an empty string.
+528612:3ccdef advisory dialog? Set TRUE (default) if you want a dialog if function=0 and the file does not exist, or if function=2 or 3 and the file exists.
+595372:d5431 advisory dialog?  Set TRUE (default) if you want a dialog if function=0 and the file does not exist, or if function=2 or 3 and the file exists.
+595861:e2414 advisory dialog?  Set TRUE (default) if you want a dialog if function=0 and the file does not exist, or if function=2 or 3 and the file exists.
+596262:e690c vsource is in most cases the name of the VI or function that produced the error; the default value is an empty string.
+596277:e700b advisory dialog? Set TRUE (default) if you want a dialog if function=0 and the file does not exist, or if function=2 or 3 and the file exists.

@@ -1,0 +1,19 @@
+75494:31fb85 UQWrites the data in string to write to the serial port indicated in port number. 
+102543:4d083f This error code is not listed in the internal database, or you have wired a number that is not an error code (such as a DAQ task ID) to the error code input.6Windows GetCommError:  The hex value of this code is x
+245809:15e369 UQWrites the data in string to write to the serial port indicated in port number. 
+245907:15ec57 QWrites the data in string to write to the serial port indicated in port number. 
+260976:249417 This error code is not listed in the internal database, or you have wired a number that is not an error code (such as a DAQ task ID) to the error code input.6Windows GetCommError:  The hex value of this code is x
+308029:e7965 UQWrites the data in string to write to the serial port indicated in port number. 
+308128:e824f QWrites the data in string to write to the serial port indicated in port number. 
+314984:166fe8 This error code is not listed in the internal database, or you have wired a number that is not an error code (such as a DAQ task ID) to the error code input.6Windows GetCommError:  The hex value of this code is x
+341461:1065b8 This error code is not listed in the internal database, or you have wired a number that is not an error code (such as a DAQ task ID) to the error code input.6Windows GetCommError:  The hex value of this code is x
+397173:338d6a UQWrites the data in string to write to the serial port indicated in port number. 
+404006:3a39db QWrites the data in string to write to the serial port indicated in port number. 
+441368:16c0b0 UQWrites the data in string to write to the serial port indicated in port number. 
+442989:18540b QWrites the data in string to write to the serial port indicated in port number. 
+521914:34fbe5 UQWrites the data in string to write to the serial port indicated in port number. 
+527343:3b2627 QWrites the data in string to write to the serial port indicated in port number. 
+556362:1a3ebb QWrites the data in string to write to the serial port indicated in port number. 
+558522:1c9d1a UQWrites the data in string to write to the serial port indicated in port number. 
+596742:f3887 QWrites the data in string to write to the serial port indicated in port number. 
+600397:12f417 QWrites the data in string to write to the serial port indicated in port number. 

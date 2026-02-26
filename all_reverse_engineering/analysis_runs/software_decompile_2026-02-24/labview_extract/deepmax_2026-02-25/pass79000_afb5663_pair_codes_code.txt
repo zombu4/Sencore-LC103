@@ -1,0 +1,234 @@
+39989:8f3fb CodeSetAllDfltMsg
+74839:316f5c Refer to Appendix C, Error Codes, for a list of error codes.
+74841:3170c7 Some error codes returned by the serial port VIs are platform-specific. Please refer to your system documentation for a list of error codes.
+75393:31de66 Some error codes returned by the serial port VIs are platform-specific. Please refer to your system documentation for a list of error codes.
+75616:3216ba Some error codes returned by the serial port VIs are platform-specific. Please refer to your system documentation for a list of error codes.
+75870:32546d Some error codes returned by the serial port VIs are platform-specific. Please refer to your system documentation for a list of error codes.
+100208:49d328 ^Zerror status is TRUE if the error in cluster or any of the error codes reflects an error.
+100209:49d388 source messages contains the source message you want to appear in the error out cluster if the VI finds an error in error codes. Place each message on a separate line in a string constant or control. 
+100218:49d6bf error in is a cluster of elements that describes any previous error you want to check. If it is unwired or indicates no error, the VI checks the error codes array instead. See Simple Error Handler for additional information.
+100241:49dd85 error codes*
+100242:49dd9e error codes<
+100300:49f013 error codes*,
+100301:49f02c error codes,,
+100419:4a0f84 error codes
+100456:4a1164 error codes
+100457:4a117a error codes
+100458:4a1190 error codes
+100461:4a14a9 You can optionally use the source messages string to pass on the source of the error. Enter one line of text for each element of the error codes array.  
+100480:4a17b6 If the error in cluster has a status of no-error, then test each element of error codes array, stopping on the first non-zero value or after all are tested; pick the selected line from the optional source messages as the error out source.
+100501:4a1bb3 error codes @
+100524:4a1d37 error codes
+100525:4a1d59 error codes'
+100540:4a1ee3 error codes
+100694:4a52f5 error codes
+100712:4a5687 error codes
+100929:4a7df1 error codes
+101592:4b73d7 user-defined codes is an array of the numeric error codes you define in your VIs. The VI searches this array after searching the internal list of error codes. Codes in the range of 5000 to 9999 are reserved for users.
+101593:4b74b3 user-defined descriptions is an array of descriptions of user-defined codes. If an incoming error matches one in user-defined codes, the VI uses the corresponding description from user-defined descriptions in message.
+101708:4b984e error codes (hidden):P
+101710:4b9876 error codes (hidden)FP
+102075:4bed61 error codes (hidden)
+102283:4c380f error codes (hidden)*`@
+102285:4c3834 error codes (hidden)*@@
+102287:4c3859 error codes (hidden)
+102314:4c3a37 error codes (hidden)
+102324:4c3fa6 monnie)Additions and changes to DAQ error codes.
+102363:4c4bc6 user-defined codes.  The error handler has tables of error codes and descriptions for all LabVIEW I/O operations (file, GPIB, DAQ, etc.).  You can augment the tables with the user-defined arrays.  Codes from 5000 to 9999 are reserved for user assignments.
+102382:4c5418 error codes (hidden)
+102535:4d0216 user-defined codes.  The error handler has tables of error codes and descriptions for all LabVIEW I/O operations (file, GPIB, DAQ, etc.).  You can augment the tables with the user-defined arrays.  Codes from 5000 to 9999 are reserved for user assignments.
+102592:4d0cbb error codes (hidden)0@
+245149:155610 Refer to Appendix C, Error Codes, for a list of error codes.
+245151:15577b Some error codes returned by the serial port VIs are platform-specific. Please refer to your system documentation for a list of error codes.
+245708:15c64a Some error codes returned by the serial port VIs are platform-specific. Please refer to your system documentation for a list of error codes.
+245937:15fffa Some error codes returned by the serial port VIs are platform-specific. Please refer to your system documentation for a list of error codes.
+246196:163f11 Some error codes returned by the serial port VIs are platform-specific. Please refer to your system documentation for a list of error codes.
+258548:213011 error codes
+258562:214708 ^Zerror status is TRUE if the error in cluster or any of the error codes reflects an error.
+258563:214768 source messages contains the source message you want to appear in the error out cluster if the VI finds an error in error codes. Place each message on a separate line in a string constant or control. 
+258572:214a9f error in is a cluster of elements that describes any previous error you want to check. If it is unwired or indicates no error, the VI checks the error codes array instead. See Simple Error Handler for additional information.
+258595:215165 error codes*
+258596:21517e error codes<
+258654:2163f3 error codes*,
+258655:21640c error codes,,
+258773:218364 error codes
+258810:218544 error codes
+258811:21855a error codes
+258812:218570 error codes
+258815:218889 You can optionally use the source messages string to pass on the source of the error. Enter one line of text for each element of the error codes array.  
+258834:218b96 If the error in cluster has a status of no-error, then test each element of error codes array, stopping on the first non-zero value or after all are tested; pick the selected line from the optional source messages as the error out source.
+258855:218f93 error codes @
+258878:219117 error codes
+258879:219139 error codes'
+258894:2192c3 error codes
+258946:219972 You can optionally use the source messages string to pass on the source of the error. Enter one line of text for each element of the error codes array.  
+259065:21cb49 error codes
+259083:21cedb error codes
+259300:21f645 error codes
+260025:22ffaf user-defined codes is an array of the numeric error codes you define in your VIs. The VI searches this array after searching the internal list of error codes. Codes in the range of 5000 to 9999 are reserved for users.
+260026:23008b user-defined descriptions is an array of descriptions of user-defined codes. If an incoming error matches one in user-defined codes, the VI uses the corresponding description from user-defined descriptions in message.
+260141:232426 error codes (hidden):P
+260143:23244e error codes (hidden)FP
+260508:237939 error codes (hidden)
+260716:23c3e7 error codes (hidden)*`@
+260718:23c40c error codes (hidden)*@@
+260720:23c431 error codes (hidden)
+260747:23c60f error codes (hidden)
+260757:23cb7e monnie)Additions and changes to DAQ error codes.
+260796:23d79e user-defined codes.  The error handler has tables of error codes and descriptions for all LabVIEW I/O operations (file, GPIB, DAQ, etc.).  You can augment the tables with the user-defined arrays.  Codes from 5000 to 9999 are reserved for user assignments.
+260815:23dff0 error codes (hidden)
+260968:248dee user-defined codes.  The error handler has tables of error codes and descriptions for all LabVIEW I/O operations (file, GPIB, DAQ, etc.).  You can augment the tables with the user-defined arrays.  Codes from 5000 to 9999 are reserved for user assignments.
+261025:249893 error codes (hidden)0@
+307929:e5c45 Some error codes returned by the serial port VIs are platform-specific. Please refer to your system documentation for a list of error codes.
+308158:e95ed Some error codes returned by the serial port VIs are platform-specific. Please refer to your system documentation for a list of error codes.
+308416:ed4fc Some error codes returned by the serial port VIs are platform-specific. Please refer to your system documentation for a list of error codes.
+314013:14dbcc user-defined codes is an array of the numeric error codes you define in your VIs. The VI searches this array after searching the internal list of error codes. Codes in the range of 5000 to 9999 are reserved for users.
+314014:14dca8 user-defined descriptions is an array of descriptions of user-defined codes. If an incoming error matches one in user-defined codes, the VI uses the corresponding description from user-defined descriptions in message.
+314136:150040 error codes (hidden):P
+314138:150068 error codes (hidden)FP
+314515:155553 error codes (hidden)
+314723:15a000 error codes (hidden)*`@
+314725:15a025 error codes (hidden)*@@
+314727:15a04a error codes (hidden)
+314754:15a228 error codes (hidden)
+314764:15a79f monnie)Additions and changes to DAQ error codes.
+314804:15b3ad user-defined codes.  The error handler has tables of error codes and descriptions for all LabVIEW I/O operations (file, GPIB, DAQ, etc.).  You can augment the tables with the user-defined arrays.  Codes from 5000 to 9999 are reserved for user assignments.
+314823:15bbda error codes (hidden)
+314976:1669bf user-defined codes.  The error handler has tables of error codes and descriptions for all LabVIEW I/O operations (file, GPIB, DAQ, etc.).  You can augment the tables with the user-defined arrays.  Codes from 5000 to 9999 are reserved for user assignments.
+315033:167464 error codes (hidden)0@
+340496:ed1af user-defined codes is an array of the numeric error codes you define in your VIs. The VI searches this array after searching the internal list of error codes. Codes in the range of 5000 to 9999 are reserved for users.
+340497:ed28b user-defined descriptions is an array of descriptions of user-defined codes. If an incoming error matches one in user-defined codes, the VI uses the corresponding description from user-defined descriptions in message.
+340620:ef624 error codes (hidden):P
+340622:ef64c error codes (hidden)FP
+340994:f4b38 error codes (hidden)
+341202:f95e6 error codes (hidden)*`@
+341204:f960b error codes (hidden)*@@
+341206:f9630 error codes (hidden)
+341233:f980e error codes (hidden)
+341243:f9d7e monnie)Additions and changes to DAQ error codes.
+341280:fa97d user-defined codes.  The error handler has tables of error codes and descriptions for all LabVIEW I/O operations (file, GPIB, DAQ, etc.).  You can augment the tables with the user-defined arrays.  Codes from 5000 to 9999 are reserved for user assignments.
+341300:fb1aa error codes (hidden)
+341453:105f8f user-defined codes.  The error handler has tables of error codes and descriptions for all LabVIEW I/O operations (file, GPIB, DAQ, etc.).  You can augment the tables with the user-defined arrays.  Codes from 5000 to 9999 are reserved for user assignments.
+341510:106a34 error codes (hidden)0@
+371228:177732 error codes (hidden)
+371257:177c40 error codes (hidden)
+371260:177ca0 error codes (hidden)
+371406:182816 user-defined codes.  The error handler has tables of error codes and descriptions for all LabVIEW I/O operations (file, GPIB, DAQ, etc.).  You can augment the tables with the user-defined arrays.  Codes from 5000 to 9999 are reserved for user assignments.
+371448:183362 error codes (hidden)
+371459:183967 user-defined codes is an array of the numeric error codes you define in your VIs. The VI searches this array after searching the internal list of error codes. Codes in the range of 5000 to 9999 are reserved for users.
+371460:183a43 user-defined descriptions is an array of descriptions of user-defined codes. If an incoming error matches one in user-defined codes, the VI uses the corresponding description from user-defined descriptions in message.
+371507:184729 error codes (hidden)J
+371527:184d80 error codes (hidden)O
+371548:185798 user-defined codes.  The error handler has tables of error codes and descriptions for all LabVIEW I/O operations (file, GPIB, DAQ, etc.).  You can augment the tables with the user-defined arrays.  Codes from 5000 to 9999 are reserved for user assignments.
+371915:18cc37 monnie)Additions and changes to DAQ error codes.
+372703:198d5d error codes
+372980:19bfc6 error codes
+372991:19c081 error codes
+373320:1a17a9 error codes
+373339:1a19f7 error codes
+373347:1a1b5c error codes
+373367:1a1df7 error codes
+373370:1a203c You can optionally use the source messages string to pass on the source of the error. Enter one line of text for each element of the error codes array.  
+373373:1a222f ^Zerror status is TRUE if the error in cluster or any of the error codes reflects an error.
+373374:1a228f source messages contains the source message you want to appear in the error out cluster if the VI finds an error in error codes. Place each message on a separate line in a string constant or control. 
+373379:1a25a6 error in is a cluster of elements that describes any previous error you want to check. If it is unwired or indicates no error, the VI checks the error codes array instead. See Simple Error Handler for additional information.
+373395:1a2852 error codes
+373401:1a2965 error codesM
+373410:1a2bb5 If the error in cluster has a status of no-error, then test each element of error codes array, stopping on the first non-zero value or after all are tested; pick the selected line from the optional source messages as the error out source.
+392518:2edfbd error codes
+396614:330f19 Some error codes returned by the serial port VIs are platform-specific. Please refer to your system documentation for a list of error codes.
+396912:33536b Some error codes returned by the serial port VIs are platform-specific. Please refer to your system documentation for a list of error codes.
+397192:33919f Some error codes returned by the serial port VIs are platform-specific. Please refer to your system documentation for a list of error codes.
+397609:33f52a Refer to Appendix C, Error Codes, for a list of error codes.
+397611:33f695 Some error codes returned by the serial port VIs are platform-specific. Please refer to your system documentation for a list of error codes.
+404034:3a481e You can optionally use the source messages string to pass on the source of the error. Enter one line of text for each element of the error codes array.  
+417626:54fb 3Range codes: R0 - R7 ( see front panel for details)
+433929:eb355 error codes (hidden)
+433958:eb863 error codes (hidden)
+433961:eb8c3 error codes (hidden)
+434107:f6439 user-defined codes.  The error handler has tables of error codes and descriptions for all LabVIEW I/O operations (file, GPIB, DAQ, etc.).  You can augment the tables with the user-defined arrays.  Codes from 5000 to 9999 are reserved for user assignments.
+434149:f6f85 error codes (hidden)
+434160:f758a user-defined codes is an array of the numeric error codes you define in your VIs. The VI searches this array after searching the internal list of error codes. Codes in the range of 5000 to 9999 are reserved for users.
+434161:f7666 user-defined descriptions is an array of descriptions of user-defined codes. If an incoming error matches one in user-defined codes, the VI uses the corresponding description from user-defined descriptions in message.
+434208:f834c error codes (hidden)J
+434227:f89a3 error codes (hidden)O
+434248:f93bb user-defined codes.  The error handler has tables of error codes and descriptions for all LabVIEW I/O operations (file, GPIB, DAQ, etc.).  You can augment the tables with the user-defined arrays.  Codes from 5000 to 9999 are reserved for user assignments.
+434615:100862 monnie)Additions and changes to DAQ error codes.
+440803:16425c Some error codes returned by the serial port VIs are platform-specific. Please refer to your system documentation for a list of error codes.
+441103:1686b4 Some error codes returned by the serial port VIs are platform-specific. Please refer to your system documentation for a list of error codes.
+441387:16c4e5 Some error codes returned by the serial port VIs are platform-specific. Please refer to your system documentation for a list of error codes.
+469908:fa8d6 error codes (hidden)
+469937:fade4 error codes (hidden)
+469940:fae44 error codes (hidden)
+470086:1059ba user-defined codes.  The error handler has tables of error codes and descriptions for all LabVIEW I/O operations (file, GPIB, DAQ, etc.).  You can augment the tables with the user-defined arrays.  Codes from 5000 to 9999 are reserved for user assignments.
+470128:106506 error codes (hidden)
+470139:106b0b user-defined codes is an array of the numeric error codes you define in your VIs. The VI searches this array after searching the internal list of error codes. Codes in the range of 5000 to 9999 are reserved for users.
+470140:106be7 user-defined descriptions is an array of descriptions of user-defined codes. If an incoming error matches one in user-defined codes, the VI uses the corresponding description from user-defined descriptions in message.
+470187:1078cd error codes (hidden)J
+470206:107f24 error codes (hidden)O
+470226:10893c user-defined codes.  The error handler has tables of error codes and descriptions for all LabVIEW I/O operations (file, GPIB, DAQ, etc.).  You can augment the tables with the user-defined arrays.  Codes from 5000 to 9999 are reserved for user assignments.
+470591:10fddc monnie)Additions and changes to DAQ error codes.
+503733:1d868e error codes (hidden)
+503762:1d8b9c error codes (hidden)@@P
+503769:1d8c32 error codes (hidden)
+503916:1e37b7 user-defined codes.  The error handler has tables of error codes and descriptions for all LabVIEW I/O operations (file, GPIB, DAQ, etc.).  You can augment the tables with the user-defined arrays.  Codes from 5000 to 9999 are reserved for user assignments.
+504060:1e660f error codes (hidden)
+504092:1e6b24 error codes (hidden)J
+504112:1e7150 error codes (hidden)H
+504133:1e78db user-defined codes.  The error handler has tables of error codes and descriptions for all LabVIEW I/O operations (file, GPIB, DAQ, etc.).  You can augment the tables with the user-defined arrays.  Codes from 5000 to 9999 are reserved for user assignments.
+504223:1ea649 user-defined codes is an array of the numeric error codes you define in your VIs. The VI searches this array after searching the internal list of error codes. Codes in the range of 5000 to 9999 are reserved for users.
+504227:1ea89e user-defined descriptions is an array of descriptions of user-defined codes. If an incoming error matches one in user-defined codes, the VI uses the corresponding description from user-defined descriptions in message.
+504532:1efa12 monnie)Additions and changes to DAQ error codes.
+505092:1f8eb6 error codes
+505224:1fa72e error codes
+505235:1fa7e9 error codes
+505403:1fe3f6 error codes
+505422:1fe655 error codes
+505431:1fe7c5 error codes
+505475:1ff36a error codes
+505478:1ff5af You can optionally use the source messages string to pass on the source of the error. Enter one line of text for each element of the error codes array.  
+505491:1ff793 error codes
+505498:1ff8c2 error codesH
+505508:1ffb22 If the error in cluster has a status of no-error, then test each element of error codes array, stopping on the first non-zero value or after all are tested; pick the selected line from the optional source messages as the error out source.
+505530:20065b error in is a cluster of elements that describes any previous error you want to check. If it is unwired or indicates no error, the VI checks the error codes array instead. See Simple Error Handler for additional information.
+505538:200976 Zerror status is TRUE if the error in cluster or any of the error codes reflects an error.
+505539:200a14 source messages contains the source message you want to appear in the error out cluster if the VI finds an error in error codes. Place each message on a separate line in a string constant or control. 
+520194:3323e9 error codes
+521569:34a3ae Some error codes returned by the serial port VIs are platform-specific. Please refer to your system documentation for a list of error codes.
+521771:34d8b2 Some error codes returned by the serial port VIs are platform-specific. Please refer to your system documentation for a list of error codes.
+521960:3506bd Some error codes returned by the serial port VIs are platform-specific. Please refer to your system documentation for a list of error codes.
+522311:3560b6 Refer to Appendix C, Error Codes, for a list of error codes.
+522313:356221 Some error codes returned by the serial port VIs are platform-specific. Please refer to your system documentation for a list of error codes.
+526620:3a605a 3Range codes: R0 - R7 ( see front panel for details)HA
+527371:3b346a You can optionally use the source messages string to pass on the source of the error. Enter one line of text for each element of the error codes array.  
+530094:54fb 3Range codes: R0 - R7 ( see front panel for details)
+546304:ea265 error codes (hidden)
+546333:ea773 error codes (hidden)
+546336:ea7d3 error codes (hidden)
+546482:f5349 user-defined codes.  The error handler has tables of error codes and descriptions for all LabVIEW I/O operations (file, GPIB, DAQ, etc.).  You can augment the tables with the user-defined arrays.  Codes from 5000 to 9999 are reserved for user assignments.
+546524:f5e95 error codes (hidden)
+546535:f649a user-defined codes is an array of the numeric error codes you define in your VIs. The VI searches this array after searching the internal list of error codes. Codes in the range of 5000 to 9999 are reserved for users.
+546536:f6576 user-defined descriptions is an array of descriptions of user-defined codes. If an incoming error matches one in user-defined codes, the VI uses the corresponding description from user-defined descriptions in message.
+546583:f725c error codes (hidden)J
+546602:f78b3 error codes (hidden)O
+546623:f82cb user-defined codes.  The error handler has tables of error codes and descriptions for all LabVIEW I/O operations (file, GPIB, DAQ, etc.).  You can augment the tables with the user-defined arrays.  Codes from 5000 to 9999 are reserved for user assignments.
+546990:ff772 monnie)Additions and changes to DAQ error codes.
+558170:1c44dc Some error codes returned by the serial port VIs are platform-specific. Please refer to your system documentation for a list of error codes.
+558376:1c79e8 Some error codes returned by the serial port VIs are platform-specific. Please refer to your system documentation for a list of error codes.
+558567:1ca7f1 Some error codes returned by the serial port VIs are platform-specific. Please refer to your system documentation for a list of error codes.
+578079:143ddc 3Range codes: R0 - R7 ( see front panel for details)HA
+579152:15c553 error codes (hidden)
+579181:15ca61 error codes (hidden)@@P
+579188:15caf7 error codes (hidden)
+579335:16767b user-defined codes.  The error handler has tables of error codes and descriptions for all LabVIEW I/O operations (file, GPIB, DAQ, etc.).  You can augment the tables with the user-defined arrays.  Codes from 5000 to 9999 are reserved for user assignments.
+579479:16a4d3 error codes (hidden)
+579511:16a9e8 error codes (hidden)J
+579531:16b014 error codes (hidden)H
+579549:16b79f user-defined codes.  The error handler has tables of error codes and descriptions for all LabVIEW I/O operations (file, GPIB, DAQ, etc.).  You can augment the tables with the user-defined arrays.  Codes from 5000 to 9999 are reserved for user assignments.
+579642:16e50c user-defined codes is an array of the numeric error codes you define in your VIs. The VI searches this array after searching the internal list of error codes. Codes in the range of 5000 to 9999 are reserved for users.
+579646:16e761 user-defined descriptions is an array of descriptions of user-defined codes. If an incoming error matches one in user-defined codes, the VI uses the corresponding description from user-defined descriptions in message.
+579951:1738d8 monnie)Additions and changes to DAQ error codes.
+596770:f46ca You can optionally use the source messages string to pass on the source of the error. Enter one line of text for each element of the error codes array.  
+597388:fc1d7 error codes
+607296:1a3d6a You can optionally use the source messages string to pass on the source of the error. Enter one line of text for each element of the error codes array.  
+608280:1b5528 )Additions and changes to DAQ error codes.

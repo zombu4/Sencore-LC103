@@ -1,0 +1,33 @@
+. Command Description re
+(AM Aluminum Electroiytics as
+; DBL Double Layer Lae
+__TAN Tantalum Caps - eee
+| CER Ceramic Caps ees
+| IR ______ High Resistance Double Layer Lytics ee
+f COL Coils eee 3
+| YFB Yokes and Flybacks be
+
+, SWX Switching Transformers : -
+VALUE MULTIPLIERS ec
+“Command __—==séDescription Ss~—~SY ee
+
+TEST FUNCTION COMMANDS :
+LKR Leakage resistance
+DA Dielectric Absorption |
+ESR Equivalent series resistance
+
+IND inductance
+
+EIC ESR in circuit
+
+IC ~—~———_ Inductance in circuit 7
+
+GENERAL COMMANDS
+
+Loo bead zeroopen
+
+CPO Control panel on (front panel operation) |
+
+CtriR Continue taking/sending testdata
+
+Ctrl O Return a single reading, (default)

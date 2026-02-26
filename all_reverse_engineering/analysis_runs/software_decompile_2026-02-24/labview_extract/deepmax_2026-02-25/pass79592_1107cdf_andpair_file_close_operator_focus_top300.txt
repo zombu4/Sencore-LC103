@@ -1,0 +1,19 @@
+100816:4a6dd8 QCloses the file on command or when in incoming error occurs and returns the file size at closure.
+112344:56c1ac *Reads a specified number of lines from a byte stream file beginning at a specified character offset. The VI opens the file beforehand and closes it afterwards.
+259187:21e62c QCloses the file on command or when in incoming error occurs and returns the file size at closure.
+259351:21fa83 QCloses the file on command or when in incoming error occurs and returns the file size at closure.
+270873:2e6900 *Reads a specified number of lines from a byte stream file beginning at a specified character offset. The VI opens the file beforehand and closes it afterwards.
+271320:2e9103 *Reads a specified number of lines from a byte stream file beginning at a specified character offset. The VI opens the file beforehand and closes it afterwards.
+366630:130572 *Reads a specified number of lines from a byte stream file beginning at a specified character offset. The VI opens the file beforehand and closes it afterwards.
+372916:19ae96 Close File+.vi:Close Filed:\automated\lv51\lvsource\gencode.cGenRangeCheck
+372939:19b128 QCloses the file on command or when in incoming error occurs and returns the file size at closure.
+404036:3a48eb QCloses the file on command or when in incoming error occurs and returns the file size at closure.
+404095:3a6707 *Reads a specified number of lines from a byte stream file beginning at a specified character offset. The VI opens the file beforehand and closes it afterwards.
+496229:149a0e *Reads a specified number of lines from a byte stream file beginning at a specified character offset. The VI opens the file beforehand and closes it afterwards.
+505195:1f9f1b QCloses the file on command or when in incoming error occurs and returns the file size at closure.
+527373:3b3537 QCloses the file on command or when in incoming error occurs and returns the file size at closure.
+527432:3b5353 *Reads a specified number of lines from a byte stream file beginning at a specified character offset. The VI opens the file beforehand and closes it afterwards.
+596772:f4797 QCloses the file on command or when in incoming error occurs and returns the file size at closure.
+596831:f65b3 *Reads a specified number of lines from a byte stream file beginning at a specified character offset. The VI opens the file beforehand and closes it afterwards.
+607479:1a677b QCloses the file on command or when in incoming error occurs and returns the file size at closure.
+610293:1d4dcb *Reads a specified number of lines from a byte stream file beginning at a specified character offset. The VI opens the file beforehand and closes it afterwards.

@@ -1,0 +1,1 @@
+527362:3b2bf9 start path is the path name to the initially displayed directory in a file dialog. The default value is Not A Path, which is the path to the last directory shown in a file dialog.

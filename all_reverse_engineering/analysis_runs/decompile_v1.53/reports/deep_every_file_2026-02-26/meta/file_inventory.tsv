@@ -1,0 +1,44 @@
+path|size|sha256|type
+.DS_Store|6148|db91acf1439e3f0fc087798f6c4c3f5e40decb9fa1326cc9f9f44d32096c4808|Apple Desktop Services Store
+DAQDRV|4494|964db7f566adbbd254e797abccfdd71f9ed16131d2f0d41b55e84a5141a2c951|National Instruments, LabVIEW File, Code Resource File, data
+Final Cal.zip|2817125|7585abaef2743a6581cc73213caf6d720b157b4f7715e65c518a01acfae7c160|Zip archive data, at least v2.0 to extract, compression method=deflate
+Final Cal/103FIN.EXE|6215395|38e23a70fb35ac9cb4beb9a528b1df46a3e2fcb7371af6cc564003923670df68|MS-DOS executable, NE for MS Windows 3.x (EXE)
+Final Cal/DAQDRV|4494|964db7f566adbbd254e797abccfdd71f9ed16131d2f0d41b55e84a5141a2c951|National Instruments, LabVIEW File, Code Resource File, data
+Final Cal/GPIBDRV|16316|22b2ba7a2348a247239e6784019d39f4662908f06f24ecca5a87ab62e61cf68c|National Instruments, LabVIEW File, Code Resource File, data
+Final Cal/LVDEVICE.DLL|13903|ca2c2df38cf57fe998e69e9a9a3b5c77976e61ed469de4f461c57310261e86d4|MS-DOS executable, NE for MS Windows 3.x (DLL or font)
+Final Cal/P071_03.CAL|143|75de7a0af35b07dd5d973731b6ad40964845361d56c6a3c3a83f9108f58e443d|ASCII text, with CRLF line terminators
+Final Cal/P072_1.cal|289|5dd41bdc62fca676a491ee89a6f217333c07c04be87578eadea71987e1439f44|ASCII text, with CRLF line terminators
+Final Cal/SERPDRV|7480|fd1ea70ec1b0028a6f23b706283e6e8bb475680277352e576ec74bcd3a0af9fa|National Instruments, LabVIEW File, Code Resource File, data
+Final Cal/VERSION.DAT|45|d9da122921dfe16dbd180bf136a4b12eb475ceda4e0d3a61bd309d940f91849b|ASCII text, with CRLF line terminators
+Final Cal/nidaq.dll|2818048|b2674dcdbdfa067f3c6dcac6426aab13419a23a71109a5b2d06228a5e6d2018a|PE32 executable (DLL) (GUI) Intel 80386, for MS Windows
+GPIBDRV|16316|22b2ba7a2348a247239e6784019d39f4662908f06f24ecca5a87ab62e61cf68c|National Instruments, LabVIEW File, Code Resource File, data
+LC103 Final Cal/LC103 Cal Data.ini|1298|307f375976a84d55103dcfef1792f187a08e73ace4825468515bb4eeacd71938|Generic INItialization configuration [C Range0]
+LC103 Final Cal/LC103 Final Cal.aliases|42|076754fe66bc74a2d2860508a5d1117b160f8a91dbf9aba62f8571015c42053f|ASCII text, with CRLF line terminators
+LC103 Final Cal/LC103 Final Cal.ini|272|0616b14561624f365a78549b883ce53ada2c5d61766eb304a9ded41cf60ed6ab|ASCII text, with CRLF line terminators
+LC103 Final Cal/LC103 configData.nce|216048|cd0432c806342ce6efec4f5d10a54e24c310d620e5e92c43ceee9049722fe223|data
+LC103 fixes.xlsx|14265|2bd7e2cca070323021df8e190eaff914dd1cfe39f4ef89cf792d2bc0670fe6c2|Microsoft Excel 2007+
+LC103 simplified operating instructions (pull chart).pdf|7931999|6210e34655f11fa901b7f076d2308d326e93777e0dc888fbcdf116a11b2bf17b|PDF document, version 1.3
+Old Cal Files/P071_03.CAL|143|75de7a0af35b07dd5d973731b6ad40964845361d56c6a3c3a83f9108f58e443d|ASCII text, with CRLF line terminators
+Old Cal Files/P072_10.CAL|289|aa13b9a8d6c54f4281e73c85f7823809f03fba9d46951ab0071b875f43f80fd1|ASCII text, with CRLF line terminators
+P071_03.CAL|143|75de7a0af35b07dd5d973731b6ad40964845361d56c6a3c3a83f9108f58e443d|ASCII text, with CRLF line terminators
+P072_1.cal|289|5dd41bdc62fca676a491ee89a6f217333c07c04be87578eadea71987e1439f44|ASCII text, with CRLF line terminators
+SERPDRV|7480|fd1ea70ec1b0028a6f23b706283e6e8bb475680277352e576ec74bcd3a0af9fa|National Instruments, LabVIEW File, Code Resource File, data
+Source/.DS_Store|6148|3b6022a8964016fda9639921845e5423c6be44e286b7127f792e8e6dcf949994|Apple Desktop Services Store
+Source/LV3_1/103f_cal.llb|4489264|42360778cbf6c34af96d8be014f1835e2d67c63da525a4b52c57e51d3c8e9795|National Instruments, LabVIEW File, VI Library, data
+Source/LV3_1/MAINB_II.LLB|2063838|8d5d1fb1ce404427f284f5d6fff4523e358385b75be12395ac51f95a507cc309|National Instruments, LabVIEW File, VI Library, data
+Source/LV3_1/PWRTEST.LLB|1664686|721d529537260629bd26cc04b5de5bc881903440f1434f0e9ca2045be4bbb559|National Instruments, LabVIEW File, VI Library, data
+Source/LV5_1/103f_cal.llb|4733470|11c3a185fb6cd0cc7479b9091fe8c3ef7ef5d80a57270bb9debabeb625f60d9a|National Instruments, LabVIEW File, VI Library, data
+Source/LV5_1/Fluke 8840A.vi|61167|efb4902ffff3c014294f9fbc2fefcdb8b9bb38b02ec7fb1b4a717ed451205965|National Instruments, LabVIEW File, Virtual Instrument Program, data
+Source/LV5_1/Mainb_ii.llb|2189840|61c5a0673ef17babcad874c9f92d31e5de03025253d33e1f02528d5f49794cd4|National Instruments, LabVIEW File, VI Library, data
+Source/LV5_1/Pwrtest.llb|1727221|b7424d6596e342c60af040c583d3b9fde87bf73b1fe330235b8d1f081cbcf6de|National Instruments, LabVIEW File, VI Library, data
+Source/LV6/103f_cal.llb|4062090|3567fd69b5d600e8f8efa7de14aed735158d82bbd74d79fb2ac0b0c7db182bd4|National Instruments, LabVIEW File, VI Library, data
+Source/LV6/Fluke 8840A.vi|61167|efb4902ffff3c014294f9fbc2fefcdb8b9bb38b02ec7fb1b4a717ed451205965|National Instruments, LabVIEW File, Virtual Instrument Program, data
+Source/LV6/Mainb_ii.llb|2006200|c91cd6357a0e911cae614e7fb7615c64af8772e3fdbf318746bfc3a922f5b798|National Instruments, LabVIEW File, VI Library, data
+Source/LV6/Pwrtest.llb|1601461|b243fc631b2a569df14130c355351f3c7b64b92ebdcd5e1d83f93ac8432a98ac|National Instruments, LabVIEW File, VI Library, data
+Source/lv8/103f_cal.llb|2062602|e5b8837d20fadd2f02d05ab060dfaf85743d91071cfbd3a539d5a0262b79755a|National Instruments, LabVIEW File, VI Library, data
+Source/lv8/warnings.txt|6611|56abf516747425d294625dbc7c78d5a7a9ca4a64f94274da9f243f592b2ce193|ASCII text, with CRLF line terminators
+VERSION.DAT|45|d9da122921dfe16dbd180bf136a4b12eb475ceda4e0d3a61bd309d940f91849b|ASCII text, with CRLF line terminators
+configData.nce|216048|cd0432c806342ce6efec4f5d10a54e24c310d620e5e92c43ceee9049722fe223|data
+nidaq32.zip|957760|124d07320363afd1aac37883e2dde914d0b656331d332c88ac27ca4d9bf62969|Zip archive data, at least v2.0 to extract, compression method=deflate
+nidaq32/README.txt|1983|4d4542000c69ff475e173a8db85bea5fdfc65198bf00ef75b2f3875c97f70bd2|Unicode text, UTF-8 (with BOM) text, with very long lines (640), with CRLF line terminators
+nidaq32/nidaq32.dll|2818048|b2674dcdbdfa067f3c6dcac6426aab13419a23a71109a5b2d06228a5e6d2018a|PE32 executable (DLL) (GUI) Intel 80386, for MS Windows

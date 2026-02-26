@@ -1,0 +1,186 @@
+<?xml version='1.0' encoding='utf-8'?>
+<RSRC FormatVersion="3" Type="LVIN" Encoding="mac_roman" Int1="0xF04E2400" Int2="0x0021C8B2">
+  <RSID>
+    <!-- Generic block -->
+    <Section Index="0" Name="COMP_CF.vi" Int5="0xCCDD2300" Format="bin" File="COMP_CF_RSID.bin" />
+    </RSID>
+  <TRec>
+    <!-- Type Descriptor Record -->
+    <Section Index="2" Int5="0xA05B2400" Format="bin" File="COMP_CF_TRec2.bin" />
+    <Section Index="3" Int5="0xA45B2400" Format="bin" File="COMP_CF_TRec3.bin" />
+    <Section Index="4" Int5="0x44DC2300" Format="bin" File="COMP_CF_TRec4.bin" />
+    <Section Index="5" Int5="0xE0D92300" Format="bin" File="COMP_CF_TRec5.bin" />
+    <Section Index="6" Int5="0x78DB2300" Format="bin" File="COMP_CF_TRec6.bin" />
+    <Section Index="7" Int5="0x94DB2300" Format="bin" File="COMP_CF_TRec7.bin" />
+    <Section Index="8" Int5="0xB4DD2300" Format="bin" File="COMP_CF_TRec8.bin" />
+    <Section Index="9" Int5="0xC8DC2300" Format="bin" File="COMP_CF_TRec9.bin" />
+    <Section Index="10" Int5="0x20D12300" Format="bin" File="COMP_CF_TRec10.bin" />
+    <Section Index="11" Int5="0x5CDB2300" Format="bin" File="COMP_CF_TRec11.bin" />
+    <Section Index="12" Int5="0x60DA2300" Format="bin" File="COMP_CF_TRec12.bin" />
+    <Section Index="13" Int5="0x68DA2300" Format="bin" File="COMP_CF_TRec13.bin" />
+    <Section Index="14" Int5="0xA8DD2300" Format="bin" File="COMP_CF_TRec14.bin" />
+    <Section Index="15" Int5="0x78DE2300" Format="bin" File="COMP_CF_TRec15.bin" />
+    <Section Index="16" Int5="0xB0DD2300" Format="bin" File="COMP_CF_TRec16.bin" />
+    <Section Index="17" Int5="0x04D92300" Format="bin" File="COMP_CF_TRec17.bin" />
+    <Section Index="18" Int5="0x80DE2300" Format="bin" File="COMP_CF_TRec18.bin" />
+    <Section Index="19" Int5="0xD0DD2300" Format="bin" File="COMP_CF_TRec19.bin" />
+    </TRec>
+  <LIfp>
+    <!-- LinkObj Refs for Front Panel -->
+    <Section Index="0" Name="COMP_CF.vi" Int5="0x9CDD2300" Format="inline">
+      <FPHP Unk1="COMP_CF.vi" Unk2="" />
+      </Section>
+    </LIfp>
+  <FPHP>
+    <!-- Front Panel Heap -->
+    <Section Index="0" Name="COMP_CF.vi" Int5="0x00000000" Format="bin" File="COMP_CF_FPHP.bin" />
+    </FPHP>
+  <LIbd>
+    <!-- LinkObj Refs for Block diagram -->
+    <Section Index="0" Name="COMP_CF.vi" Int5="0xF4DA2300" Format="inline">
+      <BDHP Unk1="COMP_CF.vi" Unk2="" />
+      </Section>
+    </LIbd>
+  <BDHP>
+    <!-- Block Diagram Heap -->
+    <Section Index="0" Name="COMP_CF.vi" Int5="0x00000000" Format="bin" File="COMP_CF_BDHP.bin" />
+    </BDHP>
+  <VICD>
+    <!-- Virtual Instrument Compiled Data / VI Code -->
+    <Section Index="0" Name="COMP_CF.vi" Int5="0x00000000" Format="inline">
+      <General CodeID="i386" CodeFlags="0x0" Version="0x0" CompilerOptimizationLevel="0" />
+      <Code InitProcOffset="0x7C2" NumberOfBasicBlocks="0" HostCodeEntryVI="0x0" SignatureName="0x0" Format="bin" File="COMP_CF_VICD_code.bin" />
+      <Patches PaddedSize="364" Type="LVRT" Format="inline">
+        <Patch Offset="0x0016" Ident="0xfffffffb" />
+        <Patch Offset="0x0040" Ident="0x0302" />
+        <Patch Offset="0x0056" Ident="0xfffffffb" />
+        <Patch Offset="0x0077" Ident="0x030f" />
+        <Patch Offset="0x022b" Ident="0x0307" />
+        <Patch Offset="0x026b" Ident="0x030c" />
+        <Patch Offset="0x0351" Ident="0x030a" />
+        <Patch Offset="0x036e" Ident="0x0302" />
+        <Patch Offset="0x03bc" Ident="0x030a" />
+        <Patch Offset="0x03d9" Ident="0x0302" />
+        <Patch Offset="0x0427" Ident="0x030a" />
+        <Patch Offset="0x0444" Ident="0x0302" />
+        <Patch Offset="0x04c7" Ident="0x030a" />
+        <Patch Offset="0x04e4" Ident="0x0302" />
+        <Patch Offset="0x0532" Ident="0x030a" />
+        <Patch Offset="0x054f" Ident="0x0302" />
+        <Patch Offset="0x05bf" Ident="0x030a" />
+        <Patch Offset="0x05dc" Ident="0x0302" />
+        <Patch Offset="0x0622" Ident="0x0307" />
+        <Patch Offset="0x0653" Ident="0x030c" />
+        <Patch Offset="0x0707" Ident="0x0306" />
+        <Patch Offset="0x0730" Ident="0x0310" />
+        <Patch Offset="0x0752" Ident="0xfffffffb" />
+        <Patch Offset="0x0763" Ident="0x0300" />
+        <Patch Offset="0x07ae" Ident="0x0301" />
+        <Patch Offset="0x085f" Ident="0x0411" />
+        <Patch Offset="0x08c1" Ident="0x0305" />
+        <Patch Offset="0x0948" Ident="0x0303" />
+        <Patch Offset="0x0959" Ident="0x030b" />
+        <Patch Offset="0x0973" Ident="0x0304" />
+        <Patch Offset="0x0992" Ident="0x0300" />
+        <Patch Offset="0x09d8" Ident="0x0301" />
+        <Patch Offset="0x0a63" Ident="0x0309" />
+        <Patch Offset="0x0a72" Ident="0x037d" />
+        <Patch Offset="0x0b79" Ident="0x0411" />
+        <Patch Offset="0x0bec" Ident="0x0411" />
+        <Patch Offset="0x0cbc" Ident="0x0411" />
+        <Patch Offset="0x0d14" Ident="0x0308" />
+        <Patch Offset="0x0d89" Ident="0x0308" />
+        <Patch Offset="0x0dfe" Ident="0x0308" />
+        <Patch Offset="0x0e73" Ident="0x0308" />
+        <Patch Offset="0x0ee8" Ident="0x0308" />
+        <Patch Offset="0x0f5d" Ident="0x0308" />
+        <Patch Offset="0x0fe4" Ident="0x0411" />
+        <Patch Offset="0x1238" Ident="0x0411" />
+        </Patches>
+      </Section>
+    </VICD>
+  <CPTM>
+    <!-- Connector Pane Type Map -->
+    <Section Index="0" Name="COMP_CF.vi" Int5="0x00000000" Format="bin" File="COMP_CF_CPTM.bin" />
+    </CPTM>
+  <LIds>
+    <!-- LinkObj Refs for Data Space -->
+    <Section Index="0" Name="COMP_CF.vi" Int5="0x40DD2300" Format="inline">
+      <VIDS Unk1="COMP_CF.vi" Unk2="" />
+      </Section>
+    </LIds>
+  <DFDS>
+    <!-- Default Fill of Data Space -->
+    <Section Index="0" Name="COMP_CF.vi" Int5="0x50DA2300" Format="bin" File="COMP_CF_DFDS.bin" />
+    </DFDS>
+  <DSTM>
+    <!-- Data Space Type Map -->
+    <Section Index="0" Name="COMP_CF.vi" Int5="0x00000000" Format="bin" File="COMP_CF_DSTM.bin" />
+    </DSTM>
+  <vers>
+    <!-- Version block -->
+    <Section Index="4" Int5="0x58D92300" Format="inline">
+      <Version Major="3" Minor="1" Bugfix="0" Stage="beta" Build="4" Language="0" Info="3.1b4" Comment="Oldest compatible LabVIEW." />
+      </Section>
+    </vers>
+  <STRG>
+    <!-- String description / descriptions list -->
+    <Section Index="0" Name="COMP_CF.vi" Int5="0x00000000" Format="inline" />
+    </STRG>
+  <HIST>
+    <!-- Changes History -->
+    <Section Index="0" Name="COMP_CF.vi" Int5="0x00000000" Format="bin" File="COMP_CF_HIST.bin" />
+    </HIST>
+  <ICON>
+    <!-- Icon 32x32 1bpp -->
+    <Section Index="0" Name="COMP_CF.vi" Int5="0xACDE2300" Format="png" File="COMP_CF_ICON.png" />
+    </ICON>
+  <icl4>
+    <!-- Icon Large 32x32 4bpp -->
+    <Section Index="0" Name="COMP_CF.vi" Int5="0x88D92300" Format="png" File="COMP_CF_icl4.png" />
+    </icl4>
+  <LIvi>
+    <!-- LinkObj Refs for VI -->
+    <Section Index="0" Name="COMP_CF.vi" Int5="0xACDD2300" Format="inline">
+      <LVIN Unk1="COMP_CF.vi" Unk2="02f000060048050205030200020000000200000c400a064f666673657400000a400a05536c6f70650010400a0a41637475616c204c6f77000010400a0b41637475616c2048696768000e400a094d6561732e204c6f770010400a0a4d6561732e204869676800" />
+      </Section>
+    </LIvi>
+  <DLDR>
+    <!-- DataLog Data Record -->
+    <Section Index="0" Name="COMP_CF.vi" Int5="0x00000000" Prop1="2377992" Prop2="0" Prop3="000002d80000034c000000000000000000000382" Format="inline" />
+    </DLDR>
+  <LVIN>
+    <!-- LabView Instrument -->
+    <Section Index="0" Name="COMP_CF.vi" Int5="0x00000000" Format="bin" File="COMP_CF_LVIN.bin" />
+    </LVIN>
+  <FTAB>
+    <!-- Font Table -->
+    <Section Index="128" Int5="0xBCDA2300" Prop1="0x10000" Prop3="3" Format="inline">
+      <Font Prop2="14" Prop3="0" Prop4="0" Prop6="14" Prop7="204" Prop8="197">
+        <Name>Arial</Name>
+        </Font>
+      <Font Prop2="16" Prop3="8192" Prop4="500" Prop6="16" Prop7="274" Prop8="259">
+        <Name>System</Name>
+        </Font>
+      <Font Prop2="12" Prop3="0" Prop4="1000" Prop6="13" Prop7="240" Prop8="230">
+        <Name>MS Sans Serif</Name>
+        </Font>
+      <Font Prop2="0" Prop3="0" Prop4="0" Prop6="0" Prop7="0" Prop8="0" />
+      <Font Prop2="32768" Prop3="32768" Prop4="32768" Prop6="14" Prop7="204" Prop8="197">
+        <Name>0</Name>
+        </Font>
+      <Font Prop2="0" Prop3="0" Prop4="0" Prop6="0" Prop7="0" Prop8="0" />
+      <Font Prop2="0" Prop3="0" Prop4="0" Prop6="0" Prop7="0" Prop8="0" />
+      <Font Prop2="0" Prop3="0" Prop4="0" Prop6="0" Prop7="0" Prop8="0" />
+      <Font Prop2="0" Prop3="0" Prop4="0" Prop6="0" Prop7="0" Prop8="0" />
+      <Font Prop2="0" Prop3="0" Prop4="0" Prop6="0" Prop7="0" Prop8="0" />
+      <Font Prop2="0" Prop3="0" Prop4="0" Prop6="0" Prop7="0" Prop8="0" />
+      <Font Prop2="0" Prop3="0" Prop4="0" Prop6="0" Prop7="0" Prop8="0" />
+      <Font Prop2="0" Prop3="0" Prop4="0" Prop6="0" Prop7="0" Prop8="0" />
+      <Font Prop2="0" Prop3="0" Prop4="0" Prop6="0" Prop7="0" Prop8="0" />
+      <Font Prop2="0" Prop3="0" Prop4="0" Prop6="0" Prop7="0" Prop8="0" />
+      <Font Prop2="0" Prop3="0" Prop4="0" Prop6="0" Prop7="0" Prop8="0" />
+      <Font Prop2="0" Prop3="0" Prop4="0" Prop6="0" Prop7="0" Prop8="0" />
+      </Section>
+    </FTAB>
+  </RSRC>

@@ -1,0 +1,1 @@
+546529:f61c0 displays no dialog box. This is useful if you want to have programmatic control over how the error is handled.

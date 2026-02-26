@@ -1,0 +1,59 @@
+54233:1dfad1 pos offset specifies in characters how far from the location specified by pos mode that the operation begins. The default value is 0.
+54494:1e3da2 *Writes a string of characters to a byte stream file at the specified location; the default location is at the end of file. The VI does incoming and internal error checking and does not write if an incoming error occurs.
+54500:1e3fa1 pos offset specifies in characters how far from the location specified by pos mode that the operation begins. The default value is 0.
+75739:323a21 uqReads the number of characters specified by requested byte count from the serial port indicated in port number.
+100991:4a9e1c pos offset specifies in characters how far from the location specified by pos mode that the operation begins. The default value is 0.
+101388:4af7d2 Reads a string of characters from a byte stream file at the specified location; the default location is at the current mark. The VI does incoming and internal error checking and does not read if an incoming error occurs.
+101394:4af9d1 pos offset specifies in characters how far from the location specified by pos mode that the operation begins. The default value is 0.
+224526:1f5b1 pos offset specifies in characters how far from the location specified by pos mode that the operation begins. The default value is 0.
+224787:23882 *Writes a string of characters to a byte stream file at the specified location; the default location is at the end of file. The VI does incoming and internal error checking and does not write if an incoming error occurs.
+224793:23a81 pos offset specifies in characters how far from the location specified by pos mode that the operation begins. The default value is 0.
+224952:2506b *Writes a string of characters to a byte stream file at the specified location; the default location is at the end of file. The VI does incoming and internal error checking and does not write if an incoming error occurs.
+224958:2526a pos offset specifies in characters how far from the location specified by pos mode that the operation begins. The default value is 0.
+246060:162361 uqReads the number of characters specified by requested byte count from the serial port indicated in port number.
+246164:162d03 qReads the number of characters specified by requested byte count from the serial port indicated in port number.
+259388:221ecc pos offset specifies in characters how far from the location specified by pos mode that the operation begins. The default value is 0.
+259785:227882 Reads a string of characters from a byte stream file at the specified location; the default location is at the current mark. The VI does incoming and internal error checking and does not read if an incoming error occurs.
+259791:227a81 pos offset specifies in characters how far from the location specified by pos mode that the operation begins. The default value is 0.
+259959:229360 Reads a string of characters from a byte stream file at the specified location; the default location is at the current mark. The VI does incoming and internal error checking and does not read if an incoming error occurs.
+259965:22955f pos offset specifies in characters how far from the location specified by pos mode that the operation begins. The default value is 0.
+308282:eb956 uqReads the number of characters specified by requested byte count from the serial port indicated in port number.
+308384:ec2f3 qReads the number of characters specified by requested byte count from the serial port indicated in port number.
+372335:192b26 Reads a string of characters from a byte stream file at the specified location; the default location is at the current mark. The VI does incoming and internal error checking and does not read if an incoming error occurs.
+372341:192d25 pos offset specifies in characters how far from the location specified by pos mode that the operation begins. The default value is 0.
+372351:193410 pos offset specifies in characters how far from the location specified by pos mode that the operation begins. The default value is 0.
+394256:30cf67 *Writes a string of characters to a byte stream file at the specified location; the default location is at the end of file. The VI does incoming and internal error checking and does not write if an incoming error occurs.
+394262:30d166 pos offset specifies in characters how far from the location specified by pos mode that the operation begins. The default value is 0.
+396892:334dbb uqReads the number of characters specified by requested byte count from the serial port indicated in port number.
+404007:3a3a37 qReads the number of characters specified by requested byte count from the serial port indicated in port number.
+404043:3a4f48 Reads a string of characters from a byte stream file at the specified location; the default location is at the current mark. The VI does incoming and internal error checking and does not read if an incoming error occurs.
+404049:3a5147 pos offset specifies in characters how far from the location specified by pos mode that the operation begins. The default value is 0.
+405279:3b9da8 *Writes a string of characters to a byte stream file at the specified location; the default location is at the end of file. The VI does incoming and internal error checking and does not write if an incoming error occurs.
+405285:3b9fa7 pos offset specifies in characters how far from the location specified by pos mode that the operation begins. The default value is 0.
+405293:3ba508 pos offset specifies in characters how far from the location specified by pos mode that the operation begins. The default value is 0.
+441083:168104 uqReads the number of characters specified by requested byte count from the serial port indicated in port number.
+442990:185467 qReads the number of characters specified by requested byte count from the serial port indicated in port number.
+504744:1f31e7 Reads a string of characters from a byte stream file at the specified location; the default location is at the current mark. The VI does incoming and internal error checking and does not read if an incoming error occurs.
+504750:1f33e6 pos offset specifies in characters how far from the location specified by pos mode that the operation begins. The default value is 0.
+504915:1f5bdc pos offset specifies in characters how far from the location specified by pos mode that the operation begins. The default value is 0.
+520848:33c85f *Writes a string of characters to a byte stream file at the specified location; the default location is at the end of file. The VI does incoming and internal error checking and does not write if an incoming error occurs.
+520854:33ca5e pos offset specifies in characters how far from the location specified by pos mode that the operation begins. The default value is 0.
+521719:34caa8 uqReads the number of characters specified by requested byte count from the serial port indicated in port number.
+527344:3b2683 qReads the number of characters specified by requested byte count from the serial port indicated in port number.
+527380:3b3b94 Reads a string of characters from a byte stream file at the specified location; the default location is at the current mark. The VI does incoming and internal error checking and does not read if an incoming error occurs.
+527386:3b3d93 pos offset specifies in characters how far from the location specified by pos mode that the operation begins. The default value is 0.
+527675:3ba71a *Writes a string of characters to a byte stream file at the specified location; the default location is at the end of file. The VI does incoming and internal error checking and does not write if an incoming error occurs.
+527681:3ba919 pos offset specifies in characters how far from the location specified by pos mode that the operation begins. The default value is 0.
+527771:3bc672 pos offset specifies in characters how far from the location specified by pos mode that the operation begins. The default value is 0.
+556363:1a3f17 qReads the number of characters specified by requested byte count from the serial port indicated in port number.
+558323:1c6bdd uqReads the number of characters specified by requested byte count from the serial port indicated in port number.
+596714:f1b67 *Writes a string of characters to a byte stream file at the specified location; the default location is at the end of file. The VI does incoming and internal error checking and does not write if an incoming error occurs.
+596720:f1d66 pos offset specifies in characters how far from the location specified by pos mode that the operation begins. The default value is 0.
+596743:f38e3 qReads the number of characters specified by requested byte count from the serial port indicated in port number.
+596779:f4df4 Reads a string of characters from a byte stream file at the specified location; the default location is at the current mark. The VI does incoming and internal error checking and does not read if an incoming error occurs.
+596785:f4ff3 pos offset specifies in characters how far from the location specified by pos mode that the operation begins. The default value is 0.
+597617:ff243 *Writes a string of characters to a byte stream file at the specified location; the default location is at the end of file. The VI does incoming and internal error checking and does not write if an incoming error occurs.
+597623:ff442 pos offset specifies in characters how far from the location specified by pos mode that the operation begins. The default value is 0.
+600529:131143 qReads the number of characters specified by requested byte count from the serial port indicated in port number.
+607652:1a9938 Reads a string of characters from a byte stream file at the specified location; the default location is at the current mark. The VI does incoming and internal error checking and does not read if an incoming error occurs.
+607658:1a9b37 pos offset specifies in characters how far from the location specified by pos mode that the operation begins. The default value is 0.

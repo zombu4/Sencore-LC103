@@ -1,0 +1,1039 @@
+3e z#y:
+7c z!yg
+8a z!y|
+33a z"y/
+596 q  ! 
+5a4 z"yA
+96c ~|'}
+eb5 {fzfy
+ef7 {3z3ysx?
+f61 {fzfy
+fa1 {3z3ysx?
+1358 y xA
+1363 y@x@
+13b6 y@x@
+13fc y xA
+1407 y@x@
+1463 y@x@
+1496 DJ0$/
+1630 z"yS
+163e z"ye
+1744 `E@C
+174f z"yw
+186f z"ye
+18a3 `E@C
+1aae DVE
+1be4 {RzIy
+1d1b `c@a
+1d38 `$@"
+1d4e }x|F
+1d92 }F|E
+1dde }K|@
+1dff }~|A
+1e0e ~$}t|I
+1e2d DVIt$
+1f54 0! %
+1ff1 z#yE
+2003 z#yG~
+2016 z#yI~
+205e })|E
+2073 `>@<
+2125 z#y-
+2166 "   LC103 SOFTWARE   
+217c     VERSION 1.53    
+2191 CALIBRATED
+219c   UNIT REQUIRES  
+21ae    CALIBRATION!  
+21c0                  
+21d2                     
+21e7   LOW BATTERY,   
+21f9   POWERING DOWN  
+220b WAIT             
+221d VOLTAGE ON LEADS 
+222f FUSE OPEN        
+2241      READY       
+2253 LEAD ZERO SHORT  
+2265 TEST IN PROGRESS 
+2277 LEAD RESISTANCE  
+2289 OUT OF ZERO RANGE
+229b ERROR 4
+22a3 LEAD INDUCTANCE  
+22b5      DONE        
+22cb CHECK LEADS,      
+22de APPEAR SHORTED    
+22f1 LEAD ZERO OPEN   
+2303 LEAD CAPACITANCE 
+2319  SUGGEST REMOVAL 
+232d BATT CHARGE 
+2744 p,02)
+2773 p002-
+2806 d,` 
+28a9 d;pX0)U
+2991 k07h
+2ae3 d'`
+2d6b "Alum Lytic 
+2d78 Dbl Lytic  
+2d84 High R Dbl 
+2d90 Tantalum   
+2d9c Ceramic    
+2da8 Other Caps 
+2db4 Coils      
+2dc0 Yokes & FB 
+2dcc Sw Xformer 
+2dd8 None       
+2de8                  
+2e11   NO COMPONENT   
+2e23   TYPE SELECTED  
+2e3d 0.00
+2e4d Error
+2e55                  
+2e73 CAPACITOR TEST   
+2e85 IN PROGRESS      
+2e97 APPEARS SHORTED 
+2ea8 SUGGEST REMOVAL 
+2ebb Out of Range    
+2ecc                 
+2edd Cap value is out 
+2eef of range for ESR.
+2f01 APPEARS OPEN,    
+2f13 CHECK CONNECTIONS
+2f2a >2000
+2f38       SHORT      
+2f4e         
+2f57 CAP DISCHARGING 
+2f68       GOOD      
+2f79  GOOD
+2f7f       BAD       
+2f90  BAD 
+2f96       GOOD??    
+2fa7       BAD??     
+2fbd CAP TOO SMALL
+2fcb LEADS SHORTED
+2fd9 CAP TOO LARGE
+2fe9 DA, THEN LEAKAGE
+2ffa   BAD
+3000  GOOD
+3006 improper selection
+3026 CALON
+302c CALOFF
+3033 CALIBRATED
+303e UNIT IS CALIBRATED
+3051 UNIT IS NOT CALIBRATED
+3068 CALSET
+306f CALCLR
+3076 CALF...
+307e ISRC 1uA
+3087 ISRC 10uA
+3091 ISRC 33uA
+309b ISRC 100uA
+30a6 ISRC 1mA
+30af ISRC 10mA
+30b9 ISRC 100mA
+30c4 ISRC OFF
+30cd GAIN%d %6.4f
+30da ERROR %6.4f
+30e6 CLRPAR
+30ed Alum Lytic 
+30fd Other Caps 
+310d Ceramic    
+311d Coils      
+312d Dbl Lytic  
+313d Sw Xformer 
+314d Tantalum   
+315d High R Dbl 
+316d Yokes & FB 
+317d No Type    
+31a4 1000
+31b1 BEEP
+31b6 1.53
+31bf GAIN
+31c4 ISRC
+31cd CALF
+31d2 %6.4e
+31d8 CALCHK
+31df SER#
+31e4 SER#?
+3220 CALF?
+3226 CALDATE
+322e CALDATE?
+3237 COMPONENT TYPE   
+3249 SELECTION ERROR  
+325b ERROR 1
+3263 ENTERED VALUE    
+3275 BEYOND UNIT RANGE
+3287 ERROR 2
+328f BEYOND TEST RANGE
+32a1 ERROR 3
+32a9 VALUE BEYOND     
+32bb ZEROING LIMIT    
+32cd ERROR 4
+32d5 NO VOLTAGE      
+32e6 ENTERED         
+32f7 ERROR 5
+32ff INVALID RS232   
+3310 COMMAND         
+3321 ERROR 6
+3329 COMPONENT OUT   
+333a OF TEST RANGE   
+334b ERROR 7
+3353 ERROR 8          
+3365                  
+3377 ERROR 8
+337f NO VALUE         
+3391 ENTERED          
+3443 WAIT             
+3455 VOLTAGE ON LEADS 
+3467 EXITING: LOW BAT.
+3479 PLEASE ENTER
+3486 VOLTAGE
+348e RE-ENTER VOLTAGE
+349f VOLT OUT OF RANGE
+34b1 CAP OUT OF RANGE
+34c2  RE-ENTER VALUE
+34d2         
+34db >20mA
+34e7 NOT VALID TEST FOR CAP TYPE
+3503 CAP TYPE NOT FOUND
+3516 BAD 
+351b GOOD
+3520 > 20mA
+3527       
+352e %.2fmA
+3535 %1.0f?A
+353d %.1f?A
+3544 %.2f?A
+354b %03.2f?A
+3554  0.00?A
+355c  DISCHARGING CAP 
+356e FUSE OPEN        
+35f3    OVERRANGE
+3602       OPEN  
+3615                  
+3627     BAD 
+3632     GOOD
+36ad  0@PPP
+370b             
+3718           
+3723       
+372a        
+3732         
+373b    LC103 ReZolver   
+3790                 
+37a1       OPEN       
+37b7         
+37c9  RINGS
+37d0 GOOD
+37d7 BAD 
+37e2                  
+3ac2 NMLp
+3c3f )KJp
+3e32 z>yD
+3e37 "z>yM 
+3e3f z>yH"NaN
+3e48 +INF
+3e4d -INF
+4a9c MNOx {
+4acd XHvLHrBJ
+4adf CJ"UINFI
+4aee PHz-H~.H
+4b50 ;r?r>P
+4bbb "(null)
+4bc3 -PCIX
+4e2f y xA
+4ede [=cXG>u
+5071 zry1x?
+547b }Q|9
+561f ~$}t|I
+5678 z$ytxI
+574d z.y=
+575e z.yB
+582a z.yB
+583b z.yF
+5877 }z|D
+58d0 yzxD
+5907 z.yF
+5aff } |A
+5b58 y xA
+5c7a yzxD
+5ce4 yzxD
+5d01 ~$}t|I
+5d3c z.yF
+5f01 z.yM
+5fbb z.yU
+5fcf p 0
+6011 z.yg
+6022 z.yk
+6056  (a0
+6148 }l|@
+627e DVA`
+628c f~f}
+63af DV>L
+646a DVCH
+64dd }l|@
+66e4 }l|@
+66fd }4|C
+671f }^|F
+6776 }l|@
+67d8 }l|@
+68a8 }p|B
+68fb z$ytxI
+6a18 MNO`
+6b75 z.ys
+6cb0 `,@*
+6e08 MNO`
+6f60 z.yS
+6fd3 yYxD
+7179 yzxD
+71d6 }p|B
+724e ~P}C|H
+72dd yzxD
+7337 `*@(
+734f DVD/
+73d6 z$ytxH
+748d ypx?
+74ec DVE30
+7556 DVCH
+759d } |A
+75d1 yVx4
+7608 p9 .6
+76be  (h 
+7824 }Q|9
+7839 `|@z
+7914 ~P}C|H
+793d ~P}C|H
+7998 Jp8 
+79d6 Jpm 
+7b35 z$ytxH
+7bd8 ypx?
+7ce2 } |A
+7d16 yVx4
+832a DVCH
+8351 DVA 
+83b6 z$ytxI
+83cb } |A
+83d6 y xA
+8451 b~`}e|D
+8478 }l|E
+849b b~`}e|D
+84c2 }l|E
+8536 DV> 
+854e DV@ 
+855a DVA 
+894a DV> 
+8962 DV@ 
+896e DVA 
+8ab8 yYxD
+8de5 } |A
+8e4e y xA
+8f90 } |A
+8fe0 y xA
+91c1 z/y*
+92da z/y0
+92eb z/y4
+931f  (b0
+967b }z|D
+97ce }H|C
+9e36 `b@`
+9ee1 ~`}j|
+9efc yMxC
+9f67 ddp)
+a039 }l|@
+a14c z/y8
+a15a z.yU
+a16c z/yJ
+a261 3~3}
+a2b0 } |A
+a2cd DVA 
+a2f4 z.yU
+a320 DV@@
+a396 z/yN
+a490 MNO`
+a4a3 }z|D
+a516 }+|F
+a5b1 MNO`
+a5c4 }z|D
+a637 }+|F
+a6d7 DVBH
+a700 DVA 
+a78b }H|B
+a7ac }H|B
+a8a7 }L|?
+a90d DV<#
+abe7 }0|A
+ac8d Q~k}
+acd8 {pz'y
+acef DVA 
+ad45 `2@0
+aee2 DVA 
+af16 DVBH
+b03d Q~k}
+b088 {pz'y
+b0e9 `$@"
+b123 }0|A
+b1b6 Q~k}
+b201 {pz'y
+b262 `$@"
+b28f } |A
+b395 `N@L
+b43b z/yW
+b449 z.yU
+b45f z.ys
+b4aa z.yS
+b50d z/yh
+b51d z/yy
+b68c z0y&
+b698 .x9|
+b6a1 z0y,
+b6dd z0y3
+b6ef z0y>
+b700 z0yQ
+b726 z0y3
+b752 z0yh
+b778 z0yo
+b7e0 z0yv
+b83f z0y~
+b847 ux9|
+b858 dx9|
+b869 Sx9|
+b87a Bx9|
+b88b 1x9|
+b89c  x9|
+b9e1 } |@
+bb55 {3z3y
+bbdc y`xA
+bd6b  x9|
+bdd7 Gkx9|
+be0b Gkx9|
+be3f Gkx9|
+be7f Gkx9|
+be89 z1y)
+beb4 z1y-
+bec9 z1y9
+befa z1y=
+beff Gkx9|
+bf09 z1yI
+bf2e z1yM
+bf33 Gkx9|
+bf3d z1yY
+bf6e z1y]
+bf73 Gkx9|
+bf7d z1yi
+bfad z1ym
+bfb2 Gkx9|
+bfbc z1yy
+bfe3 z1y}
+bfe8 Gkx9|
+c2b9 ~$}t|I
+c313 ~$}t|I
+c62f }z|D
+c887 DJxJ|
+c955 }z|D
+c990 ya}.
+ca0a }y|D
+ca25 DVDz
+ca8d } |A
+cab7 y xA
+caf0 JK`#
+ccaa MS%@
+ce37 d,p`
+d0da d-pM
+d112 ANxJ|
+d364 DJxJ|
+d4cc p"xJ|
+d4d6 z0y&
+d523 -xJ|
+d52c z0y,
+d566 dSpZ
+d592 -xJ|
+d59b z0yh
+d5e2 dLpG
+d5ec dRp=
+d5fa p1xJ|
+d604 z0yo
+d660 -xJ|
+d80b p"xJ|
+d9ad d.ps
+db02 Gkx-|
+db11 Gkx<|
+db1b z1y)
+db20 GkxK|
+db2a z1y9
+db2f GkxZ|
+db39 z1yI
+db3e Gkxi|
+db48 z1yY
+db4d Gkxx|
+db57 z1yi
+db66 z1yy
+dc01 Gkx,|
+dc10 Gkx;|
+dc1f GkxJ|
+dc2e GkxY|
+dc3d Gkxh|
+dc4c Gkxw|
+dc65 z2y
+dcfb z2y 
+dd00 Gkx+|
+dd0f Gkx:|
+dd1e GkxI|
+dd28 z0y&
+dd2d GkxX|
+dd37 z0y,
+dd3c Gkxg|
+dd46 z0yh
+dd4b Gkxv|
+dd55 z0yo
+dd73 z2y&
+dd82 z2y.
+df63 d pg
+e1aa d pg
+e2c0 d pg
+e3ab d pg
+e55c B;dE
+e86f z2y7
+e87d z2yI
+e88c z2y[
+e89d z2yc
+e8ab z2yu
+e8cb z2yc
+e972 z3y!
+e982 z3y)
+e990 z3y:
+e99f z3yK
+e9af z3yS
+e9bd z3ye
+e9cc z3yw
+eacd } |A
+edbf z4y>~
+ee5b  ,!{
+ee60 z$ytxI
+ef37 z$ytxI
+1003e z#y:
+1007c z!yg
+1008a z!y|
+1033a z"y/
+10596 q  ! 
+105a4 z"yA
+1096c ~|'}
+10eb5 {fzfy
+10ef7 {3z3ysx?
+10f61 {fzfy
+10fa1 {3z3ysx?
+11358 y xA
+11363 y@x@
+113b6 y@x@
+113fc y xA
+11407 y@x@
+11463 y@x@
+11496 DJ0$/
+11630 z"yS
+1163e z"ye
+11744 `E@C
+1174f z"yw
+1186f z"ye
+118a3 `E@C
+11aae DVE
+11be4 {RzIy
+11d1b `c@a
+11d38 `$@"
+11d4e }x|F
+11d92 }F|E
+11dde }K|@
+11dff }~|A
+11e0e ~$}t|I
+11e2d DVIt$
+11f54 0! %
+11ff1 z#yE
+12003 z#yG~
+12016 z#yI~
+1205e })|E
+12073 `>@<
+12125 z#y-
+12166 "   LC103 SOFTWARE   
+1217c     VERSION 1.53    
+12191 CALIBRATED
+1219c   UNIT REQUIRES  
+121ae    CALIBRATION!  
+121c0                  
+121d2                     
+121e7   LOW BATTERY,   
+121f9   POWERING DOWN  
+1220b WAIT             
+1221d VOLTAGE ON LEADS 
+1222f FUSE OPEN        
+12241      READY       
+12253 LEAD ZERO SHORT  
+12265 TEST IN PROGRESS 
+12277 LEAD RESISTANCE  
+12289 OUT OF ZERO RANGE
+1229b ERROR 4
+122a3 LEAD INDUCTANCE  
+122b5      DONE        
+122cb CHECK LEADS,      
+122de APPEAR SHORTED    
+122f1 LEAD ZERO OPEN   
+12303 LEAD CAPACITANCE 
+12319  SUGGEST REMOVAL 
+1232d BATT CHARGE 
+12744 p,02)
+12773 p002-
+12806 d,` 
+128a9 d;pX0)U
+12991 k07h
+12ae3 d'`
+12d6b "Alum Lytic 
+12d78 Dbl Lytic  
+12d84 High R Dbl 
+12d90 Tantalum   
+12d9c Ceramic    
+12da8 Other Caps 
+12db4 Coils      
+12dc0 Yokes & FB 
+12dcc Sw Xformer 
+12dd8 None       
+12de8                  
+12e11   NO COMPONENT   
+12e23   TYPE SELECTED  
+12e3d 0.00
+12e4d Error
+12e55                  
+12e73 CAPACITOR TEST   
+12e85 IN PROGRESS      
+12e97 APPEARS SHORTED 
+12ea8 SUGGEST REMOVAL 
+12ebb Out of Range    
+12ecc                 
+12edd Cap value is out 
+12eef of range for ESR.
+12f01 APPEARS OPEN,    
+12f13 CHECK CONNECTIONS
+12f2a >2000
+12f38       SHORT      
+12f4e         
+12f57 CAP DISCHARGING 
+12f68       GOOD      
+12f79  GOOD
+12f7f       BAD       
+12f90  BAD 
+12f96       GOOD??    
+12fa7       BAD??     
+12fbd CAP TOO SMALL
+12fcb LEADS SHORTED
+12fd9 CAP TOO LARGE
+12fe9 DA, THEN LEAKAGE
+12ffa   BAD
+13000  GOOD
+13006 improper selection
+13026 CALON
+1302c CALOFF
+13033 CALIBRATED
+1303e UNIT IS CALIBRATED
+13051 UNIT IS NOT CALIBRATED
+13068 CALSET
+1306f CALCLR
+13076 CALF...
+1307e ISRC 1uA
+13087 ISRC 10uA
+13091 ISRC 33uA
+1309b ISRC 100uA
+130a6 ISRC 1mA
+130af ISRC 10mA
+130b9 ISRC 100mA
+130c4 ISRC OFF
+130cd GAIN%d %6.4f
+130da ERROR %6.4f
+130e6 CLRPAR
+130ed Alum Lytic 
+130fd Other Caps 
+1310d Ceramic    
+1311d Coils      
+1312d Dbl Lytic  
+1313d Sw Xformer 
+1314d Tantalum   
+1315d High R Dbl 
+1316d Yokes & FB 
+1317d No Type    
+131a4 1000
+131b1 BEEP
+131b6 1.53
+131bf GAIN
+131c4 ISRC
+131cd CALF
+131d2 %6.4e
+131d8 CALCHK
+131df SER#
+131e4 SER#?
+13220 CALF?
+13226 CALDATE
+1322e CALDATE?
+13237 COMPONENT TYPE   
+13249 SELECTION ERROR  
+1325b ERROR 1
+13263 ENTERED VALUE    
+13275 BEYOND UNIT RANGE
+13287 ERROR 2
+1328f BEYOND TEST RANGE
+132a1 ERROR 3
+132a9 VALUE BEYOND     
+132bb ZEROING LIMIT    
+132cd ERROR 4
+132d5 NO VOLTAGE      
+132e6 ENTERED         
+132f7 ERROR 5
+132ff INVALID RS232   
+13310 COMMAND         
+13321 ERROR 6
+13329 COMPONENT OUT   
+1333a OF TEST RANGE   
+1334b ERROR 7
+13353 ERROR 8          
+13365                  
+13377 ERROR 8
+1337f NO VALUE         
+13391 ENTERED          
+13443 WAIT             
+13455 VOLTAGE ON LEADS 
+13467 EXITING: LOW BAT.
+13479 PLEASE ENTER
+13486 VOLTAGE
+1348e RE-ENTER VOLTAGE
+1349f VOLT OUT OF RANGE
+134b1 CAP OUT OF RANGE
+134c2  RE-ENTER VALUE
+134d2         
+134db >20mA
+134e7 NOT VALID TEST FOR CAP TYPE
+13503 CAP TYPE NOT FOUND
+13516 BAD 
+1351b GOOD
+13520 > 20mA
+13527       
+1352e %.2fmA
+13535 %1.0f?A
+1353d %.1f?A
+13544 %.2f?A
+1354b %03.2f?A
+13554  0.00?A
+1355c  DISCHARGING CAP 
+1356e FUSE OPEN        
+135f3    OVERRANGE
+13602       OPEN  
+13615                  
+13627     BAD 
+13632     GOOD
+136ad  0@PPP
+1370b             
+13718           
+13723       
+1372a        
+13732         
+1373b    LC103 ReZolver   
+13790                 
+137a1       OPEN       
+137b7         
+137c9  RINGS
+137d0 GOOD
+137d7 BAD 
+137e2                  
+13ac2 NMLp
+13c3f )KJp
+13e32 z>yD
+13e37 "z>yM 
+13e3f z>yH"NaN
+13e48 +INF
+13e4d -INF
+14a9c MNOx {
+14acd XHvLHrBJ
+14adf CJ"UINFI
+14aee PHz-H~.H
+14b50 ;r?r>P
+14bbb "(null)
+14bc3 -PCIX
+14e2f y xA
+14ede [=cXG>u
+15071 zry1x?
+15652 z-yl
+1567d z-yx
+157f5 z.y5~
+15846 d Np
+15888 d Np
+158c6 d Np
+15913 d@N`
+15970 d.`'
+159c6 .5xa|
+15a01 d.p_
+15c8e @7x\|
+15f7d ~$}t|I
+16104 } |A
+164e9 `5@3
+16524 }z|D
+16611 } |A
+1664b y xA
+1665c ya}.
+16678 JK`#
+16966 }z|D
+16e29 z.y#
+1805b 3~3}C|@
+18069 }@|@
+18163 }@|@
+1816b 3~3}C|@
+18533 DV?*
+18647 z6y_x?
+18902 00# - 
+18c09 dJp
+18f1a z4yC
+18f28 z4yU
+18f6b z4yg
+1900d z4yy
+1908c }z|D
+190a1 `]@[
+19122 }V|H
+19137 `c@a0
+19235 }a|@
+19286 }a|@
+19341 }@|@
+19527 }@|@
+1958e d0/?
+198ef `h@f
+1998b }H|B
+199b5 dxG|
+199c9 }H|B
+19a35 `Y@W
+19a3b dxG|
+19a4d ~$}t|I
+19aa3 !xG|
+19ab8 100o0(
+19acd d0+'
+19c92 yzxD
+19cbd {fz&y
+19db8 }@|A
+19e25 }H|B
+19e48 }H|B
+19f19 3~3}s|?
+1a001 DVA@
+1a177 y~x?
+1a31a "00N
+1a39e z4yg
+1a530 DJx~|
+1a586 `O@M
+1a5bc z5y'
+1a5d9 ~7}C|H
+1a5f0 ``@^
+1a609 yHxB
+1a66b `{@y
+1a6cb y~}?
+1a701 `x@v
+1a761 y~}?
+1a794 `z@x
+1a7aa yLx=
+1a7f4 y~}?
+1a84d y~}?
+1a992 dx~|
+1a99b z5yT
+1a9a6 y~}?
+1aa56 } |A
+1aa6b `|@z
+1aa97 }0|A
+1aaac `#@!
+1aaed } |A
+1ab02 `?@=
+1ab0a } |A
+1ab78 `#@!
+1ac2d } |A
+1ac6d }@|@
+1ad21 z5y\
+1ad4b 3~3}s|?
+1ada0 zpy}x?
+1ade5 1{fzfyfx?
+1ae02 `P@N
+1ae1b z5yn
+1ae46 z5yn
+1aea3 f~f}f|?
+1aee7 zpy}x?
+1af1b z5yn
+1af30 y@x@
+1b03e dx9|
+1b381 DVA@
+1b41d DVA@
+1b49e `?@=
+1b4c1 } |A
+1b530 dxl|
+1b544 }h|S
+1b570 yhxS
+1b599 `.@,
+1b5e2 `<@:
+1b5ed }L|=
+1b606 y xA
+1b68e (~k}n|N
+1b6bc {(zkynxN
+1b6e6 `.@,
+1b72f `9@7
+1b73a }L|=
+1b753 y xA
+1b7d9 ~$}t|I
+1b808 z$ytxI
+1b830 `.@,
+1b879 `<@:
+1b884 }L|=
+1b89d y xA
+1b928 }z|D
+1b957 yzxD
+1b97d `.@,
+1b9c6 `9@7
+1b9d1 }L|=
+1b9ea y xA
+1bab5 y xA
+1bc08 }H|B
+1bc28 }\|C
+1bc4b }\|C
+1bc69 }p|A
+1bca6 yxB
+1bd27 yxB
+1bd3a } |A
+1bdcf yxB
+1bde2 }p|A
+1be09 } |A
+1be30 DVDz
+1be9e yxB
+1bed8 } |A
+1bf0f }<|B
+1bf30 }|B
+1bf6d yxB
+1bfa7 } |A
+1bfc2 DVDz
+1bfff }|B
+1c03c yxB
+1c06b DVDz
+1c09f }p|A
+1c0ba DVD;
+1c0c6 } |A
+1c11e }|B
+1c15b yxB
+1c18a DVDz
+1c1b2 DVDm
+1c1be }p|A
+1c1e5 } |A
+1c21c }p|A
+1c23d }H|B
+1c27a yxB
+1c28e }|B
+1c2d1 DVD/
+1c305 }p|A
+1c32c } |A
+1c347 DVCz
+1c353 DVC\
+1c363 } |A
+1c384 }H|B
+1c39f DVDC
+1c3ac }|B
+1c423 }p|A
+1c43e DVCz
+1c44a } |A
+1c465 DVCH
+1c471 DVC 
+1c4a2 }H|B
+1c4bd DVD"
+1c50d DVCz
+1c519 }p|A
+1c534 DVCH
+1c540 } |A
+1c574 f~f}
+1c598 }H|B
+1c5c0 }|B
+1c5db DVCz
+1c62a DVCH
+1c636 }p|A
+1c66a 3~3}S|@
+1c68e }H|B
+1c6b6 }|B
+1c6d1 DVCH
+1c6f8 DVC\
+1c73b }|@
+1c75c }H|B
+1c777 DVCH
+1c783 }|B
+1c7c5 DVC4
+1c802 }H|B
+1c81d DVCH
+1c829 }|B
+1c86b DVC
+1c92d }@|@
+1c9be y4xB
+1c9f6 yxB
+1cb29 }@|@
+1cf46 {fzfyfx?
+1cfab {Bz`yex
+1d0fc y xA
+1d45c yzxD
+1d4f2 y xA
+1d52a yzxD
+1d581 yzxD
+1d5db ~g}U|6
+1d5f8 }K|@
+1d60d `)@'
+1d6cd yzxD
+1d79c }L|>
+1d7f4 }z|D
+1d853 }G|C
+1d86e } |A
+1d890 }z|D
+1d8f1 `#@!{
+1d8f9 y xA
+1d99d }L|>
+1d9ff yzxD
+1da4e }G|C
+1da75 y xA
+1da89 }z|D
+1dafc y xA
+1ddb2 }L|>
+1dff6 yzxD
+1e12e }G|C
+1e202 y xA
+1e225 }z|D
+1e5e7 z6y'
+1e5f6 z6y0
+1e64c z6y'
+1e65b z6y0
+1e666 z6y2
+1e675 z6y;
+1e69b z6y=
+1e6a0 Gk 0
+1e6d8 z6y?
+1e6f6 z6yC
+1e713 z6yG
+1e71e yzxD
+1e785 ~g}U|6
+1e7a2 }K|@
+1e891 yDx;
+1e8b2 y7x:
+1e9b0 yzxD
+1ea59 yzxD
+1eb06 yGxB
+1eb32 yGxB
+1eb75 }L|?
+1eb8e yGxB
+1eba1 }L|?
+1ebba yGxB
+1ec82 }L|?
+1eca3 }L|?
+1ecf7 yGxB
+1ed23 yGxB
+1ed37 z$ytxF
+1ed66 }L|?
+1ed7f yGxB
+1ed92 }L|?
+1edab yGxB
+1ee5d z$ytxF
+1ee73 }L|?
+1ee94 }L|?
+1f387 z7y#
+1f3a8 z7y*
+1f406 z7y2
+1f415 z7y;
+1f4d0 9H 0
+1f56c }@|@
+1f705 \x9|
+1fb96 \xK|
+1fbb0 \xK|
+1fbbe Gk00d0(
+1fbce `Wx9|

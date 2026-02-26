@@ -1,0 +1,1661 @@
+
+/Users/<user>/Downloads/LC103/Final Cal/nidaq.dll:	file format coff-i386
+Characteristics 0x210e
+	executable
+	line numbers stripped
+	symbols stripped
+	32 bit words
+	DLL
+
+Time/Date               Mon Mar  7 17:10:08 2005
+Magic                   010b	(PE32)
+MajorLinkerVersion      6
+MinorLinkerVersion      0
+SizeOfCode              001d8000
+SizeOfInitializedData   000e4000
+SizeOfUninitializedData 00000000
+AddressOfEntryPoint     00078210
+BaseOfCode              00001000
+BaseOfData              001d9000
+ImageBase               21000000
+SectionAlignment        00001000
+FileAlignment           00001000
+MajorOSystemVersion     4
+MinorOSystemVersion     0
+MajorImageVersion       4
+MinorImageVersion       133
+MajorSubsystemVersion   4
+MinorSubsystemVersion   0
+Win32Version            00000000
+SizeOfImage             002bd000
+SizeOfHeaders           00001000
+CheckSum                002be3ee
+Subsystem               00000002	(Windows GUI)
+DllCharacteristics      00000000
+SizeOfStackReserve      00100000
+SizeOfStackCommit       00001000
+SizeOfHeapReserve       00100000
+SizeOfHeapCommit        00001000
+LoaderFlags             00000000
+NumberOfRvaAndSizes     00000010
+
+The Data Directory
+Entry 0 001f00a0 0001686d Export Directory [.edata (or where ever we found it)]
+Entry 1 001edce8 00000118 Import Directory [parts of .idata]
+Entry 2 0029d000 00008d80 Resource Directory [.rsrc]
+Entry 3 00000000 00000000 Exception Directory [.pdata]
+Entry 4 00000000 00000000 Security Directory
+Entry 5 002a6000 00014d60 Base Relocation Directory [.reloc]
+Entry 6 00000000 00000000 Debug Directory
+Entry 7 00000000 00000000 Description Directory
+Entry 8 00000000 00000000 Special Directory
+Entry 9 00000000 00000000 Thread Storage Directory [.tls]
+Entry a 00000000 00000000 Load Configuration Directory
+Entry b 00000000 00000000 Bound Import Directory
+Entry c 001d9000 0000051c Import Address Table Directory
+Entry d 00000000 00000000 Delay Import Directory
+Entry e 00000000 00000000 CLR Runtime Header
+Entry f 00000000 00000000 Reserved
+
+The Import Tables:
+  lookup 001edee0 time 00000000 fwd 00000000 name 001ee574 addr 001d90e0
+
+    DLL Name: MSVCRT.dll
+    Hint/Ord  Name
+         324  _lseek
+         179  _close
+         535  _write
+         693  sscanf
+         408  _read
+         720  time
+         609  fscanf
+         220  _filelength
+          85  __dllonexit
+         390  _onexit
+         572  atof
+         308  _itoa
+         627  isdigit
+         649  labs
+         574  atol
+         676  qsort
+         449  _stricmp
+          97  __mb_cur_max
+         709  strstr
+         277  _isctype
+         724  toupper
+         398  _pctype
+         695  strchr
+         606  free
+         707  strrchr
+         657  malloc
+         565  abs
+         655  log10
+         704  strncmp
+         568  asin
+         598  fmod
+         694  strcat
+         691  sqrt
+         160  _assert
+         688  sin
+         664  memmove
+         569  atan
+         580  cos
+         605  fread
+         610  fseek
+         612  ftell
+         654  log
+         446  _strdate
+         573  atoi
+         597  floor
+         577  ceil
+         669  pow
+         663  memcpy
+         614  fwrite
+         257  _getpid
+         599  fopen
+         705  strncpy
+         680  remove
+         391  _open
+         588  fclose
+         690  sprintf
+         202  _except_handler3
+         587  fabs
+         241  _ftol
+         665  memset
+         402  _purecall
+         698  strcpy
+         702  strlen
+         696  strcmp
+         463  _tell
+         387  _mktemp
+
+  lookup 001ede28 time 00000000 fwd 00000000 name 001ee8a4 addr 001d9028
+
+    DLL Name: KERNEL32.dll
+    Hint/Ord  Name
+         206  GetComputerNameA
+         349  GetSystemTime
+         373  GetVersionExA
+         282  GetLastError
+         667  SystemTimeToFileTime
+         381  GetWindowsDirectoryA
+         314  GetPrivateProfileStringA
+         776  lstrlenA
+         372  GetVersion
+          63  CreateMutexA
+         248  GetCurrentProcessId
+         662  Sleep
+          74  CreateThread
+         555  ResetEvent
+         268  GetExitCodeThread
+         267  GetExitCodeProcess
+         647  SetThreadPriority
+         688  UnmapViewOfFile
+         493  OpenMutexA
+         613  SetEvent
+         761  lstrcatA
+          68  CreateProcessA
+         345  GetSystemDirectoryA
+          53  CreateFileMappingA
+         470  MapViewOfFile
+          49  CreateEventA
+         718  WaitForSingleObject
+         489  OpenFileMappingA
+         556  ResumeThread
+         549  ReleaseMutex
+         486  OpenEventA
+         495  OpenProcess
+         294  GetModuleHandleA
+         365  GetTickCount
+         265  GetEnvironmentVariableA
+         703  VirtualFree
+         699  VirtualAlloc
+         523  RaiseException
+         450  LoadLibraryA
+         318  GetProcAddress
+         612  SetErrorMode
+          92  DeviceIoControl
+          27  CloseHandle
+         180  FreeLibrary
+          52  CreateFileA
+
+  lookup 001ee1e0 time 00000000 fwd 00000000 name 001ee920 addr 001d93e0
+
+    DLL Name: USER32.dll
+    Hint/Ord  Name
+         478  PostMessageA
+         535  SendMessageTimeoutA
+         684  wsprintfA
+         280  GetKeyboardType
+         532  SendMessageA
+         399  IsWindow
+         258  GetDlgItem
+
+  lookup 001ede00 time 00000000 fwd 00000000 name 001ee9ce addr 001d9000
+
+    DLL Name: ADVAPI32.dll
+    Hint/Ord  Name
+         341  QueryServiceStatus
+          52  CloseServiceHandle
+         434  StartServiceA
+         327  OpenServiceA
+         325  OpenSCManagerA
+          53  ControlService
+         347  RegCloseKey
+         379  RegQueryValueExA
+         370  RegOpenKeyExA
+
+  lookup 001ee200 time 00000000 fwd 00000000 name 001ee9dc addr 001d9400
+
+    DLL Name: WSOCK32.dll
+    Hint/Ord  Name
+         116
+          10
+         115
+
+  lookup 001edfec time 00000000 fwd 00000000 name 001ef720 addr 001d91ec
+
+    DLL Name: NIPALU.dll
+    Hint/Ord  Name
+         291  ?syncClose@@YGXPAViSync@@PAJ@Z
+         414  _memDelete@4
+         127  ??Yu64@@QAEAAV0@K@Z
+         138  ??_1u64@@QAEAAV0@K@Z
+         303  ?unassignExternalPointer@tPIMMblockReferenceBase@@QAEJXZ
+         236  ?getCounterValue@tTimerTimebaseEfficient@@QBE?AVu64@@PAJ@Z
+         357  _iDMAChannel_setBlockRef@16
+         257  ?getResolutionValue@tTimerTimebaseEfficient@@QBE?AVu64@@PAJ@Z
+         250  ?getPointer@tPIMMblockReferenceBase@@QBEPAXXZ
+         470  _tPIMMblockReference_unassignExternalPointer@4
+         463  _tPIMMblockReference_assignPointer@8
+         178  ?_memNew@@YGPAXKW4tMemAllocationFlags@@@Z
+         177  ?_memDelete@@YGXPAX@Z
+         466  _tPIMMblockReference_getPageLockedPointer@4
+         469  _tPIMMblockReference_lockBlock@4
+         468  _tPIMMblockReference_getPointer@4
+         461  _tPIMMblockReference_allocateMemory@16
+         429  _pimmNewPointer@8
+         428  _pimmDeletePointer@4
+         464  _tPIMMblockReference_freeMemory@4
+         471  _tPIMMblockReference_unlockBlock@4
+         310  _busDeleteBusObjectForC@4
+         320  _iBus_getU32@16
+         311  _busNewBusObjectForC@4
+         417  _palGetCurrentVersionForC@0
+         130  ??Zu64@@QAEAAV0@ABV0@@Z
+         139  ??_1u64@@QAEAAV0@V0@@Z
+          27  ??0u64@@QAE@ABV0@@Z
+          56  ??4u64@@QAEAAV0@ABV0@@Z
+         135  ??_0u64@@QAEAAV0@V0@@Z
+         134  ??_0u64@@QAEAAV0@K@Z
+         123  ??Xu64@@QAEAAV0@K@Z
+         318  _iBus_getFirmwareData@20
+         399  _iSync_close@8
+         407  _iSync_release@8
+         398  _iSync_acquire@12
+         405  _iSync_openMutex@16
+         416  _palCompareVersionForC@8
+         292  ?syncOpen@@YGPAViSync@@ABVtParam@1@PAJ@Z
+         552  _u64_shiftLeftU32@8
+         126  ??Yu64@@QAEAAV0@ABV0@@Z
+         253  ?getResolutionTimeUnit@tTimerTimebaseEfficient@@QBE?AW4tTimerTimeUnit@@PAJ@Z
+         289  ?sleep@tTimerTimeWasterSleep@@QBEXVu64@@W4tTimerTimeUnit@@PAJ@Z
+         200  ?canSleepNow@tTimerTimeWasterSleep@@QBEKPAJ@Z
+         251  ?getResolutionTimeUnit@tTimerTimeWasterSleep@@QBE?AW4tTimerTimeUnit@@PAJ@Z
+          28  ??0u64@@QAE@K@Z
+         205  ?conversionTable@tTimerUtility@@0PAY06Vu64@@A
+         415  _memNew@8
+         333  _iBus_reserveInterruptResources@32
+         462  _tPIMMblockReference_assignExternalPointer@16
+         191  ?allocateMemory@tPIMMblockReferenceBase@@QAEJKW4tPIMMallocationFlags@@K@Z
+         197  ?busDeleteBusObject@@YGXAAPAViBus@@@Z
+         198  ?busNewBusObject@@YGPAViBus@@K@Z
+         305  ?unlockBlock@tMemBlockReferenceBase@@QAEXPAJ@Z
+         242  ?getPageLockedPointer@tMemBlockReferenceBase@@QBEPAXPAJ@Z
+         302  ?unassignExternalPointer@tMemBlockReferenceBase@@QAEXPAJ@Z
+         268  ?lockBlock@tMemBlockReferenceBase@@QAEXPAJ@Z
+         192  ?assignExternalPointer@tMemBlockReferenceBase@@QAEXKPAXPAJ0@Z
+         568  ssprintf
+         249  ?getPointer@tMemBlockReferenceBase@@QBEPAXPAJ@Z
+         188  ?allocate@tMemBlockReferenceBase@@QAEXKPAJW4tMemAllocationFlags@@K@Z
+         237  ?getCounterValue@tTimerTimebasePrecise@@QBE?AVu64@@PAJ@Z
+         258  ?getResolutionValue@tTimerTimebasePrecise@@QBE?AVu64@@PAJ@Z
+         254  ?getResolutionTimeUnit@tTimerTimebasePrecise@@QBE?AW4tTimerTimeUnit@@PAJ@Z
+         143  ??_3u64@@QAEAAV0@K@Z
+         166  ?_divide@u64@@ABEXAAV1@0@Z
+         280  ?pimmCopyMemory@@YGJPBXPAXKKK@Z
+         290  ?sleep@tTimerTimeWasterSpin@@QBEXVu64@@W4tTimerTimeUnit@@PAJ@Z
+         194  ?assignExternalPointer@tPIMMblockReferenceBase@@QAEJKPAX0@Z
+         245  ?getPagedPointer@tPIMMblockReferenceBase@@QBEPAXXZ
+         243  ?getPageLockedPointer@tPIMMblockReferenceBase@@QBEPAXXZ
+         228  ?free@tMemBlockReferenceBase@@QAEXPAJ@Z
+         195  ?assignPointer@tMemBlockReferenceBase@@QAEXPAXPAJ@Z
+          30  ??0u64@@QAE@XZ
+         238  ?getDeviceTree@iDeviceTree@@SGPAV1@XZ
+         141  ??_2u64@@QAEAAV0@K@Z
+         288  ?sleep@tThreadUtility@@SGXKPAJ@Z
+         306  ?unlockBlock@tPIMMblockReferenceBase@@QAEJXZ
+         201  ?canSleepNow@tTimerTimeWasterSpin@@QBEKPAJ@Z
+         252  ?getResolutionTimeUnit@tTimerTimeWasterSpin@@QBE?AW4tTimerTimeUnit@@PAJ@Z
+         229  ?freeMemory@tPIMMblockReferenceBase@@QAEJXZ
+         131  ??Zu64@@QAEAAV0@K@Z
+         269  ?lockBlock@tPIMMblockReferenceBase@@QAEJXZ
+         196  ?assignPointer@tPIMMblockReferenceBase@@QAEJPBX@Z
+         263
+
+  lookup 001ee210 time 00000000 fwd 00000000 name 001ef744 addr 001d9410
+
+    DLL Name: niSTCu.dll
+    Hint/Ord  Name
+           2  _STCMgrControlUser@12
+
+  lookup 001ee2b4 time 00000000 fwd 00000000 name 001ef81a addr 001d94b4
+
+    DLL Name: nimdsu.dll
+    Hint/Ord  Name
+          47  ?mdsCompareVersion@NIMDS100@@YGXABVtSSVersion@@0AAJ@Z
+          51  ?mdsNewMiniDriver@NIMDS100@@YGXKW4mdValueType@@PAPAVtMDSMiniDriver@1@PAXKAAJ@Z
+          44  ?mdsClientCompareVersion@NIMDS100@@YGXKAAVtSSVersion@@0AAJ@Z
+
+  lookup 001ee218 time 00000000 fwd 00000000 name 001efa3a addr 001d9418
+
+    DLL Name: nibffru.dll
+    Hint/Ord  Name
+          13  ?makeSequenceIterator@tBufferFactory@NIBS100@@UAEPAVtIterator@2@AAVtBuffer@2@W4Direction@32@PAKKAAJ@Z
+          10  ?makeBuffer@tBufferFactory@NIBS100@@UAEPAVtBuffer@2@KKAAJKAAV?$tMemBlockReferenceTemplate@D@@K@Z
+           0  ??0tBufferFactory@NIBS100@@QAE@KAAJ@Z
+          11  ?makeDMAIterator@tBufferFactory@NIBS100@@UAEPAVtIterator@2@AAVtBuffer@2@W4Direction@32@AAJP6G?AVu64@@PAX2@Z3@Z
+          12  ?makeIterator@tBufferFactory@NIBS100@@UAEPAVtIterator@2@AAVtBuffer@2@W4Direction@32@AAJ@Z
+           2  ??1tBuffer@NIBS100@@QAE@XZ
+           5  ?compareVersion@NIBS100@@YGXABVtSSVersion@@0AAJ@Z
+
+  lookup 001ee144 time 00000000 fwd 00000000 name 001efe54 addr 001d9344
+
+    DLL Name: NIScale.dll
+    Hint/Ord  Name
+          47  _storeScalesToFile@8
+          29  _getVoidPtrAttribute@12
+          27  _getI32Attribute@12
+          48  _storeScalesToString@12
+          28  _getScaleObjectsSize@4
+          12  _createBinaryThermocoupleScale@60
+          33  _scale@4
+          13  _createFrequencyScale@52
+           8  _createBinaryRTDScale@60
+          11  _createBinaryThermistorScale@76
+          16  _createMVDegCICSensorScale@44
+           9  _createBinaryStrainGaugeScale@116
+          30  _removeScale@8
+           5  _createBinaryMVDegCICSensorScale@60
+          37  _setBufferAttrs@48
+          44  _setNumReadingsAndSrcIndex@16
+          39  _setDestBufferAttrsAndScaleType@28
+          25  _createThermocoupleScale@44
+          19  _createRTDScale@44
+          24  _createThermistorScale@60
+          22  _createStrainGaugeScale@100
+          23  _createTableScale@52
+          18  _createPolynomialScale@56
+          15  _createLinearScale@56
+           7  _createBinaryPolynomialScale@72
+          10  _createBinaryTableScale@68
+          38  _setDestBufferAttrs@20
+          26  _deleteScalerManager@4
+          42  _setI32Attribute@16
+          46  _setVoidPtrAttribute@16
+          35  _scaleAndSetNumReadings@8
+          36  _scaleSubset@12
+          21  _createScalerManager@0
+          45  _setScannableDependentChannel@16
+          40  _setF64Attribute@20
+          43  _setI8PtrAttribute@16
+           4  _createBinaryLinearScale@72
+          14  _createHWLinearScale@56
+
+  lookup 001ee2cc time 00000000 fwd 00000000 name 001f004a addr 001d94cc
+
+    DLL Name: nirpc.dll
+    Hint/Ord  Name
+          14  NdrConformantArrayBufferSize
+          16  NdrConformantArrayMarshall
+          22  NdrConformantVaryingArrayBufferSize
+          24  NdrConformantVaryingArrayMarshall
+          25  NdrConformantVaryingArrayUnmarshall
+          54  NdrSimpleStructUnmarshall
+          17  NdrConformantArrayUnmarshall
+          43  NdrPointerBufferSize
+          45  NdrPointerMarshall
+          46  NdrPointerUnmarshall
+           6  NdrClientInitializeNew
+          38  NdrGetBuffer
+          47  NdrSendReceive
+          27  NdrConvert
+          37  NdrFreeBuffer
+          81  RpcStringBindingComposeA
+          63  RpcBindingFromStringBindingA
+          83  RpcStringFreeA
+          61  RpcBindingFree
+
+  lookup 001ee2c4 time 00000000 fwd 00000000 name 001f0064 addr 001d94c4
+
+    DLL Name: nimxprxu.dll
+    Hint/Ord  Name
+           3  createMXProxy
+
+  lookup 001ee238 time 00000000 fwd 00000000 name 001f0088 addr 001d9438
+
+    DLL Name: nicfq32.dll
+    Hint/Ord  Name
+          12
+          51
+          48
+           9
+          36  CfqGetCabledModules
+          50
+          11
+          45
+          74
+          68
+           1
+          69
+          23
+          18
+          47
+          65
+         140
+           8
+          49
+          46
+          35
+          28
+          34
+          17
+          10
+          36
+          33
+          64
+          13
+          63
+
+Export Table:
+ DLL name: nidaq32.dll
+ Ordinal base: 2
+ Ordinal      RVA  Name
+       2  0x31070  Init_DA_Brds
+       3  0x34440  Timeout_Config
+       4  0x314a0  Master_Slave_Config
+       5  0x34da0  Get_DA_Brds_Info
+       6  0x34e80  Set_DAQ_Mode
+       7  0x2e0f0  Align_DMA_Buffer
+       8  0x30a30  Get_NI_DAQ_Version
+       9  0x34e00  MIO16_F5_Calibrate
+      10  0x313b0  LPM16_Calibrate
+      11  0x2da90  A2000_Calibrate
+      12  0x34df0  MIO16_F5_Config
+      13  0x2daa0  A2000_Config
+      14  0x2dfa0  AI_VRead
+      15  0x2dc00  AI_Clear
+      16  0x2ddc0  AI_Read
+      17  0x34d50  AI_Scale
+      18  0x2df00  AI_Setup
+      19  0x2db60  AI_Check
+      20  0x34d60  AI_Config
+      21  0x2dd30  AI_Mux_Config
+      22  0x31460  MAI_Coupling
+      23  0x31490  MAI_Setup
+      24  0x31440  MAI_Arm
+      25  0x31470  MAI_Read
+      26  0x31480  MAI_Scale
+      27  0x31450  MAI_Clear
+      28  0x2e410  AO_VWrite
+      29  0x36100  AO_VScale
+      30  0x2e4b0  AO_Write
+      31  0x2e380  AO_Update
+      32  0x34d70  AO_Config
+      33  0x306f0  DIG_Prt_Config
+      34  0x30430  DIG_Line_Config
+      35  0x30390  DIG_In_Port
+      36  0x30220  DIG_In_Line
+      37  0x30650  DIG_Out_Port
+      38  0x30570  DIG_Out_Line
+      39  0x30790  DIG_Prt_Status
+      40  0x2ff90  DIG_Grp_Config
+      41  0x304d0  DIG_Out_Grp
+      42  0x30180  DIG_In_Grp
+      43  0x300e0  DIG_Grp_Status
+      44  0x30030  DIG_Grp_Mode
+      45  0x30830  DIG_SCAN_Setup
+      46  0x2fc50  DIG_Block_Out
+      47  0x2fbb0  DIG_Block_In
+      48  0x2fa80  DIG_Block_Check
+      49  0x2fb20  DIG_Block_Clear
+      50  0x2fcf0  DIG_Block_PG_Config
+      51  0x2fda0  DIG_DB_Config
+      52  0x2fe40  DIG_DB_HalfReady
+      53  0x2fef0  DIG_DB_Transfer
+      54  0x2fee0  DIG_DB_StrTransfer
+      55  0x2f680  DAQ_Op
+      56  0x31c70  SCAN_Op
+      57  0x34dc0  Lab_SCAN_Op
+      58  0x2f920  DAQ_to_Disk
+      59  0x32070  SCAN_to_Disk
+      60  0x34de0  Lab_SCAN_to_Disk
+      61  0x2f730  DAQ_Rate
+      62  0x2f7d0  DAQ_Start
+      63  0x31f20  SCAN_Setup
+      64  0x31fc0  SCAN_Start
+      65  0x2f220  DAQ_Check
+      66  0x2f5d0  DAQ_Monitor
+      67  0x34dd0  Lab_SCAN_Start
+      68  0x34db0  Lab_SCAN_Check
+      69  0x2f2c0  DAQ_Clear
+      70  0x34d80  DAQ_Scale
+      71  0x31bd0  SCAN_Demux
+      72  0x2f350  DAQ_Config
+      73  0x34d90  DAQ_Trigger_Config
+      74  0x2f3f0  DAQ_DB_Config
+      75  0x2f480  DAQ_DB_HalfReady
+      76  0x2f530  DAQ_DB_Transfer
+      77  0x2f520  DAQ_DB_StrTransfer
+      78  0x31540  MDAQ_Trig_Select
+      79  0x31530  MDAQ_Trig_Delay
+      80  0x314e0  MDAQ_ScanRate
+      81  0x314f0  MDAQ_Setup
+      82  0x31500  MDAQ_Start
+      83  0x314d0  MDAQ_Get
+      84  0x314b0  MDAQ_Check
+      85  0x31510  MDAQ_Stop
+      86  0x314c0  MDAQ_Clear
+      87  0x2ea10  CTR_Config
+      88  0x2eab0  CTR_EvCount
+      89  0x2eb50  CTR_EvRead
+      90  0x2ec90  CTR_Period
+      91  0x2f190  CTR_Stop
+      92  0x2efb0  CTR_Simul_Op
+      93  0x2ef20  CTR_Restart
+      94  0x2ee80  CTR_Reset
+      95  0x2f0f0  CTR_State
+      96  0x2ed30  CTR_Pulse
+      97  0x2f050  CTR_Square
+      98  0x2edd0  CTR_Rate
+      99  0x2ebf0  CTR_FOUT_Config
+     100  0x30fd0  ICTR_Setup
+     101  0x30e90  ICTR_Read
+     102  0x30f30  ICTR_Reset
+     103  0x34f00  WF_Op
+     104  0x34ee0  WF_from_Disk
+     105  0x34f40  WF_Scale
+     106  0x34f20  WF_Rate
+     107  0x34ef0  WF_Load
+     108  0x34f50  WF_Start
+     109  0x34e90  WF_Check
+     110  0x34f10  WF_Pause
+     111  0x34f30  WF_Resume
+     112  0x34ea0  WF_Clear
+     113  0x34eb0  WF_DB_Config
+     114  0x34ed0  WF_DB_Transfer
+     115  0x34ec0  WF_DB_StrTransfer
+     116  0x319f0  RTSI_Conn
+     117  0x31a90  RTSI_DisConn
+     118  0x318c0  RTSI_Clear
+     119  0x31950  RTSI_Clock
+     120  0x34b50  WFM_Op
+     121  0x348b0  WFM_from_Disk
+     122  0x34ca0  WFM_Scale
+     123  0x34c00  WFM_Rate
+     124  0x34aa0  WFM_Load
+     125  0x344e0  WFM_Chan_Control
+     126  0x34960  WFM_Group_Control
+     127  0x34580  WFM_Check
+     128  0x82940  ??0DownloadInterpreter@@QAE@ABV0@@Z
+     129  0x346c0  WFM_DB_Config
+     130  0x34760  WFM_DB_HalfReady
+     131  0x34800  WFM_DB_Transfer
+     132  0x348a0  WFM_DB_StrTransfer
+     133  0x34a00  WFM_Group_Setup
+     134  0x34f60  WFM_UpdateRate
+     135  0x2e190  AO_Calibrate
+     136  0x344d0  Trigger_Window_Config
+     137  0x2dab0  A2150_Calibrate
+     138  0x34620  WFM_ClockRate
+     139  0x32ee0  SCXI_Load_Config
+     140  0x33d60  SCXI_Set_Config
+     141  0x32c60  SCXI_Get_Chassis_Info
+     142  0x32d00  SCXI_Get_Module_Info
+     143  0x331d0  SCXI_Reset
+     144  0x34110  SCXI_Single_Chan_Setup
+     145  0x33320  SCXI_SCAN_Setup
+     146  0x34250  SCXI_Track_Hold_Setup
+     147  0x34e10  SCXI_Set_Module_Gain
+     148  0x32880  SCXI_Change_Chan
+     149  0x327e0  SCXI_Calibrate_Setup
+     150  0x341b0  SCXI_Track_Hold_Control
+     151  0x32f70  SCXI_MuxCtr_Setup
+     152  0x308d0  DSP2200_Calibrate
+     153  0x308e0  DSP2200_Config
+     154  0x31520  MDAQ_StrGet
+     155  0x31550  MIO_Calibrate
+     156  0x31560  MIO_Config
+     157  0x2e040  AI_VScale
+     158  0x2dc90  AI_Configure
+     159  0x2f9d0  DAQ_VScale
+     160  0x2f880  DAQ_StopTrigger_Config
+     161  0x2e230  AO_Configure
+     162  0x31600  NI_DAQ_Mem_Alloc
+     163  0x31610  NI_DAQ_Mem_Attributes
+     164  0x31620  NI_DAQ_Mem_Copy
+     165  0x31630  NI_DAQ_Mem_Free
+     166  0x31640  NI_DAQ_Mem_Lock
+     167  0x31650  NI_DAQ_Mem_Unlock
+     168  0x311a0  Lab_ISCAN_Op
+     169  0x31250  Lab_ISCAN_Start
+     170  0x31100  Lab_ISCAN_Check
+     171  0x31300  Lab_ISCAN_to_Disk
+     172  0x2e8b0  Config_DAQ_Event_Message
+     173  0x2e730  Config_Alarm_Deadband
+     174  0x2e7f0  Config_ATrig_Event_Message
+     175  0x30990  Get_DAQ_Event
+     176  0x316e0  Peek_DAQ_Event
+     177  0x31780  REG_Level_Read
+     178  0x31820  REG_Level_Write
+     179  0x32da0  SCXI_Get_State
+     180  0x32e40  SCXI_Get_Status
+     181  0x34070  SCXI_Set_State
+     182  0x35bb0  USE_E_Series
+     183  0x30d50  GPCTR_Set_Application
+     184  0x361a0  GPCTR_Change_Parameter
+     185  0x30ac0  GPCTR_Config_Buffer
+     186  0x30cb0  GPCTR_Control
+     187  0x30df0  GPCTR_Watch
+     188  0x31dd0  SCAN_Sequence_Retrieve
+     189  0x31d20  SCAN_Sequence_Demux
+     190  0x31e70  SCAN_Sequence_Setup
+     191  0x34300  Select_Signal
+     192  0x2e970  Configure_HW_Analog_Trigger
+     193  0x33e10  SCXI_Set_Filter
+     194  0x33e90  SCXI_Set_Gain
+     195  0x322b0  SCXI_Cal_Constants
+     196  0x33260  SCXI_Scale
+     197  0x33fd0  SCXI_Set_Input_Mode
+     198  0x32200  SCXI_AO_Write
+     199  0x32130  SCXI_1200_Calibrate
+     200  0x35740  SCXI_Adv_Module_Read
+     201  0x356b0  SCXI_Adv_Module_Write
+     202  0x343a0  Set_DAQ_Device_Info
+     203  0x308f0  Get_DAQ_Device_Info
+     204  0x32b00  SCXI_Configure_Filter
+     205  0x35bc0  USE_E_Series_AI
+     206  0x35bd0  USE_E_Series_AO
+     207  0x36240  USE_E_Series_DAQ
+     208  0x35be0  USE_E_Series_DIO
+     209  0x35bf0  USE_E_Series_GPCTR
+     210  0x35c00  USE_E_Series_GPCTR_Simple
+     211  0x35c10  USE_E_Series_Misc
+     212  0x35c20  USE_E_Series_WFM
+     213  0x31b30  SC_2040_Config
+     214  0x2e2e0  AO_Change_Parameter
+     215  0x34f70  AI_Read_Scan
+     216  0x35000  AI_VRead_Scan
+     217  0x2e550  Calibrate_E_Series
+     218 0x100070  ??0DownloadInterpreter@@QAE@KKPAJ@Z
+     219  0x32140  Calibrate_1200
+     220  0x2dac0  AI_Change_Parameter
+     221  0x329c0  SCXI_Set_Excitation
+     222  0x32a60  SCXI_Configure_Connection
+     223  0x3a560  _downconverter_initialize
+     224  0x3a5d0  _downconverter_reset
+     225  0x3a640  _downconverter_scan
+     226  0x3a6c0  _downconverter_selfTest
+     227  0x3a730  _downconverter_softTrig
+     228  0x3a7a0  _downconverter_triggerConfig
+     229  0x3a830  _downconverter_attenuate
+     230  0x3a8a0  _downconverter_setTestRange
+     231  0x3aa10  _downconverter_readEEPROM
+     232  0x3aa90  _downconverter_writeEEPROM
+     233  0x3ab10  _downconverter_setYIGFrequency
+     234  0x3abb0  _downconverter_armTrigger
+     235  0x3ac20  _downconverter_setLatch
+     236  0x3aca0  _downconverter_getLatch
+     237  0x3ad20  _downconverter_setYIGDAC
+     238  0x3ad90  _downconverter_getYIGDAC
+     239  0x3ae00  _downconverter_setAttenuators
+     240   0x3de0  ??0daqDevice@@QAE@ABV0@@Z
+     241 0x12f090  ??0daqDevice@@QAE@FPAF@Z
+     242 0x12f000  ??0daqDevice@@QAE@FPAFF@Z
+     243  0x82890  ??0mdsSimpDIGInterpreter@@QAE@ABV0@@Z
+     244  0xd74e0  ??0mdsSimpDIGInterpreter@@QAE@KKKAAJ@Z
+     245  0xd7440  ??0mdsSimpDIGInterpreter@@QAE@KPAVtMDSMiniDriver@NIMDS100@@KKAAJ@Z
+     246 0x126320  ??0tBufferFactory@@QAE@K@Z
+     247  0x333d0  Fifo_Read
+     248  0x33450  Fifo_Write
+     249  0x334d0  Switch_Op_Wrapper
+     250  0x33550  Mux_SCAN_Setup
+     251  0x335e0  WaitUntilDebounceComplete
+     252  0x33650  Indep_Switch_Control
+     253  0x336d0  Matrix_Switch_Control
+     254  0x33750  Mux_Channel_Control
+     255  0x337d0  Set_Handshaking_Polarity
+     256  0x2e5f0  Calibrate_59xx
+     257  0x33840  Reset_Module
+     258  0x2e690  Calibrate_DSA
+     259 0x1268f0  ??0tDMAIterator@@IAE@AAVtBuffer@@W4Direction@tIterator@@KP6A?AVu64@@PAX@Z2K@Z
+     260  0x338b0  Enable_ScannerAdvanced
+     261  0x33920  Disable_ScannerAdvanced
+     262  0x33990  Enable_Trig
+     263  0x33a00  Disable_Trig
+     264  0x33a70  Route_ScannerAdvanced
+     265  0x33af0  Route_Trig
+     266  0x33b70  Route_Sync
+     267 0x128670  ??0tMsgIterator@@IAE@AAVtBuffer@@W4Direction@tIterator@@KPAV?$tPIMMtemplateBlockReference@D@@K@Z
+     268 0x1000a0  ??1DownloadInterpreter@@QAE@XZ
+     269 0x12f4c0  ??1daqDevice@@UAE@XZ
+     270  0xd7570  ??1mdsSimpDIGInterpreter@@UAE@XZ
+     271 0x126060  ??1tBuffer@@QAE@XZ
+     272 0x126930  ??1tDMAIterator@@MAE@XZ
+     273 0x126960  ??1tIterator@@UAE@XZ
+     274 0x1286a0  ??1tMsgIterator@@MAE@XZ
+     275 0x12efa0  ??2daqDevice@@SAPAXI@Z
+     276 0x12efe0  ??3daqDevice@@SAXPAX@Z
+     277   0x3e30  ??4daqDevice@@QAEAAV0@ABV0@@Z
+     278 0x127cc0  ??G@YAJABVtIterator@@0@Z
+     279 0x127d10  ??G@YAJABVtIterator@@ABVu64@@@Z
+     280 0x127d60  ??G@YAJABVu64@@ABVtIterator@@@Z
+     281 0x1266b0  ??YtDMAIterator@@UAEXJ@Z
+     282 0x126bb0  ??YtIterator@@UAEXJ@Z
+     283 0x127ee0  ??YtSequenceIterator@@UAEXJ@Z
+     284 0x1266c0  ??ZtDMAIterator@@UAEXJ@Z
+     285 0x126c00  ??ZtIterator@@UAEXJ@Z
+     286 0x127f60  ??ZtSequenceIterator@@UAEXJ@Z
+     287 0x1de900  ??_7DownloadInterpreter@@6B@
+     288 0x1d9550  ??_7daqDevice@@6B@
+     289 0x1de8d0  ??_7mdsSimpDIGInterpreter@@6B@
+     290 0x12f540  ?A2000_Calibrate_TheVirtualThing@daqDevice@@UAEFFFFFN@Z
+     291 0x12f550  ?A2000_Config_TheVirtualThing@daqDevice@@UAEFFFFF@Z
+     292 0x12f560  ?A2150_Calibrate_TheVirtualThing@daqDevice@@UAEFFFF@Z
+     293 0x130aa0  ?AIClear_TheVirtualThing@daqDevice@@UAEFFF@Z
+     294 0x130af0  ?AICopyAndScaleData_TheVirtualThing@daqDevice@@UAEFFKPAKPAGGPAMGGGPAUbufferInfoStruct@@K000@Z
+     295 0x130a90  ?AIGetSnapshot_TheVirtualThing@daqDevice@@UAEFFKPAUbufferPositionStruct@@00@Z
+     296   0xbc80  ?AIParameter_TheVirtualThing@daqDevice@@UAEFKGPADJNG0FPAKPAGPAN0PAF@Z
+     297  0x32920  SCXI_Set_Potentiometer
+     298 0x130ae0  ?AISingleScan_TheVirtualThing@daqDevice@@UAEFFKPAUsAnalogInputStruct@@PAUsAnalogInputParam@@PAUsAIGroupConfigStruct@@PAUsAIGroupParam@@FGMFPAFPAMPAK@Z
+     299 0x130ab0  ?AIStart_TheVirtualThing@daqDevice@@UAEFFKPAUsAnalogInputStruct@@PAUsAnalogInputParam@@PAUsAIGroupConfigStruct@@PAUsAIGroupParam@@KKKFPAM@Z
+     300  0x325d0  SCXI_Calibrate
+     301  0x30b60  GPCTR_Read_Buffer
+     302  0x30c10  Line_Change_Attribute
+     303 0x130ac0  ?AIStop_TheVirtualThing@daqDevice@@UAEFFKPAUsAIBoardStruct@@PAUsScanConfigStruct@@F@Z
+     304   0xae10  ?AI_Buffer_Config_TheVirtualThing@daqDevice@@UAEFKJJGKPAK@Z
+     305   0xab70  ?AI_Buffer_Read_TheVirtualThing@daqDevice@@UAEFKGGJGJJKPAKKGJGMMJJM00KK00000PAG@Z
+     306   0xaae0  ?AI_Buffer_Read_Timestamp_TheVirtualThing@daqDevice@@UAEFKGGJGJJKPAKKGJGMMJJM00KK00000PAGPAN2@Z
+     307   0xaa60  ?AI_Buffer_Read_WDT_TheVirtualThing@daqDevice@@UAEFKGGJGJJKPAKKGJGMMJJMPAPAVIWaves@@0000000PAG@Z
+     308 0x12f570  ?AI_Change_Parameter_TheVirtualThing@daqDevice@@UAEFFFKK@Z
+     309 0x131d90  ?AI_Change_Parameter_Walrus_TheVirtualThing@daqDevice@@UAEFFPAX@Z
+     310  0x2cc00  LV_SCXI_Calibrate
+     311  0x2cc90  LV_SCXI_Strain_Null
+     312  0x32690  SCXI_Strain_Null
+     313 0x12f580  ?AI_Check_TheVirtualThing@daqDevice@@UAEFFPAF0@Z
+     314 0x12f590  ?AI_Clear_TheVirtualThing@daqDevice@@UAEFF@Z
+     315   0xadc0  ?AI_Clock_Config_TheVirtualThing@daqDevice@@UAEFKGGPADMMGMJGGPAM11PAJ@Z
+     316 0x12f5a0  ?AI_Configure_TheVirtualThing@daqDevice@@UAEFFFFFFF@Z
+     317   0xac40  ?AI_Control_GFS_TheVirtualThing@daqDevice@@UAEFKGJJJ@Z
+     318   0xac50  ?AI_Control_TheVirtualThing@daqDevice@@UAEFKGJJJ@Z
+     319   0xad50  ?AI_Get_Hardware_Config_TheVirtualThing@daqDevice@@UAEFKPAM00PAG01100PAD@Z
+     320 0x131b10  ?AI_Get_Overloaded_Channels_TheVirtualThing@daqDevice@@UAEFFPAF0@Z
+     321   0xad90  ?AI_Group_Config_TheVirtualThing@daqDevice@@UAEFFFFPADPAK1@Z
+     322   0xacf0  ?AI_Hardware_Config_TheVirtualThing@daqDevice@@UAEFKFPADJPAMJ1J1JPAGJ1J2J2F@Z
+     323 0x12f5b0  ?AI_Mux_Config_TheVirtualThing@daqDevice@@UAEFFF@Z
+     324 0x12f5d0  ?AI_Read32_TheVirtualThing@daqDevice@@UAEFFFFPAJ@Z
+     325 0x12f5e0  ?AI_Read_Scan_TheVirtualThing@daqDevice@@UAEFFPAF@Z
+     326 0x12f5c0  ?AI_Read_TheVirtualThing@daqDevice@@UAEFFFFPAF@Z
+     327   0xaf10  ?AI_Retrieve_Scale_Coeff_TheVirtualThing@daqDevice@@UAEFKPAM@Z
+     328   0xaed0  ?AI_Save_Scale_Coeff_TheVirtualThing@daqDevice@@UAEFKFFPADKKPAMPAK2@Z
+     329 0x12f5f0  ?AI_Setup_TheVirtualThing@daqDevice@@UAEFFFF@Z
+     330   0xaca0  ?AI_Single_Scan_GFS_TheVirtualThing@daqDevice@@UAEFKGGMPAFPAM0PAG0PAULVAIGroupDesc@@@Z
+     331   0xacb0  ?AI_Single_Scan_TheVirtualThing@daqDevice@@UAEFKGGMPAFPAM0PAG0PAULVAIGroupDesc@@@Z
+     332   0xae40  ?AI_Trigger_Config_TheVirtualThing@daqDevice@@UAEFKGGPADGMMGMJMPAM11@Z
+     333 0x12f610  ?AI_VRead_Scan_TheVirtualThing@daqDevice@@UAEFFPAN@Z
+     334 0x12f600  ?AI_VRead_TheVirtualThing@daqDevice@@UAEFFFFPAN@Z
+     335 0x12f620  ?AI_VScale_TheVirtualThing@daqDevice@@UAEFFFFNNFPAN@Z
+     336   0xbc30  ?AOParameter_TheVirtualThing@daqDevice@@UAEFKGPADJNG0FPAKPAGPAN0PAF@Z
+     337 0x12f640  ?AO_Calibrate_TheVirtualThing@daqDevice@@UAEFFFF@Z
+     338 0x12f660  ?AO_Change_Parameter_TheVirtualThing@daqDevice@@UAEFFFKK@Z
+     339 0x12f650  ?AO_Configure_TheVirtualThing@daqDevice@@UAEFFFFFNF@Z
+     340 0x12f670  ?AO_Update_TheVirtualThing@daqDevice@@UAEFF@Z
+     341 0x1306f0  ?AO_VScale_TheVirtualThing@daqDevice@@UAEFFFNPAF@Z
+     342 0x12f680  ?AO_VWrite_TheVirtualThing@daqDevice@@UAEFFFN@Z
+     343 0x12f690  ?AO_Write_TheVirtualThing@daqDevice@@UAEFFFF@Z
+     344 0x12f630  ?Align_DMA_Buffer_TheVirtualThing@daqDevice@@UAEFFFPAFKKPAK@Z
+     345   0xb5d0  ?CTR_Buffer_Config_TheVirtualThing@daqDevice@@UAEFKJ@Z
+     346   0xb5f0  ?CTR_Buffer_Read_TheVirtualThing@daqDevice@@UAEFKMJPAJPAF000000@Z
+     347 0x12f750  ?CTR_Config_TheVirtualThing@daqDevice@@UAEFFFFFFF@Z
+     348 0x12f760  ?CTR_EvCount_TheVirtualThing@daqDevice@@UAEFFFFF@Z
+     349 0x12f770  ?CTR_EvRead_TheVirtualThing@daqDevice@@UAEFFFPAFPAG@Z
+     350 0x12f780  ?CTR_FOUT_Config_TheVirtualThing@daqDevice@@UAEFFFFFF@Z
+     351 0x12f790  ?CTR_Period_TheVirtualThing@daqDevice@@UAEFFFF@Z
+     352 0x12f7a0  ?CTR_Pulse_TheVirtualThing@daqDevice@@UAEFFFFGG@Z
+     353 0x12f7b0  ?CTR_Reset_TheVirtualThing@daqDevice@@UAEFFFF@Z
+     354 0x12f7c0  ?CTR_Restart_TheVirtualThing@daqDevice@@UAEFFF@Z
+     355 0x12f7d0  ?CTR_Simul_Op_TheVirtualThing@daqDevice@@UAEFFFPAFF@Z
+     356 0x12f7e0  ?CTR_Square_TheVirtualThing@daqDevice@@UAEFFFFGG@Z
+     357 0x12f7f0  ?CTR_State_TheVirtualThing@daqDevice@@UAEFFFPAF@Z
+     358 0x12f800  ?CTR_Stop_TheVirtualThing@daqDevice@@UAEFFF@Z
+     359 0x131df0  ?CalChangePassword_TheVirtualThing@daqDevice@@UAEFFPAD0@Z
+     360 0x131e00  ?CalFetchCount_TheVirtualThing@daqDevice@@UAEFFKPAJ@Z
+     361 0x131e10  ?CalFetchDate_TheVirtualThing@daqDevice@@UAEFFKPAJ00@Z
+     362 0x131de0  ?CalFetchInternalReference_TheVirtualThing@daqDevice@@UAEFFPAN@Z
+     363 0x131e30  ?CalFetchMiscInfo_TheVirtualThing@daqDevice@@UAEFFPAD@Z
+     364 0x131e20  ?CalFetchTemperature_TheVirtualThing@daqDevice@@UAEFFKPAN@Z
+     365 0x131e40  ?CalStoreMiscInfo_TheVirtualThing@daqDevice@@UAEFFPAD@Z
+     366 0x130460  ?Calibrate_1200_TheVirtualThing@daqDevice@@UAEFFFFFFFFFNN@Z
+     367 0x12f6b0  ?Calibrate_59xx_TheVirtualThing@daqDevice@@UAEFFKN@Z
+     368 0x12f6c0  ?Calibrate_DSA_TheVirtualThing@daqDevice@@UAEFFKN@Z
+     369 0x12f6a0  ?Calibrate_E_Series_TheVirtualThing@daqDevice@@UAEFFKKN@Z
+     370 0x12f6d0  ?Calibrate_TIO_TheVirtualThing@daqDevice@@UAEFFKKN@Z
+     371   0xaf70  ?Channel_To_User_Or_Actual_Index_TheVirtualThing@daqDevice@@UAEFKJGPAJ@Z
+     372   0xaf50  ?Channel_to_Index_TheVirtualThing@daqDevice@@UAEFKJPAJ@Z
+     373   0xaa40  ?Channel_to_Index_VB_TheVirtualThing@daqDevice@@UAEFKJJPAJ@Z
+     374 0x12f700  ?Config_ATrig_Event_Message_TheVirtualThing@daqDevice@@UAEFFFPADNNFKKKPAUHWND__@@FK@Z
+     375 0x12f6f0  ?Config_Alarm_Deadband_TheVirtualThing@daqDevice@@UAEFFFPADNNPAUHWND__@@FFK@Z
+     376 0x12f720  ?Config_DAQ_Event_Message_TheVirtualThing@daqDevice@@UAEFFFPADFJJKKKPAUHWND__@@FK@Z
+     377 0x12f740  ?Configure_HW_Analog_Trigger_TheVirtualThing@daqDevice@@UAEFFKJJKK@Z
+     378 0x12f820  ?DAQ_Check96_TheVirtualThing@daqDevice@@UAEFFPAFPAK1@Z
+     379 0x12f810  ?DAQ_Check_TheVirtualThing@daqDevice@@UAEFFPAFPAK@Z
+     380 0x12f830  ?DAQ_Clear_TheVirtualThing@daqDevice@@UAEFF@Z
+     381 0x12f840  ?DAQ_Config_TheVirtualThing@daqDevice@@UAEFFFF@Z
+     382 0x12f850  ?DAQ_DB_Config_TheVirtualThing@daqDevice@@UAEFFF@Z
+     383 0x12f860  ?DAQ_DB_HalfReady_TheVirtualThing@daqDevice@@UAEFFPAF0@Z
+     384 0x12f870  ?DAQ_DB_StrTransfer_TheVirtualThing@daqDevice@@UAEFFPADPAKPAF@Z
+     385 0x12f880  ?DAQ_DB_Transfer_TheVirtualThing@daqDevice@@UAEFFPAFPAK0@Z
+     386 0x12f890  ?DAQ_Monitor_TheVirtualThing@daqDevice@@UAEFFFFKPAFPAK0@Z
+     387   0xac80  ?DAQ_NB_CLEAR_TheVirtualThing@daqDevice@@UAEFF@Z
+     388 0x12f8a0  ?DAQ_Op_TheVirtualThing@daqDevice@@UAEFFFFPAFKN@Z
+     389 0x12f8b0  ?DAQ_Set_Clock_TheVirtualThing@daqDevice@@UAEFFKNKPAN@Z
+     390 0x12f8c0  ?DAQ_Start_TheVirtualThing@daqDevice@@UAEFFFFPAFKFG@Z
+     391 0x12f8d0  ?DAQ_StopTrigger_Config_TheVirtualThing@daqDevice@@UAEFFFK@Z
+     392 0x12f8f0  ?DAQ_VScale_TheVirtualThing@daqDevice@@UAEFFFFNNKPAFPAN@Z
+     393 0x12f8e0  ?DAQ_to_Disk_TheVirtualThing@daqDevice@@UAEFFFFPADKNF@Z
+     394 0x12f900  ?DIG_Block_Check_TheVirtualThing@daqDevice@@UAEFFFPAK@Z
+     395 0x12f910  ?DIG_Block_Clear_TheVirtualThing@daqDevice@@UAEFFF@Z
+     396 0x12f920  ?DIG_Block_In_TheVirtualThing@daqDevice@@UAEFFFPAFK@Z
+     397 0x12f930  ?DIG_Block_Out_TheVirtualThing@daqDevice@@UAEFFFPAFK@Z
+     398 0x12f940  ?DIG_Block_PG_Config_TheVirtualThing@daqDevice@@UAEFFFFFFGF@Z
+     399  0x323a0  InitChannelWizardStrainCal
+     400  0x32460  ChannelWizardSCXIStrainCal
+     401 0x12f950  ?DIG_Change_Message_Config_TheVirtualThing@daqDevice@@UAEFFFPAD0PAUHWND__@@FK@Z
+     402 0x12f960  ?DIG_Change_Message_Control_TheVirtualThing@daqDevice@@UAEFFF@Z
+     403  0xd7ba0  ?DIG_ConfigureAndReserveLines@mdsSimpDIGInterpreter@@UAEFFKK@Z
+     404 0x12f970  ?DIG_DB_Config_TheVirtualThing@daqDevice@@UAEFFFFFF@Z
+     405 0x12f980  ?DIG_DB_HalfReady_TheVirtualThing@daqDevice@@UAEFFFPAF@Z
+     406 0x12f990  ?DIG_DB_StrTransfer_TheVirtualThing@daqDevice@@UAEFFFPADK@Z
+     407 0x12f9a0  ?DIG_DB_Transfer_TheVirtualThing@daqDevice@@UAEFFFPAFK@Z
+     408 0x12f9b0  ?DIG_Filter_Config_TheVirtualThing@daqDevice@@UAEFFFPADN@Z
+     409 0x12f9c0  ?DIG_Grp_Config_TheVirtualThing@daqDevice@@UAEFFFFFF@Z
+     410 0x12f9d0  ?DIG_Grp_Mode_TheVirtualThing@daqDevice@@UAEFFFFFFFF@Z
+     411 0x12f9e0  ?DIG_Grp_Status_TheVirtualThing@daqDevice@@UAEFFFPAF@Z
+     412  0xd7990  ?DIG_InLine@mdsSimpDIGInterpreter@@UAEFFFPAF@Z
+     413  0xd7890  ?DIG_InPort@mdsSimpDIGInterpreter@@UAEFFPAF@Z
+     414  0xd7910  ?DIG_InPrt@mdsSimpDIGInterpreter@@UAEFFPAJ@Z
+     415 0x12f9f0  ?DIG_In_Grp_TheVirtualThing@daqDevice@@UAEFFFPAF@Z
+     416 0x12fa00  ?DIG_In_Line_TheVirtualThing@daqDevice@@UAEFFFFPAF@Z
+     417 0x12fa20  ?DIG_In_Port_GFS_TheVirtualThing@daqDevice@@UAEFFFPAF@Z
+     418 0x12fa30  ?DIG_In_Port_TheVirtualThing@daqDevice@@UAEFFFPAF@Z
+     419 0x12fa40  ?DIG_In_Prt_TheVirtualThing@daqDevice@@UAEFFFPAJ@Z
+     420  0xd7760  ?DIG_LineConfig@mdsSimpDIGInterpreter@@UAEFFFF@Z
+     421 0x12fa80  ?DIG_Line_Config_TheVirtualThing@daqDevice@@UAEFFFFF@Z
+     422  0xd7af0  ?DIG_OutLine@mdsSimpDIGInterpreter@@UAEFFFF@Z
+     423  0xd7a30  ?DIG_OutPort@mdsSimpDIGInterpreter@@UAEFFF@Z
+     424  0xd7a90  ?DIG_OutPrt@mdsSimpDIGInterpreter@@UAEFFJ@Z
+     425 0x12fa90  ?DIG_Out_Grp_TheVirtualThing@daqDevice@@UAEFFFF@Z
+     426 0x12faa0  ?DIG_Out_Line_TheVirtualThing@daqDevice@@UAEFFFFF@Z
+     427 0x12fab0  ?DIG_Out_Port_GFS_TheVirtualThing@daqDevice@@UAEFFFF@Z
+     428 0x12fac0  ?DIG_Out_Port_TheVirtualThing@daqDevice@@UAEFFFF@Z
+     429 0x12fad0  ?DIG_Out_Prt_TheVirtualThing@daqDevice@@UAEFFFJ@Z
+     430  0xd7660  ?DIG_PrtConfig@mdsSimpDIGInterpreter@@UAEFFFF@Z
+     431 0x12fb00  ?DIG_Prt_Config_TheVirtualThing@daqDevice@@UAEFFFFF@Z
+     432 0x12fb10  ?DIG_Prt_Status_TheVirtualThing@daqDevice@@UAEFFFPAF@Z
+     433   0xafc0  ?DIG_Read_Buffer_TheVirtualThing@daqDevice@@UAEFFFKJKNPAEPAK@Z
+     434 0x12fb20  ?DIG_SCAN_Setup_TheVirtualThing@daqDevice@@UAEFFFFPAFF@Z
+     435   0xafe0  ?DIG_Snapshot_TheVirtualThing@daqDevice@@UAEFFFPAK000000@Z
+     436 0x12fb30  ?DIG_Trigger_Config_TheVirtualThing@daqDevice@@UAEFFFFFFFKKK@Z
+     437  0xd7ce0  ?DIG_UnreserveLines@mdsSimpDIGInterpreter@@UAEFFK@Z
+     438   0xafd0  ?DIG_Write_Buffer_TheVirtualThing@daqDevice@@UAEFFFKJKNPAEPAK@Z
+     439   0xbcd0  ?DIOParameter_TheVirtualThing@daqDevice@@UAEFKGPADJNG0FPAKPAGPAN0PAF@Z
+     440  0x371e0  NIScope_MultiBuffFetchWaveform
+     441  0x37270  NIScope_MultiBuffFetchBinary8Waveform
+     442  0x37420  NIScope_FetchBinary8Waveform
+     443  0x375d0  NIScope_FetchWaveformFromOffset
+     444  0x37780  NIScope_Calibrate
+     445  0x37800  NIScope_ProbeCompensationSignalStart
+     446  0x37870  NIScope_ProbeCompensationSignalStop
+     447  0x378e0  NIScope_Reset
+     448  0x37950  NIScope_AutoSetup
+     449 0x12fb40  ?DSP2200_Calibrate_TheVirtualThing@daqDevice@@UAEFFFF@Z
+     450 0x12fb50  ?DSP2200_Config_TheVirtualThing@daqDevice@@UAEFFFFF@Z
+     451 0x131b20  ?Fgen54xx_GetAttribute_TheVirtualThing@daqDevice@@UAEFFFKPAK@Z
+     452 0x131b30  ?Fgen54xx_SetAttribute_TheVirtualThing@daqDevice@@UAEFFFKK@Z
+     453 0x130120  ?GPCTR_Change_Parameter_TheVirtualThing@daqDevice@@UAEFFKKK@Z
+     454 0x130130  ?GPCTR_Config_Buffer_TheVirtualThing@daqDevice@@UAEFFKKKPAK@Z
+     455 0x130140  ?GPCTR_Control_TheVirtualThing@daqDevice@@UAEFFKK@Z
+     456 0x130150  ?GPCTR_Read_Buffer_TheVirtualThing@daqDevice@@UAEFFKKJKNPAK0@Z
+     457 0x130170  ?GPCTR_Set_Application_TheVirtualThing@daqDevice@@UAEFFKK@Z
+     458 0x130180  ?GPCTR_Watch_TheVirtualThing@daqDevice@@UAEFFKKPAK@Z
+     459   0xbd90  ?GetStaticallyStoredNumChans_TheVirtualThing@daqDevice@@UAEFFPAK@Z
+     460   0xb800  ?Get_DAQ_Device_Info_Lv_TheVirtualThing@daqDevice@@UAEFKKPAPAD@Z
+     461 0x12fb60  ?Get_DAQ_Device_Info_TheVirtualThing@daqDevice@@UAEFFKPAK@Z
+     462   0xb840  ?Get_DA_Brds_Info_Lv_TheVirtualThing@daqDevice@@UAEFFPADPAFPAG11111PAK@Z
+     463 0x1306e0  ?Get_DA_Brds_Info_TheVirtualThing@daqDevice@@UAEFFPAF0000000@Z
+     464   0xb430  ?Get_DIGPortDesc_Data_TheVirtualThing@daqDevice@@UAEFKPAULVDIGPortDesc@@@Z
+     465   0xaa20  ?Get_Number_Of_Channels_TheVirtualThing@daqDevice@@UAEJK@Z
+     466 0x131b70  ?HighRes_GetCalConstant_TheVirtualThing@daqDevice@@UAEJFKKMKMPANPAK@Z
+     467 0x131b50  ?HighRes_GetCalInfo_TheVirtualThing@daqDevice@@UAEJFKPAKPAG1PAM@Z
+     468 0x131b80  ?HighRes_SetCalConstant_TheVirtualThing@daqDevice@@UAEJFKPAEKMKMNK@Z
+     469 0x131b60  ?HighRes_SetCalInfo_TheVirtualThing@daqDevice@@UAEJFKPAEKGGM@Z
+     470 0x131b40  ?HighRes_SetCalibrationMode_TheVirtualThing@daqDevice@@UAEJFK@Z
+     471 0x131b90  ?HighRes_SetCalibrationPassword_TheVirtualThing@daqDevice@@UAEJFKPAE0@Z
+     472 0x131ba0  ?HighRes_UpdateCalConstants_TheVirtualThing@daqDevice@@UAEJFKMKMMMKPAE@Z
+     473 0x130190  ?ICTR_Read_TheVirtualThing@daqDevice@@UAEFFFPAG@Z
+     474 0x1301a0  ?ICTR_Reset_TheVirtualThing@daqDevice@@UAEFFFF@Z
+     475 0x1301b0  ?ICTR_Setup_TheVirtualThing@daqDevice@@UAEFFFFGF@Z
+     476   0xb7a0  ?ICounter_Control_TheVirtualThing@daqDevice@@UAEFFFFGFFPAG@Z
+     477 0x131d80  ?ISeries_ConfigurePFILines_TheVirtualThing@daqDevice@@UAEFFJPAJJ0J0@Z
+     478 0x130700  ?Init_DA_Brds2_TheVirtualThing@daqDevice@@UAEFFPAFF@Z
+     479   0xb7d0  ?Init_DA_Brds_Lv_TheVirtualThing@daqDevice@@UAEFKFPAD@Z
+     480 0x130220  ?LPM16_Calibrate_TheVirtualThing@daqDevice@@UAEFF@Z
+     481   0xaff0  ?LV_A2000_Calibrate_TheVirtualThing@daqDevice@@UAEFFGGFN@Z
+     482   0xb000  ?LV_A2000_Config_TheVirtualThing@daqDevice@@UAEFFGG@Z
+     483   0xb010  ?LV_A2150_Calibrate_TheVirtualThing@daqDevice@@UAEFFGG@Z
+     484   0xbaa0  ?LV_AO_Buffer_Config_TheVirtualThing@daqDevice@@UAEFKFPADJJGKPAK@Z
+     485   0xbb20  ?LV_AO_Buffer_Write_TheVirtualThing@daqDevice@@UAEFKJPAKJJPAMJPAFJKJGGMPAJ333PAGJ4@Z
+     486   0xbb90  ?LV_AO_Buffer_Write_WDT_TheVirtualThing@daqDevice@@UAEFKJPAKJPAPAVIWaves@@JKJGGMPAJ222PAGJ3@Z
+     487   0xb020  ?LV_AO_Calibrate_TheVirtualThing@daqDevice@@UAEFFGG@Z
+     488   0xb9a0  ?LV_AO_Clock_Config_31_TheVirtualThing@daqDevice@@UAEFKJGGPADMMFMJGPAM11PAJ@Z
+     489   0xba10  ?LV_AO_Clock_Config_TheVirtualThing@daqDevice@@UAEFKJGGMMFMJGPAM00PAJ@Z
+     490   0xbad0  ?LV_AO_Control_TheVirtualThing@daqDevice@@UAEFKGJJPAJJ0J0JPANFPAD@Z
+     491   0xb900  ?LV_AO_Group_Config_TheVirtualThing@daqDevice@@UAEFFFFPADPAK1@Z
+     492   0xba60  ?LV_AO_Hard_Config_TheVirtualThing@daqDevice@@UAEFKFPADJPAGJPAUlimits@@01PAM31@Z
+     493   0xb950  ?LV_AO_Single_Update_Config_GFS_TheVirtualThing@daqDevice@@UAEFKGJPAMJPAF1@Z
+     494   0xb960  ?LV_AO_Single_Update_GFS_TheVirtualThing@daqDevice@@UAEFKGJPAMJPAF1@Z
+     495   0xb970  ?LV_AO_Single_Update_TheVirtualThing@daqDevice@@UAEFKGJPAMJPAF1@Z
+     496   0xb9f0  ?LV_AO_Trigger_And_Gate_Config_TheVirtualThing@daqDevice@@UAEFKGPADG@Z
+     497   0xb0c0  ?LV_Calibrate_E_Series_TheVirtualThing@daqDevice@@UAEFKGGN@Z
+     498 0x12f710  ?LV_Config_ATrig_Event_Message_TheVirtualThing@daqDevice@@UAEFFFPADNNFPAUHWND__@@FK@Z
+     499 0x12f730  ?LV_Config_DAQ_Event_Message_TheVirtualThing@daqDevice@@UAEFFFPADFJJPAUHWND__@@FK@Z
+     500  0x2bf20  LV_DIG_Port_Config
+     501  0x2bfa0  LV_DIG_Port_Read
+     502  0x2c030  LV_DIG_Port_Write
+     503  0x2d140  LV_AO_Group_Config
+     504  0x2d2b0  LV_AO_Single_Update
+     505  0x2d450  LV_AO_Clock_Config
+     506  0x2d1e0  LV_Get_Group_Size
+     507  0x2d590  LV_AO_Buffer_Config
+     508  0x2d620  LV_AO_Control
+     509  0x2d6c0  LV_AO_Buffer_Write
+     510  0x2d4f0  LV_AO_Hard_Config
+     511  0x2c0c0  LV_Destroy_All_DIG_Port_Groups
+     512  0x2d830  LV_Destroy_All_AO_Groups
+     513  0x2c1b0  LV_Config_DAQ_Event_Message
+     514  0x2c240  LV_get_next_lvOccurrence
+     515  0x2c120  LV_Config_ATrig_Event_Message
+     516  0x2beb0  Get_DIGPortDesc_Data
+     517  0x2d890  LV_SCXI_1200_Calibrate
+     518  0x2d330  LV_AO_Clock_Config_31
+     519  0x2d3d0  LV_AO_Trigger_And_Gate_Config
+     520  0x2d780  LV_AO_Buffer_Write_WDT
+     521   0xb6d0  ?LV_Counter_Control_TheVirtualThing@daqDevice@@UAEFKFPADFFFGMFPAKPAF2@Z
+     522   0xb550  ?LV_Counter_Group_Config_TheVirtualThing@daqDevice@@UAEFFFFPADPAK1@Z
+     523   0xb650  ?LV_Counter_Pulse_Config_TheVirtualThing@daqDevice@@UAEFKFPADGGMMMGMJJJPAM111PAJ2@Z
+     524   0xbf00  ?LV_CtrConfigBuffer_TheVirtualThing@daqDevice@@UAEFKK@Z
+     525   0xbf60  ?LV_CtrControl_TheVirtualThing@daqDevice@@UAEFKGPADK@Z
+     526   0xbed0  ?LV_CtrGetAttribute_TheVirtualThing@daqDevice@@UAEFKGPADKPAK1@Z
+     527   0xbe70  ?LV_CtrGroupConfig_TheVirtualThing@daqDevice@@UAEFKGGPAEKPAK1@Z
+     528   0xbf20  ?LV_CtrRead_TheVirtualThing@daqDevice@@UAEFKKJJNPAK00000@Z
+     529   0xbea0  ?LV_CtrSetAttribute_TheVirtualThing@daqDevice@@UAEFKGPADKKK@Z
+     530   0xb370  ?LV_DIG_Group_Buf_Config_TheVirtualThing@daqDevice@@UAEFKJG@Z
+     531   0xbd20  ?LV_DIG_Group_Buf_Control_50_TheVirtualThing@daqDevice@@UAEFKGJJG@Z
+     532   0xb390  ?LV_DIG_Group_Buf_Control_TheVirtualThing@daqDevice@@UAEFKGJG@Z
+     533   0xb3b0  ?LV_DIG_Group_Buf_Read_TheVirtualThing@daqDevice@@UAEFKJJGMPAJ0PAG0PAE0@Z
+     534   0xb3f0  ?LV_DIG_Group_Buf_Write_TheVirtualThing@daqDevice@@UAEFKJPADJGMPAJ11PAG@Z
+     535   0xb320  ?LV_DIG_Group_Clk_Config_TheVirtualThing@daqDevice@@UAEFKGMMGMJGGPAM00PAJ@Z
+     536   0xb190  ?LV_DIG_Group_Config_TheVirtualThing@daqDevice@@UAEFFFFPAEGPAK1PAG@Z
+     537   0xb1f0  ?LV_DIG_Group_Mode_Config_65_TheVirtualThing@daqDevice@@UAEFKGGGGGKGPAG0000PAK0@Z
+     538   0xb1c0  ?LV_DIG_Group_Mode_Config_TheVirtualThing@daqDevice@@UAEFKGGGGGKG@Z
+     539   0xb240  ?LV_DIG_Group_Read_TheVirtualThing@daqDevice@@UAEFKGJMPAJPAEPAG@Z
+     540   0xb2b0  ?LV_DIG_Group_Write_TheVirtualThing@daqDevice@@UAEFKGMJPAEPAJPAG@Z
+     541   0xb480  ?LV_DIG_Port_Config_65_TheVirtualThing@daqDevice@@UAEFFPAEFJJPAK@Z
+     542   0xb450  ?LV_DIG_Port_Config_TheVirtualThing@daqDevice@@UAEFFPAEFJPAK@Z
+     543  0x33f30  SCXI_Set_Gain_NoStatusCheck
+     544   0xb4b0  ?LV_DIG_Port_Read_GFS_TheVirtualThing@daqDevice@@UAEFKJPAK@Z
+     545   0xb4d0  ?LV_DIG_Port_Read_TheVirtualThing@daqDevice@@UAEFKJPAK@Z
+     546   0xb4f0  ?LV_DIG_Port_Write_GFS_TheVirtualThing@daqDevice@@UAEFKKJ@Z
+     547   0xb510  ?LV_DIG_Port_Write_TheVirtualThing@daqDevice@@UAEFKKJ@Z
+     548   0xb270  ?LV_DIG_Single_Read_TheVirtualThing@daqDevice@@UAEFKGJMPAJPAKPAGG2@Z
+     549   0xb2e0  ?LV_DIG_Single_Write_TheVirtualThing@daqDevice@@UAEFKGMJPAKPAJPAGG2@Z
+     550  0x37300  NIScope_MultiBuffFetchBinary16Waveform
+     551  0x37390  NIScope_MultiBuffFetchBinary32Waveform
+     552  0x374b0  NIScope_FetchBinary16Waveform
+     553  0x37540  NIScope_FetchBinary32Waveform
+     554  0x37660  NIScope_FetchMinMaxWaveform
+     555  0x379c0  NIScope_ActualRecordLength
+     556  0x376f0  NIScope_MultiBuffFetchMinMaxWaveform
+     557   0xbd50  ?LV_DIG_Trigger_Config_TheVirtualThing@daqDevice@@UAEFKGGGPADGGJJ@Z
+     558 0x130200  ?LV_DIO_Change_Message_Config_TheVirtualThing@daqDevice@@UAEFFPAE0GPAUHWND__@@FKPAK@Z
+     559 0x130210  ?LV_DIO_Change_Message_Control_TheVirtualThing@daqDevice@@UAEFKGPAK@Z
+     560   0xb050  ?LV_DSP2200_Calibrate_TheVirtualThing@daqDevice@@UAEFFGG@Z
+     561   0xb040  ?LV_DSP2200_Config_TheVirtualThing@daqDevice@@UAEFFGGG@Z
+     562   0xb930  ?LV_Get_Group_Size_TheVirtualThing@daqDevice@@UAEFKPAF@Z
+     563   0xb060  ?LV_LPM16_Calibrate_TheVirtualThing@daqDevice@@UAEFF@Z
+     564   0xc010  ?LV_LineChangeAttribute_690_TheVirtualThing@daqDevice@@UAEFKKKKKPAD@Z
+     565   0xbfe0  ?LV_LineChangeAttribute_TheVirtualThing@daqDevice@@UAEFKKKKK@Z
+     566  0x33bf0  Output_Buffer_Cntrl
+     567  0x33c60  Write_Switch_Calibration
+     568  0x33ce0  Read_Switch_Calibration
+     569   0xb080  ?LV_MIO_Calibrate_TheVirtualThing@daqDevice@@UAEFFGGGFFFNG@Z
+     570   0xb120  ?LV_MIO_Config_TheVirtualThing@daqDevice@@UAEFFGF@Z
+     571   0xb7f0  ?LV_Master_Slave_Config_TheVirtualThing@daqDevice@@UAEFKFPAK@Z
+     572   0xc060  ?LV_Route_Signal_65_TheVirtualThing@daqDevice@@UAEFKGGGKK@Z
+     573   0xb8b0  ?LV_Route_Signal_TheVirtualThing@daqDevice@@UAEFKGG@Z
+     574   0xbbf0  ?LV_SCXI_1200_Calibrate_TheVirtualThing@daqDevice@@UAEFFFFFFFFFNN@Z
+     575   0xc090  ?LV_SCXI_1520_Transducer_Cal_TheVirtualThing@daqDevice@@UAEFFPADMM@Z
+     576   0xc0b0  ?LV_SCXI_Calibrate_TheVirtualThing@daqDevice@@UAEFFPADFFMMN@Z
+     577   0xc0e0  ?LV_SCXI_Strain_Null_TheVirtualThing@daqDevice@@UAEFFPADPAM@Z
+     578   0xbf80  ?LV_SelectSignal_TheVirtualThing@daqDevice@@UAEFKKKKKK@Z
+     579   0xb0f0  ?LV_TIO_Calibrate_TheVirtualThing@daqDevice@@UAEFKKKN@Z
+     580   0xc040  ?LV_TioCombineSignals_TheVirtualThing@daqDevice@@UAEFKKK@Z
+     581   0xbfb0  ?LV_TioSelectSignal_TheVirtualThing@daqDevice@@UAEFKKKKKK@Z
+     582   0xb530  ?LV_get_next_lvOccurrence_TheVirtualThing@daqDevice@@UAEFFPAK@Z
+     583   0xb140  ?LVdigPassBufferAndIterator_TheVirtualThing@daqDevice@@UAEFFFPAX0@Z
+     584   0xb710  ?LVnew_Counter_Control_TheVirtualThing@daqDevice@@UAEFKFPADFFFGMFKKPAKPAF2F@Z
+     585   0xb580  ?LVnew_Counter_Mode_Config_TheVirtualThing@daqDevice@@UAEFKFPADGGMGGFGGGGG@Z
+     586 0x1301c0  ?Lab_ISCAN_Check_TheVirtualThing@daqDevice@@UAEFFPAFPAK0@Z
+     587 0x1301d0  ?Lab_ISCAN_Op_TheVirtualThing@daqDevice@@UAEFFFFPAFKNN0@Z
+     588 0x1301e0  ?Lab_ISCAN_Start_TheVirtualThing@daqDevice@@UAEFFFFPAFKFGG@Z
+     589 0x1301f0  ?Lab_ISCAN_to_Disk_TheVirtualThing@daqDevice@@UAEFFFFPADKNNF@Z
+     590 0x130160  ?Line_Change_Attribute_TheVirtualThing@daqDevice@@UAEFFKKK@Z
+     591 0x130230  ?MAI_Arm_TheVirtualThing@daqDevice@@UAEFFF@Z
+     592 0x130240  ?MAI_Clear_TheVirtualThing@daqDevice@@UAEFF@Z
+     593 0x130250  ?MAI_Coupling_TheVirtualThing@daqDevice@@UAEFFFPAF@Z
+     594 0x130260  ?MAI_Read_TheVirtualThing@daqDevice@@UAEFFPAF@Z
+     595 0x130270  ?MAI_Scale_TheVirtualThing@daqDevice@@UAEFFKPAFPAN@Z
+     596 0x130280  ?MAI_Setup_TheVirtualThing@daqDevice@@UAEFFFPAF0GFF@Z
+     597 0x1302a0  ?MDAQ_Check_TheVirtualThing@daqDevice@@UAEFFFPAFPAK1@Z
+     598 0x1302b0  ?MDAQ_Clear_TheVirtualThing@daqDevice@@UAEFF@Z
+     599 0x1302c0  ?MDAQ_Get_TheVirtualThing@daqDevice@@UAEFFFFKKKJPAFPAK110@Z
+     600  0x2add0  AI_Group_Config
+     601 0x1302d0  ?MDAQ_ScanRate_TheVirtualThing@daqDevice@@UAEFFGF@Z
+     602  0x2ac90  AI_Hardware_Config
+     603  0x2ad40  AI_Get_Hardware_Config
+     604  0x2a9a0  _get_AI_group_size
+     605  0x2ae70  AI_Clock_Config
+     606  0x2af10  AI_Buffer_Config
+     607  0x2af90  AI_Trigger_Config
+     608  0x2aac0  AI_Control
+     609  0x2a8c0  AI_Buffer_Read
+     610  0x2aa10  _get_AI_scan_info
+     611  0x2ab40  AI_Single_Scan
+     612  0x2ac30  _clear_all_ai
+     613  0x2cd00  _clear_all_boards
+     614 0x1302e0  ?MDAQ_Setup_TheVirtualThing@daqDevice@@UAEFFKFKKPAF@Z
+     615 0x1302f0  ?MDAQ_Start_TheVirtualThing@daqDevice@@UAEFFK@Z
+     616 0x130300  ?MDAQ_Stop_TheVirtualThing@daqDevice@@UAEFF@Z
+     617 0x130310  ?MDAQ_StrGet_TheVirtualThing@daqDevice@@UAEFFFFKKKJPADPAK11PAF@Z
+     618 0x130320  ?MDAQ_Trig_Delay_TheVirtualThing@daqDevice@@UAEFFGF@Z
+     619 0x130330  ?MDAQ_Trig_Select_TheVirtualThing@daqDevice@@UAEFFFFFFFF@Z
+     620 0x130340  ?MIO_Calibrate_TheVirtualThing@daqDevice@@UAEFFFFFFFFNF@Z
+     621 0x130350  ?MIO_Config_TheVirtualThing@daqDevice@@UAEFFFF@Z
+     622 0x130290  ?Master_Slave_Config_TheVirtualThing@daqDevice@@UAEFFFPAF@Z
+     623 0x130830  ?NIScope_Abort_TheVirtualThing@daqDevice@@UAEJF@Z
+     624 0x130850  ?NIScope_AcquisitionStatus_TheVirtualThing@daqDevice@@UAEJFPAJ@Z
+     625 0x130870  ?NIScope_ActualRecordLength_TheVirtualThing@daqDevice@@UAEJFPAJ@Z
+     626 0x130a00  ?NIScope_AlmostSuperFetch_TheVirtualThing@daqDevice@@UAEJFPADJJJJJPAX1PAJPAN33333@Z
+     627 0x130810  ?NIScope_AutoSetup_TheVirtualThing@daqDevice@@UAEJF@Z
+     628 0x130920  ?NIScope_Calibrate_TheVirtualThing@daqDevice@@UAEJFPADJN@Z
+     629 0x1307f0  ?NIScope_Close_TheVirtualThing@daqDevice@@UAEJF@Z
+     630 0x1308d0  ?NIScope_FetchBinary16Waveform_TheVirtualThing@daqDevice@@UAEJFPADJJPAFPAJPAN333@Z
+     631 0x1308e0  ?NIScope_FetchBinary32Waveform_TheVirtualThing@daqDevice@@UAEJFPADJJPAJ1PAN222@Z
+     632 0x1308c0  ?NIScope_FetchBinary8Waveform_TheVirtualThing@daqDevice@@UAEJFPADJJ0PAJPAN222@Z
+     633 0x130910  ?NIScope_FetchMinMaxWaveform_TheVirtualThing@daqDevice@@UAEJFPADJPAN1PAJ11@Z
+     634 0x1309d0  ?NIScope_FetchTriggerTime_TheVirtualThing@daqDevice@@UAEJFJPAN@Z
+     635 0x1308f0  ?NIScope_FetchWaveformFromOffset_TheVirtualThing@daqDevice@@UAEJFPADJJPANPAJ11@Z
+     636 0x130840  ?NIScope_FetchWaveform_TheVirtualThing@daqDevice@@UAEJFPADJPANPAJ11@Z
+     637 0x1309c0  ?NIScope_GetAttributeViBoolean_TheVirtualThing@daqDevice@@UAEJFPADKPAG@Z
+     638 0x130990  ?NIScope_GetAttributeViInt32_TheVirtualThing@daqDevice@@UAEJFPADKPAJ@Z
+     639 0x1309a0  ?NIScope_GetAttributeViReal64_TheVirtualThing@daqDevice@@UAEJFPADKPAN@Z
+     640 0x1309b0  ?NIScope_GetAttributeViString_TheVirtualThing@daqDevice@@UAEJFPADKJ0@Z
+     641 0x130820  ?NIScope_InitiateAcquisition_TheVirtualThing@daqDevice@@UAEJF@Z
+     642 0x1308a0  ?NIScope_MultiBuffFetchBinary16Waveform_TheVirtualThing@daqDevice@@UAEJFPADJJJPAFPAJPAN333@Z
+     643 0x1308b0  ?NIScope_MultiBuffFetchBinary32Waveform_TheVirtualThing@daqDevice@@UAEJFPADJJJPAJ1PAN222@Z
+     644 0x130890  ?NIScope_MultiBuffFetchBinary8Waveform_TheVirtualThing@daqDevice@@UAEJFPADJJJ0PAJPAN222@Z
+     645 0x130900  ?NIScope_MultiBuffFetchMinMaxWaveform_TheVirtualThing@daqDevice@@UAEJFPADJJJPAN1PAJ11@Z
+     646 0x130880  ?NIScope_MultiBuffFetchWaveform_TheVirtualThing@daqDevice@@UAEJFPADJJJPANPAJ11@Z
+     647 0x1307e0  ?NIScope_Open_TheVirtualThing@daqDevice@@UAEJF@Z
+     648 0x130930  ?NIScope_ProbeCompensationSignalStart_TheVirtualThing@daqDevice@@UAEJF@Z
+     649 0x130940  ?NIScope_ProbeCompensationSignalStop_TheVirtualThing@daqDevice@@UAEJF@Z
+     650 0x130800  ?NIScope_Reset_TheVirtualThing@daqDevice@@UAEJF@Z
+     651 0x130860  ?NIScope_SendSWTrigger_TheVirtualThing@daqDevice@@UAEJF@Z
+     652 0x130980  ?NIScope_SetAttributeViBoolean_TheVirtualThing@daqDevice@@UAEJFPADKG@Z
+     653 0x130950  ?NIScope_SetAttributeViInt32_TheVirtualThing@daqDevice@@UAEJFPADKJ@Z
+     654 0x130960  ?NIScope_SetAttributeViReal64_TheVirtualThing@daqDevice@@UAEJFPADKN@Z
+     655 0x130970  ?NIScope_SetAttributeViString_TheVirtualThing@daqDevice@@UAEJFPADK0@Z
+     656 0x130a10  ?NIScope_SetFilterCoefficients_TheVirtualThing@daqDevice@@UAEJFPADJJPAJ@Z
+     657  0x3b9f0  dmm_CalStart
+     658  0x3ba60  dmm_CalAdjust
+     659  0x3bae0  dmm_CalEnd
+     660  0x3bb50  dmm_CalSelfCalibrate
+     661  0x3bbc0  setAttribute
+     662  0x3bc40  getAttribute
+     663  0x3bcc0  isWalrusDevice
+     664 0x1309e0  ?NIScope_Status_TheVirtualThing@daqDevice@@UAEJFPAJPAKPAN@Z
+     665 0x1309f0  ?NIScope_SuperFetch_TheVirtualThing@daqDevice@@UAEJFPADJJJJJJPAPAXPAJPAN33333@Z
+     666   0xaf30  ?Number_Of_Channels_TheVirtualThing@daqDevice@@UAEFKFPADPAF@Z
+     667   0xb6b0  ?Number_Of_Counters_TheVirtualThing@daqDevice@@UAEFKFPADPAF@Z
+     668 0x12fa10  ?Query_Optimizations_GFS_TheVirtualThing@daqDevice@@UAEFF@Z
+     669 0x130360  ?REG_Level_Read_TheVirtualThing@daqDevice@@UAEFFFPAK@Z
+     670 0x130370  ?REG_Level_Write_TheVirtualThing@daqDevice@@UAEFFFKKPAK@Z
+     671 0x130380  ?RTSI_Clear_TheVirtualThing@daqDevice@@UAEFF@Z
+     672 0x130390  ?RTSI_Clock_TheVirtualThing@daqDevice@@UAEFFFF@Z
+     673 0x1303a0  ?RTSI_Conn_TheVirtualThing@daqDevice@@UAEFFFFF@Z
+     674 0x1303b0  ?RTSI_DisConn_TheVirtualThing@daqDevice@@UAEFFFF@Z
+     675   0xb880  ?RTSI_Lv_TheVirtualThing@daqDevice@@UAEFFGFFGPAF@Z
+     676 0x130400  ?SCAN_Op_TheVirtualThing@daqDevice@@UAEFFFPAF00KNN@Z
+     677 0x130410  ?SCAN_Sequence_Retrieve_TheVirtualThing@daqDevice@@UAEFFFPAF@Z
+     678 0x130420  ?SCAN_Sequence_Setup_TheVirtualThing@daqDevice@@UAEFFFPAF0000@Z
+     679 0x130430  ?SCAN_Setup_TheVirtualThing@daqDevice@@UAEFFFPAF0@Z
+     680 0x130440  ?SCAN_Start_TheVirtualThing@daqDevice@@UAEFFPAFKFGFG@Z
+     681 0x130450  ?SCAN_to_Disk_TheVirtualThing@daqDevice@@UAEFFFPAF0PADKNNF@Z
+     682 0x131bc0  ?SCXIConnect_TheVirtualThing@daqDevice@@UAEFF@Z
+     683 0x131bb0  ?SCXIDisconnect_TheVirtualThing@daqDevice@@UAEFF@Z
+     684 0x1303d0  ?SCXI_AutoDetect_TheVirtualThing@daqDevice@@UAEFFFFFFFKGPAJ0@Z
+     685 0x1303c0  ?SCXI_MuxCtr_Setup_TheVirtualThing@daqDevice@@UAEFFFFG@Z
+     686 0x1303e0  ?SCXI_TestChassis_TheVirtualThing@daqDevice@@UAEFFFFPAJ@Z
+     687 0x1303f0  ?SC_2040_Config_TheVirtualThing@daqDevice@@UAEFFFF@Z
+     688   0xae90  ?Scaling_Constant_Tuner_TheVirtualThing@daqDevice@@UAEFKFPADKPAMK1K111@Z
+     689 0x130470  ?Select_Signal_TheVirtualThing@daqDevice@@UAEFFKKK@Z
+     690   0xb8d0  ?Set_Board_Info_Lv_TheVirtualThing@daqDevice@@UAEFFGPAF0G@Z
+     691   0xb820  ?Set_DAQ_Device_Info_Lv_TheVirtualThing@daqDevice@@UAEFKKK@Z
+     692 0x130490  ?Set_DAQ_Device_Info_TheVirtualThing@daqDevice@@UAEFFKK@Z
+     693 0x1305e0  ?Timeout_Config_TheVirtualThing@daqDevice@@UAEFFJ@Z
+     694 0x12f6e0  ?Tio_Combine_Signals_TheVirtualThing@daqDevice@@UAEFFKK@Z
+     695 0x130480  ?Tio_Select_Signal_TheVirtualThing@daqDevice@@UAEFFKKK@Z
+     696 0x1305f0  ?Trigger_Window_Config_TheVirtualThing@daqDevice@@UAEFFFG@Z
+     697   0xaf90  ?User_Or_Actual_Index_To_Channel_TheVirtualThing@daqDevice@@UAEFKJGJPAJPAD@Z
+     698   0xc160  ?VBLogger_createScaleObjects_TheVirtualThing@daqDevice@@UAEFKFPADPAJPAK@Z
+     699   0xc190  ?VBLogger_storeScales_TheVirtualThing@daqDevice@@UAEFKPADJPAKJPAN@Z
+     700  0x2c910  ICounter_Control
+     701 0x130600  ?WFM_Chan_Control_TheVirtualThing@daqDevice@@UAEFFFF@Z
+     702 0x130610  ?WFM_Check_TheVirtualThing@daqDevice@@UAEFFFPAFPAK1@Z
+     703 0x130620  ?WFM_ClockRate_TheVirtualThing@daqDevice@@UAEFFFFFKF@Z
+     704 0x130630  ?WFM_DB_Config_TheVirtualThing@daqDevice@@UAEFFFPAFFFF@Z
+     705  0x35b20  CTR_ModeCfg
+     706  0x35ab0  CTR_Busy
+     707  0x2c7d0  _Counter_Group_Size
+     708  0x2c840  _Counter_Group_Kill
+     709  0x2c3f0  CTR_Buffer_Config
+     710  0x2c460  CTR_Buffer_Read
+     711  0x2c4f0  _get_CTR_Buffer_Info
+     712 0x130640  ?WFM_DB_HalfReady_TheVirtualThing@daqDevice@@UAEFFFPAF0@Z
+     713 0x130660  ?WFM_DB_StrTransfer_TheVirtualThing@daqDevice@@UAEFFFPAFPADK@Z
+     714 0x130650  ?WFM_DB_Transfer_TheVirtualThing@daqDevice@@UAEFFFPAF0K@Z
+     715 0x130680  ?WFM_Group_Control_TheVirtualThing@daqDevice@@UAEFFFF@Z
+     716 0x130690  ?WFM_Group_Setup_TheVirtualThing@daqDevice@@UAEFFFPAFF@Z
+     717 0x1306a0  ?WFM_Load_TheVirtualThing@daqDevice@@UAEFFFPAF0KKF@Z
+     718 0x1306b0  ?WFM_Op_TheVirtualThing@daqDevice@@UAEFFFPAF0KKN@Z
+     719 0x1306c0  ?WFM_Scale_TheVirtualThing@daqDevice@@UAEFFFKNPANPAF@Z
+     720 0x1306d0  ?WFM_Set_Clock_TheVirtualThing@daqDevice@@UAEFFFKNKPAN@Z
+     721 0x130670  ?WFM_from_Disk_TheVirtualThing@daqDevice@@UAEFFFPAFPADKKKN@Z
+     722 0x131e50  ?WalrusGetCalConstant_TheVirtualThing@daqDevice@@UAEFFFKNPAN@Z
+     723   0xbe10  ?_ChWizGetRawToSensorOffsetAndMultiplier_TheVirtualThing@daqDevice@@UAEFKPADPAM1@Z
+     724   0xbdb0  ?_ChWizScalePhysicalReadingsToSensorReadings_TheVirtualThing@daqDevice@@UAEFKPADJJPAMJ1@Z
+     725   0xbe30  ?_ChWizScaleSensorReadingsToPhysicalReadings_TheVirtualThing@daqDevice@@UAEFKPADJJPAMJJ1J1@Z
+     726   0xbde0  ?_ChWizScaleSensorReadingsToRawReadings_TheVirtualThing@daqDevice@@UAEFKPADJJPAMJ1@Z
+     727   0xb780  ?_Counter_Group_Kill_TheVirtualThing@daqDevice@@UAEFK@Z
+     728   0xb760  ?_Counter_Group_Size_TheVirtualThing@daqDevice@@UAEFKPAF@Z
+     729   0xb170  ?_LV_get_DIG_group_buffer_info_TheVirtualThing@daqDevice@@UAEFKPAGPAJ1@Z
+     730   0xb150  ?_LV_get_DIG_group_info_TheVirtualThing@daqDevice@@UAEFKPAGPAJ@Z
+     731 0x130a20  ?__cal_dac_write__TheVirtualThing@daqDevice@@UAEFFFF@Z
+     732 0x130a60  ?__eeprom_protect__TheVirtualThing@daqDevice@@UAEFFKK@Z
+     733 0x130a80  ?__eeprom_query_protection__TheVirtualThing@daqDevice@@UAEFFPAK00@Z
+     734 0x130a40  ?__eeprom_read__TheVirtualThing@daqDevice@@UAEFFFPAF0@Z
+     735 0x130a70  ?__eeprom_unprotect__TheVirtualThing@daqDevice@@UAEFFKK@Z
+     736 0x130a50  ?__eeprom_write__TheVirtualThing@daqDevice@@UAEFFFFPAF@Z
+     737 0x1286e0  ?_burst@tMsgIterator@@MAEXP6AXPAX0K@Z00K@Z
+     738 0x1286b0  ?_burst@tMsgIterator@@MAEXPBXPAXK@Z
+     739 0x131c40  ?_downconverter_armTrigger_TheVirtualThing@daqDevice@@UAEFF@Z
+     740 0x131c60  ?_downconverter_attenuate_TheVirtualThing@daqDevice@@UAEFFJJ@Z
+     741 0x131cc0  ?_downconverter_getLatch_TheVirtualThing@daqDevice@@UAEFFGEPAK@Z
+     742 0x131ce0  ?_downconverter_getYIGDAC_TheVirtualThing@daqDevice@@UAEFFPAK@Z
+     743 0x131bf0  ?_downconverter_initialize_TheVirtualThing@daqDevice@@UAEFF@Z
+     744 0x131c80  ?_downconverter_readEEPROM_TheVirtualThing@daqDevice@@UAEFFPAEKK@Z
+     745 0x131c00  ?_downconverter_reset_TheVirtualThing@daqDevice@@UAEFF@Z
+     746 0x131c10  ?_downconverter_scan_TheVirtualThing@daqDevice@@UAEFFPANPAE0K@Z
+     747 0x131c20  ?_downconverter_selfTest_TheVirtualThing@daqDevice@@UAEFFPAK@Z
+     748 0x131cf0  ?_downconverter_setAttenuators_TheVirtualThing@daqDevice@@UAEFFK@Z
+     749 0x131cb0  ?_downconverter_setLatch_TheVirtualThing@daqDevice@@UAEFFGEK@Z
+     750 0x131c70  ?_downconverter_setTestRange_TheVirtualThing@daqDevice@@UAEFFKKK@Z
+     751 0x131cd0  ?_downconverter_setYIGDAC_TheVirtualThing@daqDevice@@UAEFFK@Z
+     752 0x131ca0  ?_downconverter_setYIGFrequency_TheVirtualThing@daqDevice@@UAEFFNNNNNE@Z
+     753 0x131c30  ?_downconverter_softTrig_TheVirtualThing@daqDevice@@UAEFF@Z
+     754 0x131c50  ?_downconverter_triggerConfig_TheVirtualThing@daqDevice@@UAEFFKKKKKKKGPAG@Z
+     755 0x131c90  ?_downconverter_writeEEPROM_TheVirtualThing@daqDevice@@UAEFFPAEKK@Z
+     756   0xabf0  ?_get_AI_group_size_TheVirtualThing@daqDevice@@UAEFKPAK@Z
+     757   0xac10  ?_get_AI_scan_info_TheVirtualThing@daqDevice@@UAEFKPAK0PAG1PAJ1@Z
+     758   0xb630  ?_get_CTR_Buffer_Info_TheVirtualThing@daqDevice@@UAEFKJPAJ@Z
+     759 0x130b40  ?_get_WF_load_cnt_TheVirtualThing@daqDevice@@UAEKFF@Z
+     760   0xc1c0  ?_get_attribute_string_sizes_TheVirtualThing@daqDevice@@UAEFKKPAKPAJ1@Z
+     761   0xc1f0  ?_get_attribute_strings_TheVirtualThing@daqDevice@@UAEFKKPAKPADJ1J@Z
+     762 0x130b00  ?_get_daq_numpts_TheVirtualThing@daqDevice@@UAEKF@Z
+     763 0x130b20  ?_get_daq_sample_bytesize_TheVirtualThing@daqDevice@@UAEFF@Z
+     764 0x130b30  ?_get_wfm_sample_bytesize_TheVirtualThing@daqDevice@@UAEFFF@Z
+     765 0x130710  ?createAddressSpace_TheVirtualThing@daqDevice@@UAEJKPAPAXKKK@Z
+     766 0x130740  ?destroyAddressSpace_TheVirtualThing@daqDevice@@UAEJKPAPAX@Z
+     767 0x130ad0  ?deviceSpecificAIParameter_TheVirtualThing@daqDevice@@UAEFFKGPADJNG0FPAKPAGPAN0PAF@Z
+     768 0x131d10  ?dmm_CalAdjust_TheVirtualThing@daqDevice@@UAEJKJJPADPAN1@Z
+     769 0x131d20  ?dmm_CalEnd_TheVirtualThing@daqDevice@@UAEJKJ@Z
+     770 0x131d30  ?dmm_CalSelfCalibrate_TheVirtualThing@daqDevice@@UAEJKJ@Z
+     771 0x131d00  ?dmm_CalStart_TheVirtualThing@daqDevice@@UAEJKPADPAK@Z
+     772  0xd7590  ?doPrimitiveInitialization@mdsSimpDIGInterpreter@@MAEXAAJ@Z
+     773 0x1000b0  ?download@DownloadInterpreter@@UAEJK@Z
+     774 0x100110  ?fileSetup@DownloadInterpreter@@UAEJK@Z
+     775 0x131d50  ?getAttribute_TheVirtualThing@daqDevice@@UAEJKKPAKPAJPANPAX@Z
+     776   0x3da0  ?getBusObject@daqDevice@@QAEPAViBus@@XZ
+     777 0x1000f0  ?getConfigID@DownloadInterpreter@@UAEJPAK@Z
+     778 0x1268d0  ?getDMASnapshotCallback@tDMAIterator@@UBEP6A?AVu64@@PAX@ZXZ
+     779 0x1268e0  ?getDMASnapshotCallbackReservedPtr@tDMAIterator@@UBEQBXXZ
+     780 0x131be0  ?getDeviceDefaultAOLimits_TheVirtualThing@daqDevice@@UAEFFGPAM0PAF1@Z
+     781   0x3d90  ?getDeviceHandle@daqDevice@@QAEKXZ
+     782 0x130a30  ?getLastCalibrationState_TheVirtualThing@daqDevice@@UAEJFPAK00000@Z
+     783   0x3dc0  ?getSCXIChassisIDs@daqDevice@@QAEXPAKPAPAF@Z
+     784   0xc140  ?getScaleObjSize_TheVirtualThing@daqDevice@@UAEFKPAJ@Z
+     785   0x3db0  ?isSCXICommunicator@daqDevice@@QAEKXZ
+     786 0x1300e0  ?isThisDeviceFromFamily_TheVirtualThing@daqDevice@@UAEKFJ@Z
+     787 0x131e60  ?isWalrusDevice_TheVirtualThing@daqDevice@@UAEFF@Z
+     788 0x126340  ?makeBuffer@tBufferFactory@@UAEPAVtBuffer@@KKKPAXK@Z
+     789 0x1264a0  ?makeDMAIterator@tBufferFactory@@UAEPAVtIterator@@AAVtBuffer@@W4Direction@2@P6A?AVu64@@PAX@Z2@Z
+     790 0x1263c0  ?makeIterator@tBufferFactory@@UAEPAVtIterator@@AAVtBuffer@@W4Direction@2@@Z
+     791 0x126580  ?makeMsgDMAIterator@tBufferFactory@@UAEPAVtIterator@@AAVtBuffer@@W4Direction@2@PAV?$tPIMMtemplateBlockReference@D@@P6A?AVu64@@PAX@Z3@Z
+     792 0x126510  ?makeMsgIterator@tBufferFactory@@UAEPAVtIterator@@AAVtBuffer@@W4Direction@2@PAV?$tPIMMtemplateBlockReference@D@@@Z
+     793 0x1265f0  ?makeScaleIterator@tBufferFactory@@UAEPAVtIterator@@AAVtBuffer@@W4Direction@2@PAKKPAM@Z
+     794 0x126430  ?makeSequenceIterator@tBufferFactory@@UAEPAVtIterator@@AAVtBuffer@@W4Direction@2@PAKK@Z
+     795 0x131db0  ?ni62xx_CalAdjust_TheVirtualThing@daqDevice@@UAEFFKPANF@Z
+     796 0x131dc0  ?ni62xx_CalEnd_TheVirtualThing@daqDevice@@UAEFFK@Z
+     797 0x131da0  ?ni62xx_CalStart_TheVirtualThing@daqDevice@@UAEFFPAD@Z
+     798 0x131dd0  ?ni62xx_SelfCalibrate_TheVirtualThing@daqDevice@@UAEFF@Z
+     799 0x131720  ?niDaqCfqCheckDeviceChildI32AttribMatch_TheVirtualThing@daqDevice@@UAEFFKKKJPAK@Z
+     800  0x2cb80  LV_SCXI_1520_Transducer_Cal
+     801  0x2cd60  Init_DA_Brds_Lv
+     802  0x2cec0  Get_DA_Brds_Info_Lv
+     803  0x2cf50  RTSI_Lv
+     804  0x2d040  Set_Board_Info_Lv
+     805  0x2b240  Channel_to_Index
+     806  0x2b1c0  Number_Of_Channels
+     807  0x2c2b0  LV_Counter_Group_Config
+     808  0x2c350  LVnew_Counter_Mode_Config
+     809  0x2c690  LV_Counter_Control
+     810  0x2c610  Number_Of_Counters
+     811  0x2c560  LV_Counter_Pulse_Config
+     812  0x2b5c0  LV_A2000_Calibrate
+     813  0x2b5d0  LV_A2000_Config
+     814  0x2b5e0  LV_A2150_Calibrate
+     815  0x2b670  LV_DSP2200_Calibrate
+     816  0x2b660  LV_DSP2200_Config
+     817  0x2b6f0  LV_MIO_Calibrate
+     818  0x2b780  LV_MIO_Config
+     819  0x2b5f0  LV_AO_Calibrate
+     820  0x2b680  LV_LPM16_Calibrate
+     821  0x2c8b0  LV_Destroy_All_Ctr_Groups
+     822  0x2cdd0  LV_Master_Slave_Config
+     823  0x2cde0  Get_DAQ_Device_Info_Lv
+     824  0x2ce50  Set_DAQ_Device_Info_Lv
+     825  0x2c730  LVnew_Counter_Control
+     826  0x2b700  LV_Calibrate_E_Series
+     827  0x2cfd0  LV_Route_Signal
+     828 0x1313e0  ?niDaqCfqGetDeviceChildF64AttribArray_TheVirtualThing@daqDevice@@UAEFFKKKPANPAK@Z
+     829 0x131970  ?niDaqCfqGetDeviceChildF64AttribPossibilities_TheVirtualThing@daqDevice@@UAEFFKKKPANPAK@Z
+     830  0x2cab0  LV_SCXI_Cal_Constants
+     831 0x1310a0  ?niDaqCfqGetDeviceChildF64Attrib_TheVirtualThing@daqDevice@@UAEFFKKKPAN@Z
+     832 0x131240  ?niDaqCfqGetDeviceChildI32AttribArray_TheVirtualThing@daqDevice@@UAEFFKKKPAJPAK@Z
+     833 0x131580  ?niDaqCfqGetDeviceChildI32AttribPossibilities_TheVirtualThing@daqDevice@@UAEFFKKKPAJPAK@Z
+     834 0x130f00  ?niDaqCfqGetDeviceChildI32Attrib_TheVirtualThing@daqDevice@@UAEFFKKKPAJ@Z
+     835 0x130d60  ?niDaqCfqGetDeviceChildU32Attrib_TheVirtualThing@daqDevice@@UAEFFKKKPAK@Z
+     836 0x130c60  ?niDaqCfqGetDeviceF64Attrib_TheVirtualThing@daqDevice@@UAEFFKPAN@Z
+     837 0x130ce0  ?niDaqCfqGetDeviceI32AttribArray_TheVirtualThing@daqDevice@@UAEFFKPAJPAK@Z
+     838 0x130be0  ?niDaqCfqGetDeviceI32Attrib_TheVirtualThing@daqDevice@@UAEFFKPAJ@Z
+     839 0x130b60  ?niDaqCfqGetDeviceU32Attrib_TheVirtualThing@daqDevice@@UAEFFKPAK@Z
+     840 0x126750  ?read@tDMAIterator@@UAEJAAEPAUtimeStruct@@@Z
+     841 0x126760  ?read@tDMAIterator@@UAEJAAGPAUtimeStruct@@@Z
+     842 0x126770  ?read@tDMAIterator@@UAEJAAKPAUtimeStruct@@@Z
+     843 0x126780  ?read@tDMAIterator@@UAEJPAXPAUtimeStruct@@@Z
+     844 0x126cf0  ?read@tIterator@@UAEJAAEPAUtimeStruct@@@Z
+     845 0x126d10  ?read@tIterator@@UAEJAAGPAUtimeStruct@@@Z
+     846 0x126d30  ?read@tIterator@@UAEJAAKPAUtimeStruct@@@Z
+     847 0x126d50  ?read@tIterator@@UAEJPAXPAUtimeStruct@@@Z
+     848 0x128420  ?read@tScaleIterator@@UAEJAAEPAUtimeStruct@@@Z
+     849 0x128430  ?read@tScaleIterator@@UAEJAAGPAUtimeStruct@@@Z
+     850  0x3a010  SCXIDisconnect
+     851  0x3a080  SCXIConnect
+     852 0x128440  ?read@tScaleIterator@@UAEJAAKPAUtimeStruct@@@Z
+     853 0x128240  ?read@tScaleIterator@@UAEJAAMPAUtimeStruct@@@Z
+     854 0x128450  ?read@tScaleIterator@@UAEJPAXPAUtimeStruct@@@Z
+     855 0x130760  ?readAndWriteDevice_TheVirtualThing@daqDevice@@UAEJKPAX@Z
+     856 0x126790  ?readBlock@tDMAIterator@@UAEJPAXKPAKPAUtimeStruct@@@Z
+     857 0x126d70  ?readBlock@tIterator@@UAEJPAXKPAKPAUtimeStruct@@@Z
+     858 0x128380  ?readBlock@tScaleIterator@@UAEJPAMKPAKPAUtimeStruct@@@Z
+     859 0x128460  ?readBlock@tScaleIterator@@UAEJPAXKPAKPAUtimeStruct@@@Z
+     860 0x126850  ?readBlockObliviously@tDMAIterator@@UAEXPAXK@Z
+     861 0x127350  ?readBlockObliviously@tIterator@@UAEXPAXK@Z
+     862 0x128520  ?readBlockObliviously@tScaleIterator@@UAEXPAXK@Z
+     863  0x32730  SCXI_Strain_Null_Ex
+     864 0x130780  ?readDevice_TheVirtualThing@daqDevice@@UAEJKKPAXKPAKKK@Z
+     865 0x126810  ?readObliviously@tDMAIterator@@UAEXAAE@Z
+     866 0x126820  ?readObliviously@tDMAIterator@@UAEXAAG@Z
+     867 0x126830  ?readObliviously@tDMAIterator@@UAEXAAK@Z
+     868 0x126840  ?readObliviously@tDMAIterator@@UAEXPAX@Z
+     869 0x127210  ?readObliviously@tIterator@@UAEXAAE@Z
+     870 0x127260  ?readObliviously@tIterator@@UAEXAAG@Z
+     871 0x1272b0  ?readObliviously@tIterator@@UAEXAAK@Z
+     872 0x127300  ?readObliviously@tIterator@@UAEXPAX@Z
+     873 0x1284e0  ?readObliviously@tScaleIterator@@UAEXAAE@Z
+     874 0x1284f0  ?readObliviously@tScaleIterator@@UAEXAAG@Z
+     875 0x128500  ?readObliviously@tScaleIterator@@UAEXAAK@Z
+     876 0x128510  ?readObliviously@tScaleIterator@@UAEXPAX@Z
+     877 0x1267a0  ?readViaCallback@tDMAIterator@@UAEJP6AXPAX0K@Z0KPAKPAUtimeStruct@@@Z
+     878 0x126e30  ?readViaCallback@tIterator@@UAEJP6AXPAX0K@Z0KPAKPAUtimeStruct@@@Z
+     879 0x128470  ?readViaCallback@tScaleIterator@@UAEJP6AXPAX0K@Z0KPAKPAUtimeStruct@@@Z
+     880 0x126860  ?readViaCallbackObliviously@tDMAIterator@@UAEXP6AXPAX0K@Z0K@Z
+     881 0x1274d0  ?readViaCallbackObliviously@tIterator@@UAEXP6AXPAX0K@Z0K@Z
+     882 0x128530  ?readViaCallbackObliviously@tScaleIterator@@UAEXP6AXPAX0K@Z0K@Z
+     883 0x126680  ?seek@tDMAIterator@@UAEXJ@Z
+     884 0x1266a0  ?seek@tDMAIterator@@UAEXJABVtIterator@@@Z
+     885  0x36ac0  NIScope_Open
+     886  0x36b30  NIScope_Close
+     887  0x36ba0  NIScope_InitiateAcquisition
+     888  0x36c10  NIScope_Abort
+     889  0x36c80  NIScope_FetchWaveform
+     890  0x36d00  NIScope_SetAttributeViInt32
+     891  0x36d80  NIScope_SetAttributeViReal64
+     892  0x36e00  NIScope_SetAttributeViString
+     893  0x36e80  NIScope_SetAttributeViBoolean
+     894  0x36f00  NIScope_GetAttributeViInt32
+     895  0x36f80  NIScope_GetAttributeViReal64
+     896  0x37000  NIScope_GetAttributeViString
+     897  0x37080  NIScope_GetAttributeViBoolean
+     898  0x37100  NIScope_AcquisitionStatus
+     899  0x37170  NIScope_SendSWTrigger
+     900  0x32520  SCXI_1520_Transducer_Cal
+     901 0x126690  ?seek@tDMAIterator@@UAEXJW4Origin@tIterator@@@Z
+     902  0x35ea0  LDLargeDMAPageLock
+     903  0x35e50  LDDMAarm
+     904  0x35e00  LDDMAdisarm
+     905  0x35d90  LDDMAgetTransfersRemaining
+     906  0x35f20  LDLargeDMAPageUnlock
+     907  0x36250  Get_AO610_Code
+     908  0x35d20  isDeviceBusyWithAsynchOp
+     909  0x362a0  Init_AI_Info
+     910  0x362f0  Init_AO_Info
+     911  0x35ff0  UpdateSCXIInfo
+     912  0x35fa0  MiscInfoToDriver
+     913 0x1269a0  ?seek@tIterator@@UAEXJ@Z
+     914  0x36090  RemoveSCXIChassis
+     915 0x126b10  ?seek@tIterator@@UAEXJABV1@@Z
+     916 0x1269b0  ?seek@tIterator@@UAEXJW4Origin@1@@Z
+     917 0x127e30  ?seek@tSequenceIterator@@UAEXJ@Z
+     918 0x127eb0  ?seek@tSequenceIterator@@UAEXJABVtIterator@@@Z
+     919 0x127e40  ?seek@tSequenceIterator@@UAEXJW4Origin@tIterator@@@Z
+     920 0x131e70  ?self_test_TheVirtualThing@daqDevice@@UAEJF@Z
+     921 0x131d40  ?setAttribute_TheVirtualThing@daqDevice@@UAEJKKKJNPAX@Z
+     922 0x126660  ?setDMASnapshotCallback@tDMAIterator@@UAEXP6A?AVu64@@PAX@Z0@Z
+     923 0x1266d0  ?snapshot@tDMAIterator@@UBE?AVu64@@AAV2@@Z
+     924 0x1266f0  ?snapshot@tDMAIterator@@UBE?AVu64@@XZ
+     925 0x126c50  ?snapshot@tIterator@@UBE?AVu64@@AAV2@@Z
+     926 0x126cb0  ?snapshot@tIterator@@UBE?AVu64@@XZ
+     927   0xc120  ?storeChannelInfoToString_TheVirtualThing@daqDevice@@UAEFKPADJ@Z
+     928   0xc100  ?storeVirtualChannels_TheVirtualThing@daqDevice@@UAEFKPAD@Z
+     929 0x131bd0  ?validateDeviceAOLimits_TheVirtualThing@daqDevice@@UAEFFMMGG@Z
+     930 0x1267b0  ?write@tDMAIterator@@UAEJABEPAUtimeStruct@@@Z
+     931 0x1267c0  ?write@tDMAIterator@@UAEJABGPAUtimeStruct@@@Z
+     932 0x1267d0  ?write@tDMAIterator@@UAEJABKPAUtimeStruct@@@Z
+     933 0x1267e0  ?write@tDMAIterator@@UAEJPBXPAUtimeStruct@@@Z
+     934 0x126d90  ?write@tIterator@@UAEJABEPAUtimeStruct@@@Z
+     935 0x126db0  ?write@tIterator@@UAEJABGPAUtimeStruct@@@Z
+     936 0x126dd0  ?write@tIterator@@UAEJABKPAUtimeStruct@@@Z
+     937 0x126df0  ?write@tIterator@@UAEJPBXPAUtimeStruct@@@Z
+     938 0x128480  ?write@tScaleIterator@@UAEJABEPAUtimeStruct@@@Z
+     939 0x128490  ?write@tScaleIterator@@UAEJABGPAUtimeStruct@@@Z
+     940 0x1284a0  ?write@tScaleIterator@@UAEJABKPAUtimeStruct@@@Z
+     941 0x1282f0  ?write@tScaleIterator@@UAEJABMPAUtimeStruct@@@Z
+     942 0x1284b0  ?write@tScaleIterator@@UAEJPBXPAUtimeStruct@@@Z
+     943 0x1267f0  ?writeBlock@tDMAIterator@@UAEJPBXKPAKPAUtimeStruct@@@Z
+     944 0x126e10  ?writeBlock@tIterator@@UAEJPBXKPAKPAUtimeStruct@@@Z
+     945 0x1283d0  ?writeBlock@tScaleIterator@@UAEJPBMKPAKPAUtimeStruct@@@Z
+     946 0x1284c0  ?writeBlock@tScaleIterator@@UAEJPBXKPAKPAUtimeStruct@@@Z
+     947 0x1268b0  ?writeBlockObliviously@tDMAIterator@@UAEXPBXK@Z
+     948 0x1274b0  ?writeBlockObliviously@tIterator@@UAEXPBXK@Z
+     949 0x128580  ?writeBlockObliviously@tScaleIterator@@UAEXPBXK@Z
+     950  0x39c70  HighRes_GetCalInfo
+     951  0x39cf0  HighRes_SetCalInfo
+     952  0x39d70  HighRes_GetCalConstant
+     953  0x39e00  HighRes_SetCalConstant
+     954  0x39e90  HighRes_SetCalibrationPassword
+     955  0x39f10  HighRes_UpdateCalConstants
+     956  0x39fa0  HighRes_SetCalibrationMode
+     957 0x1307b0  ?writeDevice_TheVirtualThing@daqDevice@@UAEJKKPAXKKKK0@Z
+     958 0x126870  ?writeObliviously@tDMAIterator@@UAEXABE@Z
+     959 0x126880  ?writeObliviously@tDMAIterator@@UAEXABG@Z
+     960 0x126890  ?writeObliviously@tDMAIterator@@UAEXABK@Z
+     961 0x1268a0  ?writeObliviously@tDMAIterator@@UAEXPBX@Z
+     962  0x330d0  SCXI_Set_Communication_Speed
+     963 0x127370  ?writeObliviously@tIterator@@UAEXABE@Z
+     964 0x1273c0  ?writeObliviously@tIterator@@UAEXABG@Z
+     965 0x127410  ?writeObliviously@tIterator@@UAEXABK@Z
+     966 0x127460  ?writeObliviously@tIterator@@UAEXPBX@Z
+     967 0x128540  ?writeObliviously@tScaleIterator@@UAEXABE@Z
+     968 0x128550  ?writeObliviously@tScaleIterator@@UAEXABG@Z
+     969 0x128560  ?writeObliviously@tScaleIterator@@UAEXABK@Z
+     970 0x128570  ?writeObliviously@tScaleIterator@@UAEXPBX@Z
+     971 0x126800  ?writeViaCallback@tDMAIterator@@UAEJP6AXPAX0K@Z0KPAKPAUtimeStruct@@@Z
+     972 0x127020  ?writeViaCallback@tIterator@@UAEJP6AXPAX0K@Z0KPAKPAUtimeStruct@@@Z
+     973 0x1284d0  ?writeViaCallback@tScaleIterator@@UAEJP6AXPAX0K@Z0KPAKPAUtimeStruct@@@Z
+     974 0x1268c0  ?writeViaCallbackObliviously@tDMAIterator@@UAEXP6AXPAX0K@Z0K@Z
+     975 0x127550  ?writeViaCallbackObliviously@tIterator@@UAEXP6AXPAX0K@Z0K@Z
+     976 0x128590  ?writeViaCallbackObliviously@tScaleIterator@@UAEXP6AXPAX0K@Z0K@Z
+     977  0x2b7f0  DIG_Rate
+     978  0x78920  MrCleanInstallHandler
+     979  0x78a60  MrCleanInstallHandlerRedirect
+     980  0x78970  MrCleanRemoveHandler
+     981  0x78aa0  MrCleanRemoveHandlerRedirect
+     982 0x13eaf0  NIMakeDAQDevelopmentDevice
+     983 0x13e8b0  NIMakeDAQTIODevice
+     984 0x13dcc0  NIMakeDAQao2dc
+     985 0x13dd90  NIMakeDAQao48xdc
+     986 0x13dfd0  NIMakeDAQaowfm673xDevice
+     987 0x13de30  NIMakeDAQaowfm67xxDevice
+     988 0x13e0a0  NIMakeDAQarb54xxDevice
+     989  0x32bb0  SCXI_Configure_Filter_NoStatusCheck
+     990 0x13e170  NIMakeDAQdaqes
+     991 0x13e240  NIMakeDAQdio128
+     992 0x13e2e0  NIMakeDAQdiox
+     993 0x13e390  NIMakeDAQds51xxDevice
+     994 0x13e460  NIMakeDAQdsaSTCDevice
+     995 0x13e540  NIMakeDAQdsaTIODevice
+     996  0xa3250  NIMakeDAQeSeriesDevice
+     997 0x13e5f0  NIMakeDAQflex59xxDevice
+     998 0x1163b0  NIMakeDAQhs51xxDevice
+     999  0xc88e0  NIMakeDAQhsDIOdevice
+    1000  0x2b960  LV_DIG_Group_Config
+    1001  0x2ba10  LV_DIG_Group_Mode_Config
+    1002  0x2baa0  LV_DIG_Group_Read
+    1003  0x2bb20  LV_DIG_Group_Write
+    1004  0x2b870  _LV_get_DIG_group_info
+    1005  0x2bc40  LV_DIG_Group_Buf_Config
+    1006  0x2bcb0  LV_DIG_Group_Buf_Control
+    1007  0x2b8e0  _LV_get_DIG_group_buffer_info
+    1008  0x2bd30  LV_DIG_Group_Buf_Read
+    1009  0x2bdc0  LV_DIG_Group_Buf_Write
+    1010  0x2bba0  LV_DIG_Group_Clk_Config
+    1011  0x357d0  DIG_DBX_HalfReady
+    1012  0x2be50  LV_Destroy_All_DIG_Group_Groups
+    1013 0x1242e0  NIMakeDAQni5620Device
+    1014 0x13e690  NIMakeDAQoldDaqDevice
+    1015 0x13e730  NIMakeDAQopdiox
+    1016 0x13e7e0  NIMakeDAQsmio61xxDevice
+    1017 0x13dbf0  NIMakeDAQt652xdevice
+    1018 0x13df00  NIMakeDAQtAOXDCdevice
+    1019  0xa3320  NIMakeDAQtCorrDIODevice
+    1020  0xa3150  NIMakeDAQtDEseriesDevice
+    1021 0x13e980  NIMakeDAQtUSBBridge
+    1022  0xa8cd0  NIMakeDAQwalrusDevice
+    1023 0x13ea20  NIMakeDAQxx70xxDevice
+    1024 0x211866  _16slotInitMap
+    1025 0x211860  _SCXIchassis
+    1026 0x1c3f10  _cleanupSCXIscan
+    1027 0x1c1510  _computeScanLength
+    1028 0x21185c  _numSCXIchassis
+    1029 0x1c1550  _setupSCXIscan
+    1030 0x195030  _updateDMMChannelClock
+    1031 0x182fd0  getDevicePtr
+    1032 0x131d60  legacyHackTableReadDeviceHandleExport
+    1033 0x185900  palStatusMapStatusValue
+    1034 0x183c10  removeLibraryDevices
+    1100  0x2c990  Set_SCXI_Information
+    1101  0x2ca20  Get_SCXI_Information
+    1102  0x2b0c0  AI_Save_Scale_Coeff
+    1103  0x2b150  AI_Retrieve_Scale_Coeff
+    1104  0x2b030  Scaling_Constant_Tuner
+    1105  0x35c30  _New_SCAN_Setup
+    1111  0x3a920  NIScope_FetchTriggerTime
+    1200  0x357e0  __cal_dac_write_
+    1201  0x35850  __eeprom_read_
+    1202  0x358d0  __eeprom_write_
+    1203  0x35b90  DAQ_STC_Control
+    1204  0x2d9a0  HWTests_EnableTransPrn
+    1205  0x2d930  HWTests_DisableTransPrn
+    1206  0x35ba0  Set_ES_Device_Info
+    1207  0x2da10  HWTests_Generic_Function
+    1210  0x35100  SCXI_Get_Module_Config
+    1211  0x35180  SCXI_Module_Write
+    1212  0x35200  SCXI_Module_Read
+    1213  0x35280  SCXI_ModuleID_Read
+    1214  0x35320  SCXI_Slot_Select
+    1215  0x35390  SCXI_Set_INTR
+    1216  0x35400  SCXI_Set_DA
+    1217  0x35470  SCXI_Set_MOSI
+    1218  0x354e0  SCXI_Test_MISO
+    1219  0x35550  SCXI_Pulse_SPICLK
+    1220  0x355c0  SCXI_Clock_Bytes
+    1221  0x35640  _get_daq_numpts
+    1222  0x36440  _get_grp_size
+    1223  0x364b0  _get_LS_numChans
+    1224  0x36540  _get_WF_load_cnt
+    1225  0x36520  _get_MAI_numChans
+    1226  0x36530  _get_MDAQ_frameSize
+    1227  0x363d0  _get_DIG_Block_count
+    1228  0x36620  make_daq_brd_idle
+    1229  0x365b0  _get_WFM_alias_indices
+    1230  0x31660  SCXI_Get_Gain
+    1231  0x35090  _get_AI_Scan_Width
+    1232  0x36670  DAQDriver
+    1300  0x35950  __eeprom_protect_
+    1301  0x359c0  __eeprom_unprotect_
+    1302  0x35a30  __eeprom_query_protection_
+    1310  0x2b2b0  Channel_To_User_Or_Actual_Index
+    1311  0x2b330  User_Or_Actual_Index_To_Channel
+    1312  0x2b3b0  _ChWizScalePhysicalReadingsToSensorReadings
+    1313  0x2b430  _ChWizScaleSensorReadingsToRawReadings
+    1314  0x2b4b0  _ChWizGetRawToSensorOffsetAndMultiplier
+    1315  0x2b530  _ChWizScaleSensorReadingsToPhysicalReadings
+    1478  0x33010  SCXI_AutoDetect
+    1479  0x33140  SCXI_TestChassis
+    1500  0x35cb0  LPTTypeDetected
+    1501  0x2d0c0  CardActivationTest
+    1508  0x36340  TestDeviceBaseAddress
+    1509  0x363b0  MapGlobalIDToNidaq
+    1510  0x363c0  MapNidaqIDToGlobal
+    1511  0x36680  Init_DA_Brds2
+    1512  0x366f0  GetDeviceType
+    1513  0x36700  Get_ES_Device_Info
+    1514  0x36710  TestDeviceDMAChannels
+    1515  0x36780  TestDeviceIRQLevels
+    1520  0x367f0  MapVir32ToVir1616
+    1521  0x36860  UnmapVir32ToVir1616
+    1533  0x368d0  RmtSCXICallbackDispatcher
+    1534  0x368f0  _LDLargePIOPageLock
+    1535  0x36910  _LDLargePIOPageUnlock
+    1536  0x36930  SCXI_Remote_Config
+    1537  0x369b0  _LDMapAndCopyMemory
+    1540  0x369e0  destroyDevice
+    1541  0x36a50  testDevice
+    1543  0x37ab0  SetDeviceMITEDMAmodes
+    1544  0x37b20  VXIConfigOnbrdMemory
+    1545  0x37ba0  getVXIDAQviSession
+    1546  0x37c10  getVXIDAQdeviceNum
+    1547  0x37c80  RmtSCXIReProg
+    1549  0x37d00  getNumberOfVXIDAQinterrupts
+    1550  0x37d60  SetIRQHandlingMethod
+    1554  0x37dc0  GetKernelModeDeviceAccess
+    1555  0x37e30  DisableVXIMoveInNIDAQ
+    1556  0x37ea0  RmtSCXIPktDispatcher
+    1557  0x37f20  vxiDaqEventHandler
+    1570  0x37f40  AOParameter
+    1571  0x37fe0  AIParameter
+    1572  0x38080  DIOParameter
+    1575  0x38120  LV_DIG_Group_Buf_Control_50
+    1576  0x381a0  LV_DIG_Trigger_Config
+    1577  0x38230  DIG_Trigger_Config
+    1578  0x382e0  exportedPageLock
+    1579  0x38300  exportedPageUnlock
+    1580  0x38320  DMAPageLock
+    1581  0x383a0  DMAPageUnlock
+    1582  0x38420  DMAAlloc
+    1583  0x384a0  DMAFree
+    1584  0x38500  unloadConfiguration
+    1585  0x385e0  reloadConfiguration
+    1586  0x38650  SCXI_LoadAllConfig
+    1588  0x386b0  Get_SCXI_Chassis_Information_Only
+    1589  0x38730  createAddressSpace
+    1590  0x387b0  destroyAddressSpace
+    1591  0x38820  readAndWriteDevice
+    1592  0x38890  readDevice
+    1593  0x38910  writeDevice
+    1594  0x389a0  SCXI_Set_Threshold
+    1596  0x38a50  LV_TioCombineSignals
+    1599  0x38ac0  LV_LineChangeAttribute
+    1600  0x38b40  LV_TioSelectSignal
+    1601  0x38bc0  LV_SelectSignal
+    1602  0x38c40  WFM_Set_Clock
+    1603  0x38cf0  DAQ_Set_Clock
+    1604  0x38d90  Tio_Select_Signal
+    1605  0x38e30  Tio_Combine_Signals
+    1606  0x38ed0  LV_DIG_Single_Read
+    1607  0x38f60  LV_DIG_Single_Write
+    1610  0x38ff0  GetStaticallyStoredNumChans
+    1613  0x39060  _get_daq_sample_bytesize
+    1614  0x390d0  _get_wfm_sample_bytesize
+    1615  0x39140  DIG_Read_Buffer
+    1616  0x391d0  DIG_Write_Buffer
+    1617  0x39260  DIG_Snapshot
+    1618  0x392f0  LVdigPassBufferAndIterator
+    1620  0x39370  LV_DIG_Port_Config_65
+    1627  0x393f0  LV_CtrGroupConfig
+    1628  0x39470  LV_CtrSetAttribute
+    1629  0x394f0  LV_CtrGetAttribute
+    1630  0x39570  LV_CtrConfigBuffer
+    1631  0x395e0  LV_CtrRead
+    1632  0x39680  LV_CtrControl
+    1633  0x39700  LV_DIG_Group_Mode_Config_65
+    1634  0x397a0  getLastCalibrationState
+    1635  0x39820  DIG_In_Prt
+    1636  0x398c0  DIG_Out_Prt
+    1653  0x39960  AI_Get_Overloaded_Channels
+    1654  0x39a00  LV_Route_Signal_65
+    1670  0x39b80  HSDL_Get_AI_Buffer_Info
+    1671  0x39bf0  DAQ_Check96
+    1674  0x3a0f0  LV_TIO_Calibrate
+    1675  0x3a170  Calibrate_TIO
+    1676  0x3a210  DIG_Change_Message_Config
+    1677  0x3a2c0  DIG_Change_Message_Control
+    1678  0x3a350  DIG_Filter_Config
+    1679  0x3a3f0  LV_DIO_Change_Message_Config
+    1680  0x3a4f0  LV_DIO_Change_Message_Control
+    1681  0x2a710  AI_Buffer_Read_WDT
+    1682  0x2a6a0  storeVirtualChannels
+    1684  0x2a620  Channel_to_Index_VB
+    1685  0x2a5b0  Get_Number_Of_Channels
+    1686  0x2a540  getScaleObjSize
+    1687  0x2a4d0  storeChannelInfoToString
+    1688  0x2a7e0  AI_Buffer_Read_Timestamp
+    1689  0x3b070  VBLogger_createScaleObjects
+    1690  0x3b0f0  VBLogger_storeScales
+    1691  0x3b170  _get_attribute_string_sizes
+    1692  0x3b1f0  _get_attribute_strings
+    1693  0x30350  DIG_In_Port_GFS
+    1694  0x2c010  LV_DIG_Port_Read_GFS
+    1695  0x2c0a0  LV_DIG_Port_Write_GFS
+    1696  0x30610  DIG_Out_Port_GFS
+    1697  0x2abf0  AI_Single_Scan_GFS
+    1698  0x2abd0  DAQ_NB_CLEAR
+    1699  0x2aa90  AI_Control_GFS
+    1700  0x37a30  NIScope_SetFilterCoefficients
+    1701  0x2d250  LV_AO_Single_Update_Config_GFS
+    1702  0x2d280  LV_AO_Single_Update_GFS
+    1703  0x302c0  Query_Optimizations_GFS
+    1881  0x3afd0  SCXI_TerminalBlockID_Read
+    2000  0x3b270  ni62xx_CalStart
+    2001  0x3b300  ni62xx_CalAdjust
+    2002  0x3b3a0  ni62xx_CalEnd
+    2003  0x3b430  ni62xx_SelfCalibrate
+    2004  0x3b4c0  CalFetchInternalReference
+    2005  0x3b550  CalChangePassword
+    2006  0x3b5f0  CalFetchCount
+    2007  0x3b690  CalFetchDate
+    2008  0x3b730  CalFetchTemperature
+    2009  0x3b7d0  CalFetchMiscInfo
+    2010  0x3b860  CalStoreMiscInfo
+    2011  0x3b8f0  ISeries_ConfigurePFILines
+    2013  0x3b970  LV_LineChangeAttribute_690
+    2014  0x3bd30  AI_Change_Parameter_Walrus
+    2015  0x2de60  AI_Read32
+    2415  0x38570  clearLVLayerDataForDevice
+    2461  0x39a80  Fgen54xx_GetAttribute
+    2462  0x39b00  Fgen54xx_SetAttribute
+    3487  0x3a480  UpdateRemoteNIDAQ
+    9875  0x3ae70  NIScope_SuperFetch
+    9876  0x3a990  NIScope_Status
+    9877  0x3af20  NIScope_AlmostSuperFetch

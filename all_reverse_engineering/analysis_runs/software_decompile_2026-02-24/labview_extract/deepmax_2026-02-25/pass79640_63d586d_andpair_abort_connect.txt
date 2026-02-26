@@ -1,0 +1,17 @@
+51140:18cddf Connection aborted
+52037:1b8fa2 Network is down or unreachable.$Network address is currently in use.;Not enough system memory to complete the network operation.3System caused the network connection to be aborted.
+53309:1cd94a Connection aborted
+102508:4ce5bb qTCP ncSysConnAbortedErr:  The system caused the connection to be aborted.
+223566:c576 Connection aborted
+260941:247193 qTCP ncSysConnAbortedErr:  The system caused the connection to be aborted.
+314949:164d64 qTCP ncSysConnAbortedErr:  The system caused the connection to be aborted.
+341426:104334 qTCP ncSysConnAbortedErr:  The system caused the connection to be aborted.
+371379:180bb5 qTCP ncSysConnAbortedErr:  The system caused the connection to be aborted.
+406594:3cf644 Connection aborted
+434080:f47d8 qTCP ncSysConnAbortedErr:  The system caused the connection to be aborted.
+470059:103d59 qTCP ncSysConnAbortedErr:  The system caused the connection to be aborted.
+503889:1e1b56 qTCP ncSysConnAbortedErr:  The system caused the connection to be aborted.
+528571:3cb276 Connection aborted
+546455:f36e8 qTCP ncSysConnAbortedErr:  The system caused the connection to be aborted.
+579308:165a1a qTCP ncSysConnAbortedErr:  The system caused the connection to be aborted.
+596236:e5492 Connection aborted

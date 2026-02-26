@@ -1,0 +1,32 @@
+52412:1bc147 Could not load VI resource.,Version of VI is newer than LabVIEW version.?Version of VI is too old to convert to current LabVIEW version.JVI cannot be converted to current version because it has no block diagram."Could not load connector type map.
+52414:1bc277 Could not load default data.+Could not load data space link information.%Could not load VI's link information.&Could not load LVSB platform resource.6Demonstration versions of LabVIEW cannot load this VI.
+102476:4cdc93 GPIB EFSO: File system operation error.PLabVIEW: Resource file not found.
+102477:4cdcdf GPIB EOWN: Sharable board exclusively owned.:LabVIEW: Cannot add resource.
+102478:4cdd2c GPIB EBUS: GPIB bus error.JLabVIEW: Resource not found.
+260909:24686b GPIB EFSO: File system operation error.PLabVIEW: Resource file not found.
+260910:2468b7 GPIB EOWN: Sharable board exclusively owned.:LabVIEW: Cannot add resource.
+260911:246904 GPIB EBUS: GPIB bus error.JLabVIEW: Resource not found.
+314917:16443c GPIB EFSO: File system operation error.PLabVIEW: Resource file not found.
+314918:164488 GPIB EOWN: Sharable board exclusively owned.:LabVIEW: Cannot add resource.
+314919:1644d5 GPIB EBUS: GPIB bus error.JLabVIEW: Resource not found.
+341394:103a0c GPIB EFSO: File system operation error.PLabVIEW: Resource file not found.
+341395:103a58 GPIB EOWN: Sharable board exclusively owned.:LabVIEW: Cannot add resource.
+341396:103aa5 GPIB EBUS: GPIB bus error.JLabVIEW: Resource not found.
+371347:18028d GPIB EFSO: File system operation error.PLabVIEW: Resource file not found.
+371348:1802d9 GPIB EOWN: Sharable board exclusively owned.:LabVIEW: Cannot add resource.
+371349:180326 GPIB EBUS: GPIB bus error.JLabVIEW: Resource not found.
+434048:f3eb0 GPIB EFSO: File system operation error.PLabVIEW: Resource file not found.
+434049:f3efc GPIB EOWN: Sharable board exclusively owned.:LabVIEW: Cannot add resource.
+434050:f3f49 GPIB EBUS: GPIB bus error.JLabVIEW: Resource not found.
+470027:103431 GPIB EFSO: File system operation error.PLabVIEW: Resource file not found.
+470028:10347d GPIB EOWN: Sharable board exclusively owned.:LabVIEW: Cannot add resource.
+470029:1034ca GPIB EBUS: GPIB bus error.JLabVIEW: Resource not found.
+503857:1e122e GPIB EFSO: File system operation error.PLabVIEW: Resource file not found.
+503858:1e127a GPIB EOWN: Sharable board exclusively owned.:LabVIEW: Cannot add resource.
+503859:1e12c7 GPIB EBUS: GPIB bus error.JLabVIEW: Resource not found.
+546423:f2dc0 GPIB EFSO: File system operation error.PLabVIEW: Resource file not found.
+546424:f2e0c GPIB EOWN: Sharable board exclusively owned.:LabVIEW: Cannot add resource.
+546425:f2e59 GPIB EBUS: GPIB bus error.JLabVIEW: Resource not found.
+579276:1650f2 GPIB EFSO: File system operation error.PLabVIEW: Resource file not found.
+579277:16513e GPIB EOWN: Sharable board exclusively owned.:LabVIEW: Cannot add resource.
+579278:16518b GPIB EBUS: GPIB bus error.JLabVIEW: Resource not found.

@@ -1,0 +1,49 @@
+51088:18c962 Generic file I/O error
+51999:1b89cd File is already open. Generic file I/O error occurred.
+53079:1cc873 Generic File IO Error
+53123:1ccb9e Generic File IO Error
+53167:1ccec9 Generic File IO Error
+53211:1cd1f4 Generic File IO Error
+53255:1cd517 Generic File IO Error
+99554:4929f7 Generic File IO Error
+99598:492d22 Generic File IO Error
+101088:4ab94c Generic File IO Error
+102469:4cda92 GPIB ESAC: Command requries GPIB Controller to be System Controller.FLabVIEW: Generic file I/O error.
+223336:b49f Generic File IO Error
+223380:b7ca Generic File IO Error
+223424:baf5 Generic File IO Error
+223468:be20 Generic File IO Error
+223512:c143 Generic File IO Error
+257884:209323 Generic File IO Error
+257928:20964e Generic File IO Error
+259485:2239fc Generic File IO Error
+260902:24666a GPIB ESAC: Command requries GPIB Controller to be System Controller.FLabVIEW: Generic file I/O error.
+314910:16423b GPIB ESAC: Command requries GPIB Controller to be System Controller.FLabVIEW: Generic file I/O error.
+341387:10380b GPIB ESAC: Command requries GPIB Controller to be System Controller.FLabVIEW: Generic file I/O error.
+371340:18008c GPIB ESAC: Command requries GPIB Controller to be System Controller.FLabVIEW: Generic file I/O error.
+372454:194680 Generic File IO Error
+374154:1af3f2 Generic File IO Error
+374198:1af71d Generic File IO Error
+406364:3ce56d Generic File IO Error
+406408:3ce898 Generic File IO Error
+406452:3cebc3 Generic File IO Error
+406496:3ceeee Generic File IO Error
+406540:3cf211 Generic File IO Error
+434041:f3caf GPIB ESAC: Command requries GPIB Controller to be System Controller.FLabVIEW: Generic file I/O error.
+470020:103230 GPIB ESAC: Command requries GPIB Controller to be System Controller.FLabVIEW: Generic file I/O error.
+503850:1e102d GPIB ESAC: Command requries GPIB Controller to be System Controller.FLabVIEW: Generic file I/O error.
+504843:1f44a5 Generic File IO Error
+505983:209192 Generic File IO Error
+506027:2094bd Generic File IO Error
+528341:3ca19f Generic File IO Error
+528385:3ca4ca Generic File IO Error
+528429:3ca7f5 Generic File IO Error
+528473:3cab20 Generic File IO Error
+528517:3cae43 Generic File IO Error
+546416:f2bbf GPIB ESAC: Command requries GPIB Controller to be System Controller.FLabVIEW: Generic file I/O error.
+579269:164ef1 GPIB ESAC: Command requries GPIB Controller to be System Controller.FLabVIEW: Generic file I/O error.
+596006:e43bb Generic File IO Error
+596050:e46e6 Generic File IO Error
+596094:e4a11 Generic File IO Error
+596138:e4d3c Generic File IO Error
+596182:e505f Generic File IO Error

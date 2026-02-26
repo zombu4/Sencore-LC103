@@ -1,0 +1,33 @@
+51993:1b87e1 The log file path associated with this VI refers to an existing directory, VI library or non-datalog file.  Do you want to use this path anyway?
+52982:1cabb8 opens an existing file. Error 7 occurs if the file cannot be found.
+54002:1dba6c 0 (open) opens an existing file.  Error 7 occurs if the file cannot be found.
+102958:4d61cb Writes a character string to a new byte stream file or appends the string to an existing file.  The VI opens or creates the file beforehand and closes it afterwards.
+102961:4d6387 append to file?  Set to TRUE if you want to append the data to a existing file; you can also set it TRUE to write to a new file.  Set to FALSE (default value) if you want to write the data to a new file or to replace an existing file.
+223239:97e4 opens an existing file. Error 7 occurs if the file cannot be found.
+224259:1a698 0 (open) opens an existing file.  Error 7 occurs if the file cannot be found.
+224495:1d3a4 0 (open) opens an existing file.  Error 7 occurs if the file cannot be found.
+261397:24f12b Writes a character string to a new byte stream file or appends the string to an existing file.  The VI opens or creates the file beforehand and closes it afterwards.
+261400:24f2e7 append to file?  Set to TRUE if you want to append the data to a existing file; you can also set it TRUE to write to a new file.  Set to FALSE (default value) if you want to write the data to a new file or to replace an existing file.
+261609:2507dc Writes a character string to a new byte stream file or appends the string to an existing file.  The VI opens or creates the file beforehand and closes it afterwards.
+261612:250998 append to file?  Set to TRUE if you want to append the data to a existing file; you can also set it TRUE to write to a new file.  Set to FALSE (default value) if you want to write the data to a new file or to replace an existing file.
+370469:168abf Writes a character string to a new byte stream file or appends the string to an existing file.  The VI opens or creates the file beforehand and closes it afterwards.
+370472:168c7b append to file?  Set to TRUE if you want to append the data to a existing file; you can also set it TRUE to write to a new file.  Set to FALSE (default value) if you want to write the data to a new file or to replace an existing file.
+394242:30c5d8 0 (open) opens an existing file.  Error 7 occurs if the file cannot be found.
+404059:3a5a44 Writes a character string to a new byte stream file or appends the string to an existing file.  The VI opens or creates the file beforehand and closes it afterwards.
+404062:3a5c00 append to file?  Set to TRUE if you want to append the data to a existing file; you can also set it TRUE to write to a new file.  Set to FALSE (default value) if you want to write the data to a new file or to replace an existing file.
+406178:3cb8a8 0 (open) opens an existing file.  Error 7 occurs if the file cannot be found.
+406200:3cc6d7 opens an existing file. Error 7 occurs if the file cannot be found.
+503359:1cf7ce Writes a character string to a new byte stream file or appends the string to an existing file.  The VI opens or creates the file beforehand and closes it afterwards.
+503362:1cf98a append to file?  Set to TRUE if you want to append the data to a existing file; you can also set it TRUE to write to a new file.  Set to FALSE (default value) if you want to write the data to a new file or to replace an existing file.
+520834:33bed0 0 (open) opens an existing file.  Error 7 occurs if the file cannot be found.
+527396:3b4690 Writes a character string to a new byte stream file or appends the string to an existing file.  The VI opens or creates the file beforehand and closes it afterwards.
+527399:3b484c append to file?  Set to TRUE if you want to append the data to a existing file; you can also set it TRUE to write to a new file.  Set to FALSE (default value) if you want to write the data to a new file or to replace an existing file.
+528192:3c800f 0 (open) opens an existing file.  Error 7 occurs if the file cannot be found.
+528604:3cc9d3 opens an existing file. Error 7 occurs if the file cannot be found.
+595368:d5248 0 (open) opens an existing file.  Error 7 occurs if the file cannot be found.
+595857:e222b 0 (open) opens an existing file.  Error 7 occurs if the file cannot be found.
+596269:e6bef opens an existing file. Error 7 occurs if the file cannot be found.
+596795:f58f0 Writes a character string to a new byte stream file or appends the string to an existing file.  The VI opens or creates the file beforehand and closes it afterwards.
+596798:f5aac append to file?  Set to TRUE if you want to append the data to a existing file; you can also set it TRUE to write to a new file.  Set to FALSE (default value) if you want to write the data to a new file or to replace an existing file.
+608417:1b6db0 Writes a character string to a new byte stream file or appends the string to an existing file.  The VI opens or creates the file beforehand and closes it afterwards.
+608420:1b6f6c append to file?  Set to TRUE if you want to append the data to a existing file; you can also set it TRUE to write to a new file.  Set to FALSE (default value) if you want to write the data to a new file or to replace an existing file.

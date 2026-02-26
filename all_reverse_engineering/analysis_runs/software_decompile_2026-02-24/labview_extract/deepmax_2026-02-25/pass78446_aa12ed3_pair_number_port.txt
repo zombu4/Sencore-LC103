@@ -1,0 +1,58 @@
+75739:323a21 uqReads the number of characters specified by requested byte count from the serial port indicated in port number. 
+75867:325275 UQbyte count is the number of bytes currently queued up in the serial port buffer.
+75980:3275e3 okReturns in byte count the number of bytes in the input buffer of the serial port indicated in port number.
+103422:4dca2d You can control the number of lines in a port by the parameter port width.  You also have the option of not reconfiguring the port as an output port with each iteration of the VI by setting the iteration control to a non-zero value.
+246060:162361 uqReads the number of characters specified by requested byte count from the serial port indicated in port number. 
+246164:162d03 qReads the number of characters specified by requested byte count from the serial port indicated in port number. 
+246193:163d19 UQbyte count is the number of bytes currently queued up in the serial port buffer.
+246306:166087 okReturns in byte count the number of bytes in the input buffer of the serial port indicated in port number.
+246407:1669fb kReturns in byte count the number of bytes in the input buffer of the serial port indicated in port number.
+261872:255e51 You can control the number of lines in a port by the parameter port width.  You also have the option of not reconfiguring the port as an output port with each iteration of the VI by setting the iteration control to a non-zero value.
+262040:257002 You can control the number of lines in a port by the parameter port width.  You also have the option of not reconfiguring the port as an output port with each iteration of the VI by setting the iteration control to a non-zero value.
+308282:eb956 uqReads the number of characters specified by requested byte count from the serial port indicated in port number. 
+308384:ec2f3 qReads the number of characters specified by requested byte count from the serial port indicated in port number. 
+308413:ed304 UQbyte count is the number of bytes currently queued up in the serial port buffer.
+308525:ef672 okReturns in byte count the number of bytes in the input buffer of the serial port indicated in port number.
+308623:effdf kReturns in byte count the number of bytes in the input buffer of the serial port indicated in port number.
+315374:16d430 You can control the number of lines in a port by the parameter port width.  You also have the option of not reconfiguring the port as an output port with each iteration of the VI by setting the iteration control to a non-zero value.
+315540:16e5d6 You can control the number of lines in a port by the parameter port width.  You also have the option of not reconfiguring the port as an output port with each iteration of the VI by setting the iteration control to a non-zero value.
+341596:1075f6 You can control the number of lines in a port by the parameter port width.  You also have the option of not reconfiguring the port as an output port with each iteration of the VI by setting the iteration control to a non-zero value.
+341860:10cabd You can control the number of lines in a port by the parameter port width.  You also have the option of not reconfiguring the port as an output port with each iteration of the VI by setting the iteration control to a non-zero value.
+369993:1621f7 You can control the number of lines in a port by the parameter port width.  You also have the option of not reconfiguring the port as an output port with each iteration of the VI by setting the iteration control to a non-zero value.
+396594:330a77 okReturns in byte count the number of bytes in the input buffer of the serial port indicated in port number.
+396611:330d21 UQbyte count is the number of bytes currently queued up in the serial port buffer.
+396892:334dbb uqReads the number of characters specified by requested byte count from the serial port indicated in port number. 
+404007:3a3a37 qReads the number of characters specified by requested byte count from the serial port indicated in port number. 
+404008:3a3ab3 kReturns in byte count the number of bytes in the input buffer of the serial port indicated in port number.
+404066:3a5eee You can control the number of lines in a port by the parameter port width.  You also have the option of not reconfiguring the port as an output port with each iteration of the VI by setting the iteration control to a non-zero value.
+433235:dc554 You can control the number of lines in a port by the parameter port width.  You also have the option of not reconfiguring the port as an output port with each iteration of the VI by setting the iteration control to a non-zero value.
+440783:163dba okReturns in byte count the number of bytes in the input buffer of the serial port indicated in port number.
+440800:164064 UQbyte count is the number of bytes currently queued up in the serial port buffer.
+441083:168104 uqReads the number of characters specified by requested byte count from the serial port indicated in port number. 
+442990:185467 qReads the number of characters specified by requested byte count from the serial port indicated in port number. 
+442991:1854e3 kReturns in byte count the number of bytes in the input buffer of the serial port indicated in port number.
+443015:185e66 You can control the number of lines in a port by the parameter port width.  You also have the option of not reconfiguring the port as an output port with each iteration of the VI by setting the iteration control to a non-zero value.
+467315:cce46 You can control the number of lines in a port by the parameter port width.  You also have the option of not reconfiguring the port as an output port with each iteration of the VI by setting the iteration control to a non-zero value.
+470943:11468a You can control the number of lines in a port by the parameter port width.  You also have the option of not reconfiguring the port as an output port with each iteration of the VI by setting the iteration control to a non-zero value.
+502995:1c89b8 You can control the number of lines in a port by the parameter port width.  You also have the option of not reconfiguring the port as an output port with each iteration of the VI by setting the iteration control to a non-zero value.
+521514:349828 okReturns in byte count the number of bytes in the input buffer of the serial port indicated in port number.
+521566:34a1b4 Qbyte count is the number of bytes currently queued up in the serial port buffer.
+521719:34caa8 uqReads the number of characters specified by requested byte count from the serial port indicated in port number. 
+527344:3b2683 qReads the number of characters specified by requested byte count from the serial port indicated in port number. 
+527345:3b26ff kReturns in byte count the number of bytes in the input buffer of the serial port indicated in port number.
+527403:3b4b3a You can control the number of lines in a port by the parameter port width.  You also have the option of not reconfiguring the port as an output port with each iteration of the VI by setting the iteration control to a non-zero value.
+545610:db464 You can control the number of lines in a port by the parameter port width.  You also have the option of not reconfiguring the port as an output port with each iteration of the VI by setting the iteration control to a non-zero value.
+548944:121e5a You can control the number of lines in a port by the parameter port width.  You also have the option of not reconfiguring the port as an output port with each iteration of the VI by setting the iteration control to a non-zero value.
+556363:1a3f17 qReads the number of characters specified by requested byte count from the serial port indicated in port number. 
+556364:1a3f93 kReturns in byte count the number of bytes in the input buffer of the serial port indicated in port number.
+558118:1c3956 okReturns in byte count the number of bytes in the input buffer of the serial port indicated in port number.
+558167:1c42e2 Qbyte count is the number of bytes currently queued up in the serial port buffer.
+558323:1c6bdd uqReads the number of characters specified by requested byte count from the serial port indicated in port number. 
+577723:13c65e You can control the number of lines in a port by the parameter port width.  You also have the option of not reconfiguring the port as an output port with each iteration of the VI by setting the iteration control to a non-zero value.
+580187:176a2e You can control the number of lines in a port by the parameter port width.  You also have the option of not reconfiguring the port as an output port with each iteration of the VI by setting the iteration control to a non-zero value.
+596743:f38e3 qReads the number of characters specified by requested byte count from the serial port indicated in port number. 
+596744:f395f kReturns in byte count the number of bytes in the input buffer of the serial port indicated in port number.
+596802:f5d9a You can control the number of lines in a port by the parameter port width.  You also have the option of not reconfiguring the port as an output port with each iteration of the VI by setting the iteration control to a non-zero value.
+600529:131143 qReads the number of characters specified by requested byte count from the serial port indicated in port number. 
+600676:13317f kReturns in byte count the number of bytes in the input buffer of the serial port indicated in port number.
+608562:1b9012 You can control the number of lines in a port by the parameter port width.  You also have the option of not reconfiguring the port as an output port with each iteration of the VI by setting the iteration control to a non-zero value.

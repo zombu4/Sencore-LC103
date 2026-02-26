@@ -1,0 +1,15 @@
+52409:1bc043 LabVIEW load error code %ld: %p,Could not load front panel link information.
+100218:49d6bf error in is a cluster of elements that describes any previous error you want to check. If it is unwired or indicates no error, the VI checks the error codes array instead. See Simple Error Handler for additional information.
+101604:4b78cd |xerror out contains the same information as status out, code out, and source out. It has the same structure as error in.
+258572:214a9f error in is a cluster of elements that describes any previous error you want to check. If it is unwired or indicates no error, the VI checks the error codes array instead. See Simple Error Handler for additional information.
+260037:2304a5 |xerror out contains the same information as status out, code out, and source out. It has the same structure as error in.
+314025:14e0c2 |xerror out contains the same information as status out, code out, and source out. It has the same structure as error in.
+340508:ed6a5 |xerror out contains the same information as status out, code out, and source out. It has the same structure as error in.
+371474:18422e |xerror out contains the same information as status out, code out, and source out. It has the same structure as error in.
+373379:1a25a6 error in is a cluster of elements that describes any previous error you want to check. If it is unwired or indicates no error, the VI checks the error codes array instead. See Simple Error Handler for additional information.
+434175:f7e51 |xerror out contains the same information as status out, code out, and source out. It has the same structure as error in.
+470154:1073d2 |xerror out contains the same information as status out, code out, and source out. It has the same structure as error in.
+504219:1ea3f7 xerror out contains the same information as status out, code out, and source out. It has the same structure as error in.
+505530:20065b error in is a cluster of elements that describes any previous error you want to check. If it is unwired or indicates no error, the VI checks the error codes array instead. See Simple Error Handler for additional information.
+546550:f6d61 |xerror out contains the same information as status out, code out, and source out. It has the same structure as error in.
+579638:16e2ba xerror out contains the same information as status out, code out, and source out. It has the same structure as error in.

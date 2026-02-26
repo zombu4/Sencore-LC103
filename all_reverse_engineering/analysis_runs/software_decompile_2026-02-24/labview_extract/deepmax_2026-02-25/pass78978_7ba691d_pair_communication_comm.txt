@@ -1,0 +1,401 @@
+52698:1c0d3d RS-232 Communications.vi
+68015:2b0875 (ABC) Uniquely identifies the instrument to establish communications with.  The grammar for the instrument descriptor is shown below.  Parameters are shown in lower-case and optional parameters are shown in square brackets ([]).
+68608:2b5eba Establishes a communication session with a remote instrument based on the instrument descriptor.  Instr Open creates an instr handle that is used by all other VISA Transition Library VIs to perform operations on that session.
+77343:33d12b This vi performs general purpose RS-232 communication.
+77350:33d23d RS-232 Communications.viD.VI
+77384:33d865 RS-232 Communications.vi
+77387:33d8b4 RS-232 Communications.vi
+77395:33d971 RS-232 Communications
+77397:33d98d RS-232 Communications.vi
+77450:33e359 RS-232 Communications.vi
+77521:33e9fe RS-232 Communications.vi
+77522:33ea17 RS-232 Communications.vi
+77523:33ea30 RS-232 Communications.vi
+77524:33ea49 RS-232 Communications.vi
+77525:33ea62 RS-232 Communications.vi
+77526:33ea7b RS-232 Communications.vi
+77527:33ea94 RS-232 Communications.vi
+77528:33eaad RS-232 Communications.vi
+77529:33eac6 RS-232 Communications.vi
+77530:33eadf RS-232 Communications.vi
+77531:33eaf8 RS-232 Communications.vi
+77532:33eb11 RS-232 Communications.vi
+77533:33eb2a RS-232 Communications.vi
+77534:33eb43 RS-232 Communications.vi
+77535:33eb5c RS-232 Communications.vi
+77536:33eb75 RS-232 Communications.vi
+77537:33eb8e RS-232 Communications.vi
+77538:33eba7 RS-232 Communications.vi
+77539:33ebc0 RS-232 Communications.vi
+77806:344275 This vi handles the RS-232 communications for a UUT. FC In and FC Out are used for flow control.
+77819:3444ef RS-232 Communications.viH
+77832:344655 RS-232 Communications.vi
+77848:34474a RS-232 Communications.vi
+77905:34509a RS-232 Communications.vi
+77926:3451c3 RS-232 Communications.vi
+77940:3452e8 UUT Communications Vi
+79484:3600fd Communication Error.`
+79527:360467 Communication Error.
+80456:37099b Communication Error.
+80490:370bd9 Communication Error.
+84786:3b8400 Communications Error^
+84792:3b84e1 Communications Error^
+84873:3b8a88 Communications Error
+84875:3b8ab1 Communications Error
+91291:4203e1 Communications ErrorS
+91359:420912 Communications Error
+92303:42c419 Communications ErrorS
+92387:42ca4b Communications Error
+93414:4393d5 Communications ErrorS
+93505:439ab0 Communications Error
+94399:444bf6 Communications ErrorW
+94481:44527a Communications Error
+95182:44d874 Communications ErrorS
+95260:44dd7e Communications Error
+95959:456c2b Communications ErrorS
+96037:4571d2 Communications Error
+96723:45fca5 Communications ErrorS
+96798:4601ac Communications Error
+99195:48c9b2 Communications ErrorW
+99305:48d252 Communications Error
+106693:5113b2 Communications ErrorW
+106783:51198e Communications Error
+107792:523eb4 Communications ErrorV
+107884:5243ae Communications Error
+109017:536a4f Communications Error.U
+109141:537618 Communications Error.
+110463:5505c2 Communication Error.W
+110561:550b76 Communication Error.0 Failed Calibration. Offset Adjustment too high.( Failed Calibration. Gain Adjustment>10%
+111547:5616d8 Communications ErrorV
+111629:561bab Communications Error
+118837:5e1f66 Communication Error.V
+119164:5e3a92 Communication Error.
+120208:5ed477 RS-232 Communications.vi
+133825:205afe SCXI_Set_Communication_Speed
+238578:f3851 (ABC) Uniquely identifies the instrument to establish communications with.  The grammar for the instrument descriptor is shown below.  Parameters are shown in lower-case and optional parameters are shown in square brackets ([]).
+239171:f8e96 Establishes a communication session with a remote instrument based on the instrument descriptor.  Instr Open creates an instr handle that is used by all other VISA Transition Library VIs to perform operations on that session.
+239418:fa8f4 Establishes a communication session with a remote instrument based on the instrument descriptor.  Instr Open creates an instr handle that is used by all other VISA Transition Library VIs to perform operations on that session.
+247209:17375f RS-232 Communications.vi
+247708:17c05f This vi performs general purpose RS-232 communication.
+247715:17c171 RS-232 Communications.viD.VI
+247749:17c799 RS-232 Communications.vi
+247752:17c7e8 RS-232 Communications.vi
+247760:17c8a5 RS-232 Communications
+247762:17c8c1 RS-232 Communications.vi
+247815:17d28d RS-232 Communications.vi
+247886:17d932 RS-232 Communications.vi
+247887:17d94b RS-232 Communications.vi
+247888:17d964 RS-232 Communications.vi
+247889:17d97d RS-232 Communications.vi
+247890:17d996 RS-232 Communications.vi
+247891:17d9af RS-232 Communications.vi
+247892:17d9c8 RS-232 Communications.vi
+247893:17d9e1 RS-232 Communications.vi
+247894:17d9fa RS-232 Communications.vi
+247895:17da13 RS-232 Communications.vi
+247896:17da2c RS-232 Communications.vi
+247897:17da45 RS-232 Communications.vi
+247898:17da5e RS-232 Communications.vi
+247899:17da77 RS-232 Communications.vi
+247900:17da90 RS-232 Communications.vi
+247901:17daa9 RS-232 Communications.vi
+247902:17dac2 RS-232 Communications.vi
+247903:17dadb RS-232 Communications.vi
+247904:17daf4 RS-232 Communications.vi
+247905:17db14 This vi performs general purpose RS-232 communication.
+248186:183391 This vi handles the RS-232 communications for a UUT. FC In and FC Out are used for flow control.
+248199:18360b RS-232 Communications.viH
+248212:183771 RS-232 Communications.vi
+248228:183866 RS-232 Communications.vi
+248285:1841b6 RS-232 Communications.vi
+248306:1842df RS-232 Communications.vi
+248320:184404 UUT Communications Vi
+248365:184788 This vi handles the RS-232 communications for a UUT. FC In and FC Out are used for flow control.
+249517:19950f Communication Error.
+249551:19974d Communication Error.
+252261:1c530c Communications Error^
+252267:1c53ed Communications Error^
+252348:1c5994 Communications Error
+252350:1c59bd Communications Error
+253083:1cf1c5 Communications ErrorS
+253151:1cf6f6 Communications Error
+254108:1db399 Communications ErrorS
+254192:1db9cb Communications Error
+255225:1e84fd Communications ErrorS
+255316:1e8bd8 Communications Error
+256028:1f1260 Communications ErrorS
+256106:1f176a Communications Error
+256808:1fa6eb Communications ErrorS
+256886:1fac92 Communications Error
+257575:203839 Communications ErrorS
+257650:203d40 Communications Error
+265200:28b5e2 Communications ErrorW
+265290:28bbbe Communications Error
+266302:29e1b4 Communications ErrorV
+266394:29e6ae Communications Error
+267530:2b0e23 Communications Error.U
+267654:2b19ec Communications Error.
+268980:2caa7a Communication Error.W
+269078:2cb02e Communication Error.0 Failed Calibration. Offset Adjustment too high.( Failed Calibration. Gain Adjustment>10%
+270067:2dbc64 Communications ErrorV
+270149:2dc137 Communications Error
+276894:35b81d Communication Error.`
+276937:35bb87 Communication Error.
+277933:36bf32 Communications ErrorW
+278043:36c7d2 Communications Error
+279388:37e656 Communications ErrorW
+279470:37ecda Communications Error
+288374:41166a Communication Error.V
+288701:413196 Communication Error.
+291577:4430e9 RS-232 Communications.vi
+291944:44741c RS-232 Communications.vi
+291945:447435 RS-232 Communications.vi
+291946:44744e RS-232 Communications.vi
+291947:447467 RS-232 Communications.vi
+291948:447480 RS-232 Communications.vi
+305208:c09f6 (ABC) Uniquely identifies the instrument to establish communications with.  The grammar for the instrument descriptor is shown below.  Parameters are shown in lower-case and optional parameters are shown in square brackets ([]).
+305806:c603a Establishes a communication session with a remote instrument based on the instrument descriptor.  Instr Open creates an instr handle that is used by all other VISA Transition Library VIs to perform operations on that session.
+306057:c7a80 Establishes a communication session with a remote instrument based on the instrument descriptor.  Instr Open creates an instr handle that is used by all other VISA Transition Library VIs to perform operations on that session.
+309435:fcd0b RS-232 Communications.vi
+309937:105606 This vi performs general purpose RS-232 communication.
+309946:105717 RS-232 Communications.viD.VI$5$
+309981:105d10 RS-232 Communications.vi
+309984:105d5e RS-232 Communications.vi
+309992:105e19 RS-232 Communications
+309994:105e35 RS-232 Communications.vi
+310047:1067ff RS-232 Communications.vi
+310120:106ea5 RS-232 Communications.vi
+310121:106ebe RS-232 Communications.vi
+310122:106ed7 RS-232 Communications.vi
+310123:106ef0 RS-232 Communications.vi
+310124:106f09 RS-232 Communications.vi
+310125:106f22 RS-232 Communications.vi
+310126:106f3b RS-232 Communications.vi
+310127:106f54 RS-232 Communications.vi
+310128:106f6d RS-232 Communications.vi
+310129:106f86 RS-232 Communications.vi
+310130:106f9f RS-232 Communications.vi
+310131:106fb8 RS-232 Communications.vi
+310132:106fd1 RS-232 Communications.vi
+310133:106fea RS-232 Communications.vi
+310134:107003 RS-232 Communications.vi
+310135:10701c RS-232 Communications.vi
+310136:107035 RS-232 Communications.vi
+310137:10704e RS-232 Communications.vi
+310138:107067 RS-232 Communications.vi
+310139:107088 This vi performs general purpose RS-232 communication.
+310408:10c927 This vi handles the RS-232 communications for a UUT. FC In and FC Out are used for flow control.
+310419:10cb94 RS-232 Communications.viH
+310432:10ccf0 RS-232 Communications.vi
+310448:10cde2 RS-232 Communications.vi
+310505:10d72e RS-232 Communications.vi
+310526:10d857 RS-232 Communications.vi
+310540:10d97c UUT Communications Vi
+310586:10dd08 This vi handles the RS-232 communications for a UUT. FC In and FC Out are used for flow control.
+323996:1f4845 RS-232 Communications.vi
+324246:1f7560 RS-232 Communications.vi
+324247:1f7579 RS-232 Communications.vi
+324248:1f7592 RS-232 Communications.vi
+324249:1f75ab RS-232 Communications.vi
+324250:1f75c4 RS-232 Communications.vi
+337452:bddb8 Establishes a communication session with a remote instrument based on the instrument descriptor.  Instr Open creates an instr handle that is used by all other VISA Transition Library VIs to perform operations on that session.
+337482:bfce2 (ABC) Uniquely identifies the instrument to establish communications with.  The grammar for the instrument descriptor is shown below.  Parameters are shown in lower-case and optional parameters are shown in square brackets ([]).
+338085:c5328 Establishes a communication session with a remote instrument based on the instrument descriptor.  Instr Open creates an instr handle that is used by all other VISA Transition Library VIs to perform operations on that session.
+359408:b5e89 (ABC) Uniquely identifies the instrument to establish communications with.  The grammar for the instrument descriptor is shown below.  Parameters are shown in lower-case and optional parameters are shown in square brackets ([]).
+360001:bb4ce Establishes a communication session with a remote instrument based on the instrument descriptor.  Instr Open creates an instr handle that is used by all other VISA Transition Library VIs to perform operations on that session.
+360248:bcf2c Establishes a communication session with a remote instrument based on the instrument descriptor.  Instr Open creates an instr handle that is used by all other VISA Transition Library VIs to perform operations on that session.
+360273:bd243 RS-232 Communications.vi
+361880:d8b26 RS-232 Communications.vi
+367872:140d1d Communications Error
+368052:142329 Communications ErrorV
+375121:1bf1a0 Communications Error
+375325:1c0a28 Communications ErrorW
+377843:1ed1c2 Communications Error
+377965:1edfad Communications ErrorS
+378588:1f6f6e Communications Error
+378706:1f7d1a Communications ErrorS
+379256:2008cf Communications Error
+379372:2015ed Communications ErrorS
+380052:20b36d Communications Error
+380180:20c37a Communications ErrorW
+380819:215a7b Communications Error
+380941:216871 Communications ErrorS
+382047:225bae Communications Error
+382192:226ce5 Communications ErrorS
+382899:23105e Communications Error
+383008:231d6e Communications ErrorS
+387654:29a06a Communications Error
+387656:29a093 Communications Error
+387852:29bac3 Communications Error^
+387858:29bb9e Communications Error^
+391781:2e4b49 Communication Error.
+391921:2e5e71 Communication Error.RE
+393273:2fb99a Communication Error.
+393436:2fd0d9 Communication Error.`
+394284:30f11d RS-232 Communications.vi
+394305:30f259 RS-232 Communications.vi
+394587:31225b RS-232 Communications.vi
+394601:312369 This vi handles the RS-232 communications for a UUT. FC In and FC Out are used for flow control.
+394681:312ed7 UUT Communications ViX
+394693:313113 RS-232 Communications.viH
+394713:313911 RS-232 Communications.vi
+394814:3176c6 RS-232 Communications.viD.VI(0O
+394817:31772d RS-232 Communications.vi
+395190:31b1c9 RS-232 Communications.vi
+395218:31b379 This vi performs general purpose RS-232 communication.
+395287:31c832 RS-232 Communications\
+395341:31cfa1 RS-232 Communications.vi
+395355:31dc31 RS-232 Communications.vi
+395563:320440 RS-232 Communications.vi
+404009:3a3b28 This vi performs general purpose RS-232 communication.
+404015:3a3bdc This vi handles the RS-232 communications for a UUT. FC In and FC Out are used for flow control.
+409522:4040e6 Communications Errord@i?
+409701:405661 Communications ErrorW
+410620:416981 Communications Error.dd:\automated\lv51\lvsource\gencode.cGenRangeCheck
+410837:4183ee Communications Error.U
+412976:43c5cd Communication Error.
+413452:43f28d Communication Error.V
+414899:45e407 Communication Error.
+415145:460207 Communication Error.W
+416233:475c41 Communications Error
+416448:4775dc Communications ErrorSE
+416844:47ee51 RS-232 Communications.vi
+417096:482784 RS-232 Communications.vi
+417257:4831c9 RS-232 Communications.vi
+417258:4831e2 RS-232 Communications.vi
+417259:4831fb RS-232 Communications.vi
+417260:483214 RS-232 Communications.vi
+417261:48322d RS-232 Communications.vi
+430207:b5c02 (ABC) Uniquely identifies the instrument to establish communications with.  The grammar for the instrument descriptor is shown below.  Parameters are shown in lower-case and optional parameters are shown in square brackets ([]).
+430805:bb246 Establishes a communication session with a remote instrument based on the instrument descriptor.  Instr Open creates an instr handle that is used by all other VISA Transition Library VIs to perform operations on that session.
+431056:bcc8c Establishes a communication session with a remote instrument based on the instrument descriptor.  Instr Open creates an instr handle that is used by all other VISA Transition Library VIs to perform operations on that session.
+431069:bcea7 RS-232 Communications.vi
+431823:c8f0e RS-232 Communications.vi
+438447:142456 RS-232 Communications.vi
+438468:142592 RS-232 Communications.vi
+438750:145594 RS-232 Communications.vi
+438764:1456a2 This vi handles the RS-232 communications for a UUT. FC In and FC Out are used for flow control.
+438844:146210 UUT Communications ViX
+438856:14644b RS-232 Communications.viH
+438876:146c4a RS-232 Communications.vi
+438988:14a9f4 RS-232 Communications.viD.VI
+438990:14aa5b RS-232 Communications.vi
+439363:14e4f7 RS-232 Communications.vi
+439391:14e6a7 This vi performs general purpose RS-232 communication.
+439460:14fb60 RS-232 Communications\
+439514:1502cf RS-232 Communications.vi
+439527:150f5e RS-232 Communications.vi
+439743:153758 RS-232 Communications.vi
+442992:185558 This vi performs general purpose RS-232 communication.
+442998:18560c This vi handles the RS-232 communications for a UUT. FC In and FC Out are used for flow control.
+452467:213569 RS-232 Communications.vi
+452664:215e28 RS-232 Communications.vi
+452742:2163ed RS-232 Communications.vi
+452743:216406 RS-232 Communications.vi
+452744:21641f RS-232 Communications.vi
+452745:216438 RS-232 Communications.vi
+452746:216451 RS-232 Communications.vi
+465118:b25a8 Establishes a communication session with a remote instrument based on the instrument descriptor.  Instr Open creates an instr handle that is used by all other VISA Transition Library VIs to perform operations on that session.
+465148:b44d2 (ABC) Uniquely identifies the instrument to establish communications with.  The grammar for the instrument descriptor is shown below.  Parameters are shown in lower-case and optional parameters are shown in square brackets ([]).
+465751:b9b18 Establishes a communication session with a remote instrument based on the instrument descriptor.  Instr Open creates an instr handle that is used by all other VISA Transition Library VIs to perform operations on that session.
+488624:b5e89 (ABC) Uniquely identifies the instrument to establish communications with.  The grammar for the instrument descriptor is shown below.  Parameters are shown in lower-case and optional parameters are shown in square brackets ([]).
+489217:bb4ce Establishes a communication session with a remote instrument based on the instrument descriptor.  Instr Open creates an instr handle that is used by all other VISA Transition Library VIs to perform operations on that session.
+489464:bcf2c Establishes a communication session with a remote instrument based on the instrument descriptor.  Instr Open creates an instr handle that is used by all other VISA Transition Library VIs to perform operations on that session.
+489489:bd243 RS-232 Communications.vi
+490382:ce9e2 RS-232 Communications.vi
+491348:e2866 Communication Error.
+496923:15398f Communications Error
+497776:164a1f Communication Error.
+498741:1797c6 Communications Error.d
+499650:18a9da Communications Error
+500518:19ac22 Communications Errord@i?
+506659:213c8a Communications Error
+508650:23b492 Communications Error
+509145:24352a Communications Error
+509596:24b585 Communications Error
+510117:2539d4 Communications Error
+510693:25cf90 Communications Error
+511503:2692e9 Communications Error
+512079:2728e3 Communications Error
+515044:2ca191 Communications Error
+515046:2ca1ba Communications Error
+517985:307ec0 Communication Error.
+518667:3182a8 Communication Error.
+519644:32cb22 RS-232 Communications.vi
+519665:32cc5e RS-232 Communications.vi
+519735:32d48f RS-232 Communications.vi
+519778:32e3c7 This vi handles the RS-232 communications for a UUT. FC In and FC Out are used for flow control.
+519858:32ef35 UUT Communications ViX
+519871:32f17d RS-232 Communications.viH
+519890:32f978 RS-232 Communications.vi
+520308:334d14 RS-232 Communications.vi
+520434:335974 RS-232 Communications.vi
+520521:336bed This vi performs general purpose RS-232 communication.
+520582:3377a5 RS-232 Communications\
+520636:337f2b RS-232 Communications.vi
+520655:3394ce RS-232 Communications.vi
+520830:33bc0e RS-232 Communications.vi
+527346:3b2774 This vi performs general purpose RS-232 communication.
+527352:3b2828 This vi handles the RS-232 communications for a UUT. FC In and FC Out are used for flow control.
+529271:3d8e3d RS-232 Communications.vi
+529558:3de8c0 RS-232 Communications.vi
+529722:3df326 RS-232 Communications.vi
+529723:3df33f RS-232 Communications.vi
+529724:3df358 RS-232 Communications.vi
+529725:3df371 RS-232 Communications.vi
+529726:3df38a RS-232 Communications.vi
+542675:b5c02 (ABC) Uniquely identifies the instrument to establish communications with.  The grammar for the instrument descriptor is shown below.  Parameters are shown in lower-case and optional parameters are shown in square brackets ([]).
+543273:bb246 Establishes a communication session with a remote instrument based on the instrument descriptor.  Instr Open creates an instr handle that is used by all other VISA Transition Library VIs to perform operations on that session.
+543524:bcc8c Establishes a communication session with a remote instrument based on the instrument descriptor.  Instr Open creates an instr handle that is used by all other VISA Transition Library VIs to perform operations on that session.
+543537:bcea7 RS-232 Communications.vi
+544285:c8eb6 RS-232 Communications.vi
+556365:1a4008 This vi performs general purpose RS-232 communication.
+556371:1a40bc This vi handles the RS-232 communications for a UUT. FC In and FC Out are used for flow control.
+556583:1a9c6b RS-232 Communications.vi
+556604:1a9da7 RS-232 Communications.vi
+556674:1aa5d8 RS-232 Communications.vi
+556717:1ab510 This vi handles the RS-232 communications for a UUT. FC In and FC Out are used for flow control.
+556797:1ac07e UUT Communications ViX
+556809:1ac2c7 RS-232 Communications.viH
+556829:1acac2 RS-232 Communications.vi
+556931:1b0292 RS-232 Communications.vi
+557057:1b0ef1 RS-232 Communications.vi
+557144:1b216a This vi performs general purpose RS-232 communication.
+557205:1b2d22 RS-232 Communications\
+557257:1b34a8 RS-232 Communications.vi
+557276:1b4a49 RS-232 Communications.vi
+557452:1b7176 RS-232 Communications.vi
+560379:1e60cd RS-232 Communications.vi
+560574:1e90a0 RS-232 Communications.vi
+560691:1e99b4 RS-232 Communications.vi
+560692:1e99cd RS-232 Communications.vi
+560693:1e99e6 RS-232 Communications.vi
+560694:1e99ff RS-232 Communications.vi
+560695:1e9a18 RS-232 Communications.vi
+573034:b25a8 Establishes a communication session with a remote instrument based on the instrument descriptor.  Instr Open creates an instr handle that is used by all other VISA Transition Library VIs to perform operations on that session.
+573064:b44d2 (ABC) Uniquely identifies the instrument to establish communications with.  The grammar for the instrument descriptor is shown below.  Parameters are shown in lower-case and optional parameters are shown in square brackets ([]).
+573667:b9b18 Establishes a communication session with a remote instrument based on the instrument descriptor.  Instr Open creates an instr handle that is used by all other VISA Transition Library VIs to perform operations on that session.
+593346:b5de9 (ABC) Uniquely identifies the instrument to establish communications with.  The grammar for the instrument descriptor is shown below.  Parameters are shown in lower-case and optional parameters are shown in square brackets ([]).
+593939:bb42e Establishes a communication session with a remote instrument based on the instrument descriptor.  Instr Open creates an instr handle that is used by all other VISA Transition Library VIs to perform operations on that session.
+594186:bce8c Establishes a communication session with a remote instrument based on the instrument descriptor.  Instr Open creates an instr handle that is used by all other VISA Transition Library VIs to perform operations on that session.
+595045:ce3ee RS-232 Communications.vi
+596745:f39d4 This vi performs general purpose RS-232 communication.
+596751:f3a88 This vi handles the RS-232 communications for a UUT. FC In and FC Out are used for flow control.
+596959:f7fb1 RS-232 Communications.vi
+601154:13a63b RS-232 Communications.vi
+601168:13aa57 RS-232 Communications.vi
+601211:13b6f4 This vi performs general purpose RS-232 communication.
+601218:13be3f RS-232 Communications.vi
+601259:13c8b3 RS-232 Communications.vi
+601354:13df81 RS-232 Communications.vi
+601367:13e175 RS-232 Communications.vi
+601369:13e19c RS-232 Communications.vi
+601380:13e4e5 RS-232 Communications.vi
+601412:13eff8 This vi handles the RS-232 communications for a UUT. FC In and FC Out are used for flow control.
+601457:13fc95 RS-232 Communications.vi
+601459:13fcbc RS-232 Communications.vi
+612431:1f720b RS-232 Communications.vi
+612432:1f7224 RS-232 Communications.vi
+612433:1f723d RS-232 Communications.vi
+612434:1f7256 RS-232 Communications.vi
+639314:205afe SCXI_Set_Communication_Speed

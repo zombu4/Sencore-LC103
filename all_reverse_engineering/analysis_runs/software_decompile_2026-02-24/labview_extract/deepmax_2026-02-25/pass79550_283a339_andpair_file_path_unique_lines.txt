@@ -1,0 +1,745 @@
+46195:159902 couldn't convert arg "%s" to file path
+47395:1608d6 appResFilePath
+51993:1b87e1 The log file path associated with this VI refers to an existing directory, VI library or non-datalog file. Do you want to use this path anyway?
+52276:1bae79 file path
+52426:1bc74e $Can't get name from VI library path.%Can't get name from file system path.#Can't extract file from VI library.
+52427:1bc7be Can't allocate new path.$Can't open VI library resource file."Can't remove file from VI library.%Can't open file system resource file.
+52991:1cae6d start path is the path name to the initially displayed directory (or folder) in a file dialog. The default value is Not A Path, which is the path to the last directory (or folder) shown in a file dialog.
+52994:1cb050 new file path is the path of the file opened or created. You can use this output to determine the path of a file that you open or create using dialog. new file path returns Not A Path if the user selects Cancel from the dialog box.
+53042:1cc140 new file path ("!
+53043:1cc156 new file path (
+53044:1cc16c file path (
+53045:1cc17e file path (.!
+53803:1d63b7 file path (
+53804:1d63c9 file path (
+53805:1d63db file path (
+53806:1d63ed file path (
+53807:1d63ff file path (
+53808:1d6411 file path (
+53809:1d6428 file path (
+53810:1d643a file path (
+53811:1d644c file path (
+53812:1d6463 file path (
+53826:1d6d2f file path
+53827:1d6d3f file path
+53828:1d6d55 file path
+53829:1d6d70 file path
+53830:1d6d8c file path
+53831:1d6d9c file path
+53832:1d6dac file path
+53833:1d6dc2 file path
+53920:1db05f new file path
+53932:1db12e file path
+53945:1db218 new file path
+53946:1db229 new file path
+53947:1db23a new file path
+53963:1db318 file path
+53964:1db325 file path
+53965:1db332 file path
+54000:1db968 file path is the path name of the file. If file path is empty (default value) or is Not A Path, the VI displays a File dialog box from which you can select a file. Error 43 occurs if the user cancels the dialog.
+54009:1dbda3 start path is the path name to the initially displayed directory in a file dialog. The default value is Not A Path, which is the path to the last directory shown in a file dialog.
+54012:1dc119 new file path is the path of the file opened or created. You can use this output to determine the path of a file that you open or create using dialog. new file path returns Not A Path if the user selects Cancel from the dialog box.
+54030:1dc64a ,a File Path is supplied (not empty); proceed
+54033:1dc745 [report file not found if function=0 (open); set file path to empty and refnum to NotARefnumMD
+54050:1dcb57 herror is other than file not found; set error flag TRUE, file path to NotAPath, and refnum to NotARefnummD
+54056:1dccdc sFile Dialog cancelled; set error out code to Cancelled By User; set refnum to NotaRefnum and file path to NotAPath.
+54057:1dcd65 \if file path is not supplied (empty or NotAPath), call File Dialog to get one from the user.H
+54079:1dd33b file pathL
+54082:1dd38f new file path*
+54120:1dd5ee file path @
+54124:1dd619 file path
+54136:1dd714 new file path@P@
+54141:1dd75f file path
+54162:1dd974 new file path
+54174:1dda43 file path
+99472:491159 start path is the path name to the initially displayed directory (or folder) in a file dialog. The default value is Not A Path, which is the path to the last directory (or folder) shown in a file dialog.
+99475:49133c new file path is the path of the file opened. You can use this output to determine the path of a file that you open using dialog. new file path returns Not A Path if the user selects Cancel from the dialog box.
+99509:49202d file path
+99510:49203d file pathL
+99515:49208a file path (" ")
+99516:4920a0 file path (" ")
+99810:4954e0 file path (" ") M
+99811:4954f6 file path (" ") M
+99812:49550c file path (" ")4M
+99864:495fce file path (" ")
+99880:496d06 file path (" ")
+99881:496d21 file path (" ")
+99882:496d3d file path (" ")
+99883:496d59 file path (" ")
+99942:49997f file path
+99953:499a35 file path (" ")
+99966:499b21 file path
+99967:499b2e file path
+99968:499b3b file path
+99984:499c15 file path (" ")
+99985:499c28 file path (" ")
+99986:499c3b file path (" ")
+100015:49a087 file path is the path name of the file. If file path is empty (default value) or is Not A Path, the VI displays a File dialog box from which you can select a file. Error 43 occurs if the user cancels the dialog.
+100019:49a277 start path is the path name to the initially displayed directory in a file dialog. The default value is Not A Path, which is the path to the last directory shown in a file dialog.
+100022:49a5ed new file path is the path of the file opened. You can use this output to determine the path of a file that you open using dialog. new file path returns Not A Path if the user selects Cancel from the dialog box.
+100049:49ab8b ,a File Path is supplied (not empty); proceed`
+100053:49acc7 cFile Dialog cancelled; set Error to Cancelled By User; empty File Path; set Refnum to Not a Refnum.
+100054:49ad40 Iif a File Path is not supplied, use File Dialog to get one from the user.H
+100071:49b10e file path (" ")X
+100075:49b166 file path
+100099:49b315 file path (" ") @
+100103:49b346 file path (" ")
+100114:49b446 file path@P@
+100119:49b48d file path (" ")
+100139:49b684 file path
+100150:49b73a file path (" ")
+102675:4d29cc file path is the path name of the file. If file path is empty (default value) or is Not A Path, the VI displays a File dialog box from which you can select a file. Error 43 occurs if the user cancels the dialog.
+102676:4d2aa2 new file path is the path of the file to which the VI wrote data. You can use this output to determine the path of a file that you open using dialog. new file path returns Not A Path if the user selects Cancel from the dialog box.
+102688:4d2f88 file path (dialog if empty),
+102689:4d2faa file path (dialog if empty)8
+102690:4d2fc8 ,@2'new file path (Not A Path if cancelled)8
+102691:4d2ff6 ,@2'new file path (Not A Path if cancelled)&
+102748:4d3f8a new file path
+102760:4d4059 file path@
+102770:4d4126 new file path
+102786:4d4337 file path
+102912:4d5c78 ,@2'new file path (Not A Path if cancelled)"@
+102915:4d5cdb file path (dialog if empty)
+102916:4d5d03 file path (dialog if empty) `2
+102917:4d5d22 file path (dialog if empty) @2
+102918:4d5d41 file path (dialog if empty)
+102919:4d5d5e ,P2'new file path (Not A Path if cancelled),`2'new file path (Not A Path if cancelled),@2'new file path (Not A Path if cancelled)
+102959:4d6272 file path is the path name of the file. If file path is empty (default value) or is Not A Path, the VI displays a File dialog box from which you can select a file. Error 43 occurs if the user cancels the dialog.
+102962:4d6473 new file path is the path of the file to which the VI wrote data. You can use this output to determine the path of a file that you open using dialog. new file path returns Not A Path if the user selects Cancel from the dialog box.
+103026:4d6b5f file path (dialog if empty)
+103031:4d6be8 new file pathgencode.cGenCopyProcs3
+103033:4d6c3a file path (dialog if empty),2@'new file path (Not A Path if cancelled)
+103039:4d6d23 'new file path (Not A Path if cancelled)L
+103042:4d6df3 ,@2'new file path (Not A Path if cancelled)"@
+103045:4d6e56 file path (dialog if empty)
+103109:4d72d3 new file path
+103121:4d73a2 file pathPTH0!
+103123:4d73e2 file path (dialog if empty)
+111785:565409 file path is the path name of the file. If file path is empty (default value) or is Not A Path, the VI displays a File dialog box from which you can select a file. Error 43 occurs if the user cancels the dialog.
+111786:5654df new file path is the path of the file from which the VI read data. You can use this output to determine the path of a file that you open using dialog. new file path returns Not A Path if the user selects Cancel from the dialog box.
+111795:565e1d file path (dialog if empty),
+111796:565e3f file path (dialog if empty)8
+111797:565e5d ,@2'new file path (Not A Path if cancelled)8
+111798:565e8b ,@2'new file path (Not A Path if cancelled)
+112028:56801f file path
+112039:5680d5 file path (" ")@6
+112049:5681af file path
+112069:5683c3 file path (" ")
+112261:56b86c ,@2'new file path (Not A Path if cancelled)
+112263:56b8ab file path (dialog if empty)
+112269:56b966 file path (dialog if empty) `2
+112270:56b985 file path (dialog if empty) @2
+112271:56b9a4 file path (dialog if empty)
+112277:56ba77 ,P2'new file path (Not A Path if cancelled),`2'new file path (Not A Path if cancelled),@2'new file path (Not A Path if cancelled)
+112345:56c24f file path is the path name of the file. If file path is empty (default value) or is Not A Path, the VI displays a File dialog box from which you can select a file. Error 43 occurs if the user cancels the dialog.
+112349:56c5f9 new file path is the path of the file from which the VI read data. You can use this output to determine the path of a file that you open using dialog. new file path returns Not A Path if the user selects Cancel from the dialog box.
+112630:56d9ce file path (dialog if empty)
+112639:56dacc file path 0@
+112643:56db42 file path (dialog if empty)&
+112644:56db5f @ start of read offset (chars.:0 ),2@'new file path (Not A Path if cancelled)
+112651:56dc5d 'new file path (Not A Path if cancelled)'
+112658:56ddd0 ,@2'new file path (Not A Path if cancelled)
+112660:56de0f file path (dialog if empty)
+112732:56e33a file path
+112743:56e3f0 file path (" ")PTH0
+112745:56e427 file path (dialog if empty)
+112802:571a43 Path to Version File*
+112803:571a5e Path to Version File4
+112814:571e74 file path (dialog if empty)
+112816:571fef ,@2'new file path (Not A Path if cancelled)
+112817:5720ed ,@2'new file path (Not A Path if cancelled)"@
+112820:572150 file path (dialog if empty)(
+112821:5721eb ,@2'new file path (Not A Path if cancelled)
+112824:5722ce file path (dialog if empty)
+112831:572483 ,@2'new file path (Not A Path if cancelled)
+112833:5724c2 file path (dialog if empty)
+112855:572f0d Path to Version File4
+112858:572fd8 Path to Version File8
+112868:5731e2 Path to Version File4
+112883:5734fe Path to Version File
+112956:575708 Path to Version File
+112957:5758fd Path to Version FileH
+112958:575969 Path to Version File,
+112959:575a3c Path to Version File
+112966:576055 Path to Version File4
+112967:576202 Path to Version File*
+112968:57621d Path to Version File
+112973:5767d1 ,@2'new file path (Not A Path if cancelled)
+112976:5768b4 file path (dialog if empty)
+112977:5768e3 ,@2'new file path (Not A Path if cancelled)"@
+112980:576946 file path (dialog if empty),!
+113002:577642 Path to Version File
+113074:57a5ec Path to Version File
+113075:57a604 Path to Version File
+113076:57a61c Path to Version File
+113089:57a767 Path to Version File
+113094:57a7f6 line string,@2'new file path (Not A Path if cancelled)
+113095:57a831 file path (dialog if empty)
+113098:57a8a0 ,@2'new file path (Not A Path if cancelled)
+113101:57a90e ,@2'new file path (Not A Path if cancelled)
+113103:57a941 file path (dialog if empty)
+113108:57a9bc Path to Version File
+113171:57b495 Path to Version File
+113189:57b85b ,@2'new file path (Not A Path if cancelled)
+113191:57b89a file path (dialog if empty)
+113200:57b996 ,@2'new file path (Not A Path if cancelled)"@
+113203:57b9f9 file path (dialog if empty)PTH0!
+113211:57baab Path to Version File
+113297:582dc9 ,@2'new file path (Not A Path if cancelled)
+113299:582e08 file path (dialog if empty)
+113305:582ee5 ,@2'new file path (Not A Path if cancelled)
+113307:582fa3 file path (dialog if empty)
+114223:593ed8 line string,@2'new file path (Not A Path if cancelled)
+114225:593f1c file path (dialog if empty)
+114510:595da1 ,@2'new file path (Not A Path if cancelled)
+114512:595de0 file path (dialog if empty)
+114699:59f4e6 ,@2'new file path (Not A Path if cancelled)
+114704:59f5a9 file path (dialog if empty)
+114718:59f76e ,@2'new file path (Not A Path if cancelled)
+114720:59f7ad file path (dialog if empty)
+115846:5b4d87 line string,@2'new file path (Not A Path if cancelled)
+115848:5b4dcb file path (dialog if empty)
+116113:5b6d64 ,@2'new file path (Not A Path if cancelled)
+116115:5b6da3 file path (dialog if empty)
+223248:9a99 start path is the path name to the initially displayed directory (or folder) in a file dialog. The default value is Not A Path, which is the path to the last directory (or folder) shown in a file dialog.
+223251:9c7c new file path is the path of the file opened or created. You can use this output to determine the path of a file that you open or create using dialog. new file path returns Not A Path if the user selects Cancel from the dialog box.
+223299:ad6c new file path ("!
+223300:ad82 new file path (
+223301:ad98 file path (
+223302:adaa file path (.!
+224060:14fe3 file path (
+224061:14ff5 file path (
+224062:15007 file path (
+224063:15019 file path (
+224064:1502b file path (
+224065:1503d file path (
+224066:15054 file path (
+224067:15066 file path (
+224068:15078 file path (
+224069:1508f file path (
+224083:1595b file path
+224084:1596b file path
+224085:15981 file path
+224086:1599c file path
+224087:159b8 file path
+224088:159c8 file path
+224089:159d8 file path
+224090:159ee file path
+224177:19c8b new file path
+224189:19d5a file path
+224202:19e44 new file path
+224203:19e55 new file path
+224204:19e66 new file path
+224220:19f44 file path
+224221:19f51 file path
+224222:19f5e file path
+224257:1a594 file path is the path name of the file. If file path is empty (default value) or is Not A Path, the VI displays a File dialog box from which you can select a file. Error 43 occurs if the user cancels the dialog.
+224266:1a9cf start path is the path name to the initially displayed directory in a file dialog. The default value is Not A Path, which is the path to the last directory shown in a file dialog.
+224269:1ad45 new file path is the path of the file opened or created. You can use this output to determine the path of a file that you open or create using dialog. new file path returns Not A Path if the user selects Cancel from the dialog box.
+224287:1b276 ,a File Path is supplied (not empty); proceed
+224290:1b371 [report file not found if function=0 (open); set file path to empty and refnum to NotARefnumMD
+224307:1b783 herror is other than file not found; set error flag TRUE, file path to NotAPath, and refnum to NotARefnummD
+224313:1b908 sFile Dialog cancelled; set error out code to Cancelled By User; set refnum to NotaRefnum and file path to NotAPath.
+224314:1b991 \if file path is not supplied (empty or NotAPath), call File Dialog to get one from the user.H
+224336:1bf67 file pathL
+224339:1bfbb new file path*
+224377:1c21a file path @
+224381:1c245 file path
+224393:1c340 new file path@P@
+224398:1c38b file path
+224419:1c5a0 new file path
+224431:1c66f file path
+224479:1d011 new file path
+224491:1d0f3 file path
+224493:1d2a0 file path is the path name of the file. If file path is empty (default value) or is Not A Path, the VI displays a File dialog box from which you can select a file. Error 43 occurs if the user cancels the dialog.
+224502:1d6db start path is the path name to the initially displayed directory in a file dialog. The default value is Not A Path, which is the path to the last directory shown in a file dialog.
+224505:1da51 new file path is the path of the file opened or created. You can use this output to determine the path of a file that you open or create using dialog. new file path returns Not A Path if the user selects Cancel from the dialog box.
+257780:2049d1 file path
+257791:204a9b file path (" ")
+257802:207a85 start path is the path name to the initially displayed directory (or folder) in a file dialog. The default value is Not A Path, which is the path to the last directory (or folder) shown in a file dialog.
+257805:207c68 new file path is the path of the file opened. You can use this output to determine the path of a file that you open using dialog. new file path returns Not A Path if the user selects Cancel from the dialog box.
+257839:208959 file path
+257840:208969 file pathL
+257845:2089b6 file path (" ")
+257846:2089cc file path (" ")
+258140:20be0c file path (" ") M
+258141:20be22 file path (" ") M
+258142:20be38 file path (" ")4M
+258194:20c8fa file path (" ")
+258210:20d632 file path (" ")
+258211:20d64d file path (" ")
+258212:20d669 file path (" ")
+258213:20d685 file path (" ")
+258272:2102ab file path
+258283:210361 file path (" ")
+258296:21044d file path
+258297:21045a file path
+258298:210467 file path
+258314:210541 file path (" ")
+258315:210554 file path (" ")
+258316:210567 file path (" ")
+258345:2109b3 file path is the path name of the file. If file path is empty (default value) or is Not A Path, the VI displays a File dialog box from which you can select a file. Error 43 occurs if the user cancels the dialog.
+258349:210ba3 start path is the path name to the initially displayed directory in a file dialog. The default value is Not A Path, which is the path to the last directory shown in a file dialog.
+258352:210f19 new file path is the path of the file opened. You can use this output to determine the path of a file that you open using dialog. new file path returns Not A Path if the user selects Cancel from the dialog box.
+258379:2114b7 ,a File Path is supplied (not empty); proceed`
+258383:2115f3 cFile Dialog cancelled; set Error to Cancelled By User; empty File Path; set Refnum to Not a Refnum.
+258384:21166c Iif a File Path is not supplied, use File Dialog to get one from the user.H
+258401:211a3a file path (" ")X
+258405:211a92 file path
+258429:211c41 file path (" ") @
+258433:211c72 file path (" ")
+258444:211d72 file path@P@
+258449:211db9 file path (" ")
+258469:211fb0 file path
+258480:212066 file path (" ")
+258528:21273d file path is the path name of the file. If file path is empty (default value) or is Not A Path, the VI displays a File dialog box from which you can select a file. Error 43 occurs if the user cancels the dialog.
+258532:21292d start path is the path name to the initially displayed directory in a file dialog. The default value is Not A Path, which is the path to the last directory shown in a file dialog.
+258535:212ca3 new file path is the path of the file opened. You can use this output to determine the path of a file that you open using dialog. new file path returns Not A Path if the user selects Cancel from the dialog box.
+261102:24a5a1 ,@2'new file path (Not A Path if cancelled)
+261105:24a609 file path (dialog if empty)
+261114:24b92c file path is the path name of the file. If file path is empty (default value) or is Not A Path, the VI displays a File dialog box from which you can select a file. Error 43 occurs if the user cancels the dialog.
+261115:24ba02 new file path is the path of the file to which the VI wrote data. You can use this output to determine the path of a file that you open using dialog. new file path returns Not A Path if the user selects Cancel from the dialog box.
+261127:24bee8 file path (dialog if empty),
+261128:24bf0a file path (dialog if empty)8
+261129:24bf28 ,@2'new file path (Not A Path if cancelled)8
+261130:24bf56 ,@2'new file path (Not A Path if cancelled)&
+261187:24ceea new file path
+261199:24cfb9 file path@
+261209:24d086 new file path
+261225:24d297 file path
+261351:24ebd8 ,@2'new file path (Not A Path if cancelled)"@
+261354:24ec3b file path (dialog if empty)
+261355:24ec63 file path (dialog if empty) `2
+261356:24ec82 file path (dialog if empty) @2
+261357:24eca1 file path (dialog if empty)
+261358:24ecbe ,P2'new file path (Not A Path if cancelled),`2'new file path (Not A Path if cancelled),@2'new file path (Not A Path if cancelled)
+261398:24f1d2 file path is the path name of the file. If file path is empty (default value) or is Not A Path, the VI displays a File dialog box from which you can select a file. Error 43 occurs if the user cancels the dialog.
+261401:24f3d3 new file path is the path of the file to which the VI wrote data. You can use this output to determine the path of a file that you open using dialog. new file path returns Not A Path if the user selects Cancel from the dialog box.
+261465:24fabf file path (dialog if empty)
+261470:24fb48 new file pathgencode.cGenCopyProcs3
+261472:24fb9a file path (dialog if empty),2@'new file path (Not A Path if cancelled)
+261478:24fc83 'new file path (Not A Path if cancelled)L
+261481:24fd53 ,@2'new file path (Not A Path if cancelled)"@
+261484:24fdb6 file path (dialog if empty)
+261548:250233 new file path
+261560:250302 file pathPTH0!
+261562:250342 file path (dialog if empty)
+261610:250883 file path is the path name of the file. If file path is empty (default value) or is Not A Path, the VI displays a File dialog box from which you can select a file. Error 43 occurs if the user cancels the dialog.
+261613:250a84 new file path is the path of the file to which the VI wrote data. You can use this output to determine the path of a file that you open using dialog. new file path returns Not A Path if the user selects Cancel from the dialog box.
+270289:2dd041 ,@2'new file path (Not A Path if cancelled)
+270291:2dd085 file path (dialog if empty)
+270314:2dfb5d file path is the path name of the file. If file path is empty (default value) or is Not A Path, the VI displays a File dialog box from which you can select a file. Error 43 occurs if the user cancels the dialog.
+270315:2dfc33 new file path is the path of the file from which the VI read data. You can use this output to determine the path of a file that you open using dialog. new file path returns Not A Path if the user selects Cancel from the dialog box.
+270324:2e0571 file path (dialog if empty),
+270325:2e0593 file path (dialog if empty)8
+270326:2e05b1 ,@2'new file path (Not A Path if cancelled)8
+270327:2e05df ,@2'new file path (Not A Path if cancelled)
+270557:2e2773 file path
+270568:2e2829 file path (" ")@6
+270578:2e2903 file path
+270598:2e2b17 file path (" ")
+270790:2e5fc0 ,@2'new file path (Not A Path if cancelled)
+270792:2e5fff file path (dialog if empty)
+270798:2e60ba file path (dialog if empty) `2
+270799:2e60d9 file path (dialog if empty) @2
+270800:2e60f8 file path (dialog if empty)
+270806:2e61cb ,P2'new file path (Not A Path if cancelled),`2'new file path (Not A Path if cancelled),@2'new file path (Not A Path if cancelled)
+270874:2e69a3 file path is the path name of the file. If file path is empty (default value) or is Not A Path, the VI displays a File dialog box from which you can select a file. Error 43 occurs if the user cancels the dialog.
+270878:2e6d4d new file path is the path of the file from which the VI read data. You can use this output to determine the path of a file that you open using dialog. new file path returns Not A Path if the user selects Cancel from the dialog box.
+271159:2e8122 file path (dialog if empty)
+271168:2e8220 file path 0@
+271172:2e8296 file path (dialog if empty)&
+271173:2e82b3 @ start of read offset (chars.:0 ),2@'new file path (Not A Path if cancelled)
+271180:2e83b1 'new file path (Not A Path if cancelled)'
+271187:2e8524 ,@2'new file path (Not A Path if cancelled)
+271189:2e8563 file path (dialog if empty)
+271261:2e8a8e file path
+271272:2e8b44 file path (" ")PTH0
+271274:2e8b7b file path (dialog if empty)
+271321:2e91a6 file path is the path name of the file. If file path is empty (default value) or is Not A Path, the VI displays a File dialog box from which you can select a file. Error 43 occurs if the user cancels the dialog.
+271325:2e9550 new file path is the path of the file from which the VI read data. You can use this output to determine the path of a file that you open using dialog. new file path returns Not A Path if the user selects Cancel from the dialog box.
+271345:2ec8c3 Path to Version File*
+271346:2ec8de Path to Version File4
+271357:2eccf4 file path (dialog if empty)
+271359:2ece6f ,@2'new file path (Not A Path if cancelled)
+271360:2ecf6d ,@2'new file path (Not A Path if cancelled)"@
+271363:2ecfd0 file path (dialog if empty)(
+271364:2ed06b ,@2'new file path (Not A Path if cancelled)
+271367:2ed14e file path (dialog if empty)
+271374:2ed303 ,@2'new file path (Not A Path if cancelled)
+271376:2ed342 file path (dialog if empty)
+271398:2edd8d Path to Version File4
+271401:2ede58 Path to Version File8
+271411:2ee062 Path to Version File4
+271426:2ee37e Path to Version File
+271499:2f0588 Path to Version File
+271500:2f077d Path to Version FileH
+271501:2f07e9 Path to Version File,
+271502:2f08bc Path to Version File
+271509:2f0ed5 Path to Version File4
+271510:2f1082 Path to Version File*
+271511:2f109d Path to Version File
+271516:2f1651 ,@2'new file path (Not A Path if cancelled)
+271519:2f1734 file path (dialog if empty)
+271520:2f1763 ,@2'new file path (Not A Path if cancelled)"@
+271523:2f17c6 file path (dialog if empty),!
+271545:2f24c2 Path to Version File
+271617:2f546c Path to Version File
+271618:2f5484 Path to Version File
+271619:2f549c Path to Version File
+271632:2f55e7 Path to Version File
+271637:2f5676 line string,@2'new file path (Not A Path if cancelled)
+271638:2f56b1 file path (dialog if empty)
+271641:2f5720 ,@2'new file path (Not A Path if cancelled)
+271644:2f578e ,@2'new file path (Not A Path if cancelled)
+271646:2f57c1 file path (dialog if empty)
+271651:2f583c Path to Version File
+271714:2f6315 Path to Version File
+271732:2f66db ,@2'new file path (Not A Path if cancelled)
+271734:2f671a file path (dialog if empty)
+271743:2f6816 ,@2'new file path (Not A Path if cancelled)"@
+271746:2f6879 file path (dialog if empty)PTH0!
+271754:2f692b Path to Version File
+271844:2fdd35 ,@2'new file path (Not A Path if cancelled)
+271846:2fdd74 file path (dialog if empty)
+271852:2fde51 ,@2'new file path (Not A Path if cancelled)
+271854:2fdf0f file path (dialog if empty)
+272770:30ee44 line string,@2'new file path (Not A Path if cancelled)
+272772:30ee88 file path (dialog if empty)
+273057:310d0d ,@2'new file path (Not A Path if cancelled)
+273059:310d4c file path (dialog if empty)
+273250:31a53e ,@2'new file path (Not A Path if cancelled)
+273255:31a601 file path (dialog if empty)
+273269:31a7c6 ,@2'new file path (Not A Path if cancelled)
+273271:31a805 file path (dialog if empty)
+274397:32fddf line string,@2'new file path (Not A Path if cancelled)
+274399:32fe23 file path (dialog if empty)
+274664:331dbc ,@2'new file path (Not A Path if cancelled)
+274666:331dfb file path (dialog if empty)
+361969:e160b 'new file path (Not A Path if cancelled)
+361971:e164f file path (dialog if empty)
+362916:ec876 'new file path (Not A Path if cancelled)
+362919:ec8ce file path (dialog if empty)
+363050:ed5ea 'new file path (Not A Path if cancelled)
+363052:ed634 file path (dialog if empty).
+363058:ed700 'new file path (Not A Path if cancelled)
+363060:ed744 file path (dialog if empty)
+363831:1037be 'new file path (Not A Path if cancelled)
+363833:103802 file path (dialog if empty)
+364599:10cb75 'new file path (Not A Path if cancelled)
+364602:10cbcd file path (dialog if empty)
+364766:10dab2 'new file path (Not A Path if cancelled)
+364768:10daf6 file path (dialog if empty)
+364774:10dbaa 'new file path (Not A Path if cancelled)
+364776:10dbf4 file path (dialog if empty).
+365467:11dc69 'new file path (Not A Path if cancelled)
+365469:11dcad file path (dialog if empty)
+365478:11ddb0 'new file path (Not A Path if cancelled)"@!
+365481:11de18 file path (dialog if empty)PTH0!
+365825:122351 Path to Version File p2
+365850:1226f4 Path to Version File
+365854:12278d 'new file path (Not A Path if cancelled)
+365856:1227da file path (dialog if empty)
+365859:12284b 'new file path (Not A Path if cancelled)
+365884:1229ca 'new file path (Not A Path if cancelled)
+365885:122a02 file path (dialog if empty)6@P
+365899:122adf Path to Version File
+365925:122f9d Path to Version File
+365932:123290 Path to Version File&
+365937:12330c file path (dialog if empty)
+365939:123349 'new file path (Not A Path if cancelled)
+365940:123388 'new file path (Not A Path if cancelled)"@!
+365943:1233f0 file path (dialog if empty)2
+365951:1234f8 'new file path (Not A Path if cancelled)
+365953:12353c file path (dialog if empty)
+365988:1237ac file path
+365989:1239a6 Path to Version FileZ
+366291:12c9a4 file path
+366302:12ca6f file path (" ")PTH0
+366505:12f5ed 'new file path (Not A Path if cancelled)
+366507:12f631 file path (dialog if empty)
+366514:12f70e file path (dialog if empty) p2
+366521:12f7e6 'new file path (Not A Path if cancelled) p2
+366542:12fb21 file path
+366596:12ffa4 file path (dialog if empty)
+366621:13045f file path (dialog if empty)&@
+366623:1304a5 'new file path (Not A Path if cancelled)
+366631:130615 file path is the path name of the file. If file path is empty (default value) or is Not A Path, the VI displays a File dialog box from which you can select a file. Error 43 occurs if the user cancels the dialog.
+366635:1309bf new file path is the path of the file from which the VI read data. You can use this output to determine the path of a file that you open using dialog. new file path returns Not A Path if the user selects Cancel from the dialog box.
+366643:130f0e file path is the path name of the file. If file path is empty (default value) or is Not A Path, the VI displays a File dialog box from which you can select a file. Error 43 occurs if the user cancels the dialog.
+366644:130fe4 new file path is the path of the file from which the VI read data. You can use this output to determine the path of a file that you open using dialog. new file path returns Not A Path if the user selects Cancel from the dialog box.
+366648:1311ca file path (dialog if empty)<
+366649:1311ee 'new file path (Not A Path if cancelled)
+366706:13169f file path
+366717:13176a file path (" ")
+366719:13179b file path2
+366728:131858 file path (" ")
+366769:131cac file path (dialog if empty)z
+366772:131d60 'new file path (Not A Path if cancelled)z
+368800:15125d new file path
+368812:151357 file path
+370245:166873 new file path
+370257:166957 file pathPTH0!
+370378:1681a3 'new file path (Not A Path if cancelled)"@!
+370381:16820b file path (dialog if empty)
+370383:168258 file path (dialog if empty) p2
+370391:168325 'new file path (Not A Path if cancelled) p2
+370404:16844f new file path
+370440:168750 file path (dialog if empty)&
+370465:168a30 file path (dialog if empty)0@2
+370466:168a52 'new file path (Not A Path if cancelled)
+370470:168b66 file path is the path name of the file. If file path is empty (default value) or is Not A Path, the VI displays a File dialog box from which you can select a file. Error 43 occurs if the user cancels the dialog.
+370473:168d67 new file path is the path of the file to which the VI wrote data. You can use this output to determine the path of a file that you open using dialog. new file path returns Not A Path if the user selects Cancel from the dialog box.
+370474:168e52 file path is the path name of the file. If file path is empty (default value) or is Not A Path, the VI displays a File dialog box from which you can select a file. Error 43 occurs if the user cancels the dialog.
+370475:168f28 new file path is the path of the file to which the VI wrote data. You can use this output to determine the path of a file that you open using dialog. new file path returns Not A Path if the user selects Cancel from the dialog box.
+370479:1691be file path (dialog if empty)<
+370480:1691e2 'new file path (Not A Path if cancelled)*
+370516:169500 new file path
+370528:1695e4 file pathF
+370534:16963e new file path2
+370544:169717 file path.
+370592:169b5a file path (dialog if empty)L
+370593:169b93 'new file path (Not A Path if cancelled)L
+373864:1ac3e6 file path
+373875:1ac4b1 file path (" ")
+373897:1ac674 file path p2
+373906:1ac778 file path (" ") p2
+373938:1acc5d file path (" ")
+374001:1ad273 file pathD@P
+374006:1ad2c0 file path (" ")
+374015:1ad46c file path is the path name of the file. If file path is empty (default value) or is Not A Path, the VI displays a File dialog box from which you can select a file. Error 43 occurs if the user cancels the dialog.
+374019:1ad65c start path is the path name to the initially displayed directory in a file dialog. The default value is Not A Path, which is the path to the last directory shown in a file dialog.
+374022:1ad9d2 new file path is the path of the file opened. You can use this output to determine the path of a file that you open using dialog. new file path returns Not A Path if the user selects Cancel from the dialog box.
+374028:1add71 start path is the path name to the initially displayed directory (or folder) in a file dialog. The default value is Not A Path, which is the path to the last directory (or folder) shown in a file dialog.
+374031:1adf54 new file path is the path of the file opened. You can use this output to determine the path of a file that you open using dialog. new file path returns Not A Path if the user selects Cancel from the dialog box.
+374049:1ae69f file pathP
+374054:1ae6f0 file path (" ")
+374100:1aebeb file pathX
+374102:1aec26 file path (" ")L
+374121:1aef8f ##,a File Path is supplied (not empty); proceed`
+374125:1af0c6 cFile Dialog cancelled; set Error to Cancelled By User; empty File Path; set Refnum to Not a Refnum.
+374126:1af13c IIIif a File Path is not supplied, use File Dialog to get one from the user.H
+392497:2ede15 file path
+392508:2edef7 file path (" ")
+392570:2ee42c 'new file path (Not A Path if cancelled)
+392573:2ee499 file path (dialog if empty)
+393862:306718 'new file path (Not A Path if cancelled)
+393864:306761 file path (dialog if empty)
+394240:30c4d4 file path is the path name of the file. If file path is empty (default value) or is Not A Path, the VI displays a File dialog box from which you can select a file. Error 43 occurs if the user cancels the dialog.
+394249:30c90f start path is the path name to the initially displayed directory in a file dialog. The default value is Not A Path, which is the path to the last directory shown in a file dialog.
+394252:30cc85 new file path is the path of the file opened or created. You can use this output to determine the path of a file that you open or create using dialog. new file path returns Not A Path if the user selects Cancel from the dialog box.
+404021:3a3dbd file path is the path name of the file. If file path is empty (default value) or is Not A Path, the VI displays a File dialog box from which you can select a file. Error 43 occurs if the user cancels the dialog.
+404025:3a3fad start path is the path name to the initially displayed directory in a file dialog. The default value is Not A Path, which is the path to the last directory shown in a file dialog.
+404028:3a4323 new file path is the path of the file opened. You can use this output to determine the path of a file that you open using dialog. new file path returns Not A Path if the user selects Cancel from the dialog box.
+404060:3a5aeb file path is the path name of the file. If file path is empty (default value) or is Not A Path, the VI displays a File dialog box from which you can select a file. Error 43 occurs if the user cancels the dialog.
+404063:3a5cec new file path is the path of the file to which the VI wrote data. You can use this output to determine the path of a file that you open using dialog. new file path returns Not A Path if the user selects Cancel from the dialog box.
+404096:3a67aa file path is the path name of the file. If file path is empty (default value) or is Not A Path, the VI displays a File dialog box from which you can select a file. Error 43 occurs if the user cancels the dialog.
+404100:3a6b54 new file path is the path of the file from which the VI read data. You can use this output to determine the path of a file that you open using dialog. new file path returns Not A Path if the user selects Cancel from the dialog box.
+405979:3ca0dc new file path
+405991:3ca1c0 file path
+406013:3ca37e new file path p2
+406022:3ca486 file path p2
+406058:3cac66 file path
+406161:3cb51a new file pathD@P
+406166:3cb56b file path
+406176:3cb7a4 file path is the path name of the file. If file path is empty (default value) or is Not A Path, the VI displays a File dialog box from which you can select a file. Error 43 occurs if the user cancels the dialog.
+406185:3cbbdf start path is the path name to the initially displayed directory in a file dialog. The default value is Not A Path, which is the path to the last directory shown in a file dialog.
+406188:3cbf55 new file path is the path of the file opened or created. You can use this output to determine the path of a file that you open or create using dialog. new file path returns Not A Path if the user selects Cancel from the dialog box.
+406194:3cc309 start path is the path name to the initially displayed directory (or folder) in a file dialog. The default value is Not A Path, which is the path to the last directory (or folder) shown in a file dialog.
+406197:3cc4ec new file path is the path of the file opened or created. You can use this output to determine the path of a file that you open or create using dialog. new file path returns Not A Path if the user selects Cancel from the dialog box.
+406198:3cc5d6 file path is the path name of the file. If file path is empty (default value) or is Not A Path, the VI displays a File dialog box from which you can select a file. Error 43 occurs if the user cancels the dialog.
+406230:3cced9 new file path"
+406231:3ccef0 file path2
+406277:3cd560 new file pathL
+406278:3cd590 file pathL
+406295:3cd978 ##,a File Path is supplied (not empty); proceed
+406298:3cda70 [[[report file not found if function=0 (open); set file path to empty and refnum to NotARefnumMD
+406317:3cde9b NNherror is other than file not found; set error flag TRUE, file path to NotAPath, and refnum to NotARefnummD
+406323:3ce01a rrsFile Dialog cancelled; set error out code to Cancelled By User; set refnum to NotaRefnum and file path to NotAPath.
+406324:3ce0a2 00\if file path is not supplied (empty or NotAPath), call File Dialog to get one from the user.H
+493011:109002 'new file path (Not A Path if cancelled)
+493013:109046 file path (dialog if empty)
+493287:10a8b2 'new file path (Not A Path if cancelled)
+493292:10a96d file path (dialog if empty)
+493622:11094c 'new file path (Not A Path if cancelled)
+493624:110996 file path (dialog if empty).
+493630:110a62 'new file path (Not A Path if cancelled)
+493632:110aa6 file path (dialog if empty)
+494340:1259c0 'new file path (Not A Path if cancelled)
+494342:125a04 file path (dialog if empty)
+494482:12686a file path (dialog if empty)
+494484:1268b5 'new file path (Not A Path if cancelled)
+494884:12c249 'new file path (Not A Path if cancelled)
+494886:12c28d file path (dialog if empty)
+494892:12c341 'new file path (Not A Path if cancelled)
+494894:12c38b file path (dialog if empty).
+495504:13b7c2 'new file path (Not A Path if cancelled)
+495506:13b806 file path (dialog if empty)
+495515:13b908 'new file path (Not A Path if cancelled)"@!
+495518:13b970 file path (dialog if empty)PTH0!
+495530:13baa9 Path to Version File p2
+495558:13beb5 Path to Version File
+495564:13bf92 file path (dialog if empty)
+495579:13c0d7 Path to Version File
+495683:13eacf Path to Version File
+495689:13edc2 Path to Version File&
+495694:13ee3e file path (dialog if empty)
+495696:13ee7b 'new file path (Not A Path if cancelled)
+495697:13eeba 'new file path (Not A Path if cancelled)"@!
+495700:13ef22 file path (dialog if empty)2
+495708:13f02a 'new file path (Not A Path if cancelled)
+495710:13f06e file path (dialog if empty)
+495747:13f312 file path
+495748:13f50e Path to Version FileH
+496088:147b29 file path
+496099:147bf4 file path (" ")PTH0
+496101:147c31 'new file path (Not A Path if cancelled)
+496103:147c75 file path (dialog if empty)
+496110:147d58 file path (dialog if empty) x2
+496117:147e34 'new file path (Not A Path if cancelled) x2
+496137:1481b6 file path
+496165:148425 file path (dialog if empty)
+496220:1498fb file path (dialog if empty)&@
+496222:149941 'new file path (Not A Path if cancelled)
+496230:149ab1 file path is the path name of the file. If file path is empty (default value) or is Not A Path, the VI displays a File dialog box from which you can select a file. Error 43 occurs if the user cancels the dialog.
+496234:149e5b new file path is the path of the file from which the VI read data. You can use this output to determine the path of a file that you open using dialog. new file path returns Not A Path if the user selects Cancel from the dialog box.
+496239:14a0c9 file path (dialog if empty)<
+496240:14a0ed 'new file path (Not A Path if cancelled)
+496297:14a59e file path
+496308:14a669 file path (" ")
+496310:14a69a file path2
+496319:14a757 file path (" ")
+496360:14abaf file path (dialog if empty)H
+496362:14ac3a 'new file path (Not A Path if cancelled)H
+496400:14ba08 file path is the path name of the file. If file path is empty (default value) or is Not A Path, the VI displays a File dialog box from which you can select a file. Error 43 occurs if the user cancels the dialog.
+496403:14bc40 new file path is the path of the file from which the VI read data. You can use this output to determine the path of a file that you open using dialog. new file path returns Not A Path if the user selects Cancel from the dialog box.
+503260:1ce6a4 new file path
+503272:1ce788 file pathPTH0!
+503274:1ce7c8 'new file path (Not A Path if cancelled)"@!
+503277:1ce830 file path (dialog if empty)
+503279:1ce883 file path (dialog if empty) x2
+503286:1ce955 'new file path (Not A Path if cancelled) x2
+503300:1ceab7 new file path
+503309:1ceb74 file path (dialog if empty)&
+503355:1cf73f file path (dialog if empty)0@2
+503356:1cf761 'new file path (Not A Path if cancelled)
+503360:1cf875 file path is the path name of the file. If file path is empty (default value) or is Not A Path, the VI displays a File dialog box from which you can select a file. Error 43 occurs if the user cancels the dialog.
+503363:1cfa76 new file path is the path of the file to which the VI wrote data. You can use this output to determine the path of a file that you open using dialog. new file path returns Not A Path if the user selects Cancel from the dialog box.
+503365:1cfbe9 file path (dialog if empty)<
+503366:1cfc0d 'new file path (Not A Path if cancelled)*
+503402:1cff2b new file path
+503414:1d000f file pathF
+503420:1d0069 new file path2
+503430:1d0142 file path.
+503478:1d0589 file path (dialog if empty)H
+503479:1d05c6 'new file path (Not A Path if cancelled)H
+503504:1d0c4f file path is the path name of the file. If file path is empty (default value) or is Not A Path, the VI displays a File dialog box from which you can select a file. Error 43 occurs if the user cancels the dialog.
+503506:1d0df1 new file path is the path of the file to which the VI wrote data. You can use this output to determine the path of a file that you open using dialog. new file path returns Not A Path if the user selects Cancel from the dialog box.
+503588:1d24a5 new file path
+503600:1d259f file path
+505653:2052b6 file path
+505664:205381 file path (" ")
+505686:20554a file path p2
+505695:205653 file path (" ") x2
+505722:205b4f file path (" ")
+505847:207968 file pathD@P
+505852:2079b5 file path (" ")
+505861:207b61 file path is the path name of the file. If file path is empty (default value) or is Not A Path, the VI displays a File dialog box from which you can select a file. Error 43 occurs if the user cancels the dialog.
+505865:207d51 start path is the path name to the initially displayed directory in a file dialog. The default value is Not A Path, which is the path to the last directory shown in a file dialog.
+505868:2080c7 new file path is the path of the file opened. You can use this output to determine the path of a file that you open using dialog. new file path returns Not A Path if the user selects Cancel from the dialog box.
+505880:20847c file pathP
+505885:2084cd file path (" ")
+505930:2089d1 file pathH
+505932:208a03 file path (" ")H
+505954:208d7f ##,a File Path is supplied (not empty); proceed`
+505957:208ea3 cFile Dialog cancelled; set Error to Cancelled By User; empty File Path; set Refnum to Not a Refnum.
+505958:208f19 IIIif a File Path is not supplied, use File Dialog to get one from the user.H
+506073:20a440 start path is the path name to the initially displayed directory (or folder) in a file dialog. The default value is Not A Path, which is the path to the last directory (or folder) shown in a file dialog.
+506077:20a6f9 new file path is the path of the file opened. You can use this output to determine the path of a file that you open using dialog. new file path returns Not A Path if the user selects Cancel from the dialog box.
+506082:20ab0d file path is the path name of the file. If file path is empty (default value) or is Not A Path, the VI displays a File dialog box from which you can select a file. Error 43 occurs if the user cancels the dialog. <#
+520173:332241 file path
+520184:332323 file path (" ")
+520246:332858 'new file path (Not A Path if cancelled)
+520249:3328c5 file path (dialog if empty)
+520285:332c4c 'new file path (Not A Path if cancelled)
+520287:332c95 file path (dialog if empty)
+520832:33bdcc file path is the path name of the file. If file path is empty (default value) or is Not A Path, the VI displays a File dialog box from which you can select a file. Error 43 occurs if the user cancels the dialog.
+520841:33c207 start path is the path name to the initially displayed directory in a file dialog. The default value is Not A Path, which is the path to the last directory shown in a file dialog.
+520844:33c57d new file path is the path of the file opened or created. You can use this output to determine the path of a file that you open or create using dialog. new file path returns Not A Path if the user selects Cancel from the dialog box.
+526538:3a367a canc\if file path is not supplied (empty or NotAP
+527358:3b2a09 file path is the path name of the file. If file path is empty (default value) or is Not A Path, the VI displays a File dialog box from which you can select a file. Error 43 occurs if the user cancels the dialog.
+527362:3b2bf9 start path is the path name to the initially displayed directory in a file dialog. The default value is Not A Path, which is the path to the last directory shown in a file dialog.
+527365:3b2f6f new file path is the path of the file opened. You can use this output to determine the path of a file that you open using dialog. new file path returns Not A Path if the user selects Cancel from the dialog box.
+527397:3b4737 file path is the path name of the file. If file path is empty (default value) or is Not A Path, the VI displays a File dialog box from which you can select a file. Error 43 occurs if the user cancels the dialog.
+527400:3b4938 new file path is the path of the file to which the VI wrote data. You can use this output to determine the path of a file that you open using dialog. new file path returns Not A Path if the user selects Cancel from the dialog box.
+527433:3b53f6 file path is the path name of the file. If file path is empty (default value) or is Not A Path, the VI displays a File dialog box from which you can select a file. Error 43 occurs if the user cancels the dialog.
+527437:3b57a0 new file path is the path of the file from which the VI read data. You can use this output to determine the path of a file that you open using dialog. new file path returns Not A Path if the user selects Cancel from the dialog box.
+527891:3c3a37 new file path
+527903:3c3b1b file path
+527925:3c3cdf new file path x2
+527934:3c3dec file path x2
+527966:3c45e8 file path
+528175:3c7c81 new file pathD@P
+528180:3c7cd2 file path
+528190:3c7f0b file path is the path name of the file. If file path is empty (default value) or is Not A Path, the VI displays a File dialog box from which you can select a file. Error 43 occurs if the user cancels the dialog.
+528199:3c8346 start path is the path name to the initially displayed directory in a file dialog. The default value is Not A Path, which is the path to the last directory shown in a file dialog.
+528202:3c86bc new file path is the path of the file opened or created. You can use this output to determine the path of a file that you open or create using dialog. new file path returns Not A Path if the user selects Cancel from the dialog box.
+528222:3c8b26 new file path"
+528223:3c8b3d file path2
+528270:3c91e3 new file pathH
+528271:3c9217 file pathH
+528289:3c9612 ##,a File Path is supplied (not empty); proceed
+528292:3c970a [[[report file not found if function=0 (open); set file path to empty and refnum to NotARefnumHDt
+528299:3c9af8 NNherror is other than file not found; set error flag TRUE, file path to NotAPath, and refnum to NotARefnummD
+528305:3c9c77 rrsFile Dialog cancelled; set error out code to Cancelled By User; set refnum to NotaRefnum and file path to NotAPath.
+528306:3c9cff 00\if file path is not supplied (empty or NotAPath), call File Dialog to get one from the user.H
+528590:3cc166 start path is the path name to the initially displayed directory (or folder) in a file dialog. The default value is Not A Path, which is the path to the last directory (or folder) shown in a file dialog.
+528594:3cc406 new file path is the path of the file opened or created. You can use this output to determine the path of a file that you open or create using dialog. new file path returns Not A Path if the user selects Cancel from the dialog box.
+528600:3cc827 file path is the path name of the file. If file path is empty (default value) or is Not A Path, the VI displays a File dialog box from which you can select a file. Error 43 occurs if the user cancels the dialog.
+595348:d4e19 new file path
+595360:d4f13 file path
+595366:d5144 file path is the path name of the file. If file path is empty (default value) or is Not A Path, the VI displays a File dialog box from which you can select a file. Error 43 occurs if the user cancels the dialog.
+595375:d557f start path is the path name to the initially displayed directory in a file dialog. The default value is Not A Path, which is the path to the last directory shown in a file dialog.
+595378:d58f5 new file path is the path of the file opened or created. You can use this output to determine the path of a file that you open or create using dialog. new file path returns Not A Path if the user selects Cancel from the dialog box.
+595556:ddc53 new file path
+595568:ddd37 file path
+595590:ddefb new file path x2
+595599:de008 file path x2
+595631:de804 file path
+595840:e1e9d new file pathD@P
+595845:e1eee file path
+595855:e2127 file path is the path name of the file. If file path is empty (default value) or is Not A Path, the VI displays a File dialog box from which you can select a file. Error 43 occurs if the user cancels the dialog.
+595864:e2562 start path is the path name to the initially displayed directory in a file dialog. The default value is Not A Path, which is the path to the last directory shown in a file dialog.
+595867:e28d8 new file path is the path of the file opened or created. You can use this output to determine the path of a file that you open or create using dialog. new file path returns Not A Path if the user selects Cancel from the dialog box.
+595887:e2d42 new file path"
+595888:e2d59 file path2
+595935:e33ff new file pathH
+595936:e3433 file pathH
+595954:e382e ##,a File Path is supplied (not empty); proceed
+595957:e3926 [[[report file not found if function=0 (open); set file path to empty and refnum to NotARefnumHDt
+595964:e3d14 NNherror is other than file not found; set error flag TRUE, file path to NotAPath, and refnum to NotARefnummD
+595970:e3e93 rrsFile Dialog cancelled; set error out code to Cancelled By User; set refnum to NotaRefnum and file path to NotAPath.
+595971:e3f1b 00\if file path is not supplied (empty or NotAPath), call File Dialog to get one from the user.H
+596255:e6382 start path is the path name to the initially displayed directory (or folder) in a file dialog. The default value is Not A Path, which is the path to the last directory (or folder) shown in a file dialog.
+596259:e6622 new file path is the path of the file opened or created. You can use this output to determine the path of a file that you open or create using dialog. new file path returns Not A Path if the user selects Cancel from the dialog box.
+596265:e6a43 file path is the path name of the file. If file path is empty (default value) or is Not A Path, the VI displays a File dialog box from which you can select a file. Error 43 occurs if the user cancels the dialog.
+596757:f3c69 file path is the path name of the file. If file path is empty (default value) or is Not A Path, the VI displays a File dialog box from which you can select a file. Error 43 occurs if the user cancels the dialog.
+596761:f3e59 start path is the path name to the initially displayed directory in a file dialog. The default value is Not A Path, which is the path to the last directory shown in a file dialog.
+596764:f41cf new file path is the path of the file opened. You can use this output to determine the path of a file that you open using dialog. new file path returns Not A Path if the user selects Cancel from the dialog box.
+596796:f5997 file path is the path name of the file. If file path is empty (default value) or is Not A Path, the VI displays a File dialog box from which you can select a file. Error 43 occurs if the user cancels the dialog.
+596799:f5b98 new file path is the path of the file to which the VI wrote data. You can use this output to determine the path of a file that you open using dialog. new file path returns Not A Path if the user selects Cancel from the dialog box.
+596832:f6656 file path is the path name of the file. If file path is empty (default value) or is Not A Path, the VI displays a File dialog box from which you can select a file. Error 43 occurs if the user cancels the dialog.
+596836:f6a00 new file path is the path of the file from which the VI read data. You can use this output to determine the path of a file that you open using dialog. new file path returns Not A Path if the user selects Cancel from the dialog box.
+597373:fc035 file path
+597381:fc0f7 file path (" ")
+597430:fc678 'new file path (Not A Path if cancelled)
+597433:fc6e5 file path (dialog if empty)
+597469:fcb4c 'new file path (Not A Path if cancelled)
+597471:fcb95 file path (dialog if empty)
+607057:19f5d1 file path is the path name of the file. If file path is empty (default value) or is Not A Path, the VI displays a File dialog box from which you can select a file. Error 43 occurs if the user cancels the dialog.
+607061:19f7c1 start path is the path name to the initially displayed directory in a file dialog. The default value is Not A Path, which is the path to the last directory shown in a file dialog.
+607064:19fb37 new file path is the path of the file opened. You can use this output to determine the path of a file that you open using dialog. new file path returns Not A Path if the user selects Cancel from the dialog box.
+608418:1b6e57 file path is the path name of the file. If file path is empty (default value) or is Not A Path, the VI displays a File dialog box from which you can select a file. Error 43 occurs if the user cancels the dialog.
+608421:1b7058 new file path is the path of the file to which the VI wrote data. You can use this output to determine the path of a file that you open using dialog. new file path returns Not A Path if the user selects Cancel from the dialog box.
+610294:1d4e6e file path is the path name of the file. If file path is empty (default value) or is Not A Path, the VI displays a File dialog box from which you can select a file. Error 43 occurs if the user cancels the dialog.
+610298:1d5218 new file path is the path of the file from which the VI read data. You can use this output to determine the path of a file that you open using dialog. new file path returns Not A Path if the user selects Cancel from the dialog box.

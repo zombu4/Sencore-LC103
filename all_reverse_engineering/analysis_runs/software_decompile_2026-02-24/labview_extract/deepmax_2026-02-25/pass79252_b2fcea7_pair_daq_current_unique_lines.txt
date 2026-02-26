@@ -1,0 +1,34 @@
+102413:4c8692 DAQ dmaChainingErr: New buffer information was not available at the time of the DMA chaining interrupt; DMA transfers will terminate at the end of the currently active transfer buffer.
+102430:4c9d4c DAQ delayTrigErr: The delayed trigger mode is not supported or is not available in the current configuration, or no delay source has been assigned.:DAQ postTrigErr: No posttrigger source has been assigned.
+102446:4cb9fc DAQ SCXIConfigErr: The specified SCXI configuration parameters are invalid, or the function cannot be executed with the current SCXI configuration.
+134418:20ae28 SOFTWARE\National Instruments\NI-DAQ\CurrentVersion\fpgafiles
+134467:20b940 SOFTWARE\National Instruments\NI-DAQmx\CurrentVersion
+260846:24126a DAQ dmaChainingErr: New buffer information was not available at the time of the DMA chaining interrupt; DMA transfers will terminate at the end of the currently active transfer buffer.
+260863:242924 DAQ delayTrigErr: The delayed trigger mode is not supported or is not available in the current configuration, or no delay source has been assigned.:DAQ postTrigErr: No posttrigger source has been assigned.
+260879:2445d4 DAQ SCXIConfigErr: The specified SCXI configuration parameters are invalid, or the function cannot be executed with the current SCXI configuration.
+314854:15ee3b DAQ dmaChainingErr: New buffer information was not available at the time of the DMA chaining interrupt; DMA transfers will terminate at the end of the currently active transfer buffer.
+314871:1604f5 DAQ delayTrigErr: The delayed trigger mode is not supported or is not available in the current configuration, or no delay source has been assigned.:DAQ postTrigErr: No posttrigger source has been assigned.
+314887:1621a5 DAQ SCXIConfigErr: The specified SCXI configuration parameters are invalid, or the function cannot be executed with the current SCXI configuration.
+341331:fe40b DAQ dmaChainingErr: New buffer information was not available at the time of the DMA chaining interrupt; DMA transfers will terminate at the end of the currently active transfer buffer.
+341348:ffac5 DAQ delayTrigErr: The delayed trigger mode is not supported or is not available in the current configuration, or no delay source has been assigned.:DAQ postTrigErr: No posttrigger source has been assigned.
+341364:101775 DAQ SCXIConfigErr: The specified SCXI configuration parameters are invalid, or the function cannot be executed with the current SCXI configuration.
+371284:17ac8c DAQ dmaChainingErr: New buffer information was not available at the time of the DMA chaining interrupt; DMA transfers will terminate at the end of the currently active transfer buffer.
+371301:17c346 DAQ delayTrigErr: The delayed trigger mode is not supported or is not available in the current configuration, or no delay source has been assigned.:DAQ postTrigErr: No posttrigger source has been assigned.
+371317:17dff6 DAQ SCXIConfigErr: The specified SCXI configuration parameters are invalid, or the function cannot be executed with the current SCXI configuration.
+433985:ee8af DAQ dmaChainingErr: New buffer information was not available at the time of the DMA chaining interrupt; DMA transfers will terminate at the end of the currently active transfer buffer.
+434002:eff69 DAQ delayTrigErr: The delayed trigger mode is not supported or is not available in the current configuration, or no delay source has been assigned.:DAQ postTrigErr: No posttrigger source has been assigned.
+434018:f1c19 DAQ SCXIConfigErr: The specified SCXI configuration parameters are invalid, or the function cannot be executed with the current SCXI configuration.
+469964:fde30 DAQ dmaChainingErr: New buffer information was not available at the time of the DMA chaining interrupt; DMA transfers will terminate at the end of the currently active transfer buffer.
+469981:ff4ea DAQ delayTrigErr: The delayed trigger mode is not supported or is not available in the current configuration, or no delay source has been assigned.:DAQ postTrigErr: No posttrigger source has been assigned.
+469997:10119a DAQ SCXIConfigErr: The specified SCXI configuration parameters are invalid, or the function cannot be executed with the current SCXI configuration.
+503794:1dbc2d DAQ dmaChainingErr: New buffer information was not available at the time of the DMA chaining interrupt; DMA transfers will terminate at the end of the currently active transfer buffer.
+503811:1dd2e7 DAQ delayTrigErr: The delayed trigger mode is not supported or is not available in the current configuration, or no delay source has been assigned.:DAQ postTrigErr: No posttrigger source has been assigned.
+503827:1def97 DAQ SCXIConfigErr: The specified SCXI configuration parameters are invalid, or the function cannot be executed with the current SCXI configuration.
+546360:ed7bf DAQ dmaChainingErr: New buffer information was not available at the time of the DMA chaining interrupt; DMA transfers will terminate at the end of the currently active transfer buffer.
+546377:eee79 DAQ delayTrigErr: The delayed trigger mode is not supported or is not available in the current configuration, or no delay source has been assigned.:DAQ postTrigErr: No posttrigger source has been assigned.
+546393:f0b29 DAQ SCXIConfigErr: The specified SCXI configuration parameters are invalid, or the function cannot be executed with the current SCXI configuration.
+579213:15faf1 DAQ dmaChainingErr: New buffer information was not available at the time of the DMA chaining interrupt; DMA transfers will terminate at the end of the currently active transfer buffer.
+579230:1611ab DAQ delayTrigErr: The delayed trigger mode is not supported or is not available in the current configuration, or no delay source has been assigned.:DAQ postTrigErr: No posttrigger source has been assigned.
+579246:162e5b DAQ SCXIConfigErr: The specified SCXI configuration parameters are invalid, or the function cannot be executed with the current SCXI configuration.
+639907:20ae28 SOFTWARE\National Instruments\NI-DAQ\CurrentVersion\fpgafiles
+639956:20b940 SOFTWARE\National Instruments\NI-DAQmx\CurrentVersion

@@ -1,0 +1,147 @@
+53014:1cb6af zvsource is in most cases the name of the VI or function that produced the error; the default value is an empty string.
+54017:1dc431 monnie%Displayed scrollbar in source string.
+54255:1e0095 zvsource is in most cases the name of the VI or function that produced the error; the default value is an empty string.
+54508:1e4505 monnie%Displayed scrollbar in source string.
+76095:32950c source is a string that indicates the origin of the error, if any. Usually source is the name of the VI in which the error occurred.
+76442:32f416 source is a string that indicates the origin of the error, if any. Usually source is the name of the VI in which the error occurred.
+76858:336d64 source is a string that indicates the origin of the error, if any. Usually source is the name of the VI in which the error occurred.
+76866:3371bd source is a string that indicates the origin of the error, if any. Usually source is the name of the VI in which the error occurred.
+100027:49a91e monnie%Displayed scrollbar in source string.
+100209:49d388 source messages contains the source message you want to appear in the error out cluster if the VI finds an error in error codes. Place each message on a separate line in a string constant or control. 
+100461:4a14a9 You can optionally use the source messages string to pass on the source of the error. Enter one line of text for each element of the error codes array.  
+100464:4a15d2 monnie'Displayed scrollbars on source strings.
+100610:4a3a7b zvsource is in most cases the name of the VI or function that produced the error; the default value is an empty string.
+100823:4a748a monnie'Displayed scrollbars on source strings.
+101013:4aa4d2 zvsource is in most cases the name of the VI or function that produced the error; the default value is an empty string.
+101404:4b00f4 monnie%Displayed scrollbar in source string.
+101595:4b75bd }yexception source is the error message that you want to use to test for an exception. By default, it is an empty string. 
+101596:4b763a error source is an optional string you can use to describe the source of error code. The VI uses the string in message if there is an error.
+102318:4c3e5d monnie#Added scrollbars to source strings.
+223271:a2db zvsource is in most cases the name of the VI or function that produced the error; the default value is an empty string.
+224274:1b05d monnie%Displayed scrollbar in source string.
+224548:1fb75 zvsource is in most cases the name of the VI or function that produced the error; the default value is an empty string.
+224801:23fe5 monnie%Displayed scrollbar in source string.
+246430:168138 source is a string that indicates the origin of the error, if any. Usually source is the name of the VI in which the error occurred.
+246786:16e16e source is a string that indicates the origin of the error, if any. Usually source is the name of the VI in which the error occurred.
+247223:175c98 source is a string that indicates the origin of the error, if any. Usually source is the name of the VI in which the error occurred.
+247231:1760f1 source is a string that indicates the origin of the error, if any. Usually source is the name of the VI in which the error occurred.
+258357:21124a monnie%Displayed scrollbar in source string.
+258563:214768 source messages contains the source message you want to appear in the error out cluster if the VI finds an error in error codes. Place each message on a separate line in a string constant or control. 
+258815:218889 You can optionally use the source messages string to pass on the source of the error. Enter one line of text for each element of the error codes array.  
+258818:2189b2 monnie'Displayed scrollbars on source strings.
+258946:219972 You can optionally use the source messages string to pass on the source of the error. Enter one line of text for each element of the error codes array.  
+258981:21b2cf zvsource is in most cases the name of the VI or function that produced the error; the default value is an empty string.
+259194:21ecde monnie'Displayed scrollbars on source strings.
+259410:222582 zvsource is in most cases the name of the VI or function that produced the error; the default value is an empty string.
+259801:2281a4 monnie%Displayed scrollbar in source string.
+260028:230195 }yexception source is the error message that you want to use to test for an exception. By default, it is an empty string. 
+260029:230212 error source is an optional string you can use to describe the source of error code. The VI uses the string in message if there is an error.
+260751:23ca35 monnie#Added scrollbars to source strings.
+308646:f1717 source is a string that indicates the origin of the error, if any. Usually source is the name of the VI in which the error occurred.
+309005:f7731 source is a string that indicates the origin of the error, if any. Usually source is the name of the VI in which the error occurred.
+309449:ff23f source is a string that indicates the origin of the error, if any. Usually source is the name of the VI in which the error occurred.
+309457:ff698 source is a string that indicates the origin of the error, if any. Usually source is the name of the VI in which the error occurred.
+314016:14ddb2 }yexception source is the error message that you want to use to test for an exception. By default, it is an empty string. 
+314017:14de2f error source is an optional string you can use to describe the source of error code. The VI uses the string in message if there is an error.
+314758:15a656 monnie#Added scrollbars to source strings.
+340499:ed395 }yexception source is the error message that you want to use to test for an exception. By default, it is an empty string. 
+340500:ed412 error source is an optional string you can use to describe the source of error code. The VI uses the string in message if there is an error.
+341237:f9c35 monnie#Added scrollbars to source strings.
+361418:d3c2e The source string describes the origin of the error or warning.
+361434:d4140 The source string describes the origin of the error or warning.
+371462:183b4d }yexception source is the error message that you want to use to test for an exception. By default, it is an empty string. 
+371463:183bca error source is an optional string you can use to describe the source of error code. The VI uses the string in message if there is an error.
+371909:18caee monnie#Added scrollbars to source strings.
+372364:1939fd zvsource is in most cases the name of the VI or function that produced the error; the default value is an empty string.
+372607:196fc3 monnie%Displayed scrollbar in source string.
+372953:19bbcd zvsource is in most cases the name of the VI or function that produced the error; the default value is an empty string.
+373083:19de2a monnie'Displayed scrollbars on source strings.
+373370:1a203c You can optionally use the source messages string to pass on the source of the error. Enter one line of text for each element of the error codes array.  
+373374:1a228f source messages contains the source message you want to appear in the error out cluster if the VI finds an error in error codes. Place each message on a separate line in a string constant or control. 
+373488:1a4a49 monnie'Displayed scrollbars on source strings.
+374442:1b444e monnie%Displayed scrollbar in source string.
+395227:31b870 source is a string that indicates the origin of the error, if any. Usually source is the name of the VI in which the error occurred.
+395231:31bca9 source is a string that indicates the origin of the error, if any. Usually source is the name of the VI in which the error occurred.
+395894:325811 source is a string that indicates the origin of the error, if any. Usually source is the name of the VI in which the error occurred."
+396328:32c71d source is a string that indicates the origin of the error, if any. Usually source is the name of the VI in which the error occurred."
+403401:39c71f The source string describes the origin of the error or warning.
+403412:39cb2c The source string describes the origin of the error or warning.
+404034:3a481e You can optionally use the source messages string to pass on the source of the error. Enter one line of text for each element of the error codes array.  
+405308:3bab24 zvsource is in most cases the name of the VI or function that produced the error; the default value is an empty string.
+405444:3bd1dd monnie%Displayed scrollbar in source string.
+406212:3cccb6 zvsource is in most cases the name of the VI or function that produced the error; the default value is an empty string.
+406926:3d9921 monnie%Displayed scrollbar in source string.
+417607:4eac The source string describes the origin of the error or warning.
+417623:53e0 The source string describes the origin of the error or warning.
+434163:f7770 }yexception source is the error message that you want to use to test for an exception. By default, it is an empty string. 
+434164:f77ed error source is an optional string you can use to describe the source of error code. The VI uses the string in message if there is an error.
+434609:100719 monnie#Added scrollbars to source strings.
+439400:14eb9e source is a string that indicates the origin of the error, if any. Usually source is the name of the VI in which the error occurred.
+439404:14efd7 source is a string that indicates the origin of the error, if any. Usually source is the name of the VI in which the error occurred.
+440076:158b2b source is a string that indicates the origin of the error, if any. Usually source is the name of the VI in which the error occurred."
+440515:15fa39 source is a string that indicates the origin of the error, if any. Usually source is the name of the VI in which the error occurred."
+443247:189882 The source string describes the origin of the error or warning.
+443258:189c8f The source string describes the origin of the error or warning.
+443881:1920bd The source string describes the origin of the error or warning.
+443897:1925cf The source string describes the origin of the error or warning.
+466590:c4bc6 The source string describes the origin of the error or warning.
+466601:c4fd3 The source string describes the origin of the error or warning.
+467706:d32a5 The source string describes the origin of the error or warning.
+467722:d37b7 The source string describes the origin of the error or warning.
+470142:106cf1 }yexception source is the error message that you want to use to test for an exception. By default, it is an empty string. 
+470143:106d6e error source is an optional string you can use to describe the source of error code. The VI uses the string in message if there is an error.
+470585:10fc93 monnie#Added scrollbars to source strings.
+504206:1e9c85 yexception source is the error message that you want to use to test for an exception. By default, it is an empty string. 
+504207:1e9d40 error source is an optional string you can use to describe the source of error code. The VI uses the string in message if there is an error.
+504526:1ef8c9 monnie#Added scrollbars to source strings.
+504904:1f57dd vsource is in most cases the name of the VI or function that produced the error; the default value is an empty string.
+505003:1f7643 monnie%Displayed scrollbar in source string.
+505282:1fb74f vsource is in most cases the name of the VI or function that produced the error; the default value is an empty string.
+505323:1fcbe3 monnie'Displayed scrollbars on source strings.
+505478:1ff5af You can optionally use the source messages string to pass on the source of the error. Enter one line of text for each element of the error codes array.  
+505539:200a14 source messages contains the source message you want to appear in the error out cluster if the VI finds an error in error codes. Place each message on a separate line in a string constant or control. 
+505569:201f8a monnie'Displayed scrollbars on source strings.
+506351:20eb49 monnie%Displayed scrollbar in source string.
+520649:338fd2 source is a string that indicates the origin of the error, if any. Usually source is the name of the VI in which the error occurred.
+520652:339330 source is a string that indicates the origin of the error, if any. Usually source is the name of the VI in which the error occurred.
+521065:341215 source is a string that indicates the origin of the error, if any. Usually source is the name of the VI in which the error occurred.
+521374:346adf source is a string that indicates the origin of the error, if any. Usually source is the name of the VI in which the error occurred.
+526216:39e319 The source string describes the origin of the error or warning.
+526232:39e8f0 The source string describes the origin of the error or warning.
+526575:3a4eae The source string describes the origin of the error or warning.
+526587:3a5290 The source string describes the origin of the error or warning.
+527371:3b346a You can optionally use the source messages string to pass on the source of the error. Enter one line of text for each element of the error codes array.  
+527764:3bc375 vsource is in most cases the name of the VI or function that produced the error; the default value is an empty string.
+527813:3bdb06 monnie%Displayed scrollbar in source string.
+528597:3cc6f0 vsource is in most cases the name of the VI or function that produced the error; the default value is an empty string.
+528997:3d5bda monnie%Displayed scrollbar in source string.
+530075:4eac The source string describes the origin of the error or warning.
+530091:53e0 The source string describes the origin of the error or warning.
+546538:f6680 }yexception source is the error message that you want to use to test for an exception. By default, it is an empty string. 
+546539:f66fd error source is an optional string you can use to describe the source of error code. The VI uses the string in message if there is an error.
+546984:ff629 monnie#Added scrollbars to source strings.
+549176:125876 The source string describes the origin of the error or warning.
+549187:125c83 The source string describes the origin of the error or warning.
+549810:12e0b1 The source string describes the origin of the error or warning.
+549826:12e5c3 The source string describes the origin of the error or warning.
+557270:1b454d source is a string that indicates the origin of the error, if any. Usually source is the name of the VI in which the error occurred.
+557273:1b48ab source is a string that indicates the origin of the error, if any. Usually source is the name of the VI in which the error occurred.
+557655:1bb319 source is a string that indicates the origin of the error, if any. Usually source is the name of the VI in which the error occurred.
+557968:1c0be7 source is a string that indicates the origin of the error, if any. Usually source is the name of the VI in which the error occurred.
+574500:c4b6e The source string describes the origin of the error or warning.
+574511:c4f7b The source string describes the origin of the error or warning.
+578033:142c30 The source string describes the origin of the error or warning.
+578045:143012 The source string describes the origin of the error or warning.
+579625:16db48 yexception source is the error message that you want to use to test for an exception. By default, it is an empty string. 
+579626:16dc03 error source is an optional string you can use to describe the source of error code. The VI uses the string in message if there is an error.
+579945:17378f monnie#Added scrollbars to source strings.
+596262:e690c vsource is in most cases the name of the VI or function that produced the error; the default value is an empty string.
+596662:efdf6 monnie%Displayed scrollbar in source string.
+596770:f46ca You can optionally use the source messages string to pass on the source of the error. Enter one line of text for each element of the error codes array.  
+597721:1010bf %Displayed scrollbar in source string.
+607193:1a2587 %Displayed scrollbar in source string.
+607296:1a3d6a You can optionally use the source messages string to pass on the source of the error. Enter one line of text for each element of the error codes array.  
+607383:1a53f3 'Displayed scrollbars on source strings.
+607547:1a81b1 'Displayed scrollbars on source strings.
+607771:1abe6b %Displayed scrollbar in source string.
+608272:1b53c7 #Added scrollbars to source strings.

@@ -1,0 +1,2 @@
+47635:1620a0 The library "%z" must be converted to the current format.  This will prevent earlier versions of LabVIEW from reading it.
+48274:166d14 This is the default for the VI Setup of new VIs.  If a VI has this option set, LabVIEW will add comments to the VI's history when the name of the VI is changed, subVIs are changed, or the VI is upgraded to a new version of LabVIEW.

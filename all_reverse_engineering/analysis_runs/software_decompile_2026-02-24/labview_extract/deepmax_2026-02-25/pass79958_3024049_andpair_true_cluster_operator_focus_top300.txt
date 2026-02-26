@@ -1,0 +1,8 @@
+100208:49d328 ^Zerror status is TRUE if the error in cluster or any of the error codes reflects an error.
+100211:49d5a5 error out is a cluster that reflects the status of the first error input that tests TRUE. It has the same elements as error in.
+258562:214708 ^Zerror status is TRUE if the error in cluster or any of the error codes reflects an error.
+258565:214985 error out is a cluster that reflects the status of the first error input that tests TRUE. It has the same elements as error in.
+373373:1a222f ^Zerror status is TRUE if the error in cluster or any of the error codes reflects an error.
+373376:1a24ac error out is a cluster that reflects the status of the first error input that tests TRUE. It has the same elements as error in.
+505534:200858 error out is a cluster that reflects the status of the first error input that tests TRUE. It has the same elements as error in.
+505538:200976 Zerror status is TRUE if the error in cluster or any of the error codes reflects an error.

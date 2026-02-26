@@ -1,0 +1,22 @@
+
+Extractor Exception: Binwalk extraction uses many third party utilities, which may not be secure. If you wish to have extraction utilities executed as the current user, use '--run-as=root' (binwalk itself must be run as root).
+----------------------------------------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/Users/<user>/.local/binwalk-venv/lib/python3.9/site-packages/binwalk/core/module.py", line 258, in __init__
+    self.load()
+  File "/Users/<user>/.local/binwalk-venv/lib/python3.9/site-packages/binwalk/modules/extractor.py", line 147, in load
+    raise ModuleException("Binwalk extraction uses many third party utilities, which may not be secure. If you wish to have extraction utilities executed as the current user, use '--run-as=%s' (binwalk itself must be run as root)." % user_info.pw_name)
+binwalk.core.exceptions.ModuleException: Binwalk extraction uses many third party utilities, which may not be secure. If you wish to have extraction utilities executed as the current user, use '--run-as=root' (binwalk itself must be run as root).
+----------------------------------------------------------------------------------------------------
+
+
+Extractor Exception: Binwalk extraction uses many third party utilities, which may not be secure. If you wish to have extraction utilities executed as the current user, use '--run-as=root' (binwalk itself must be run as root).
+----------------------------------------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/Users/<user>/.local/binwalk-venv/lib/python3.9/site-packages/binwalk/core/module.py", line 258, in __init__
+    self.load()
+  File "/Users/<user>/.local/binwalk-venv/lib/python3.9/site-packages/binwalk/modules/extractor.py", line 147, in load
+    raise ModuleException("Binwalk extraction uses many third party utilities, which may not be secure. If you wish to have extraction utilities executed as the current user, use '--run-as=%s' (binwalk itself must be run as root)." % user_info.pw_name)
+binwalk.core.exceptions.ModuleException: Binwalk extraction uses many third party utilities, which may not be secure. If you wish to have extraction utilities executed as the current user, use '--run-as=root' (binwalk itself must be run as root).
+----------------------------------------------------------------------------------------------------
+

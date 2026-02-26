@@ -1,0 +1,4 @@
+48189:165033 xThis button will erase the history.  You will be prompted for whether or not you want to reset the revision number to 0.
+48196:165404 If you check this box, you will not be prompted for a comment on the rest of the VIs in this hierarchy that are being closed at this time, even if they have one of the prompt for comment options set.
+48230:165fce VI Search Path:  list of directories where LabVIEW will search for subVIs. This list is searched from top to bottom so the order is important.
+49705:177393 SReset will erase the VI history.  Do you want to reset the revision number as well?

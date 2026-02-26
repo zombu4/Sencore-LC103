@@ -1,0 +1,39 @@
+55617:1f6915 Write Ready protocol violation during transfer
+55840:1f9c46 Write Ready protocol violation during transfer
+77363:33d573 Write Error - No Read Performed\
+102497:4ce19c GPIB EMOM: Out of memory (MacBus read or write).VLabVIEW: Device call aborted.
+225976:37255 Write Ready protocol violation during transfer
+226204:3a70e Write Ready protocol violation during transfer
+247728:17c4a7 Write Error - No Read Performed\
+260930:246d74 GPIB EMOM: Out of memory (MacBus read or write).VLabVIEW: Device call aborted.
+292452:45be Write Ready protocol violation during transfer
+292681:7adb Write Ready protocol violation during transfer
+309959:105a34 Write Error - No Read Performed\
+314938:164945 GPIB EMOM: Out of memory (MacBus read or write).VLabVIEW: Device call aborted.
+324573:39ce Write Ready protocol violation during transfer
+324803:6e7f Write Ready protocol violation during transfer
+341415:103f15 GPIB EMOM: Out of memory (MacBus read or write).VLabVIEW: Device call aborted.
+347421:2515 Write Ready protocol violation during transfer
+347649:59ce Write Ready protocol violation during transfer
+371368:180796 GPIB EMOM: Out of memory (MacBus read or write).VLabVIEW: Device call aborted.
+395316:31cdb6 Write Error - No Read Performed\
+418081:2432 Write Ready protocol violation during transfer
+418310:594f Write Ready protocol violation during transfer
+434069:f43b9 GPIB EMOM: Out of memory (MacBus read or write).VLabVIEW: Device call aborted.
+439489:1500e4 Write Error - No Read Performed\
+452872:e1a Write Ready protocol violation during transfer
+453102:42cb Write Ready protocol violation during transfer
+470048:10393a GPIB EMOM: Out of memory (MacBus read or write).VLabVIEW: Device call aborted.
+476637:2515 Write Ready protocol violation during transfer
+476865:59ce Write Ready protocol violation during transfer
+503878:1e1737 GPIB EMOM: Out of memory (MacBus read or write).VLabVIEW: Device call aborted.
+520612:337d3f Write Error - No Read Performed\
+530549:2432 Write Ready protocol violation during transfer
+530778:594f Write Ready protocol violation during transfer
+546444:f32c9 GPIB EMOM: Out of memory (MacBus read or write).VLabVIEW: Device call aborted.
+557233:1b32bc Write Error - No Read Performed\
+560788:e1a Write Ready protocol violation during transfer
+561018:42cb Write Ready protocol violation during transfer
+579297:1655fb GPIB EMOM: Out of memory (MacBus read or write).VLabVIEW: Device call aborted.
+581360:248d Write Ready protocol violation during transfer
+581588:5946 Write Ready protocol violation during transfer

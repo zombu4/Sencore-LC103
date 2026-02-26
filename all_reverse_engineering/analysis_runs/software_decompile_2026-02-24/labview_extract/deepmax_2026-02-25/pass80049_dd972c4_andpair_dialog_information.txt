@@ -1,0 +1,40 @@
+48193:1651e4 This is the revision number that will be included in new history entries.  The current number is displayed in the Instrument Information dialog.  It is incremented every time you save the VI.
+48198:165560 This is the revision number that will be included in new history entries.  The current number is displayed in the Instrument Information dialog.  It is incremented every time you save the VI.
+52510:1bd790 This VI has a bad connection to or cannot find a subVI or external routine, but it has no block diagram to show or fix the error. You must find or correct the subVI or external routine. Check for more information in the Explain... dialog in Get Info.
+52993:1caf99 pattern is the match pattern specification to display only certain types of files or directories (or folders). See the description of the File Dialog function for more information.
+54010:1dbe59 pattern is the match pattern specification to display only certain types of files or directories.  See the description of the File Dialog function for more information.
+99474:491285 pattern is the match pattern specification to display only certain types of files or directories (or folders). See the description of the File Dialog function for more information.
+100020:49a32d pattern is the match pattern specification to display only certain types of files or directories.  See the description of the File Dialog function for more information.
+101574:4b6c3f =type of dialog determines what type dialog box will be displayed, if any. Regardless of its value, the VI outputs error information and message describing the error.
+223250:9bc5 pattern is the match pattern specification to display only certain types of files or directories (or folders). See the description of the File Dialog function for more information.
+224267:1aa85 pattern is the match pattern specification to display only certain types of files or directories.  See the description of the File Dialog function for more information.
+224503:1d791 pattern is the match pattern specification to display only certain types of files or directories.  See the description of the File Dialog function for more information.
+257804:207bb1 pattern is the match pattern specification to display only certain types of files or directories (or folders). See the description of the File Dialog function for more information.
+258350:210c59 pattern is the match pattern specification to display only certain types of files or directories.  See the description of the File Dialog function for more information.
+258533:2129e3 pattern is the match pattern specification to display only certain types of files or directories.  See the description of the File Dialog function for more information.
+260007:22f817 =type of dialog determines what type dialog box will be displayed, if any. Regardless of its value, the VI outputs error information and message describing the error.
+313995:14d434 =type of dialog determines what type dialog box will be displayed, if any. Regardless of its value, the VI outputs error information and message describing the error.
+340478:eca17 =type of dialog determines what type dialog box will be displayed, if any. Regardless of its value, the VI outputs error information and message describing the error.
+371452:1835e2 =type of dialog determines what type dialog box will be displayed, if any. Regardless of its value, the VI outputs error information and message describing the error.
+374020:1ad712 pattern is the match pattern specification to display only certain types of files or directories.  See the description of the File Dialog function for more information.
+374030:1ade9d pattern is the match pattern specification to display only certain types of files or directories (or folders). See the description of the File Dialog function for more information.
+394250:30c9c5 pattern is the match pattern specification to display only certain types of files or directories.  See the description of the File Dialog function for more information.
+404026:3a4063 pattern is the match pattern specification to display only certain types of files or directories.  See the description of the File Dialog function for more information.
+406186:3cbc95 pattern is the match pattern specification to display only certain types of files or directories.  See the description of the File Dialog function for more information.
+406196:3cc435 pattern is the match pattern specification to display only certain types of files or directories (or folders). See the description of the File Dialog function for more information.
+434153:f7205 =type of dialog determines what type dialog box will be displayed, if any. Regardless of its value, the VI outputs error information and message describing the error.
+470132:106786 =type of dialog determines what type dialog box will be displayed, if any. Regardless of its value, the VI outputs error information and message describing the error.
+504202:1e9a05 =type of dialog determines what type dialog box will be displayed, if any. Regardless of its value, the VI outputs error information and message describing the error.
+505866:207e07 pattern is the match pattern specification to display only certain types of files or directories.  See the description of the File Dialog function for more information.
+506075:20a5fe pattern is the match pattern specification to display only certain types of files or directories (or folders). See the description of the File Dialog function for more information.
+520842:33c2bd pattern is the match pattern specification to display only certain types of files or directories.  See the description of the File Dialog function for more information.
+527363:3b2caf pattern is the match pattern specification to display only certain types of files or directories.  See the description of the File Dialog function for more information.
+528200:3c83fc pattern is the match pattern specification to display only certain types of files or directories.  See the description of the File Dialog function for more information.
+528592:3cc325 pattern is the match pattern specification to display only certain types of files or directories (or folders). See the description of the File Dialog function for more information.
+546528:f6115 =type of dialog determines what type dialog box will be displayed, if any. Regardless of its value, the VI outputs error information and message describing the error.
+579621:16d8c8 =type of dialog determines what type dialog box will be displayed, if any. Regardless of its value, the VI outputs error information and message describing the error.
+595376:d5635 pattern is the match pattern specification to display only certain types of files or directories.  See the description of the File Dialog function for more information.
+595865:e2618 pattern is the match pattern specification to display only certain types of files or directories.  See the description of the File Dialog function for more information.
+596257:e6541 pattern is the match pattern specification to display only certain types of files or directories (or folders). See the description of the File Dialog function for more information.
+596762:f3f0f pattern is the match pattern specification to display only certain types of files or directories.  See the description of the File Dialog function for more information.
+607062:19f877 pattern is the match pattern specification to display only certain types of files or directories.  See the description of the File Dialog function for more information.

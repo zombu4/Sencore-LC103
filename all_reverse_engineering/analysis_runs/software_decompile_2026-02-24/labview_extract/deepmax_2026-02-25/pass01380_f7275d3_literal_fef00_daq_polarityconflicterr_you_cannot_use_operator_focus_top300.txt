@@ -1,0 +1,1 @@
+341342:fef00 DAQ polarityConflictErr: You cannot use this combination of scan and sample clock source polarities for this operation and board.kDAQ timebaseConflictErr: You cannot use this combination of scan and sample clock timebases for this board.

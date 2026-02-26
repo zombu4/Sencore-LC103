@@ -1,0 +1,110 @@
+# fixture value hunt
+
+## key hits from lv3_1 extracted vis
+### CALB_SET.vi
+4:897 Load Select
+5:925 Load Select
+30:14421 Load Select
+101:35101 Load Select
+102:35139 Load Select
+103:35155 Load Select
+138:36337     0=1.1MOhm connected to UUT leads; Same as '9'.
+194:40847 Load Select
+207:41079 Load Select
+220:42211 Load Select
+237:42592 Load Select
+
+### SETLD_RD.vi
+
+### LEAK_I.vi
+39:26821 Load Select
+42:27481 Load Select
+93:48913 Load Select
+97:49013 Load Select
+524:113127 Load Select
+534:114693    0          Sense Resistor
+652:122748 1.111E6
+655:122850 100uA
+658:123030 10mA
+688:124012 1.111E6
+733:125679 Load SelectPTH0
+
+### LEAK_VLT.vi
+25:10517 Load Select
+70:30737 Load Select
+533:99693 Load Select
+648:108195 500V
+649:108203 1000V
+725:110609 Load SelectPTH0
+
+### Leak_CAL.vi
+26:16361 Load Select
+29:17021 Load Select
+40:23945 Load Select
+117:64685 Load Select
+121:64785 Load Select
+125:64885 Load Select
+590:153307 Load Select
+593:153385 Load Select
+661:154785 Load Select
+850:167604 1000V
+914:170109 Load SelectPTH0
+
+### GAIN_CAL.vi
+28:29501 Load Select
+31:30161 Load Select
+34:33961 Load Select
+37:35137 Load Select
+94:57213 Load Select
+98:57313 Load Select
+102:57413 Load Select
+106:57513 Load Select
+497:113429 Load Select
+500:113515 Load Select
+536:114231 Load Select
+550:114465 Load Select
+767:126765 Load SelectPTH0
+
+### ISRC_CAL.vi
+47:29313 Load Select
+167:59701 Load Select
+625:115675 )Lowest Current Range
+646:118231 &Initialize Cal Factor nominally to 1.0
+858:128425 Load SelectPTH0
+
+### Ringer.vi
+503:68407 >Adjust R1144 for the number
+506:68574 Switching Transformers.
+507:68931 BNow adjust R1005 for the number
+567:73345 Small Ringer Cal Box set to
+568:73373 Yolks and Flybacks.
+593:73820 Small Ringer Cal Box set to
+594:73848 Yolks and Flybacks.
+595:73891 >Adjust R1144 for the number
+598:73980 Switching Transformers.
+599:74027 BNow adjust R1005 for the number
+
+### 10V_Set.vi
+397:52480 Connect the '+' DVM lead to TP1006
+398:52515 and the '-' lead to TP1020.  Adjust 
+399:52552 R1045 for 10.000V +/- 0.005.
+451:53632 Connect the '+' DVM lead to TP1006
+452:53667 and the '-' lead to TP1020.  Adjust 
+453:53704 R1045 for 10.000V +/- 0.005.
+
+### LEADSHRT.vi
+599:152148 Lead Zero Short Test
+611:154252 Lead Zero Short Test/Inductance
+612:154364 Lead Zero Short Test/ESR
+638:157244 Lead Zero Short Test
+676:158808 Lead Zero Short Test
+677:158832 Lead Zero Short Test/Inductance
+678:158867 Lead Zero Short Test/ESR
+680:158921 Lead Zero Short Test[
+
+### LEADOPEN.vi
+427:111288 Lead Open Test/Caps
+483:115467 Lead Open Test/Caps
+
+### test.vi
+

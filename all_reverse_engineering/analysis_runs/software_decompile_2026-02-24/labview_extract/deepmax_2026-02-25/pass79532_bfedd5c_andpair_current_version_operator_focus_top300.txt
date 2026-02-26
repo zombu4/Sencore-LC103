@@ -1,0 +1,2 @@
+47635:1620a0 The library "%z" must be converted to the current format. This will prevent earlier versions of LabVIEW from reading it.
+52412:1bc147 Could not load VI resource.,Version of VI is newer than LabVIEW version.?Version of VI is too old to convert to current LabVIEW version.JVI cannot be converted to current version because it has no block diagram."Could not load connector type map.

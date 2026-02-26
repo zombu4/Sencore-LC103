@@ -1,0 +1,3 @@
+52212:1ba204 GIt starts with "." and may be incorrectly interpreted as a device name.9LabVIEW cannot create new directories or libraries in %p.&LabVIEW cannot create new files in %p.
+52989:1cad8c createmirefnum is the reference number of the open file. The value is Not A Refnum if the file cannot be opened.
+223246:99b8 createmirefnum is the reference number of the open file. The value is Not A Refnum if the file cannot be opened.

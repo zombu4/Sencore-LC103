@@ -1,0 +1,1 @@
+579646:16e761 user-defined descriptions is an array of descriptions of user-defined codes. If an incoming error matches one in user-defined codes, the VI uses the corresponding description from user-defined descriptions in message.

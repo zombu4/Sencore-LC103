@@ -1,0 +1,71 @@
+52212:1ba204 GIt starts with "." and may be incorrectly interpreted as a device name.9LabVIEW cannot create new directories or libraries in %p.&LabVIEW cannot create new files in %p.
+52983:1cac00 opens an existing file or creates a new file if one does not exist.
+52984:1cac48 creates a new file or replaces a file if it exists and you give permission. Replacement is done by opening the file and setting EOF to 0. Error 43 occurs if the user elects to disallow the replacement using dialog.
+52985:1cad24 creates a new file. Error 8 occurs if the file already exists.
+52994:1cb050 new file path is the path of the file opened or created. You can use this output to determine the path of a file that you open or create using dialog. new file path returns Not A Path if the user selects Cancel from the dialog box.
+54003:1dbabd 1 (open or create) opens an existing file or creates a new file if one does not exist.
+54004:1dbb16 2 (create or replace) creates a new file or replaces a file if it exists and you give permission. Replacement is done by opening the file and setting EOF to 0. Error 43 occurs if the user elects to disallow the replacement using dialog.
+54005:1dbc09 3 (create) creates a new file. Error 8 occurs if the file already exists.
+54012:1dc119 new file path is the path of the file opened or created. You can use this output to determine the path of a file that you open or create using dialog. new file path returns Not A Path if the user selects Cancel from the dialog box.
+54049:1dcb0e 2create a new file if function=1-3 (open or create)
+102958:4d61cb Writes a character string to a new byte stream file or appends the string to an existing file. The VI opens or creates the file beforehand and closes it afterwards.
+223240:982c opens an existing file or creates a new file if one does not exist.
+223241:9874 creates a new file or replaces a file if it exists and you give permission. Replacement is done by opening the file and setting EOF to 0. Error 43 occurs if the user elects to disallow the replacement using dialog.
+223242:9950 creates a new file. Error 8 occurs if the file already exists.
+223251:9c7c new file path is the path of the file opened or created. You can use this output to determine the path of a file that you open or create using dialog. new file path returns Not A Path if the user selects Cancel from the dialog box.
+224260:1a6e9 1 (open or create) opens an existing file or creates a new file if one does not exist.
+224261:1a742 2 (create or replace) creates a new file or replaces a file if it exists and you give permission. Replacement is done by opening the file and setting EOF to 0. Error 43 occurs if the user elects to disallow the replacement using dialog.
+224262:1a835 3 (create) creates a new file. Error 8 occurs if the file already exists.
+224269:1ad45 new file path is the path of the file opened or created. You can use this output to determine the path of a file that you open or create using dialog. new file path returns Not A Path if the user selects Cancel from the dialog box.
+224306:1b73a 2create a new file if function=1-3 (open or create)
+224496:1d3f5 1 (open or create) opens an existing file or creates a new file if one does not exist.
+224497:1d44e 2 (create or replace) creates a new file or replaces a file if it exists and you give permission. Replacement is done by opening the file and setting EOF to 0. Error 43 occurs if the user elects to disallow the replacement using dialog.
+224498:1d541 3 (create) creates a new file. Error 8 occurs if the file already exists.
+224505:1da51 new file path is the path of the file opened or created. You can use this output to determine the path of a file that you open or create using dialog. new file path returns Not A Path if the user selects Cancel from the dialog box.
+261397:24f12b Writes a character string to a new byte stream file or appends the string to an existing file. The VI opens or creates the file beforehand and closes it afterwards.
+261609:2507dc Writes a character string to a new byte stream file or appends the string to an existing file. The VI opens or creates the file beforehand and closes it afterwards.
+370469:168abf Writes a character string to a new byte stream file or appends the string to an existing file. The VI opens or creates the file beforehand and closes it afterwards.
+394243:30c629 1 (open or create) opens an existing file or creates a new file if one does not exist.
+394244:30c682 2 (create or replace) creates a new file or replaces a file if it exists and you give permission. Replacement is done by opening the file and setting EOF to 0. Error 43 occurs if the user elects to disallow the replacement using dialog.
+394245:30c775 3 (create) creates a new file. Error 8 occurs if the file already exists.
+394252:30cc85 new file path is the path of the file opened or created. You can use this output to determine the path of a file that you open or create using dialog. new file path returns Not A Path if the user selects Cancel from the dialog box.
+404059:3a5a44 Writes a character string to a new byte stream file or appends the string to an existing file. The VI opens or creates the file beforehand and closes it afterwards.
+406179:3cb8f9 1 (open or create) opens an existing file or creates a new file if one does not exist.
+406180:3cb952 2 (create or replace) creates a new file or replaces a file if it exists and you give permission. Replacement is done by opening the file and setting EOF to 0. Error 43 occurs if the user elects to disallow the replacement using dialog.
+406181:3cba45 3 (create) creates a new file. Error 8 occurs if the file already exists.
+406188:3cbf55 new file path is the path of the file opened or created. You can use this output to determine the path of a file that you open or create using dialog. new file path returns Not A Path if the user selects Cancel from the dialog box.
+406197:3cc4ec new file path is the path of the file opened or created. You can use this output to determine the path of a file that you open or create using dialog. new file path returns Not A Path if the user selects Cancel from the dialog box.
+406201:3cc71f opens an existing file or creates a new file if one does not exist.
+406202:3cc767 creates a new file or replaces a file if it exists and you give permission. Replacement is done by opening the file and setting EOF to 0. Error 43 occurs if the user elects to disallow the replacement using dialog.
+406203:3cc843 creates a new file. Error 8 occurs if the file already exists.
+406316:3cde53 112create a new file if function=1-3 (open or create)
+503359:1cf7ce Writes a character string to a new byte stream file or appends the string to an existing file. The VI opens or creates the file beforehand and closes it afterwards.
+520835:33bf21 1 (open or create) opens an existing file or creates a new file if one does not exist.
+520836:33bf7a 2 (create or replace) creates a new file or replaces a file if it exists and you give permission. Replacement is done by opening the file and setting EOF to 0. Error 43 occurs if the user elects to disallow the replacement using dialog.
+520837:33c06d 3 (create) creates a new file. Error 8 occurs if the file already exists.
+520844:33c57d new file path is the path of the file opened or created. You can use this output to determine the path of a file that you open or create using dialog. new file path returns Not A Path if the user selects Cancel from the dialog box.
+527396:3b4690 Writes a character string to a new byte stream file or appends the string to an existing file. The VI opens or creates the file beforehand and closes it afterwards.
+528193:3c8060 1 (open or create) opens an existing file or creates a new file if one does not exist.
+528194:3c80b9 2 (create or replace) creates a new file or replaces a file if it exists and you give permission. Replacement is done by opening the file and setting EOF to 0. Error 43 occurs if the user elects to disallow the replacement using dialog.
+528195:3c81ac 3 (create) creates a new file. Error 8 occurs if the file already exists.
+528202:3c86bc new file path is the path of the file opened or created. You can use this output to determine the path of a file that you open or create using dialog. new file path returns Not A Path if the user selects Cancel from the dialog box.
+528298:3c9ab0 112create a new file if function=1-3 (open or create)
+528594:3cc406 new file path is the path of the file opened or created. You can use this output to determine the path of a file that you open or create using dialog. new file path returns Not A Path if the user selects Cancel from the dialog box.
+528605:3cca1b opens an existing file or creates a new file if one does not exist.
+528606:3cca63 creates a new file or replaces a file if it exists and you give permission. Replacement is done by opening the file and setting EOF to 0. Error 43 occurs if the user elects to disallow the replacement using dialog.
+528607:3ccb3f creates a new file. Error 8 occurs if the file already exists.
+595369:d5299 1 (open or create) opens an existing file or creates a new file if one does not exist.
+595370:d52f2 2 (create or replace) creates a new file or replaces a file if it exists and you give permission. Replacement is done by opening the file and setting EOF to 0. Error 43 occurs if the user elects to disallow the replacement using dialog.
+595371:d53e5 3 (create) creates a new file. Error 8 occurs if the file already exists.
+595378:d58f5 new file path is the path of the file opened or created. You can use this output to determine the path of a file that you open or create using dialog. new file path returns Not A Path if the user selects Cancel from the dialog box.
+595858:e227c 1 (open or create) opens an existing file or creates a new file if one does not exist.
+595859:e22d5 2 (create or replace) creates a new file or replaces a file if it exists and you give permission. Replacement is done by opening the file and setting EOF to 0. Error 43 occurs if the user elects to disallow the replacement using dialog.
+595860:e23c8 3 (create) creates a new file. Error 8 occurs if the file already exists.
+595867:e28d8 new file path is the path of the file opened or created. You can use this output to determine the path of a file that you open or create using dialog. new file path returns Not A Path if the user selects Cancel from the dialog box.
+595963:e3ccc 112create a new file if function=1-3 (open or create)
+596259:e6622 new file path is the path of the file opened or created. You can use this output to determine the path of a file that you open or create using dialog. new file path returns Not A Path if the user selects Cancel from the dialog box.
+596270:e6c37 opens an existing file or creates a new file if one does not exist.
+596271:e6c7f creates a new file or replaces a file if it exists and you give permission. Replacement is done by opening the file and setting EOF to 0. Error 43 occurs if the user elects to disallow the replacement using dialog.
+596272:e6d5b creates a new file. Error 8 occurs if the file already exists.
+596795:f58f0 Writes a character string to a new byte stream file or appends the string to an existing file. The VI opens or creates the file beforehand and closes it afterwards.
+608417:1b6db0 Writes a character string to a new byte stream file or appends the string to an existing file. The VI opens or creates the file beforehand and closes it afterwards.

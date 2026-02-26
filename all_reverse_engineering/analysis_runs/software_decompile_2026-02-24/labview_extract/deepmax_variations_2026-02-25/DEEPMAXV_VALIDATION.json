@@ -1,0 +1,32 @@
+{
+  "pass_count": 80692,
+  "unique_names": 80692,
+  "unique_patterns": 80692,
+  "unique_output_hashes": 80692,
+  "high_value_text_candidates": 77522,
+  "mode_counts": {
+    "literal": 77522,
+    "token": 354,
+    "pair": 2138,
+    "opair": 618,
+    "triple": 59,
+    "frag": 1
+  },
+  "cluster_counts": {
+    "current_source": 381,
+    "gain": 73,
+    "leakage_voltage": 178,
+    "leakage_current": 356,
+    "cap_esr": 156,
+    "inductance": 543,
+    "ringer": 28,
+    "flow_ui": 39,
+    "softrev_files": 233,
+    "comms": 6079
+  },
+  "elapsed_sec": 57.86,
+  "spec_path": "/Users/<user>/LC103/software_decompile_2026-02-24/labview_extract/deepmax_variations_2026-02-25/pass_specs.tsv",
+  "counts_path": "/Users/<user>/LC103/software_decompile_2026-02-24/labview_extract/deepmax_variations_2026-02-25/DEEPMAXV_PASS_COUNTS.tsv",
+  "hashes_path": "/Users/<user>/LC103/software_decompile_2026-02-24/labview_extract/deepmax_variations_2026-02-25/DEEPMAXV_PASS_HASHES.tsv",
+  "findings_path": "/Users/<user>/LC103/software_decompile_2026-02-24/labview_extract/deepmax_variations_2026-02-25/DEEPMAXV_FINDINGS.md"
+}

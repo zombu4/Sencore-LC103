@@ -1,0 +1,1 @@
+46956:15e35d {rLeft dw add currentpoint 1 add 2 copy moveto exch pop lineto stroke}if

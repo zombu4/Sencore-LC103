@@ -1,0 +1,211 @@
+51694:1b715b Hide Inplace Set Input-Output
+52516:1bdd78 A wire must be connected to one and only one data source, such as a control's terminal or a function output. This wire is not connected to any source. Find the source of this data and make sure it is a control (not indicator) or an output (not input).
+52525:1be595 A wire can be connected to only one data source, such as a control's terminal or a function output. This wire is connected to more than one source. Make sure that all connections except one are to indicators (not controls) or inputs (not outputs).
+74459:310154 output error"
+74460:310167 output error0
+74664:314328 output error
+74679:314429 output error
+74680:314439 output error
+74681:314449 output error
+74682:314459 output error
+74683:314469 output error
+74719:314934 output errorN
+74740:314ae7 @ output error
+74754:314c61 output error
+74847:31761c lhOutput XON/XOFF. See the Common Serial Port VI Parameters section of this chapter for more information.
+74849:3176fa Output alt HW Handshake. On the PC, this parameter corresponds to Data Set Ready (DSR) handshaking. On the SPARCstation, this parameter is ignored.
+74975:3199cf output error
+75026:319f1e output error
+75046:31a065 output error
+75175:31bcb7 output error
+75289:31c904 output errorPTH0
+75425:31eb86 output error
+75432:31ece9 output error"
+75433:31ecfc output error>
+75436:31ed40 output error
+75490:31faac output error
+75519:31fe67 @ output errorgencode.cGenDispatchEntry
+75542:3200cc output errorPTH0
+75650:3221c7 output error*
+75656:322285 output error
+75737:32397c output error
+75794:324008 output errorPTH0
+75903:326356 output error
+75914:3265cf output error
+75978:327546 output error
+76030:327b61 output errorPTH0
+101574:4b6c3f =type of dialog determines what type dialog box will be displayed, if any. Regardless of its value, the VI outputs error information and message describing the error.
+103422:4dca2d You can control the number of lines in a port by the parameter port width. You also have the option of not reconfiguring the port as an output port with each iteration of the VI by setting the iteration control to a non-zero value.
+244725:14c916 output error
+244751:14e60c output error"
+244752:14e61f output error0
+244956:1527e0 output error
+244971:1528e1 output error
+244972:1528f1 output error
+244973:152901 output error
+244974:152911 output error
+244975:152921 output error
+245011:152dec output errorN
+245032:152f9f @ output error
+245046:153119 output error
+245157:155cd0 lhOutput XON/XOFF. See the Common Serial Port VI Parameters section of this chapter for more information.
+245159:155dae Output alt HW Handshake. On the PC, this parameter corresponds to Data Set Ready (DSR) handshaking. On the SPARCstation, this parameter is ignored.
+245285:158083 output error
+245336:1585d2 output error
+245356:158719 output error
+245485:15a36b output error
+245599:15afb8 output errorPTH0
+245740:15d36a output error
+245747:15d4cd output error"
+245748:15d4e0 output error>
+245751:15d524 output error
+245805:15e290 output error
+245834:15e64b @ output errorgencode.cGenDispatchEntry
+245857:15e8b0 output errorPTH0
+245971:160b07 output error*
+245977:160bc5 output error
+246058:1622bc output error
+246115:162948 output errorPTH0
+246229:164dfa output error
+246240:165073 output error
+246304:165fea output error
+246356:166605 output errorPTH0
+260007:22f817 =type of dialog determines what type dialog box will be displayed, if any. Regardless of its value, the VI outputs error information and message describing the error.
+261872:255e51 You can control the number of lines in a port by the parameter port width. You also have the option of not reconfiguring the port as an output port with each iteration of the VI by setting the iteration control to a non-zero value.
+262040:257002 You can control the number of lines in a port by the parameter port width. You also have the option of not reconfiguring the port as an output port with each iteration of the VI by setting the iteration control to a non-zero value.
+307533:de0ee output error
+307558:dfddf output error"
+307559:dfdf2 output error0
+307763:e3fb3 output error
+307778:e40b4 output error
+307779:e40c4 output error
+307780:e40d4 output error
+307781:e40e4 output error
+307782:e40f4 output error
+307815:e45ac output errorN
+307836:e475d @ output error
+307850:e48d4 output error
+307960:e6966 output error
+307967:e6ac9 output error"
+307968:e6adc output error>
+307971:e6b20 output error
+308025:e788c output error
+308056:e7c41 @ output errorgencode.cGenDispatchEntry
+308079:e7ea4 output errorPTH0
+308193:ea0fc output error*
+308199:ea1ba output error
+308280:eb8b1 output error
+308335:ebf30 output errorPTH0
+308449:ee3e6 output error
+308459:ee65f output error
+308523:ef5d5 output error
+308573:efbe2 output errorPTH0
+313995:14d434 =type of dialog determines what type dialog box will be displayed, if any. Regardless of its value, the VI outputs error information and message describing the error.
+315374:16d430 You can control the number of lines in a port by the parameter port width. You also have the option of not reconfiguring the port as an output port with each iteration of the VI by setting the iteration control to a non-zero value.
+315540:16e5d6 You can control the number of lines in a port by the parameter port width. You also have the option of not reconfiguring the port as an output port with each iteration of the VI by setting the iteration control to a non-zero value.
+340478:eca17 =type of dialog determines what type dialog box will be displayed, if any. Regardless of its value, the VI outputs error information and message describing the error.
+341596:1075f6 You can control the number of lines in a port by the parameter port width. You also have the option of not reconfiguring the port as an output port with each iteration of the VI by setting the iteration control to a non-zero value.
+341860:10cabd You can control the number of lines in a port by the parameter port width. You also have the option of not reconfiguring the port as an output port with each iteration of the VI by setting the iteration control to a non-zero value.
+369993:1621f7 You can control the number of lines in a port by the parameter port width. You also have the option of not reconfiguring the port as an output port with each iteration of the VI by setting the iteration control to a non-zero value.
+371452:1835e2 =type of dialog determines what type dialog box will be displayed, if any. Regardless of its value, the VI outputs error information and message describing the error.
+392321:2ecf32 output error
+396440:32f21b output errorPTH0
+396625:3310e2 output error&
+396629:33112c output error>
+396730:333541 output errorPTH0
+396925:3355a7 output error&
+396929:3355f1 output error
+397030:337846 output errorPTH0
+397151:338a9f output error
+397204:3393a8 output error&
+397207:3393e1 output error>
+397295:33c1bd output errorPTH0
+397617:33fbea lhOutput XON/XOFF. See the Common Serial Port VI Parameters section of this chapter for more information.
+397619:33fcc8 Output alt HW Handshake. On the PC, this parameter corresponds to Data Set Ready (DSR) handshaking. On the SPARCstation, this parameter is ignored.
+397655:3400c7 output error
+397682:340272 output error
+398058:34692b output error
+398065:346abc output error
+398098:346faf output error
+398106:3470a8 output error
+398118:3472c7 output errorN
+404066:3a5eee You can control the number of lines in a port by the parameter port width. You also have the option of not reconfiguring the port as an output port with each iteration of the VI by setting the iteration control to a non-zero value.
+431951:cadca output error
+433235:dc554 You can control the number of lines in a port by the parameter port width. You also have the option of not reconfiguring the port as an output port with each iteration of the VI by setting the iteration control to a non-zero value.
+434153:f7205 =type of dialog determines what type dialog box will be displayed, if any. Regardless of its value, the VI outputs error information and message describing the error.
+440630:16255e output errorPTH0
+440814:164425 output error&
+440818:16446f output error>
+440921:166889 output errorPTH0
+441116:1688f0 output error&
+441120:16893a output error
+441224:16ab8e output errorPTH0
+441346:16bde5 output error
+441399:16c6ee output error&
+441402:16c727 output error>
+441660:17121f output error
+441667:1713b0 output error
+441700:1718a3 output error
+441708:17199c output error
+441720:171bbb output errorN
+443015:185e66 You can control the number of lines in a port by the parameter port width. You also have the option of not reconfiguring the port as an output port with each iteration of the VI by setting the iteration control to a non-zero value.
+467315:cce46 You can control the number of lines in a port by the parameter port width. You also have the option of not reconfiguring the port as an output port with each iteration of the VI by setting the iteration control to a non-zero value.
+470132:106786 =type of dialog determines what type dialog box will be displayed, if any. Regardless of its value, the VI outputs error information and message describing the error.
+470943:11468a You can control the number of lines in a port by the parameter port width. You also have the option of not reconfiguring the port as an output port with each iteration of the VI by setting the iteration control to a non-zero value.
+502995:1c89b8 You can control the number of lines in a port by the parameter port width. You also have the option of not reconfiguring the port as an output port with each iteration of the VI by setting the iteration control to a non-zero value.
+504202:1e9a05 =type of dialog determines what type dialog box will be displayed, if any. Regardless of its value, the VI outputs error information and message describing the error.
+519997:33135e output error
+521447:348c40 output errorPTH0
+521525:3499d1 output error&
+521529:349a1b output error>
+521640:34bf42 output errorPTH0
+521731:34cc8c output error&
+521735:34ccd6 output error
+521843:34f1cc output errorPTH0
+521863:34f420 output error
+521925:34fd8c output error&
+521928:34fdc5 output error>
+522031:352adf output errorPTH0
+522122:35342a output error
+522207:354518 output error
+522234:3546c3 output error
+522317:3566d0 Output alt HW Handshake. On the PC, this parameter corresponds to Data Set Ready (DSR) handshaking. On the SPARCstation, this parameter is ignored.
+522318:356768 hOutput XON/XOFF. See the Common Serial Port VI Parameters section of this chapter for more information.
+522448:359964 output error
+522455:359b07 output error
+522525:35abef output error
+522533:35ace8 output error
+522545:35af0a output errorH
+527403:3b4b3a You can control the number of lines in a port by the parameter port width. You also have the option of not reconfiguring the port as an output port with each iteration of the VI by setting the iteration control to a non-zero value.
+545610:db464 You can control the number of lines in a port by the parameter port width. You also have the option of not reconfiguring the port as an output port with each iteration of the VI by setting the iteration control to a non-zero value.
+546528:f6115 =type of dialog determines what type dialog box will be displayed, if any. Regardless of its value, the VI outputs error information and message describing the error.
+548944:121e5a You can control the number of lines in a port by the parameter port width. You also have the option of not reconfiguring the port as an output port with each iteration of the VI by setting the iteration control to a non-zero value.
+551138:145da6 output error
+558052:1c2d6f output errorPTH0
+558129:1c3aff output error&
+558133:1c3b49 output error>
+558245:1c6075 output errorPTH0
+558335:1c6dc1 output error&
+558339:1c6e0b output error
+558450:1c9300 output errorPTH0
+558470:1c9555 output error
+558533:1c9ec1 output error&
+558536:1c9efa output error>
+558641:1ccd27 output error
+558648:1cceca output error
+558718:1cdfb4 output error
+558726:1ce0ad output error
+558738:1ce2cf output errorH
+577723:13c65e You can control the number of lines in a port by the parameter port width. You also have the option of not reconfiguring the port as an output port with each iteration of the VI by setting the iteration control to a non-zero value.
+579621:16d8c8 =type of dialog determines what type dialog box will be displayed, if any. Regardless of its value, the VI outputs error information and message describing the error.
+580187:176a2e You can control the number of lines in a port by the parameter port width. You also have the option of not reconfiguring the port as an output port with each iteration of the VI by setting the iteration control to a non-zero value.
+596802:f5d9a You can control the number of lines in a port by the parameter port width. You also have the option of not reconfiguring the port as an output port with each iteration of the VI by setting the iteration control to a non-zero value.
+597208:faf2b output error
+608562:1b9012 You can control the number of lines in a port by the parameter port width. You also have the option of not reconfiguring the port as an output port with each iteration of the VI by setting the iteration control to a non-zero value.
+612546:51 - The File Dialog function now outputs an error cluster. An Unbundle function was inserted to maintain compatibility.
+612548:11d - The File Dialog function now outputs an error cluster. An Unbundle function was inserted to maintain compatibility.
+612561:7ac - The File Dialog function now outputs an error cluster. An Unbundle function was inserted to maintain compatibility.
+612575:ea9 - The File Dialog function now outputs an error cluster. An Unbundle function was inserted to maintain compatibility.
+612577:f75 - The File Dialog function now outputs an error cluster. An Unbundle function was inserted to maintain compatibility.
+612582:11a8 - The File Dialog function now outputs an error cluster. An Unbundle function was inserted to maintain compatibility.
+612592:16d9 - The File Dialog function now outputs an error cluster. An Unbundle function was inserted to maintain compatibility.

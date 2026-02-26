@@ -1,0 +1,5 @@
+47635:1620a0 The library "%z" must be converted to the current format. This will prevent earlier versions of LabVIEW from reading it.
+48189:165033 xThis button will erase the history. You will be prompted for whether or not you want to reset the revision number to 0.
+48193:1651e4 This is the revision number that will be included in new history entries. The current number is displayed in the Instrument Information dialog. It is incremented every time you save the VI.
+48198:165560 This is the revision number that will be included in new history entries. The current number is displayed in the Instrument Information dialog. It is incremented every time you save the VI.
+49705:177393 SReset will erase the VI history. Do you want to reset the revision number as well?

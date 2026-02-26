@@ -1,0 +1,1 @@
+260037:2304a5 |xerror out contains the same information as status out, code out, and source out. It has the same structure as error in.

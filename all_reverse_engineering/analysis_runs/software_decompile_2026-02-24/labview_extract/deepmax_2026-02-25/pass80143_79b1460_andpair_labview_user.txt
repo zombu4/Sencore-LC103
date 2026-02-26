@@ -1,0 +1,32 @@
+48275:166e00 If this option is set, LabVIEW will not prompt for a user name when launched.  The user name will be set to the name entered in the LabVIEW Registration.
+48276:166ea0 If this option is set, LabVIEW will not prompt for a user name when launched.  The user name will be set to the system user name.
+102363:4c4bc6 user-defined codes.  The error handler has tables of error codes and descriptions for all LabVIEW I/O operations (file, GPIB, DAQ, etc.).  You can augment the tables with the user-defined arrays.  Codes from 5000 to 9999 are reserved for user assignments.
+102499:4ce225 LabVIEW:  Generic error.%LabVIEW:  Operation canceled by user.
+102535:4d0216 user-defined codes.  The error handler has tables of error codes and descriptions for all LabVIEW I/O operations (file, GPIB, DAQ, etc.).  You can augment the tables with the user-defined arrays.  Codes from 5000 to 9999 are reserved for user assignments.
+260796:23d79e user-defined codes.  The error handler has tables of error codes and descriptions for all LabVIEW I/O operations (file, GPIB, DAQ, etc.).  You can augment the tables with the user-defined arrays.  Codes from 5000 to 9999 are reserved for user assignments.
+260932:246dfd LabVIEW:  Generic error.%LabVIEW:  Operation canceled by user.
+260968:248dee user-defined codes.  The error handler has tables of error codes and descriptions for all LabVIEW I/O operations (file, GPIB, DAQ, etc.).  You can augment the tables with the user-defined arrays.  Codes from 5000 to 9999 are reserved for user assignments.
+314804:15b3ad user-defined codes.  The error handler has tables of error codes and descriptions for all LabVIEW I/O operations (file, GPIB, DAQ, etc.).  You can augment the tables with the user-defined arrays.  Codes from 5000 to 9999 are reserved for user assignments.
+314940:1649ce LabVIEW:  Generic error.%LabVIEW:  Operation canceled by user.
+314976:1669bf user-defined codes.  The error handler has tables of error codes and descriptions for all LabVIEW I/O operations (file, GPIB, DAQ, etc.).  You can augment the tables with the user-defined arrays.  Codes from 5000 to 9999 are reserved for user assignments.
+341280:fa97d user-defined codes.  The error handler has tables of error codes and descriptions for all LabVIEW I/O operations (file, GPIB, DAQ, etc.).  You can augment the tables with the user-defined arrays.  Codes from 5000 to 9999 are reserved for user assignments.
+341417:103f9e LabVIEW:  Generic error.%LabVIEW:  Operation canceled by user.
+341453:105f8f user-defined codes.  The error handler has tables of error codes and descriptions for all LabVIEW I/O operations (file, GPIB, DAQ, etc.).  You can augment the tables with the user-defined arrays.  Codes from 5000 to 9999 are reserved for user assignments.
+371370:18081f LabVIEW:  Generic error.%LabVIEW:  Operation canceled by user.
+371406:182816 user-defined codes.  The error handler has tables of error codes and descriptions for all LabVIEW I/O operations (file, GPIB, DAQ, etc.).  You can augment the tables with the user-defined arrays.  Codes from 5000 to 9999 are reserved for user assignments.
+371548:185798 user-defined codes.  The error handler has tables of error codes and descriptions for all LabVIEW I/O operations (file, GPIB, DAQ, etc.).  You can augment the tables with the user-defined arrays.  Codes from 5000 to 9999 are reserved for user assignments.
+434071:f4442 LabVIEW:  Generic error.%LabVIEW:  Operation canceled by user.
+434107:f6439 user-defined codes.  The error handler has tables of error codes and descriptions for all LabVIEW I/O operations (file, GPIB, DAQ, etc.).  You can augment the tables with the user-defined arrays.  Codes from 5000 to 9999 are reserved for user assignments.
+434248:f93bb user-defined codes.  The error handler has tables of error codes and descriptions for all LabVIEW I/O operations (file, GPIB, DAQ, etc.).  You can augment the tables with the user-defined arrays.  Codes from 5000 to 9999 are reserved for user assignments.
+470050:1039c3 LabVIEW:  Generic error.%LabVIEW:  Operation canceled by user.
+470086:1059ba user-defined codes.  The error handler has tables of error codes and descriptions for all LabVIEW I/O operations (file, GPIB, DAQ, etc.).  You can augment the tables with the user-defined arrays.  Codes from 5000 to 9999 are reserved for user assignments.
+470226:10893c user-defined codes.  The error handler has tables of error codes and descriptions for all LabVIEW I/O operations (file, GPIB, DAQ, etc.).  You can augment the tables with the user-defined arrays.  Codes from 5000 to 9999 are reserved for user assignments.
+503880:1e17c0 LabVIEW:  Generic error.%LabVIEW:  Operation canceled by user.
+503916:1e37b7 user-defined codes.  The error handler has tables of error codes and descriptions for all LabVIEW I/O operations (file, GPIB, DAQ, etc.).  You can augment the tables with the user-defined arrays.  Codes from 5000 to 9999 are reserved for user assignments.
+504133:1e78db user-defined codes.  The error handler has tables of error codes and descriptions for all LabVIEW I/O operations (file, GPIB, DAQ, etc.).  You can augment the tables with the user-defined arrays.  Codes from 5000 to 9999 are reserved for user assignments.
+546446:f3352 LabVIEW:  Generic error.%LabVIEW:  Operation canceled by user.
+546482:f5349 user-defined codes.  The error handler has tables of error codes and descriptions for all LabVIEW I/O operations (file, GPIB, DAQ, etc.).  You can augment the tables with the user-defined arrays.  Codes from 5000 to 9999 are reserved for user assignments.
+546623:f82cb user-defined codes.  The error handler has tables of error codes and descriptions for all LabVIEW I/O operations (file, GPIB, DAQ, etc.).  You can augment the tables with the user-defined arrays.  Codes from 5000 to 9999 are reserved for user assignments.
+579299:165684 LabVIEW:  Generic error.%LabVIEW:  Operation canceled by user.
+579335:16767b user-defined codes.  The error handler has tables of error codes and descriptions for all LabVIEW I/O operations (file, GPIB, DAQ, etc.).  You can augment the tables with the user-defined arrays.  Codes from 5000 to 9999 are reserved for user assignments.
+579549:16b79f user-defined codes.  The error handler has tables of error codes and descriptions for all LabVIEW I/O operations (file, GPIB, DAQ, etc.).  You can augment the tables with the user-defined arrays.  Codes from 5000 to 9999 are reserved for user assignments.

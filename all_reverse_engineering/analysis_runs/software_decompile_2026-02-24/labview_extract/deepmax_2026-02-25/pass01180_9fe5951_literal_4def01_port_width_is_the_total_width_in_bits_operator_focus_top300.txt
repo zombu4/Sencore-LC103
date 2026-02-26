@@ -1,0 +1,1 @@
+103595:4def01 =port width is the total width in bits or the number of lines of the port. For example, you can combine two 4bit ports into an 8-bit port on an MIO board by setting port width to 8.

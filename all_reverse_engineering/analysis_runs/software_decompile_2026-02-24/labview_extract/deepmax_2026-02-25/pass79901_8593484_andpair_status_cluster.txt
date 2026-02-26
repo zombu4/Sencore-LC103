@@ -1,0 +1,16 @@
+100208:49d328 ^Zerror status is TRUE if the error in cluster or any of the error codes reflects an error.
+100211:49d5a5 error out is a cluster that reflects the status of the first error input that tests TRUE. It has the same elements as error in.
+100480:4a17b6 If the error in cluster has a status of no-error, then test each element of error codes array, stopping on the first non-zero value or after all are tested; pick the selected line from the optional source messages as the error out source.
+100481:4a18b8 \If the error in cluster has a status of ERROR, pass it through without test for local errorsH
+258562:214708 ^Zerror status is TRUE if the error in cluster or any of the error codes reflects an error.
+258565:214985 error out is a cluster that reflects the status of the first error input that tests TRUE. It has the same elements as error in.
+258834:218b96 If the error in cluster has a status of no-error, then test each element of error codes array, stopping on the first non-zero value or after all are tested; pick the selected line from the optional source messages as the error out source.
+258835:218c98 \If the error in cluster has a status of ERROR, pass it through without test for local errorsH
+373373:1a222f ^Zerror status is TRUE if the error in cluster or any of the error codes reflects an error.
+373376:1a24ac error out is a cluster that reflects the status of the first error input that tests TRUE. It has the same elements as error in.
+373410:1a2bb5 If the error in cluster has a status of no-error, then test each element of error codes array, stopping on the first non-zero value or after all are tested; pick the selected line from the optional source messages as the error out source.
+373411:1a2cb4 \\\If the error in cluster has a status of ERROR, pass it through without test for local errorsSE
+505508:1ffb22 If the error in cluster has a status of no-error, then test each element of error codes array, stopping on the first non-zero value or after all are tested; pick the selected line from the optional source messages as the error out source.
+505509:1ffc21 \\\If the error in cluster has a status of ERROR, pass it through without test for local errorsSE
+505534:200858 error out is a cluster that reflects the status of the first error input that tests TRUE. It has the same elements as error in.
+505538:200976 Zerror status is TRUE if the error in cluster or any of the error codes reflects an error.

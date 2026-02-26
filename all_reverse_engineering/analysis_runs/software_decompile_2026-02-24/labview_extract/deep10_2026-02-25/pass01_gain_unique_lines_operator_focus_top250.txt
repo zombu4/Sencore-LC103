@@ -1,0 +1,29 @@
+!!" Failed Calibration. Adjusted >10%R
+!Gain Calibration Failed
+" Failed Calibration. Adjusted >10%
+" Failed Calibration. Adjusted >10%R
+( Failed Calibration. Gain Adjustment>10%
+( Failed Calibration. Gain Adjustment>10%U
+CALON!Gain Calibration Failed
+Communication Error.0 Failed Calibration. Offset Adjustment too high.( Failed Calibration. Gain Adjustment>10%
+DAQ badIterationsErr:  The analog output buffer iterations count is not allowed.  It must be 0 (for indefinite iterations) or 1.oDAQ badRPGErr:  The individual range, polarity, and gain settings are valid but the combination is not allowed.}DAQ badTotalCountErr:  The total count is inconsistent with the buffer size and pretrigger scan count or with the board type.3DAQ badTrigLevelErr:  The trigger level is invalid.1DAQ badTrigTypeErr:  The trigger type is invalid.6DAQ badExtRefErr:  The external reference  is invalid.PDAQ badTrigRangeErr:  The trigger range or trigger hysteresis window is invalid.3DAQ badTrigCountErr:  The trigger count is invalid.1DAQ badTrigModeErr:  The trigger mode is invalid.BDAQ badPosttrigCountErr:  The posttrigger sample count is invalid.?DAQ badPretrigCountErr: The pretrigger sample count is invalid.%DAQ badGainErr:  The gain is invalid.UDAQ badFilterCutoffErr:  The cutoff frequency specified is not valid for this device.
+Gain Calibration
+Gain Calibration" Failed Calibration. Adjusted >10%
+Gain CalibrationU
+Gain CalibrationV
+Gain CalibrationW
+Gain Calibrationb
+Gain CalibrationfConnect the UUT and/or DVM leads to
+Gain Calibrationn
+Range !Gain Calibration Failed
+Sources Calibrated
+Sources Calibrated"
+Sources Calibrated"@@
+Sources Calibrated"`@
+Sources Calibrated2
+Sources Calibrated4
+Sources Calibrated@62
+Sources CalibratedH
+Sources CalibratedM
+\\Atlas\Shared\Cal-Test\LC103\Source\lv8\103f_cal.llb\GAIN_CAL.VI (GAIN_CAL.VI)
+on Range !Gain Calibration Failed

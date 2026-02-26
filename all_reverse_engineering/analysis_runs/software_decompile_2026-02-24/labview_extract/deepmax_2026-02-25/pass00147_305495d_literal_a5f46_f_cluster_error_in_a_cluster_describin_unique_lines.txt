@@ -1,0 +1,1 @@
+303303:a5f46 f(cluster) error in: a cluster describing any error conditions prior to this VI's execution. The default input of this cluster is no error. If an error has already occurred, this VI does nothing. The error in cluster contains the following parameters:

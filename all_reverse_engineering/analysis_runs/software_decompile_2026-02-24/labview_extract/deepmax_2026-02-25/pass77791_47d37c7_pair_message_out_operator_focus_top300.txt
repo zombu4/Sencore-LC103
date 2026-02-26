@@ -1,0 +1,30 @@
+51128:18ccde Message out of range
+53298:1cd852 Message Out Of Range
+100209:49d388 source messages contains the source message you want to appear in the error out cluster if the VI finds an error in error codes. Place each message on a separate line in a string constant or control.
+100480:4a17b6 If the error in cluster has a status of no-error, then test each element of error codes array, stopping on the first non-zero value or after all are tested; pick the selected line from the optional source messages as the error out source.
+101131:4abc87 Message Out Of Range
+102504:4ce332 LabVIEW: Message out of range.
+132613:1ee8c0 SendMessageTimeoutA
+223555:c47e Message Out Of Range
+258563:214768 source messages contains the source message you want to appear in the error out cluster if the VI finds an error in error codes. Place each message on a separate line in a string constant or control.
+258834:218b96 If the error in cluster has a status of no-error, then test each element of error codes array, stopping on the first non-zero value or after all are tested; pick the selected line from the optional source messages as the error out source.
+259528:223d37 Message Out Of Range
+260937:246f0a LabVIEW: Message out of range.
+314945:164adb LabVIEW: Message out of range.
+341422:1040ab LabVIEW: Message out of range.
+371375:18092c LabVIEW: Message out of range.
+372497:1949bb Message Out Of Range
+373374:1a228f source messages contains the source message you want to appear in the error out cluster if the VI finds an error in error codes. Place each message on a separate line in a string constant or control.
+373410:1a2bb5 If the error in cluster has a status of no-error, then test each element of error codes array, stopping on the first non-zero value or after all are tested; pick the selected line from the optional source messages as the error out source.
+406583:3cf54c Message Out Of Range
+434076:f454f LabVIEW: Message out of range.
+470055:103ad0 LabVIEW: Message out of range.
+503885:1e18cd LabVIEW: Message out of range.
+504886:1f47e0 Message Out Of Range
+505508:1ffb22 If the error in cluster has a status of no-error, then test each element of error codes array, stopping on the first non-zero value or after all are tested; pick the selected line from the optional source messages as the error out source.
+505539:200a14 source messages contains the source message you want to appear in the error out cluster if the VI finds an error in error codes. Place each message on a separate line in a string constant or control.
+528560:3cb17e Message Out Of Range
+546451:f345f LabVIEW: Message out of range.
+579304:165791 LabVIEW: Message out of range.
+596225:e539a Message Out Of Range
+638102:1ee8c0 SendMessageTimeoutA

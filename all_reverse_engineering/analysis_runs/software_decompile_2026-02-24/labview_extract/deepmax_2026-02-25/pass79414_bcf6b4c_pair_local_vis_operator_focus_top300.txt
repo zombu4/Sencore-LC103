@@ -1,0 +1,10 @@
+44374:1229ef LocalVIServer
+47976:16346a LocalVIServer: no proxy call "%p"
+47977:16348c LocalVIServer: VI is in mem, vi=0x%lx
+47980:1634f7 LocalVIServer: posting kLVSNoProxyLoad "%p" from "%z"
+47982:163545 LocalVIServer: kLVSNoProxyRelease "%p"
+47983:16356c LocalVIServer: kLVSNoProxyKillCall
+47984:16358f LocalVIServer: kLVSSetFPBounds
+47988:1635f1 LocalVIServer: posting kLVSOpen%s
+47990:16362b LocalVIServer: kLVSCloseFP
+47992:163655 LocalVIServer:bad op=0x%lx

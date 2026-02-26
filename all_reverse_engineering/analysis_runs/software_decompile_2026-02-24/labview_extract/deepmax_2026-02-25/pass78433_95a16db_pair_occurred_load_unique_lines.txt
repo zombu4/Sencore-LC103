@@ -1,0 +1,6 @@
+48298:167a3f 65An error occurred loading the front panel of VI '%p'.
+48299:167a7b 87An error occurred loading the block diagram of VI '%p'.
+48300:167ab7 #"An error occurred loading VI '%p'.
+48301:167adf 87An error occurred loading the external subroutine '%p'.
+48302:167b1b 54An error occurred loading the external control '%p'.
+48303:167b57 21An error occurred loading the external node '%p'.

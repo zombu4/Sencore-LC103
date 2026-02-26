@@ -1,0 +1,326 @@
+52762:1c1329 GAIN_CAL.VI
+71846:2e8b12 Gain Calibration
+90259:413d1e Gain Calibrationb
+90268:413ec9 Gain CalibrationV
+90290:414227 Gain CalibrationV
+90535:416369 Gain Calibration
+90559:4165d6 Gain Calibration
+90560:4165e7 Gain CalibrationfConnect the UUT and/or DVM leads to
+102453:4cc488 DAQ badIterationsErr:  The analog output buffer iterations count is not allowed.  It must be 0 (for indefinite iterations) or 1.oDAQ badRPGErr:  The individual range, polarity, and gain settings are valid but the combination is not allowed.}DAQ badTotalCountErr:  The total count is inconsistent with the buffer size and pretrigger scan count or with the board type.3DAQ badTrigLevelErr:  The trigger level is invalid.1DAQ badTrigTypeErr:  The trigger type is invalid.6DAQ badExtRefErr:  The external reference  is invalid.PDAQ badTrigRangeErr:  The trigger range or trigger hysteresis window is invalid.3DAQ badTrigCountErr:  The trigger count is invalid.1DAQ badTrigModeErr:  The trigger mode is invalid.BDAQ badPosttrigCountErr:  The posttrigger sample count is invalid.?DAQ badPretrigCountErr: The pretrigger sample count is invalid.%DAQ badGainErr:  The gain is invalid.UDAQ badFilterCutoffErr:  The cutoff frequency specified is not valid for this device.
+104738:4f337e Cal. Factor
+104739:4f3390 Cal. Factor4
+104841:4f5b22 Cal. Factor4#
+105454:4ff9dd Cal. Factor
+105455:4ff9ec Cal. Factor
+105456:4ff9fb Cal. Factor
+105457:4ffa0a Cal. Factor
+105458:4ffa19 Cal. Factor
+105584:500236 Cal. Factor
+105588:50040d GAIN_CAL.VI
+105591:500470 !Gain Calibration Failed
+105594:500533 Cal Offsetl
+105597:5005ca Gain Calibrationn
+105598:5005f4 " Failed Calibration. Adjusted >10%R
+105601:500679 !Gain Calibration Failed
+105603:5006b4 GAIN_CAL.VIX
+105607:5007bc GAIN_CAL.VIMD
+105620:500994 Gain CalibrationV
+105624:500a3d GAIN_CAL.VIW
+105625:500a61 GAIN_CAL.VIS
+105645:500d26 GAIN_CAL.VIU
+105648:500d88 GAIN_CAL.VIW
+105649:500da8 GAIN_CAL.VIS
+105652:500def GAIN_CAL.VI
+105655:500e23 GAIN_CAL.VI
+105681:500f3e Gain CalibrationU
+105684:500f71 GAIN_CAL.VI
+105709:50105c Gain Calibration
+105715:5010ba Gain Calibration" Failed Calibration. Adjusted >10%
+105716:5010ee Range !Gain Calibration Failed
+105717:50110d on Range !Gain Calibration Failed
+105727:50123f Cal. Factor0@
+105737:50155e GAIN_CAL.VI
+105818:501ac6 Cal. Factor
+105844:501fb6 GAIN_CAL.VI
+105845:501fc2 GAIN_CAL.VI
+105846:501fce GAIN_CAL.VI
+105847:501fda GAIN_CAL.VI
+105848:501fe6 GAIN_CAL.VI
+105849:501ff2 GAIN_CAL.VI
+105850:501ffe GAIN_CAL.VI
+105851:50200a GAIN_CAL.VI
+105852:502016 GAIN_CAL.VI
+105853:502022 GAIN_CAL.VI
+105854:50202e GAIN_CAL.VI
+105855:50203a GAIN_CAL.VI
+105856:502046 GAIN_CAL.VI
+105857:502052 GAIN_CAL.VI
+105858:50205e GAIN_CAL.VI
+105859:50206a GAIN_CAL.VI
+105860:502076 GAIN_CAL.VI
+108060:5295f3 Cal. Factor
+108061:529605 Cal. Factor4
+108064:529968 Sources Calibrated2
+108065:529988 Sources Calibrated4
+108165:52ba54 Cal. Factor4&
+108238:52c8f6 Cal. Factor42
+108249:52cb79 Sources Calibrated@62
+108279:52d59e Cal. Factor4@
+108280:52d633 Cal. Factor4A
+108808:5355e7 Cal. Factor
+108809:5355f6 Cal. Factor
+108810:535605 Cal. Factor
+108811:535614 Cal. Factor
+108812:535623 Cal. Factor
+108818:53567e Sources Calibrated"`@
+108819:53569b Sources Calibrated"@@
+108820:5356b8 Sources Calibrated
+108894:535be4 Cal. Factor
+108912:535d0c Sources Calibrated
+108964:536282 Cal OffsetV
+109100:53742e Sources Calibrated
+109150:537735 Cal. Factor0@
+109153:537765 Sources Calibrated
+109250:53805d Cal. Factor
+110398:54fc2c ( Failed Calibration. Gain Adjustment>10%U
+110561:550b76 Communication Error.0 Failed Calibration. Offset Adjustment too high.( Failed Calibration. Gain Adjustment>10%
+118829:5e1e4f GAIN_CAL.VIW
+119007:5e32cf GAIN_CAL.VI
+119093:5e3699 GAIN_CAL.VI
+119134:5e382d Gain Calibration
+119293:5e460b GAIN_CAL.VI
+119296:5e4649 GAIN_CAL.VI
+120240:5ed645 GAIN_CAL.VI
+260886:245060 DAQ badIterationsErr:  The analog output buffer iterations count is not allowed.  It must be 0 (for indefinite iterations) or 1.oDAQ badRPGErr:  The individual range, polarity, and gain settings are valid but the combination is not allowed.}DAQ badTotalCountErr:  The total count is inconsistent with the buffer size and pretrigger scan count or with the board type.3DAQ badTrigLevelErr:  The trigger level is invalid.1DAQ badTrigTypeErr:  The trigger type is invalid.6DAQ badExtRefErr:  The external reference  is invalid.PDAQ badTrigRangeErr:  The trigger range or trigger hysteresis window is invalid.3DAQ badTrigCountErr:  The trigger count is invalid.1DAQ badTrigModeErr:  The trigger mode is invalid.BDAQ badPosttrigCountErr:  The posttrigger sample count is invalid.?DAQ badPretrigCountErr: The pretrigger sample count is invalid.%DAQ badGainErr:  The gain is invalid.UDAQ badFilterCutoffErr:  The cutoff frequency specified is not valid for this device.
+263224:269383 GAIN_CAL.VI
+263242:26d4da Cal. Factor
+263243:26d4ec Cal. Factor4
+263345:26fc7e Cal. Factor4#
+263958:279b39 Cal. Factor
+263959:279b48 Cal. Factor
+263960:279b57 Cal. Factor
+263961:279b66 Cal. Factor
+263962:279b75 Cal. Factor
+264088:27a392 Cal. Factor
+264092:27a569 GAIN_CAL.VI
+264095:27a5cc !Gain Calibration Failed
+264098:27a68f Cal Offsetl
+264101:27a726 Gain Calibrationn
+264102:27a750 " Failed Calibration. Adjusted >10%R
+264105:27a7d5 !Gain Calibration Failed
+264107:27a810 GAIN_CAL.VIX
+264111:27a918 GAIN_CAL.VIMD
+264124:27aaf0 Gain CalibrationV
+264128:27ab99 GAIN_CAL.VIW
+264129:27abbd GAIN_CAL.VIS
+264149:27ae82 GAIN_CAL.VIU
+264152:27aee4 GAIN_CAL.VIW
+264153:27af04 GAIN_CAL.VIS
+264156:27af4b GAIN_CAL.VI
+264159:27af7f GAIN_CAL.VI
+264185:27b09a Gain CalibrationU
+264188:27b0cd GAIN_CAL.VI
+264213:27b1b8 Gain Calibration
+264219:27b216 Gain Calibration" Failed Calibration. Adjusted >10%
+264220:27b24a Range !Gain Calibration Failed
+264221:27b269 on Range !Gain Calibration Failed
+264231:27b39b Cal. Factor0@
+264241:27b6ba GAIN_CAL.VI
+264322:27bc22 Cal. Factor
+264348:27c112 GAIN_CAL.VI
+264349:27c11e GAIN_CAL.VI
+264350:27c12a GAIN_CAL.VI
+264351:27c136 GAIN_CAL.VI
+264352:27c142 GAIN_CAL.VI
+264353:27c14e GAIN_CAL.VI
+264354:27c15a GAIN_CAL.VI
+264355:27c166 GAIN_CAL.VI
+264356:27c172 GAIN_CAL.VI
+264357:27c17e GAIN_CAL.VI
+264358:27c18a GAIN_CAL.VI
+264359:27c196 GAIN_CAL.VI
+264360:27c1a2 GAIN_CAL.VI
+264361:27c1ae GAIN_CAL.VI
+264362:27c1ba GAIN_CAL.VI
+264363:27c1c6 GAIN_CAL.VI
+264364:27c1d2 GAIN_CAL.VI
+266573:2a39c7 Cal. Factor
+266574:2a39d9 Cal. Factor4
+266577:2a3d3c Sources Calibrated2
+266578:2a3d5c Sources Calibrated4
+266678:2a5e28 Cal. Factor4&
+266751:2a6cca Cal. Factor42
+266762:2a6f4d Sources Calibrated@62
+266792:2a7972 Cal. Factor4@
+266793:2a7a07 Cal. Factor4A
+267321:2af9bb Cal. Factor
+267322:2af9ca Cal. Factor
+267323:2af9d9 Cal. Factor
+267324:2af9e8 Cal. Factor
+267325:2af9f7 Cal. Factor
+267331:2afa52 Sources Calibrated"`@
+267332:2afa6f Sources Calibrated"@@
+267333:2afa8c Sources Calibrated
+267407:2affb8 Cal. Factor
+267425:2b00e0 Sources Calibrated
+267477:2b0656 Cal OffsetV
+267613:2b1802 Sources Calibrated
+267663:2b1b09 Cal. Factor0@
+267666:2b1b39 Sources Calibrated
+267763:2b2431 Cal. Factor
+268915:2ca0e4 ( Failed Calibration. Gain Adjustment>10%U
+269078:2cb02e Communication Error.0 Failed Calibration. Offset Adjustment too high.( Failed Calibration. Gain Adjustment>10%
+278515:37352e Gain Calibration
+285334:3e31ba Gain Calibrationb
+285343:3e3365 Gain CalibrationV
+285365:3e36c3 Gain CalibrationV
+285610:3e5805 Gain Calibration
+285634:3e5a72 Gain Calibration
+285635:3e5a83 Gain CalibrationfConnect the UUT and/or DVM leads to
+288366:411553 GAIN_CAL.VIW
+288544:4129d3 GAIN_CAL.VI
+288630:412d9d GAIN_CAL.VI
+288671:412f31 Gain Calibration
+288830:413d0f GAIN_CAL.VI
+288833:413d4d GAIN_CAL.VI
+291641:4436d5 GAIN_CAL.VI
+292076:447be2 GAIN_CAL.VI
+292077:447bee GAIN_CAL.VI
+292078:447bfa GAIN_CAL.VI
+292079:447c06 GAIN_CAL.VI
+292080:447c12 GAIN_CAL.VI
+314894:162c31 DAQ badIterationsErr:  The analog output buffer iterations count is not allowed.  It must be 0 (for indefinite iterations) or 1.oDAQ badRPGErr:  The individual range, polarity, and gain settings are valid but the combination is not allowed.}DAQ badTotalCountErr:  The total count is inconsistent with the buffer size and pretrigger scan count or with the board type.3DAQ badTrigLevelErr:  The trigger level is invalid.1DAQ badTrigTypeErr:  The trigger type is invalid.6DAQ badExtRefErr:  The external reference  is invalid.PDAQ badTrigRangeErr:  The trigger range or trigger hysteresis window is invalid.3DAQ badTrigCountErr:  The trigger count is invalid.1DAQ badTrigModeErr:  The trigger mode is invalid.BDAQ badPosttrigCountErr:  The posttrigger sample count is invalid.?DAQ badPretrigCountErr: The pretrigger sample count is invalid.%DAQ badGainErr:  The gain is invalid.UDAQ badFilterCutoffErr:  The cutoff frequency specified is not valid for this device.
+341371:102201 DAQ badIterationsErr:  The analog output buffer iterations count is not allowed.  It must be 0 (for indefinite iterations) or 1.oDAQ badRPGErr:  The individual range, polarity, and gain settings are valid but the combination is not allowed.}DAQ badTotalCountErr:  The total count is inconsistent with the buffer size and pretrigger scan count or with the board type.3DAQ badTrigLevelErr:  The trigger level is invalid.1DAQ badTrigTypeErr:  The trigger type is invalid.6DAQ badExtRefErr:  The external reference  is invalid.PDAQ badTrigRangeErr:  The trigger range or trigger hysteresis window is invalid.3DAQ badTrigCountErr:  The trigger count is invalid.1DAQ badTrigModeErr:  The trigger mode is invalid.BDAQ badPosttrigCountErr:  The posttrigger sample count is invalid.?DAQ badPretrigCountErr: The pretrigger sample count is invalid.%DAQ badGainErr:  The gain is invalid.UDAQ badFilterCutoffErr:  The cutoff frequency specified is not valid for this device.
+360305:bd50b GAIN_CAL.VI
+371324:17ea82 DAQ badIterationsErr:  The analog output buffer iterations count is not allowed.  It must be 0 (for indefinite iterations) or 1.oDAQ badRPGErr:  The individual range, polarity, and gain settings are valid but the combination is not allowed.}DAQ badTotalCountErr:  The total count is inconsistent with the buffer size and pretrigger scan count or with the board type.3DAQ badTrigLevelErr:  The trigger level is invalid.1DAQ badTrigTypeErr:  The trigger type is invalid.6DAQ badExtRefErr:  The external reference  is invalid.PDAQ badTrigRangeErr:  The trigger range or trigger hysteresis window is invalid.3DAQ badTrigCountErr:  The trigger count is invalid.1DAQ badTrigModeErr:  The trigger mode is invalid.BDAQ badPosttrigCountErr:  The posttrigger sample count is invalid.?DAQ badPretrigCountErr: The pretrigger sample count is invalid.%DAQ badGainErr:  The gain is invalid.UDAQ badFilterCutoffErr:  The cutoff frequency specified is not valid for this device.
+385853:26780a Gain Calibration
+385873:2679ce Gain Calibration
+385901:267d5c Gain Calibration
+386069:2699ef Gain Calibrationb
+386078:269b9a Gain CalibrationV
+386106:269f97 Gain CalibrationV
+400867:372513 Gain Calibration
+407757:3e9b24 GAIN_CAL.VI
+407760:3e9b7a GAIN_CAL.VI
+408264:3f02c7 Cal. Factor
+408404:3f0e9e Cal. Factor
+408406:3f0f70 Gain Calibration
+408407:3f0f85 CALON!Gain Calibration Failed
+408409:3f0fb0 Gain Calibration
+408410:3f0fc1 " Failed Calibration. Adjusted >10%
+408411:3f0fe5 Range !Gain Calibration Failed
+408424:3f11a7 GAIN_CAL.VI
+408451:3f12d8 Cal. Factor
+408457:3f15a8 Cal. Factor
+408554:3f201f Cal. FactorV
+408558:3f2097 Gain CalibrationW
+408564:3f214e !Gain Calibration Failed
+408567:3f220b Cal Offsetl
+408570:3f229f Gain Calibrationn
+408571:3f22c6 !!" Failed Calibration. Adjusted >10%R
+408574:3f234a !Gain Calibration Failed
+408576:3f2384 GAIN_CAL.VIX
+408580:3f247e GAIN_CAL.VIMD
+408593:3f2642 Gain CalibrationV
+408598:3f26ff GAIN_CAL.VIW
+408599:3f2722 GAIN_CAL.VIS
+408619:3f29d0 GAIN_CAL.VIU
+408622:3f2a2f GAIN_CAL.VIW
+408623:3f2a4e GAIN_CAL.VIS
+408626:3f2a92 GAIN_CAL.VI
+408630:3f2ec4 GAIN_CAL.VI
+408923:3f9b90 GAIN_CAL.VI
+410461:415b75 Cal. Factor
+410470:415c95 Sources Calibrated
+410548:4163c5 Cal. Factor
+410569:41654a Sources Calibrated
+410601:41675e Cal. Factor
+410656:416c29 Cal. Factor
+410659:416c5d Sources Calibrated
+410663:416f17 Cal. Factor
+410665:416f48 Sources Calibrated"
+410767:4179dc Cal. FactorP
+410770:417a38 Sources CalibratedM
+410782:417c2b Cal OffsetV
+411364:42a054 GAIN_CAL.VI
+411367:42a092 GAIN_CAL.VI
+412959:43c484 Gain Calibration
+413052:43caff GAIN_CAL.VI
+413444:43f175 GAIN_CAL.VIW
+413647:4411d4 GAIN_CAL.VI
+414892:45e324 ( Failed Calibration. Gain Adjustment>10%
+415075:45f843 ( Failed Calibration. Gain Adjustment>10%U
+416908:47f43d GAIN_CAL.VI
+417128:482952 GAIN_CAL.VI
+417386:48394d GAIN_CAL.VI
+417387:483959 GAIN_CAL.VI
+417388:483965 GAIN_CAL.VI
+434025:f26a5 DAQ badIterationsErr:  The analog output buffer iterations count is not allowed.  It must be 0 (for indefinite iterations) or 1.oDAQ badRPGErr:  The individual range, polarity, and gain settings are valid but the combination is not allowed.}DAQ badTotalCountErr:  The total count is inconsistent with the buffer size and pretrigger scan count or with the board type.3DAQ badTrigLevelErr:  The trigger level is invalid.1DAQ badTrigTypeErr:  The trigger type is invalid.6DAQ badExtRefErr:  The external reference  is invalid.PDAQ badTrigRangeErr:  The trigger range or trigger hysteresis window is invalid.3DAQ badTrigCountErr:  The trigger count is invalid.1DAQ badTrigModeErr:  The trigger mode is invalid.BDAQ badPosttrigCountErr:  The posttrigger sample count is invalid.?DAQ badPretrigCountErr: The pretrigger sample count is invalid.%DAQ badGainErr:  The gain is invalid.UDAQ badFilterCutoffErr:  The cutoff frequency specified is not valid for this device.
+470004:101c26 DAQ badIterationsErr:  The analog output buffer iterations count is not allowed.  It must be 0 (for indefinite iterations) or 1.oDAQ badRPGErr:  The individual range, polarity, and gain settings are valid but the combination is not allowed.}DAQ badTotalCountErr:  The total count is inconsistent with the buffer size and pretrigger scan count or with the board type.3DAQ badTrigLevelErr:  The trigger level is invalid.1DAQ badTrigTypeErr:  The trigger type is invalid.6DAQ badExtRefErr:  The external reference  is invalid.PDAQ badTrigRangeErr:  The trigger range or trigger hysteresis window is invalid.3DAQ badTrigCountErr:  The trigger count is invalid.1DAQ badTrigModeErr:  The trigger mode is invalid.BDAQ badPosttrigCountErr:  The posttrigger sample count is invalid.?DAQ badPretrigCountErr: The pretrigger sample count is invalid.%DAQ badGainErr:  The gain is invalid.UDAQ badFilterCutoffErr:  The cutoff frequency specified is not valid for this device.
+489521:bd50b GAIN_CAL.VI
+490793:df53e GAIN_CAL.VI
+490796:df57c GAIN_CAL.VI
+491331:e2715 Gain Calibration
+491419:e2fd1 GAIN_CAL.VI
+492315:f0f2b GAIN_CAL.VIW
+492512:f30d7 GAIN_CAL.VI
+497769:16493c ( Failed Calibration. Gain Adjustment>10%
+498658:178d98 Cal. Factor
+498666:178ec1 Sources Calibrated
+498700:1793b6 Cal. Factor
+498709:1794a5 Sources Calibrated
+498721:1795d0 Cal. Factor
+498882:17d13b Cal. Factor
+498885:17d16f Sources Calibrated
+498889:17d429 Cal. Factor
+498891:17d45a Sources Calibrated"
+498993:17def0 Cal. FactorH
+498995:17df4f Sources CalibratedH
+499002:17e12d Cal OffsetV
+501114:1a901a GAIN_CAL.VI
+501195:1a95ea Cal. Factor
+501206:1a988d Cal. Factor
+501335:1aa354 Gain Calibration
+501336:1aa369 CALON!Gain Calibration Failed
+501338:1aa394 Gain Calibration
+501339:1aa3a5 " Failed Calibration. Adjusted >10%
+501340:1aa3c9 Range !Gain Calibration Failed
+501348:1aa63e GAIN_CAL.VI
+501511:1adfb9 Cal. Factor
+501517:1ae289 Cal. Factor
+501614:1aed02 Cal. FactorH
+501621:1aeec2 Cal Offsetl
+501624:1aefec GAIN_CAL.VIX
+501626:1af0ec GAIN_CAL.VIHDh
+501631:1af2b0 Gain CalibrationV
+501635:1af36a GAIN_CAL.VIW
+501636:1af38d GAIN_CAL.VIS
+501654:1af639 GAIN_CAL.VIU
+501657:1af698 GAIN_CAL.VIW
+501658:1af6b7 GAIN_CAL.VIS
+501661:1af6fb GAIN_CAL.VI
+501665:1afb2b GAIN_CAL.VI
+501973:1b660c GAIN_CAL.VI
+503834:1dfa23 DAQ badIterationsErr:  The analog output buffer iterations count is not allowed.  It must be 0 (for indefinite iterations) or 1.oDAQ badRPGErr:  The individual range, polarity, and gain settings are valid but the combination is not allowed.}DAQ badTotalCountErr:  The total count is inconsistent with the buffer size and pretrigger scan count or with the board type.3DAQ badTrigLevelErr:  The trigger level is invalid.1DAQ badTrigTypeErr:  The trigger type is invalid.6DAQ badExtRefErr:  The external reference  is invalid.PDAQ badTrigRangeErr:  The trigger range or trigger hysteresis window is invalid.3DAQ badTrigCountErr:  The trigger count is invalid.1DAQ badTrigModeErr:  The trigger mode is invalid.BDAQ badPosttrigCountErr:  The posttrigger sample count is invalid.?DAQ badPretrigCountErr: The pretrigger sample count is invalid.%DAQ badGainErr:  The gain is invalid.UDAQ badFilterCutoffErr:  The cutoff frequency specified is not valid for this device.
+513186:28db0f Gain Calibration
+513206:28dcd3 Gain Calibration
+513234:28e061 Gain Calibration
+524173:3778eb Gain Calibration
+529335:3d9429 GAIN_CAL.VI
+529590:3dea8e GAIN_CAL.VI
+529832:3df9a2 GAIN_CAL.VI
+529833:3df9ae GAIN_CAL.VI
+529834:3df9ba GAIN_CAL.VI
+546400:f15b5 DAQ badIterationsErr:  The analog output buffer iterations count is not allowed.  It must be 0 (for indefinite iterations) or 1.oDAQ badRPGErr:  The individual range, polarity, and gain settings are valid but the combination is not allowed.}DAQ badTotalCountErr:  The total count is inconsistent with the buffer size and pretrigger scan count or with the board type.3DAQ badTrigLevelErr:  The trigger level is invalid.1DAQ badTrigTypeErr:  The trigger type is invalid.6DAQ badExtRefErr:  The external reference  is invalid.PDAQ badTrigRangeErr:  The trigger range or trigger hysteresis window is invalid.3DAQ badTrigCountErr:  The trigger count is invalid.1DAQ badTrigModeErr:  The trigger mode is invalid.BDAQ badPosttrigCountErr:  The posttrigger sample count is invalid.?DAQ badPretrigCountErr: The pretrigger sample count is invalid.%DAQ badGainErr:  The gain is invalid.UDAQ badFilterCutoffErr:  The cutoff frequency specified is not valid for this device.
+579253:1638e7 DAQ badIterationsErr:  The analog output buffer iterations count is not allowed.  It must be 0 (for indefinite iterations) or 1.oDAQ badRPGErr:  The individual range, polarity, and gain settings are valid but the combination is not allowed.}DAQ badTotalCountErr:  The total count is inconsistent with the buffer size and pretrigger scan count or with the board type.3DAQ badTrigLevelErr:  The trigger level is invalid.1DAQ badTrigTypeErr:  The trigger type is invalid.6DAQ badExtRefErr:  The external reference  is invalid.PDAQ badTrigRangeErr:  The trigger range or trigger hysteresis window is invalid.3DAQ badTrigCountErr:  The trigger count is invalid.1DAQ badTrigModeErr:  The trigger mode is invalid.BDAQ badPosttrigCountErr:  The posttrigger sample count is invalid.?DAQ badPretrigCountErr: The pretrigger sample count is invalid.%DAQ badGainErr:  The gain is invalid.UDAQ badFilterCutoffErr:  The cutoff frequency specified is not valid for this device.
+597023:f859d GAIN_CAL.VI
+609039:1c06e3 GAIN_CAL.VI
+609043:1c08c7 GAIN_CAL.VI
+609047:1c0c4b GAIN_CAL.VI
+609054:1c108b GAIN_CAL.VI
+609207:1c3545 GAIN_CAL.VI
+611890:1ef38d GAIN_CAL.VIPTH0
+611891:1ef3a6 GAIN_CAL.VI
+612387:1f6f68 GAIN_CAL.VI
+612388:1f6f74 GAIN_CAL.VI
+612572:d3f \\Atlas\Shared\Cal-Test\LC103\Source\lv8\103f_cal.llb\GAIN_CAL.VI (GAIN_CAL.VI)

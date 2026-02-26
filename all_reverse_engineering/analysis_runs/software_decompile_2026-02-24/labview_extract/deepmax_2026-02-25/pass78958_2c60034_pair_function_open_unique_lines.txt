@@ -1,0 +1,10 @@
+54033:1dc745 [report file not found if function=0 (open); set file path to empty and refnum to NotARefnumMD
+54049:1dcb0e 2create a new file if function=1-3 (open or create)
+224290:1b371 [report file not found if function=0 (open); set file path to empty and refnum to NotARefnumMD
+224306:1b73a 2create a new file if function=1-3 (open or create)
+406298:3cda70 [[[report file not found if function=0 (open); set file path to empty and refnum to NotARefnumMD
+406316:3cde53 112create a new file if function=1-3 (open or create)
+528292:3c970a [[[report file not found if function=0 (open); set file path to empty and refnum to NotARefnumHDt
+528298:3c9ab0 112create a new file if function=1-3 (open or create)
+595957:e3926 [[[report file not found if function=0 (open); set file path to empty and refnum to NotARefnumHDt
+595963:e3ccc 112create a new file if function=1-3 (open or create)

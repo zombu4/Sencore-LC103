@@ -1,0 +1,61 @@
+116321:5c1281 @ Start Button"
+116322:5c1294 @ Start Button
+116400:5c2b57 @ Start Buttone4,
+118539:5e0260 P Start Button
+118540:5e0270 ` Start Button
+118734:5e118e P Start Button
+118843:5e2045 Start ButtonMD
+118945:5e2f70 Start ButtonW
+119175:5e3be4  @Start Button&@@
+119188:5e3d11 Start ButtonL
+285858:3f0985 @ Start Button"
+285859:3f0998 @ Start Button
+285937:3f225b @ Start Buttone4,
+288076:40f964 P Start Button
+288077:40f974 ` Start Button
+288271:410892 P Start Button
+288380:411749 Start ButtonMD
+288482:412674 Start ButtonW
+288712:4132e8  @Start Button&@@
+288725:413415 Start ButtonL
+322638:1e5570 @ Start Button"
+322639:1e5583 @ Start Button4
+322970:1e872a @ Start Buttont 45
+323231:1eeef2 P Start Button
+323232:1eef02 ` Start Button
+323294:1ef3d6 P Start Button
+323304:1ef5f7 Start ButtonH
+323338:1efaba Reset Start Buttono
+323339:1efae1 #Wait for start button to be clickedb
+323347:1efc33 StatusGlobal and reset start buttonm
+323694:1f2ed6  @Start Button
+412661:43a62c P!Start Button
+412868:43ba87 @!Start Button
+413090:43cc81 @!Start Button&@@
+413102:43cffc @!Start Button
+413398:43eab0 Start ButtonH
+413458:43f36c Start ButtonMD
+413563:4402f7 Start ButtonW
+445064:1a4c67 P!Start Button
+445133:1a53d2 @!Start Button
+445226:1a5c0f @!Start Button
+445268:1a5f8b @!Start Button&
+445361:1a692d Start ButtonH
+445393:1a6e04 Reset Start Buttono
+445394:1a6e28 ###Wait for start button to be clickedb
+445402:1a6f78 StatusGlobal and reset start buttonm
+490891:dfce8 P!Start Button
+491262:e1c1d @!Start Button
+492047:eedca @!Start Button&@@
+492060:ef146 @!Start Button
+492280:f08b2 Start ButtonH
+492412:f1ef8 Start Buttonb
+492424:f209b Start Buttonb
+559315:1d8e09 P!Start Button
+559384:1d94ae @!Start Button@
+559630:1dd718 @!Start Button
+559671:1dda84 @!Start Button&
+559757:1de3e9 Start ButtonH
+559787:1de894 Reset Start Buttono
+559788:1de8b8 ###Wait for start button to be clickedb
+559796:1dea08 StatusGlobal and reset start buttonm

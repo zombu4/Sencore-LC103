@@ -1,0 +1,42 @@
+13. RS232 Commands ;
+(ALM Aluminum Electrolytics a
+, DBL Double Layer pees
+| TAN Tantalum Caps poe
+| CER Ceramic Caps bee
+| AOC All Other Caps oe
+_HIR ____ High Resistance Double Layer Lytics lee
+| cou Coils ee
+| YFB Yokes and Fiybacks by
+
+SWX ‘Switching Transformers ae
+VALUE MULTIPLIERS '
+oF PicoFaraa es
+ae Fosiive meanos ¢ neces bee
+TEST FUNCTION COMMANDS ‘
+CAP : __Capacitorvalue '
+Aki Leakage current I
+LKR Leakage resistance /
+DIA _ Dielectric Absorption |
+
+ESR - _ _.______ Equivalent series resistance
+
+IND Inductance oo
+
+RIN, sCORinger —
+
+cic «Capacitor in circuit oe
+
+EIC ESR in circuit
+
+IC Inductance in circuit ;
+
+GENERAL COMMANDS
+
+LDO ___Leadzeroopen — :
+NEC NoFunction
+
+(CPO ____Gontrol panel on Yront panel operation)
+
+CtriR Continue taking/sending testdata__|
+
+CtrlO. Return a single reading, (default)

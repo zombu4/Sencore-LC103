@@ -1,0 +1,1 @@
+The analog output buffer iterations count is not allowed.  It must be 0 (for indefinite iterations) or 1.oDAQ badRPGErr

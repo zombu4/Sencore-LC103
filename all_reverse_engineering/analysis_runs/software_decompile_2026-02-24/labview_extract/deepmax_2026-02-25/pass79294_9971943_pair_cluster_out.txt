@@ -1,0 +1,8 @@
+100480:4a17b6 If the error in cluster has a status of no-error, then test each element of error codes array, stopping on the first non-zero value or after all are tested; pick the selected line from the optional source messages as the error out source.
+100481:4a18b8 \If the error in cluster has a status of ERROR, pass it through without test for local errorsH
+258834:218b96 If the error in cluster has a status of no-error, then test each element of error codes array, stopping on the first non-zero value or after all are tested; pick the selected line from the optional source messages as the error out source.
+258835:218c98 \If the error in cluster has a status of ERROR, pass it through without test for local errorsH
+373410:1a2bb5 If the error in cluster has a status of no-error, then test each element of error codes array, stopping on the first non-zero value or after all are tested; pick the selected line from the optional source messages as the error out source.
+373411:1a2cb4 \\\If the error in cluster has a status of ERROR, pass it through without test for local errorsSE
+505508:1ffb22 If the error in cluster has a status of no-error, then test each element of error codes array, stopping on the first non-zero value or after all are tested; pick the selected line from the optional source messages as the error out source.
+505509:1ffc21 \\\If the error in cluster has a status of ERROR, pass it through without test for local errorsSE

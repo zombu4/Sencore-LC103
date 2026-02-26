@@ -1,0 +1,15 @@
+57231:212a20  status[15]- GPIB error detectedA=data string contains count data bytes from the GPIB device. 
+133129:20053d ?NIScope_SetAttributeViString_TheVirtualThing@daqDevice@@UAEJFPADK0@Z
+133220:201af2 ?_get_attribute_strings_TheVirtualThing@daqDevice@@UAEFKKPAKPADJ1J@Z
+227622:53a78  status[15]- GPIB error detectedA=data string contains count data bytes from the GPIB device. 
+294105:20e09  status[15]- GPIB error detectedA=data string contains count data bytes from the GPIB device. 
+326272:20101  status[15]- GPIB error detectedA=data string contains count data bytes from the GPIB device. 
+349067:1ed38  status[15]- GPIB error detectedA=data string contains count data bytes from the GPIB device. 
+419734:1ec7d  status[15]- GPIB error detectedA=data string contains count data bytes from the GPIB device. 
+454571:1d54d  status[15]- GPIB error detectedA=data string contains count data bytes from the GPIB device. 
+478283:1ed38  status[15]- GPIB error detectedA=data string contains count data bytes from the GPIB device. 
+532202:1ec7d  status[15]- GPIB error detectedA=data string contains count data bytes from the GPIB device. 
+562487:1d54d  status[15]- GPIB error detectedA=data string contains count data bytes from the GPIB device. 
+583006:1ecb0  status[15]- GPIB error detectedA=data string contains count data bytes from the GPIB device. 
+638618:20053d ?NIScope_SetAttributeViString_TheVirtualThing@daqDevice@@UAEJFPADK0@Z
+638709:201af2 ?_get_attribute_strings_TheVirtualThing@daqDevice@@UAEFKKPAKPADJ1J@Z

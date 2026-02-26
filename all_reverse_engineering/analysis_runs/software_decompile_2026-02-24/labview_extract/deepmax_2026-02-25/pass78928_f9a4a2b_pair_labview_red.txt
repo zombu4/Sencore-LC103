@@ -1,0 +1,2 @@
+48275:166e00 If this option is set, LabVIEW will not prompt for a user name when launched.  The user name will be set to the name entered in the LabVIEW Registration.
+52249:1bab33 This copy of LabVIEW has not been properly registered.  You must enter a name and a valid serial number.  The registration dialog will continue to appear at launch time until you properly register this copy of LabVIEW.Verifying...

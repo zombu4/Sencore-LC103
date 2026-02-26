@@ -1,0 +1,21 @@
+47043:15ee60 The vi %p calls Unflatten from String or Type Cast to a type containing an extended float.  If the input data to these functions comes from a file, you must convert extended floats in the file to LV 3.0 format.
+102462:4cd277 DAQ semanticsErr:  An error was detected in the input string; the syntax of the string is correct, but certain values specified in the string are inconsistent with other values specified in the string.
+102491:4ce029 GPIB NSTRG:  No string input (write).QLabVIEW:  Operating system error during print.
+260895:245e4f DAQ semanticsErr:  An error was detected in the input string; the syntax of the string is correct, but certain values specified in the string are inconsistent with other values specified in the string.
+260924:246c01 GPIB NSTRG:  No string input (write).QLabVIEW:  Operating system error during print.
+314903:163a20 DAQ semanticsErr:  An error was detected in the input string; the syntax of the string is correct, but certain values specified in the string are inconsistent with other values specified in the string.
+314932:1647d2 GPIB NSTRG:  No string input (write).QLabVIEW:  Operating system error during print.
+341380:102ff0 DAQ semanticsErr:  An error was detected in the input string; the syntax of the string is correct, but certain values specified in the string are inconsistent with other values specified in the string.
+341409:103da2 GPIB NSTRG:  No string input (write).QLabVIEW:  Operating system error during print.
+371333:17f871 DAQ semanticsErr:  An error was detected in the input string; the syntax of the string is correct, but certain values specified in the string are inconsistent with other values specified in the string.
+371362:180623 GPIB NSTRG:  No string input (write).QLabVIEW:  Operating system error during print.
+434034:f3494 DAQ semanticsErr:  An error was detected in the input string; the syntax of the string is correct, but certain values specified in the string are inconsistent with other values specified in the string.
+434063:f4246 GPIB NSTRG:  No string input (write).QLabVIEW:  Operating system error during print.
+470013:102a15 DAQ semanticsErr:  An error was detected in the input string; the syntax of the string is correct, but certain values specified in the string are inconsistent with other values specified in the string.
+470042:1037c7 GPIB NSTRG:  No string input (write).QLabVIEW:  Operating system error during print.
+503843:1e0812 DAQ semanticsErr:  An error was detected in the input string; the syntax of the string is correct, but certain values specified in the string are inconsistent with other values specified in the string.
+503872:1e15c4 GPIB NSTRG:  No string input (write).QLabVIEW:  Operating system error during print.
+546409:f23a4 DAQ semanticsErr:  An error was detected in the input string; the syntax of the string is correct, but certain values specified in the string are inconsistent with other values specified in the string.
+546438:f3156 GPIB NSTRG:  No string input (write).QLabVIEW:  Operating system error during print.
+579262:1646d6 DAQ semanticsErr:  An error was detected in the input string; the syntax of the string is correct, but certain values specified in the string are inconsistent with other values specified in the string.
+579291:165488 GPIB NSTRG:  No string input (write).QLabVIEW:  Operating system error during print.

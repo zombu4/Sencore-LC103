@@ -1,0 +1,6 @@
+7:de0 DAQDRV: 387 control reg is 0x%x before calling LoadLibrary
+10:e51 DAQDRV: 387 control reg is 0x%x after calling LoadLibrary
+48003:16375f LVSCallBack: kLVSNoProxyLoad "%p" from "%z"
+48020:1638da error calling LoadVIHeap(1) in LoadInstrument
+120257:de0 DAQDRV: 387 control reg is 0x%x before calling LoadLibrary
+120260:e51 DAQDRV: 387 control reg is 0x%x after calling LoadLibrary

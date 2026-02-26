@@ -1,0 +1,303 @@
+308:4edd VERSION.DATLAST KNOWN LC103 SOFTWARE REV. IS:  VER1.50
+34903:2afc0c VERSION.DATPK
+54708:1e7963 CPlease choose the file containing the capacitance calibration data.O
+54711:1e79ea BPlease choose the file containing the inductance calibration data.
+54723:1e7add *.calCPlease choose the file containing the capacitance calibration data.PTH0
+54724:1e7b2f *.calBPlease choose the file containing the inductance calibration data.gencode.cGenDispatchEntry
+71841:2e8aa9 Software Rev. Check
+90443:41587e Software Rev. CheckW
+90446:4158f1 Software Rev. Check_
+90447:415923 Software Rev. CheckW
+90523:41627b Software Rev. Check
+90543:416409 Software Rev. Check
+90544:41641d Software Rev. Check
+90749:41a112 Software Rev."
+90750:41a126 Software Rev.L
+90954:41c461 Software Rev.4!
+91203:41fca2 Software Rev.
+91211:41fd29 Software Rev.
+91212:41fd3a Software Rev.
+91213:41fd4b Software Rev.
+91290:4203b3 Software Rev. Check`
+91300:420523 Wrong Rev. NumberW
+91336:420810 Software Rev.
+91354:4208b6 Software Rev. Check
+91357:4208ec Software Rev. Check
+91358:420900 Wrong Rev. Number
+91361:420939 Software Rev.
+91372:420a41 Software Rev.
+91377:420ac9 Software Rev. Check
+91382:420d82 Software Rev.
+112802:571a43 Path to Version File*
+112803:571a5e Path to Version File4
+112855:572f0d Path to Version File4
+112858:572fd8 Path to Version File8
+112868:5731e2 Path to Version File4
+112883:5734fe Path to Version File
+112956:575708 Path to Version File
+112957:5758fd Path to Version FileH
+112958:575969 Path to Version File,
+112959:575a3c Path to Version File
+112966:576055 Path to Version File4
+112967:576202 Path to Version File*
+112968:57621d Path to Version File
+113002:577642 Path to Version File
+113074:57a5ec Path to Version File
+113075:57a604 Path to Version File
+113076:57a61c Path to Version File
+113089:57a767 Path to Version File
+113108:57a9bc Path to Version File
+113113:57ac8d `Couldn't retrieve the proper Software Rev. number.  Please set this manually on the front panel.
+113114:57ad07 Couldn't open the Software Rev. file.  Please set the Software Rev. manually on the front panel.  Place the flopply disk in the computer NOW.MD
+113119:57ae6e RCouldn't open the Software Rev. file.  Place the flopply disk in the computer NOW.s
+113120:57aedb 'Last known LC103 Software Rev. is:  VERg
+113122:57af4f 'Last known LC103 Software Rev. is:  VERMD
+113124:57afcf PAn invalid Software Rev. number was specified.  Please fix this after cal fails.
+113154:57b1a7 version.dat
+113156:57b1b8 PAn invalid Software Rev. number was specified.  Please fix this after cal fails.
+113157:57b20c 'Last known LC103 Software Rev. is:  VERRCouldn't open the Software Rev. file.  Place the flopply disk in the computer NOW.
+113158:57b288 Couldn't open the Software Rev. file.  Please set the Software Rev. manually on the front panel.  Place the flopply disk in the computer NOW.
+113159:57b319 'Last known LC103 Software Rev. is:  VER
+113160:57b34b `Couldn't retrieve the proper Software Rev. number.  Please set this manually on the front panel.
+113171:57b495 Path to Version File
+113180:57b559 a:\version.dat
+113211:57baab Path to Version File
+114316:594c74 BPlease choose the file containing the inductance calibration data.V
+114464:59572a *.calBPlease choose the file containing the inductance calibration data.
+115917:5b5b4a CPlease choose the file containing the capacitance calibration data.V
+116077:5b6767 *.calCPlease choose the file containing the capacitance calibration data.
+116345:5c19e4 Software Rev.4
+116347:5c1a87 Software Rev.
+117552:5cf807 Software Rev.@
+117553:5cf87b Software Rev.
+117924:5d204f Software Rev. 
+118273:5d5a21 Software Rev.ss4
+118274:5d5b40 Software Rev.ss4
+118276:5d5df7 Software Rev.
+118291:5d6282 Software Rev.
+118561:5e046f Software Rev.
+118562:5e0480 Software Rev.
+118563:5e0491 Software Rev.
+118621:5e0957 Software Rev.
+118623:5e0979 Software Rev.
+118626:5e09b1 Software Rev.
+118744:5e1250 Software Rev.
+118797:5e19a8 Press F1 to change paths.Y
+118798:5e19d5 Software Rev.P
+118857:5e22dc CCCPlease choose the file containing the capacitance calibration data.W
+118862:5e23a6 ++BPlease choose the file containing the inductance calibration data.W
+118929:5e2d21 Software Rev.Y
+118930:5e2d3e Software Rev.W
+119129:5e37c4 Software Rev. Check
+119158:5e39aa *.calCPlease choose the file containing the capacitance calibration data.PTH0
+119159:5e39fc *.calBPlease choose the file containing the inductance calibration data.
+119182:5e3c81 Software Rev.
+119372:5e4b92 Software Rev.PTH0
+120618:0 LAST KNOWN LC103 SOFTWARE REV. IS:  VER1.50
+225032:27d8f CPlease choose the file containing the capacitance calibration data.O
+225035:27e16 BPlease choose the file containing the inductance calibration data.
+225047:27f09 *.calCPlease choose the file containing the capacitance calibration data.PTH0
+225048:27f5b *.calBPlease choose the file containing the inductance calibration data.gencode.cGenDispatchEntry
+252518:1c6c4d Software Rev.
+252541:1c8ef6 Software Rev."
+252542:1c8f0a Software Rev.L
+252746:1cb245 Software Rev.4!
+252995:1cea86 Software Rev.
+253003:1ceb0d Software Rev.
+253004:1ceb1e Software Rev.
+253005:1ceb2f Software Rev.
+253082:1cf197 Software Rev. Check`
+253092:1cf307 Wrong Rev. NumberW
+253128:1cf5f4 Software Rev.
+253146:1cf69a Software Rev. Check
+253149:1cf6d0 Software Rev. Check
+253150:1cf6e4 Wrong Rev. Number
+253153:1cf71d Software Rev.
+253164:1cf825 Software Rev.
+253169:1cf8ad Software Rev. Check
+253174:1cfb66 Software Rev.
+271345:2ec8c3 Path to Version File*
+271346:2ec8de Path to Version File4
+271398:2edd8d Path to Version File4
+271401:2ede58 Path to Version File8
+271411:2ee062 Path to Version File4
+271426:2ee37e Path to Version File
+271499:2f0588 Path to Version File
+271500:2f077d Path to Version FileH
+271501:2f07e9 Path to Version File,
+271502:2f08bc Path to Version File
+271509:2f0ed5 Path to Version File4
+271510:2f1082 Path to Version File*
+271511:2f109d Path to Version File
+271545:2f24c2 Path to Version File
+271617:2f546c Path to Version File
+271618:2f5484 Path to Version File
+271619:2f549c Path to Version File
+271632:2f55e7 Path to Version File
+271651:2f583c Path to Version File
+271656:2f5b0d `Couldn't retrieve the proper Software Rev. number.  Please set this manually on the front panel.
+271657:2f5b87 Couldn't open the Software Rev. file.  Please set the Software Rev. manually on the front panel.  Place the flopply disk in the computer NOW.MD
+271662:2f5cee RCouldn't open the Software Rev. file.  Place the flopply disk in the computer NOW.s
+271663:2f5d5b 'Last known LC103 Software Rev. is:  VERg
+271665:2f5dcf 'Last known LC103 Software Rev. is:  VERMD
+271667:2f5e4f PAn invalid Software Rev. number was specified.  Please fix this after cal fails.
+271697:2f6027 version.dat
+271699:2f6038 PAn invalid Software Rev. number was specified.  Please fix this after cal fails.
+271700:2f608c 'Last known LC103 Software Rev. is:  VERRCouldn't open the Software Rev. file.  Place the flopply disk in the computer NOW.
+271701:2f6108 Couldn't open the Software Rev. file.  Please set the Software Rev. manually on the front panel.  Place the flopply disk in the computer NOW.
+271702:2f6199 'Last known LC103 Software Rev. is:  VER
+271703:2f61cb `Couldn't retrieve the proper Software Rev. number.  Please set this manually on the front panel.
+271714:2f6315 Path to Version File
+271723:2f63d9 a:\version.dat
+271754:2f692b Path to Version File
+272863:30fbe0 BPlease choose the file containing the inductance calibration data.V
+273011:310696 *.calBPlease choose the file containing the inductance calibration data.
+274468:330ba2 CPlease choose the file containing the capacitance calibration data.V
+274628:3317bf *.calCPlease choose the file containing the capacitance calibration data.
+278510:3734c5 Software Rev. Check
+285518:3e4d1a Software Rev. CheckW
+285521:3e4d8d Software Rev. Check_
+285522:3e4dbf Software Rev. CheckW
+285598:3e5717 Software Rev. Check
+285618:3e58a5 Software Rev. Check
+285619:3e58b9 Software Rev. Check
+285882:3f10e8 Software Rev.4
+285884:3f118b Software Rev.
+287089:3fef0b Software Rev.@
+287090:3fef7f Software Rev.
+287461:401753 Software Rev. 
+287810:405125 Software Rev.ss4
+287811:405244 Software Rev.ss4
+287813:4054fb Software Rev.
+287828:405986 Software Rev.
+288098:40fb73 Software Rev.
+288099:40fb84 Software Rev.
+288100:40fb95 Software Rev.
+288158:41005b Software Rev.
+288160:41007d Software Rev.
+288163:4100b5 Software Rev.
+288281:410954 Software Rev.
+288334:4110ac Press F1 to change paths.Y
+288335:4110d9 Software Rev.P
+288394:4119e0 CCCPlease choose the file containing the capacitance calibration data.W
+288399:411aaa ++BPlease choose the file containing the inductance calibration data.W
+288466:412425 Software Rev.Y
+288467:412442 Software Rev.W
+288666:412ec8 Software Rev. Check
+288695:4130ae *.calCPlease choose the file containing the capacitance calibration data.PTH0
+288696:413100 *.calBPlease choose the file containing the inductance calibration data.
+288719:413385 Software Rev.
+288909:414296 Software Rev.PTH0
+362986:ece55 *.calCPlease choose the file containing the capacitance calibration data.PTH0
+363277:ef1ce CCCPlease choose the file containing the capacitance calibration data.V
+364694:10d2d4 *.calBPlease choose the file containing the inductance calibration data.
+364979:10f3ef ++BPlease choose the file containing the inductance calibration data.V
+365825:122351 Path to Version Filep2
+365850:1226f4 Path to Version File
+365899:122adf Path to Version File
+365901:122b65 version.dat
+365903:122b80 VER`Couldn't retrieve the proper Software Rev. number.  Please set this manually on the front panel.
+365904:122be5 Couldn't open the Software Rev. file.  Please set the Software Rev. manually on the front panel.  Place the flopply disk in the computer NOW.
+365905:122c78 xxxxRCouldn't open the Software Rev. file.  Place the flopply disk in the computer NOW.'Last known LC103 Software Rev. is:  VER
+365906:122d01 'Last known LC103 Software Rev. is:  VER
+365907:122d2a PAn invalid Software Rev. number was specified.  Please fix this after cal fails.
+365925:122f9d Path to Version File
+365932:123290 Path to Version File&
+365989:1239a6 Path to Version FileZ
+365990:1239cb a:\version.datX
+366003:123c4a `Couldn't retrieve the proper Software Rev. number.  Please set this manually on the front panel.
+366004:123cc3 Couldn't open the Software Rev. file.  Please set the Software Rev. manually on the front panel.  Place the flopply disk in the computer NOW.MD
+366009:123e1f ''RCouldn't open the Software Rev. file.  Place the flopply disk in the computer NOW.s
+366010:123e8b '''Last known LC103 Software Rev. is:  VERg
+366012:123efd '''Last known LC103 Software Rev. is:  VERMD
+366014:123f7b PAn invalid Software Rev. number was specified.  Please fix this after cal fails.SE
+382810:23081e Software Rev.
+382818:230957 Software Rev.p0
+382860:230d50 Software Rev.
+382897:23102d Software Rev. Check
+382898:23104a Software Rev. Check
+382902:231092 Wrong Rev. Number
+382930:2312ee Software Rev.
+382933:23159b Software Rev.
+382999:231c04 Software Rev. CheckW
+383002:231c64 Software Rev.L
+383007:231d41 Software Rev. Check`
+383018:231ec1 Wrong Rev. NumberW
+385889:267bfa Software Rev. Check
+385913:267f5c Software Rev. Check
+385914:267f70 Software Rev. Check
+386308:26baa1 Software Rev. CheckW
+386311:26bb14 Software Rev. Check_
+386312:26bb46 Software Rev. CheckW
+392453:2eda01 Software Rev.
+400862:3724aa Software Rev. Check
+404919:3b432f *.calCPlease choose the file containing the capacitance calibration data.PTH0
+404920:3b4381 *.calBPlease choose the file containing the inductance calibration data.d:\automated\lv51\lvsource\gencode.cGenRangeCheck
+404953:3b4ac3 CCCPlease choose the file containing the capacitance calibration data.O
+404956:3b4b47 ++BPlease choose the file containing the inductance calibration data.
+411443:42a61b Software Rev.PTH0
+412686:43a90a Software Rev.p0
+412750:43b0d7 Software Rev.
+412753:43b11b Software Rev.
+412756:43b165 Software Rev.
+412902:43bd0f Software Rev.
+412954:43c41b Software Rev. Check
+412979:43c601 *.calCPlease choose the file containing the capacitance calibration data.PTH0
+412981:43c65b *.calBPlease choose the file containing the inductance calibration data.PTH0
+413097:43cd30 Software Rev.
+413112:43d0f7 Software Rev."
+413358:43e277 Software Rev.>
+413412:43ecc8 Press F1 to change paths.Y
+413413:43ecf5 Software Rev.P
+413472:43f606 CCCPlease choose the file containing the capacitance calibration data.W
+413477:43f6d0 ++BPlease choose the file containing the inductance calibration data.W
+413547:4400a9 Software Rev.Y
+413548:4400c6 Software Rev.W
+490872:dfb06 Software Rev.PTH0
+490916:dffc9 Software Rev.p0
+491081:e0e2b Software Rev.
+491092:e0efe Software Rev.
+491266:e1c7e Software Rev."
+491282:e1e14 Software Rev.
+491326:e26ac Software Rev. Check
+491351:e289a *.calCPlease choose the file containing the capacitance calibration data.PTH0
+491353:e28f4 *.calBPlease choose the file containing the inductance calibration data.PTH0
+492054:eee79 Software Rev.
+492070:ef241 Software Rev."
+492228:eff08 Software Rev.>
+492290:f0ab3 Press F1 to change paths.Y
+492291:f0ae0 Software Rev.H
+492407:f1e47 Software Rev.\
+492420:f201d Software Rev.\
+493347:10af1b *.calCPlease choose the file containing the capacitance calibration data.PTH0
+494632:1274d7 *.calBPlease choose the file containing the inductance calibration data.
+495530:13baa9 Path to Version Filep2
+495558:13beb5 Path to Version File
+495579:13c0d7 Path to Version File
+495581:13c175 version.dat
+495583:13c190 VER`Couldn't retrieve the proper Software Rev. number.  Please set this manually on the front panel.
+495584:13c1f5 Couldn't open the Software Rev. file.  Please set the Software Rev. manually on the front panel.  Place the flopply disk in the computer NOW.
+495585:13c288 xxxxRCouldn't open the Software Rev. file.  Place the flopply disk in the computer NOW.'Last known LC103 Software Rev. is:  VER
+495586:13c311 'Last known LC103 Software Rev. is:  VER
+495587:13c33a PAn invalid Software Rev. number was specified.  Please fix this after cal fails.
+495683:13eacf Path to Version File
+495689:13edc2 Path to Version File&
+495748:13f50e Path to Version FileH
+512029:2722a9 Software Rev.
+512037:2723ee Software Rev.x0
+512059:2726c0 Software Rev.
+512077:2728b2 Software Rev. Check
+512078:2728cf Software Rev. Check
+512082:272917 Wrong Rev. Number
+512150:2745b6 Software Rev.
+512153:274863 Software Rev.
+512221:274f1c Software Rev.H
+513222:28deff Software Rev. Check
+513246:28e261 Software Rev. Check
+513247:28e275 Software Rev. Check
+520129:331e2d Software Rev.
+524168:377882 Software Rev. Check
+527464:3b64bb *.calCPlease choose the file containing the capacitance calibration data.PTH0
+527465:3b650d *.calBPlease choose the file containing the inductance calibration data.
+597329:fbb47 Software Rev.
+612598:0 LAST KNOWN LC103 SOFTWARE REV. IS:  VER1.50

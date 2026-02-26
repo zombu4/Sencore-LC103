@@ -1,0 +1,6 @@
+46712:15cb30 {currentfile pictstr readhexstring pop} imagemask
+46714:15cb74 {currentfile pictstr readhexstring pop} imagemask
+46717:15cbc4 {currentfile pictstr readhexstring pop} 
+47635:1620a0 The library "%z" must be converted to the current format.  This will prevent earlier versions of LabVIEW from reading it.
+101004:4aa0e5 relative to current mark+'string is the data read from the file.
+259401:222195 relative to current mark+'string is the data read from the file.

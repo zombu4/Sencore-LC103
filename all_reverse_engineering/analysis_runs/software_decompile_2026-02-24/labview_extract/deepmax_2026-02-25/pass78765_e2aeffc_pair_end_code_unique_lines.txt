@@ -1,0 +1,5 @@
+74839:316f5c Refer to Appendix C, Error Codes, for a list of error codes.
+245149:155610 Refer to Appendix C, Error Codes, for a list of error codes.
+372362:193862 =9EOF? is true if you try to read past the end of the file.40code is the error code; the default value is 0.
+397609:33f52a Refer to Appendix C, Error Codes, for a list of error codes.
+522311:3560b6 Refer to Appendix C, Error Codes, for a list of error codes.

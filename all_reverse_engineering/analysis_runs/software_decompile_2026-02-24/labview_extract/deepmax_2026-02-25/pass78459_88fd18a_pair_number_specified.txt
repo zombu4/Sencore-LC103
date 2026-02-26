@@ -1,0 +1,22 @@
+75739:323a21 uqReads the number of characters specified by requested byte count from the serial port indicated in port number. 
+113124:57afcf PAn invalid Software Rev. number was specified.  Please fix this after cal fails.
+113156:57b1b8 PAn invalid Software Rev. number was specified.  Please fix this after cal fails.
+246060:162361 uqReads the number of characters specified by requested byte count from the serial port indicated in port number. 
+246164:162d03 qReads the number of characters specified by requested byte count from the serial port indicated in port number. 
+271667:2f5e4f PAn invalid Software Rev. number was specified.  Please fix this after cal fails.
+271699:2f6038 PAn invalid Software Rev. number was specified.  Please fix this after cal fails.
+308282:eb956 uqReads the number of characters specified by requested byte count from the serial port indicated in port number. 
+308384:ec2f3 qReads the number of characters specified by requested byte count from the serial port indicated in port number. 
+365907:122d2a PAn invalid Software Rev. number was specified.  Please fix this after cal fails.
+366014:123f7b PAn invalid Software Rev. number was specified.  Please fix this after cal fails.SE
+396892:334dbb uqReads the number of characters specified by requested byte count from the serial port indicated in port number. 
+404007:3a3a37 qReads the number of characters specified by requested byte count from the serial port indicated in port number. 
+441083:168104 uqReads the number of characters specified by requested byte count from the serial port indicated in port number. 
+442990:185467 qReads the number of characters specified by requested byte count from the serial port indicated in port number. 
+495587:13c33a PAn invalid Software Rev. number was specified.  Please fix this after cal fails.
+521719:34caa8 uqReads the number of characters specified by requested byte count from the serial port indicated in port number. 
+527344:3b2683 qReads the number of characters specified by requested byte count from the serial port indicated in port number. 
+556363:1a3f17 qReads the number of characters specified by requested byte count from the serial port indicated in port number. 
+558323:1c6bdd uqReads the number of characters specified by requested byte count from the serial port indicated in port number. 
+596743:f38e3 qReads the number of characters specified by requested byte count from the serial port indicated in port number. 
+600529:131143 qReads the number of characters specified by requested byte count from the serial port indicated in port number. 

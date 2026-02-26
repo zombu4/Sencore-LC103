@@ -1,0 +1,1 @@
+558376:1c79e8 Some error codes returned by the serial port VIs are platform-specific. Please refer to your system documentation for a list of error codes.

@@ -1,0 +1,1 @@
+46947:15e206 doClip 0 gt {gsave rLeft rTop rRight rBottom rect clip newpath}if

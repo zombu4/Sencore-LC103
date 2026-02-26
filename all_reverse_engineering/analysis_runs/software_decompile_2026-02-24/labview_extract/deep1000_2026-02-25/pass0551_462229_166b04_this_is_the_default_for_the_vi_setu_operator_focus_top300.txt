@@ -1,0 +1,1 @@
+48271:166b04 This is the default for the VI Setup of new VIs. If a VI has this option set, LabVIEW will add an entry to the VI's history every time it is saved, even if you do not enter a comment.

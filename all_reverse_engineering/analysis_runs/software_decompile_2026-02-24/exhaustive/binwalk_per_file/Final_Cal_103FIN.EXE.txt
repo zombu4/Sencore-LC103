@@ -1,0 +1,6 @@
+FILE: Final Cal/103FIN.EXE
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+1791880       0x1B5788        bix header, header size: 64 bytes, header CRC: 0xBC85, created: 1997-08-31 05:30:40, image size: 80480 bytes, Data Address: 0x6920C31E, Entry Point: 0x43800000, data CRC: 0xA045, CPU: SuperH, image type: Standalone Program, image name: ""
+

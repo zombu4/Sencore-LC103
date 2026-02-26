@@ -1,0 +1,5 @@
+52020:1b8d0e Generic print error occurred.#Device reference number is invalid.
+52021:1b8d50 Device not found. Device parameter error occurred.
+52022:1b8d83 Device unit error occurred.
+132978:1fdedf ?GetStaticallyStoredNumChans_TheVirtualThing@daqDevice@@UAEFFPAK@Z
+638467:1fdedf ?GetStaticallyStoredNumChans_TheVirtualThing@daqDevice@@UAEFFPAK@Z

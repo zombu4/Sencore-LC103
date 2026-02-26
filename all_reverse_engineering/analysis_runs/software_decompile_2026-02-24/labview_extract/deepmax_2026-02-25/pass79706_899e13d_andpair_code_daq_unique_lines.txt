@@ -1,0 +1,49 @@
+102324:4c3fa6 monnie)Additions and changes to DAQ error codes.
+102363:4c4bc6 user-defined codes. The error handler has tables of error codes and descriptions for all LabVIEW I/O operations (file, GPIB, DAQ, etc.). You can augment the tables with the user-defined arrays. Codes from 5000 to 9999 are reserved for user assignments.
+102377:4c52e4 This error code is not listed in the internal database, or you have wired a number that is not an error code (such as a DAQ task ID) to the error code input.PD
+102535:4d0216 user-defined codes. The error handler has tables of error codes and descriptions for all LabVIEW I/O operations (file, GPIB, DAQ, etc.). You can augment the tables with the user-defined arrays. Codes from 5000 to 9999 are reserved for user assignments.
+102543:4d083f This error code is not listed in the internal database, or you have wired a number that is not an error code (such as a DAQ task ID) to the error code input.6Windows GetCommError: The hex value of this code is x
+260757:23cb7e monnie)Additions and changes to DAQ error codes.
+260796:23d79e user-defined codes. The error handler has tables of error codes and descriptions for all LabVIEW I/O operations (file, GPIB, DAQ, etc.). You can augment the tables with the user-defined arrays. Codes from 5000 to 9999 are reserved for user assignments.
+260810:23debc This error code is not listed in the internal database, or you have wired a number that is not an error code (such as a DAQ task ID) to the error code input.PD
+260968:248dee user-defined codes. The error handler has tables of error codes and descriptions for all LabVIEW I/O operations (file, GPIB, DAQ, etc.). You can augment the tables with the user-defined arrays. Codes from 5000 to 9999 are reserved for user assignments.
+260976:249417 This error code is not listed in the internal database, or you have wired a number that is not an error code (such as a DAQ task ID) to the error code input.6Windows GetCommError: The hex value of this code is x
+314764:15a79f monnie)Additions and changes to DAQ error codes.
+314804:15b3ad user-defined codes. The error handler has tables of error codes and descriptions for all LabVIEW I/O operations (file, GPIB, DAQ, etc.). You can augment the tables with the user-defined arrays. Codes from 5000 to 9999 are reserved for user assignments.
+314818:15baab This error code is not listed in the internal database, or you have wired a number that is not an error code (such as a DAQ task ID) to the error code input.PD
+314976:1669bf user-defined codes. The error handler has tables of error codes and descriptions for all LabVIEW I/O operations (file, GPIB, DAQ, etc.). You can augment the tables with the user-defined arrays. Codes from 5000 to 9999 are reserved for user assignments.
+314984:166fe8 This error code is not listed in the internal database, or you have wired a number that is not an error code (such as a DAQ task ID) to the error code input.6Windows GetCommError: The hex value of this code is x
+341243:f9d7e monnie)Additions and changes to DAQ error codes.
+341280:fa97d user-defined codes. The error handler has tables of error codes and descriptions for all LabVIEW I/O operations (file, GPIB, DAQ, etc.). You can augment the tables with the user-defined arrays. Codes from 5000 to 9999 are reserved for user assignments.
+341295:fb07b This error code is not listed in the internal database, or you have wired a number that is not an error code (such as a DAQ task ID) to the error code input.PD
+341453:105f8f user-defined codes. The error handler has tables of error codes and descriptions for all LabVIEW I/O operations (file, GPIB, DAQ, etc.). You can augment the tables with the user-defined arrays. Codes from 5000 to 9999 are reserved for user assignments.
+341461:1065b8 This error code is not listed in the internal database, or you have wired a number that is not an error code (such as a DAQ task ID) to the error code input.6Windows GetCommError: The hex value of this code is x
+371406:182816 user-defined codes. The error handler has tables of error codes and descriptions for all LabVIEW I/O operations (file, GPIB, DAQ, etc.). You can augment the tables with the user-defined arrays. Codes from 5000 to 9999 are reserved for user assignments.
+371417:182ea7 This error code is not listed in the internal database, or you have wired a number that is not an error code (such as a DAQ task ID) to the error code input.
+371548:185798 user-defined codes. The error handler has tables of error codes and descriptions for all LabVIEW I/O operations (file, GPIB, DAQ, etc.). You can augment the tables with the user-defined arrays. Codes from 5000 to 9999 are reserved for user assignments.
+371570:185f51 This error code is not listed in the internal database, or you have wired a number that is not an error code (such as a DAQ task ID) to the error code input.QE
+371915:18cc37 monnie)Additions and changes to DAQ error codes.
+434107:f6439 user-defined codes. The error handler has tables of error codes and descriptions for all LabVIEW I/O operations (file, GPIB, DAQ, etc.). You can augment the tables with the user-defined arrays. Codes from 5000 to 9999 are reserved for user assignments.
+434118:f6aca This error code is not listed in the internal database, or you have wired a number that is not an error code (such as a DAQ task ID) to the error code input.
+434248:f93bb user-defined codes. The error handler has tables of error codes and descriptions for all LabVIEW I/O operations (file, GPIB, DAQ, etc.). You can augment the tables with the user-defined arrays. Codes from 5000 to 9999 are reserved for user assignments.
+434269:f9b74 This error code is not listed in the internal database, or you have wired a number that is not an error code (such as a DAQ task ID) to the error code input.QE
+434615:100862 monnie)Additions and changes to DAQ error codes.
+470086:1059ba user-defined codes. The error handler has tables of error codes and descriptions for all LabVIEW I/O operations (file, GPIB, DAQ, etc.). You can augment the tables with the user-defined arrays. Codes from 5000 to 9999 are reserved for user assignments.
+470097:10604b This error code is not listed in the internal database, or you have wired a number that is not an error code (such as a DAQ task ID) to the error code input.
+470226:10893c user-defined codes. The error handler has tables of error codes and descriptions for all LabVIEW I/O operations (file, GPIB, DAQ, etc.). You can augment the tables with the user-defined arrays. Codes from 5000 to 9999 are reserved for user assignments.
+470247:1090f5 This error code is not listed in the internal database, or you have wired a number that is not an error code (such as a DAQ task ID) to the error code input.QE
+470591:10fddc monnie)Additions and changes to DAQ error codes.
+503916:1e37b7 user-defined codes. The error handler has tables of error codes and descriptions for all LabVIEW I/O operations (file, GPIB, DAQ, etc.). You can augment the tables with the user-defined arrays. Codes from 5000 to 9999 are reserved for user assignments.
+503927:1e3e51 This error code is not listed in the internal database, or you have wired a number that is not an error code (such as a DAQ task ID) to the error code input.
+504133:1e78db user-defined codes. The error handler has tables of error codes and descriptions for all LabVIEW I/O operations (file, GPIB, DAQ, etc.). You can augment the tables with the user-defined arrays. Codes from 5000 to 9999 are reserved for user assignments.
+504532:1efa12 monnie)Additions and changes to DAQ error codes.
+546482:f5349 user-defined codes. The error handler has tables of error codes and descriptions for all LabVIEW I/O operations (file, GPIB, DAQ, etc.). You can augment the tables with the user-defined arrays. Codes from 5000 to 9999 are reserved for user assignments.
+546493:f59da This error code is not listed in the internal database, or you have wired a number that is not an error code (such as a DAQ task ID) to the error code input.
+546623:f82cb user-defined codes. The error handler has tables of error codes and descriptions for all LabVIEW I/O operations (file, GPIB, DAQ, etc.). You can augment the tables with the user-defined arrays. Codes from 5000 to 9999 are reserved for user assignments.
+546644:f8a84 This error code is not listed in the internal database, or you have wired a number that is not an error code (such as a DAQ task ID) to the error code input.QE
+546990:ff772 monnie)Additions and changes to DAQ error codes.
+579335:16767b user-defined codes. The error handler has tables of error codes and descriptions for all LabVIEW I/O operations (file, GPIB, DAQ, etc.). You can augment the tables with the user-defined arrays. Codes from 5000 to 9999 are reserved for user assignments.
+579346:167d15 This error code is not listed in the internal database, or you have wired a number that is not an error code (such as a DAQ task ID) to the error code input.
+579549:16b79f user-defined codes. The error handler has tables of error codes and descriptions for all LabVIEW I/O operations (file, GPIB, DAQ, etc.). You can augment the tables with the user-defined arrays. Codes from 5000 to 9999 are reserved for user assignments.
+579951:1738d8 monnie)Additions and changes to DAQ error codes.
+608280:1b5528 )Additions and changes to DAQ error codes.

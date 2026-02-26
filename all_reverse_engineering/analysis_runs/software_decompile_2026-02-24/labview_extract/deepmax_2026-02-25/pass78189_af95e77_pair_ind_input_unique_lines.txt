@@ -1,0 +1,3 @@
+52473:1bd1e4 unassigned sequence local(s).N is unwired, and there are no indexing inputs,array, cluster, or RefNum has undefined type
+52516:1bdd78 A wire must be connected to one and only one data source, such as a control's terminal or a function output. This wire is not connected to any source. Find the source of this data and make sure it is a control (not indicator) or an output (not input).
+52525:1be595 A wire can be connected to only one data source, such as a control's terminal or a function output. This wire is connected to more than one source. Make sure that all connections except one are to indicators (not controls) or inputs (not outputs).

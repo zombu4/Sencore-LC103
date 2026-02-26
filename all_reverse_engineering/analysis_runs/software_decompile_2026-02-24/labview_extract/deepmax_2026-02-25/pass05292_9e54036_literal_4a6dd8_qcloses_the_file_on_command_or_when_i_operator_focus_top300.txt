@@ -1,0 +1,1 @@
+100816:4a6dd8 QCloses the file on command or when in incoming error occurs and returns the file size at closure.

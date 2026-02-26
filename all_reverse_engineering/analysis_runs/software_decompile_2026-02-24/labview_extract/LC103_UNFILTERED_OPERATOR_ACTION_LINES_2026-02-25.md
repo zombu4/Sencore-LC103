@@ -1,0 +1,206 @@
+# LC103 Unfiltered Operator-Action Lines (2026-02-25)
+
+- Source corpus: `LC103_UNFILTERED_CORPUS_ALL_LINES_2026-02-24.txt` (all lines processed)
+- Unique action lines: 24649
+
+## Top 200 by recurrence
+- (1380x) [short] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/ghidra/Final_Cal_nidaq_dll_decomp_full.txt:12126] short __thiscall
+- (500x) [switch] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/ghidra/Final_Cal_nidaq_dll_decomp_full.txt:50953] switch(param_1) {
+- (393x) [open] [/Users/<user>/LC103/software_decompile_2026-02-24/strings/Final_Cal_103FIN.EXE.strings.txt:17702] Open GPIB Driver.vi
+- (388x) [short] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/ghidra/Final_Cal_nidaq_dll_decomp_full.txt:12444] public: virtual short __thiscall
+- (386x) [short] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/ghidra/Final_Cal_nidaq_dll_decomp_full.txt:328515] if ((short)uVar15 != 0) {
+- (364x) [switch] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/ghidra/Final_Cal_nidaq_dll_decomp_full.txt:57178] switch(param_2) {
+- (335x) [read] [/Users/<user>/LC103/software_decompile_2026-02-24/strings/Final_Cal_103FIN.EXE.strings.txt:17704] Core GPIB Read.vi
+- (332x) [write] [/Users/<user>/LC103/software_decompile_2026-02-24/strings/Final_Cal_103FIN.EXE.strings.txt:17708] Core GPIB Write.vi
+- (232x) [read] [/Users/<user>/LC103/software_decompile_2026-02-24/strings/Final_Cal_103FIN.EXE.strings.txt:17852] Read from Digital Port.vi
+- (231x) [open] [/Users/<user>/LC103/software_decompile_2026-02-24/strings/Final_Cal_103FIN.EXE.strings.txt:17780] Open Serial Driver.vi
+- (230x) [write] [/Users/<user>/LC103/software_decompile_2026-02-24/strings/Final_Cal_103FIN.EXE.strings.txt:17850] Write to Digital Port .vi
+- (229x) [read] [/Users/<user>/LC103/software_decompile_2026-02-24/strings/Final_Cal_103FIN.EXE.strings.txt:17786] Serial Port Read.vi
+- (226x) [read] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/vi_names_all.txt:18824] DIO Port Read.vi
+- (221x) [write] [/Users/<user>/LC103/software_decompile_2026-02-24/strings/Final_Cal_103FIN.EXE.strings.txt:17750] DIO Port Write.vi
+- (180x) [switch] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/ghidra/Final_Cal_nidaq_dll_decomp_full.txt:62854] switch(param_3) {
+- (175x) [write] [/Users/<user>/LC103/software_decompile_2026-02-24/strings/Final_Cal_103FIN.EXE.strings.txt:17784] Serial Port Write.vi
+- (174x) [short] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/ghidra/Final_Cal_nidaq_dll_decomp_full.txt:59172] if ((short)uVar4 != 0) {
+- (160x) [short] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/ghidra/Final_Cal_nidaq_dll_decomp_full.txt:71755] if ((short)uVar2 == 0) {
+- (158x) [short] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/ghidra/Final_Cal_nidaq_dll_decomp_full.txt:51972] if ((short)uVar3 == 0) {
+- (142x) [short] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/ghidra/Final_Cal_nidaq_dll_decomp_full.txt:57648] if ((short)param_2 == 0) {
+- (140x) [read] [/Users/<user>/LC103/software_decompile_2026-02-24/strings/Final_Cal_103FIN.EXE.strings.txt:17870] Read Lines From File.vi
+- (140x) [short] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/ghidra/Final_Cal_nidaq_dll_decomp_full.txt:59312] if ((short)local_8 == 0) {
+- (140x) [short] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/ghidra/Final_Cal_nidaq_dll_decomp_full.txt:61458] if ((short)local_c == 0) {
+- (138x) [short] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/ghidra/Final_Cal_nidaq_dll_decomp_full.txt:281115] byte *)(param_1 + 0x789 + (int)(short)local_c) =
+- (138x) [short] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/ghidra/Final_Cal_nidaq_dll_decomp_full.txt:281206] byte *)(param_1 + 0x789 + (int)(short)param_2) =
+- (136x) [switch] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/ghidra/Final_Cal_nidaq_dll_decomp_full.txt:63008] switch(param_4) {
+- (132x) [short] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/ghidra/Final_Cal_nidaq_dll_decomp_full.txt:56135] if ((short)param_2 == 1) {
+- (132x) [switch] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/ghidra/Final_Cal_nidaq_dll_decomp_full.txt:155422] switch(param_5) {
+- (132x) [short] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/ghidra/Final_Cal_nidaq_dll_decomp_full.txt:28099] uVar1 = (int)*(short *)(in_ECX + 0x2c) | param_1 & 0xffffff00;
+- (124x) [short] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/ghidra/Final_Cal_nidaq_dll_decomp_full.txt:56776] if ((short)uVar2 != 0) {
+- (124x) [short] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/ghidra/Final_Cal_nidaq_dll_decomp_full.txt:100922] if ((short)uVar7 != 0) {
+- (120x) [short] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/ghidra/Final_Cal_nidaq_dll_decomp_full.txt:61413] if ((short)local_c != 0) {
+- (120x) [short] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/ghidra/Final_Cal_nidaq_dll_decomp_full.txt:58303] if ((short)uVar3 != 0) {
+- (118x) [short] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/ghidra/Final_Cal_nidaq_dll_decomp_full.txt:269867] CONCAT22((short)((uint)iVar3 >> 0x10),
+- (118x) [short] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/ghidra/Final_Cal_nidaq_dll_decomp_full.txt:88480] if ((short)uVar6 != 0) {
+- (116x) [short] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/ghidra/Final_Cal_nidaq_dll_decomp_full.txt:32030] if ((short)local_10 != 0) {
+- (116x) [short] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/ghidra/Final_Cal_nidaq_dll_decomp_full.txt:72622] if ((short)uVar10 != 0) {
+- (112x) [short] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/ghidra/Final_Cal_nidaq_dll_decomp_full.txt:82885] if ((short)uVar1 == 0) {
+- (110x) [read] [/Users/<user>/LC103/software_decompile_2026-02-24/strings/Final_Cal_103FIN.EXE.strings.txt:17844] Read File+ (string).vi
+- (110x) [write] [/Users/<user>/LC103/software_decompile_2026-02-24/strings/Final_Cal_103FIN.EXE.strings.txt:17686] Write File+ (string).vi
+- (108x) [open] [/Users/<user>/LC103/software_decompile_2026-02-24/strings/Final_Cal_103FIN.EXE.strings.txt:17684] Open/Create/Replace File.vi
+- (108x) [short] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/ghidra/Final_Cal_nidaq_dll_decomp_full.txt:52811] return (int)(short)local_8;
+- (108x) [short] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/ghidra/Final_Cal_nidaq_dll_decomp_full.txt:352412] sVar5 = *(short *)(*(int *)(*(int *)(*(int *)(*(int *)(local_10 + 0x3f) + 2) + 0x1e +
+- (104x) [short] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/ghidra/Final_Cal_nidaq_dll_decomp_full.txt:130110] if ((int)(short)param_2 == 0) {
+- (104x) [short] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/ghidra/Final_Cal_nidaq_dll_decomp_full.txt:130109] puVar1 = (int)(short)param_2;
+- (101x) [write] [/Users/<user>/LC103/software_decompile_2026-02-24/strings/Final_Cal_103FIN.EXE.strings.txt:17848] Write Characters To File.vi
+- (100x) [short] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/ghidra/Final_Cal_nidaq_dll_decomp_full.txt:54221] if ((short)uVar5 != 0) {
+- (92x) [short] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/ghidra/Final_Cal_nidaq_dll_decomp_full.txt:74711] if ((short)local_10 == 0) {
+- (84x) [open] [/Users/<user>/LC103/software_decompile_2026-02-24/strings/Final_Cal_103FIN.EXE.strings.txt:24321] A unique reference to an instrument I/O session. It identifies which device to communicate with and all configuration information to perform the I/O. An instr handle is returned from the Instr Open VI or the Initialize VI of an instrument driver.
+- (84x) [short] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/ghidra/Final_Cal_nidaq_dll_decomp_full.txt:313718] if ((short)psVar4 != 0) {
+- (80x) [short] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/ghidra/Final_Cal_nidaq_dll_decomp_full.txt:31968] if (-1 < (short)uVar3) {
+- (79x) [read] [/Users/<user>/LC103/software_decompile_2026-02-24/strings/Final_Cal_103FIN.EXE.strings.txt:76898] mark after read (chars.)
+- (78x) [short] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/ghidra/Final_Cal_nidaq_dll_decomp_full.txt:12039] if ((short)uVar4 == 0) {
+- (76x) [short] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/ghidra/Final_Cal_nidaq_dll_decomp_full.txt:59046] if ((short)local_8 != 0) {
+- (76x) [short] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/ghidra/Final_Cal_nidaq_dll_decomp_full.txt:52833] if ((short)uVar3 < 0) {
+- (72x) [short] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/ghidra/Final_Cal_nidaq_dll_decomp_full.txt:32222] if ((short)param_2 != 0) {
+- (72x) [short] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/ghidra/Final_Cal_nidaq_dll_decomp_full.txt:51357] if ((short)param_5 == 0) {
+- (72x) [short] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/ghidra/Final_Cal_nidaq_dll_decomp_full.txt:80043] if ((short)uVar5 == 0) {
+- (72x) [short] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/ghidra/Final_Cal_nidaq_dll_decomp_full.txt:273267] local_18 = (short *)CONCAT22(local_18._2_2_,sVar1);
+- (72x) [short] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/ghidra/Final_Cal_nidaq_dll_decomp_full.txt:80614] sVar2 = *(short *)((int)DAT_212191c0 + 1);
+- (72x) [short] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/ghidra/Final_Cal_nidaq_dll_decomp_full.txt:339534] sVar3 = (short)local_c;
+- (72x) [short] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/ghidra/Final_Cal_nidaq_dll_decomp_full.txt:336237] sVar4 = *(short *)(iVar13 + 0x2fa);
+- (68x) [short] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/ghidra/Final_Cal_nidaq_dll_decomp_full.txt:558] if ((short)uVar2 < 0) {
+- (66x) [short] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/ghidra/Final_Cal_nidaq_dll_decomp_full.txt:353528] while ((int)local_14 < (int)(short)local_34);
+- (65x) [close] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/wizard_prompts_cleaned.txt:845] close when? (now:T)
+- (64x) [short] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/ghidra/Final_Cal_nidaq_dll_decomp_full.txt:53100] if ((short)param_3 == 0) {
+- (64x) [short] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/ghidra/Final_Cal_nidaq_dll_decomp_full.txt:61592] if ((short)uVar7 == 0) {
+- (64x) [short] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/ghidra/Final_Cal_nidaq_dll_decomp_full.txt:28235] local_20 = (int)*(short *)(in_ECX + 0x2c) | param_1 & 0xffffff00;
+- (62x) [short] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/ghidra/Final_Cal_nidaq_dll_decomp_full.txt:74042] if (0 < (short)param_2) {
+- (61x) [short] [/Users/<user>/LC103/software_decompile_2026-02-24/strings/Source_LV3_1_MAINB_II.LLB.strings.txt:27748] lead zero short/open.vi
+- (60x) [short] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/ghidra/Final_Cal_nidaq_dll_decomp_full.txt:124737] if (-1 < (short)uVar2) {
+- (60x) [short] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/ghidra/Final_Cal_nidaq_dll_decomp_full.txt:58872] if (0 < (short)local_34) {
+- (60x) [short] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/ghidra/Final_Cal_nidaq_dll_decomp_full.txt:59376] return (short)local_8;
+- (60x) [short] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/ghidra/Final_Cal_nidaq_dll_decomp_full.txt:247] sVar2 = (short)param_2;
+- (60x) [short] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/ghidra/Final_Cal_nidaq_dll_decomp_full.txt:353040] sVar7 = *(short *)(*(int *)(puVar26 + 3) + (int)local_c * 2);
+- (60x) [write] [/Users/<user>/LC103/software_decompile_2026-02-24/strings/Final_Cal_103FIN.EXE.strings.txt:27445] write buffer ("")
+- (56x) [short] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/ghidra/Final_Cal_nidaq_dll_decomp_full.txt:65208] if ((short)local_1c == 0) {
+- (56x) [short] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/ghidra/Final_Cal_nidaq_dll_decomp_full.txt:114288] int *)(iVar2 + 0x4b5) = (int)(short)param_1._2_2_;
+- (56x) [short] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/ghidra/Final_Cal_nidaq_dll_decomp_full.txt:198955] param_2 = (short)local_8;
+- (56x) [short] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/ghidra/Final_Cal_nidaq_dll_decomp_full.txt:60218] sVar3 = (short)param_1;
+- (54x) [short] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/ghidra/Final_Cal_nidaq_dll_decomp_full.txt:339531] sVar3 = *(short *)(*(int *)(puVar14 + 5) + (short)local_14 * 2);
+- (52x) [short] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/ghidra/Final_Cal_nidaq_dll_decomp_full.txt:91034] FUN_21185130(*(undefined4 *)(param_2 + 0xc),2,(int)*(short *)(param_2 + 0x41d));
+- (52x) [short] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/ghidra/Final_Cal_nidaq_dll_decomp_full.txt:63944] sVar3 = (short)param_2;
+- (52x) [short] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/ghidra/Final_Cal_nidaq_dll_decomp_full.txt:32225] sVar3 = (short)param_3;
+- (52x) [short] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/ghidra/Final_Cal_nidaq_dll_decomp_full.txt:56887] sVar3 = *(short *)((int)DAT_212191c0 + 1);
+- (49x) [press] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/wizard_prompts_cleaned.txt:763] Press 'Enter' when ready.
+- (49x) [select] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/wizard_prompts_cleaned.txt:409] file path is the path name of the file. If file path is empty (default value) or is Not A Path, the VI displays a File dialog box from which you can select a file. Error 43 occurs if the user cancels the dialog.
+- (48x) [open] [/Users/<user>/LC103/software_decompile_2026-02-24/strings/Final_Cal_103FIN.EXE.strings.txt:18132] function (open:0)
+- (48x) [short] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/ghidra/Final_Cal_nidaq_dll_decomp_full.txt:339583] iVar9 = (int)(short)local_14;
+- (48x) [short] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/ghidra/Final_Cal_nidaq_dll_decomp_full.txt:339525] local_20 = (short)local_14 * 0x18;
+- (48x) [short] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/ghidra/Final_Cal_nidaq_dll_decomp_full.txt:130712] sVar1 = (short)param_2;
+- (48x) [short] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/ghidra/Final_Cal_nidaq_dll_decomp_full.txt:28446] uVar3 = (int)*(short *)(in_ECX + 0x2c) | param_1 & 0xffffff00;
+- (48x) [short] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/ghidra/Final_Cal_nidaq_dll_decomp_full.txt:338031] undefined2 *)(iVar9 + (short)iVar19 * 2) = uVar7;
+- (48x) [short] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/ghidra/Final_Cal_nidaq_dll_decomp_full.txt:353442] while (iVar11 < (short)local_34);
+- (46x) [short] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/ghidra/Final_Cal_nidaq_dll_decomp_full.txt:53335] if ((short)local_18 != 0) {
+- (46x) [short] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/ghidra/Final_Cal_nidaq_dll_decomp_full.txt:69720] sVar5 = (short)param_2;
+- (46x) [short] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/ghidra/Final_Cal_nidaq_dll_decomp_full.txt:199158] short local_10 [2];
+- (46x) [switch] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/ghidra/Final_Cal_nidaq_dll_decomp_full.txt:279742] switch((undefined2)local_8) {
+- (44x) [short] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/wizard_prompts_cleaned.txt:704] Short the UUT leads to the
+- (44x) [short] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/ghidra/Final_Cal_nidaq_dll_decomp_full.txt:32519] if ((short)local_2c == 0) {
+- (44x) [short] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/ghidra/Final_Cal_nidaq_dll_decomp_full.txt:299274] sVar4 = (short)uVar9;
+- (44x) [short] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/ghidra/Final_Cal_nidaq_dll_decomp_full.txt:80265] short extraout_AX;
+- (43x) [connect] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/wizard_prompts_cleaned.txt:982] Most applications need only connect wires to the controls and indicators displayed in bold. Connections to other controls and indicators are useful only if specifically needed.
+- (42x) [short] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/ghidra/Final_Cal_nidaq_dll_decomp_full.txt:53449] if ((short)local_14 == 0) {
+- (42x) [short] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/ghidra/Final_Cal_nidaq_dll_decomp_full.txt:69095] if ((short)local_1c != 0) {
+- (42x) [short] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/ghidra/Final_Cal_nidaq_dll_decomp_full.txt:56142] if ((short)param_2 == 2) {
+- (42x) [short] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/ghidra/Final_Cal_nidaq_dll_decomp_full.txt:286596] local_10 = (short)uVar4;
+- (42x) [read] [/Users/<user>/LC103/software_decompile_2026-02-24/strings/Final_Cal_103FIN.EXE.strings.txt:66150] mark after read (bytes)
+- (42x) [short] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/ghidra/Final_Cal_nidaq_dll_decomp_full.txt:264714] sVar2 = FUN_21129b00(CONCAT22((short)((uint)&local_10 >> 0x10),param_1),*local_1c,
+- (42x) [short] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/ghidra/Final_Cal_nidaq_dll_decomp_full.txt:68741] sVar4 = (short)param_2;
+- (42x) [short] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/ghidra/Final_Cal_nidaq_dll_decomp_full.txt:352171] sVar4 = *(short *)(*(int *)(puVar26 + 3) + (int)local_c * 2);
+- (42x) [short] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/ghidra/Final_Cal_nidaq_dll_decomp_full.txt:61394] sVar6 = (short)param_1;
+- (42x) [short] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/ghidra/Final_Cal_nidaq_dll_decomp_full.txt:96522] short local_c [2];
+- (42x) [switch] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/ghidra/Final_Cal_nidaq_dll_decomp_full.txt:78678] switch(param_2 & 0xffff) {
+- (40x) [short] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/ghidra/Final_Cal_nidaq_dll_decomp_full.txt:14256] daqDevice *this,short param_1,short param_2,short param_3,short param_4,short param_5,
+- (40x) [short] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/ghidra/Final_Cal_nidaq_dll_decomp_full.txt:51716] if ((short)param_5 != 0) {
+- (40x) [short] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/ghidra/Final_Cal_nidaq_dll_decomp_full.txt:74433] if ((short)param_9 == 0) {
+- (40x) [short] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/ghidra/Final_Cal_nidaq_dll_decomp_full.txt:12064] if ((short)uVar1 != 0) {
+- (40x) [short] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/ghidra/Final_Cal_nidaq_dll_decomp_full.txt:318356] if (0 < (short)local_10) {
+- (40x) [short] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/ghidra/Final_Cal_nidaq_dll_decomp_full.txt:258425] if (0 < (short)local_c) {
+- (40x) [short] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/ghidra/Final_Cal_nidaq_dll_decomp_full.txt:58607] sVar2 = (short)param_1;
+- (40x) [short] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/ghidra/Final_Cal_nidaq_dll_decomp_full.txt:58807] sVar5 = (short)param_1;
+- (40x) [short] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/ghidra/Final_Cal_nidaq_dll_decomp_full.txt:76622] short *local_10;
+- (39x) [connect] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/wizard_prompts_cleaned.txt:706] BBBNow connect the red lead to the
+- (38x) [open] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/wizard_prompts_cleaned.txt:397] Can't Open Device
+- (38x) [short] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/ghidra/Final_Cal_nidaq_dll_decomp_full.txt:85339] if ((short)local_30 != 0) {
+- (38x) [short] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/ghidra/Final_Cal_nidaq_dll_decomp_full.txt:238679] if ((short)local_34 != 0) {
+- (38x) [short] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/ghidra/Final_Cal_nidaq_dll_decomp_full.txt:78963] psVar7 = (short *)0x0;
+- (38x) [short] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/ghidra/Final_Cal_nidaq_dll_decomp_full.txt:55228] sVar11 = (short)param_2;
+- (38x) [short] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/ghidra/Final_Cal_nidaq_dll_decomp_full.txt:53106] sVar6 = (short)param_2;
+- (38x) [short] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/ghidra/Final_Cal_nidaq_dll_decomp_full.txt:59240] short local_14 [2];
+- (38x) [switch] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/ghidra/Final_Cal_nidaq_dll_decomp_full.txt:195754] switch(param_6) {
+- (37x) [open] [/Users/<user>/LC103/software_decompile_2026-02-24/strings/Final_Cal_103FIN.EXE.strings.txt:18174] File Already Open
+- (37x) [open] [/Users/<user>/LC103/software_decompile_2026-02-24/strings/Final_Cal_103FIN.EXE.strings.txt:18180] Too Many Files Open
+- (36x) [short] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/ghidra/Final_Cal_nidaq_dll_decomp_full.txt:91025] FUN_21185130(*(undefined4 *)(param_2 + 0xc),6,(int)*(short *)(param_2 + 0x421));
+- (36x) [short] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/ghidra/Final_Cal_nidaq_dll_decomp_full.txt:271617] if ((param_2 < 1) || (*(short *)(local_14 + 0x10) < param_2)) {
+- (36x) [short] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/ghidra/Final_Cal_nidaq_dll_decomp_full.txt:267645] if ((param_2 < 1) || (*(short *)(local_18 + 0x10) < param_2)) {
+- (36x) [short] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/ghidra/Final_Cal_nidaq_dll_decomp_full.txt:32564] if ((short)local_28 == 0) {
+- (36x) [short] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/ghidra/Final_Cal_nidaq_dll_decomp_full.txt:51949] if ((short)param_2 != 2) {
+- (36x) [short] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/ghidra/Final_Cal_nidaq_dll_decomp_full.txt:86284] if ((short)param_7 == 0) {
+- (36x) [short] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/ghidra/Final_Cal_nidaq_dll_decomp_full.txt:12037] if ((short)uVar4 < 0) {
+- (36x) [short] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/ghidra/Final_Cal_nidaq_dll_decomp_full.txt:82853] if ((short)uVar5 < 0) {
+- (36x) [short] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/ghidra/Final_Cal_nidaq_dll_decomp_full.txt:62670] if ((short)uVar8 != 0) {
+- (36x) [short] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/ghidra/Final_Cal_nidaq_dll_decomp_full.txt:352315] if (*(short *)(*(int *)(puVar26 + 0x13) + (int)local_c * 4) == 0x33) {
+- (36x) [short] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/ghidra/Final_Cal_nidaq_dll_decomp_full.txt:171474] if (0 < (short)param_1) {
+- (36x) [short] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/ghidra/Final_Cal_nidaq_dll_decomp_full.txt:337827] local_50 = local_50 + (short)local_28;
+- (36x) [short] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/ghidra/Final_Cal_nidaq_dll_decomp_full.txt:313828] psVar4 = (short *)FUN_2100a860(param_1,local_70);
+- (36x) [short] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/ghidra/Final_Cal_nidaq_dll_decomp_full.txt:90675] puVar15 = (undefined1 *)(int)(short)local_c;
+- (36x) [short] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/ghidra/Final_Cal_nidaq_dll_decomp_full.txt:340009] sVar3 = (short)uVar15;
+- (36x) [short] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/ghidra/Final_Cal_nidaq_dll_decomp_full.txt:58663] sVar4 = (short)param_1;
+- (36x) [short] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/ghidra/Final_Cal_nidaq_dll_decomp_full.txt:352328] sVar4 = FUN_2117e7b3(CONCAT22((short)((uint)(iVar12 * 0x2a3) >> 0x10),*puVar26),
+- (35x) [connect] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/wizard_prompts_cleaned.txt:720] Inductance Decade Box (L Terminal)BNow connect the red lead to the
+- (34x) [set] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/wizard_prompts_cleaned.txt:610] Set Serial Number
+- (34x) [short] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/ghidra/Final_Cal_nidaq_dll_decomp_full.txt:52415] if ((short)local_18 == 0) {
+- (34x) [short] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/ghidra/Final_Cal_nidaq_dll_decomp_full.txt:86462] if ((short)param_7 == 1) {
+- (34x) [switch] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/ghidra/Final_Cal_nidaq_dll_decomp_full.txt:170353] switch(local_18) {
+- (32x) [read] [/Users/<user>/LC103/software_decompile_2026-02-24/strings/Final_Cal_103FIN.EXE.strings.txt:17712] Instr Read Model Code (GPIB-VXI).vi
+- (32x) [short] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/ghidra/Final_Cal_nidaq_dll_decomp_full.txt:155149] if (((short)param_2 != 1) && ((short)param_2 != 2)) {
+- (32x) [short] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/ghidra/Final_Cal_nidaq_dll_decomp_full.txt:52203] if ((*(short *)(iVar2 + 0x10) == 0x21) &&
+- (32x) [short] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/ghidra/Final_Cal_nidaq_dll_decomp_full.txt:57928] if ((short)param_4 == 0) {
+- (32x) [short] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/ghidra/Final_Cal_nidaq_dll_decomp_full.txt:76225] if ((short)param_6 == 0) {
+- (32x) [short] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/ghidra/Final_Cal_nidaq_dll_decomp_full.txt:78566] if ((short)uVar6 == 0) {
+- (32x) [short] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/ghidra/Final_Cal_nidaq_dll_decomp_full.txt:297341] puVar8 = (short)(*puVar7 >> 0x10);
+- (32x) [short] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/ghidra/Final_Cal_nidaq_dll_decomp_full.txt:53284] return (int)(short)local_10;
+- (32x) [short] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/ghidra/Final_Cal_nidaq_dll_decomp_full.txt:306342] sVar3 = **(short **)(puVar2 + 6);
+- (32x) [short] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/ghidra/Final_Cal_nidaq_dll_decomp_full.txt:579] short *)(param_1 + 0xaf8) = *(short *)(param_1 + 0xaf8) + -1,
+- (32x) [short] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/ghidra/Final_Cal_nidaq_dll_decomp_full.txt:580] short *)(param_1 + 0xaf8) == 0)) {
+- (32x) [short] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/ghidra/Final_Cal_nidaq_dll_decomp_full.txt:96523] short local_8 [2];
+- (31x) [short] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/wizard_prompts_cleaned.txt:716] Inductance Decade Box (H Terminal)=Short the UUT leads to the
+- (31x) [read] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/wizard_prompts_cleaned.txt:1026] start of read offset (chars.:0 ),@
+- (30x) [short] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/ghidra/Final_Cal_nidaq_dll_decomp_full.txt:339584] bVar19 = *(short *)(*(int *)(puVar14 + 7) + iVar9 * 2) == 0;
+- (30x) [short] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/ghidra/Final_Cal_nidaq_dll_decomp_full.txt:353433] if ((param_4 == 0) && (iVar11 = 0, 0 < (short)local_34)) {
+- (30x) [short] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/ghidra/Final_Cal_nidaq_dll_decomp_full.txt:67997] if ((short)param_2 != 1) {
+- (30x) [short] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/ghidra/Final_Cal_nidaq_dll_decomp_full.txt:353799] if (*(short *)(*(int *)(puVar26 + 0x13) + (int)local_c * 4) != 0x33) goto LAB_211d0f61;
+- (30x) [short] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/ghidra/Final_Cal_nidaq_dll_decomp_full.txt:85358] param_11._0_2_ = *(short *)(iVar16 + 0x10e);
+- (30x) [short] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/ghidra/Final_Cal_nidaq_dll_decomp_full.txt:52188] short *)(iVar2 + 0xaf8) = *(short *)(iVar2 + 0xaf8) + 1;
+- (30x) [short] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/ghidra/Final_Cal_nidaq_dll_decomp_full.txt:157988] short param_6,short param_7)
+- (30x) [write] [/Users/<user>/LC103/software_decompile_2026-02-24/strings/Final_Cal_103FIN.EXE.strings.txt:27428] write buffer ("")<@P
+- (28x) [short] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/ghidra/Final_Cal_nidaq_dll_decomp_full.txt:289070] CONCAT22((short)((uint)iVar2 >> 0x10),local_1c),local_404,0,
+- (28x) [short] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/ghidra/Final_Cal_nidaq_dll_decomp_full.txt:67592] FUN_21185130(*(undefined4 *)(param_1 + 0xc),4,(int)(short)uVar16);
+- (28x) [set] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/wizard_prompts_cleaned.txt:609] Set Calibration Date
+- (28x) [short] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/ghidra/Final_Cal_nidaq_dll_decomp_full.txt:242456] daqDevice *this,short param_1,char *param_2,long param_3,long param_4,long param_5,
+- (28x) [short] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/ghidra/Final_Cal_nidaq_dll_decomp_full.txt:239242] daqDevice *this,short param_1,short param_2,short param_3,short param_4)
+- (28x) [short] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/ghidra/Final_Cal_nidaq_dll_decomp_full.txt:68958] else if ((short)param_2 == 1) {
+- (28x) [short] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/ghidra/Final_Cal_nidaq_dll_decomp_full.txt:73301] iVar4 = (int)(short)param_1;
+- (28x) [short] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/ghidra/Final_Cal_nidaq_dll_decomp_full.txt:88422] iVar7 = (int)(short)param_1;
+- (28x) [short] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/ghidra/Final_Cal_nidaq_dll_decomp_full.txt:173743] if (((short)param_1 < 1) || (2 < (short)param_1)) {
+- (28x) [short] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/ghidra/Final_Cal_nidaq_dll_decomp_full.txt:159500] if (((short)param_2 < 0) || (7 < (short)param_2)) {
+- (28x) [short] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/ghidra/Final_Cal_nidaq_dll_decomp_full.txt:202988] if ((*(short *)(in_ECX + 0x2c) != 0x140) && (*(short *)(in_ECX + 0x2c) != 0x141)) {
+- (28x) [short] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/ghidra/Final_Cal_nidaq_dll_decomp_full.txt:567] if ((*(short *)(param_1 + 0x10) == 0x21) && (*(short *)(param_1 + 0xaf8) == 0)) {
+- (28x) [short] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/ghidra/Final_Cal_nidaq_dll_decomp_full.txt:270545] if ((param_2 < 1) || (*(short *)(local_10 + 0x10) < param_2)) {
+- (28x) [short] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/ghidra/Final_Cal_nidaq_dll_decomp_full.txt:51995] if ((short)iVar3 < 0) {
+- (28x) [short] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/ghidra/Final_Cal_nidaq_dll_decomp_full.txt:91080] if ((short)param_4 == 1) {
+- (28x) [short] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/ghidra/Final_Cal_nidaq_dll_decomp_full.txt:99686] if ((short)uVar1 < 0) {
+- (28x) [short] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/ghidra/Final_Cal_nidaq_dll_decomp_full.txt:609] if (-1 < (short)uVar6) {
+- (28x) [short] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/ghidra/Final_Cal_nidaq_dll_decomp_full.txt:237675] if (psVar4 == (short *)0x0) {
+- (28x) [open] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/notes/wizard_prompts_cleaned.txt:454] refnum is the reference number of the open file.
+- (28x) [short] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/ghidra/Final_Cal_nidaq_dll_decomp_full.txt:52000] return (int)(short)iVar3;
+- (28x) [short] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/ghidra/Final_Cal_nidaq_dll_decomp_full.txt:86994] sVar2 = (short)param_3;
+- (28x) [short] [/Users/<user>/LC103/2026-02-24_full_decompile_run2/ghidra/Final_Cal_nidaq_dll_decomp_full.txt:57335] sVar3 = (short)uVar5;

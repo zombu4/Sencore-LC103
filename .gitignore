@@ -1,0 +1,5 @@
+.DS_Store
+
+# local temp directories
+tmp/
+**/tmp/

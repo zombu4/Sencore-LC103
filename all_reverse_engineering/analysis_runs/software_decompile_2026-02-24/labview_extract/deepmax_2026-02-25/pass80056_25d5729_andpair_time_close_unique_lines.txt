@@ -1,0 +1,14 @@
+48196:165404 If you check this box, you will not be prompted for a comment on the rest of the VIs in this hierarchy that are being closed at this time, even if they have one of the prompt for comment options set.
+100603:4a384e lhfile size is the size of the file in bytes at the time the file is closed; the value is zero otherwise.
+100819:4a703b file size is the size of the file in bytes at the time the file is closed; the value is zero otherwise.
+258974:21b0a2 lhfile size is the size of the file in bytes at the time the file is closed; the value is zero otherwise.
+259190:21e88f file size is the size of the file in bytes at the time the file is closed; the value is zero otherwise.
+259354:21fce6 file size is the size of the file in bytes at the time the file is closed; the value is zero otherwise.
+372942:19b38b file size is the size of the file in bytes at the time the file is closed; the value is zero otherwise.
+372949:19b9c0 lhfile size is the size of the file in bytes at the time the file is closed; the value is zero otherwise.
+404039:3a4b4e file size is the size of the file in bytes at the time the file is closed; the value is zero otherwise.
+505198:1fa17e file size is the size of the file in bytes at the time the file is closed; the value is zero otherwise.
+505290:1fbc1f hfile size is the size of the file in bytes at the time the file is closed; the value is zero otherwise.
+527376:3b379a file size is the size of the file in bytes at the time the file is closed; the value is zero otherwise.
+596775:f49fa file size is the size of the file in bytes at the time the file is closed; the value is zero otherwise.
+607482:1a69de file size is the size of the file in bytes at the time the file is closed; the value is zero otherwise.

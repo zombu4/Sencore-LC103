@@ -1,0 +1,3 @@
+48183:164c08 This ring displays the currently selected part.  The size and position of the current part are displayed below.  You can select a different part by clicking on the increment and decrement arrows, or by clicking on the part.
+48184:164cec This is the position of the top of the currently selected part (shown in the parts ring).  You can change the position by changing this number, or by moving the part.
+48185:164d98 This is the position of the left side of the currently selected part (shown in the parts ring).  You can change the position by changing this number, or by moving the part.

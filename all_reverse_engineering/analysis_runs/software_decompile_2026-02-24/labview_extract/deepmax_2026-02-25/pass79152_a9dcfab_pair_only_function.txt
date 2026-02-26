@@ -1,0 +1,29 @@
+52516:1bdd78 A wire must be connected to one and only one data source, such as a control's terminal or a function output. This wire is not connected to any source. Find the source of this data and make sure it is a control (not indicator) or an output (not input).
+52525:1be595 A wire can be connected to only one data source, such as a control's terminal or a function output. This wire is connected to more than one source. Make sure that all connections except one are to indicators (not controls) or inputs (not outputs). 
+52993:1caf99 pattern is the match pattern specification to display only certain types of files or directories (or folders). See the description of the File Dialog function for more information.
+54010:1dbe59 pattern is the match pattern specification to display only certain types of files or directories.  See the description of the File Dialog function for more information.
+99474:491285 pattern is the match pattern specification to display only certain types of files or directories (or folders). See the description of the File Dialog function for more information.
+100020:49a32d pattern is the match pattern specification to display only certain types of files or directories.  See the description of the File Dialog function for more information.
+223250:9bc5 pattern is the match pattern specification to display only certain types of files or directories (or folders). See the description of the File Dialog function for more information.
+224267:1aa85 pattern is the match pattern specification to display only certain types of files or directories.  See the description of the File Dialog function for more information.
+224503:1d791 pattern is the match pattern specification to display only certain types of files or directories.  See the description of the File Dialog function for more information.
+257804:207bb1 pattern is the match pattern specification to display only certain types of files or directories (or folders). See the description of the File Dialog function for more information.
+258350:210c59 pattern is the match pattern specification to display only certain types of files or directories.  See the description of the File Dialog function for more information.
+258533:2129e3 pattern is the match pattern specification to display only certain types of files or directories.  See the description of the File Dialog function for more information.
+374020:1ad712 pattern is the match pattern specification to display only certain types of files or directories.  See the description of the File Dialog function for more information.
+374030:1ade9d pattern is the match pattern specification to display only certain types of files or directories (or folders). See the description of the File Dialog function for more information.
+394250:30c9c5 pattern is the match pattern specification to display only certain types of files or directories.  See the description of the File Dialog function for more information.
+404026:3a4063 pattern is the match pattern specification to display only certain types of files or directories.  See the description of the File Dialog function for more information.
+406186:3cbc95 pattern is the match pattern specification to display only certain types of files or directories.  See the description of the File Dialog function for more information.
+406196:3cc435 pattern is the match pattern specification to display only certain types of files or directories (or folders). See the description of the File Dialog function for more information.
+505866:207e07 pattern is the match pattern specification to display only certain types of files or directories.  See the description of the File Dialog function for more information.
+506075:20a5fe pattern is the match pattern specification to display only certain types of files or directories (or folders). See the description of the File Dialog function for more information.
+520842:33c2bd pattern is the match pattern specification to display only certain types of files or directories.  See the description of the File Dialog function for more information.
+527363:3b2caf pattern is the match pattern specification to display only certain types of files or directories.  See the description of the File Dialog function for more information.
+528200:3c83fc pattern is the match pattern specification to display only certain types of files or directories.  See the description of the File Dialog function for more information.
+528592:3cc325 pattern is the match pattern specification to display only certain types of files or directories (or folders). See the description of the File Dialog function for more information.
+595376:d5635 pattern is the match pattern specification to display only certain types of files or directories.  See the description of the File Dialog function for more information.
+595865:e2618 pattern is the match pattern specification to display only certain types of files or directories.  See the description of the File Dialog function for more information.
+596257:e6541 pattern is the match pattern specification to display only certain types of files or directories (or folders). See the description of the File Dialog function for more information.
+596762:f3f0f pattern is the match pattern specification to display only certain types of files or directories.  See the description of the File Dialog function for more information.
+607062:19f877 pattern is the match pattern specification to display only certain types of files or directories.  See the description of the File Dialog function for more information.

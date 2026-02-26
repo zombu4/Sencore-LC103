@@ -1,0 +1,200 @@
+102363:4c4bc6 user-defined codes. The error handler has tables of error codes and descriptions for all LabVIEW I/O operations (file, GPIB, DAQ, etc.). You can augment the tables with the user-defined arrays. Codes from 5000 to 9999 are reserved for user assignments.
+102467:4cd9fe GPIB EADR: GPIB Controller not addressed correctly.ALabVIEW: End of file.
+102468:4cda4a GPIB EARG: Invalid argument or arguments.bLabVIEW: File already open.
+102469:4cda92 GPIB ESAC: Command requries GPIB Controller to be System Controller.FLabVIEW: Generic file I/O error.
+102470:4cdafa GPIB: EABO: I/O operation aborted.9LabVIEW: File not found.
+102471:4cdb39 GPIB ENEB: Non-existent board.ILabVIEW: File permission error.
+102472:4cdb7a GPIB EDMA: DMA hardware error detected.=LabVIEW: Disk full.
+102473:4cdbb8 GPIB EBTO: DMA hardware uP bus timeout.QLabVIEW: Duplicate path.
+102474:4cdbfb GPIB EOIP: New I/O attempted with old I/O in progress.9LabVIEW: Too many files open.
+102476:4cdc93 GPIB EFSO: File system operation error.PLabVIEW: Resource file not found.
+102477:4cdcdf GPIB EOWN: Sharable board exclusively owned.:LabVIEW: Cannot add resource.
+102478:4cdd2c GPIB EBUS: GPIB bus error.JLabVIEW: Resource not found.
+102479:4cdd66 GPIB ESTB: Serial poll byte queue overflow.4LabVIEW: Image not found.
+102480:4cddae GPIB ESRG: SRQ stuck on.?LabVIEW: Image memory error.
+102485:4cde95 GPIB ETAB: Table error.$LabVIEW: Configuration parse error.%LabVIEW: Configuration memory error.#LabVIEW: Bad external code format.#LabVIEW: Bad external code offset.$LabVIEW: External code not present.
+102490:4cdfe7 GPIB NADDR: No GPIB address input.CLabVIEW: Print driver error.
+102491:4ce029 GPIB NSTRG: No string input (write).QLabVIEW: Operating system error during print.
+102492:4ce07e GPIB NCNT: No count input (read).$LabVIEW: Memory error during print.
+102497:4ce19c GPIB EMOM: Out of memory (MacBus read or write).VLabVIEW: Device call aborted.
+102535:4d0216 user-defined codes. The error handler has tables of error codes and descriptions for all LabVIEW I/O operations (file, GPIB, DAQ, etc.). You can augment the tables with the user-defined arrays. Codes from 5000 to 9999 are reserved for user assignments.
+260796:23d79e user-defined codes. The error handler has tables of error codes and descriptions for all LabVIEW I/O operations (file, GPIB, DAQ, etc.). You can augment the tables with the user-defined arrays. Codes from 5000 to 9999 are reserved for user assignments.
+260900:2465d6 GPIB EADR: GPIB Controller not addressed correctly.ALabVIEW: End of file.
+260901:246622 GPIB EARG: Invalid argument or arguments.bLabVIEW: File already open.
+260902:24666a GPIB ESAC: Command requries GPIB Controller to be System Controller.FLabVIEW: Generic file I/O error.
+260903:2466d2 GPIB: EABO: I/O operation aborted.9LabVIEW: File not found.
+260904:246711 GPIB ENEB: Non-existent board.ILabVIEW: File permission error.
+260905:246752 GPIB EDMA: DMA hardware error detected.=LabVIEW: Disk full.
+260906:246790 GPIB EBTO: DMA hardware uP bus timeout.QLabVIEW: Duplicate path.
+260907:2467d3 GPIB EOIP: New I/O attempted with old I/O in progress.9LabVIEW: Too many files open.
+260909:24686b GPIB EFSO: File system operation error.PLabVIEW: Resource file not found.
+260910:2468b7 GPIB EOWN: Sharable board exclusively owned.:LabVIEW: Cannot add resource.
+260911:246904 GPIB EBUS: GPIB bus error.JLabVIEW: Resource not found.
+260912:24693e GPIB ESTB: Serial poll byte queue overflow.4LabVIEW: Image not found.
+260913:246986 GPIB ESRG: SRQ stuck on.?LabVIEW: Image memory error.
+260918:246a6d GPIB ETAB: Table error.$LabVIEW: Configuration parse error.%LabVIEW: Configuration memory error.#LabVIEW: Bad external code format.#LabVIEW: Bad external code offset.$LabVIEW: External code not present.
+260923:246bbf GPIB NADDR: No GPIB address input.CLabVIEW: Print driver error.
+260924:246c01 GPIB NSTRG: No string input (write).QLabVIEW: Operating system error during print.
+260925:246c56 GPIB NCNT: No count input (read).$LabVIEW: Memory error during print.
+260930:246d74 GPIB EMOM: Out of memory (MacBus read or write).VLabVIEW: Device call aborted.
+260968:248dee user-defined codes. The error handler has tables of error codes and descriptions for all LabVIEW I/O operations (file, GPIB, DAQ, etc.). You can augment the tables with the user-defined arrays. Codes from 5000 to 9999 are reserved for user assignments.
+314804:15b3ad user-defined codes. The error handler has tables of error codes and descriptions for all LabVIEW I/O operations (file, GPIB, DAQ, etc.). You can augment the tables with the user-defined arrays. Codes from 5000 to 9999 are reserved for user assignments.
+314908:1641a7 GPIB EADR: GPIB Controller not addressed correctly.ALabVIEW: End of file.
+314909:1641f3 GPIB EARG: Invalid argument or arguments.bLabVIEW: File already open.
+314910:16423b GPIB ESAC: Command requries GPIB Controller to be System Controller.FLabVIEW: Generic file I/O error.
+314911:1642a3 GPIB: EABO: I/O operation aborted.9LabVIEW: File not found.
+314912:1642e2 GPIB ENEB: Non-existent board.ILabVIEW: File permission error.
+314913:164323 GPIB EDMA: DMA hardware error detected.=LabVIEW: Disk full.
+314914:164361 GPIB EBTO: DMA hardware uP bus timeout.QLabVIEW: Duplicate path.
+314915:1643a4 GPIB EOIP: New I/O attempted with old I/O in progress.9LabVIEW: Too many files open.
+314917:16443c GPIB EFSO: File system operation error.PLabVIEW: Resource file not found.
+314918:164488 GPIB EOWN: Sharable board exclusively owned.:LabVIEW: Cannot add resource.
+314919:1644d5 GPIB EBUS: GPIB bus error.JLabVIEW: Resource not found.
+314920:16450f GPIB ESTB: Serial poll byte queue overflow.4LabVIEW: Image not found.
+314921:164557 GPIB ESRG: SRQ stuck on.?LabVIEW: Image memory error.
+314926:16463e GPIB ETAB: Table error.$LabVIEW: Configuration parse error.%LabVIEW: Configuration memory error.#LabVIEW: Bad external code format.#LabVIEW: Bad external code offset.$LabVIEW: External code not present.
+314931:164790 GPIB NADDR: No GPIB address input.CLabVIEW: Print driver error.
+314932:1647d2 GPIB NSTRG: No string input (write).QLabVIEW: Operating system error during print.
+314933:164827 GPIB NCNT: No count input (read).$LabVIEW: Memory error during print.
+314938:164945 GPIB EMOM: Out of memory (MacBus read or write).VLabVIEW: Device call aborted.
+314976:1669bf user-defined codes. The error handler has tables of error codes and descriptions for all LabVIEW I/O operations (file, GPIB, DAQ, etc.). You can augment the tables with the user-defined arrays. Codes from 5000 to 9999 are reserved for user assignments.
+341280:fa97d user-defined codes. The error handler has tables of error codes and descriptions for all LabVIEW I/O operations (file, GPIB, DAQ, etc.). You can augment the tables with the user-defined arrays. Codes from 5000 to 9999 are reserved for user assignments.
+341385:103777 GPIB EADR: GPIB Controller not addressed correctly.ALabVIEW: End of file.
+341386:1037c3 GPIB EARG: Invalid argument or arguments.bLabVIEW: File already open.
+341387:10380b GPIB ESAC: Command requries GPIB Controller to be System Controller.FLabVIEW: Generic file I/O error.
+341388:103873 GPIB: EABO: I/O operation aborted.9LabVIEW: File not found.
+341389:1038b2 GPIB ENEB: Non-existent board.ILabVIEW: File permission error.
+341390:1038f3 GPIB EDMA: DMA hardware error detected.=LabVIEW: Disk full.
+341391:103931 GPIB EBTO: DMA hardware uP bus timeout.QLabVIEW: Duplicate path.
+341392:103974 GPIB EOIP: New I/O attempted with old I/O in progress.9LabVIEW: Too many files open.
+341394:103a0c GPIB EFSO: File system operation error.PLabVIEW: Resource file not found.
+341395:103a58 GPIB EOWN: Sharable board exclusively owned.:LabVIEW: Cannot add resource.
+341396:103aa5 GPIB EBUS: GPIB bus error.JLabVIEW: Resource not found.
+341397:103adf GPIB ESTB: Serial poll byte queue overflow.4LabVIEW: Image not found.
+341398:103b27 GPIB ESRG: SRQ stuck on.?LabVIEW: Image memory error.
+341403:103c0e GPIB ETAB: Table error.$LabVIEW: Configuration parse error.%LabVIEW: Configuration memory error.#LabVIEW: Bad external code format.#LabVIEW: Bad external code offset.$LabVIEW: External code not present.
+341408:103d60 GPIB NADDR: No GPIB address input.CLabVIEW: Print driver error.
+341409:103da2 GPIB NSTRG: No string input (write).QLabVIEW: Operating system error during print.
+341410:103df7 GPIB NCNT: No count input (read).$LabVIEW: Memory error during print.
+341415:103f15 GPIB EMOM: Out of memory (MacBus read or write).VLabVIEW: Device call aborted.
+341453:105f8f user-defined codes. The error handler has tables of error codes and descriptions for all LabVIEW I/O operations (file, GPIB, DAQ, etc.). You can augment the tables with the user-defined arrays. Codes from 5000 to 9999 are reserved for user assignments.
+371338:17fff8 GPIB EADR: GPIB Controller not addressed correctly.ALabVIEW: End of file.
+371339:180044 GPIB EARG: Invalid argument or arguments.bLabVIEW: File already open.
+371340:18008c GPIB ESAC: Command requries GPIB Controller to be System Controller.FLabVIEW: Generic file I/O error.
+371341:1800f4 GPIB: EABO: I/O operation aborted.9LabVIEW: File not found.
+371342:180133 GPIB ENEB: Non-existent board.ILabVIEW: File permission error.
+371343:180174 GPIB EDMA: DMA hardware error detected.=LabVIEW: Disk full.
+371344:1801b2 GPIB EBTO: DMA hardware uP bus timeout.QLabVIEW: Duplicate path.
+371345:1801f5 GPIB EOIP: New I/O attempted with old I/O in progress.9LabVIEW: Too many files open.
+371347:18028d GPIB EFSO: File system operation error.PLabVIEW: Resource file not found.
+371348:1802d9 GPIB EOWN: Sharable board exclusively owned.:LabVIEW: Cannot add resource.
+371349:180326 GPIB EBUS: GPIB bus error.JLabVIEW: Resource not found.
+371350:180360 GPIB ESTB: Serial poll byte queue overflow.4LabVIEW: Image not found.
+371351:1803a8 GPIB ESRG: SRQ stuck on.?LabVIEW: Image memory error.
+371356:18048f GPIB ETAB: Table error.$LabVIEW: Configuration parse error.%LabVIEW: Configuration memory error.#LabVIEW: Bad external code format.#LabVIEW: Bad external code offset.$LabVIEW: External code not present.
+371361:1805e1 GPIB NADDR: No GPIB address input.CLabVIEW: Print driver error.
+371362:180623 GPIB NSTRG: No string input (write).QLabVIEW: Operating system error during print.
+371363:180678 GPIB NCNT: No count input (read).$LabVIEW: Memory error during print.
+371368:180796 GPIB EMOM: Out of memory (MacBus read or write).VLabVIEW: Device call aborted.
+371406:182816 user-defined codes. The error handler has tables of error codes and descriptions for all LabVIEW I/O operations (file, GPIB, DAQ, etc.). You can augment the tables with the user-defined arrays. Codes from 5000 to 9999 are reserved for user assignments.
+371548:185798 user-defined codes. The error handler has tables of error codes and descriptions for all LabVIEW I/O operations (file, GPIB, DAQ, etc.). You can augment the tables with the user-defined arrays. Codes from 5000 to 9999 are reserved for user assignments.
+434039:f3c1b GPIB EADR: GPIB Controller not addressed correctly.ALabVIEW: End of file.
+434040:f3c67 GPIB EARG: Invalid argument or arguments.bLabVIEW: File already open.
+434041:f3caf GPIB ESAC: Command requries GPIB Controller to be System Controller.FLabVIEW: Generic file I/O error.
+434042:f3d17 GPIB: EABO: I/O operation aborted.9LabVIEW: File not found.
+434043:f3d56 GPIB ENEB: Non-existent board.ILabVIEW: File permission error.
+434044:f3d97 GPIB EDMA: DMA hardware error detected.=LabVIEW: Disk full.
+434045:f3dd5 GPIB EBTO: DMA hardware uP bus timeout.QLabVIEW: Duplicate path.
+434046:f3e18 GPIB EOIP: New I/O attempted with old I/O in progress.9LabVIEW: Too many files open.
+434048:f3eb0 GPIB EFSO: File system operation error.PLabVIEW: Resource file not found.
+434049:f3efc GPIB EOWN: Sharable board exclusively owned.:LabVIEW: Cannot add resource.
+434050:f3f49 GPIB EBUS: GPIB bus error.JLabVIEW: Resource not found.
+434051:f3f83 GPIB ESTB: Serial poll byte queue overflow.4LabVIEW: Image not found.
+434052:f3fcb GPIB ESRG: SRQ stuck on.?LabVIEW: Image memory error.
+434057:f40b2 GPIB ETAB: Table error.$LabVIEW: Configuration parse error.%LabVIEW: Configuration memory error.#LabVIEW: Bad external code format.#LabVIEW: Bad external code offset.$LabVIEW: External code not present.
+434062:f4204 GPIB NADDR: No GPIB address input.CLabVIEW: Print driver error.
+434063:f4246 GPIB NSTRG: No string input (write).QLabVIEW: Operating system error during print.
+434064:f429b GPIB NCNT: No count input (read).$LabVIEW: Memory error during print.
+434069:f43b9 GPIB EMOM: Out of memory (MacBus read or write).VLabVIEW: Device call aborted.
+434107:f6439 user-defined codes. The error handler has tables of error codes and descriptions for all LabVIEW I/O operations (file, GPIB, DAQ, etc.). You can augment the tables with the user-defined arrays. Codes from 5000 to 9999 are reserved for user assignments.
+434248:f93bb user-defined codes. The error handler has tables of error codes and descriptions for all LabVIEW I/O operations (file, GPIB, DAQ, etc.). You can augment the tables with the user-defined arrays. Codes from 5000 to 9999 are reserved for user assignments.
+470018:10319c GPIB EADR: GPIB Controller not addressed correctly.ALabVIEW: End of file.
+470019:1031e8 GPIB EARG: Invalid argument or arguments.bLabVIEW: File already open.
+470020:103230 GPIB ESAC: Command requries GPIB Controller to be System Controller.FLabVIEW: Generic file I/O error.
+470021:103298 GPIB: EABO: I/O operation aborted.9LabVIEW: File not found.
+470022:1032d7 GPIB ENEB: Non-existent board.ILabVIEW: File permission error.
+470023:103318 GPIB EDMA: DMA hardware error detected.=LabVIEW: Disk full.
+470024:103356 GPIB EBTO: DMA hardware uP bus timeout.QLabVIEW: Duplicate path.
+470025:103399 GPIB EOIP: New I/O attempted with old I/O in progress.9LabVIEW: Too many files open.
+470027:103431 GPIB EFSO: File system operation error.PLabVIEW: Resource file not found.
+470028:10347d GPIB EOWN: Sharable board exclusively owned.:LabVIEW: Cannot add resource.
+470029:1034ca GPIB EBUS: GPIB bus error.JLabVIEW: Resource not found.
+470030:103504 GPIB ESTB: Serial poll byte queue overflow.4LabVIEW: Image not found.
+470031:10354c GPIB ESRG: SRQ stuck on.?LabVIEW: Image memory error.
+470036:103633 GPIB ETAB: Table error.$LabVIEW: Configuration parse error.%LabVIEW: Configuration memory error.#LabVIEW: Bad external code format.#LabVIEW: Bad external code offset.$LabVIEW: External code not present.
+470041:103785 GPIB NADDR: No GPIB address input.CLabVIEW: Print driver error.
+470042:1037c7 GPIB NSTRG: No string input (write).QLabVIEW: Operating system error during print.
+470043:10381c GPIB NCNT: No count input (read).$LabVIEW: Memory error during print.
+470048:10393a GPIB EMOM: Out of memory (MacBus read or write).VLabVIEW: Device call aborted.
+470086:1059ba user-defined codes. The error handler has tables of error codes and descriptions for all LabVIEW I/O operations (file, GPIB, DAQ, etc.). You can augment the tables with the user-defined arrays. Codes from 5000 to 9999 are reserved for user assignments.
+470226:10893c user-defined codes. The error handler has tables of error codes and descriptions for all LabVIEW I/O operations (file, GPIB, DAQ, etc.). You can augment the tables with the user-defined arrays. Codes from 5000 to 9999 are reserved for user assignments.
+503848:1e0f99 GPIB EADR: GPIB Controller not addressed correctly.ALabVIEW: End of file.
+503849:1e0fe5 GPIB EARG: Invalid argument or arguments.bLabVIEW: File already open.
+503850:1e102d GPIB ESAC: Command requries GPIB Controller to be System Controller.FLabVIEW: Generic file I/O error.
+503851:1e1095 GPIB: EABO: I/O operation aborted.9LabVIEW: File not found.
+503852:1e10d4 GPIB ENEB: Non-existent board.ILabVIEW: File permission error.
+503853:1e1115 GPIB EDMA: DMA hardware error detected.=LabVIEW: Disk full.
+503854:1e1153 GPIB EBTO: DMA hardware uP bus timeout.QLabVIEW: Duplicate path.
+503855:1e1196 GPIB EOIP: New I/O attempted with old I/O in progress.9LabVIEW: Too many files open.
+503857:1e122e GPIB EFSO: File system operation error.PLabVIEW: Resource file not found.
+503858:1e127a GPIB EOWN: Sharable board exclusively owned.:LabVIEW: Cannot add resource.
+503859:1e12c7 GPIB EBUS: GPIB bus error.JLabVIEW: Resource not found.
+503860:1e1301 GPIB ESTB: Serial poll byte queue overflow.4LabVIEW: Image not found.
+503861:1e1349 GPIB ESRG: SRQ stuck on.?LabVIEW: Image memory error.
+503866:1e1430 GPIB ETAB: Table error.$LabVIEW: Configuration parse error.%LabVIEW: Configuration memory error.#LabVIEW: Bad external code format.#LabVIEW: Bad external code offset.$LabVIEW: External code not present.
+503871:1e1582 GPIB NADDR: No GPIB address input.CLabVIEW: Print driver error.
+503872:1e15c4 GPIB NSTRG: No string input (write).QLabVIEW: Operating system error during print.
+503873:1e1619 GPIB NCNT: No count input (read).$LabVIEW: Memory error during print.
+503878:1e1737 GPIB EMOM: Out of memory (MacBus read or write).VLabVIEW: Device call aborted.
+503916:1e37b7 user-defined codes. The error handler has tables of error codes and descriptions for all LabVIEW I/O operations (file, GPIB, DAQ, etc.). You can augment the tables with the user-defined arrays. Codes from 5000 to 9999 are reserved for user assignments.
+504133:1e78db user-defined codes. The error handler has tables of error codes and descriptions for all LabVIEW I/O operations (file, GPIB, DAQ, etc.). You can augment the tables with the user-defined arrays. Codes from 5000 to 9999 are reserved for user assignments.
+546414:f2b2b GPIB EADR: GPIB Controller not addressed correctly.ALabVIEW: End of file.
+546415:f2b77 GPIB EARG: Invalid argument or arguments.bLabVIEW: File already open.
+546416:f2bbf GPIB ESAC: Command requries GPIB Controller to be System Controller.FLabVIEW: Generic file I/O error.
+546417:f2c27 GPIB: EABO: I/O operation aborted.9LabVIEW: File not found.
+546418:f2c66 GPIB ENEB: Non-existent board.ILabVIEW: File permission error.
+546419:f2ca7 GPIB EDMA: DMA hardware error detected.=LabVIEW: Disk full.
+546420:f2ce5 GPIB EBTO: DMA hardware uP bus timeout.QLabVIEW: Duplicate path.
+546421:f2d28 GPIB EOIP: New I/O attempted with old I/O in progress.9LabVIEW: Too many files open.
+546423:f2dc0 GPIB EFSO: File system operation error.PLabVIEW: Resource file not found.
+546424:f2e0c GPIB EOWN: Sharable board exclusively owned.:LabVIEW: Cannot add resource.
+546425:f2e59 GPIB EBUS: GPIB bus error.JLabVIEW: Resource not found.
+546426:f2e93 GPIB ESTB: Serial poll byte queue overflow.4LabVIEW: Image not found.
+546427:f2edb GPIB ESRG: SRQ stuck on.?LabVIEW: Image memory error.
+546432:f2fc2 GPIB ETAB: Table error.$LabVIEW: Configuration parse error.%LabVIEW: Configuration memory error.#LabVIEW: Bad external code format.#LabVIEW: Bad external code offset.$LabVIEW: External code not present.
+546437:f3114 GPIB NADDR: No GPIB address input.CLabVIEW: Print driver error.
+546438:f3156 GPIB NSTRG: No string input (write).QLabVIEW: Operating system error during print.
+546439:f31ab GPIB NCNT: No count input (read).$LabVIEW: Memory error during print.
+546444:f32c9 GPIB EMOM: Out of memory (MacBus read or write).VLabVIEW: Device call aborted.
+546482:f5349 user-defined codes. The error handler has tables of error codes and descriptions for all LabVIEW I/O operations (file, GPIB, DAQ, etc.). You can augment the tables with the user-defined arrays. Codes from 5000 to 9999 are reserved for user assignments.
+546623:f82cb user-defined codes. The error handler has tables of error codes and descriptions for all LabVIEW I/O operations (file, GPIB, DAQ, etc.). You can augment the tables with the user-defined arrays. Codes from 5000 to 9999 are reserved for user assignments.
+579267:164e5d GPIB EADR: GPIB Controller not addressed correctly.ALabVIEW: End of file.
+579268:164ea9 GPIB EARG: Invalid argument or arguments.bLabVIEW: File already open.
+579269:164ef1 GPIB ESAC: Command requries GPIB Controller to be System Controller.FLabVIEW: Generic file I/O error.
+579270:164f59 GPIB: EABO: I/O operation aborted.9LabVIEW: File not found.
+579271:164f98 GPIB ENEB: Non-existent board.ILabVIEW: File permission error.
+579272:164fd9 GPIB EDMA: DMA hardware error detected.=LabVIEW: Disk full.
+579273:165017 GPIB EBTO: DMA hardware uP bus timeout.QLabVIEW: Duplicate path.
+579274:16505a GPIB EOIP: New I/O attempted with old I/O in progress.9LabVIEW: Too many files open.
+579276:1650f2 GPIB EFSO: File system operation error.PLabVIEW: Resource file not found.
+579277:16513e GPIB EOWN: Sharable board exclusively owned.:LabVIEW: Cannot add resource.
+579278:16518b GPIB EBUS: GPIB bus error.JLabVIEW: Resource not found.
+579279:1651c5 GPIB ESTB: Serial poll byte queue overflow.4LabVIEW: Image not found.
+579280:16520d GPIB ESRG: SRQ stuck on.?LabVIEW: Image memory error.
+579285:1652f4 GPIB ETAB: Table error.$LabVIEW: Configuration parse error.%LabVIEW: Configuration memory error.#LabVIEW: Bad external code format.#LabVIEW: Bad external code offset.$LabVIEW: External code not present.
+579290:165446 GPIB NADDR: No GPIB address input.CLabVIEW: Print driver error.
+579291:165488 GPIB NSTRG: No string input (write).QLabVIEW: Operating system error during print.
+579292:1654dd GPIB NCNT: No count input (read).$LabVIEW: Memory error during print.
+579297:1655fb GPIB EMOM: Out of memory (MacBus read or write).VLabVIEW: Device call aborted.
+579335:16767b user-defined codes. The error handler has tables of error codes and descriptions for all LabVIEW I/O operations (file, GPIB, DAQ, etc.). You can augment the tables with the user-defined arrays. Codes from 5000 to 9999 are reserved for user assignments.
+579549:16b79f user-defined codes. The error handler has tables of error codes and descriptions for all LabVIEW I/O operations (file, GPIB, DAQ, etc.). You can augment the tables with the user-defined arrays. Codes from 5000 to 9999 are reserved for user assignments.

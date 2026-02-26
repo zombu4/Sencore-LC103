@@ -1,0 +1,6 @@
+46174:1596bd useLocaleDecimalPt
+48290:167228 This options toggles the use of the localized decimal point.  Turning this option off will result the in the U.S. standard of using a period for the decimal point.
+50028:17b040 Use localized decimal point
+50030:17b0a1 Use localized decimal point
+52194:1b9f31 useLocaleDecimalPt
+52513:1bdbd4 If a Boolean control has associated local variables, it may not use Latch mechanical action.  The first local variable to read a Boolean control with Latch action would reset its value to the default.

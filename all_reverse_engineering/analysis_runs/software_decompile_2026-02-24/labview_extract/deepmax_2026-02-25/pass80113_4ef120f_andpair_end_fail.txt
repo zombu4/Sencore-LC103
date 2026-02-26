@@ -1,0 +1,24 @@
+316966:184a86 then send pass/fail message.O
+317702:190805 then send pass/fail message.N
+318368:19aff0 then send pass/fail message.U
+319046:1a6145 then send pass/fail message.N
+319706:1b1a7f then send pass/fail message.W
+321614:1d2407 then send pass/fail message.W
+322364:1dfc5d then send pass/fail message.W
+323353:1efd38 dIf UUT Comm fails, send RS-232
+431573:c79ef then send pass/fail message.W
+445408:1a7075 22dIf UUT Comm fails, send RS-232
+446605:1b8e0a then send pass/fail message.W
+448579:1d9cb9 then send pass/fail message.N
+449325:1e5631 then send pass/fail message.U
+450197:1f1f71 then send pass/fail message.N
+450966:1fcd47 then send pass/fail message.O
+452020:20cd5b then send pass/fail message.W
+544041:c79ef then send pass/fail message.W
+551569:14e140 then send pass/fail message.W
+552238:159350 then send pass/fail message.H
+552765:162b20 then send pass/fail message.U
+553374:16cf30 then send pass/fail message.H
+553959:175fcf then send pass/fail message.H
+554629:1824a6 then send pass/fail message.W
+559801:1deaf0 22dIf UUT Comm fails, send RS-232

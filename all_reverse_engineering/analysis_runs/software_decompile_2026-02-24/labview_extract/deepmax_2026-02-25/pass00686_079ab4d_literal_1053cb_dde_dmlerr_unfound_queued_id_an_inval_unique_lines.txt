@@ -1,0 +1,1 @@
+341446:1053cb DDE DMLERR_UNFOUND_QUEUED_ID: An invalid transaction identifier was passed to a DDEML function. Once the application has returned from an XTYP_XACT_COMPLETE callback, the transaction identifier for that callback is no longer valid.

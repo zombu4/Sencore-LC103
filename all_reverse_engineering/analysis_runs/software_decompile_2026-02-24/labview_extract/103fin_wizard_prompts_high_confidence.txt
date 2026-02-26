@@ -1,0 +1,50 @@
+Software Rev. Check
+Couldn't open the Software Rev. file. Please set the Software Rev. manually on the front panel. Place the floppy disk in the computer NOW.
+Couldn't retrieve the proper Software Rev. number. Please set this manually on the front panel.
+An invalid Software Rev. number was specified. Please fix this after cal fails.
+Last known LC103 Software Rev. is: VER...
+
+Please choose the file containing the capacitance calibration data.
+Please choose the file containing the inductance calibration data.
+
+All (Not Ringer)
+Start Button
+Continue Button
+
+Warning: Choosing 'Calibration Reset'
+Calibration Reset
+
+Current Source Calibration
+Current Source Calibration Passed
+Gain Calibration
+Gain Calibration Failed
+Capacitance Calibration
+ESR Calibration
+ESR Calibration Passed
+Inductance Calibration
+Leakage Voltage Calibration
+Leakage Voltage Test
+Leakage Current Test
+Set Cal Date
+Set Calibration Date
+Calibration Stamp
+Calibration Successful!!
+
+Connect the UUT and/or DVM leads to ...
+Make sure the UUT leads are shorted together.
+Make sure the red UUT lead is not connected.
+Short the UUT leads to the ...
+Short the UUT leads to the Capacitance Decade box (L Terminal).
+Now connect the red lead to the ...
+Now connect the red UUT to the H Terminal of the decade box and set the box to 0.022uF (.0219).
+Switch the cal box to ...
+Press 'Enter' when ready.
+Press 'Enter' when finished.
+
+Something seems to be wrong. Make sure the UUT leads are shorted together.
+Failed Calibration.
+Failed Calibration. Adjusted >10%.
+Failed Calibration. Gain Adjustment >10%.
+Failed Calibration. Offset Adjustment too high.
+
+Lead Zero Short Test/ESR

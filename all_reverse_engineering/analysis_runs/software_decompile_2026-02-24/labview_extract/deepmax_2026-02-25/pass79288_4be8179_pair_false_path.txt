@@ -1,0 +1,3 @@
+46817:15d2dd /ovalFill {false arcguts closepath fill} bdf
+46818:15d30a /ovalClip {false arcguts closepath clip} bdf
+46954:15e30d {false charpath gsave stroke grestore}{show}ifelse

@@ -1,0 +1,604 @@
+0 RSRC
+8 LVINLBVW
+a9 Fluke 8840A.vi
+222 AZo$
+232 LVIN
+237 Fluke 8840A.vi
+258 i386
+268 code
+279 SQRVW
+390 EdQRh
+3a3 ZY_^ZY[]
+3b2 SQRVW
+3d4 E\QRh
+3e7 ZY_^ZY[]
+640 SQRVWP
+6c6 _^ZY[
+6e7 d$=
+774 d$h
+786 d$h
+798 d$h
+7aa d$=
+804 d$f
+91b d$=
+d98 $VSQWR
+fad ZYQR
+fb6 ZYQRh
+1166 QRUh
+1361 ZYQR
+136a ZYQRh
+1520 QRUh
+1773 d$=
+17e0 d$=
+1950 d$=
+1a69 _^ZY[]
+1a76 SQRVW
+1a9b _^ZY[]
+1aa8 SQRVW
+1acd _^ZY[]
+1ada SQRVW
+1ae0 T$ QRP
+1b15 _^ZY[]
+1b22 SQRVWf
+1c4a _^ZY[]
+1c57 SQRVW
+1c6e _^ZY[]
+1c7b SQRVW
+1c85 _^ZY[]
+1c92 SQRVWP
+1caa _^ZY[]
+1d25 SQRVW
+1d2f t$(=
+1dd4 d$ZY
+1dde _^ZY[]
+1deb SQRVW
+1df9 D$ =
+1e62 d$ZY_^ZY[]
+1f20 SQRVW
+1f2a D$ =
+1f93 d$ZY_^ZY[]
+245d SQRVW
+2467 D$ =
+24d0 d$ZY_^ZY[]
+24f3 7QRh
+25f3 7QRh
+26f3 7QRh
+28d4 SQRVW
+28da D$ =
+2943 d$ZY_^ZY[]
+2b25 SQRVW
+2b2b L$ Qh
+2b39 d$=
+2b49 L$ Qh
+2b57 d$=
+2b67 L$ Qh
+2b75 d$=
+2b85 L$ Qh
+2b93 d$=
+2ba3 L$ Qh
+2bb1 d$=
+2bc1 L$ Qh
+2bcf d$=
+2bdf L$ Qh
+2bed d$=
+2bfd L$ Qh
+2c0b d$_^ZY[]
+2c1b SQRVW
+2fcd PTAB
+324c QELM
+3256 QELM
+32e7 d$ZYf
+32f2 _^ZY[]
+32ff SQRVWh
+3311 _^ZY[]
+3319 _^ZY[]
+36a3 Instr
+36a9 instr handle in
+36bd function (Vdc:0)
+36d3 range (auto:0)
+36ed status
+36f9 code
+3707 source
+370f error in (no error)
+3727 trigger mode (cont:0)
+3743 Instr
+3749 instr handle in
+375d measurement
+3773 status
+377f code
+378d source
+3795 error out
+381b trigger mode (cont:0)
+38b1 function (Vdc:0)
+3917 range (auto:0)
+3995 measurement
+39f7 Instr
+39fd instr handle in
+3a13 Instr
+3a23 Instr
+3a33 Instr
+3a43 Instr
+3a7b Instr
+3a81 instr handle in
+3a97 Instr
+3aa7 Instr
+3ab7 Instr
+3ac7 Instr
+3b03 status
+3b0f code
+3b1d source
+3b25 error out
+3c33 status
+3c3f code
+3c4d source
+3c55 error in (no error)
+3dcf measurement
+3de9 status
+3df5 code
+3e03 source
+3e0b error out
+3e1f Instr
+3e25 instr handle in
+3e45 offset past number
+3e5d use system decimal point (T)
+3e9b read buffer
+3eb5 status
+3ec1 code
+3ecf source
+3ed7 error in (no error)
+3eee return count
+3f07 Instr
+3f0d instr handle in
+3f21 byte count (0)
+3f34 return count
+3f53 trigger mode (cont:0)
+3f79 range (auto:0)
+3f99 function (Vdc:0)
+4233 d:\automated\lv51\lvsource\gencode.c
+4258 GenRangeCheck
+426b d:\automated\lv51\lvsource\gencode.c
+4290 GenCopyProcs1
+42a3 d:\automated\lv51\lvsource\gencode.c
+42c8 GenCopyProcs2
+42db d:\automated\lv51\lvsource\gencode.c
+4300 GenCopyProcs3
+4313 d:\automated\lv51\lvsource\gencode.c
+4338 GenDefaultProc
+4452 VIDS
+4457 Fluke 8840A.vi
+447f Oldest compatible LabVIEW.
+44e5 trigger mode (cont:0)
+44ff measurement
+450f range (auto:0)
+4523 function (Vdc:0)
+453b Instr
+4541 instr handle in
+4557 Instr
+455d instr handle in
+4577 status
+4583 code
+4591 source
+4599 error out
+45ad status
+45b9 code
+45c7 source
+45cf error in (no error)
+4604 Measure volts, amps, or ohms.  Select one of 6 functions.  Select range or use auto range.  Select trigger mode.  Slow reading rate is used for accuracy.                                         version a.0
+46dc Continuous Trigger - trig initiated at reading rate                                                                      Single Trigger - one reading only, initiated by ? External Trigger - single trigger initiated from rear  panel    
+47d0 Select measurement function.  
+47f8 (I32) 
+47ff A unique reference to an instrument I/O session.  It identifies which device to communicate with and all configuration information to perform the I/O.  An instr handle is returned from the Instr Open VI or the Initialize VI of an instrument driver.
+48ff -9.99990E9 is reported on overrange error.    
+4938 Range selection has no effect in the mA DC and mA AC functions since all measurements in these functions are made in the 20000 mA range.             If the chosen range is not valid for selected function, the nearest valid range is selected.  
+4a34 (I32) 
+4a3b A unique reference to an instrument I/O session.  It identifies which device to communicate with and all configuration information to perform the I/O.  An instr handle is returned from the Instr Open VI or the Initialize VI of an instrument driver.
+4b3c (cluster) error out:  a cluster containing error information.  If error in indicated an error, error out contains the same error information.  Otherwise, it describes the error status of this VI.  Use the General Error Handler utility VI to check the error at the end of your diagram.  The error out cluster contains the following parameters: 
+4c95      (bool) status: TRUE if an error has occurred.
+4cc9      (i32) code: the error code associated with an error.
+4d03      A value of 0 means no error, a negative value is an
+4d3c      error, and a positive value is a warning.
+4d6c      (string) source:  an indication of where an 
+4d9e      error occurred, usually the name of the VI.
+4dd8 The status boolean is either TRUE (X) for an error, or FALSE (checkmark) for no error or a warning.
+4e3d The pop-up option Explain Error (or Explain Warning) gives more information about the error displayed.
+4eac The source string describes the origin of the error or warning.
+4eed The pop-up option Explain Error (or Explain Warning) gives more information about the error displayed.
+4f5c The code input identifies the error or warning.
+4f8d The pop-up option Explain Error (or Explain Warning) gives more information about the error displayed.
+4ffb f(cluster) error in:  a cluster describing any error conditions prior to this VI's execution.  The default input of this cluster is no error.  If an error has already occurred, this VI does nothing.  The error in cluster contains the following parameters: 
+50fd      (bool) status: TRUE if an error has occurred.
+5130      If status is TRUE, this VI does nothing.
+515f      (i32) code: the error code associated with an error.
+5199      A value of 0 means no error, a negative value is an
+51d2      error, and a positive value is a warning.
+5202      (ABC) source:  an indication of where an 
+5231      error occurred, usually the name of the VI.
+526c The status boolean is either TRUE (X) for an error, or FALSE (checkmark) for no error or a warning.
+52d1 The pop-up option Explain Error (or Explain Warning) gives more information about the error displayed.
+5340 The code input identifies the error or warning.
+5371 The pop-up option Explain Error (or Explain Warning) gives more information about the error displayed.
+53e0 The source string describes the origin of the error or warning.
+5421 The pop-up option Explain Error (or Explain Warning) gives more information about the error displayed.
+548f creading rates: S0 - slow,  S1 - medium,  S2 - fast SRQ mode: Assert SRQ on completion of a reading.
+54fb 3Range codes: R0 - R7 ( see front panel for details)
+5537 4Trigger modes: T0 - T4 (see front panel for details)
+5573 dFunction Codes: F1 - DC Volts, F2 - AC Volts, F3 - 2 wire k
+55b0 , F4 - 4 wire k
+55c0 , F5 - mA DC, F6 - mA AC
+5c6c DTHP
+5d59 trigger mode (cont:0)
+5d81 function (Vdc:0)
+5da5 range (auto:0)
+5dc5 measurement
+5de1 code
+5dfb Instr
+5e01 instr handle in
+5e21 status
+5e3f status
+5e4b code
+5e59 source
+5e61 error out
+5e81 write buffer ("")
+5eab status
+5eb7 code
+5ec5 source
+5ecd error in (no error)
+5ef0 return count
+5f15 source
+5f41 byte count (0)
+5f75 read buffer
+5fa1 use system decimal point (T)
+5fd1 offset past number
+6168 digital multimeter
+61cc trigger mode (cont:0)
+6328 function (Vdc:0)
+6388 measurement
+6430 range (auto:0)
+6490 0.000000E+0
+64fb $4sO
+658d  Copyright 1993 National Instruments Corporation.  ALL RIGHTS RESERVED.
+6624 single trigger
+6684 mA DC
+66dc instr handle in
+673c Instr
+6794 instr handle in
+67f4 Instr
+684c error out
+68a8 status
+68bb "$rO
+694c code
+69f4 source
+6ab4 error in (no error)
+6b18 status
+6bbc code
+6c64 source
+6cc6 D$sO
+6d12 D$(sO
+6d5e D$DsO
+6daa D$TsO
+6e3b /Build command string and 
+6e56 send it to multimeter
+6ebc slow read(S0)
+7073 +Read measurement and 
+708a convert it to numeric
+7245 continuous trigger
+7258 single trigger
+7267 external trigger
+7281 Volts DC
+728a Volts AC
+7293 2-wire ohms
+729f 4-wire ohms
+72ab mA DC
+72b1 mA AC
+72c1 autorange
+72cb 200mV, 200 ohms
+72db 2V, 2 kohms
+72e7 20V, 20 kohms
+72f5 200V, 200 kohms
+7305 1000Vdc, 700 Vac, 2 Mohms
+731f 20 Mohms
+741e LLLLLL
+74c8 ffff
+74d0 ff33
+74f8 33ff
+7500 3333
+75d8 ffff
+75e0 ff33
+7608 33ff
+7610 3333
+76f8 ffff
+7700 ff33
+7728 33ff
+7730 3333
+77fe ffff
+7806 ffff
+780e ffff
+7816 ffffff
+781e ffff33
+7826 ffff
+782e ff33
+7836 ff33
+783e ff33
+7846 ff33ff
+784e ff3333
+7856 ff33
+791e 33ff
+7926 33ff
+792e 33ff
+7936 33ffff
+793e 33ff33
+7946 33ff
+794e 3333
+7956 3333
+795e 3333
+7966 3333ff
+796e 333333
+7976 3333
+7a48 ffff
+7a50 ff33
+7a78 33ff
+7a80 3333
+7abe 
+7ade """"""
+7ae6 ))))))
+7aee UUUUUU
+7af6 MMMMMM
+7afe BBBBBB
+7b06 999999
+7b18 PPPP
+7bc5 66666666666666
+7bd5 66666666666666
+7be5 666666666
+7bf5 66666666
+7c05 6666666
+7c15 6666666
+7c25 666666
+7c3f 6666
+7c4f 6666
+7c5e 66666
+7c6e 66666
+7c75 6666
+7c7d 666666
+7c85 66666
+7c8c 6666666
+7c95 66666666666666
+7d52 LLLLLL
+7dfc ffff
+7e04 ff33
+7e2c 33ff
+7e34 3333
+7f0c ffff
+7f14 ff33
+7f3c 33ff
+7f44 3333
+802c ffff
+8034 ff33
+805c 33ff
+8064 3333
+8132 ffff
+813a ffff
+8142 ffff
+814a ffffff
+8152 ffff33
+815a ffff
+8162 ff33
+816a ff33
+8172 ff33
+817a ff33ff
+8182 ff3333
+818a ff33
+8252 33ff
+825a 33ff
+8262 33ff
+826a 33ffff
+8272 33ff33
+827a 33ff
+8282 3333
+828a 3333
+8292 3333
+829a 3333ff
+82a2 333333
+82aa 3333
+837c ffff
+8384 ff33
+83ac 33ff
+83b4 3333
+83f2 
+8412 """"""
+841a ))))))
+8422 UUUUUU
+842a MMMMMM
+8432 BBBBBB
+843a 999999
+844c PPPP
+84f9 66666666666666
+8509 66666666666666
+8519 6666
+8549 6666
+8559 6666
+8563 6666
+8569 66666
+8572 66666
+8579 6666
+8583 6666
+8593 6666
+85c3 6666
+85c9 66666666666666
+8686 LLLLLL
+8730 ffff
+8738 ff33
+8760 33ff
+8768 3333
+8840 ffff
+8848 ff33
+8870 33ff
+8878 3333
+8960 ffff
+8968 ff33
+8990 33ff
+8998 3333
+8a66 ffff
+8a6e ffff
+8a76 ffff
+8a7e ffffff
+8a86 ffff33
+8a8e ffff
+8a96 ff33
+8a9e ff33
+8aa6 ff33
+8aae ff33ff
+8ab6 ff3333
+8abe ff33
+8b86 33ff
+8b8e 33ff
+8b96 33ff
+8b9e 33ffff
+8ba6 33ff33
+8bae 33ff
+8bb6 3333
+8bbe 3333
+8bc6 3333
+8bce 3333ff
+8bd6 333333
+8bde 3333
+8cb0 ffff
+8cb8 ff33
+8ce0 33ff
+8ce8 3333
+8d26 
+8d46 """"""
+8d4e ))))))
+8d56 UUUUUU
+8d5e MMMMMM
+8d66 BBBBBB
+8d6e 999999
+8d80 PPPP
+8e2d 66666666666666
+8e3d 66666666666666
+8e4d 666666666
+8e5d 66666666
+8e6d 6666666
+8e7d 6666666
+8e8d 666666
+8ea7 6666
+8eb7 6666
+8ec6 66666
+8ed6 66666
+8edd 6666
+8ee5 666666
+8eed 66666
+8ef4 6666666
+8efd 66666666666666
+8fba LLLLLL
+9064 ffff
+906c ff33
+9094 33ff
+909c 3333
+9174 ffff
+917c ff33
+91a4 33ff
+91ac 3333
+9294 ffff
+929c ff33
+92c4 33ff
+92cc 3333
+939a ffff
+93a2 ffff
+93aa ffff
+93b2 ffffff
+93ba ffff33
+93c2 ffff
+93ca ff33
+93d2 ff33
+93da ff33
+93e2 ff33ff
+93ea ff3333
+93f2 ff33
+94ba 33ff
+94c2 33ff
+94ca 33ff
+94d2 33ffff
+94da 33ff33
+94e2 33ff
+94ea 3333
+94f2 3333
+94fa 3333
+9502 3333ff
+950a 333333
+9512 3333
+95e4 ffff
+95ec ff33
+9614 33ff
+961c 3333
+965a 
+967a """"""
+9682 ))))))
+968a UUUUUU
+9692 MMMMMM
+969a BBBBBB
+96a2 999999
+96b4 PPPP
+9761 66666666666666
+9771 66666666666666
+9781 6666
+97b1 6666
+97c1 6666
+97cb 6666
+97d1 66666
+97da 66666
+97e1 6666
+97eb 6666
+97fb 6666
+982b 6666
+9831 66666666666666
+9856 FPHP
+985b Fluke 8840A.vi
+987c FPHP
+9883 t(gO
+9987 HDiO
+b8ea BDHP
+b8ef Fluke 8840A.vi
+b90a +T @
+b910 BDHP
+e509 MS Sans Serif
+e517 MS Sans Serif
+e525 MS Sans Serif
+e538 RSRC
+e540 LVINLBVW
+e570 RSID
+e57b TLVIN
+e587 hBDPW
+e593 |LIvi
+e5a0 VICD
+e5ac CPTM
+e5b8 DSTM
+e5c4 DFDS
+e5d0 LIds
+e5dc vers
+e5e8 DLDR
+e5f4 FPTD
+e5ff 0CPMp
+e60b DSTRG
+e617 XICON
+e624 icl4
+e630 icl8
+e63c DTHP
+e648 TRec
+e653 $CPST
+e660 PICC
+e66b \DSIM
+e678 LIfp
+e684 FPHP
+e690 LIbd
+e69b $BDHP
+e6a7 8HIST
+e6b3 LFTAB
+e70b (OO
+e71f 0D'O
+e75a @DX[O
+e98a \DP1O
+e9ee blxNO
+ea52 d |:O
+edfe s@dOO
+ee26 s`L O
+eee1 Fluke 8840A.vi

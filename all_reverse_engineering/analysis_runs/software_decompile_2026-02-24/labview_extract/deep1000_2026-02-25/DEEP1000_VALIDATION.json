@@ -1,0 +1,23 @@
+{
+  "pass_count": 1000,
+  "unique_names": 1000,
+  "unique_patterns": 1000,
+  "unique_output_hashes": 1000,
+  "min_line_count": 1,
+  "max_line_count": 2,
+  "cluster_counts": {
+    "current_source": 11,
+    "gain": 91,
+    "leakage_voltage": 8,
+    "leakage_current": 2,
+    "cap_esr": 41,
+    "inductance": 40,
+    "ringer": 14,
+    "flow_ui": 3,
+    "softrev_files": 62,
+    "comms": 31
+  },
+  "spec_path": "/Users/<user>/LC103/software_decompile_2026-02-24/labview_extract/deep1000_2026-02-25/pass_specs.tsv",
+  "count_path": "/Users/<user>/LC103/software_decompile_2026-02-24/labview_extract/deep1000_2026-02-25/DEEP1000_PASS_COUNTS.tsv",
+  "findings_path": "/Users/<user>/LC103/software_decompile_2026-02-24/labview_extract/deep1000_2026-02-25/DEEP1000_FINDINGS.md"
+}

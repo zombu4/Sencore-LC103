@@ -1,0 +1,62 @@
+52412:1bc147 Could not load VI resource.,Version of VI is newer than LabVIEW version.?Version of VI is too old to convert to current LabVIEW version.JVI cannot be converted to current version because it has no block diagram."Could not load connector type map.
+59141:231d45 Initializes the NI-VXI library and reads in the resource manager table. The library is automatically initialized when any VXI VI is used in a diagram. If you initialize the library with this VI, you must call CloseVXIlibrary later in your diagram.$
+101595:4b75bd }yexception source is the error message that you want to use to test for an exception. By default, it is an empty string. 
+101596:4b763a error source is an optional string you can use to describe the source of error code. The VI uses the string in message if there is an error.
+101603:4b7834 source. In case of an error, most VIs that use the error in and error out clusters set source to the name of the VI or function that produced the error.
+101610:4b7a4c source. In case of an error, most VIs that use the error in and error out clusters set source to the name of the VI or function that produced the error.
+229567:73521 Initializes the NI-VXI library and reads in the resource manager table. The library is automatically initialized when any VXI VI is used in a diagram. If you initialize the library with this VI, you must call CloseVXIlibrary later in your diagram.$
+229646:740b4 Initializes the NI-VXI library and reads in the resource manager table. The library is automatically initialized when any VXI VI is used in a diagram. If you initialize the library with this VI, you must call CloseVXIlibrary later in your diagram.
+260028:230195 }yexception source is the error message that you want to use to test for an exception. By default, it is an empty string. 
+260029:230212 error source is an optional string you can use to describe the source of error code. The VI uses the string in message if there is an error.
+260036:23040c source. In case of an error, most VIs that use the error in and error out clusters set source to the name of the VI or function that produced the error.
+260043:230624 source. In case of an error, most VIs that use the error in and error out clusters set source to the name of the VI or function that produced the error.
+296076:4083a Initializes the NI-VXI library and reads in the resource manager table. The library is automatically initialized when any VXI VI is used in a diagram. If you initialize the library with this VI, you must call CloseVXIlibrary later in your diagram.$
+296156:413d0 Initializes the NI-VXI library and reads in the resource manager table. The library is automatically initialized when any VXI VI is used in a diagram. If you initialize the library with this VI, you must call CloseVXIlibrary later in your diagram.
+314016:14ddb2 }yexception source is the error message that you want to use to test for an exception. By default, it is an empty string. 
+314017:14de2f error source is an optional string you can use to describe the source of error code. The VI uses the string in message if there is an error.
+314024:14e029 source. In case of an error, most VIs that use the error in and error out clusters set source to the name of the VI or function that produced the error.
+314031:14e241 source. In case of an error, most VIs that use the error in and error out clusters set source to the name of the VI or function that produced the error.
+328223:3ea68 Initializes the NI-VXI library and reads in the resource manager table. The library is automatically initialized when any VXI VI is used in a diagram. If you initialize the library with this VI, you must call CloseVXIlibrary later in your diagram.
+328280:3fbd2 Initializes the NI-VXI library and reads in the resource manager table. The library is automatically initialized when any VXI VI is used in a diagram. If you initialize the library with this VI, you must call CloseVXIlibrary later in your diagram.$
+340499:ed395 }yexception source is the error message that you want to use to test for an exception. By default, it is an empty string. 
+340500:ed412 error source is an optional string you can use to describe the source of error code. The VI uses the string in message if there is an error.
+340507:ed60c source. In case of an error, most VIs that use the error in and error out clusters set source to the name of the VI or function that produced the error.
+340514:ed824 source. In case of an error, most VIs that use the error in and error out clusters set source to the name of the VI or function that produced the error.
+351012:3e7e1 Initializes the NI-VXI library and reads in the resource manager table. The library is automatically initialized when any VXI VI is used in a diagram. If you initialize the library with this VI, you must call CloseVXIlibrary later in your diagram.$
+351091:3f374 Initializes the NI-VXI library and reads in the resource manager table. The library is automatically initialized when any VXI VI is used in a diagram. If you initialize the library with this VI, you must call CloseVXIlibrary later in your diagram.
+371462:183b4d }yexception source is the error message that you want to use to test for an exception. By default, it is an empty string. 
+371463:183bca error source is an optional string you can use to describe the source of error code. The VI uses the string in message if there is an error.
+371473:184195 source. In case of an error, most VIs that use the error in and error out clusters set source to the name of the VI or function that produced the error.
+371477:18438d source. In case of an error, most VIs that use the error in and error out clusters set source to the name of the VI or function that produced the error.
+421705:3e6ae Initializes the NI-VXI library and reads in the resource manager table. The library is automatically initialized when any VXI VI is used in a diagram. If you initialize the library with this VI, you must call CloseVXIlibrary later in your diagram.$
+421785:3f244 Initializes the NI-VXI library and reads in the resource manager table. The library is automatically initialized when any VXI VI is used in a diagram. If you initialize the library with this VI, you must call CloseVXIlibrary later in your diagram.
+434163:f7770 }yexception source is the error message that you want to use to test for an exception. By default, it is an empty string. 
+434164:f77ed error source is an optional string you can use to describe the source of error code. The VI uses the string in message if there is an error.
+434174:f7db8 source. In case of an error, most VIs that use the error in and error out clusters set source to the name of the VI or function that produced the error.
+434178:f7fb0 source. In case of an error, most VIs that use the error in and error out clusters set source to the name of the VI or function that produced the error.
+456522:3beb4 Initializes the NI-VXI library and reads in the resource manager table. The library is automatically initialized when any VXI VI is used in a diagram. If you initialize the library with this VI, you must call CloseVXIlibrary later in your diagram.
+456579:3d01e Initializes the NI-VXI library and reads in the resource manager table. The library is automatically initialized when any VXI VI is used in a diagram. If you initialize the library with this VI, you must call CloseVXIlibrary later in your diagram.$
+470142:106cf1 }yexception source is the error message that you want to use to test for an exception. By default, it is an empty string. 
+470143:106d6e error source is an optional string you can use to describe the source of error code. The VI uses the string in message if there is an error.
+470153:107339 source. In case of an error, most VIs that use the error in and error out clusters set source to the name of the VI or function that produced the error.
+470157:107531 source. In case of an error, most VIs that use the error in and error out clusters set source to the name of the VI or function that produced the error.
+480228:3e7e1 Initializes the NI-VXI library and reads in the resource manager table. The library is automatically initialized when any VXI VI is used in a diagram. If you initialize the library with this VI, you must call CloseVXIlibrary later in your diagram.$
+480307:3f374 Initializes the NI-VXI library and reads in the resource manager table. The library is automatically initialized when any VXI VI is used in a diagram. If you initialize the library with this VI, you must call CloseVXIlibrary later in your diagram.
+504206:1e9c85 yexception source is the error message that you want to use to test for an exception. By default, it is an empty string. 
+504207:1e9d40 error source is an optional string you can use to describe the source of error code. The VI uses the string in message if there is an error.
+504220:1ea485 source. In case of an error, most VIs that use the error in and error out clusters set source to the name of the VI or function that produced the error.
+504224:1ea756 source. In case of an error, most VIs that use the error in and error out clusters set source to the name of the VI or function that produced the error.
+534173:3e6ae Initializes the NI-VXI library and reads in the resource manager table. The library is automatically initialized when any VXI VI is used in a diagram. If you initialize the library with this VI, you must call CloseVXIlibrary later in your diagram.$
+534253:3f244 Initializes the NI-VXI library and reads in the resource manager table. The library is automatically initialized when any VXI VI is used in a diagram. If you initialize the library with this VI, you must call CloseVXIlibrary later in your diagram.
+546538:f6680 }yexception source is the error message that you want to use to test for an exception. By default, it is an empty string. 
+546539:f66fd error source is an optional string you can use to describe the source of error code. The VI uses the string in message if there is an error.
+546549:f6cc8 source. In case of an error, most VIs that use the error in and error out clusters set source to the name of the VI or function that produced the error.
+546553:f6ec0 source. In case of an error, most VIs that use the error in and error out clusters set source to the name of the VI or function that produced the error.
+564438:3beb4 Initializes the NI-VXI library and reads in the resource manager table. The library is automatically initialized when any VXI VI is used in a diagram. If you initialize the library with this VI, you must call CloseVXIlibrary later in your diagram.
+564495:3d01e Initializes the NI-VXI library and reads in the resource manager table. The library is automatically initialized when any VXI VI is used in a diagram. If you initialize the library with this VI, you must call CloseVXIlibrary later in your diagram.$
+579625:16db48 yexception source is the error message that you want to use to test for an exception. By default, it is an empty string. 
+579626:16dc03 error source is an optional string you can use to describe the source of error code. The VI uses the string in message if there is an error.
+579639:16e348 source. In case of an error, most VIs that use the error in and error out clusters set source to the name of the VI or function that produced the error.
+579643:16e619 source. In case of an error, most VIs that use the error in and error out clusters set source to the name of the VI or function that produced the error.
+584951:3e759 Initializes the NI-VXI library and reads in the resource manager table. The library is automatically initialized when any VXI VI is used in a diagram. If you initialize the library with this VI, you must call CloseVXIlibrary later in your diagram.$
+585030:3f2ec Initializes the NI-VXI library and reads in the resource manager table. The library is automatically initialized when any VXI VI is used in a diagram. If you initialize the library with this VI, you must call CloseVXIlibrary later in your diagram.

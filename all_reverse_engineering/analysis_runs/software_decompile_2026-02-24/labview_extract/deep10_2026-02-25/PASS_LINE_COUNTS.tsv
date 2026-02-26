@@ -1,0 +1,10 @@
+pass01_gain.txt	326
+pass02_leakv.txt	575
+pass03_leaki.txt	543
+pass04_cap_esr.txt	191
+pass05_ind_range.txt	641
+pass06_ringer.txt	78
+pass07_softrev_paths.txt	303
+pass08_flow_gates.txt	42
+pass09_comms_abort.txt	10722
+pass10_state_globals.txt	3230

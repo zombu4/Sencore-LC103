@@ -1,0 +1,40 @@
+54014:1dc26f file size is the size of the file in bytes; it is also the location of the end of file.
+54494:1e3da2 *Writes a string of characters to a byte stream file at the specified location; the default location is at the end of file. The VI does incoming and internal error checking and does not write if an incoming error occurs.
+100024:49a72e file size is the size of the file in bytes; it is also the location of the end of file.
+102958:4d61cb Writes a character string to a new byte stream file or appends the string to an existing file. The VI opens or creates the file beforehand and closes it afterwards.
+224271:1ae9b file size is the size of the file in bytes; it is also the location of the end of file.
+224507:1dba7 file size is the size of the file in bytes; it is also the location of the end of file.
+224787:23882 *Writes a string of characters to a byte stream file at the specified location; the default location is at the end of file. The VI does incoming and internal error checking and does not write if an incoming error occurs.
+224952:2506b *Writes a string of characters to a byte stream file at the specified location; the default location is at the end of file. The VI does incoming and internal error checking and does not write if an incoming error occurs.
+258354:21105a file size is the size of the file in bytes; it is also the location of the end of file.
+258537:212de4 file size is the size of the file in bytes; it is also the location of the end of file.
+261397:24f12b Writes a character string to a new byte stream file or appends the string to an existing file. The VI opens or creates the file beforehand and closes it afterwards.
+261609:2507dc Writes a character string to a new byte stream file or appends the string to an existing file. The VI opens or creates the file beforehand and closes it afterwards.
+370469:168abf Writes a character string to a new byte stream file or appends the string to an existing file. The VI opens or creates the file beforehand and closes it afterwards.
+374024:1adb13 file size is the size of the file in bytes; it is also the location of the end of file.
+394254:30cddb file size is the size of the file in bytes; it is also the location of the end of file.
+394256:30cf67 *Writes a string of characters to a byte stream file at the specified location; the default location is at the end of file. The VI does incoming and internal error checking and does not write if an incoming error occurs.
+404030:3a4464 file size is the size of the file in bytes; it is also the location of the end of file.
+404059:3a5a44 Writes a character string to a new byte stream file or appends the string to an existing file. The VI opens or creates the file beforehand and closes it afterwards.
+405279:3b9da8 *Writes a string of characters to a byte stream file at the specified location; the default location is at the end of file. The VI does incoming and internal error checking and does not write if an incoming error occurs.
+406190:3cc0ab file size is the size of the file in bytes; it is also the location of the end of file.
+406204:3cc882 \Xfile size is the size of the file in bytes; it is also the location of the end of file.
+503359:1cf7ce Writes a character string to a new byte stream file or appends the string to an existing file. The VI opens or creates the file beforehand and closes it afterwards.
+505870:208208 file size is the size of the file in bytes; it is also the location of the end of file.
+506088:20ae70 Xfile size is the size of the file in bytes; it is also the location of the end of file.
+520846:33c6d3 file size is the size of the file in bytes; it is also the location of the end of file.
+520848:33c85f *Writes a string of characters to a byte stream file at the specified location; the default location is at the end of file. The VI does incoming and internal error checking and does not write if an incoming error occurs.
+527367:3b30b0 file size is the size of the file in bytes; it is also the location of the end of file.
+527396:3b4690 Writes a character string to a new byte stream file or appends the string to an existing file. The VI opens or creates the file beforehand and closes it afterwards.
+527675:3ba71a *Writes a string of characters to a byte stream file at the specified location; the default location is at the end of file. The VI does incoming and internal error checking and does not write if an incoming error occurs.
+528204:3c8812 file size is the size of the file in bytes; it is also the location of the end of file.
+528611:3ccd91 Xfile size is the size of the file in bytes; it is also the location of the end of file.
+595380:d5a4b file size is the size of the file in bytes; it is also the location of the end of file.
+595869:e2a2e file size is the size of the file in bytes; it is also the location of the end of file.
+596276:e6fad Xfile size is the size of the file in bytes; it is also the location of the end of file.
+596714:f1b67 *Writes a string of characters to a byte stream file at the specified location; the default location is at the end of file. The VI does incoming and internal error checking and does not write if an incoming error occurs.
+596766:f4310 file size is the size of the file in bytes; it is also the location of the end of file.
+596795:f58f0 Writes a character string to a new byte stream file or appends the string to an existing file. The VI opens or creates the file beforehand and closes it afterwards.
+597617:ff243 *Writes a string of characters to a byte stream file at the specified location; the default location is at the end of file. The VI does incoming and internal error checking and does not write if an incoming error occurs.
+607066:19fc78 file size is the size of the file in bytes; it is also the location of the end of file.
+608417:1b6db0 Writes a character string to a new byte stream file or appends the string to an existing file. The VI opens or creates the file beforehand and closes it afterwards.

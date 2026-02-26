@@ -1,0 +1,102 @@
+74822:316bf5 9When you use the serial port VIs under Windows, the port number parameter can have the following values:
+74836:316ccc When you use the serial port VIs on a Sun SPARCstation, the port number parameter is 0 for /dev/ttya, 1 for /dev/ttyb, and so on.
+75375:31da87 9When you use the serial port VIs under Windows, the port number parameter can have the following values:
+75389:31db5e When you use the serial port VIs on a Sun SPARCstation, the port number parameter is 0 for /dev/ttya, 1 for /dev/ttyb, and so on.
+75494:31fb85 UQWrites the data in string to write to the serial port indicated in port number.
+75597:321180 9When you use the serial port VIs under Windows, the port number parameter can have the following values:
+75611:321257 When you use the serial port VIs on a Sun SPARCstation, the port number parameter is 0 for /dev/ttya, 1 for /dev/ttyb, and so on.
+75739:323a21 uqReads the number of characters specified by requested byte count from the serial port indicated in port number.
+75851:32503b 9When you use the serial port VIs under Windows, the port number parameter can have the following values:
+75865:325112 When you use the serial port VIs on a Sun SPARCstation, the port number parameter is 0 for /dev/ttya, 1 for /dev/ttyb, and so on.
+75867:325275 UQbyte count is the number of bytes currently queued up in the serial port buffer.
+75980:3275e3 okReturns in byte count the number of bytes in the input buffer of the serial port indicated in port number.
+245132:1552a9 9When you use the serial port VIs under Windows, the port number parameter can have the following values:
+245146:155380 When you use the serial port VIs on a Sun SPARCstation, the port number parameter is 0 for /dev/ttya, 1 for /dev/ttyb, and so on.
+245690:15c26b 9When you use the serial port VIs under Windows, the port number parameter can have the following values:
+245704:15c342 When you use the serial port VIs on a Sun SPARCstation, the port number parameter is 0 for /dev/ttya, 1 for /dev/ttyb, and so on.
+245809:15e369 UQWrites the data in string to write to the serial port indicated in port number.
+245907:15ec57 QWrites the data in string to write to the serial port indicated in port number.
+245918:15fac0 9When you use the serial port VIs under Windows, the port number parameter can have the following values:
+245932:15fb97 When you use the serial port VIs on a Sun SPARCstation, the port number parameter is 0 for /dev/ttya, 1 for /dev/ttyb, and so on.
+246060:162361 uqReads the number of characters specified by requested byte count from the serial port indicated in port number.
+246164:162d03 qReads the number of characters specified by requested byte count from the serial port indicated in port number.
+246177:163adf 9When you use the serial port VIs under Windows, the port number parameter can have the following values:
+246191:163bb6 When you use the serial port VIs on a Sun SPARCstation, the port number parameter is 0 for /dev/ttya, 1 for /dev/ttyb, and so on.
+246193:163d19 UQbyte count is the number of bytes currently queued up in the serial port buffer.
+246306:166087 okReturns in byte count the number of bytes in the input buffer of the serial port indicated in port number.
+246407:1669fb kReturns in byte count the number of bytes in the input buffer of the serial port indicated in port number.
+307911:e5866 9When you use the serial port VIs under Windows, the port number parameter can have the following values:
+307925:e593d When you use the serial port VIs on a Sun SPARCstation, the port number parameter is 0 for /dev/ttya, 1 for /dev/ttyb, and so on.
+308029:e7965 UQWrites the data in string to write to the serial port indicated in port number.
+308128:e824f QWrites the data in string to write to the serial port indicated in port number.
+308139:e90b3 9When you use the serial port VIs under Windows, the port number parameter can have the following values:
+308153:e918a When you use the serial port VIs on a Sun SPARCstation, the port number parameter is 0 for /dev/ttya, 1 for /dev/ttyb, and so on.
+308282:eb956 uqReads the number of characters specified by requested byte count from the serial port indicated in port number.
+308384:ec2f3 qReads the number of characters specified by requested byte count from the serial port indicated in port number.
+308397:ed0ca 9When you use the serial port VIs under Windows, the port number parameter can have the following values:
+308411:ed1a1 When you use the serial port VIs on a Sun SPARCstation, the port number parameter is 0 for /dev/ttya, 1 for /dev/ttyb, and so on.
+308413:ed304 UQbyte count is the number of bytes currently queued up in the serial port buffer.
+308525:ef672 okReturns in byte count the number of bytes in the input buffer of the serial port indicated in port number.
+308623:effdf kReturns in byte count the number of bytes in the input buffer of the serial port indicated in port number.
+396594:330a77 okReturns in byte count the number of bytes in the input buffer of the serial port indicated in port number.
+396595:330ae7 9When you use the serial port VIs under Windows, the port number parameter can have the following values:
+396609:330bbe When you use the serial port VIs on a Sun SPARCstation, the port number parameter is 0 for /dev/ttya, 1 for /dev/ttyb, and so on.
+396611:330d21 UQbyte count is the number of bytes currently queued up in the serial port buffer.
+396892:334dbb uqReads the number of characters specified by requested byte count from the serial port indicated in port number.
+396893:334e31 9When you use the serial port VIs under Windows, the port number parameter can have the following values:
+396907:334f08 When you use the serial port VIs on a Sun SPARCstation, the port number parameter is 0 for /dev/ttya, 1 for /dev/ttyb, and so on.
+397173:338d6a UQWrites the data in string to write to the serial port indicated in port number.
+397174:338dc0 9When you use the serial port VIs under Windows, the port number parameter can have the following values:
+397188:338e97 When you use the serial port VIs on a Sun SPARCstation, the port number parameter is 0 for /dev/ttya, 1 for /dev/ttyb, and so on.
+397592:33f1c3 9When you use the serial port VIs under Windows, the port number parameter can have the following values:
+397606:33f29a When you use the serial port VIs on a Sun SPARCstation, the port number parameter is 0 for /dev/ttya, 1 for /dev/ttyb, and so on.
+404006:3a39db QWrites the data in string to write to the serial port indicated in port number.
+404007:3a3a37 qReads the number of characters specified by requested byte count from the serial port indicated in port number.
+404008:3a3ab3 kReturns in byte count the number of bytes in the input buffer of the serial port indicated in port number.
+440783:163dba okReturns in byte count the number of bytes in the input buffer of the serial port indicated in port number.
+440784:163e2a 9When you use the serial port VIs under Windows, the port number parameter can have the following values:
+440798:163f01 When you use the serial port VIs on a Sun SPARCstation, the port number parameter is 0 for /dev/ttya, 1 for /dev/ttyb, and so on.
+440800:164064 UQbyte count is the number of bytes currently queued up in the serial port buffer.
+441083:168104 uqReads the number of characters specified by requested byte count from the serial port indicated in port number.
+441084:16817a 9When you use the serial port VIs under Windows, the port number parameter can have the following values:
+441098:168251 When you use the serial port VIs on a Sun SPARCstation, the port number parameter is 0 for /dev/ttya, 1 for /dev/ttyb, and so on.
+441368:16c0b0 UQWrites the data in string to write to the serial port indicated in port number.
+441369:16c106 9When you use the serial port VIs under Windows, the port number parameter can have the following values:
+441383:16c1dd When you use the serial port VIs on a Sun SPARCstation, the port number parameter is 0 for /dev/ttya, 1 for /dev/ttyb, and so on.
+442989:18540b QWrites the data in string to write to the serial port indicated in port number.
+442990:185467 qReads the number of characters specified by requested byte count from the serial port indicated in port number.
+442991:1854e3 kReturns in byte count the number of bytes in the input buffer of the serial port indicated in port number.
+521514:349828 okReturns in byte count the number of bytes in the input buffer of the serial port indicated in port number.
+521548:349f14 9When you use the serial port VIs under Windows, the port number parameter can have the following values:
+521562:349feb When you use the serial port VIs on a Sun SPARCstation, the port number parameter is 0 for /dev/ttya, 1 for /dev/ttyb, and so on.
+521566:34a1b4 Qbyte count is the number of bytes currently queued up in the serial port buffer.
+521719:34caa8 uqReads the number of characters specified by requested byte count from the serial port indicated in port number.
+521751:34d2fc 9When you use the serial port VIs under Windows, the port number parameter can have the following values:
+521765:34d3d3 When you use the serial port VIs on a Sun SPARCstation, the port number parameter is 0 for /dev/ttya, 1 for /dev/ttyb, and so on.
+521914:34fbe5 UQWrites the data in string to write to the serial port indicated in port number.
+521941:350284 9When you use the serial port VIs under Windows, the port number parameter can have the following values:
+521955:35035b When you use the serial port VIs on a Sun SPARCstation, the port number parameter is 0 for /dev/ttya, 1 for /dev/ttyb, and so on.
+522293:355c9a 9When you use the serial port VIs under Windows, the port number parameter can have the following values:
+522307:355d71 When you use the serial port VIs on a Sun SPARCstation, the port number parameter is 0 for /dev/ttya, 1 for /dev/ttyb, and so on.
+527343:3b2627 QWrites the data in string to write to the serial port indicated in port number.
+527344:3b2683 qReads the number of characters specified by requested byte count from the serial port indicated in port number.
+527345:3b26ff kReturns in byte count the number of bytes in the input buffer of the serial port indicated in port number.
+556362:1a3ebb QWrites the data in string to write to the serial port indicated in port number.
+556363:1a3f17 qReads the number of characters specified by requested byte count from the serial port indicated in port number.
+556364:1a3f93 kReturns in byte count the number of bytes in the input buffer of the serial port indicated in port number.
+558118:1c3956 okReturns in byte count the number of bytes in the input buffer of the serial port indicated in port number.
+558149:1c4042 9When you use the serial port VIs under Windows, the port number parameter can have the following values:
+558163:1c4119 When you use the serial port VIs on a Sun SPARCstation, the port number parameter is 0 for /dev/ttya, 1 for /dev/ttyb, and so on.
+558167:1c42e2 Qbyte count is the number of bytes currently queued up in the serial port buffer.
+558323:1c6bdd uqReads the number of characters specified by requested byte count from the serial port indicated in port number.
+558356:1c7432 9When you use the serial port VIs under Windows, the port number parameter can have the following values:
+558370:1c7509 When you use the serial port VIs on a Sun SPARCstation, the port number parameter is 0 for /dev/ttya, 1 for /dev/ttyb, and so on.
+558522:1c9d1a UQWrites the data in string to write to the serial port indicated in port number.
+558548:1ca3b8 9When you use the serial port VIs under Windows, the port number parameter can have the following values:
+558562:1ca48f When you use the serial port VIs on a Sun SPARCstation, the port number parameter is 0 for /dev/ttya, 1 for /dev/ttyb, and so on.
+596742:f3887 QWrites the data in string to write to the serial port indicated in port number.
+596743:f38e3 qReads the number of characters specified by requested byte count from the serial port indicated in port number.
+596744:f395f kReturns in byte count the number of bytes in the input buffer of the serial port indicated in port number.
+600397:12f417 QWrites the data in string to write to the serial port indicated in port number.
+600529:131143 qReads the number of characters specified by requested byte count from the serial port indicated in port number.
+600676:13317f kReturns in byte count the number of bytes in the input buffer of the serial port indicated in port number.

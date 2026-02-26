@@ -1,0 +1,181 @@
+openjdk version "21.0.10" 2026-01-20 LTS
+OpenJDK Runtime Environment Temurin-21.0.10+7 (build 21.0.10+7-LTS)
+OpenJDK 64-Bit Server VM Temurin-21.0.10+7 (build 21.0.10+7-LTS, mixed mode)
+INFO  Using log config file: jar:file:/Users/<user>/Tools/ghidra_12.0.2_PUBLIC/Ghidra/Framework/Generic/lib/Generic.jar!/generic.log4j.xml (LoggingInitialization)  
+INFO  Using log file: /var/<user>/Library/ghidra/ghidra_12.0.2_PUBLIC/application.log (LoggingInitialization)  
+INFO  Loading user preferences: /var/<user>/Library/ghidra/ghidra_12.0.2_PUBLIC/preferences (Preferences)  
+INFO  Searching for classes... (ClassSearcher)  
+INFO  Class search complete (841 ms) (ClassSearcher)  
+INFO  Initializing SSL Context (DefaultSSLContextInitializer)  
+INFO  Initializing Random Number Generator... (SecureRandomFactory)  
+INFO  Random Number Generator initialization complete: NativePRNGNonBlocking (SecureRandomFactory)  
+INFO  Trust manager disabled, cacerts have not been set (DefaultTrustManagerFactory)  
+INFO  Headless startup complete (1497 ms) (AnalyzeHeadless)  
+INFO  Class searcher loaded 58 extension points (18 false positives) (ClassSearcher)  
+INFO  HEADLESS Script Paths:
+    /Users/<user>/Tools/ghidra_12.0.2_PUBLIC/Ghidra/Features/Decompiler/ghidra_scripts
+    /Users/<user>/Tools/ghidra_12.0.2_PUBLIC/Ghidra/Debug/Debugger/ghidra_scripts
+    /Users/<user>/Tools/ghidra_12.0.2_PUBLIC/Ghidra/Features/PDB/ghidra_scripts
+    /Users/<user>/Tools/ghidra_12.0.2_PUBLIC/Ghidra/Features/SystemEmulation/ghidra_scripts
+    /Users/<user>/Tools/ghidra_12.0.2_PUBLIC/Ghidra/Features/WildcardAssembler/ghidra_scripts
+    /Users/<user>/Tools/ghidra_12.0.2_PUBLIC/Ghidra/Processors/8051/ghidra_scripts
+    /Users/<user>/Tools/ghidra_12.0.2_PUBLIC/Ghidra/Features/PyGhidra/ghidra_scripts
+    /Users/<user>/Tools/ghidra_12.0.2_PUBLIC/Ghidra/Features/Base/ghidra_scripts
+    /Users/<user>/Tools/ghidra_12.0.2_PUBLIC/Ghidra/Processors/DATA/ghidra_scripts
+    /Users/<user>/Tools/ghidra_12.0.2_PUBLIC/Ghidra/Features/FileFormats/ghidra_scripts
+    /Users/<user>/Tools/ghidra_12.0.2_PUBLIC/Ghidra/Processors/PIC/ghidra_scripts
+    /Users/<user>/Tools/ghidra_12.0.2_PUBLIC/Ghidra/Features/Jython/ghidra_scripts
+    /Users/<user>/Tools/ghidra_12.0.2_PUBLIC/Ghidra/Features/GnuDemangler/ghidra_scripts
+    /Users/<user>/Tools/ghidra_12.0.2_PUBLIC/Ghidra/Debug/Debugger-rmi-trace/ghidra_scripts
+    /Users/<user>/Tools/ghidra_12.0.2_PUBLIC/Ghidra/Features/BytePatterns/ghidra_scripts
+    /Users/<user>/Tools/ghidra_12.0.2_PUBLIC/Ghidra/Features/FunctionID/ghidra_scripts
+    /Users/<user>/Tools/ghidra_12.0.2_PUBLIC/Ghidra/Processors/JVM/ghidra_scripts
+    /Users/<user>/Tools/ghidra_12.0.2_PUBLIC/Ghidra/Features/BSim/ghidra_scripts
+    /Users/<user>/Tools/ghidra_12.0.2_PUBLIC/Ghidra/Features/MicrosoftCodeAnalyzer/ghidra_scripts
+    /Users/<user>/Tools/ghidra_12.0.2_PUBLIC/Ghidra/Features/VersionTracking/ghidra_scripts
+    /Users/<user>/LC103/software_decompile_2026-02-24/bin
+    /Users/<user>/Tools/ghidra_12.0.2_PUBLIC/Ghidra/Features/DecompilerDependent/ghidra_scripts
+    /Users/<user>/Tools/ghidra_12.0.2_PUBLIC/Ghidra/Processors/Atmel/ghidra_scripts
+    /Users/<user>/Tools/ghidra_12.0.2_PUBLIC/Ghidra/Features/SwiftDemangler/ghidra_scripts (HeadlessAnalyzer)  
+INFO  HEADLESS: execution starts (HeadlessAnalyzer)  
+INFO  Creating temporary project: /Users/<user>/LC103/2026-02-24_full_decompile_run2/ghidra/projects_all_exec/nidaq32_nidaq32_dll/proj (HeadlessAnalyzer)  
+INFO  Creating project: /Users/<user>/LC103/2026-02-24_full_decompile_run2/ghidra/projects_all_exec/nidaq32_nidaq32_dll/proj (DefaultProject)  
+INFO  REPORT: Processing input files:  (HeadlessAnalyzer)  
+INFO       project: /Users/<user>/LC103/2026-02-24_full_decompile_run2/ghidra/projects_all_exec/nidaq32_nidaq32_dll/proj (HeadlessAnalyzer)  
+INFO  IMPORTING: file:///Users/<user>/LC103/2026-02-24_full_decompile_run2/ghidra/sources_all_exec/nidaq32_nidaq32_dll (HeadlessAnalyzer)  
+INFO  Using Loader: Portable Executable (PE) (ProgramLoader)  
+INFO  Using Language/Compiler: x86:LE:32:default:windows (ProgramLoader)  
+INFO  Using Library Search Path: [., /System/Library/dyld/dyld_shared_cache_arm64e, /System/Library/dyld/dyld_shared_cache_x86_64, /System/Library/dyld/dyld_shared_cache_x86_64h, /System/Cryptexes/OS/System/Library/dyld/dyld_shared_cache_arm64e, /System/Cryptexes/OS/System/Library/dyld/dyld_shared_cache_x86_64, /System/Cryptexes/OS/System/Library/dyld/dyld_shared_cache_x86_64h, /var/<user>/Library/Java/Extensions, /Library/Java/Extensions, /Network/Library/Java/Extensions, /System/Library/Java/Extensions, /usr/lib/java] (ProgramLoader)  
+WARN  Invalid or missing function at 211f10ec (ExportDataDirectory)  
+INFO  Removing 2 unused filesystems from cache (FileSystemInstanceManager)  
+INFO  Additional info:
+Loading file:///Users/<user>/LC103/2026-02-24_full_decompile_run2/ghidra/sources_all_exec/nidaq32_nidaq32_dll?MD5=3526060a203794fb4d9a7966f9243ecf...
+------------------------------------------------
+
+Searching 4 paths for library ADVAPI32.DLL...
+Library not found.
+------------------------------------------------
+
+Searching 4 paths for library KERNEL32.DLL...
+Library not found.
+------------------------------------------------
+
+Searching 4 paths for library MSVCRT.DLL...
+Library not found.
+------------------------------------------------
+
+Searching 4 paths for library NIBFFRU.DLL...
+Library not found.
+------------------------------------------------
+
+Searching 4 paths for library NICFQ32.DLL...
+Library not found.
+------------------------------------------------
+
+Searching 4 paths for library NIMDSU.DLL...
+Library not found.
+------------------------------------------------
+
+Searching 4 paths for library NIMXPRXU.DLL...
+Library not found.
+------------------------------------------------
+
+Searching 4 paths for library NIPALU.DLL...
+Library not found.
+------------------------------------------------
+
+Searching 4 paths for library NIRPC.DLL...
+Library not found.
+------------------------------------------------
+
+Searching 4 paths for library NISCALE.DLL...
+Library not found.
+------------------------------------------------
+
+Searching 4 paths for library NISTCU.DLL...
+Library not found.
+------------------------------------------------
+
+Searching 4 paths for library USER32.DLL...
+Library not found.
+------------------------------------------------
+
+Searching 4 paths for library WSOCK32.DLL...
+Library not found.
+------------------------------------------------
+
+Linking the External Programs of 'nidaq32_nidaq32_dll' to imported libraries...
+  [MSVCRT.DLL] -> not found in project
+  [KERNEL32.DLL] -> not found in project
+  [USER32.DLL] -> not found in project
+  [ADVAPI32.DLL] -> not found in project
+  [WSOCK32.DLL] -> not found in project
+  [NIPALU.DLL] -> not found in project
+  [NISTCU.DLL] -> not found in project
+  [NIMDSU.DLL] -> not found in project
+  [NIBFFRU.DLL] -> not found in project
+  [NISCALE.DLL] -> not found in project
+  [NIRPC.DLL] -> not found in project
+  [NIMXPRXU.DLL] -> not found in project
+  [NICFQ32.DLL] -> not found in project
+------------------------------------------------
+
+ (ProgramLoader)  
+INFO  IMPORTING: Loaded 0 additional files (HeadlessAnalyzer)  
+INFO  ANALYZING all memory and code: file:///Users/<user>/LC103/2026-02-24_full_decompile_run2/ghidra/sources_all_exec/nidaq32_nidaq32_dll (HeadlessAnalyzer)  
+WARN  Ignoring leading '_' chars on no-return name '___raise_securityfailure' specified in file: /Users/<user>/Tools/ghidra_12.0.2_PUBLIC/Ghidra/Features/Base/data/PEFunctionsThatDoNotReturn (NoReturnFunctionAnalyzer)  
+WARN  Ignoring leading '_' chars on no-return name '___report_rangecheckfailure' specified in file: /Users/<user>/Tools/ghidra_12.0.2_PUBLIC/Ghidra/Features/Base/data/PEFunctionsThatDoNotReturn (NoReturnFunctionAnalyzer)  
+INFO  Skipping PDB processing: missing PDB information in program metadata (PdbUniversalAnalyzer)  
+INFO  Packed database cache: /var/tmp/root-ghidra/packed-db-cache (PackedDatabaseCache)  
+INFO  Applied data type archive: windows_vs12_32 (ApplyDataArchiveAnalyzer)  
+INFO  -----------------------------------------------------
+    ASCII Strings                              0.398 secs
+    Apply Data Archives                        0.458 secs
+    Call Convention ID                         0.003 secs
+    Call-Fixup Installer                       0.060 secs
+    Create Address Tables                      0.424 secs
+    Create Address Tables - One Time           1.156 secs
+    Create Function                            0.903 secs
+    Data Reference                             0.553 secs
+    Decompiler Switch Analysis                30.399 secs
+    Demangler Microsoft                        0.346 secs
+    Disassemble                                1.789 secs
+    Disassemble Entry Points                   2.848 secs
+    Disassemble Entry Points - One Time        0.007 secs
+    Embedded Media                             0.036 secs
+    External Entry References                  0.010 secs
+    Function ID                                2.005 secs
+    Function Start Pre Search                  0.019 secs
+    Function Start Search                      0.115 secs
+    Function Start Search After Code           0.325 secs
+    Function Start Search After Data           0.117 secs
+    Non-Returning Functions - Discovered       0.490 secs
+    Non-Returning Functions - Known            0.004 secs
+    PDB Universal                              0.001 secs
+    Reference                                  0.899 secs
+    Scalar Operand References                  2.212 secs
+    Shared Return Calls                        0.552 secs
+    Stack                                      9.997 secs
+    Subroutine References                      0.287 secs
+    Subroutine References - One Time           0.041 secs
+    Windows x86 PE Exception Handling          0.008 secs
+    Windows x86 PE RTTI Analyzer               0.010 secs
+    Windows x86 Thread Environment Block (TEB) Analyzer     0.012 secs
+    WindowsResourceReference                   0.303 secs
+    X86 Function Callee Purge                  1.522 secs
+    x86 Constant Reference Analyzer            7.680 secs
+-----------------------------------------------------
+     Total Time   65 secs
+-----------------------------------------------------
+ (AutoAnalysisManager)  
+INFO  REPORT: Analysis succeeded for file: file:///Users/<user>/LC103/2026-02-24_full_decompile_run2/ghidra/sources_all_exec/nidaq32_nidaq32_dll (HeadlessAnalyzer)  
+INFO  REPORT: Execute script: ExportProgramMapFull.java '/Users/<user>/LC103/2026-02-24_full_decompile_run2/ghidra' '0' '60'  (HeadlessAnalyzer)  
+INFO  SCRIPT: /Users/<user>/LC103/software_decompile_2026-02-24/bin/ExportProgramMapFull.java (HeadlessAnalyzer)  
+INFO  ExportProgramMapFull.java> Export complete: /Users/<user>/LC103/2026-02-24_full_decompile_run2/ghidra/nidaq32_nidaq32_dll_functions_full.csv (GhidraScript)  
+INFO  ExportProgramMapFull.java> Export complete: /Users/<user>/LC103/2026-02-24_full_decompile_run2/ghidra/nidaq32_nidaq32_dll_calls_full.csv (GhidraScript)  
+INFO  ExportProgramMapFull.java> Export complete: /Users/<user>/LC103/2026-02-24_full_decompile_run2/ghidra/nidaq32_nidaq32_dll_decomp_full.txt (GhidraScript)  
+INFO  ANALYZING changes made by post scripts: file:///Users/<user>/LC103/2026-02-24_full_decompile_run2/ghidra/sources_all_exec/nidaq32_nidaq32_dll (HeadlessAnalyzer)  
+INFO  REPORT: Post-analysis succeeded for file: file:///Users/<user>/LC103/2026-02-24_full_decompile_run2/ghidra/sources_all_exec/nidaq32_nidaq32_dll (HeadlessAnalyzer)  
+INFO  /nidaq32_nidaq32_dll: file created (root) (LocalFileSystem)  
+INFO  REPORT: Save succeeded for: /nidaq32_nidaq32_dll (proj:/nidaq32_nidaq32_dll) (HeadlessAnalyzer)  
+INFO  REPORT: Import succeeded (HeadlessAnalyzer)  

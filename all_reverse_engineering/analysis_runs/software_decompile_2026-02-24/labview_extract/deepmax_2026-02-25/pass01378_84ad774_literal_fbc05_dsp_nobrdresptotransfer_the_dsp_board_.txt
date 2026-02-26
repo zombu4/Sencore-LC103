@@ -1,0 +1,1 @@
+341323:fbc05 DSP NoBrdRespToTransfer:  The DSP board on which you are trying to load the COFF file is not responding to the transfer of the file.  Check if there is a board in the slot desired and verify with the DAQCONF utility.

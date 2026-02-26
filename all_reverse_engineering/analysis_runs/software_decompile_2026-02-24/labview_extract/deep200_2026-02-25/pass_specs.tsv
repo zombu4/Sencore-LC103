@@ -1,0 +1,200 @@
+001	550b76_communication_error_0_failed_calibration_offset_a	550b76 Communication Error.0 Failed Calibration. Offset Adjustment too high.( Failed Calibration. Gain Adjustment>10%
+002	2cb02e_communication_error_0_failed_calibration_offset_a	2cb02e Communication Error.0 Failed Calibration. Offset Adjustment too high.( Failed Calibration. Gain Adjustment>10%
+003	416552_current_source_calibrationfconnect_the_uut_and_or	416552 Current Source CalibrationfConnect the UUT and/or DVM leads to
+004	4165e7_gain_calibrationfconnect_the_uut_and_or_dvm_leads	4165e7 Gain CalibrationfConnect the UUT and/or DVM leads to
+005	41672a_leakage_voltage_calibrationfconnect_the_uut_and_o	41672a Leakage Voltage CalibrationfConnect the UUT and/or DVM leads to
+006	3e59ee_current_source_calibrationfconnect_the_uut_and_or	3e59ee Current Source CalibrationfConnect the UUT and/or DVM leads to
+007	3e5a83_gain_calibrationfconnect_the_uut_and_or_dvm_leads	3e5a83 Gain CalibrationfConnect the UUT and/or DVM leads to
+008	3e5bc6_leakage_voltage_calibrationfconnect_the_uut_and_o	3e5bc6 Leakage Voltage CalibrationfConnect the UUT and/or DVM leads to
+009	267724_current_source_calibrationfconnect_the_uut_and_or	267724 Current Source CalibrationfConnect the UUT and/or DVM leads to
+010	267a48_leakage_voltage_calibrationfconnect_the_uut_and_o	267a48 Leakage Voltage CalibrationfConnect the UUT and/or DVM leads to
+011	28da29_current_source_calibrationfconnect_the_uut_and_or	28da29 Current Source CalibrationfConnect the UUT and/or DVM leads to
+012	28dd4d_leakage_voltage_calibrationfconnect_the_uut_and_o	28dd4d Leakage Voltage CalibrationfConnect the UUT and/or DVM leads to
+013	2cf70c_cinstartload_loaderror_d_error_ldlv_dig_port_read	2cf70c CINStartLoad: loaderror= %d, error=%ldLV_DIG_PORT_READSetCINArraySize, elmtNum %ld out of range 0 <= elmtNum < %ldnon-array detected
+014	41683f_leakage_voltage_testfconnect_the_uut_and_or_dvm_l	41683f Leakage Voltage TestfConnect the UUT and/or DVM leads to
+015	4168d1_leakage_current_testfconnect_the_uut_and_or_dvm_l	4168d1 Leakage Current TestfConnect the UUT and/or DVM leads to
+016	5010ba_gain_calibration_failed_calibration_adjusted_10	5010ba Gain Calibration" Failed Calibration. Adjusted >10%
+017	50110d_on_range_gain_calibration_failed	50110d on Range !Gain Calibration Failed
+018	54fc2c_failed_calibration_gain_adjustment_10_u	54fc2c ( Failed Calibration. Gain Adjustment>10%U
+019	55037e_0_failed_calibration_offset_adjustment_too_high_w	55037e 0 Failed Calibration. Offset Adjustment too high.W
+020	11301c_cinstartload_loaderror_d_error_ldlv_dig_port_read	11301c CINStartLoad: loaderror= %d, error=%ldLV_DIG_PORT_READSetCINArraySize, elmtNum %ld out of range 0 <= elmtNum < %ldnon-array detected
+021	27b216_gain_calibration_failed_calibration_adjusted_10	27b216 Gain Calibration" Failed Calibration. Adjusted >10%
+022	27b269_on_range_gain_calibration_failed	27b269 on Range !Gain Calibration Failed
+023	2ca0e4_failed_calibration_gain_adjustment_10_u	2ca0e4 ( Failed Calibration. Gain Adjustment>10%U
+024	2ca836_0_failed_calibration_offset_adjustment_too_high_w	2ca836 0 Failed Calibration. Offset Adjustment too high.W
+025	3e5cdb_leakage_voltage_testfconnect_the_uut_and_or_dvm_l	3e5cdb Leakage Voltage TestfConnect the UUT and/or DVM leads to
+026	3e5d6d_leakage_current_testfconnect_the_uut_and_or_dvm_l	3e5d6d Leakage Current TestfConnect the UUT and/or DVM leads to
+027	13f792_cinstartload_loaderror_d_error_ldlv_dig_port_read	13f792 CINStartLoad: loaderror= %d, error=%ldLV_DIG_PORT_READSetCINArraySize, elmtNum %ld out of range 0 <= elmtNum < %ldnon-array detected
+028	dec6b_cinstartload_loaderror_d_error_ldlv_dig_port_reads	dec6b CINStartLoad: loaderror= %d, error=%ldLV_DIG_PORT_READSetCINArraySize, elmtNum %ld out of range 0 <= elmtNum < %ldnon-array detected
+029	267b3b_leakage_voltage_testfconnect_the_uut_and_or_dvm_l	267b3b Leakage Voltage TestfConnect the UUT and/or DVM leads to
+030	38f281_cinstartload_loaderror_d_error_ldlv_dig_port_read	38f281 CINStartLoad: loaderror= %d, error=%ldLV_DIG_PORT_READSetCINArraySize, elmtNum %ld out of range 0 <= elmtNum < %ldnon-array detected
+031	3b4381_calbplease_choose_the_file_containing_the_inducta	3b4381 *.calBPlease choose the file containing the inductance calibration data.d:\automated\lv51\lvsource\gencode.cGenRangeCheck
+032	416911_range_current_source_calibration_passed	416911 Range +Current Source Calibration Passed
+033	45e324_failed_calibration_gain_adjustment_10	45e324 ( Failed Calibration. Gain Adjustment>10%
+034	45e3d1_0_i0_failed_calibration_offset_adjustment_too_hig	45e3d1 @0@i0 Failed Calibration. Offset Adjustment too high.
+035	45f843_failed_calibration_gain_adjustment_10_u	45f843 ( Failed Calibration. Gain Adjustment>10%U
+036	45ff98_000_failed_calibration_offset_adjustment_too_high	45ff98 000 Failed Calibration. Offset Adjustment too high.W
+037	10d85e_cinstartload_loaderror_d_error_ldlv_dig_port_read	10d85e CINStartLoad: loaderror= %d, error=%ldLV_DIG_PORT_READSetCINArraySize, elmtNum %ld out of range 0 <= elmtNum < %ldnon-array detected
+038	e367d_cinstartload_loaderror_d_error_ldlv_dig_port_reads	e367d CINStartLoad: loaderror= %d, error=%ldLV_DIG_PORT_READSetCINArraySize, elmtNum %ld out of range 0 <= elmtNum < %ldnon-array detected
+039	16493c_failed_calibration_gain_adjustment_10	16493c ( Failed Calibration. Gain Adjustment>10%
+040	1649e9_0_i0_failed_calibration_offset_adjustment_too_hig	1649e9 @0@i0 Failed Calibration. Offset Adjustment too high.
+041	179756_range_current_source_calibration_passed	179756 Range +Current Source Calibration Passed
+042	28de40_leakage_voltage_testfconnect_the_uut_and_or_dvm_l	28de40 Leakage Voltage TestfConnect the UUT and/or DVM leads to
+043	38d246_cinstartload_loaderror_d_error_ldlv_dig_port_read	38d246 CINStartLoad: loaderror= %d, error=%ldLV_DIG_PORT_READSetCINArraySize, elmtNum %ld out of range 0 <= elmtNum < %ldnon-array detected
+044	10c76e_cinstartload_loaderror_d_error_ldlv_dig_port_read	10c76e CINStartLoad: loaderror= %d, error=%ldLV_DIG_PORT_READSetCINArraySize, elmtNum %ld out of range 0 <= elmtNum < %ldnon-array detected
+045	14d17e_cinstartload_loaderror_d_error_ldlv_dig_port_read	14d17e CINStartLoad: loaderror= %d, error=%ldLV_DIG_PORT_READSetCINArraySize, elmtNum %ld out of range 0 <= elmtNum < %ldnon-array detected
+046	1b8b50_configuration_token_not_found_error_occurred_pars	1b8b50 Configuration token not found.,Error occurred parsing configuration string.(Configuration allocation error occurred.$External code format error occurred.$External code offset error occurred.
+047	3a5732_capacitance_decade_box_high_terminal_hconnect_the	3a5732 Capacitance Decade Box (High Terminal).HConnect the black UUT lead to the
+048	3a57d8_capacitance_decade_box_high_terminal_hconnect_the	3a57d8 Capacitance Decade Box (High Terminal).HConnect the black UUT lead to the
+049	5010ee_range_gain_calibration_failed	5010ee Range !Gain Calibration Failed
+050	1b23ca_capacitance_decade_box_high_terminal_hconnect_the	1b23ca Capacitance Decade Box (High Terminal).HConnect the black UUT lead to the
+051	1b2470_capacitance_decade_box_high_terminal_hconnect_the	1b2470 Capacitance Decade Box (High Terminal).HConnect the black UUT lead to the
+052	27b24a_range_gain_calibration_failed	27b24a Range !Gain Calibration Failed
+053	2ab693_capacitance_decade_box_high_terminal_hconnect_the	2ab693 Capacitance Decade Box (High Terminal).HConnect the black UUT lead to the
+054	3f0fe5_range_gain_calibration_failed	3f0fe5 Range !Gain Calibration Failed
+055	1aa3c9_range_gain_calibration_failed	1aa3c9 Range !Gain Calibration Failed
+056	2d9330_capacitance_decade_box_high_terminal_hconnect_the	2d9330 Capacitance Decade Box (High Terminal).HConnect the black UUT lead to the
+057	15aae7_igetfile_decompress_failed_w_error_d	15aae7 IGetFile: decompress failed w/error=%d
+058	22ee6f_status_state_passed_failed_ready_not_ready_u16	22ee6f Status state (Passed/Failed, Ready/Not Ready)$ (U16)
+059	3170c7_some_error_codes_returned_by_the_serial_port_vis_	3170c7 Some error codes returned by the serial port VIs are platform-specific. Please refer to your system documentation for a list of error codes.
+060	31de66_some_error_codes_returned_by_the_serial_port_vis_	31de66 Some error codes returned by the serial port VIs are platform-specific. Please refer to your system documentation for a list of error codes.
+061	3216ba_some_error_codes_returned_by_the_serial_port_vis_	3216ba Some error codes returned by the serial port VIs are platform-specific. Please refer to your system documentation for a list of error codes.
+062	32546d_some_error_codes_returned_by_the_serial_port_vis_	32546d Some error codes returned by the serial port VIs are platform-specific. Please refer to your system documentation for a list of error codes.
+063	413b7f_fconnect_the_uut_and_or_dvm_leads_to	413b7f fConnect the UUT and/or DVM leads to
+064	4140d4_fconnect_the_uut_and_or_dvm_leads_to	4140d4 fConnect the UUT and/or DVM leads to
+065	4142c6_fconnect_the_uut_and_or_dvm_leads_to	4142c6 fConnect the UUT and/or DVM leads to
+066	414378_fconnect_the_uut_and_or_dvm_leads_to	414378 fConnect the UUT and/or DVM leads to
+067	4144d6_fconnect_the_uut_and_or_dvm_leads_to	4144d6 fConnect the UUT and/or DVM leads to
+068	41465a_fconnect_the_uut_and_or_dvm_leads_to	41465a fConnect the UUT and/or DVM leads to
+069	4167b9_d_a_testfconnect_the_uut_and_or_dvm_leads_to	4167b9 D/A TestfConnect the UUT and/or DVM leads to
+070	5005f4_failed_calibration_adjusted_10_r	5005f4 " Failed Calibration. Adjusted >10%R
+071	536429_current_source_calibration_passed	536429 +Current Source Calibration Passed
+072	5375b3_current_source_calibration_passed	5375b3 +Current Source Calibration Passed
+073	565068_yustart_of_read_offset_is_the_position_in_the_fil	565068 yustart of read offset is the position in the file, measured in characters (or bytes), at which the VI begins reading.
+074	56c4a9_start_of_read_offset_is_the_position_in_the_file_	56c4a9 start of read offset is the position in the file, measured in characters (or bytes), at which the VI begins reading.
+075	70503_status_state_passed_failed_ready_not_ready_u16	70503 Status state (Passed/Failed, Ready/Not Ready)$ (U16)
+076	15577b_some_error_codes_returned_by_the_serial_port_vis_	15577b Some error codes returned by the serial port VIs are platform-specific. Please refer to your system documentation for a list of error codes.
+077	15c64a_some_error_codes_returned_by_the_serial_port_vis_	15c64a Some error codes returned by the serial port VIs are platform-specific. Please refer to your system documentation for a list of error codes.
+078	15fffa_some_error_codes_returned_by_the_serial_port_vis_	15fffa Some error codes returned by the serial port VIs are platform-specific. Please refer to your system documentation for a list of error codes.
+079	163f11_some_error_codes_returned_by_the_serial_port_vis_	163f11 Some error codes returned by the serial port VIs are platform-specific. Please refer to your system documentation for a list of error codes.
+080	27a750_failed_calibration_adjusted_10_r	27a750 " Failed Calibration. Adjusted >10%R
+081	2b07fd_current_source_calibration_passed	2b07fd +Current Source Calibration Passed
+082	2b1987_current_source_calibration_passed	2b1987 +Current Source Calibration Passed
+083	2df7bc_yustart_of_read_offset_is_the_position_in_the_fil	2df7bc yustart of read offset is the position in the file, measured in characters (or bytes), at which the VI begins reading.
+084	2e6bfd_start_of_read_offset_is_the_position_in_the_file_	2e6bfd start of read offset is the position in the file, measured in characters (or bytes), at which the VI begins reading.
+085	2e9400_start_of_read_offset_is_the_position_in_the_file_	2e9400 start of read offset is the position in the file, measured in characters (or bytes), at which the VI begins reading.
+086	3e301b_fconnect_the_uut_and_or_dvm_leads_to	3e301b fConnect the UUT and/or DVM leads to
+087	3e3570_fconnect_the_uut_and_or_dvm_leads_to	3e3570 fConnect the UUT and/or DVM leads to
+088	3e3762_fconnect_the_uut_and_or_dvm_leads_to	3e3762 fConnect the UUT and/or DVM leads to
+089	3e3814_fconnect_the_uut_and_or_dvm_leads_to	3e3814 fConnect the UUT and/or DVM leads to
+090	3e3972_fconnect_the_uut_and_or_dvm_leads_to	3e3972 fConnect the UUT and/or DVM leads to
+091	3e3af6_fconnect_the_uut_and_or_dvm_leads_to	3e3af6 fConnect the UUT and/or DVM leads to
+092	3e5c55_d_a_testfconnect_the_uut_and_or_dvm_leads_to	3e5c55 D/A TestfConnect the UUT and/or DVM leads to
+093	3d820_status_state_passed_failed_ready_not_ready_u16	3d820 Status state (Passed/Failed, Ready/Not Ready)$ (U16)
+094	d5afe_6_press_enter_when_ready_choose_test_to_perform_an	d5afe 6) Press ENTER when ready, choose test to perform and press START.S
+095	e5c45_some_error_codes_returned_by_the_serial_port_vis_a	e5c45 Some error codes returned by the serial port VIs are platform-specific. Please refer to your system documentation for a list of error codes.
+096	e95ed_some_error_codes_returned_by_the_serial_port_vis_a	e95ed Some error codes returned by the serial port VIs are platform-specific. Please refer to your system documentation for a list of error codes.
+097	ed4fc_some_error_codes_returned_by_the_serial_port_vis_a	ed4fc Some error codes returned by the serial port VIs are platform-specific. Please refer to your system documentation for a list of error codes.
+098	1f00fe_6_press_enter_when_ready_choose_test_to_perform_a	1f00fe 6) Press ENTER when ready, choose test to perform and press START.H
+099	1f2d49_6_press_enter_when_ready_choose_test_to_perform_a	1f2d49 6) Press ENTER when ready, choose test to perform and press START.
+100	3cb4c_status_state_passed_failed_ready_not_ready_u16	3cb4c Status state (Passed/Failed, Ready/Not Ready)$ (U16)
+101	3b7c3_status_state_passed_failed_ready_not_ready_u16	3b7c3 Status state (Passed/Failed, Ready/Not Ready)$ (U16)
+102	13086f_start_of_read_offset_is_the_position_in_the_file_	13086f start of read offset is the position in the file, measured in characters (or bytes), at which the VI begins reading.
+103	130b9d_yustart_of_read_offset_is_the_position_in_the_fil	130b9d yustart of read offset is the position in the file, measured in characters (or bytes), at which the VI begins reading.
+104	20b212_ringer_calibrationlconnect_the_uut_leads_to_the	20b212 Ringer CalibrationLConnect the UUT leads to the
+105	267933_fconnect_the_uut_and_or_dvm_leads_to	267933 fConnect the UUT and/or DVM leads to
+106	2679e0_fconnect_the_uut_and_or_dvm_leads_to	2679e0 fConnect the UUT and/or DVM leads to
+107	267acb_d_a_testfconnect_the_uut_and_or_dvm_leads_to	267acb D/A TestfConnect the UUT and/or DVM leads to
+108	269850_fconnect_the_uut_and_or_dvm_leads_to	269850 fConnect the UUT and/or DVM leads to
+109	269e44_fconnect_the_uut_and_or_dvm_leads_to	269e44 fConnect the UUT and/or DVM leads to
+110	26a051_fconnect_the_uut_and_or_dvm_leads_to	26a051 fConnect the UUT and/or DVM leads to
+111	26a103_fconnect_the_uut_and_or_dvm_leads_to	26a103 fConnect the UUT and/or DVM leads to
+112	26a27a_fconnect_the_uut_and_or_dvm_leads_to	26a27a fConnect the UUT and/or DVM leads to
+113	26a417_fconnect_the_uut_and_or_dvm_leads_to	26a417 fConnect the UUT and/or DVM leads to
+114	330f19_some_error_codes_returned_by_the_serial_port_vis_	330f19 Some error codes returned by the serial port VIs are platform-specific. Please refer to your system documentation for a list of error codes.
+115	33536b_some_error_codes_returned_by_the_serial_port_vis_	33536b Some error codes returned by the serial port VIs are platform-specific. Please refer to your system documentation for a list of error codes.
+116	33919f_some_error_codes_returned_by_the_serial_port_vis_	33919f Some error codes returned by the serial port VIs are platform-specific. Please refer to your system documentation for a list of error codes.
+117	33f695_some_error_codes_returned_by_the_serial_port_vis_	33f695 Some error codes returned by the serial port VIs are platform-specific. Please refer to your system documentation for a list of error codes.
+118	3a6a04_start_of_read_offset_is_the_position_in_the_file_	3a6a04 start of read offset is the position in the file, measured in characters (or bytes), at which the VI begins reading.
+119	3f0fc1_failed_calibration_adjusted_10	3f0fc1 " Failed Calibration. Adjusted >10%
+120	3f22c6_failed_calibration_adjusted_10_r	3f22c6 !!" Failed Calibration. Adjusted >10%R
+121	417dc3_current_source_calibration_passed	417dc3 !!+Current Source Calibration Passed
+122	3b694_status_state_passed_failed_ready_not_ready_u16	3b694 Status state (Passed/Failed, Ready/Not Ready)$ (U16)
+123	16425c_some_error_codes_returned_by_the_serial_port_vis_	16425c Some error codes returned by the serial port VIs are platform-specific. Please refer to your system documentation for a list of error codes.
+124	1686b4_some_error_codes_returned_by_the_serial_port_vis_	1686b4 Some error codes returned by the serial port VIs are platform-specific. Please refer to your system documentation for a list of error codes.
+125	16c4e5_some_error_codes_returned_by_the_serial_port_vis_	16c4e5 Some error codes returned by the serial port VIs are platform-specific. Please refer to your system documentation for a list of error codes.
+126	17f653_6_press_enter_when_ready_choose_test_to_perform_a	17f653 6) Press ENTER when ready, choose test to perform and press START.[
+127	1a57bb_6_press_enter_when_ready_choose_test_to_perform_a	1a57bb 6) Press ENTER when ready, choose test to perform and press START.
+128	1a7448_6_press_enter_when_ready_choose_test_to_perform_a	1a7448 6) Press ENTER when ready, choose test to perform and press START.H
+129	39f98_status_state_passed_failed_ready_not_ready_u16	39f98 Status state (Passed/Failed, Ready/Not Ready)$ (U16)
+130	149d0b_start_of_read_offset_is_the_position_in_the_file_	149d0b start of read offset is the position in the file, measured in characters (or bytes), at which the VI begins reading.
+131	14bbae_ustart_of_read_offset_is_the_position_in_the_file	14bbae ustart of read offset is the position in the file, measured in characters (or bytes), at which the VI begins reading.
+132	1aa3a5_failed_calibration_adjusted_10	1aa3a5 " Failed Calibration. Adjusted >10%
+133	253879_ringer_calibrationlconnect_the_uut_leads_to_the	253879 Ringer CalibrationLConnect the UUT leads to the
+134	28dc38_fconnect_the_uut_and_or_dvm_leads_to	28dc38 fConnect the UUT and/or DVM leads to
+135	28dce5_fconnect_the_uut_and_or_dvm_leads_to	28dce5 fConnect the UUT and/or DVM leads to
+136	28ddd0_d_a_testfconnect_the_uut_and_or_dvm_leads_to	28ddd0 D/A TestfConnect the UUT and/or DVM leads to
+137	34a3ae_some_error_codes_returned_by_the_serial_port_vis_	34a3ae Some error codes returned by the serial port VIs are platform-specific. Please refer to your system documentation for a list of error codes.
+138	34d8b2_some_error_codes_returned_by_the_serial_port_vis_	34d8b2 Some error codes returned by the serial port VIs are platform-specific. Please refer to your system documentation for a list of error codes.
+139	3506bd_some_error_codes_returned_by_the_serial_port_vis_	3506bd Some error codes returned by the serial port VIs are platform-specific. Please refer to your system documentation for a list of error codes.
+140	356221_some_error_codes_returned_by_the_serial_port_vis_	356221 Some error codes returned by the serial port VIs are platform-specific. Please refer to your system documentation for a list of error codes.
+141	3b5650_start_of_read_offset_is_the_position_in_the_file_	3b5650 start of read offset is the position in the file, measured in characters (or bytes), at which the VI begins reading.
+142	1c44dc_some_error_codes_returned_by_the_serial_port_vis_	1c44dc Some error codes returned by the serial port VIs are platform-specific. Please refer to your system documentation for a list of error codes.
+143	1c79e8_some_error_codes_returned_by_the_serial_port_vis_	1c79e8 Some error codes returned by the serial port VIs are platform-specific. Please refer to your system documentation for a list of error codes.
+144	1ca7f1_some_error_codes_returned_by_the_serial_port_vis_	1ca7f1 Some error codes returned by the serial port VIs are platform-specific. Please refer to your system documentation for a list of error codes.
+145	1d9a2c_6_press_enter_when_ready_choose_test_to_perform_a	1d9a2c 6) Press ENTER when ready, choose test to perform and press START.
+146	1deec4_6_press_enter_when_ready_choose_test_to_perform_a	1deec4 6) Press ENTER when ready, choose test to perform and press START.H
+147	3b73b_status_state_passed_failed_ready_not_ready_u16	3b73b Status state (Passed/Failed, Ready/Not Ready)$ (U16)
+148	f68b0_start_of_read_offset_is_the_position_in_the_file_m	f68b0 start of read offset is the position in the file, measured in characters (or bytes), at which the VI begins reading.
+149	1d50c8_start_of_read_offset_is_the_position_in_the_file_	1d50c8 start of read offset is the position in the file, measured in characters (or bytes), at which the VI begins reading.
+150	161622_steppingflag_0x_04x_nwindowflag_0x_04x_nsuspendfl	161622 steppingFlag=0x%04x\nwindowFlag=0x%04x\nsuspendFlag=0x%04x\nupdateFlag=0x%04x\nloggingFlag=0x%04x\nshrunkFlag=0x%04x\nrunningFlag=0x%04x\ndisposedFlag=0x%04x\nrecordingDSFlag=0x%04x\n
+151	1676d8_when_the_selected_error_or_warning_is_associated_	1676d8 When the selected error or warning is associated with an object, clicking on this button will highlight that object on the VI's front panel or block diagram.
+152	1b887a_not_enough_memory_to_complete_this_operation_not_	1b887a -Not enough memory to complete this operation.)Not enough memory to open control editor..Not enough memory to change to customize mode."Not enough memory to update probe.(Not enough memory to create this object.
+153	1b8fa2_network_is_down_or_unreachable_network_address_is	1b8fa2 Network is down or unreachable.$Network address is currently in use.;Not enough system memory to complete the network operation.3System caused the network connection to be aborted.
+154	1ba204_git_starts_with_and_may_be_incorrectly_interprete	1ba204 GIt starts with "." and may be incorrectly interpreted as a device name.9LabVIEW cannot create new directories or libraries in %p.&LabVIEW cannot create new files in %p.
+155	1ba2c3_p_is_an_existing_p_3an_error_occurred_while_listi	1ba2c3 %p is an existing %p.3An error occurred while listing the contents of %p..You must select something in the directory %p.ULabVIEW cannot save to path %p because it is not an existing directory or VI library.
+156	1bccf2_attempt_to_use_bad_index_for_wire9segment_with_in	1bccf2 !Attempt to use bad index for wire9Segment with index out of range will be deleted from wire"Bad edge will not be added to wire%Cannot find terminal hotpoint in wire
+157	1be44b_the_connector_pane_connections_of_the_subvi_do_no	1be44b The connector pane connections of the subVI do not match the way it is wired on this diagram. Show the Help window to see what the connections to this subVI should be.
+158	1be4f3_one_or_more_required_inputs_to_this_function_are_	1be4f3 One or more required inputs to this function are not wired or are wired incorrectly. Show the Help window to see what the connections to this function should be.
+159	1cae6d_start_path_is_the_path_name_to_the_initially_disp	1cae6d start path is the path name to the initially displayed directory (or folder) in a file dialog. The default value is Not A Path, which is the path to the last directory (or folder) shown in a file dialog.
+160	1e7add_calcplease_choose_the_file_containing_the_capacit	1e7add *.calCPlease choose the file containing the capacitance calibration data.PTH0
+161	1e7b2f_calbplease_choose_the_file_containing_the_inducta	1e7b2f *.calBPlease choose the file containing the inductance calibration data.gencode.cGenDispatchEntry
+162	1f53ca_this_version_of_set_serial_port_buffer_size_vi_is	1f53ca This version of Set Serial Port Buffer Size.vi is to be used on the SPARC or Windows version of LabVIEW as a subVI to OpenSerialDriver and Serial Port Init.vi.$
+163	212169_status_is_a_boolean_array_in_which_each_bit_descr	212169 status is a Boolean array in which each bit describes a state of the GPIB Controller. If an error occurs, the GPIB VIs set bit 15. GPIB error is valid only if bit 15 of status is set.
+164	2206f4_status_is_a_boolean_array_in_which_each_bit_descr	2206f4 status is a Boolean array in which each bit describes a state of the GPIB Controller. If an error occurs, the GPIB VIs set bit 15. GPIB error is valid only if bit 15 of status is set.
+165	2c7ee5_see_the_data_acquisition_vi_reference_manual_for_	2c7ee5 See the Data Acquisition VI Reference Manual for your platform for tables listing the default settings and ranges for this VI for the boards with which it will work.$
+166	2ce5cc_see_the_data_acquisition_vi_reference_manual_for_	2ce5cc See the Data Acquisition VI Reference Manual for your platform for tables listing the default settings and ranges for this VI for the boards with which it will work.$
+167	2d5ba0_see_the_data_acquisition_vi_reference_manual_for_	2d5ba0 See the Data Acquisition VI Reference Manual for your platform for tables listing the default settings and ranges for this VI for the boards with which it will work.$
+168	32933c_status_is_true_if_an_error_occurred_or_false_if_n	32933c status is TRUE if an error occurred, or FALSE if not. If status is TRUE, code is a non-zero error code. If status is FALSE, code can be zero or a warning code."
+169	32f246_status_is_true_if_an_error_occurred_or_false_if_n	32f246 status is TRUE if an error occurred, or FALSE if not. If status is TRUE, code is a non-zero error code. If status is FALSE, code can be zero or a warning code."
+170	336b7a_status_is_true_if_an_error_occurred_before_this_v	336b7a status is TRUE if an error occurred before this VI was called, or FALSE if not. If status is TRUE, code is a non-zero error code. If status is FALSE, code can be zero or a warning code."
+171	336fed_status_is_true_if_an_error_occurred_or_false_if_n	336fed status is TRUE if an error occurred, or FALSE if not. If status is TRUE, code is a non-zero error code. If status is FALSE, code can be zero or a warning code."
+172	44d845_uut_validate_calibration	44d845 UUT Validate Calibration`
+173	44dd65_uut_validate_calibration	44dd65 UUT Validate Calibration
+174	48c3cf_esr_calibration_passedv	48c3cf ESR Calibration PassedV
+175	48d22a_esr_calibration_passed	48d22a ESR Calibration Passed
+176	48d3fa_esr_calibration_passed	48d3fa ESR Calibration Passed
+177	491159_start_path_is_the_path_name_to_the_initially_disp	491159 start path is the path name to the initially displayed directory (or folder) in a file dialog. The default value is Not A Path, which is the path to the last directory (or folder) shown in a file dialog.
+178	49d388_source_messages_contains_the_source_message_you_w	49d388 source messages contains the source message you want to appear in the error out cluster if the VI finds an error in error codes. Place each message on a separate line in a string constant or control.
+179	4b6c3f_type_of_dialog_determines_what_type_dialog_box_wi	4b6c3f =type of dialog determines what type dialog box will be displayed, if any. Regardless of its value, the VI outputs error information and message describing the error.
+180	4b6eb1_exception_action_is_a_way_for_you_to_create_excep	4b6eb1 exception action is a way for you to create exceptions to error handling. You can treat what is normally an error as no error, or treat a no error condition as an error using this parameter.
+181	4b7300_error_code_is_a_numeric_error_code_if_error_in_in	4b7300 error code is a numeric error code. If error in indicates an error, the VI ignores error code. If not, the VI tests it. A non-zero value signifies an error.
+182	4b7731_status_is_true_if_an_error_occurred_if_this_value	4b7731 status is TRUE if an error occurred. If this value is FALSE, then the error handler assumes that no error occurred according to the error in, and then checks the error code.
+183	4b7949_status_is_true_if_an_error_occurred_if_this_value	4b7949 status is TRUE if an error occurred. If this value is FALSE, then the error handler assumes that no error occurred according to the error in, and then checks the error code.
+184	4c52e4_this_error_code_is_not_listed_in_the_internal_dat	4c52e4 This error code is not listed in the internal database, or you have wired a number that is not an error code (such as a DAQ task ID) to the error code input.PD
+185	4d29cc_file_path_is_the_path_name_of_the_file_if_file_pa	4d29cc file path is the path name of the file. If file path is empty (default value) or is Not A Path, the VI displays a File dialog box from which you can select a file. Error 43 occurs if the user cancels the dialog.
+186	500470_gain_calibration_failed	500470 !Gain Calibration Failed
+187	500679_gain_calibration_failed	500679 !Gain Calibration Failed
+188	565409_file_path_is_the_path_name_of_the_file_if_file_pa	565409 file path is the path name of the file. If file path is empty (default value) or is Not A Path, the VI displays a File dialog box from which you can select a file. Error 43 occurs if the user cancels the dialog.
+189	56db5f_start_of_read_offset_chars_0_2_new_file_path_not_	56db5f @ start of read offset (chars.:0 ),2@'new file path (Not A Path if cancelled)
+190	5b6767_calcplease_choose_the_file_containing_the_capacit	5b6767 *.calCPlease choose the file containing the capacitance calibration data.
+191	5e39aa_calcplease_choose_the_file_containing_the_capacit	5e39aa *.calCPlease choose the file containing the capacitance calibration data.PTH0
+192	9874_creates_a_new_file_or_replaces_a_file_if_it_exists_	9874 creates a new file or replaces a file if it exists and you give permission. Replacement is done by opening the file and setting EOF to 0. Error 43 occurs if the user elects to disallow the replacement using dialog.
+193	9a99_start_path_is_the_path_name_to_the_initially_displa	9a99 start path is the path name to the initially displayed directory (or folder) in a file dialog. The default value is Not A Path, which is the path to the last directory (or folder) shown in a file dialog.
+194	27f09_calcplease_choose_the_file_containing_the_capacita	27f09 *.calCPlease choose the file containing the capacitance calibration data.PTH0
+195	27f5b_calbplease_choose_the_file_containing_the_inductan	27f5b *.calBPlease choose the file containing the inductance calibration data.gencode.cGenDispatchEntry
+196	35b6e_this_version_of_set_serial_port_buffer_size_vi_is_	35b6e This version of Set Serial Port Buffer Size.vi is to be used on the SPARC or Windows version of LabVIEW as a subVI to OpenSerialDriver and Serial Port Init.vi.$
+197	36464_this_version_of_set_serial_port_buffer_size_vi_is_	36464 This version of Set Serial Port Buffer Size.vi is to be used on the SPARC or Windows version of LabVIEW as a subVI to OpenSerialDriver and Serial Port Init.vi.
+198	531c1_status_is_a_boolean_array_in_which_each_bit_descri	531c1 status is a Boolean array in which each bit describes a state of the GPIB Controller. If an error occurs, the GPIB VIs set bit 15. GPIB error is valid only if bit 15 of status is set.
+199	619e0_status_is_a_boolean_array_in_which_each_bit_descri	619e0 status is a Boolean array in which each bit describes a state of the GPIB Controller. If an error occurs, the GPIB VIs set bit 15. GPIB error is valid only if bit 15 of status is set.
+200	10b519_see_the_data_acquisition_vi_reference_manual_for_	10b519 See the Data Acquisition VI Reference Manual for your platform for tables listing the default settings and ranges for this VI for the boards with which it will work.$

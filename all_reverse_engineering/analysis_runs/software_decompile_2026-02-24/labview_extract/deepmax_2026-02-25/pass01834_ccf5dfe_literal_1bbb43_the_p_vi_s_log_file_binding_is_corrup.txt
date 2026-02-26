@@ -1,0 +1,1 @@
+52365:1bbb43 The "%p" VI's log file binding is corrupt and has been cleared.  To restore the VI's log file binding, open the VI and select the File->Data Logging->Change Log File Binding... menu item.

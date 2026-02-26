@@ -1,0 +1,248 @@
+79432:35fa36 ,,-Make sure the UUT leads are shorted together.W
+79452:35fd88 BBKSomething seems to be wrong. Make sure the UUT leads are shorted together.QD
+79519:36033f KSomething seems to be wrong. Make sure the UUT leads are shorted together.
+79521:3603b6 IND-Make sure the UUT leads are shorted together.
+80417:370478 ,Make sure the red UUT lead is not connected.RD
+80437:370734 ,Make sure the red UUT lead is not connected.W
+80486:370b37 'q,Make sure the red UUT lead is not connected.
+80487:370b7d CAP,Make sure the red UUT lead is not connected.
+82518:3958ab ===Short the UUT leads to the
+82527:395a0d ===Short the UUT leads to the
+82544:395bde 333Short the UUT leads to the
+82546:395c2a 333Short the UUT leads to the
+82553:395d29 333Short the UUT leads to the
+82556:395d98 333Short the UUT leads to the
+82599:3962f6 ===Short the UUT leads to the
+82606:39640e ===Short the UUT leads to the
+82613:396526 ===Short the UUT leads to the
+82620:39663e ===Short the UUT leads to the
+82672:3969ee Inductance Decade Box (H Terminal)=Short the UUT leads to the
+82674:396a4f IND3Short the UUT leads to the
+82676:396a87 IND3Short the UUT leads to the
+82679:396af5 Inductance Decade Box (H Terminal)=Short the UUT leads to the
+82681:396b56 IND=Short the UUT leads to the
+82683:396bb8 Inductance Decade Box (H Terminal)=Short the UUT leads to the
+82685:396c39 Inductance Decade Box (H Terminal)=Short the UUT leads to the
+82687:396cba Inductance Decade Box (H Terminal)=Short the UUT leads to the
+82689:396d3b Inductance Decade Box (H Terminal)3Short the UUT leads to the
+82691:396d92 IND3Short the UUT leads to the
+83540:3a4e90 HConnect the black UUT lead to the
+83550:3a504a HConnect the black UUT lead to the
+83634:3a5732 Capacitance Decade Box (High Terminal).HConnect the black UUT lead to the
+83638:3a57d8 Capacitance Decade Box (High Terminal).HConnect the black UUT lead to the
+90250:413b7f fConnect the UUT and/or DVM leads to
+90281:4140d4 fConnect the UUT and/or DVM leads to
+90294:4142c6 fConnect the UUT and/or DVM leads to
+90298:414378 fConnect the UUT and/or DVM leads to
+90308:4144d6 fConnect the UUT and/or DVM leads to
+90319:41465a fConnect the UUT and/or DVM leads to
+90556:416552 Current Source CalibrationfConnect the UUT and/or DVM leads to
+90560:4165e7 Gain CalibrationfConnect the UUT and/or DVM leads to
+90572:41672a Leakage Voltage CalibrationfConnect the UUT and/or DVM leads to
+90576:4167b9 D/A TestfConnect the UUT and/or DVM leads to
+90580:41683f Leakage Voltage TestfConnect the UUT and/or DVM leads to
+90584:4168d1 Leakage Current TestfConnect the UUT and/or DVM leads to
+94445:44500e KKLConnect the UUT leads to the
+94471:445142 YFBLConnect the UUT leads to the
+99169:48c5b4 @@cShort the UUT leads to the Capacitance Decade box(LTerminal).
+99289:48d005 CLRPARcShort the UUT leads to the Capacitance Decade box(LTerminal).
+104572:4ee2cc 0=1.1MOhm connected to UUT leads; Same as '9'.
+115903:5b58e8 to the UUT leads.MD
+116079:5b67d0 to the UUT leads.
+249478:198fec ,Make sure the red UUT lead is not connected.RD
+249498:1992a8 ,Make sure the red UUT lead is not connected.W
+249547:1996ab 'q,Make sure the red UUT lead is not connected.
+249548:1996f1 CAP,Make sure the red UUT lead is not connected.
+250992:1b1b28 HConnect the black UUT lead to the
+251002:1b1ce2 HConnect the black UUT lead to the
+251086:1b23ca Capacitance Decade Box (High Terminal).HConnect the black UUT lead to the
+251090:1b2470 Capacitance Decade Box (High Terminal).HConnect the black UUT lead to the
+263060:26819c 0=1.1MOhm connected to UUT leads; Same as '9'.
+263211:269155 0=1.1MOhm connected to UUT leads; Same as '9'.
+274454:330940 to the UUT leads.MD
+274630:331828 to the UUT leads.
+276842:35b156 ,,-Make sure the UUT leads are shorted together.W
+276862:35b4a8 BBKSomething seems to be wrong. Make sure the UUT leads are shorted together.QD
+276929:35ba5f KSomething seems to be wrong. Make sure the UUT leads are shorted together.
+276931:35bad6 IND-Make sure the UUT leads are shorted together.
+277907:36bb34 @@cShort the UUT leads to the Capacitance Decade box(LTerminal).
+278027:36c585 CLRPARcShort the UUT leads to the Capacitance Decade box(LTerminal).
+279434:37ea6e KKLConnect the UUT leads to the
+279460:37eba2 YFBLConnect the UUT leads to the
+285325:3e301b fConnect the UUT and/or DVM leads to
+285356:3e3570 fConnect the UUT and/or DVM leads to
+285369:3e3762 fConnect the UUT and/or DVM leads to
+285373:3e3814 fConnect the UUT and/or DVM leads to
+285383:3e3972 fConnect the UUT and/or DVM leads to
+285394:3e3af6 fConnect the UUT and/or DVM leads to
+285631:3e59ee Current Source CalibrationfConnect the UUT and/or DVM leads to
+285635:3e5a83 Gain CalibrationfConnect the UUT and/or DVM leads to
+285647:3e5bc6 Leakage Voltage CalibrationfConnect the UUT and/or DVM leads to
+285651:3e5c55 D/A TestfConnect the UUT and/or DVM leads to
+285655:3e5cdb Leakage Voltage TestfConnect the UUT and/or DVM leads to
+285659:3e5d6d Leakage Current TestfConnect the UUT and/or DVM leads to
+290288:42edaf ===Short the UUT leads to the
+290297:42ef11 ===Short the UUT leads to the
+290314:42f0e2 333Short the UUT leads to the
+290316:42f12e 333Short the UUT leads to the
+290323:42f22d 333Short the UUT leads to the
+290326:42f29c 333Short the UUT leads to the
+290369:42f7fa ===Short the UUT leads to the
+290376:42f912 ===Short the UUT leads to the
+290383:42fa2a ===Short the UUT leads to the
+290390:42fb42 ===Short the UUT leads to the
+290442:42fef2 Inductance Decade Box (H Terminal)=Short the UUT leads to the
+290444:42ff53 IND3Short the UUT leads to the
+290446:42ff8b IND3Short the UUT leads to the
+290449:42fff9 Inductance Decade Box (H Terminal)=Short the UUT leads to the
+290451:43005a IND=Short the UUT leads to the
+290453:4300bc Inductance Decade Box (H Terminal)=Short the UUT leads to the
+290455:43013d Inductance Decade Box (H Terminal)=Short the UUT leads to the
+290457:4301be Inductance Decade Box (H Terminal)=Short the UUT leads to the
+290459:43023f Inductance Decade Box (H Terminal)3Short the UUT leads to the
+290461:430296 IND3Short the UUT leads to the
+291243:440e42 ===Short the UUT leads to the
+291247:440edf ===Short the UUT leads to the
+291253:440fd8 ===Short the UUT leads to the
+291259:4410d1 ===Short the UUT leads to the
+291265:4411ca ===Short the UUT leads to the
+291271:4412c4 333Short the UUT leads to the
+291274:441335 333Short the UUT leads to the
+291350:441a4b Inductance Decade Box (H Terminal)=Short the UUT leads to the
+291352:441aac IND=Short the UUT leads to the
+291354:441b0e Inductance Decade Box (H Terminal)=Short the UUT leads to the
+291356:441b8f Inductance Decade Box (H Terminal)=Short the UUT leads to the
+291358:441c10 Inductance Decade Box (H Terminal)=Short the UUT leads to the
+291360:441c91 Inductance Decade Box (H Terminal)3Short the UUT leads to the
+291362:441cec IND3Short the UUT leads to the
+307026:d5a7c 4) Connect Lo Capacity leads to UUT plugs on front of test box.
+323374:1f007c 4) Connect Lo Capacity leads to UUT plugs on front of test box.
+323681:1f2cc7 4) Connect Lo Capacity leads to UUT plugs on front of test box.
+360907:ccf4a ===Short the UUT leads to the
+360911:ccfe7 ===Short the UUT leads to the
+360917:cd0e0 ===Short the UUT leads to the
+360923:cd1d9 ===Short the UUT leads to the
+360929:cd2d2 ===Short the UUT leads to the
+360935:cd3cc 333Short the UUT leads to the
+360938:cd43d 333Short the UUT leads to the
+361014:cdb53 Inductance Decade Box (H Terminal)=Short the UUT leads to the
+361016:cdbb4 IND=Short the UUT leads to the
+361018:cdc16 Inductance Decade Box (H Terminal)=Short the UUT leads to the
+361020:cdc97 Inductance Decade Box (H Terminal)=Short the UUT leads to the
+361022:cdd18 Inductance Decade Box (H Terminal)=Short the UUT leads to the
+361024:cdd99 Inductance Decade Box (H Terminal)3Short the UUT leads to the
+361026:cddf4 IND3Short the UUT leads to the
+362978:ecdff to the UUT leads.
+363261:eef56 to the UUT leads.MD
+368595:14e4a1 0=1.1MOhm connected to UUT leads; Same as '9'.
+375113:1bf0a2 Press 'Enter' when ready.cShort the UUT leads to the Capacitance Decade box(LTerminal).
+375296:1c05dd @@cShort the UUT leads to the Capacitance Decade box(LTerminal).
+380039:20b212 Ringer CalibrationLConnect the UUT leads to the
+380152:20bf5f KKLConnect the UUT leads to the
+385845:267724 Current Source CalibrationfConnect the UUT and/or DVM leads to
+385868:267933 fConnect the UUT and/or DVM leads to
+385874:2679e0 fConnect the UUT and/or DVM leads to
+385877:267a48 Leakage Voltage CalibrationfConnect the UUT and/or DVM leads to
+385880:267acb D/A TestfConnect the UUT and/or DVM leads to
+385883:267b3b Leakage Voltage TestfConnect the UUT and/or DVM leads to
+386060:269850 fConnect the UUT and/or DVM leads to
+386097:269e44 fConnect the UUT and/or DVM leads to
+386112:26a051 fConnect the UUT and/or DVM leads to
+386116:26a103 fConnect the UUT and/or DVM leads to
+386127:26a27a fConnect the UUT and/or DVM leads to
+386139:26a417 fConnect the UUT and/or DVM leads to
+388679:2ab5c9 HConnect the black UUT lead to the
+388683:2ab693 Capacitance Decade Box (High Terminal).HConnect the black UUT lead to the
+388799:2ac516 99HConnect the black UUT lead to the
+388812:2ac6f6 99HConnect the black UUT lead to the
+389847:2c1818 =Short the UUT leads to the
+389850:2c18c6 IND=Short the UUT leads to the
+389853:2c1959 IND3Short the UUT leads to the
+389854:2c1978 Low Value Inductance Box3Short the UUT leads to the
+389856:2c19c9 IND3Short the UUT leads to the
+389857:2c19e8 Low Value Inductance Box3Short the UUT leads to the
+389866:2c1afc =Short the UUT leads to the
+389867:2c1b18 Inductance Decade Box (L Terminal)=Short the UUT leads to the
+389869:2c1b99 Inductance Decade Box (H Terminal)=Short the UUT leads to the
+389872:2c1c5d Inductance Decade Box (H Terminal)=Short the UUT leads to the
+389985:2c2cde ===Short the UUT leads to the
+389996:2c2e6f ===Short the UUT leads to the
+390014:2c3046 333Short the UUT leads to the
+390016:2c3092 333Short the UUT leads to the
+390023:2c3191 333Short the UUT leads to the
+390026:2c3200 333Short the UUT leads to the
+390074:2c37e9 ===Short the UUT leads to the
+390081:2c3901 ===Short the UUT leads to the
+390088:2c3a19 ===Short the UUT leads to the
+390095:2c3b31 ===Short the UUT leads to the
+391775:2e4a82 CPO,Make sure the red UUT lead is not connected.
+391780:2e4b0f 'q,Make sure the red UUT lead is not connected.
+391881:2e5965 ++,Make sure the red UUT lead is not connected.RD
+391902:2e5c1b ++,Make sure the red UUT lead is not connected.W
+393266:2fb85a :-Make sure the UUT leads are shorted together.
+393270:2fb902 Lead Zero Short Test/ESRKSomething seems to be wrong. Make sure the UUT leads are shorted together.?
+393383:2fca06 ,,-Make sure the UUT leads are shorted together.W
+393404:2fcd66 BBKSomething seems to be wrong. Make sure the UUT leads are shorted together.QD
+404084:3a6591 0=1.1MOhm connected to UUT leads; Same as '9'.
+442588:17f5d1 4) Connect Lo Capacity leads to UUT plugs on front of test box.
+445166:1a5739 4) Connect Lo Capacity leads to UUT plugs on front of test box.
+445430:1a73c6 4) Connect Lo Capacity leads to UUT plugs on front of test box.
+490117:ccef2 ===Short the UUT leads to the
+490121:ccf8f ===Short the UUT leads to the
+490127:cd088 ===Short the UUT leads to the
+490133:cd181 ===Short the UUT leads to the
+490139:cd27a ===Short the UUT leads to the
+490145:cd374 333Short the UUT leads to the
+490148:cd3e5 333Short the UUT leads to the
+490224:cdafb Inductance Decade Box (H Terminal)=Short the UUT leads to the
+490226:cdb5c IND=Short the UUT leads to the
+490228:cdbbe Inductance Decade Box (H Terminal)=Short the UUT leads to the
+490230:cdc3f Inductance Decade Box (H Terminal)=Short the UUT leads to the
+490232:cdcc0 Inductance Decade Box (H Terminal)=Short the UUT leads to the
+490234:cdd41 Inductance Decade Box (H Terminal)3Short the UUT leads to the
+490236:cdd9c IND3Short the UUT leads to the
+493339:10aec5 to the UUT leads.
+502085:1b9184 0=1.1MOhm connected to UUT leads; Same as '9'.
+506651:213b8c Press 'Enter' when ready.cShort the UUT leads to the Capacitance Decade box(LTerminal).
+510104:253879 Ringer CalibrationLConnect the UUT leads to the
+513178:28da29 Current Source CalibrationfConnect the UUT and/or DVM leads to
+513201:28dc38 fConnect the UUT and/or DVM leads to
+513207:28dce5 fConnect the UUT and/or DVM leads to
+513210:28dd4d Leakage Voltage CalibrationfConnect the UUT and/or DVM leads to
+513213:28ddd0 D/A TestfConnect the UUT and/or DVM leads to
+513216:28de40 Leakage Voltage TestfConnect the UUT and/or DVM leads to
+515839:2d9266 HConnect the black UUT lead to the
+515843:2d9330 Capacitance Decade Box (High Terminal).HConnect the black UUT lead to the
+516543:2e8e63 =Short the UUT leads to the
+516546:2e8f11 IND=Short the UUT leads to the
+516549:2e8fa4 IND3Short the UUT leads to the
+516550:2e8fc3 Low Value Inductance Box3Short the UUT leads to the
+516552:2e9014 IND3Short the UUT leads to the
+516553:2e9033 Low Value Inductance Box3Short the UUT leads to the
+516562:2e9147 =Short the UUT leads to the
+516563:2e9163 Inductance Decade Box (L Terminal)=Short the UUT leads to the
+516565:2e91e4 Inductance Decade Box (H Terminal)=Short the UUT leads to the
+516568:2e92a8 Inductance Decade Box (H Terminal)=Short the UUT leads to the
+517979:307df9 CPO,Make sure the red UUT lead is not connected.
+517984:307e86 'q,Make sure the red UUT lead is not connected.
+518660:318168 :-Make sure the UUT leads are shorted together.
+518664:318210 Lead Zero Short Test/ESRKSomething seems to be wrong. Make sure the UUT leads are shorted together.?
+527421:3b51dd 0=1.1MOhm connected to UUT leads; Same as '9'.
+559427:1d99aa 4) Connect Lo Capacity leads to UUT plugs on front of test box.
+559822:1dee42 4) Connect Lo Capacity leads to UUT plugs on front of test box.
+594780:cc8fe ===Short the UUT leads to the
+594784:cc99b ===Short the UUT leads to the
+594790:cca94 ===Short the UUT leads to the
+594796:ccb8d ===Short the UUT leads to the
+594802:ccc86 ===Short the UUT leads to the
+594808:ccd80 333Short the UUT leads to the
+594811:ccdf1 333Short the UUT leads to the
+594887:cd507 Inductance Decade Box (H Terminal)=Short the UUT leads to the
+594889:cd568 IND=Short the UUT leads to the
+594891:cd5ca Inductance Decade Box (H Terminal)=Short the UUT leads to the
+594893:cd64b Inductance Decade Box (H Terminal)=Short the UUT leads to the
+594895:cd6cc Inductance Decade Box (H Terminal)=Short the UUT leads to the
+594897:cd74d Inductance Decade Box (H Terminal)3Short the UUT leads to the
+594899:cd7a8 IND3Short the UUT leads to the
+596820:f643d 0=1.1MOhm connected to UUT leads; Same as '9'.
+608922:1beb71 0=1.1MOhm connected to UUT leads; Same as '9'.

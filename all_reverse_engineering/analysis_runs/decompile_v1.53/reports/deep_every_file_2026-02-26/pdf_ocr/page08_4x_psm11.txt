@@ -1,0 +1,191 @@
+13. RSZ32
+
+COMPONENT TYPE COMMANDS
+
+Description
+
+ALM
+
+Aluminum Electrol ytics |
+
+DBL
+
+Double Layer
+
+AN
+
+Tanialum Caps
+
+CER
+
+Ceramic Caps _
+
+AOC
+
+All Other ‘Caps _
+
+High Resistance Double Layer Lytics —
+
+Col
+
+Coils
+
+YFB
+
+Yokes and Flybacks
+
+x
+
+Switching Transformers
+
+_YALUE MULTIPLIERS
+
+_Command
+
+Description
+
+ce
+
+PiocFersc
+
+Lecro
+
+a oe
+
+ee ae
+
+a
+
+Lhoroterry
+
+Wiiters:
+
+iecidel ae
+
+Posinwe TEKECE
+
+Feud asia ara
+
+tak alias
+
+~ ae
+
+Meee cera &
+
+ee.
+
+Se ES, Gee wee
+
+TEST FUNCTION COMMANDS
+
+Command Description
+
+_ Capacitor value
+
+CAP |
+
+a
+
+_
+
+eon nn
+
+eLKL
+
+i
+
+_ Leakage current
+
+se
+
+LKR
+
+Leakage resistance _
+
+—
+
+faermlid:
+
+D/A
+
+_ Dielectric Absorption
+
+_ Equivalent series res
+
+an
+
+ESR
+
+nce
+
+tient oer
+
+IND
+
+- Inductance
+
+fee eee
+
+RIN
+
+Ringer
+
+so
+
+cic
+
+ea
+
+_ Capacitor in c circuit
+
+ESRi in circuit
+
+Inductance in circuit
+
+GENERAL COMMANDS
+
+Command
+
+Description
+
+LDO
+
+Lead Zero open
+
+ene
+
+Lead zero short
+
+ae
+
+ii
+
+_No Function.
+
+CPO
+
+aan easier
+
+_ Control panel on n (front panel operation) _
+
+nn
+
+Ctrl R
+
+_ Contin
+
+ing/sending test data
+
+naive
+
+renters
+
+a
+
+arisen — MaDe — Pee TE Te Ta
+
+scenes amie
+
+Ctrl O
+
+Return a single reading, (default)

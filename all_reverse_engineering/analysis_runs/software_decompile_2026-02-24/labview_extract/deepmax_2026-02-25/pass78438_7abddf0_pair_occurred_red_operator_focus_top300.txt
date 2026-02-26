@@ -1,0 +1,300 @@
+47604:161e92 Unspecified error occurred.
+48298:167a3f 65An error occurred loading the front panel of VI '%p'.
+48299:167a7b 87An error occurred loading the block diagram of VI '%p'.
+48300:167ab7 #"An error occurred loading VI '%p'.
+48301:167adf 87An error occurred loading the external subroutine '%p'.
+48302:167b1b 54An error occurred loading the external control '%p'.
+48303:167b57 21An error occurred loading the external node '%p'.
+51999:1b89cd File is already open. Generic file I/O error occurred.
+52001:1b8a14 File permission error occurred.
+52011:1b8b50 Configuration token not found.,Error occurred parsing configuration string.(Configuration allocation error occurred.$External code format error occurred.$External code offset error occurred.
+52018:1b8c8b Print driver error occurred.$Windows error occurred during print.#Memory error occurred during print.
+52019:1b8cf1 Print dialog error occurred.
+52020:1b8d0e Generic print error occurred.#Device reference number is invalid.
+52021:1b8d50 Device not found. Device parameter error occurred.
+52022:1b8d83 Device unit error occurred.
+52025:1b8dc8 Generic error occurred.
+52214:1ba2c3 %p is an existing %p.3An error occurred while listing the contents of %p..You must select something in the directory %p.ULabVIEW cannot save to path %p because it is not an existing directory or VI library.
+52509:1bd712 'An error occurred in compiling this VI.TYou need to make more memory available for LabVIEW to generate the code for this VI.
+53003:1cb4a5 )%status is TRUE if an error occurred.
+53009:1cb61a EAstatus is TRUE if an error occurred; the default value is FALSE.
+54244:1dfe8b )%status is TRUE if an error occurred.
+54250:1e0000 EAstatus is TRUE if an error occurred; the default value is FALSE.
+54530:1e48b5 incoming error occurredH
+54531:1e48ff local error occurredZ
+55631:1f6a34 Bus error occurred during transfer
+55633:1f6a5f Multiple query error occurred during transfer
+55637:1f6ab2 User abort occurred during I/O
+55854:1f9d65 Bus error occurred during transfer
+55856:1f9d90 Multiple query error occurred during transfer
+55860:1f9de1 - User abort occurred during I/O
+59840:23a296 (bool) status: TRUE if an error has occurred.
+59845:23a39f error occurred, usually the name of the VI.
+59846:23a3d0 1-(bool) status: TRUE if an error has occurred."
+59870:23a6b0 [W(string) source: an indication of where an error occurred, usually the name of the VI.
+60017:23c21d f(cluster) error in: a cluster describing any error conditions prior to this VI's execution. The default input of this cluster is no error. If an error has already occurred, this VI does nothing. The error in cluster contains the following parameters:
+60018:23c31f (bool) status: TRUE if an error has occurred.
+60024:23c453 error occurred, usually the name of the VI.
+60025:23c484 ZV(bool) status: TRUE if an error has occurred. If status is TRUE, this VI does nothing."
+60030:23c4fe (i32) code: the error code associated with an error. A value of 0 means no error, a negative value is an error, and a positive value is a warning.[W(string) source: an indication of where an error occurred, usually the name of the VI.
+60429:243be5 f(cluster) error in: a cluster describing any error conditions prior to this VI's execution. The default input of this cluster is no error. If an error has already occurred, this VI does nothing. The error in cluster contains the following parameters:
+60430:243ce7 (bool) status: TRUE if an error has occurred.
+60436:243e1b error occurred, usually the name of the VI.
+60437:243e4c [W(string) source: an indication of where an error occurred, usually the name of the VI."
+60443:244022 (bool) status: TRUE if an error has occurred.
+60448:24412b error occurred, usually the name of the VI.
+60477:244690 [W(string) source: an indication of where an error occurred, usually the name of the VI."
+61605:251e0e f(cluster) error in: a cluster describing any error conditions prior to this VI's execution. The default input of this cluster is no error. If an error has already occurred, this VI does nothing. The error in cluster contains the following parameters:
+61606:251f10 (bool) status: TRUE if an error has occurred.
+61612:252044 error occurred, usually the name of the VI.
+61613:252075 [W(string) source: an indication of where an error occurred, usually the name of the VI."
+61619:25224b (bool) status: TRUE if an error has occurred.
+61624:252354 error occurred, usually the name of the VI.
+61653:2528b9 [W(string) source: an indication of where an error occurred, usually the name of the VI.
+62754:25e740 f(cluster) error in: a cluster describing any error conditions prior to this VI's execution. The default input of this cluster is no error. If an error has already occurred, this VI does nothing. The error in cluster contains the following parameters:
+62755:25e842 (bool) status: TRUE if an error has occurred.
+62761:25e976 error occurred, usually the name of the VI.
+62762:25e9a7 ZV(bool) status: TRUE if an error has occurred. If status is TRUE, this VI does nothing.
+62764:25eb5c (bool) status: TRUE if an error has occurred.
+62769:25ec65 error occurred, usually the name of the VI.
+62774:25ecb8 (i32) code: the error code associated with an error. A value of 0 means no error, a negative value is an error, and a positive value is a warning.[W(string) source: an indication of where an error occurred, usually the name of the VI.
+62802:25f288 [W(string) source: an indication of where an error occurred, usually the name of the VI.'8@
+63333:2663ca True if either primary or secondary addresses are outside ot the range 0-31. address error indicates whether a range error has occurred.
+63512:271075 (bool) status: TRUE if an error has occurred.
+63517:27117e error occurred, usually the name of the VI.
+63518:2711af [W(string) source: an indication of where an error occurred, usually the name of the VI.1-(bool) status: TRUE if an error has occurred."
+63527:271419 f(cluster) error in: a cluster describing any error conditions prior to this VI's execution. The default input of this cluster is no error. If an error has already occurred, this VI does nothing. The error in cluster contains the following parameters:
+63528:27151b (bool) status: TRUE if an error has occurred.
+63534:27164f error occurred, usually the name of the VI.
+63535:271680 ZV(bool) status: TRUE if an error has occurred. If status is TRUE, this VI does nothing."
+63540:2716fa (i32) code: the error code associated with an error. A value of 0 means no error, a negative value is an error, and a positive value is a warning.[W(string) source: an indication of where an error occurred, usually the name of the VI.
+66141:295d07 (bool) status: TRUE if an error has occurred.
+66146:295e10 error occurred, usually the name of the VI.
+66147:295e41 [W(string) source: an indication of where an error occurred, usually the name of the VI.1-(bool) status: TRUE if an error has occurred."
+66154:295fa9 f(cluster) error in: a cluster describing any error conditions prior to this VI's execution. The default input of this cluster is no error. If an error has already occurred, this VI does nothing. The error in cluster contains the following parameters:
+66155:2960ab (bool) status: TRUE if an error has occurred.
+66161:2961df error occurred, usually the name of the VI.
+66162:296210 ZV(bool) status: TRUE if an error has occurred. If status is TRUE, this VI does nothing."
+66167:29628a (i32) code: the error code associated with an error. A value of 0 means no error, a negative value is an error, and a positive value is a warning.[W(string) source: an indication of where an error occurred, usually the name of the VI.
+68008:2b06af (bool) status: TRUE if an error has occurred.
+68013:2b07b8 error occurred, usually the name of the VI.
+68014:2b07e9 [W(string) source: an indication of where an error occurred, usually the name of the VI.1-(bool) status: TRUE if an error has occurred.
+68034:2b0cef f(cluster) error in: a cluster describing any error conditions prior to this VI's execution. The default input of this cluster is no error. If an error has already occurred, this VI does nothing. The error in cluster contains the following parameters:
+68035:2b0df1 (bool) status: TRUE if an error has occurred.
+68041:2b0f25 error occurred, usually the name of the VI.
+68042:2b0f56 ZV(bool) status: TRUE if an error has occurred. If status is TRUE, this VI does nothing."
+68047:2b0fd0 (i32) code: the error code associated with an error. A value of 0 means no error, a negative value is an error, and a positive value is a warning.[W(string) source: an indication of where an error occurred, usually the name of the VI.
+68863:2b89e2 (bool) status: TRUE if an error has occurred.
+68868:2b8aeb error occurred, usually the name of the VI.
+68888:2b8dad 1-(bool) status: TRUE if an error has occurred.[W(string) source: an indication of where an error occurred, usually the name of the VI."
+68893:2b8e58 f(cluster) error in: a cluster describing any error conditions prior to this VI's execution. The default input of this cluster is no error. If an error has already occurred, this VI does nothing. The error in cluster contains the following parameters:
+68894:2b8f5a (bool) status: TRUE if an error has occurred.
+68900:2b908e error occurred, usually the name of the VI.
+68907:2b923b (i32) code: the error code associated with an error. A value of 0 means no error, a negative value is an error, and a positive value is a warning.[W(string) source: an indication of where an error occurred, usually the name of the VI.
+69676:2c4468 (bool) status: TRUE if an error has occurred.
+69681:2c4572 error occurred, usually the name of the VI.
+69682:2c45a3 1-(bool) status: TRUE if an error has occurred."
+69693:2c4842 (bool) status: TRUE if an error has occurred.
+69698:2c494c error occurred, usually the name of the VI.
+69699:2c497f (i32) code: the error code associated with an error. A value of 0 means no error, a negative value is an error, and a positive value is a warning.[W(string) source: an indication of where an error occurred, usually the name of the VI.
+70061:2caa9e (bool) status: TRUE if an error has occurred.
+70066:2caba8 error occurred, usually the name of the VI.
+70067:2cabd9 xt(bool) status: TRUE if an error has occurred. Regardless of the value of status, this VI clears the input operation."
+70072:2cac71 (i32) code: the error code associated with an error. A value of 0 means no error, a negative value is an error, and a positive value is a warning.[W(string) source: an indication of where an error occurred, usually the name of the VI.
+70074:2caeba (bool) status: TRUE if an error has occurred.
+70079:2cafc4 error occurred, usually the name of the VI.
+70080:2caff5 1-(bool) status: TRUE if an error has occurred."
+70085:2cb046 (i32) code: the error code associated with an error. A value of 0 means no error, a negative value is an error, and a positive value is a warning.[W(string) source: an indication of where an error occurred, usually the name of the VI.
+70476:2d1a1c (bool) status: TRUE if an error has occurred.
+70481:2d1b26 error occurred, usually the name of the VI.
+70482:2d1b57 xt(bool) status: TRUE if an error has occurred. Regardless of the value of status, this VI clears the input operation.
+70488:2d1d37 (i32) code: the error code associated with an error. A value of 0 means no error, a negative value is an error, and a positive value is a warning.[W(string) source: an indication of where an error occurred, usually the name of the VI.
+70490:2d1f80 (bool) status: TRUE if an error has occurred.
+70495:2d208a error occurred, usually the name of the VI.
+70496:2d20bb 1-(bool) status: TRUE if an error has occurred."
+70501:2d210c (i32) code: the error code associated with an error. A value of 0 means no error, a negative value is an error, and a positive value is a warning.[W(string) source: an indication of where an error occurred, usually the name of the VI.
+75391:31dcc4 .error code. If error code is non-zero, an error occurred. Refer to Appendix C, Error Codes, for a list of error codes.
+75614:321518 .error code. If error code is non-zero, an error occurred. Refer to Appendix C, Error Codes, for a list of error codes.
+75868:3252cb .error code. If error code is non-zero, an error occurred. Refer to Appendix C, Error Codes, for a list of error codes.
+76089:32933c status is TRUE if an error occurred, or FALSE if not. If status is TRUE, code is a non-zero error code. If status is FALSE, code can be zero or a warning code."
+76095:32950c source is a string that indicates the origin of the error, if any. Usually source is the name of the VI in which the error occurred.
+76436:32f246 status is TRUE if an error occurred, or FALSE if not. If status is TRUE, code is a non-zero error code. If status is FALSE, code can be zero or a warning code."
+76442:32f416 source is a string that indicates the origin of the error, if any. Usually source is the name of the VI in which the error occurred.
+76852:336b7a status is TRUE if an error occurred before this VI was called, or FALSE if not. If status is TRUE, code is a non-zero error code. If status is FALSE, code can be zero or a warning code."
+76858:336d64 source is a string that indicates the origin of the error, if any. Usually source is the name of the VI in which the error occurred.
+76860:336fed status is TRUE if an error occurred, or FALSE if not. If status is TRUE, code is a non-zero error code. If status is FALSE, code can be zero or a warning code."
+76866:3371bd source is a string that indicates the origin of the error, if any. Usually source is the name of the VI in which the error occurred.
+99483:4916f3 )%status is TRUE if an error occurred.
+99491:4918d4 wscode is the identification number of the error. Use the General Error Handler.vi to get a description of the error.vrsource identifies where the error occurred and is usually the name of the function or VI that produced the error.
+99492:4919bd )%status is TRUE if an error occurred.
+100213:49d677 ($status is TRUE if an error occurred."
+100219:49d7a0 ($status is TRUE if an error occurred."
+100604:4a38b8 EAstatus is TRUE if an error occurred; the default value is FALSE.
+100612:4a3c20 )%status is TRUE if an error occurred.
+101014:4aa54a EAstatus is TRUE if an error occurred; the default value is FALSE.
+101020:4aa6da )%status is TRUE if an error occurred.
+101438:4b0617 incoming error occurredH
+101598:4b7731 status is TRUE if an error occurred. If this value is FALSE, then the error handler assumes that no error occurred according to the error in, and then checks the error code.
+101605:4b7949 status is TRUE if an error occurred. If this value is FALSE, then the error handler assumes that no error occurred according to the error in, and then checks the error code.
+101611:4b7ae5 mimessage describes the error code that occurred, the source of the error, and a description of the error.
+223260:a0d1 )%status is TRUE if an error occurred.
+223266:a246 EAstatus is TRUE if an error occurred; the default value is FALSE.
+224537:1f96b )%status is TRUE if an error occurred.
+224543:1fae0 EAstatus is TRUE if an error occurred; the default value is FALSE.
+224823:24395 incoming error occurredH
+224824:243df local error occurredZ
+225990:37374 Bus error occurred during transfer
+225992:3739f Multiple query error occurred during transfer
+225996:373f2 User abort occurred during I/O
+226218:3a82d Bus error occurred during transfer
+226220:3a858 Multiple query error occurred during transfer
+226224:3a8a9 - User abort occurred during I/O
+230301:7bfb6 (bool) status: TRUE if an error has occurred.
+230306:7c0bf error occurred, usually the name of the VI.
+230307:7c0f0 1-(bool) status: TRUE if an error has occurred."
+230331:7c3d0 [W(string) source: an indication of where an error occurred, usually the name of the VI.
+230484:7e051 f(cluster) error in: a cluster describing any error conditions prior to this VI's execution. The default input of this cluster is no error. If an error has already occurred, this VI does nothing. The error in cluster contains the following parameters:
+230485:7e153 (bool) status: TRUE if an error has occurred.
+230491:7e287 error occurred, usually the name of the VI.
+230492:7e2b8 ZV(bool) status: TRUE if an error has occurred. If status is TRUE, this VI does nothing."
+230497:7e332 (i32) code: the error code associated with an error. A value of 0 means no error, a negative value is an error, and a positive value is a warning.[W(string) source: an indication of where an error occurred, usually the name of the VI.
+230917:85d79 f(cluster) error in: a cluster describing any error conditions prior to this VI's execution. The default input of this cluster is no error. If an error has already occurred, this VI does nothing. The error in cluster contains the following parameters:
+230918:85e7b (bool) status: TRUE if an error has occurred.
+230924:85faf error occurred, usually the name of the VI.
+230925:85fe0 [W(string) source: an indication of where an error occurred, usually the name of the VI."
+230931:861b6 (bool) status: TRUE if an error has occurred.
+230936:862bf error occurred, usually the name of the VI.
+230965:86824 [W(string) source: an indication of where an error occurred, usually the name of the VI."
+232108:941ca f(cluster) error in: a cluster describing any error conditions prior to this VI's execution. The default input of this cluster is no error. If an error has already occurred, this VI does nothing. The error in cluster contains the following parameters:
+232109:942cc (bool) status: TRUE if an error has occurred.
+232115:94400 error occurred, usually the name of the VI.
+232116:94431 [W(string) source: an indication of where an error occurred, usually the name of the VI."
+232122:94607 (bool) status: TRUE if an error has occurred.
+232127:94710 error occurred, usually the name of the VI.
+232156:94c75 [W(string) source: an indication of where an error occurred, usually the name of the VI.
+233273:a0da0 f(cluster) error in: a cluster describing any error conditions prior to this VI's execution. The default input of this cluster is no error. If an error has already occurred, this VI does nothing. The error in cluster contains the following parameters:
+233274:a0ea2 (bool) status: TRUE if an error has occurred.
+233280:a0fd6 error occurred, usually the name of the VI.
+233281:a1007 ZV(bool) status: TRUE if an error has occurred. If status is TRUE, this VI does nothing.
+233283:a11bc (bool) status: TRUE if an error has occurred.
+233288:a12c5 error occurred, usually the name of the VI.
+233293:a1318 (i32) code: the error code associated with an error. A value of 0 means no error, a negative value is an error, and a positive value is a warning.[W(string) source: an indication of where an error occurred, usually the name of the VI.
+233321:a18e8 [W(string) source: an indication of where an error occurred, usually the name of the VI.'8@
+233858:a8bfe True if either primary or secondary addresses are outside ot the range 0-31. address error indicates whether a range error has occurred.
+234049:b3aad (bool) status: TRUE if an error has occurred.
+234054:b3bb6 error occurred, usually the name of the VI.
+234055:b3be7 [W(string) source: an indication of where an error occurred, usually the name of the VI.1-(bool) status: TRUE if an error has occurred."
+234064:b3e51 f(cluster) error in: a cluster describing any error conditions prior to this VI's execution. The default input of this cluster is no error. If an error has already occurred, this VI does nothing. The error in cluster contains the following parameters:
+234065:b3f53 (bool) status: TRUE if an error has occurred.
+234071:b4087 error occurred, usually the name of the VI.
+234072:b40b8 ZV(bool) status: TRUE if an error has occurred. If status is TRUE, this VI does nothing."
+234077:b4132 (i32) code: the error code associated with an error. A value of 0 means no error, a negative value is an error, and a positive value is a warning.[W(string) source: an indication of where an error occurred, usually the name of the VI.
+236691:d8aa7 (bool) status: TRUE if an error has occurred.
+236696:d8bb0 error occurred, usually the name of the VI.
+236697:d8be1 [W(string) source: an indication of where an error occurred, usually the name of the VI.1-(bool) status: TRUE if an error has occurred."
+236704:d8d49 f(cluster) error in: a cluster describing any error conditions prior to this VI's execution. The default input of this cluster is no error. If an error has already occurred, this VI does nothing. The error in cluster contains the following parameters:
+236705:d8e4b (bool) status: TRUE if an error has occurred.
+236711:d8f7f error occurred, usually the name of the VI.
+236712:d8fb0 ZV(bool) status: TRUE if an error has occurred. If status is TRUE, this VI does nothing."
+236717:d902a (i32) code: the error code associated with an error. A value of 0 means no error, a negative value is an error, and a positive value is a warning.[W(string) source: an indication of where an error occurred, usually the name of the VI.
+238571:f368b (bool) status: TRUE if an error has occurred.
+238576:f3794 error occurred, usually the name of the VI.
+238577:f37c5 [W(string) source: an indication of where an error occurred, usually the name of the VI.1-(bool) status: TRUE if an error has occurred.
+238597:f3ccb f(cluster) error in: a cluster describing any error conditions prior to this VI's execution. The default input of this cluster is no error. If an error has already occurred, this VI does nothing. The error in cluster contains the following parameters:
+238598:f3dcd (bool) status: TRUE if an error has occurred.
+238604:f3f01 error occurred, usually the name of the VI.
+238605:f3f32 ZV(bool) status: TRUE if an error has occurred. If status is TRUE, this VI does nothing."
+238610:f3fac (i32) code: the error code associated with an error. A value of 0 means no error, a negative value is an error, and a positive value is a warning.[W(string) source: an indication of where an error occurred, usually the name of the VI.
+239438:fbc02 (bool) status: TRUE if an error has occurred.
+239443:fbd0b error occurred, usually the name of the VI.
+239463:fbfcd 1-(bool) status: TRUE if an error has occurred.[W(string) source: an indication of where an error occurred, usually the name of the VI."
+239468:fc078 f(cluster) error in: a cluster describing any error conditions prior to this VI's execution. The default input of this cluster is no error. If an error has already occurred, this VI does nothing. The error in cluster contains the following parameters:
+239469:fc17a (bool) status: TRUE if an error has occurred.
+239475:fc2ae error occurred, usually the name of the VI.
+239482:fc45b (i32) code: the error code associated with an error. A value of 0 means no error, a negative value is an error, and a positive value is a warning.[W(string) source: an indication of where an error occurred, usually the name of the VI.
+240276:107a9c (bool) status: TRUE if an error has occurred.
+240281:107ba6 error occurred, usually the name of the VI.
+240282:107bd7 1-(bool) status: TRUE if an error has occurred."
+240293:107e76 (bool) status: TRUE if an error has occurred.
+240298:107f80 error occurred, usually the name of the VI.
+240299:107fb3 (i32) code: the error code associated with an error. A value of 0 means no error, a negative value is an error, and a positive value is a warning.[W(string) source: an indication of where an error occurred, usually the name of the VI.
+240677:10e3ae (bool) status: TRUE if an error has occurred.
+240682:10e4b8 error occurred, usually the name of the VI.
+240683:10e4e9 xt(bool) status: TRUE if an error has occurred. Regardless of the value of status, this VI clears the input operation."
+240688:10e581 (i32) code: the error code associated with an error. A value of 0 means no error, a negative value is an error, and a positive value is a warning.[W(string) source: an indication of where an error occurred, usually the name of the VI.
+240690:10e7ca (bool) status: TRUE if an error has occurred.
+240695:10e8d4 error occurred, usually the name of the VI.
+240696:10e905 1-(bool) status: TRUE if an error has occurred."
+240701:10e956 (i32) code: the error code associated with an error. A value of 0 means no error, a negative value is an error, and a positive value is a warning.[W(string) source: an indication of where an error occurred, usually the name of the VI.
+241109:11562c (bool) status: TRUE if an error has occurred.
+241114:115736 error occurred, usually the name of the VI.
+241115:115767 xt(bool) status: TRUE if an error has occurred. Regardless of the value of status, this VI clears the input operation.
+241121:115947 (i32) code: the error code associated with an error. A value of 0 means no error, a negative value is an error, and a positive value is a warning.[W(string) source: an indication of where an error occurred, usually the name of the VI.
+241123:115b90 (bool) status: TRUE if an error has occurred.
+241128:115c9a error occurred, usually the name of the VI.
+241129:115ccb 1-(bool) status: TRUE if an error has occurred."
+241134:115d1c (i32) code: the error code associated with an error. A value of 0 means no error, a negative value is an error, and a positive value is a warning.[W(string) source: an indication of where an error occurred, usually the name of the VI.
+245706:15c4a8 .error code. If error code is non-zero, an error occurred. Refer to Appendix C, Error Codes, for a list of error codes.
+245935:15fe58 .error code. If error code is non-zero, an error occurred. Refer to Appendix C, Error Codes, for a list of error codes.
+246194:163d6f .error code. If error code is non-zero, an error occurred. Refer to Appendix C, Error Codes, for a list of error codes.
+246424:167f68 status is TRUE if an error occurred, or FALSE if not. If status is TRUE, code is a non-zero error code. If status is FALSE, code can be zero or a warning code."
+246430:168138 source is a string that indicates the origin of the error, if any. Usually source is the name of the VI in which the error occurred.
+246780:16df9e status is TRUE if an error occurred, or FALSE if not. If status is TRUE, code is a non-zero error code. If status is FALSE, code can be zero or a warning code."
+246786:16e16e source is a string that indicates the origin of the error, if any. Usually source is the name of the VI in which the error occurred.
+247217:175aae status is TRUE if an error occurred before this VI was called, or FALSE if not. If status is TRUE, code is a non-zero error code. If status is FALSE, code can be zero or a warning code."
+247223:175c98 source is a string that indicates the origin of the error, if any. Usually source is the name of the VI in which the error occurred.
+247225:175f21 status is TRUE if an error occurred, or FALSE if not. If status is TRUE, code is a non-zero error code. If status is FALSE, code can be zero or a warning code."
+247231:1760f1 source is a string that indicates the origin of the error, if any. Usually source is the name of the VI in which the error occurred.
+257813:20801f )%status is TRUE if an error occurred.
+257821:208200 wscode is the identification number of the error. Use the General Error Handler.vi to get a description of the error.vrsource identifies where the error occurred and is usually the name of the function or VI that produced the error.
+257822:2082e9 )%status is TRUE if an error occurred.
+258567:214a57 ($status is TRUE if an error occurred."
+258573:214b80 ($status is TRUE if an error occurred."
+258975:21b10c EAstatus is TRUE if an error occurred; the default value is FALSE.
+258983:21b474 )%status is TRUE if an error occurred.
+259411:2225fa EAstatus is TRUE if an error occurred; the default value is FALSE.
+259417:22278a )%status is TRUE if an error occurred.
+259835:2286c7 incoming error occurredH
+260031:230309 status is TRUE if an error occurred. If this value is FALSE, then the error handler assumes that no error occurred according to the error in, and then checks the error code.
+260038:230521 status is TRUE if an error occurred. If this value is FALSE, then the error handler assumes that no error occurred according to the error in, and then checks the error code.
+260044:2306bd mimessage describes the error code that occurred, the source of the error, and a description of the error.
+292466:46dd Bus error occurred during transfer
+292468:4708 Multiple query error occurred during transfer
+292472:475b User abort occurred during I/O
+292695:7bfa Bus error occurred during transfer
+292697:7c25 Multiple query error occurred during transfer
+292701:7c76 - User abort occurred during I/O
+296816:492a3 (bool) status: TRUE if an error has occurred.
+296821:493ac error occurred, usually the name of the VI.
+296822:493dd 1-(bool) status: TRUE if an error has occurred."
+296846:496bd [W(string) source: an indication of where an error occurred, usually the name of the VI.
+297002:4b33a f(cluster) error in: a cluster describing any error conditions prior to this VI's execution. The default input of this cluster is no error. If an error has already occurred, this VI does nothing. The error in cluster contains the following parameters:
+297003:4b43c (bool) status: TRUE if an error has occurred.
+297009:4b570 error occurred, usually the name of the VI.
+297010:4b5a1 ZV(bool) status: TRUE if an error has occurred. If status is TRUE, this VI does nothing."
+297015:4b61b (i32) code: the error code associated with an error. A value of 0 means no error, a negative value is an error, and a positive value is a warning.[W(string) source: an indication of where an error occurred, usually the name of the VI.
+297443:53056 f(cluster) error in: a cluster describing any error conditions prior to this VI's execution. The default input of this cluster is no error. If an error has already occurred, this VI does nothing. The error in cluster contains the following parameters:
+297444:53158 (bool) status: TRUE if an error has occurred.
+297450:5328c error occurred, usually the name of the VI.
+297451:532bd [W(string) source: an indication of where an error occurred, usually the name of the VI."
+297457:53493 (bool) status: TRUE if an error has occurred.
+297462:5359c error occurred, usually the name of the VI.
+297491:53b01 [W(string) source: an indication of where an error occurred, usually the name of the VI."
+298646:6147b f(cluster) error in: a cluster describing any error conditions prior to this VI's execution. The default input of this cluster is no error. If an error has already occurred, this VI does nothing. The error in cluster contains the following parameters:
+298647:6157d (bool) status: TRUE if an error has occurred.
+298653:616b1 error occurred, usually the name of the VI.
+298654:616e2 [W(string) source: an indication of where an error occurred, usually the name of the VI."
+298660:618b8 (bool) status: TRUE if an error has occurred.
+298665:619c1 error occurred, usually the name of the VI.
+298694:61f26 [W(string) source: an indication of where an error occurred, usually the name of the VI.
+299821:6e029 f(cluster) error in: a cluster describing any error conditions prior to this VI's execution. The default input of this cluster is no error. If an error has already occurred, this VI does nothing. The error in cluster contains the following parameters:
+299822:6e12b (bool) status: TRUE if an error has occurred.
+299828:6e25f error occurred, usually the name of the VI.
+299829:6e290 ZV(bool) status: TRUE if an error has occurred. If status is TRUE, this VI does nothing.
+299831:6e445 (bool) status: TRUE if an error has occurred.
+299836:6e54e error occurred, usually the name of the VI.
+299841:6e5a1 (i32) code: the error code associated with an error. A value of 0 means no error, a negative value is an error, and a positive value is a warning.[W(string) source: an indication of where an error occurred, usually the name of the VI.
+299869:6eb71 [W(string) source: an indication of where an error occurred, usually the name of the VI.'8@
+300421:75e67 True if either primary or secondary addresses are outside ot the range 0-31. address error indicates whether a range error has occurred.
+300614:80d0a (bool) status: TRUE if an error has occurred.
+300619:80e13 error occurred, usually the name of the VI.

@@ -1,0 +1,227 @@
+43084:f4888 FDFileListBox
+48233:16618b vThis button lets you select a directory with the file dialog box. The selected directory is placed in the
+52992:1caf39 `\default name is the initial file name that appears in the selection box of the file dialog.
+52994:1cb050 new file path is the path of the file opened or created. You can use this output to determine the path of a file that you open or create using dialog. new file path returns Not A Path if the user selects Cancel from the dialog box.
+54000:1db968 file path is the path name of the file. If file path is empty (default value) or is Not A Path, the VI displays a File dialog box from which you can select a file. Error 43 occurs if the user cancels the dialog.
+54008:1dbd46 default name is the initial file name that appears in the selection box of the file dialog.
+54012:1dc119 new file path is the path of the file opened or created. You can use this output to determine the path of a file that you open or create using dialog. new file path returns Not A Path if the user selects Cancel from the dialog box.
+54654:1e5e65 Capacitance Box Cal Data File0
+54655:1e5e9d Inductance Box Cal Data File
+54659:1e5f8a Capacitance Box Cal Data File4
+54660:1e604a Inductance Box Cal Data File
+54699:1e7746 Inductance Box Cal Data File"@2
+54700:1e7766 Capacitance Box Cal Data File
+54701:1e7792 Capacitance Box Cal Data File"`2
+54702:1e77b3 Capacitance Box Cal Data File"@2
+54703:1e77d4 Capacitance Box Cal Data File
+54704:1e77f7 Inductance Box Cal Data File"`2
+54705:1e7817 Inductance Box Cal Data File"@2
+54706:1e7837 Inductance Box Cal Data File
+54730:1e7c22 Capacitance Box Cal Data File"2@
+54731:1e7c43 Inductance Box Cal Data File
+54734:1e7cab Inductance Box Cal Data FileL
+54737:1e7f5d Inductance Box Cal Data File"@2
+54738:1e7f7d Capacitance Box Cal Data File
+54739:1e7fad Capacitance Box Cal Data File
+99473:491225 `\default name is the initial file name that appears in the selection box of the file dialog.
+99475:49133c new file path is the path of the file opened. You can use this output to determine the path of a file that you open using dialog. new file path returns Not A Path if the user selects Cancel from the dialog box.
+100015:49a087 file path is the path name of the file. If file path is empty (default value) or is Not A Path, the VI displays a File dialog box from which you can select a file. Error 43 occurs if the user cancels the dialog.
+100018:49a21a default name is the initial file name that appears in the selection box of the file dialog.
+100022:49a5ed new file path is the path of the file opened. You can use this output to determine the path of a file that you open using dialog. new file path returns Not A Path if the user selects Cancel from the dialog box.
+102675:4d29cc file path is the path name of the file. If file path is empty (default value) or is Not A Path, the VI displays a File dialog box from which you can select a file. Error 43 occurs if the user cancels the dialog.
+102676:4d2aa2 new file path is the path of the file to which the VI wrote data. You can use this output to determine the path of a file that you open using dialog. new file path returns Not A Path if the user selects Cancel from the dialog box.
+102959:4d6272 file path is the path name of the file. If file path is empty (default value) or is Not A Path, the VI displays a File dialog box from which you can select a file. Error 43 occurs if the user cancels the dialog.
+102962:4d6473 new file path is the path of the file to which the VI wrote data. You can use this output to determine the path of a file that you open using dialog. new file path returns Not A Path if the user selects Cancel from the dialog box.
+111785:565409 file path is the path name of the file. If file path is empty (default value) or is Not A Path, the VI displays a File dialog box from which you can select a file. Error 43 occurs if the user cancels the dialog.
+111786:5654df new file path is the path of the file from which the VI read data. You can use this output to determine the path of a file that you open using dialog. new file path returns Not A Path if the user selects Cancel from the dialog box.
+112345:56c24f file path is the path name of the file. If file path is empty (default value) or is Not A Path, the VI displays a File dialog box from which you can select a file. Error 43 occurs if the user cancels the dialog.
+112349:56c5f9 new file path is the path of the file from which the VI read data. You can use this output to determine the path of a file that you open using dialog. new file path returns Not A Path if the user selects Cancel from the dialog box.
+116935:5c854e Inductance Box Cal Data File"@2
+116936:5c856e Capacitance Box Cal Data File
+116937:5c85b3 Inductance Box Cal Data File
+116938:5c8605 Capacitance Box Cal Data File
+118720:5e1057 Capacitance Box Cal Data File"@2
+118721:5e1078 Inductance Box Cal Data File
+119352:5e4a05 Inductance Box Cal Data File"@2
+119353:5e4a25 Capacitance Box Cal Data FilePTH0
+120118:5ece5b File Dialog box
+223249:9b65 `\default name is the initial file name that appears in the selection box of the file dialog.
+223251:9c7c new file path is the path of the file opened or created. You can use this output to determine the path of a file that you open or create using dialog. new file path returns Not A Path if the user selects Cancel from the dialog box.
+224257:1a594 file path is the path name of the file. If file path is empty (default value) or is Not A Path, the VI displays a File dialog box from which you can select a file. Error 43 occurs if the user cancels the dialog.
+224265:1a972 default name is the initial file name that appears in the selection box of the file dialog.
+224269:1ad45 new file path is the path of the file opened or created. You can use this output to determine the path of a file that you open or create using dialog. new file path returns Not A Path if the user selects Cancel from the dialog box.
+224493:1d2a0 file path is the path name of the file. If file path is empty (default value) or is Not A Path, the VI displays a File dialog box from which you can select a file. Error 43 occurs if the user cancels the dialog.
+224501:1d67e default name is the initial file name that appears in the selection box of the file dialog.
+224505:1da51 new file path is the path of the file opened or created. You can use this output to determine the path of a file that you open or create using dialog. new file path returns Not A Path if the user selects Cancel from the dialog box.
+224966:25845 Inductance Box Cal Data File
+224967:25867 Capacitance Box Cal Data File
+224978:26291 Capacitance Box Cal Data File0
+224979:262c9 Inductance Box Cal Data File
+224983:263b6 Capacitance Box Cal Data File4
+224984:26476 Inductance Box Cal Data File
+225023:27b72 Inductance Box Cal Data File"@2
+225024:27b92 Capacitance Box Cal Data File
+225025:27bbe Capacitance Box Cal Data File"`2
+225026:27bdf Capacitance Box Cal Data File"@2
+225027:27c00 Capacitance Box Cal Data File
+225028:27c23 Inductance Box Cal Data File"`2
+225029:27c43 Inductance Box Cal Data File"@2
+225030:27c63 Inductance Box Cal Data File
+225054:2804e Capacitance Box Cal Data File"2@
+225055:2806f Inductance Box Cal Data File
+225058:280d7 Inductance Box Cal Data FileL
+225061:28389 Inductance Box Cal Data File"@2
+225062:283a9 Capacitance Box Cal Data File
+225063:283d9 Capacitance Box Cal Data File
+257803:207b51 `\default name is the initial file name that appears in the selection box of the file dialog.
+257805:207c68 new file path is the path of the file opened. You can use this output to determine the path of a file that you open using dialog. new file path returns Not A Path if the user selects Cancel from the dialog box.
+258345:2109b3 file path is the path name of the file. If file path is empty (default value) or is Not A Path, the VI displays a File dialog box from which you can select a file. Error 43 occurs if the user cancels the dialog.
+258348:210b46 default name is the initial file name that appears in the selection box of the file dialog.
+258352:210f19 new file path is the path of the file opened. You can use this output to determine the path of a file that you open using dialog. new file path returns Not A Path if the user selects Cancel from the dialog box.
+258528:21273d file path is the path name of the file. If file path is empty (default value) or is Not A Path, the VI displays a File dialog box from which you can select a file. Error 43 occurs if the user cancels the dialog.
+258531:2128d0 default name is the initial file name that appears in the selection box of the file dialog.
+258535:212ca3 new file path is the path of the file opened. You can use this output to determine the path of a file that you open using dialog. new file path returns Not A Path if the user selects Cancel from the dialog box.
+261114:24b92c file path is the path name of the file. If file path is empty (default value) or is Not A Path, the VI displays a File dialog box from which you can select a file. Error 43 occurs if the user cancels the dialog.
+261115:24ba02 new file path is the path of the file to which the VI wrote data. You can use this output to determine the path of a file that you open using dialog. new file path returns Not A Path if the user selects Cancel from the dialog box.
+261398:24f1d2 file path is the path name of the file. If file path is empty (default value) or is Not A Path, the VI displays a File dialog box from which you can select a file. Error 43 occurs if the user cancels the dialog.
+261401:24f3d3 new file path is the path of the file to which the VI wrote data. You can use this output to determine the path of a file that you open using dialog. new file path returns Not A Path if the user selects Cancel from the dialog box.
+261610:250883 file path is the path name of the file. If file path is empty (default value) or is Not A Path, the VI displays a File dialog box from which you can select a file. Error 43 occurs if the user cancels the dialog.
+261613:250a84 new file path is the path of the file to which the VI wrote data. You can use this output to determine the path of a file that you open using dialog. new file path returns Not A Path if the user selects Cancel from the dialog box.
+270314:2dfb5d file path is the path name of the file. If file path is empty (default value) or is Not A Path, the VI displays a File dialog box from which you can select a file. Error 43 occurs if the user cancels the dialog.
+270315:2dfc33 new file path is the path of the file from which the VI read data. You can use this output to determine the path of a file that you open using dialog. new file path returns Not A Path if the user selects Cancel from the dialog box.
+270874:2e69a3 file path is the path name of the file. If file path is empty (default value) or is Not A Path, the VI displays a File dialog box from which you can select a file. Error 43 occurs if the user cancels the dialog.
+270878:2e6d4d new file path is the path of the file from which the VI read data. You can use this output to determine the path of a file that you open using dialog. new file path returns Not A Path if the user selects Cancel from the dialog box.
+271321:2e91a6 file path is the path name of the file. If file path is empty (default value) or is Not A Path, the VI displays a File dialog box from which you can select a file. Error 43 occurs if the user cancels the dialog.
+271325:2e9550 new file path is the path of the file from which the VI read data. You can use this output to determine the path of a file that you open using dialog. new file path returns Not A Path if the user selects Cancel from the dialog box.
+286472:3f7c52 Inductance Box Cal Data File"@2
+286473:3f7c72 Capacitance Box Cal Data File
+286474:3f7cb7 Inductance Box Cal Data File
+286475:3f7d09 Capacitance Box Cal Data File
+288257:41075b Capacitance Box Cal Data File"@2
+288258:41077c Inductance Box Cal Data File
+288889:414109 Inductance Box Cal Data File"@2
+288890:414129 Capacitance Box Cal Data FilePTH0
+366631:130615 file path is the path name of the file. If file path is empty (default value) or is Not A Path, the VI displays a File dialog box from which you can select a file. Error 43 occurs if the user cancels the dialog.
+366635:1309bf new file path is the path of the file from which the VI read data. You can use this output to determine the path of a file that you open using dialog. new file path returns Not A Path if the user selects Cancel from the dialog box.
+366643:130f0e file path is the path name of the file. If file path is empty (default value) or is Not A Path, the VI displays a File dialog box from which you can select a file. Error 43 occurs if the user cancels the dialog.
+366644:130fe4 new file path is the path of the file from which the VI read data. You can use this output to determine the path of a file that you open using dialog. new file path returns Not A Path if the user selects Cancel from the dialog box.
+368828:1514b1 Inductance Box Cal Data File
+368829:1514d7 Capacitance Box Cal Data File
+370470:168b66 file path is the path name of the file. If file path is empty (default value) or is Not A Path, the VI displays a File dialog box from which you can select a file. Error 43 occurs if the user cancels the dialog.
+370473:168d67 new file path is the path of the file to which the VI wrote data. You can use this output to determine the path of a file that you open using dialog. new file path returns Not A Path if the user selects Cancel from the dialog box.
+370474:168e52 file path is the path name of the file. If file path is empty (default value) or is Not A Path, the VI displays a File dialog box from which you can select a file. Error 43 occurs if the user cancels the dialog.
+370475:168f28 new file path is the path of the file to which the VI wrote data. You can use this output to determine the path of a file that you open using dialog. new file path returns Not A Path if the user selects Cancel from the dialog box.
+374015:1ad46c file path is the path name of the file. If file path is empty (default value) or is Not A Path, the VI displays a File dialog box from which you can select a file. Error 43 occurs if the user cancels the dialog.
+374018:1ad5ff default name is the initial file name that appears in the selection box of the file dialog.
+374022:1ad9d2 new file path is the path of the file opened. You can use this output to determine the path of a file that you open using dialog. new file path returns Not A Path if the user selects Cancel from the dialog box.
+374029:1ade3d `\default name is the initial file name that appears in the selection box of the file dialog.
+374031:1adf54 new file path is the path of the file opened. You can use this output to determine the path of a file that you open using dialog. new file path returns Not A Path if the user selects Cancel from the dialog box.
+394240:30c4d4 file path is the path name of the file. If file path is empty (default value) or is Not A Path, the VI displays a File dialog box from which you can select a file. Error 43 occurs if the user cancels the dialog.
+394248:30c8b2 default name is the initial file name that appears in the selection box of the file dialog.
+394252:30cc85 new file path is the path of the file opened or created. You can use this output to determine the path of a file that you open or create using dialog. new file path returns Not A Path if the user selects Cancel from the dialog box.
+404021:3a3dbd file path is the path name of the file. If file path is empty (default value) or is Not A Path, the VI displays a File dialog box from which you can select a file. Error 43 occurs if the user cancels the dialog.
+404024:3a3f50 default name is the initial file name that appears in the selection box of the file dialog.
+404028:3a4323 new file path is the path of the file opened. You can use this output to determine the path of a file that you open using dialog. new file path returns Not A Path if the user selects Cancel from the dialog box.
+404060:3a5aeb file path is the path name of the file. If file path is empty (default value) or is Not A Path, the VI displays a File dialog box from which you can select a file. Error 43 occurs if the user cancels the dialog.
+404063:3a5cec new file path is the path of the file to which the VI wrote data. You can use this output to determine the path of a file that you open using dialog. new file path returns Not A Path if the user selects Cancel from the dialog box.
+404096:3a67aa file path is the path name of the file. If file path is empty (default value) or is Not A Path, the VI displays a File dialog box from which you can select a file. Error 43 occurs if the user cancels the dialog.
+404100:3a6b54 new file path is the path of the file from which the VI read data. You can use this output to determine the path of a file that you open using dialog. new file path returns Not A Path if the user selects Cancel from the dialog box.
+404879:3b3fb8 Inductance Box Cal Data File&@2
+404880:3b3fdc Capacitance Box Cal Data File
+404882:3b402b Capacitance Box Cal Data File p2
+404888:3b409c Inductance Box Cal Data File p2
+404928:3b453f Capacitance Box Cal Data File&@2
+404929:3b4564 Inductance Box Cal Data File
+404931:3b480a Capacitance Box Cal Data File6
+404932:3b4831 Inductance Box Cal Data File
+404949:3b49e4 Capacitance Box Cal Data FileL
+404950:3b4a24 Inductance Box Cal Data FileL
+406176:3cb7a4 file path is the path name of the file. If file path is empty (default value) or is Not A Path, the VI displays a File dialog box from which you can select a file. Error 43 occurs if the user cancels the dialog.
+406184:3cbb82 default name is the initial file name that appears in the selection box of the file dialog.
+406188:3cbf55 new file path is the path of the file opened or created. You can use this output to determine the path of a file that you open or create using dialog. new file path returns Not A Path if the user selects Cancel from the dialog box.
+406195:3cc3d5 `\default name is the initial file name that appears in the selection box of the file dialog.
+406197:3cc4ec new file path is the path of the file opened or created. You can use this output to determine the path of a file that you open or create using dialog. new file path returns Not A Path if the user selects Cancel from the dialog box.
+406198:3cc5d6 file path is the path name of the file. If file path is empty (default value) or is Not A Path, the VI displays a File dialog box from which you can select a file. Error 43 occurs if the user cancels the dialog.
+411423:42a480 Inductance Box Cal Data File&@2
+411424:42a4a4 Capacitance Box Cal Data FilePTH0
+412852:43b8fb Capacitance Box Cal Data File
+412853:43b923 Inductance Box Cal Data File
+413274:43dbb8 Inductance Box Cal Data File&@2
+413275:43dbdc Capacitance Box Cal Data File6
+413276:43dc03 Inductance Box Cal Data File6
+413277:43dc29 Capacitance Box Cal Data File.
+490852:df969 Inductance Box Cal Data File&@2
+490853:df98d Capacitance Box Cal Data FilePTH0
+491042:e0b59 Capacitance Box Cal Data File&@2
+491043:e0b7e Inductance Box Cal Data File
+492156:ef8ca Inductance Box Cal Data File&@2
+492157:ef8ee Capacitance Box Cal Data File6
+492158:ef915 Inductance Box Cal Data File6
+492159:ef93b Capacitance Box Cal Data File
+496230:149ab1 file path is the path name of the file. If file path is empty (default value) or is Not A Path, the VI displays a File dialog box from which you can select a file. Error 43 occurs if the user cancels the dialog.
+496234:149e5b new file path is the path of the file from which the VI read data. You can use this output to determine the path of a file that you open using dialog. new file path returns Not A Path if the user selects Cancel from the dialog box.
+496400:14ba08 file path is the path name of the file. If file path is empty (default value) or is Not A Path, the VI displays a File dialog box from which you can select a file. Error 43 occurs if the user cancels the dialog.
+496403:14bc40 new file path is the path of the file from which the VI read data. You can use this output to determine the path of a file that you open using dialog. new file path returns Not A Path if the user selects Cancel from the dialog box.
+503360:1cf875 file path is the path name of the file. If file path is empty (default value) or is Not A Path, the VI displays a File dialog box from which you can select a file. Error 43 occurs if the user cancels the dialog.
+503363:1cfa76 new file path is the path of the file to which the VI wrote data. You can use this output to determine the path of a file that you open using dialog. new file path returns Not A Path if the user selects Cancel from the dialog box.
+503504:1d0c4f file path is the path name of the file. If file path is empty (default value) or is Not A Path, the VI displays a File dialog box from which you can select a file. Error 43 occurs if the user cancels the dialog.
+503506:1d0df1 new file path is the path of the file to which the VI wrote data. You can use this output to determine the path of a file that you open using dialog. new file path returns Not A Path if the user selects Cancel from the dialog box.
+503616:1d26f9 Inductance Box Cal Data File
+503617:1d271f Capacitance Box Cal Data File
+505861:207b61 file path is the path name of the file. If file path is empty (default value) or is Not A Path, the VI displays a File dialog box from which you can select a file. Error 43 occurs if the user cancels the dialog.
+505864:207cf4 default name is the initial file name that appears in the selection box of the file dialog.
+505868:2080c7 new file path is the path of the file opened. You can use this output to determine the path of a file that you open using dialog. new file path returns Not A Path if the user selects Cancel from the dialog box.
+506074:20a523 \default name is the initial file name that appears in the selection box of the file dialog.
+506077:20a6f9 new file path is the path of the file opened. You can use this output to determine the path of a file that you open using dialog. new file path returns Not A Path if the user selects Cancel from the dialog box.
+506082:20ab0d file path is the path name of the file. If file path is empty (default value) or is Not A Path, the VI displays a File dialog box from which you can select a file. Error 43 occurs if the user cancels the dialog. <#
+520832:33bdcc file path is the path name of the file. If file path is empty (default value) or is Not A Path, the VI displays a File dialog box from which you can select a file. Error 43 occurs if the user cancels the dialog.
+520840:33c1aa default name is the initial file name that appears in the selection box of the file dialog.
+520844:33c57d new file path is the path of the file opened or created. You can use this output to determine the path of a file that you open or create using dialog. new file path returns Not A Path if the user selects Cancel from the dialog box.
+527358:3b2a09 file path is the path name of the file. If file path is empty (default value) or is Not A Path, the VI displays a File dialog box from which you can select a file. Error 43 occurs if the user cancels the dialog.
+527361:3b2b9c default name is the initial file name that appears in the selection box of the file dialog.
+527365:3b2f6f new file path is the path of the file opened. You can use this output to determine the path of a file that you open using dialog. new file path returns Not A Path if the user selects Cancel from the dialog box.
+527397:3b4737 file path is the path name of the file. If file path is empty (default value) or is Not A Path, the VI displays a File dialog box from which you can select a file. Error 43 occurs if the user cancels the dialog.
+527400:3b4938 new file path is the path of the file to which the VI wrote data. You can use this output to determine the path of a file that you open using dialog. new file path returns Not A Path if the user selects Cancel from the dialog box.
+527433:3b53f6 file path is the path name of the file. If file path is empty (default value) or is Not A Path, the VI displays a File dialog box from which you can select a file. Error 43 occurs if the user cancels the dialog.
+527437:3b57a0 new file path is the path of the file from which the VI read data. You can use this output to determine the path of a file that you open using dialog. new file path returns Not A Path if the user selects Cancel from the dialog box.
+527447:3b6283 Inductance Box Cal Data File&@2
+527448:3b62a7 Capacitance Box Cal Data File
+527450:3b62fc Capacitance Box Cal Data File x2
+527456:3b636d Inductance Box Cal Data File x2
+527499:3b6c99 Capacitance Box Cal Data File&@2
+527500:3b6cbe Inductance Box Cal Data File
+527502:3b6f64 Capacitance Box Cal Data File6
+527503:3b6f8b Inductance Box Cal Data File
+527520:3b7146 Capacitance Box Cal Data FileH
+527521:3b718a Inductance Box Cal Data FileH
+528190:3c7f0b file path is the path name of the file. If file path is empty (default value) or is Not A Path, the VI displays a File dialog box from which you can select a file. Error 43 occurs if the user cancels the dialog.
+528198:3c82e9 default name is the initial file name that appears in the selection box of the file dialog.
+528202:3c86bc new file path is the path of the file opened or created. You can use this output to determine the path of a file that you open or create using dialog. new file path returns Not A Path if the user selects Cancel from the dialog box.
+528591:3cc24a \default name is the initial file name that appears in the selection box of the file dialog.
+528594:3cc406 new file path is the path of the file opened or created. You can use this output to determine the path of a file that you open or create using dialog. new file path returns Not A Path if the user selects Cancel from the dialog box.
+528600:3cc827 file path is the path name of the file. If file path is empty (default value) or is Not A Path, the VI displays a File dialog box from which you can select a file. Error 43 occurs if the user cancels the dialog.
+595366:d5144 file path is the path name of the file. If file path is empty (default value) or is Not A Path, the VI displays a File dialog box from which you can select a file. Error 43 occurs if the user cancels the dialog.
+595374:d5522 default name is the initial file name that appears in the selection box of the file dialog.
+595378:d58f5 new file path is the path of the file opened or created. You can use this output to determine the path of a file that you open or create using dialog. new file path returns Not A Path if the user selects Cancel from the dialog box.
+595855:e2127 file path is the path name of the file. If file path is empty (default value) or is Not A Path, the VI displays a File dialog box from which you can select a file. Error 43 occurs if the user cancels the dialog.
+595863:e2505 default name is the initial file name that appears in the selection box of the file dialog.
+595867:e28d8 new file path is the path of the file opened or created. You can use this output to determine the path of a file that you open or create using dialog. new file path returns Not A Path if the user selects Cancel from the dialog box.
+596256:e6466 \default name is the initial file name that appears in the selection box of the file dialog.
+596259:e6622 new file path is the path of the file opened or created. You can use this output to determine the path of a file that you open or create using dialog. new file path returns Not A Path if the user selects Cancel from the dialog box.
+596265:e6a43 file path is the path name of the file. If file path is empty (default value) or is Not A Path, the VI displays a File dialog box from which you can select a file. Error 43 occurs if the user cancels the dialog.
+596757:f3c69 file path is the path name of the file. If file path is empty (default value) or is Not A Path, the VI displays a File dialog box from which you can select a file. Error 43 occurs if the user cancels the dialog.
+596760:f3dfc default name is the initial file name that appears in the selection box of the file dialog.
+596764:f41cf new file path is the path of the file opened. You can use this output to determine the path of a file that you open using dialog. new file path returns Not A Path if the user selects Cancel from the dialog box.
+596796:f5997 file path is the path name of the file. If file path is empty (default value) or is Not A Path, the VI displays a File dialog box from which you can select a file. Error 43 occurs if the user cancels the dialog.
+596799:f5b98 new file path is the path of the file to which the VI wrote data. You can use this output to determine the path of a file that you open using dialog. new file path returns Not A Path if the user selects Cancel from the dialog box.
+596832:f6656 file path is the path name of the file. If file path is empty (default value) or is Not A Path, the VI displays a File dialog box from which you can select a file. Error 43 occurs if the user cancels the dialog.
+596836:f6a00 new file path is the path of the file from which the VI read data. You can use this output to determine the path of a file that you open using dialog. new file path returns Not A Path if the user selects Cancel from the dialog box.
+597075:fa159 Inductance Box Cal Data File
+597076:fa17f Capacitance Box Cal Data File
+607057:19f5d1 file path is the path name of the file. If file path is empty (default value) or is Not A Path, the VI displays a File dialog box from which you can select a file. Error 43 occurs if the user cancels the dialog.
+607060:19f764 default name is the initial file name that appears in the selection box of the file dialog.
+607064:19fb37 new file path is the path of the file opened. You can use this output to determine the path of a file that you open using dialog. new file path returns Not A Path if the user selects Cancel from the dialog box.
+608418:1b6e57 file path is the path name of the file. If file path is empty (default value) or is Not A Path, the VI displays a File dialog box from which you can select a file. Error 43 occurs if the user cancels the dialog.
+608421:1b7058 new file path is the path of the file to which the VI wrote data. You can use this output to determine the path of a file that you open using dialog. new file path returns Not A Path if the user selects Cancel from the dialog box.
+610294:1d4e6e file path is the path name of the file. If file path is empty (default value) or is Not A Path, the VI displays a File dialog box from which you can select a file. Error 43 occurs if the user cancels the dialog.
+610298:1d5218 new file path is the path of the file from which the VI read data. You can use this output to determine the path of a file that you open using dialog. new file path returns Not A Path if the user selects Cancel from the dialog box.

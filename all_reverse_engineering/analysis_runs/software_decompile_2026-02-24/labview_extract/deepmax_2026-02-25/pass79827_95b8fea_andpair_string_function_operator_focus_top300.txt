@@ -1,0 +1,18 @@
+47043:15ee60 The vi %p calls Unflatten from String or Type Cast to a type containing an extended float. If the input data to these functions comes from a file, you must convert extended floats in the file to LV 3.0 format.
+53014:1cb6af zvsource is in most cases the name of the VI or function that produced the error; the default value is an empty string.
+54255:1e0095 zvsource is in most cases the name of the VI or function that produced the error; the default value is an empty string.
+100610:4a3a7b zvsource is in most cases the name of the VI or function that produced the error; the default value is an empty string.
+101013:4aa4d2 zvsource is in most cases the name of the VI or function that produced the error; the default value is an empty string.
+223271:a2db zvsource is in most cases the name of the VI or function that produced the error; the default value is an empty string.
+224548:1fb75 zvsource is in most cases the name of the VI or function that produced the error; the default value is an empty string.
+258981:21b2cf zvsource is in most cases the name of the VI or function that produced the error; the default value is an empty string.
+259410:222582 zvsource is in most cases the name of the VI or function that produced the error; the default value is an empty string.
+372364:1939fd zvsource is in most cases the name of the VI or function that produced the error; the default value is an empty string.
+372953:19bbcd zvsource is in most cases the name of the VI or function that produced the error; the default value is an empty string.
+405308:3bab24 zvsource is in most cases the name of the VI or function that produced the error; the default value is an empty string.
+406212:3cccb6 zvsource is in most cases the name of the VI or function that produced the error; the default value is an empty string.
+504904:1f57dd vsource is in most cases the name of the VI or function that produced the error; the default value is an empty string.
+505282:1fb74f vsource is in most cases the name of the VI or function that produced the error; the default value is an empty string.
+527764:3bc375 vsource is in most cases the name of the VI or function that produced the error; the default value is an empty string.
+528597:3cc6f0 vsource is in most cases the name of the VI or function that produced the error; the default value is an empty string.
+596262:e690c vsource is in most cases the name of the VI or function that produced the error; the default value is an empty string.
