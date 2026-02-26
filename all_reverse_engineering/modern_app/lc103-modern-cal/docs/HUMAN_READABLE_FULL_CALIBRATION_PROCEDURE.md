@@ -1,287 +1,254 @@
-# LC103 Full Calibration Procedure (Complete Operator Version)
+# LC103 Full Calibration - Parts, Wiring, and Exact Steps
 
-This is the full detailed recovery-based procedure with explicit setup, per-stage actions, reference values, and pass/fail gates.
+This document is written for doing the calibration on a real bench.
+It tells you what hardware you need, what values must exist in the fixture, and what to connect/set at each step.
 
-LC103 CALIBRATION WIZARD RUNDOWN
+## 1) Required hardware (no placeholders)
 
-1. All (Not Ringer) / Start Button
-Legacy UI flow: select stage set (typically All (Not Ringer)), then press Start Button. Use Continue Button to advance each prompt. Gate text recovered from old flow: 'Press ENTER when ready, choose test to perform and press START.'
-Recovered UUT comm semantics: mode 0=write/read, mode 1=write-only, mode 2=read-only.
+### 1.1 Mandatory base items
 
-2. Harness/Test Box Setup
-Prepare legacy final-cal bench harness before calibration:
-1) Connect PA251 power adapter to rear of LC103.
-2) Connect RS-232 cable from host PC to LC103 RS-232 port.
-3) Connect 39G219 test-lead cable from LC103 front panel to final test box.
-4) Connect IEEE cable to RS232 interface port on back-left side of UUT.
-5) Power on UUT and verify software revision display.
-Legacy fixture variant also appears in source:
-- Mainboard tester (#74C216-1) with Fluke 8840A and 50 pin ribbon cable.
+- 1x Sencore LC103 (UUT)
+- 1x PA251 power adapter
+- 1x RS-232 cable (PC <-> LC103)
+- 1x 39G219 front-panel lead cable (LC103 <-> fixture)
+- 1x IEEE cable used by the legacy fixture path
+- 1x DVM (Fluke 8840A/8842 class path is what legacy flow expects)
+- Host computer running the calibration app
 
-3. Pass/Fail Indicator Visibility
-Set Pass/ Fail Indicator and make it visible before running tests. Recovered flow also toggles Pass/Fail button invisible in some transitions; ensure visible for operator run.
+### 1.2 Calibration files required by software
 
-4. Calibration Data File Selection
-Use F1/path controls first if prompted, then select calibration data files:
-- Capacitance: P071_03.CAL
-- Inductance: P072_1.CAL or approved matching variant.
-If file/path prompts loop, re-open path selector with F1 and re-select both .CAL files before continuing.
+- `LC103 Cal Data.ini`
+- `P071_03.CAL` (cap ranges)
+- `P072_1.cal` (ind ranges)
+- optional approved variant: `P072_10.CAL`
 
-5. Software Rev. Check
-Confirm software revision matches unit display. If software rev file cannot be read, set revision manually on front panel and continue. If revision is invalid or file/path lookup fails, use F1 to fix paths, re-select .CAL files, and retry probe. Recovered warning path: place floppy disk in computer and fix invalid rev after calibration fails.
-Commands: VER#?, SER#?
+### 1.3 Fixture hardware you must have (factory box or DIY equivalent)
 
-6. Calibration Reset
-Warning: Choosing Calibration Reset removes all calibration from the UUT. Take backup first, then continue only if intended.
-Commands: CALCHK, CALDATE?
+You need either the original LC103 Final Test Box or a compatible box that provides all of these resources.
 
-7. Lead Open Test (Caps)
-Run lead-open integrity check before calibration ranges:
-- Use Lead Open Test/Caps branch.
-- Ensure lead state matches prompt (open when requested).
-- Continue only after pass/ready indication.
+#### A) Load-select resistor matrix (required)
 
-8. Lead Zero Short Test (Inductance/ESR)
-Run lead-short integrity and zero check:
-- Make sure UUT leads are shorted together.
-- Execute Lead Zero Short Test/Inductance and Lead Zero Short Test/ESR checks.
-- Continue only after pass/ready indication.
+- LS0: `1.1 MOhm` to UUT leads (same function as LS9 path)
+- LS1: `100 kOhm`
+- LS2: `10 kOhm`
+- LS3: `1 kOhm` (used in gain path)
+- LS4: `100 Ohm`
+- LS5: `10 Ohm`
+- LS6: `2 kOhm` (used in gain path)
+- LS7: `0% D/A standard`
+- LS8: `10% D/A standard`
+- LS9: `100 kOhm` (high-side path)
 
-9. 10V Ref Calibration
-Connection:
-- DVM + to TP1006, DVM - to TP1020.
-Target:
-- Adjust R1045 until measured reference is 10.000V +/-0.005V.
-Pass/Fail:
-- PASS inside 9.995V..10.005V; FAIL outside that window.
-Commands: CALON, CALCHK, CALOFF, CLRPAR
+#### B) Leakage-current sense network (required)
 
-10. Current Source Calibration
-Connection:
-- UUT leads to LC103 Final Test Box. DVM on test-box DVM jacks if instructed by fixture.
-- Load Select map recovered from legacy source:
-0=1.1 MOhm to UUT leads (same as 9 high-side path),
-1=100 kOhm, 2=10 kOhm, 3=1 kOhm, 4=100 Ohm, 5=10 Ohm, 6=2 kOhm,
-7=0% D/A, 8=10% D/A, 9=100 kOhm (high-voltage side).
-- Named load usage recovered: 100k(low voltage), 10k(low voltage), 1k(low voltage/gain), 2k(gain), 100k(V/I leakage).
-- Firmware ISRC labels recovered: 1uA, 10uA, 33uA, 100uA, 1mA, 10mA, 100mA, OFF.
-- ISRC_CAL payload contains an explicit range-id vector with 5 entries: [1, 3, 4, 5, 6].
-Comparison quantity:
-- Current-source Cal Factor (dimensionless ratio) where x1.0000 means no correction (on target).
-- This is not a direct volts/amps setpoint; it is a correction multiplier.
-- Under-the-hood meter path is voltage readback (volts) converted internally to the ratio.
-- Flow cue: Lowest Current Range is calibrated first.
-- Embedded ISRC stage constants include target x1.0000 with limits x0.9985..x1.0015.
-Pass/Fail:
-- PASS when Cal Factor is inside 0.9985..1.0015.
-- FAIL outside this window or on comms/calibration fault.
-Commands: CALON, CALCHK, CALF?, CALOFF, CLRPAR
+- Sense resistor path 0: `1.111 MOhm` (approx `9 uA`, setup `9`, multiplier `10.0`)
+- Sense resistor path 1: `100 kOhm` (approx `100 uA`, setup `1`, multiplier `1.0`)
+- Sense resistor path 2: `10 kOhm` (approx `1 mA`, setup `2`, multiplier `1.0`)
+- Sense resistor path 3: `1 kOhm` (approx `10 mA`, setup `3`, multiplier `1.0`)
 
-11. Gain Calibration
-Connection:
-- UUT leads to LC103 Final Test Box.
-- Fixture load-select path uses 1k (low voltage/gain) and 2k (gain), from recovered Load Select map.
-- GAIN_CAL payload explicitly carries CALF/GAIN path with load IDs 3 and 6.
-Comparison quantity:
-- Gain factor ratio target = x1.0000 (dimensionless correction multiplier).
-- Physical readback path is voltage (V) across known fixture resistance, normalized internally.
-- Embedded GAIN_CAL constants include ratio limits 0.9/1.1 and an internal scale token 1000.0.
-Pass/Fail:
-- PASS when ratio is inside 0.9..1.1.
-- FAIL if adjustment exceeds 10% or gain calibration failed marker is returned.
-Commands: CALON, CALCHK, CALOFF, CLRPAR
+#### C) Voltage source points available in fixture path (required)
 
-12. Capacitance Fixture Setup
-Make sure the red UUT lead is not connected. Short UUT leads to the Capacitance Decade Box (L Terminal). Connect black UUT lead to the Capacitance Decade Box (Low Terminal), then move red lead to the Capacitance Decade Box (High Terminal).
+- `1 V`, `16 V`, `32 V`, `33 V`, `500 V`, `1000 V`
 
-13. Capacitance Range 0 Low Point
-Set capacitance decade box to low point for range 0: 200pf (73p71) (actual 2.011e-10 F), then Continue.
-Commands: CALON, CALSET, CALCHK, CALOFF, CLRPAR
+#### D) External standards/devices used by prompts
 
-14. Capacitance Range 0 High Point
-Set capacitance decade box to high point for range 0: 1700pf (73p71) (actual 1.7011e-09 F), then Continue.
-Commands: CALON, CALSET, CALCHK, CALOFF, CLRPAR
+- Capacitance decade box (L/H terminal wiring)
+- Inductance decade box (L/H terminal wiring)
+- ESR point: ability to set `0.022 uF` (`0.0219 uF` actual)
+- Small ringer calibration box with two switch positions:
+  - `Yolks/Flybacks`
+  - `Switching Transformers`
 
-15. Capacitance Range 1 Low Point
-Set capacitance decade box to low point for range 1: 0.004uf (73p71) (actual 4e-09 F), then Continue.
-Commands: CALON, CALSET, CALCHK, CALOFF, CLRPAR
+## 2) What each hardware item is used for
 
-16. Capacitance Range 1 High Point
-Set capacitance decade box to high point for range 1: 0.018uf (73p71) (actual 1.8e-08 F), then Continue.
-Commands: CALON, CALSET, CALCHK, CALOFF, CLRPAR
+- PA251: powers LC103 during calibration.
+- RS-232: command/response channel for all calibration actions.
+- 39G219 + Final Test Box: routes UUT leads into the correct calibration loads and standards.
+- DVM: verifies analog reference points and fixture voltage/current behavior.
+- Cap decade box: provides cap range low/high standards.
+- Ind decade box: provides inductor range low/high standards.
+- Ringer box: provides ring-count reference for R1144/R1005 trims.
 
-17. Capacitance Range 2 Low Point
-Set capacitance decade box to low point for range 2: 0.04uf (73p71) (actual 4e-08 F), then Continue.
-Commands: CALON, CALSET, CALCHK, CALOFF, CLRPAR
+## 3) Hard numeric references (what pass/fail is based on)
 
-18. Capacitance Range 2 High Point
-Set capacitance decade box to high point for range 2: 0.18uf (73p71) (actual 1.8e-07 F), then Continue.
-Commands: CALON, CALSET, CALCHK, CALOFF, CLRPAR
+- 10V reference trim:
+  - connect DVM `+` to `TP1006`, DVM `-` to `TP1020`
+  - adjust `R1045` to `10.000 V +/- 0.005 V`
+  - pass range: `9.995 V .. 10.005 V`
 
-19. Capacitance Range 3 Low Point
-Set capacitance decade box to low point for range 3: 0.4uf (73p71) (actual 4e-07 F), then Continue.
-Commands: CALON, CALSET, CALCHK, CALOFF, CLRPAR
+- Current source calibration (`ISRC_CAL`):
+  - compare target: `x1.0000` correction ratio
+  - pass window: `0.9985 .. 1.0015`
+  - firmware modes present: `1uA`, `10uA`, `33uA`, `100uA`, `1mA`, `10mA`, `100mA`, `OFF`
 
-20. Capacitance Range 3 High Point
-Set capacitance decade box to high point for range 3: 1.80uf (74b211) (actual 1.764e-06 F), then Continue.
-Commands: CALON, CALSET, CALCHK, CALOFF, CLRPAR
+- Gain calibration (`GAIN_CAL`):
+  - compare target: `x1.0000` correction ratio
+  - pass window: `0.9 .. 1.1`
 
-21. Capacitance Range 4 Low Point
-Set capacitance decade box to low point for range 4: 4.0uf (74b211) (actual 3.848e-06 F), then Continue.
-Commands: CALON, CALSET, CALCHK, CALOFF, CLRPAR
+- Leakage current test (`LEAK_I`):
+  - pass window: `0.937 .. 1.06` ratio
 
-22. Capacitance Range 4 High Point
-Set capacitance decade box to high point for range 4: 18.0uf (74b211) (actual 1.961e-05 F), then Continue.
-Commands: CALON, CALSET, CALCHK, CALOFF, CLRPAR
+- Leakage voltage test (`LEAK_VLT`):
+  - recovered compare constants include `0.95` and `0.99`
 
-23. Capacitance Range 5 Low Point
-Set capacitance decade box to low point for range 5: 40.0uf (74b211) (actual 3.837e-05 F), then Continue.
-Commands: CALON, CALSET, CALCHK, CALOFF, CLRPAR
+- ESR calibration (`ESR_CAL`):
+  - recovered constants: `2.00E-8`, `2.20E-8`, `2.40E-8`
+  - fail cue path includes `Cal'ed value >1 ohm`
 
-24. Capacitance Range 5 High Point
-Set capacitance decade box to high point for range 5: 180uf (74b211) (actual 0.00017204 F), then Continue.
-Commands: CALON, CALSET, CALCHK, CALOFF, CLRPAR
+## 4) Step-by-step operator procedure (exact actions)
 
-25. Capacitance Range 6 Low Point
-Set capacitance decade box to low point for range 6: 400uf (74b211) (actual 0.000383 F), then Continue.
-Commands: CALON, CALSET, CALCHK, CALOFF, CLRPAR
+### 4.1 Bench setup
 
-26. Capacitance Range 6 High Point
-Set capacitance decade box to high point for range 6: 1800uf (74b211) (actual 0.00171525 F), then Continue.
-Commands: CALON, CALSET, CALCHK, CALOFF, CLRPAR
+1. Connect `PA251` to LC103 rear power.
+2. Connect RS-232 from PC to LC103 RS-232.
+3. Connect `39G219` between LC103 front panel and Final Test Box.
+4. Connect the IEEE cable path used by the legacy fixture setup.
+5. Power on LC103.
 
-27. ESR Calibration
-Connection:
-- Red UUT lead to capacitance decade box H terminal.
-- Set decade box to 0.022uF (actual 0.0219uF).
-Comparison quantity:
-- ESR/RC internal constants seen in legacy stage: 2.00E-8, 2.20E-8, 2.40E-8.
-- Comparator unit mapping is partially decoded; use stage pass/fail markers as the hard gate.
-Pass/Fail:
-- FAIL if ESR calibration failed marker appears or cal'ed ESR value exceeds 1 ohm.
-Commands: CALON, CALCHK, CALOFF, CLRPAR
+### 4.2 App setup
 
-28. Inductance Fixture Setup
-Short the UUT leads to the Inductance Decade Box (L Terminal). Now connect the red lead to the Inductance Decade Box (H Terminal). Recovered variants also mention a Low Value Inductance Box on some flows.
+6. Open calibration app.
+7. Use path setup (F1 behavior in legacy flow) to select files:
+   - `P071_03.CAL`
+   - `P072_1.cal` (or approved `P072_10.CAL`)
+8. Verify software revision/profile alignment.
 
-29. Inductance Range 0 Low Point
-Set inductance decade box to low point for range 0: 2.00uh (74a144) (actual 2.36e-06 H), then Continue.
-Commands: CALON, CALSET, CALCHK, CALOFF, CLRPAR
+### 4.3 Pre-checks
 
-30. Inductance Range 0 High Point
-Set inductance decade box to high point for range 0: 10.0uh (74a144) (actual 1.032e-05 H), then Continue.
-Commands: CALON, CALSET, CALCHK, CALOFF, CLRPAR
+9. Run lead-open check.
+10. Run lead-short/zero checks (including Inductance and ESR branches).
+11. Continue only if pre-checks pass.
 
-31. Inductance Range 1 Low Point
-Set inductance decade box to low point for range 1: 40.0uh (74a144) (actual 3.714e-05 H), then Continue.
-Commands: CALON, CALSET, CALCHK, CALOFF, CLRPAR
+### 4.4 10V reference stage
 
-32. Inductance Range 1 High Point
-Set inductance decade box to high point for range 1: 80.0uh (74a144) (actual 7.9e-05 H), then Continue.
-Commands: CALON, CALSET, CALCHK, CALOFF, CLRPAR
+12. Connect DVM `+` to `TP1006`.
+13. Connect DVM `-` to `TP1020`.
+14. Adjust `R1045` until DVM reads `10.000 V`.
+15. Confirm it is inside `9.995 .. 10.005 V`.
 
-33. Inductance Range 2 Low Point
-Set inductance decade box to low point for range 2: 200uh (73p72) (actual 0.00019808 H), then Continue.
-Commands: CALON, CALSET, CALCHK, CALOFF, CLRPAR
+### 4.5 Current source stage
 
-34. Inductance Range 2 High Point
-Set inductance decade box to high point for range 2: 1.50mh (73p72) (actual 0.001495 H), then Continue.
-Commands: CALON, CALSET, CALCHK, CALOFF, CLRPAR
+16. Keep UUT connected through Final Test Box current path.
+17. Run Current Source Calibration.
+18. Accept only results inside `0.9985 .. 1.0015`.
 
-35. Inductance Range 3 Low Point
-Set inductance decade box to low point for range 3: 2.00mh (73p72) (actual 0.0019971 H), then Continue.
-Commands: CALON, CALSET, CALCHK, CALOFF, CLRPAR
+### 4.6 Gain stage
 
-36. Inductance Range 3 High Point
-Set inductance decade box to high point for range 3: 15.0mh (73p72) (actual 0.014951 H), then Continue.
-Commands: CALON, CALSET, CALCHK, CALOFF, CLRPAR
+19. Keep UUT through Final Test Box gain path.
+20. Ensure fixture can route LS3 (`1k`) and LS6 (`2k`).
+21. Run Gain Calibration.
+22. Accept only results inside `0.9 .. 1.1`.
 
-37. Inductance Range 4 Low Point
-Set inductance decade box to low point for range 4: 20.0mh (73p72) (actual 0.019952 H), then Continue.
-Commands: CALON, CALSET, CALCHK, CALOFF, CLRPAR
+### 4.7 Capacitance calibration (7 ranges, low/high each)
 
-38. Inductance Range 4 High Point
-Set inductance decade box to high point for range 4: 150mh (73p72) (actual 0.14942 H), then Continue.
-Commands: CALON, CALSET, CALCHK, CALOFF, CLRPAR
+23. Fixture lead setup for cap branch:
+   - Follow prompt order: short/low terminal setup first, then red lead to high terminal.
 
-39. Inductance Range 5 Low Point
-Set inductance decade box to low point for range 5: 200mh (73p72) (actual 0.19894 H), then Continue.
-Commands: CALON, CALSET, CALCHK, CALOFF, CLRPAR
+24. Set decade box for each range pair and run the step:
 
-40. Inductance Range 5 High Point
-Set inductance decade box to high point for range 5: 1.50h (73p72) (actual 1.4968 H), then Continue.
-Commands: CALON, CALSET, CALCHK, CALOFF, CLRPAR
+| Range | Low setpoint | High setpoint |
+|---|---|---|
+| C0 | 200 pF | 1700 pF |
+| C1 | 0.004 uF | 0.018 uF |
+| C2 | 0.04 uF | 0.18 uF |
+| C3 | 0.4 uF | 1.80 uF |
+| C4 | 4.0 uF | 18.0 uF |
+| C5 | 40.0 uF | 180 uF |
+| C6 | 400 uF | 1800 uF |
 
-41. Inductance Range 6 Low Point
-Set inductance decade box to low point for range 6: 2.00h (73p72) (actual 1.9948 H), then Continue.
-Commands: CALON, CALSET, CALCHK, CALOFF, CLRPAR
+Reference actuals used by profile:
+- C0: `202.7E-12` / `1704.0E-12`
+- C1: `0.004E-6` / `0.018E-6`
+- C2: `0.04E-6` / `0.18E-6`
+- C3: `0.4E-6` / `1.765E-6`
+- C4: `3.849E-6` / `19.580E-6`
+- C5: `38.20E-6` / `171.21E-6`
+- C6: `381.04E-6` / `1709.20E-6`
 
-42. Inductance Range 6 High Point
-Set inductance decade box to high point for range 6: 8.00h (73p72) (actual 8.1361 H), then Continue.
-Commands: CALON, CALSET, CALCHK, CALOFF, CLRPAR
+### 4.8 ESR calibration
 
-43. Leakage Voltage Calibration
-Connection:
-- UUT leads to LC103 Final Test Box. DVM attached to fixture voltage monitor path.
-Fixture points recovered in-stage:
-- Legacy prompt text explicitly references 500 V and 1000 V points.
-- Leak_CAL DFDS payload also encodes 1V, 32V, 33V, and 1000V set/value pairs.
-Comparison quantity:
-- Leakage-voltage gain/offset routine using fixture steps and DVM path.
-- Recovered constants seen in stage logic: 0.75, 1.1, 0.99, 10.0, 16.0, 32.0, 33.0, 200.0, 1000.0, -0.0250.
-- Comparator domain is ratio/correction in this block (not raw volts); use markers as authoritative gate.
-Pass/Fail:
-- FAIL on 'offset adjustment too high' or 'gain adjustment >10%' markers.
-- PASS when stage returns pass markers without fail markers.
-Commands: CALON, CALCHK, CALOFF, CLRPAR
+25. Connect red UUT lead to capacitance box H terminal as prompted.
+26. Set capacitance decade to `0.022 uF` (`0.0219 uF` actual).
+27. Run ESR calibration and accept only pass status.
 
-44. D/A Test
-Connection:
-- UUT leads to LC103 Final Test Box, then Switch in D/A Standard path.
-Fixture points:
-- D/A reference points: 0% D/A and 10% D/A (LS7 and LS8).
-- DA_TEST DFDS includes reference values 0.0 and 10.0 plus compare constants -1.5 and +1.5.
-Comparison quantity:
-- D/A response at 0% and 10% standard points.
-- Recovered constants include +/-1.5 and 0.01 scaling in the compare block.
-Pass/Fail:
-- FAIL on 'measurement beyond specs' marker.
-Commands: CALON, CALCHK, CALOFF, CLRPAR
+### 4.9 Inductance calibration (7 ranges, low/high each)
 
-45. Leakage Voltage Test
-Connection:
-- UUT leads to LC103 Final Test Box with DVM correction path active.
-Set values (fixture points):
-- LEAK_VLT DFDS point list: 1 V, 16 V, 32 V, 33 V, 500 V, 1000 V.
-Comparison quantity:
-- Leakage-voltage response through DVM correction path across the encoded point list.
-Pass/Fail:
-- Recovered constants include 1.0, 0.95, and 0.99 in this stage.
-- Additional scalars present in LEAK_VLT DFDS block: 10.0 and 200.0.
-- Comparator unit mapping is partially decoded; use pass/fail markers as hard gate.
-Commands: CALON, CALCHK, CALOFF, CLRPAR
+28. Fixture lead setup for ind branch:
+   - short to L terminal path, then move red lead to H terminal path as prompted.
 
-46. Leakage Current Test
-Connection:
-- UUT leads to LC103 Final Test Box, using fixture Load Select and Sense Resistor routing.
-Recovered leakage substeps:
-- Substep 0: sense resistor 1.111E6 Ohm, approx 9uA, cal box setup #9, 8842 multiplier 10.0.
-- Substep 1: sense resistor 100.0E3 Ohm, approx 100uA, cal box setup #1, 8842 multiplier 1.0.
-- Substep 2: sense resistor 10.0E3 Ohm, approx 1mA, cal box setup #2, 8842 multiplier 1.0.
-- Substep 3: sense resistor 1.00E3 Ohm, approx 10mA, cal box setup #3, 8842 multiplier 1.0.
-Comparison quantity:
-- Leakage current response across setup matrix columns recovered in LEAK_I: Sense Resistor, Approx Current, Cal Box Setup #, 8842 multiplier.
-- Recovered references include DVM input resistance about 1.111E6 ohms (1.111 MOhm / 1,111,000 ohms).
-- LEAK_I payload also includes explicit '10V' reference text; inferred nominal point is about 10V across each selected sense resistor.
-Pass/Fail:
-- Recovered ratio limits include x0.937..x1.06 (unitless correction ratio), with 0.005 tolerance scalar present in-stage.
-- PASS with pass marker and no fail marker; FAIL otherwise.
-Commands: CALON, CALCHK, CALOFF, CLRPAR
+29. Set decade box for each range pair and run the step:
 
-47. Calibration Stamp
-Set Calibration Date / Stamp and verify response. Set Serial Number when requested. Use Enter/finished prompts to close the stage.
-Commands: CALON, CALDATE?, CALCHK, CALOFF, CLRPAR
+| Range | Low setpoint | High setpoint |
+|---|---|---|
+| L0 | 2.00 uH | 10.0 uH |
+| L1 | 40.0 uH | 80.0 uH |
+| L2 | 200 uH | 1.50 mH |
+| L3 | 2.00 mH | 15.0 mH |
+| L4 | 20.0 mH | 150 mH |
+| L5 | 200 mH | 1.50 H |
+| L6 | 2.00 H | 8.00 H |
 
-48. Finish
-Power-cycle, disconnect fixtures in reverse order, and save report/transcript. Recovered post-flow hint: remove UUT from tester and proceed to next UUT.
-Commands: VER#?, SER#?, CALDATE?
+Reference actuals used by profile:
+- L0: `2.36E-6` / `10.32E-6`
+- L1: `37.14E-6` / `79.00E-6`
+- L2: `198.08E-6` / `1.4950E-3`
+- L3: `1.9983E-3` / `14.964E-3`
+- L4: `19.952E-3` / `149.42E-3`
+- L5: `0.19894` / `1.49680`
+- L6: `1.9948` / `8.1361`
+
+### 4.10 Leakage voltage calibration + leakage voltage test
+
+30. Keep UUT in final test box leakage path.
+31. Run leakage voltage calibration stage.
+32. Run leakage voltage test stage.
+33. Fixture path must support these points: `1, 16, 32, 33, 500, 1000 V`.
+
+### 4.11 D/A stage
+
+34. Switch fixture to D/A standards.
+35. Run D/A test for:
+   - LS7 = `0% D/A`
+   - LS8 = `10% D/A`
+36. Continue only on pass.
+
+### 4.12 Leakage current stage
+
+37. Run leakage current stage with sense paths:
+   - `1.111M`, `100k`, `10k`, `1k`
+38. Confirm pass window behavior `0.937 .. 1.06`.
+
+### 4.13 Ringer trim stage
+
+39. Connect UUT leads to small ringer cal box.
+40. Set ringer box to `Yolks/Flybacks`, adjust `R1144` to ring count shown on the box.
+41. Switch ringer box to `Switching Transformers`, adjust `R1005` to ring count shown on the box.
+
+### 4.14 Finalize
+
+42. Save/write calibration stamp/date/serial if required.
+43. Power-cycle unit.
+44. Export/backup calibration data.
+
+## 5) If you do NOT have the original Final Test Box
+
+You cannot safely run full write calibration until your DIY fixture reproduces:
+
+- the full LS matrix values,
+- leakage-current sense network values,
+- leakage voltage source points,
+- D/A standard switching,
+- cap/ind standard routing,
+- ringer reference path.
+
+Minimum safe workflow without full fixture:
+- run read-only connectivity/tests,
+- run lead checks,
+- do not run write-enabled CAL stages.
+
+## 6) Known hard limits (not yet decoded from static files)
+
+- Full factory Final Test Box netlist/pinout is not fully recovered.
+- Complete per-index `CALSET` payload semantics are not fully recovered.
+
+These two limits do not change the concrete parts/values listed above, but they do matter if you are building a perfect clone fixture.
