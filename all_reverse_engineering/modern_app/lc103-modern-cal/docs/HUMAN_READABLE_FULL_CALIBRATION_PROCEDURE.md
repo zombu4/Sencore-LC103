@@ -156,14 +156,14 @@ You need either the original LC103 Final Test Box or a compatible box that provi
 | C5 | 40.0 uF | 180 uF |
 | C6 | 400 uF | 1800 uF |
 
-Reference actuals used by profile:
-- C0: `202.7E-12` / `1704.0E-12`
-- C1: `0.004E-6` / `0.018E-6`
-- C2: `0.04E-6` / `0.18E-6`
-- C3: `0.4E-6` / `1.765E-6`
-- C4: `3.849E-6` / `19.580E-6`
-- C5: `38.20E-6` / `171.21E-6`
-- C6: `381.04E-6` / `1709.20E-6`
+Reference actuals used by profile (decoded into bench units):
+- C0: low `202.7E-12 F = 202.7 pF`, high `1704.0E-12 F = 1704 pF (1.704 nF)`
+- C1: low `0.004E-6 F = 0.004 uF (4 nF)`, high `0.018E-6 F = 0.018 uF (18 nF)`
+- C2: low `0.04E-6 F = 0.04 uF (40 nF)`, high `0.18E-6 F = 0.18 uF (180 nF)`
+- C3: low `0.4E-6 F = 0.4 uF`, high `1.765E-6 F = 1.765 uF`
+- C4: low `3.849E-6 F = 3.849 uF`, high `19.580E-6 F = 19.58 uF`
+- C5: low `38.20E-6 F = 38.2 uF`, high `171.21E-6 F = 171.21 uF`
+- C6: low `381.04E-6 F = 381.04 uF`, high `1709.20E-6 F = 1709.2 uF (1.7092 mF)`
 
 ### 4.8 ESR calibration
 
@@ -188,14 +188,14 @@ Reference actuals used by profile:
 | L5 | 200 mH | 1.50 H |
 | L6 | 2.00 H | 8.00 H |
 
-Reference actuals used by profile:
-- L0: `2.36E-6` / `10.32E-6`
-- L1: `37.14E-6` / `79.00E-6`
-- L2: `198.08E-6` / `1.4950E-3`
-- L3: `1.9983E-3` / `14.964E-3`
-- L4: `19.952E-3` / `149.42E-3`
-- L5: `0.19894` / `1.49680`
-- L6: `1.9948` / `8.1361`
+Reference actuals used by profile (decoded into bench units):
+- L0: low `2.36E-6 H = 2.36 uH`, high `10.32E-6 H = 10.32 uH`
+- L1: low `37.14E-6 H = 37.14 uH`, high `79.00E-6 H = 79.00 uH`
+- L2: low `198.08E-6 H = 198.08 uH`, high `1.4950E-3 H = 1.4950 mH`
+- L3: low `1.9983E-3 H = 1.9983 mH`, high `14.964E-3 H = 14.964 mH`
+- L4: low `19.952E-3 H = 19.952 mH`, high `149.42E-3 H = 149.42 mH`
+- L5: low `0.19894 H = 198.94 mH`, high `1.49680 H = 1.49680 H`
+- L6: low `1.9948 H = 1.9948 H`, high `8.1361 H = 8.1361 H`
 
 ### 4.10 Leakage voltage calibration + leakage voltage test
 
