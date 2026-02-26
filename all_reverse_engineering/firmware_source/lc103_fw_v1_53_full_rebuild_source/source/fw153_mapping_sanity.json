@@ -1,0 +1,8 @@
+{
+  "function_count": 258,
+  "instruction_rows": 79626,
+  "region_blocks": 512,
+  "annotated_listing": "/Users/dominiquewiener/LC103_REVERSE_ENGINEERING_REPO/all_reverse_engineering/firmware_source/lc103_fw_v1_53_full_rebuild_source/source/fw153_full_source_annotated.lst",
+  "function_map_csv": "/Users/dominiquewiener/LC103_REVERSE_ENGINEERING_REPO/all_reverse_engineering/firmware_source/lc103_fw_v1_53_full_rebuild_source/source/fw153_function_map.csv",
+  "region_map_csv": "/Users/dominiquewiener/LC103_REVERSE_ENGINEERING_REPO/all_reverse_engineering/firmware_source/lc103_fw_v1_53_full_rebuild_source/source/fw153_region_map_0x100.csv"
+}

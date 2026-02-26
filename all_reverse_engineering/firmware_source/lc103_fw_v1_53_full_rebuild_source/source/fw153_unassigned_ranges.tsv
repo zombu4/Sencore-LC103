@@ -1,0 +1,2 @@
+start_hex	end_hex	size	note
+0x10000	0x10015	22	not in call-target-derived function set (likely vector/padding/data)

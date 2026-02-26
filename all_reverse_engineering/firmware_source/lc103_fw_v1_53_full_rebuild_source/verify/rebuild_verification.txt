@@ -1,0 +1,12 @@
+LC103 FW v1.53 Full Source Rebuild Verification
+Input firmware: input/firmware.bin
+Input size: 131072
+Rebuilt size: 131072
+Covered bytes from listing: 131072
+Coverage ratio: 1.000000
+Overlap conflicts: 0
+Input SHA256:  a76c27fd38aa190e4e4f03fedf5a8a57484d542521e18181ffe15606fb5079e0
+Rebuilt SHA256:a76c27fd38aa190e4e4f03fedf5a8a57484d542521e18181ffe15606fb5079e0
+Byte-identical: True
+Bank0 SHA256: de04ebdf0571340f85da54d3d0f670ca32c26a4a32eb984e01132a12353dad7d
+Bank1 SHA256: c0ffa7aac54dfbcb1d7a75d74b2b9b178d462a4f0b764c231e0d435d936eec99

@@ -1,0 +1,18 @@
+{
+  "input_firmware": "input/firmware.bin",
+  "input_size": 131072,
+  "rebuilt_size": 131072,
+  "covered_bytes_from_listing": 131072,
+  "coverage_ratio": 1.0,
+  "overlap_conflicts": 0,
+  "input_sha256": "a76c27fd38aa190e4e4f03fedf5a8a57484d542521e18181ffe15606fb5079e0",
+  "rebuilt_sha256": "a76c27fd38aa190e4e4f03fedf5a8a57484d542521e18181ffe15606fb5079e0",
+  "byte_identical": true,
+  "bank0_sha256": "de04ebdf0571340f85da54d3d0f670ca32c26a4a32eb984e01132a12353dad7d",
+  "bank1_sha256": "c0ffa7aac54dfbcb1d7a75d74b2b9b178d462a4f0b764c231e0d435d936eec99",
+  "notes": [
+    "Listing-driven rebuild succeeded.",
+    "Use fw153_full_source.lst/csv for editable source-equivalent workflow.",
+    "For targeted edits, patch offsets then regenerate checksums as required by flashing workflow."
+  ]
+}
