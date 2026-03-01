@@ -3,3 +3,5 @@
 # local temp directories
 tmp/
 **/tmp/
+
+PUBLISH_TO_GITHUB.md
